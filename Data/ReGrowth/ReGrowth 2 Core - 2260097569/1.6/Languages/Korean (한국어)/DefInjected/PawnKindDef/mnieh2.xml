@@ -10,4 +10,7 @@
   <RG_Hemolope.label>혈액사슴</RG_Hemolope.label>
   <RG_Hemolope.lifeStages.0.label>새끼 혈액사슴</RG_Hemolope.lifeStages.0.label>
   <RG_Hemolope.lifeStages.0.labelPlural>새끼 혈액사슴들</RG_Hemolope.lifeStages.0.labelPlural>
+  <RG_WoollyStegosaurus.label>털복숭이 스테고사우루스</RG_WoollyStegosaurus.label>
+  <RG_WoollyStegosaurus.lifeStages.0.label>새끼 털복숭이 스테고사우르스</RG_WoollyStegosaurus.lifeStages.0.label>
+  <RG_Rimclaw.label>림클로</RG_Rimclaw.label>
 </LanguageData>

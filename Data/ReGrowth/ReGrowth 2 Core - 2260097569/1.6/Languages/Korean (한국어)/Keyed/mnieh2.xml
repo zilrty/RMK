@@ -4,11 +4,10 @@
   <RG.SpawnLeaves>사시나무 잎사귀 효과를 활성화합니다.</RG.SpawnLeaves>
   <RG.ColdFog>차가운 안개</RG.ColdFog>
   <RG.IceLayer>얼음층</RG.IceLayer>
-  <RG.RainWaterPuddles>빗물 웅덩이</RG.RainWaterPuddles>
+  <RG.RainWaterPuddles>물 웅덩이를 활성화합니다.</RG.RainWaterPuddles>
   <RG.RainCleanWaterPuddles>깨끗한 물 웅덩이</RG.RainCleanWaterPuddles>
   <RG.FogVelocity>안개 속도</RG.FogVelocity>
   <RG.FogTemp>안개 온도</RG.FogTemp>
-  <RG.PuddleChance>웅덩이 생성 확률</RG.PuddleChance>
   <RG.SpawnFogOnHotSprings>온천에 안개 효과를 활성화합니다.</RG.SpawnFogOnHotSprings>
   <RG.SandDevilLeftTheMap>회오리폭풍이 현재 지역을 떠났습니다.</RG.SandDevilLeftTheMap>
   <RG.SandDevilDissipated>회오리폭풍이 소멸했습니다.</RG.SandDevilDissipated>
@@ -103,4 +102,37 @@
   <RG.BathingGroup>목욕 중</RG.BathingGroup>
   <SmartFarming.Settings.Enabled>활성화</SmartFarming.Settings.Enabled>
   <SmartFarming.Settings.Enabled.Desc>스마트 농업을 활성화합니다.</SmartFarming.Settings.Enabled.Desc>
+  <RG.ToggleWorldMapBeautification>세계 지도 미화 전환</RG.ToggleWorldMapBeautification>
+  <RG.Enable>{0} 사용</RG.Enable>
+  <SmartFarming.Icon.ConfirmMergeZones>이 구역들을 합치시겠습니까? 이 작업은 되돌릴 수 없습니다.</SmartFarming.Icon.ConfirmMergeZones>
+  <ScatteredFlames.Settings.DisableAll>높은 성능의 바닐라 불꽃만 원하신다면, 아래 기능을 모두 비활성화하십시오.</ScatteredFlames.Settings.DisableAll>
+  <ScatteredFlames.Settings.MultiFlames>다중 불꽃 그래픽 사용</ScatteredFlames.Settings.MultiFlames>
+  <ScatteredFlames.Settings.MultiFlames.Desc>활성화하면 하나의 타일에 여러 불꽃이 표시될 수 있습니다. 외형만 바뀌며, 기계적으로는 여전히 불꽃 1개처럼 작동합니다.</ScatteredFlames.Settings.MultiFlames.Desc>
+  <ScatteredFlames.Settings.SpecialFX>파티클 효과 사용</ScatteredFlames.Settings.SpecialFX>
+  <ScatteredFlames.Settings.SpecialFX.Desc>산불이 튀는 불꽃 같은 특수 효과를 내도록 허용합니다.</ScatteredFlames.Settings.SpecialFX.Desc>
+  <ScatteredFlames.Settings.Smoke>연기 사용</ScatteredFlames.Settings.Smoke>
+  <ScatteredFlames.Settings.Smoke.Desc>Simple FX: Smoke가 설치되어 있다면, 활성화 시 산불이 연기를 내며 현재 바람의 속도와 방향을 따릅니다.</ScatteredFlames.Settings.Smoke.Desc>
+  <ScatteredFlames.Settings.OptimizeShadows>그림자 최적화</ScatteredFlames.Settings.OptimizeShadows>
+  <ScatteredFlames.Settings.OptimizeShadows.Desc>활성화하면, 현재 불타는 대상은 그림자를 생성하지 않습니다.</ScatteredFlames.Settings.OptimizeShadows.Desc>
+  <ScatteredFlames.Settings.FireWatcher>불 감시 비활성화</ScatteredFlames.Settings.FireWatcher>
+  <ScatteredFlames.Settings.FireWatcher.Desc>보통 산불이 한동안 통제 불능으로 번지면, 스토리텔러가 비를 내리게 합니다. 여기서 이 기능을 끌 수 있습니다.</ScatteredFlames.Settings.FireWatcher.Desc>
+  <ScatteredFlames.ReloadRequired>이 항목들은 저장 파일을 다시 불러와야 적용됩니다(게임 전체를 재시작할 필요는 없습니다).</ScatteredFlames.ReloadRequired>
+  <ScatteredFlames.ReloadHeader>재시작 필요</ScatteredFlames.ReloadHeader>
+  <ScatteredFlames.Settings.Header.Graphics>그래픽:</ScatteredFlames.Settings.Header.Graphics>
+  <ScatteredFlames.Settings.Header.Misc>기타:</ScatteredFlames.Settings.Header.Misc>
+  <ScatteredFlames.Ignite.Label>점화</ScatteredFlames.Ignite.Label>
+  <ScatteredFlames.Ignite.Desc>대상에 불을 붙입니다.</ScatteredFlames.Ignite.Desc>
+  <ScatteredFlames.Ignite.Scared>이 정착민은 불을 무서워합니다.</ScatteredFlames.Ignite.Scared>
+  <ScatteredFlames.Settings.IgniteGizmo>점화 버튼 사용</ScatteredFlames.Settings.IgniteGizmo>
+  <ScatteredFlames.Settings.IgniteGizmo.Desc>정착민에게 “점화” 버튼을 추가하여, 습격자가 하듯 수동으로 불을 지를 수 있게 합니다.</ScatteredFlames.Settings.IgniteGizmo.Desc>
+  <RG.EnableScatteredFlames>흩어진 불꽃 사용</RG.EnableScatteredFlames>
+  <RG.EnableScatteredFlames.Desc>흩어진 불꽃 시각 효과를 켜거나 끕니다. (기본값: True)</RG.EnableScatteredFlames.Desc>
+  <RG.RainWaterPuddles.Desc>비가 올 때 물 웅덩이가 생성되도록 켜거나 끕니다.</RG.RainWaterPuddles.Desc>
+  <RG.RainCleanWaterPuddles.Desc>주거 구역의 물 웅덩이를 청소하도록 켜거나 끕니다.</RG.RainCleanWaterPuddles.Desc>
+  <RG.PuddlesPerTickNormal>틱당 웅덩이 수(보통 속도)</RG.PuddlesPerTickNormal>
+  <RG.PuddlesPerTickNormal.Desc>보통 게임 속도에서 비가 오는 동안 매 틱 생성될 웅덩이의 수입니다. 웅덩이가 너무 많이 생성되면 최대치에 도달할 때까지 끊김이 발생할 수 있으며, 특히 더 높은 게임 속도에서 두드러집니다. (기본값 {0})</RG.PuddlesPerTickNormal.Desc>
+  <RG.PuddlesPerTickFast>틱당 웅덩이 수(빠른 속도)</RG.PuddlesPerTickFast>
+  <RG.PuddlesPerTickFast.Desc>빠른 게임 속도에서 비가 오는 동안 매 틱 생성될 웅덩이의 수입니다. 웅덩이가 너무 많이 생성되면 최대치에 도달할 때까지 끊김이 발생할 수 있으며, 특히 더 높은 게임 속도에서 두드러집니다. (기본값 {0})</RG.PuddlesPerTickFast.Desc>
+  <RG.PuddlesPerTickUltrafast>틱당 웅덩이 수(초고속+)</RG.PuddlesPerTickUltrafast>
+  <RG.PuddlesPerTickUltrafast.Desc>초고속(또는 그 이상) 게임 속도에서 비가 오는 동안 매 틱 생성될 웅덩이의 수입니다. 웅덩이가 너무 많이 생성되면 최대치에 도달할 때까지 끊김이 발생할 수 있으며, 특히 더 높은 게임 속도에서 두드러집니다. (기본값 {0})</RG.PuddlesPerTickUltrafast.Desc>
 </LanguageData>
