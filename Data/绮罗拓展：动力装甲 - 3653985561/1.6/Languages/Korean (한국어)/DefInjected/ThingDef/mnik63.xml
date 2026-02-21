@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=绮罗通用作战装甲-->
+  <Kiiro_PA_BasicI.label>키이로 범용 전투 갑옷</Kiiro_PA_BasicI.label>
+  <!--Original=性能均衡,可以让绮罗进行隐藏-->
+  <Kiiro_PA_BasicI.description>성능이 균형 잡혀 있으며, 키이로가 은밀하게 움직이는 데 도움이 됩니다.</Kiiro_PA_BasicI.description>
+  <!--Original=绮罗机械领主装甲-->
+  <Kiiro_PA_AdvancedI.label>키이로 기계군주 갑옷</Kiiro_PA_AdvancedI.label>
+  <!--Original=绮罗机械师专用的作战装甲,大幅度扩展了带宽上限,不过装甲体积也随之增加-->
+  <Kiiro_PA_AdvancedI.description>키이로 메카나이터 전용 전투 갑옷입니다. 대역폭 상한을 대폭 확장해주지만, 그만큼 장갑의 부피도 증가했습니다.</Kiiro_PA_AdvancedI.description>
+  <!--Original=绮罗支援护卫装甲-->
+  <Kiiro_PA_AdvancedII.label>키이로 지원 호위 갑옷</Kiiro_PA_AdvancedII.label>
+  <!--Original=重型作战装甲,笨重但坚固-->
+  <Kiiro_PA_AdvancedII.description>중형 전투 갑옷입니다. 둔중하지만 튼튼합니다.</Kiiro_PA_AdvancedII.description>
+  <!--Original=绮罗强袭先锋装甲-->
+  <Kiiro_PA_BasicIII.label>키이로 강습 선봉 갑옷</Kiiro_PA_BasicIII.label>
+  <!--Original=近距离作战特化装甲,舍弃了部分防御力,可以让绮罗进行隐藏-->
+  <Kiiro_PA_BasicIII.description>근접 전투에 특화된 갑옷입니다. 방호력을 다소 희생하는 대신, 키이로가 은밀하게 움직이는 데 도움이 됩니다.</Kiiro_PA_BasicIII.description>
+  <!--Original=绮罗勇者作战装甲-->
+  <Kiiro_PA_BraveI.label>키이로 용사 전투 갑옷</Kiiro_PA_BraveI.label>
+  <!--Original=由勇者装备改装而成，能强化穿戴者作战能力，只有英勇强大的绮罗可以发挥出其全部潜力-->
+  <Kiiro_PA_BraveI.description>용사 갑옷을 개조해 만든 이 갑옷은 착용자의 전투 능력을 강화합니다. 오직 용맹하고 강력한 키이로만이 이 갑옷의 잠재력을 온전히 끌어낼 수 있습니다.</Kiiro_PA_BraveI.description>
+  <!--Original=绮罗通用作战头盔-->
+  <Kiiro_PAH_BasicI.label>키이로 범용 전투 헬멧</Kiiro_PAH_BasicI.label>
+  <!--Original=为头部提供全方位的防护-->
+  <Kiiro_PAH_BasicI.description>머리 부분에 전방위적인 보호를 제공합니다.</Kiiro_PAH_BasicI.description>
+  <!--Original=绮罗神射手头盔-->
+  <Kiiro_PAH_BasicII.label>키이로 명사수 헬멧</Kiiro_PAH_BasicII.label>
+  <!--Original=外置辅助瞄准装置-->
+  <Kiiro_PAH_BasicII.description>외부 조준 보조 장치가 장착되어 있습니다.</Kiiro_PAH_BasicII.description>
+  <!--Original=绮罗机械领主头盔-->
+  <Kiiro_PAH_AdvancedI.label>키이로 기계군주 헬멧</Kiiro_PAH_AdvancedI.label>
+  <!--Original=大幅度扩展了带宽上限-->
+  <Kiiro_PAH_AdvancedI.description>대역폭 상한을 대폭 확장해줍니다.</Kiiro_PAH_AdvancedI.description>
+  <!--Original=绮罗勇者作战头盔-->
+  <Kiiro_PAH_BraveI.label>키이로 용사 전투 헬멧</Kiiro_PAH_BraveI.label>
+  <!--Original=由勇者头冠改装而成，能激励周围成员-->
+  <Kiiro_PAH_BraveI.description>용사 티아라를 개조해 만든 것으로, 주변 아군을 격려합니다.</Kiiro_PAH_BraveI.description>
+</LanguageData>

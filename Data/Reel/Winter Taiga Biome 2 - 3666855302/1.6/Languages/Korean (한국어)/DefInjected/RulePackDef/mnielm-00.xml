@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerWinterTaiga.rulePack.rulesStrings>
+    <li>r_name(p=0.35)-&gt;[taiga_adjective] [narrative_name]</li>
+    <li>r_name(p=0.25)-&gt;[narrative_name] [taiga_terrain]</li>
+    <li>r_name(p=0.15)-&gt;[taiga_adjective] [taiga_terrain]</li>
+    <li>taiga_adjective(p=2)-&gt;얼어붙은</li>
+    <li>taiga_adjective(p=2)-&gt;설원에 갇힌</li>
+    <li>taiga_adjective(p=2)-&gt;얼음바람에 시달리는</li>
+    <li>taiga_adjective-&gt;아한대</li>
+    <li>taiga_adjective-&gt;백송의</li>
+    <li>taiga_adjective-&gt;서리 맞은</li>
+    <li>taiga_adjective-&gt;항상 푸른</li>
+    <li>taiga_adjective-&gt;침엽수 그늘의</li>
+    <li>taiga_adjective-&gt;바람에 깎인</li>
+    <li>taiga_adjective-&gt;고요한</li>
+    <li>taiga_adjective-&gt;흰 서리</li>
+    <li>taiga_adjective-&gt;혹한에 시달린</li>
+    <li>taiga_adjective-&gt;추위에 잠긴</li>
+    <li>taiga_adjective-&gt;눈덮힌</li>
+    <li>taiga_adjective-&gt;냉기어린</li>
+    <li>taiga_terrain(p=3)-&gt;타이가</li>
+    <li>taiga_terrain(p=3)-&gt;아한대림</li>
+    <li>taiga_terrain(p=2)-&gt;서리숲</li>
+    <li>taiga_terrain(p=2)-&gt;침엽수림</li>
+    <li>taiga_terrain(p=2)-&gt;상록림</li>
+    <li>taiga_terrain(p=2)-&gt;소나무숲</li>
+    <li>taiga_terrain-&gt;눈덮힌 숲</li>
+    <li>taiga_terrain-&gt;얼어붙은 골짜기</li>
+    <li>taiga_terrain-&gt;차가운 숲</li>
+    <li>taiga_terrain-&gt;겨울 숲</li>
+    <li>taiga_terrain-&gt;전나무 덤불</li>
+    <li>taiga_terrain-&gt;눈덮힌 언덕</li>
+    <li>taiga_terrain-&gt;얼어붙은 언덕</li>
+    <li>taiga_terrain-&gt;서리낀 저지대</li>
+    <li>taiga_terrain-&gt;하얀 숲</li>
+  </NamerWinterTaiga.rulePack.rulesStrings>
+</LanguageData>

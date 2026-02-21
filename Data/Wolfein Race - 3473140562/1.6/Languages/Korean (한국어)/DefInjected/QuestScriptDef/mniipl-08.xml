@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Wolfein_BattleSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(sitePart==Wolfein_BattleSite_RebelSurround)-&gt;울페인 저항군의 암호화된 통신을 가로챘습니다. 메시지는 엄중히 암호화되어 있고 일부는 손상되어 있었지만, 해독된 몇몇 문구에 따르면 메가코프 병력의 소규모 분대를 성공적으로 포위했으며, 현재 교전이 벌어지고 있는 것으로 보입니다.\n\n메가코프 병력을 지원할 생각이든, 저항군이 승리하기를 기다렸다가 남은 전리품을 수거할 생각이든, 이 기회는 오래 지속되지 않을 것입니다.</li>
+    <li>questDescription(sitePart==Wolfein_BattleSite_Mechanoid)-&gt;울페인 저항군의 평문 통신을 가로챘습니다. 급하고 두서없는 문장으로 미루어보면, 메가코프 메카노이드의 대규모 병력에게 기습을 당하고 있는게 분명합니다. 인근의 반 메가코프 세력을 향해 지원 요청이 송출되었고, 상황은 임계점에 다다른 것으로 보입니다.\n\n당신이 이 저항군 집단에 원한이 있든, 혹은 메가코프가 승리한 뒤 도착해 남은 장비와 잔해를 수거할 생각이든, 이 기회는 오래 지속되지 않을 것입니다.</li>
+  </Wolfein_BattleSite.questDescriptionRules.rulesStrings>
+</LanguageData>

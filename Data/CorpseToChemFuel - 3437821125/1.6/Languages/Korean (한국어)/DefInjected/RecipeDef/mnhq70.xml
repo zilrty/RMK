@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RefineCorpseToChemFuel.label>화학연료 생산 (시체)</RefineCorpseToChemFuel.label>
+  <RefineCorpseToChemFuel.description>시체를 정제하여 화학연료를 생산합니다.</RefineCorpseToChemFuel.description>
+  <RefineCorpseToChemFuel.jobString>시체에서 화학연료 정제 중</RefineCorpseToChemFuel.jobString>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PolutionPoweredGenerator.label>폐기물 연료 발전기</PolutionPoweredGenerator.label>
+  <PolutionPoweredGenerator.description>독성 폐기물을 소비하여 전력을 생산합니다.</PolutionPoweredGenerator.description>
+  <PortablePolutionPoweredGenerator.label>휴대용 폐기물 연료 발전기</PortablePolutionPoweredGenerator.label>
+  <PortablePolutionPoweredGenerator.description>독성 폐기물을 소비하여 소량의 전력을 생산합니다. 이 발전기는 휴대할 수 있을 정도로 가볍습니다.</PortablePolutionPoweredGenerator.description>
+  <IndustrialPolutionPoweredGenerator.label>산업용 폐기물 연료 발전기</IndustrialPolutionPoweredGenerator.label>
+  <IndustrialPolutionPoweredGenerator.description>독성 폐기물을 소모하여 많은 전력을 생산합니다.</IndustrialPolutionPoweredGenerator.description>
+  <EW_WastePipe.label>독성 폐기물 배관</EW_WastePipe.label>
+  <EW_WastePipe.description>독성 폐기물을 저장 탱크로 운송하거나 폐기물 소비 구조물로 운송하기 위해 설계된 강철 배관입니다.</EW_WastePipe.description>
+  <EW_UndergroundWastePipe.label>매립 독성 폐기물 배관</EW_UndergroundWastePipe.label>
+  <EW_UndergroundWastePipe.description>독성 폐기물을 저장 탱크나 폐기물 소비 구조물로 운송하기 위해 설계된 지하에 매설된 강철 배관입니다.</EW_UndergroundWastePipe.description>
+  <EW_WasteValve.label>독성 폐기물 밸브</EW_WasteValve.label>
+  <EW_WasteValve.description>독성 폐기물을 연결/차단합니다.</EW_WasteValve.description>
+  <EW_WasteTank.label>독성 폐기물 탱크</EW_WasteTank.label>
+  <EW_WasteTank.description>독성 폐기물 배관을 통해 전달되는 독성 폐기물 저장 탱크입니다. 필요에 따라 탱크에서 사용 가능한 폐기물을 꺼낼 수 있습니다. \n\n탱크가 손상될 경우 주변에 인화성 액체를 흡뿌립니다. 탱크에 저장된 폐기물의 양에 따라 인화성 액체를 넓게 흩뿌립니다.</EW_WasteTank.description>
+  <EW_WasteTap.label>독성 폐기물 수도꼭지</EW_WasteTap.label>
+  <EW_WasteTap.description>탱크에서 사용 가능한 형태의 독성 폐기물을 배출합니다.</EW_WasteTap.description>
+  <EW_WasteBin.label>독성 폐기물 투입함</EW_WasteBin.label>
+  <EW_WasteBin.description>독성 폐기물을 탱크에 채웁니다.</EW_WasteBin.description>
+</LanguageData>

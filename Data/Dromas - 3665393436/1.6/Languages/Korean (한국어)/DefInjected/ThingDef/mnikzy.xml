@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Dromas.label>드로마스</Dromas.label>
+  <Dromas.description>트럼보만큼 크지만 코끼리처럼 온순하고 지능적인 드로마스는 엠포리어스 행성에서 유래한 대형 가축화된 용각류입니다.
+
+이들은 평화롭고 과묵하며 친절한 종족으로, 다양한 식물이나 특정 토양 혼합물을 먹습니다. 드로마스는 탈것이나 짐을 나르는 동물로 사용되었으며, 덩치와 강인함 덕분에 고대 전쟁에도 참여했지만, 자연적인 무기가 부족하여 공격보다는 방어에 더 적합합니다.
+
+드로마스는 일반적인 먹이를 찾을 수 없을 때 대부분의 돌덩이를 먹습니다.</Dromas.description>
+  <Dromas.tools.0.label>뿔</Dromas.tools.0.label>
+  <Dromas.tools.2.label>왼발</Dromas.tools.2.label>
+  <Dromas.tools.3.label>오른발</Dromas.tools.3.label>
+  <Dromas.tools.4.label>머리</Dromas.tools.4.label>
+  <EggDromasFertilized.label>드로마스 알 (수정됨)</EggDromasFertilized.label>
+  <EggDromasFertilized.description>수정된 드로마스 알입니다. 모든 것이 순조롭게 진행되면 아기 드로마스가 부화합니다. 먹을 수는 있지만, 정말 먹을 마음이 있으신가요?</EggDromasFertilized.description>
+  <EggDromasUnfertilized.label>드로마스 알 (손상됨)</EggDromasUnfertilized.label>
+  <EggDromasUnfertilized.description>손상된 드로마스 알. 날것으로 먹을 수도 있지만, 익혀 먹는 것이 훨씬 맛있습니다.</EggDromasUnfertilized.description>
+  <Leather_Dromas.label>드로마스 가죽</Leather_Dromas.label>
+  <Leather_Dromas.description>무두질하고 말린 후 긁어낸 드로마스 가죽. 전투에서 매우 뛰어난 내구성을 자랑하지만, 날씨로부터는 거의 보호해 주지 못합니다.</Leather_Dromas.description>
+</LanguageData>

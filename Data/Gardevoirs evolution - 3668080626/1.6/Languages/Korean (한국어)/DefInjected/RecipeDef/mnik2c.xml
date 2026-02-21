@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CVN_IronValiantARecipe.label>무쇠무인 A 배양</CVN_IronValiantARecipe.label>
+  <CVN_IronValiantARecipe.description>무쇠무인 메카노이드를 배양합니다.</CVN_IronValiantARecipe.description>
+  <CVN_IronValiantBRecipe.label>무쇠무인 B 배양</CVN_IronValiantBRecipe.label>
+  <CVN_IronValiantBRecipe.description>무쇠무인 메카노이드를 배양합니다.</CVN_IronValiantBRecipe.description>
+  <CVN_IronValiant.label>무쇠무인 배양</CVN_IronValiant.label>
+  <CVN_IronValiant.description>무쇠무인 메카노이드를 배양합니다.</CVN_IronValiant.description>
+  <CVN_IronValiant_Male.label>무쇠무인(남성) 배양</CVN_IronValiant_Male.label>
+  <CVN_IronValiant_Male.description>무쇠무인(남성) 메카노이드를 배양합니다.</CVN_IronValiant_Male.description>
+</LanguageData>

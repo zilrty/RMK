@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=装甲强化-->
+  <Combat_reinforcement.label>갑옷 강화</Combat_reinforcement.label>
+  <!--Original=装甲强化了穿戴者的身体机能-->
+  <Combat_reinforcement.description>갑옷이 착용자의 신체 기능을 강화합니다.</Combat_reinforcement.description>
+  <!--Original=装甲强化了穿戴者的身体机能-->
+  <Combat_reinforcement.descriptionShort>갑옷이 착용자의 신체 기능을 강화합니다.</Combat_reinforcement.descriptionShort>
+</LanguageData>

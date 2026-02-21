@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CVN_Growl.label>울음소리</CVN_Growl.label>
+  <CVN_Growl.description>울음소리에 의해 의식과 시력이 감소되었습니다.</CVN_Growl.description>
+  <CVN_Confused.label>혼란에 빠짐</CVN_Confused.label>
+  <CVN_Confused.description>혼란에 빠져 의식과 시력이 감소되었습니다.</CVN_Confused.description>
+  <CVN_Protected.label>보호됨</CVN_Protected.label>
+  <CVN_Protected.description>보호받아 거의 모든 피해를 흡수합니다.</CVN_Protected.description>
+  <CVN_Hypnosis.label>최면</CVN_Hypnosis.label>
+  <CVN_Hypnosis.description>최면에 빠져 지속시간동안 수면에 듭니다.</CVN_Hypnosis.description>
+  <CVN_Painsplit.label>아픔나누기</CVN_Painsplit.label>
+  <CVN_Painsplit.description>대상이 받는 피해를 공격자에게도 입힙니다.</CVN_Painsplit.description>
+  <Gardeleveltree.label>경험치</Gardeleveltree.label>
+  <Gardeleveltree.description>포켓몬의 성장과 축적된 경험을 나타내는 수치로, 증가함에 따라 새로운 능력과 능력치를 획득합니다.</Gardeleveltree.description>
+  <Gardeleveltree_Mech.label>경험치</Gardeleveltree_Mech.label>
+  <Gardeleveltree_Mech.description>포켓몬의 성장과 축적된 경험을 나타내는 수치로, 증가함에 따라 새로운 능력과 능력치를 획득합니다.</Gardeleveltree_Mech.description>
+  <gardevoirpowerpoints.label>파워포인트(PP)</gardevoirpowerpoints.label>
+  <gardevoirpowerpoints.description>포켓몬이 기술을 사용할 수 있게 하는 에너지입니다. 시간이 지나면 자동으로 회복됩니다.</gardevoirpowerpoints.description>
+  <gardevoirpowerpoints.comps.0.labelOverride>파워포인트(PP)</gardevoirpowerpoints.comps.0.labelOverride>
+</LanguageData>

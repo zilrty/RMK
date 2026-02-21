@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Plant_SnowPine.label>스노우파인 나무</Plant_SnowPine.label>
+  <Plant_SnowPine.description>가시 돋친 솔방울과 눈으로 뒤덮인 큰 침엽수입니다. 뚜렷한 원뿔형으로 자랍니다. \n\n&lt;color=#E5E54C&gt;게임플레이 효과:&lt;/color&gt; 스노우파인 나무는 혹독한 기후에서도 자랄 수 있습니다. 겨울 타이가 생물군계에서만 등장합니다.</Plant_SnowPine.description>
+  <Plant_ColdGrass.label>한랭초</Plant_ColdGrass.label>
+  <Plant_ColdGrass.description>야생 한랭초입니다. 약간의 빛과 최소한의 양분만 있다면 어디서나 자라는 야생 풀입니다.</Plant_ColdGrass.description>
+  <Plant_ColdPine.label>콜드파인 나무</Plant_ColdPine.label>
+  <Plant_ColdPine.description>가시 돋친 솔방울과 혹독한 추위에 견디는 잎을 지닌 큰 한랭 침엽수입니다. 뚜렷한 원뿔형으로 자라며, 강설 시 눈으로 덮입니다. \n\n&lt;color=#E5E54C&gt;게임플레이 효과:&lt;/color&gt; 콜드파인 나무는 혹독한 기후에서도 자랄 수 있으며, 겨울에는 눈 덮힌 나무로 변합니다. 겨울 타이가 생물군계에서만 등장합니다.</Plant_ColdPine.description>
+  <Plant_SnowBush.label>눈 관목</Plant_SnowBush.label>
+  <Plant_SnowBush.description>눈으로 뒤덮인 키 작은 관목입니다. 가끔 겨울에 눈을 맞는 게 싫다고 투덜댑니다!</Plant_SnowBush.description>
+  <Plant_SnowHealroot.label>야생 서리뿌리</Plant_SnowHealroot.label>
+  <Plant_SnowHealroot.description>천천히 자라는 식물로, 수확하면 생약을 얻을 수 있습니다.\n\n이 야생 품종의 치료뿌리는 재배종보다 더 강인하여, 한랭 환경에서 잘 자라고 혹독한 겨울 기후도 견뎌냅니다. 하지만 재배하기에는 너무 까다롭습니다. 추운 기후의 부족민들이 귀하게 여깁니다. \n\n&lt;color=#E5E54C&gt;게임플레이 효과:&lt;/color&gt; 서리뿌리는 일반 치료뿌리와 기능이 거의 같지만, 야생에서만 나타나며 추운 동안에도 자랍니다. 겨울 타이가 생물군계에서만 등장합니다.</Plant_SnowHealroot.description>
+  <Plant_ColdBush.label>한랭 관목</Plant_ColdBush.label>
+  <Plant_ColdBush.description>푸른빛이 도는 키 작은 관목입니다. 가끔 말을 걸기도 하는데, 그게 당신 머릿속 목소리만 아니라면 말이지요.</Plant_ColdBush.description>
+  <Plant_ColdBrambles.label>한랭 덩굴덤불</Plant_ColdBrambles.label>
+  <Plant_ColdBrambles.description>가시달린 줄기 여럿이 복잡하게 얽힌 군집체입니다. 덩굴덤불은 무리로 자라며, 그 위를 지나는 이의 이동을 느리게 합니다.</Plant_ColdBrambles.description>
+  <Plant_Wintercap.label>윈터캡</Plant_Wintercap.label>
+  <Plant_Wintercap.description>추위에 적응한 버섯으로, 한랭 기후에서 번성합니다. 윈터캡은 준수한 영양을 제공하며 날것으로 먹거나 요리해 식사로 만들 수 있습니다.\n\n날것으로 섭취하면 일시적으로 온도 저항이 증가하고, 자연적인 열 방호막 층을 부여합니다. 버섯을 요리하면 이러한 보호 성질이 파괴되어 영양 가치만 남습니다. \n\n&lt;color=#E5E54C&gt;게임플레이 효과:&lt;/color&gt; 윈터캡은 낮은 온도에서도 자랄 수 있으며, 섭취하면 열/한기 온도 저항을 부여하고 열 방어력을 제공합니다. 요리하면 효과를 잃습니다. 겨울 타이가 생물군계에서만 등장합니다.</Plant_Wintercap.description>
+  <RawWintercap.label>생 윈터캡</RawWintercap.label>
+  <RawWintercap.description>추위에 적응한 생 버섯입니다. 섭취하면 일시적으로 온도 저항을 부여합니다.\n\n&lt;color=#E5E54C&gt;게임플레이 효과:&lt;/color&gt; 윈터캡은 섭취하여 열/한기 온도 저항을 부여하고 열 방어력을 제공할 수 있습니다. 요리하면 효과를 잃습니다. 겨울 타이가 생물군계에서만 등장합니다.</RawWintercap.description>
+</LanguageData>

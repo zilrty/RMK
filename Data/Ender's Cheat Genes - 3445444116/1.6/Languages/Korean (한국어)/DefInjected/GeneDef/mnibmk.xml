@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CHEAT3.label>유전자 최적화 I</CHEAT3.label>
+  <CHEAT3.description>유전자를 미세하게 최적화합니다.</CHEAT3.description>
+  <CHEAT4.label>유전자 최적화 II</CHEAT4.label>
+  <CHEAT4.description>유전자를 소폭으로 최적화합니다.</CHEAT4.description>
+  <CHEAT5.label>유전자 최적화 III</CHEAT5.label>
+  <CHEAT5.description>유전자를 경미하게 최적화합니다.</CHEAT5.description>
+  <CHEAT10.label>유전자 최적화 IV</CHEAT10.label>
+  <CHEAT10.description>유전자를 최적화합니다.</CHEAT10.description>
+  <CHEAT15.label>유전자 최적화 V</CHEAT15.label>
+  <CHEAT15.description>유전자를 크게 최적화합니다.</CHEAT15.description>
+  <CHEAT20.label>유전자 통합</CHEAT20.label>
+  <CHEAT20.description>유전자를 통합합니다.</CHEAT20.description>
+  <CHEAT20A.label>초월입자 압축 DNA</CHEAT20A.label>
+  <CHEAT20A.description>유전자를 압축합니다.</CHEAT20A.description>
+</LanguageData>

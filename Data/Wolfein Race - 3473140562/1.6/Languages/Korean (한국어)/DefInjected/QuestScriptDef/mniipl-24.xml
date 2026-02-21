@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Wolfein_MegaCropShuttleCrashed.questDescriptionRules.rulesStrings>
+    <li>questDescription(sitePart==Wolfein_ShuttleCrashed)-&gt;정착민들이 연기를 뿜으며 하늘에서 추락하는 울페인 메가코프 수송선을 발견했습니다. 추락 지점에 도달하면, 메가코프의 잔존 장비를 회수하고 수송선에서 부품을 뜯어낼 수 있을지도 모릅니다.\n\n다만 저항군 세력이 추락 지점을 추적해 공격해올 수도 있으니, 주의해야합니다.</li>
+    <li>questDescription(sitePart==Wolfein_ShuttleCrashed_UnderAttack)-&gt;정착민들이 연기를 뿜으며 하늘에서 추락하는 울페인 메가코프 수송선을 발견했습니다. 추락 지점에 도달하면, 메가코프의 잔존 장비를 회수하고 수송선에서 부품을 뜯어낼 수 있을지도 모릅니다.\n\n다만 저항군 세력이 추락 지점을 추적해 공격해올 수도 있으니, 주의해야합니다.</li>
+  </Wolfein_MegaCropShuttleCrashed.questDescriptionRules.rulesStrings>
+</LanguageData>

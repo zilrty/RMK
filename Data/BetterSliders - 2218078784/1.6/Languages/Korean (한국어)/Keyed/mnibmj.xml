@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BetterSliders.DisplayStyle.Label>입력창 표시 방식</BetterSliders.DisplayStyle.Label>
+  <BetterSliders.DisplayStyles.Hover>가끔 표시</BetterSliders.DisplayStyles.Hover>
+  <BetterSliders.DisplayStyles.AlwaysOn>항상 표시</BetterSliders.DisplayStyles.AlwaysOn>
+  <BetterSliders.HysteresisBegin.Label>표시 시작 지점 설정</BetterSliders.HysteresisBegin.Label>
+  <BetterSliders.HysteresisEnd.Label>표시 종료 지점 설정</BetterSliders.HysteresisEnd.Label>
+  <BetterSliders.HysteresisView.Label>표시 지점 보기</BetterSliders.HysteresisView.Label>
+  <BetterSliders.Hysteresis.Calculate>계산</BetterSliders.Hysteresis.Calculate>
+  <BetterSliders.Hysteresis.View>보기</BetterSliders.Hysteresis.View>
+  <BetterSliders.Hysteresis.Hide>숨기기</BetterSliders.Hysteresis.Hide>
+  <BetterSliders.HysteresisLegend.Label>범례</BetterSliders.HysteresisLegend.Label>
+  <BetterSliders.HysteresisLegend.Begin>시작 지점</BetterSliders.HysteresisLegend.Begin>
+  <BetterSliders.HysteresisLegend.End>종료 지점</BetterSliders.HysteresisLegend.End>
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CVN_Growl.label>울음소리</CVN_Growl.label>
+  <CVN_Growl.description>귀여운 울음소리를 들려주고 관심을 끌어 대상의 경계를 누그러뜨리며 약화시킵니다.</CVN_Growl.description>
+  <CVN_Protect.label>방어</CVN_Protect.label>
+  <CVN_Protect.description>자신에게 사이킥 에너지를 집중해 얇지만 극도로 밀도 높은 층을 형성합니다. 이 보호막은 대부분의 피해를 차단합니다.</CVN_Protect.description>
+  <CVN_Confusion.label>염동력</CVN_Confusion.label>
+  <CVN_Confusion.description>대상의 약한 염동력을 보내 공격합니다. 대상은 짧은 시간 동안 의식과 시야가 저하됩니다.</CVN_Confusion.description>
+  <CVN_DrainingKiss.label>드레인키스</CVN_DrainingKiss.label>
+  <CVN_DrainingKiss.description>키스로 상대의 체력를 흡수합니다. 이 기술로 가한 대미지의 절반만큼 체력을 회복합니다.</CVN_DrainingKiss.description>
+  <CVN_Hypnosis.label>최면술</CVN_Hypnosis.label>
+  <CVN_Hypnosis.description>졸음을 유도하는 암시를 걸어서 상대의 의식을 잃게 만듭니다. 이 상태는 잠시 동안 지속됩니다.</CVN_Hypnosis.description>
+  <CVN_DreamEater.label>꿈먹기</CVN_DreamEater.label>
+  <CVN_DreamEater.description>상대의 꿈을 먹어 공격하며 자신의 체력을 회복합니다. 무의식 상태의 대상에게만 사용 가능합니다.</CVN_DreamEater.description>
+  <CVN_Teleport.label>텔레포트 (짧은 거리)</CVN_Teleport.label>
+  <CVN_Teleport.description>대상을 너무 멀지 않은 곳으로 순간이동시킵니다. 일정 크기 이상의 물체는 지정할 수 없습니다.</CVN_Teleport.description>
+  <CVN_TeleportFar.label>텔레포트 (먼 거리)</CVN_TeleportFar.label>
+  <CVN_TeleportFar.description>시전자 본인과 근처의 동료들을 먼 지역의 아군 근처로 공간도약시킵니다. 행성 전체를 가로지를 수 있지만 아군이 있는 곳으로만 갈 수 있습니다. 동료들은 항상 시전자 근처 무작위 위치에 나타납니다.</CVN_TeleportFar.description>
+  <CVN_Psybeam.label>환상빔</CVN_Psybeam.label>
+  <CVN_Psybeam.description>이상한 광선을 상대에게 두 차례 발사하여 공격합니다. 적중한 대상은 화상을 입습니다.</CVN_Psybeam.description>
+  <CVN_TripleAxel.label>트리플악셀</CVN_TripleAxel.label>
+  <CVN_TripleAxel.description>3회 연속으로 킥을 날려 공격합니다. 적중한 대상에게는 동상을 입힙니다.</CVN_TripleAxel.description>
+  <CVN_Psychic.label>사이코키네시스</CVN_Psychic.label>
+  <CVN_Psychic.description>강한 염동력을 상대에게 보내어 공격합니다.</CVN_Psychic.description>
+  <CVN_Charm.label>애교부리기</CVN_Charm.label>
+  <CVN_Charm.description>귀엽게 바라보고 방심을 유도하여 대상은 잠시동안 무력화되고 아무 행동을 할 수 없습니다.</CVN_Charm.description>
+  <CVN_DazzlingGleam.label>매지컬샤인</CVN_DazzlingGleam.label>
+  <CVN_DazzlingGleam.description>강력한 빛을 여러 차례 방출하여 큰 피해를 줍니다. 구체는 빠른 속도로 움직이며 적을 쫓아갑니다.</CVN_DazzlingGleam.description>
+  <CVN_PsychoCut.label>사이코커터</CVN_PsychoCut.label>
+  <CVN_PsychoCut.description>실체화시킨 마음의 칼날로 상대를 베어 가릅니다.</CVN_PsychoCut.description>
+  <CVN_AquaCutter.label>아쿠아커터</CVN_AquaCutter.label>
+  <CVN_AquaCutter.description>압력을 가한 물을 칼날처럼 분사해서 상대를 베어 가릅니다.</CVN_AquaCutter.description>
+  <CVN_LeafBlade.label>리프블레이드</CVN_LeafBlade.label>
+  <CVN_LeafBlade.description>잎사귀를 칼처럼 이용해 상대를 베어 공격합니다.</CVN_LeafBlade.description>
+  <CVN_PainSplit.label>아픔나누기</CVN_PainSplit.label>
+  <CVN_PainSplit.description>자신에게 사이킥 에너지를 둘러 자신을 공격한 대상에게 피해를 돌려줍니다. 방어와는 다르게 피해를 막아주진 않습니다.</CVN_PainSplit.description>
+  <CVN_Metranome.label>손가락흔들기</CVN_Metranome.label>
+  <CVN_Metranome.description>손가락을 흔들어 자신의 뇌를 자극해서 알고 있는 기술 중 어느 하나를 대상에게 날립니다.</CVN_Metranome.description>
+</LanguageData>

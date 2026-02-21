@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BurnWaste.label>독성 폐기물 소각</BurnWaste.label>
+  <BurnWaste.description>필요없는 독성 폐기물을 태워서 처분합니다.</BurnWaste.description>
+  <BurnWaste.jobString>소각 중</BurnWaste.jobString>
+</LanguageData>

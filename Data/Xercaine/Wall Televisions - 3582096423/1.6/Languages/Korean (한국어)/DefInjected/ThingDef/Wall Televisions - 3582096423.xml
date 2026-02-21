@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <XER_WallTubeTelevision.label>벽 음극선관 TV</XER_WallTubeTelevision.label>
+  <XER_WallTubeTelevision.description>움직이는 사진과 소리를 재생하는 음극선관 장치입니다. 이런 변방계에서도 구닥다리 송출기가 보내주는 시시한 프로그램은 잘 잡힙니다.</XER_WallTubeTelevision.description>
+  <XER_WallFlatscreenTelevision.label>벽 평면 TV</XER_WallFlatscreenTelevision.label>
+  <XER_WallFlatscreenTelevision.description>선명한 화면과 풍부한 색감을 지닌 고급 평면 텔레비전입니다. 고대 위성이나 널리 보급된 데이터 카드들의 신호를 송신합니다.</XER_WallFlatscreenTelevision.description>
+  <XER_WallMegascreenTelevision.label>벽 초대형 TV</XER_WallMegascreenTelevision.label>
+  <XER_WallMegascreenTelevision.description>고급스럽고 커다란 텔레비전입니다. 거대하면서도 선명한 화면이 거의 밖으로 튀어나올 듯 합니다. 고대 위성과 유비쿼터스 데이터 카드에서 신호를 송신합니다.</XER_WallMegascreenTelevision.description>
+</LanguageData>

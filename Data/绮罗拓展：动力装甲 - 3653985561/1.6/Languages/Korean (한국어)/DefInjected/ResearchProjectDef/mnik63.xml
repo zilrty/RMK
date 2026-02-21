@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=绮罗作战装甲-->
+  <Kiiro_PowerArmor_es1.label>키이로 전투 갑옷</Kiiro_PowerArmor_es1.label>
+  <!--Original=作战装甲能让绮罗在极端环境下作战,内置的机械骨骼能使穿戴者依旧保持灵活,-->
+  <Kiiro_PowerArmor_es1.description>키이로가 극한의 환경에서도 전투를 할 수 있게 해주는 전투 갑옷입니다. 내장된 외골격 덕분에 착용자는 여전히 민첩한 움직임을 유지할 수 있습니다.</Kiiro_PowerArmor_es1.description>
+  <!--Original=绮罗重型作战装甲-->
+  <Kiiro_PowerArmor_es2.label>키이로 중형 전투 갑옷</Kiiro_PowerArmor_es2.label>
+  <!--Original=这些装甲更加笨重且隐蔽性不佳，但是有着更好的防护能力-->
+  <Kiiro_PowerArmor_es2.description>이 갑옷들은 훨씬 더 무겁고 은밀함이 떨어지지만, 대신 더 뛰어난 방호력을 제공합니다.</Kiiro_PowerArmor_es2.description>
+</LanguageData>

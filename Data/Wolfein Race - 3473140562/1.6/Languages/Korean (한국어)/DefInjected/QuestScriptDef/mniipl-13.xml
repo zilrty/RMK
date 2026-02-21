@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Wolfein_HospitalityRefugee.questNameRules.rulesStrings>
+    <li>questName(lodgerCount==1)-&gt;[lodgerAdj] [asker_nameDef]</li>
+    <li>questName(lodgerCount==1)-&gt;[lodgerAdj] [lodgerSingle]</li>
+    <li>questName(p=2,lodgerCount&gt;=2)-&gt;[lodgerAdj] [lodgerPlural]</li>
+    <li>questName(lodgerCount&gt;=2)-&gt;[asker_nameDef](와)과 [lodgerAdj] [lodgerPlural]</li>
+    <li>questName(lodgerCount&gt;=2)-&gt;[asker_nameDef](와)과 [lodgerPlural]</li>
+    <li>athe-&gt;</li>
+    <li>athe-&gt;</li>
+    <li>lodgerAdj-&gt;지친</li>
+    <li>lodgerAdj-&gt;길잃은</li>
+    <li>lodgerAdj-&gt;궁핍한</li>
+    <li>lodgerAdj-&gt;가난한</li>
+    <li>lodgerAdj-&gt;절박한</li>
+    <li>lodgerAdj-&gt;슬픈</li>
+    <li>lodgerAdj-&gt;초췌한</li>
+    <li>lodgerAdj-&gt;절망한</li>
+    <li>lodgerAdj-&gt;무명의</li>
+    <li>lodgerAdj-&gt;쓸쓸한</li>
+    <li>lodgerAdj-&gt;버려진</li>
+    <li>lodgerSingle-&gt;여행자</li>
+    <li>lodgerSingle-&gt;난민</li>
+    <li>lodgerSingle-&gt;떠돌이</li>
+    <li>lodgerSingle-&gt;생존자</li>
+    <li>lodgerSingle-&gt;유랑자</li>
+    <li>lodgerSingle-&gt;방랑자</li>
+    <li>lodgerPlural-&gt;여행자들</li>
+    <li>lodgerPlural-&gt;난민들</li>
+    <li>lodgerPlural-&gt;떠돌이들</li>
+    <li>lodgerPlural-&gt;생존자들</li>
+    <li>lodgerPlural-&gt;유랑자들</li>
+    <li>lodgerPlural-&gt;방랑자들</li>
+  </Wolfein_HospitalityRefugee.questNameRules.rulesStrings>
+</LanguageData>

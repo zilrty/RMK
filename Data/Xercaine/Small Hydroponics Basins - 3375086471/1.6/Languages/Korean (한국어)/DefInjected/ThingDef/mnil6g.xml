@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HydroponicsBasin1x1c.label>수경재배기 (1x1)</HydroponicsBasin1x1c.label>
+  <HydroponicsBasin1x1c.description>실내에서 작물을 빠르게 길러냅니다. 전기가 끊기면 심어놓은 작물들이 죽습니다.</HydroponicsBasin1x1c.description>
+  <HydroponicsBasin2x1c.label>수경재배기 (2x1)</HydroponicsBasin2x1c.label>
+  <HydroponicsBasin2x1c.description>실내에서 작물을 빠르게 길러냅니다. 전기가 끊기면 심어놓은 작물들이 죽습니다.</HydroponicsBasin2x1c.description>
+  <HydroponicsBasin3x1c.label>수경재배기 (3x1)</HydroponicsBasin3x1c.label>
+  <HydroponicsBasin3x1c.description>실내에서 작물을 빠르게 길러냅니다. 전기가 끊기면 심어놓은 작물들이 죽습니다.</HydroponicsBasin3x1c.description>
+  <HydroponicsBasin.label>수경재배기 (4x1)</HydroponicsBasin.label>
+</LanguageData>
