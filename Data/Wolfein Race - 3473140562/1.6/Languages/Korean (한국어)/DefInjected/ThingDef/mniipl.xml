@@ -104,8 +104,6 @@
   <Wolfein_Beret.description>경량형, 챙이 없는 부드러운 모자로 단순한 디자인이 특징이며, 군용 및 일상 패션에서 흔히 볼 수 있습니다.</Wolfein_Beret.description>
   <Wolfein_HeadBandage.label>울페인 헤드 밴드</Wolfein_HeadBandage.label>
   <Wolfein_HeadBandage.description>미이라 코스프레에 매우 유용하며, 상처나 흉터를 가리려는 경우에도 약간 유용합니다.</Wolfein_HeadBandage.description>
-  <Wolfein_GazMask.label>울페인 가스 마스크</Wolfein_GazMask.label>
-  <Wolfein_GazMask.description>민감한 코와 입을 덮어 유독 가스로부터 보호합니다. 헤드 스트랩의 LED는 사용자에게 필터 교체 시기를 알려줍니다.</Wolfein_GazMask.description>
   <Wolfein_Helmet.label>울페인 군용 헬멧</Wolfein_Helmet.label>
   <Wolfein_Helmet.description>울페인 군대의 표준 헬멧으로 가스 마스크와 열감지 고글을 갖추고 있습니다. 이 고기술 장비로 인해 울페인 병사의 전투 효율성은 다른 종족보다 훨씬 높습니다.</Wolfein_Helmet.description>
   <Wolfein_PsionicCombatHelmet.label>울페인 사이오닉 전투 헬멧</Wolfein_PsionicCombatHelmet.label>
@@ -126,10 +124,10 @@
   <Wolfein_AIPTGunlink.description>메가코프의 최신 및 가장 진보된 알고리즘을 활용한 탄도 컴퓨터를 탑재한 울페인 AIPT 건링크는 사용자가 최고 수준의 정밀 사격을 달성할 수 있도록 지원합니다.</Wolfein_AIPTGunlink.description>
   <Wolfein_AIPTGoggle.label>울페인 AIPT 고글</Wolfein_AIPTGoggle.label>
   <Wolfein_AIPTGoggle.description>울페인 AIPT 고글은 단순한 인지 보호 프로그램을 탑재해 이상 현상 앞에서 착용자가 침착함을 유지하도록 돕고, 회사의 이익을 우선시 할수 있게 만듭니다.</Wolfein_AIPTGoggle.description>
-  <Wolfein_AIPTHeavyPowerArmorHelmet.label>울페인 AIPT 중형 파워 아머 헬멧</Wolfein_AIPTHeavyPowerArmorHelmet.label>
-  <Wolfein_AIPTHeavyPowerArmorHelmet.description>울페인 AIPT 중형 헬멧은 특수 부대 동료들이 착용하는 버전보다 화염 보호에 더 중점을 두어 착용자가 적과 함께 지옥으로 떨어지지 않도록 합니다.</Wolfein_AIPTHeavyPowerArmorHelmet.description>
-  <Wolfein_RebelHeavyPowerArmorHelmet.label>울페인 저항군 중형 파워 아머 헬멧</Wolfein_RebelHeavyPowerArmorHelmet.label>
-  <Wolfein_RebelHeavyPowerArmorHelmet.description>울페인 저항군이 사용하는 중형 파워 아머용 헬멧입니다. 제조 비용이 줄었지만 보호 기능도 감소되었습니다.</Wolfein_RebelHeavyPowerArmorHelmet.description>
+  <Wolfein_AIPTHeavyPowerArmorHelmet.label>울페인 AIPT 헤비 파워 아머 헬멧</Wolfein_AIPTHeavyPowerArmorHelmet.label>
+  <Wolfein_AIPTHeavyPowerArmorHelmet.description>울페인 AIPT 헤비 헬멧은 특수 부대 동료들이 착용하는 버전보다 화염 보호에 더 중점을 두어 착용자가 적과 함께 지옥으로 떨어지지 않도록 합니다.</Wolfein_AIPTHeavyPowerArmorHelmet.description>
+  <Wolfein_RebelHeavyPowerArmorHelmet.label>울페인 저항군 헤비 파워 아머 헬멧</Wolfein_RebelHeavyPowerArmorHelmet.label>
+  <Wolfein_RebelHeavyPowerArmorHelmet.description>울페인 저항군이 사용하는 헤비 파워 아머용 헬멧입니다. 제조 비용이 줄었지만 보호 기능도 감소되었습니다.</Wolfein_RebelHeavyPowerArmorHelmet.description>
   <Wolfein_ImperialGuardPowerArmorMask.label>울페인 제국 파워 아머 마스크</Wolfein_ImperialGuardPowerArmorMask.label>
   <Wolfein_ImperialGuardPowerArmorMask.description>울페인 부족은 옛날의 왕실 스타일 파워 아머 보호 마스크를 유지했으며, 눈 보호 부분에 뇌 신경 자극을 위한 부품이 장착되어 전투를 지원합니다.</Wolfein_ImperialGuardPowerArmorMask.description>
   <Wolfein_Dustcoat.label>울페인 바람막이</Wolfein_Dustcoat.label>
@@ -157,7 +155,7 @@
   <Wolfein_RedCombatSuit.label>울페인 레드 전투 슈트</Wolfein_RedCombatSuit.label>
   <Wolfein_RedCombatSuit.description>스텔스 기술과 고효율 전술 기능을 통합한 특수 전투 슈트로, 특수 훈련을 받은 울페인만이 비밀 작전 시 착용합니다.</Wolfein_RedCombatSuit.description>
   <Wolfein_RebelDustproofCloak.label>울페인 저항군 방진 망토</Wolfein_RebelDustproofCloak.label>
-  <Wolfein_RebelDustproofCloak.description>울페인 저항군 군복과 함께 착용되는 어깨 망토로, 저항군 내 고위 계급 병사들이 표준 복장 일부로 장비합니다.</Wolfein_RebelDustproofCloak.description>
+  <Wolfein_RebelDustproofCloak.description>울페인 저항군복과 함께 착용되는 어깨 망토로, 저항군 내 고위 계급 병사들이 표준 복장 일부로 장비합니다.</Wolfein_RebelDustproofCloak.description>
   <Wolfein_RebelPowerArmor.label>울페인 저항군 파워 아머</Wolfein_RebelPowerArmor.label>
   <Wolfein_RebelPowerArmor.description>울페인 스카우트 파워 아머를 개조한 것으로, 재료 비용이 감소했지만 안정성과 보호 성능이 약간 감소했습니다.</Wolfein_RebelPowerArmor.description>
   <Wolfein_RebelHeavyPowerArmor.label>울페인 저항군 헤비 파워 아머</Wolfein_RebelHeavyPowerArmor.label>
@@ -176,11 +174,11 @@
   <Wolfein_ImperialGuardPowerArmor.description>울페인 부족의 이전 세대가 사용한 파워 아머는 옛날의 왕실 스타일을 유지하며 과거의 영광을 보여줍니다. 그러나 그 영광은 더 이상 존재하지 않으며, 파워 아머는 과거의 영광의 유물이자 역사의 상징이 되었습니다.</Wolfein_ImperialGuardPowerArmor.description>
   <Wolfein_ImperialScoutPowerArmor.label>울페인 제국 스카우트 파워 아머</Wolfein_ImperialScoutPowerArmor.label>
   <Wolfein_ImperialScoutPowerArmor.description>이전 울페인 세대의 왕실 군사 교리를 기반으로 재창조된 경량 정찰 파워 슈트입니다. 현대 공학 기술과 결합되어 있습니다. 우수한 기동성과 강화된 감각 시스템을 제공합니다.</Wolfein_ImperialScoutPowerArmor.description>
-  <Wolfein_HeavyPowerArmor.label>울페인 중형 파워 아머</Wolfein_HeavyPowerArmor.label>
-  <Wolfein_HeavyPowerArmor.description>메카노이드와의 전쟁에서 얻은 교훈을 바탕으로 설계된 이 디자인은 메카노이드의 강력한 화력에 맞서 생존율을 극대화하는 데 초점을 맞췄습니다. 그러나 과도한 보호 장치와 사용자가 중형 무기를 사용해야 하는 요구사항으로 인해 기동성이 크게 감소했습니다.</Wolfein_HeavyPowerArmor.description>
+  <Wolfein_HeavyPowerArmor.label>울페인 헤비 파워 아머</Wolfein_HeavyPowerArmor.label>
+  <Wolfein_HeavyPowerArmor.description>메카노이드와의 전쟁에서 얻은 교훈을 바탕으로 설계된 이 디자인은 메카노이드의 강력한 화력에 맞서 생존율을 극대화하는 데 초점을 맞췄습니다. 그러나 과도한 보호 장치와 사용자가 헤비 무기를 사용해야 하는 요구사항으로 인해 기동성이 크게 감소했습니다.</Wolfein_HeavyPowerArmor.description>
   <Wolfein_AIPTDustcoat.label>울페인 AIPT 바람막이</Wolfein_AIPTDustcoat.label>
   <Wolfein_AIPTDustcoat.description>AIPT 부서의 표준 바람막이는 먼지와 부식에 대한 우수한 저항력을 갖추고 있습니다. 미지의 생물학적 조사 및 현장 처리 시 기본적인 환경 격리와 이동의 유연성을 제공합니다.</Wolfein_AIPTDustcoat.description>
-  <Wolfein_AIPTHeavyPowerArmor.label>울페인 AIPT 중형 파워 아머</Wolfein_AIPTHeavyPowerArmor.label>
+  <Wolfein_AIPTHeavyPowerArmor.label>울페인 AIPT 헤비 파워 아머</Wolfein_AIPTHeavyPowerArmor.label>
   <Wolfein_AIPTHeavyPowerArmor.description>AIPT 특수 부대의 전용 파워 아머로, 원본 모델보다 열 저항력이 강화되었으며, 부착된 화염방사기에 충분한 연료를 공급하는 두 개의 가스 캐니스터가 추가로 장착되어 있습니다.</Wolfein_AIPTHeavyPowerArmor.description>
   <Wolfein_InformationIdentificationCard.label>울페인 정보 식별 카드</Wolfein_InformationIdentificationCard.label>
   <Wolfein_InformationIdentificationCard.description>울페인 회사 직원들이 신원 확인을 위해 소지하는 식별 카드입니다.</Wolfein_InformationIdentificationCard.description>
@@ -228,23 +226,23 @@
   <Wolfein_TableMachining.description>울페인 기계 작업대는 고급 CNC 기술을 통합해 복잡한 부품의 고정밀 가공 및 제조를 가능하게 하며, 울페인 엔지니어들에게 신뢰성 있고 안전한 가공 플랫폼을 제공합니다.</Wolfein_TableMachining.description>
   <Wolfein_ReverseResearchBench.label>역공학 작업대</Wolfein_ReverseResearchBench.label>
   <Wolfein_ReverseResearchBench.description>메가코프 메크 유닛의 중대한 보안 프로토콜을 우회해 핵심 부품을 추출하기 위해 설계된 작업대입니다. 암호화된 디스크 드라이브 뒤에 숨겨진 장비를 제작하는 데도 사용 가능합니다.</Wolfein_ReverseResearchBench.description>
-  <Wolfein_Turret_A.label>울페인 중형 기관포</Wolfein_Turret_A.label>
+  <Wolfein_Turret_A.label>울페인 헤비 기관포</Wolfein_Turret_A.label>
   <Wolfein_Turret_A.description>경량 프레임에 고구경 돌격 소총을 탑재해 경갑 또는 중갑 장비를 갖춘 적을 쉽게 무력화할 수 있습니다.</Wolfein_Turret_A.description>
-  <Wolfein_TurretGun_A.label>울페인 중형 기관포</Wolfein_TurretGun_A.label>
+  <Wolfein_TurretGun_A.label>울페인 헤비 기관포</Wolfein_TurretGun_A.label>
   <Wolfein_TurretGun_A.description>경량 프레임에 고구경 돌격 소총을 탑재해 경갑 또는 중갑 장비를 갖춘 적을 쉽게 무력화할 수 있습니다.</Wolfein_TurretGun_A.description>
-  <Wolfein_TurretGun_A.verbs.Verb_Shoot.label>울페인 중형 기관포</Wolfein_TurretGun_A.verbs.Verb_Shoot.label>
+  <Wolfein_TurretGun_A.verbs.Verb_Shoot.label>울페인 헤비 기관포</Wolfein_TurretGun_A.verbs.Verb_Shoot.label>
   <Wolfein_Turret_B.label>울페인 고속 기관포</Wolfein_Turret_B.label>
   <Wolfein_Turret_B.description>고속 기관총을 장착해 경장갑 또는 무장갑 목표물을 효과적으로 처리하며, 기업 공공 인프라의 표준 방어 시설로 사용됩니다.</Wolfein_Turret_B.description>
   <Wolfein_TurretGun_B.label>울페인 고속 기관포</Wolfein_TurretGun_B.label>
   <Wolfein_TurretGun_B.description>고속 기관총을 장착해 경장갑 또는 무장갑 목표물을 효과적으로 처리하며, 기업 공공 인프라의 표준 방어 시설로 사용됩니다.</Wolfein_TurretGun_B.description>
   <Wolfein_TurretGun_B.verbs.Verb_Shoot.label>울페인 고속 기관포</Wolfein_TurretGun_B.verbs.Verb_Shoot.label>
   <Wolfein_Turret_D.label>울페인 이중 오토캐논 포탑</Wolfein_Turret_D.label>
-  <Wolfein_Turret_D.description>이중 대구경 고속 오토캐논을 장착한 이 포탑은 단 몇 초 만에 탄환의 폭격을 쏟아낼 수 있으며, 이는 중형 메크 유닛의 장갑을 뚫기에 충분합니다.</Wolfein_Turret_D.description>
+  <Wolfein_Turret_D.description>이중 대구경 고속 오토캐논을 장착한 이 포탑은 단 몇 초 만에 탄환의 폭격을 쏟아낼 수 있으며, 이는 헤비 메크 유닛의 장갑을 뚫기에 충분합니다.</Wolfein_Turret_D.description>
   <Wolfein_Turret_D.comps.5.fuelLabel>포신 교체 전까지 발사 가능한 포탄</Wolfein_Turret_D.comps.5.fuelLabel>
   <Wolfein_Turret_D.comps.5.fuelGizmoLabel>포신 내구도</Wolfein_Turret_D.comps.5.fuelGizmoLabel>
   <Wolfein_Turret_D.comps.5.outOfFuelMessage>새 포신 필요</Wolfein_Turret_D.comps.5.outOfFuelMessage>
   <Wolfein_TurretGun_D.label>울페인 이중 오토캐논 포탑</Wolfein_TurretGun_D.label>
-  <Wolfein_TurretGun_D.description>이중 대구경 고속 오토캐논을 장착한 이 포탑은 단 몇 초 만에 탄환의 폭격을 쏟아낼 수 있으며, 이는 중형 메크 유닛의 장갑을 뚫기에 충분합니다.</Wolfein_TurretGun_D.description>
+  <Wolfein_TurretGun_D.description>이중 대구경 고속 오토캐논을 장착한 이 포탑은 단 몇 초 만에 탄환의 폭격을 쏟아낼 수 있으며, 이는 헤비 메크 유닛의 장갑을 뚫기에 충분합니다.</Wolfein_TurretGun_D.description>
   <Wolfein_TurretGun_D.verbs.Verb_Shoot.label>울페인 이중 오토캐논 포탑</Wolfein_TurretGun_D.verbs.Verb_Shoot.label>
   <W_Bullet_TurretD.label>울페인 대구경 탄환</W_Bullet_TurretD.label>
   <Wolfein_Turret_E.label>울페인 로켓 포탑</Wolfein_Turret_E.label>
@@ -310,10 +308,10 @@
   <Wolfein_Mechanoid_MilitaryB.tools.0.label>왼쪽 주먹</Wolfein_Mechanoid_MilitaryB.tools.0.label>
   <Wolfein_Mechanoid_MilitaryB.tools.1.label>오른쪽 주먹</Wolfein_Mechanoid_MilitaryB.tools.1.label>
   <Wolfein_Mechanoid_MilitaryC.label>방어형 군사 메크 유닛</Wolfein_Mechanoid_MilitaryC.label>
-  <Wolfein_Mechanoid_MilitaryC.description>중형 방패와 충격 드릴을 장착한 이 유닛은 중장갑 메크 목표물과의 근접 전투에서 우수합니다. 드릴의 구조물 파괴력이 뛰어나 해체 작전에도 자주 사용됩니다.</Wolfein_Mechanoid_MilitaryC.description>
+  <Wolfein_Mechanoid_MilitaryC.description>헤비 방패와 충격 드릴을 장착한 이 유닛은 중장갑 메크 목표물과의 근접 전투에서 우수합니다. 드릴의 구조물 파괴력이 뛰어나 해체 작전에도 자주 사용됩니다.</Wolfein_Mechanoid_MilitaryC.description>
   <Wolfein_Mechanoid_MilitaryC.tools.0.label>왼쪽 주먹</Wolfein_Mechanoid_MilitaryC.tools.0.label>
   <Wolfein_Mechanoid_MilitaryC.tools.1.label>오른쪽 주먹</Wolfein_Mechanoid_MilitaryC.tools.1.label>
-  <Wolfein_Mechanoid_MilitaryC.tools.2.label>중형 방패</Wolfein_Mechanoid_MilitaryC.tools.2.label>
+  <Wolfein_Mechanoid_MilitaryC.tools.2.label>헤비 방패</Wolfein_Mechanoid_MilitaryC.tools.2.label>
   <Wolfein_Mechanoid_MilitaryC.tools.3.label>충격 드릴</Wolfein_Mechanoid_MilitaryC.tools.3.label>
   <Wolfein_Mechanoid_MilitaryD.label>스나이퍼형 군사 메크 유닛</Wolfein_Mechanoid_MilitaryD.label>
   <Wolfein_Mechanoid_MilitaryD.description>업그레이드된 센서 외에도 몸통에 열 차단 스커트 장갑을 갖추어 표준 모델보다 적외선 탐지 확률을 줄입니다.</Wolfein_Mechanoid_MilitaryD.description>
@@ -327,11 +325,11 @@
   <Wolfein_Mechanoid_MilitaryF.description>중장거리 지원 메크 유닛과 근접 지원 임무를 수행하는 중량 근접 지원 메크 유닛은 추가 장갑과 대형 방패를 갖추어 다른 메크 유닛에 대한 중거리에서 근접 지원에 더 적합합니다.</Wolfein_Mechanoid_MilitaryF.description>
   <Wolfein_Mechanoid_MilitaryF.tools.0.label>왼쪽 주먹</Wolfein_Mechanoid_MilitaryF.tools.0.label>
   <Wolfein_Mechanoid_MilitaryF.tools.1.label>오른쪽 주먹</Wolfein_Mechanoid_MilitaryF.tools.1.label>
-  <Wolfein_Mechanoid_MilitaryGiant.label>초중형 다각형 화력 플랫폼</Wolfein_Mechanoid_MilitaryGiant.label>
-  <Wolfein_Mechanoid_MilitaryGiant.description>메가코프 무기고에서 가장 큰 메크인 초중형 다각형 화력 플랫폼은 각 배치 시 현지 군사 당국의 최고 승인이 필요합니다. 몇 발의 사격만으로 적의 가장 견고한 방어선을 뚫을 수 있을 만큼 강력합니다.</Wolfein_Mechanoid_MilitaryGiant.description>
+  <Wolfein_Mechanoid_MilitaryGiant.label>초헤비 다각형 화력 플랫폼</Wolfein_Mechanoid_MilitaryGiant.label>
+  <Wolfein_Mechanoid_MilitaryGiant.description>메가코프 무기고에서 가장 큰 메크인 초헤비 다각형 화력 플랫폼은 각 배치 시 현지 군사 당국의 최고 승인이 필요합니다. 몇 발의 사격만으로 적의 가장 견고한 방어선을 뚫을 수 있을 만큼 강력합니다.</Wolfein_Mechanoid_MilitaryGiant.description>
   <Wolfein_Mechanoid_MilitaryGiant.tools.0.label>둔기</Wolfein_Mechanoid_MilitaryGiant.tools.0.label>
   <Wolfein_GiantTurret.label>화력 플랫폼 주포</Wolfein_GiantTurret.label>
-  <Wolfein_GiantTurret.description>초중형 다각형 화력 플랫폼의 주요 공격 시스템으로, 이 플랫폼은 주로 이 중형 대포를 가장 필요한 전선으로 운반하기 위해 설계되었다고 할 수 있습니다.</Wolfein_GiantTurret.description>
+  <Wolfein_GiantTurret.description>초헤비 다각형 화력 플랫폼의 주요 공격 시스템으로, 이 플랫폼은 주로 이 헤비 대포를 가장 필요한 전선으로 운반하기 위해 설계되었다고 할 수 있습니다.</Wolfein_GiantTurret.description>
   <Wolfein_GiantTurret.verbs.Verb_Shoot.label>화력 플랫폼 주포</Wolfein_GiantTurret.verbs.Verb_Shoot.label>
   <Wolfein_GiantTurret_MechineGun.label>화력 플랫폼 기관총</Wolfein_GiantTurret_MechineGun.label>
   <Wolfein_GiantTurret_MechineGun.description>포탑에 장착된 고속 연사 기관총으로, 주포의 사각지대에 진입하려는 유닛을 제거할 수 있습니다.</Wolfein_GiantTurret_MechineGun.description>
@@ -379,11 +377,11 @@
   <W_Weapon_Melee_Baton.description>울페인이 폭동과 폭력 사태 통제에 사용하는 저살상 무기입니다. 내구성이 뛰어난 재료로 제작되어 치명적인 피해를 입히지 않고 혼란을 진압하도록 설계되었습니다.</W_Weapon_Melee_Baton.description>
   <W_Weapon_Melee_Baton.tools.0.label>손잡이</W_Weapon_Melee_Baton.tools.0.label>
   <W_Weapon_Melee_Baton.tools.1.label>몸통</W_Weapon_Melee_Baton.tools.1.label>
-  <W_Weapon_Melee_HeavyPowerAxe.label>울페인 중형 파워 액스</W_Weapon_Melee_HeavyPowerAxe.label>
+  <W_Weapon_Melee_HeavyPowerAxe.label>울페인 헤비 파워 액스</W_Weapon_Melee_HeavyPowerAxe.label>
   <W_Weapon_Melee_HeavyPowerAxe.description>근접 전투에서 간헐적으로 사용되는 거대한 근접 무기로, 고급 추진 시스템을 활용해 파괴적인 운동 에너지를 전달합니다.</W_Weapon_Melee_HeavyPowerAxe.description>
   <W_Weapon_Melee_HeavyPowerAxe.tools.0.label>손잡이</W_Weapon_Melee_HeavyPowerAxe.tools.0.label>
   <W_Weapon_Melee_HeavyPowerAxe.tools.1.label>칼날</W_Weapon_Melee_HeavyPowerAxe.tools.1.label>
-  <W_Weapon_Melee_HeavyMachete.label>울페인 중형 마체테</W_Weapon_Melee_HeavyMachete.label>
+  <W_Weapon_Melee_HeavyMachete.label>울페인 헤비 마체테</W_Weapon_Melee_HeavyMachete.label>
   <W_Weapon_Melee_HeavyMachete.description>사용이 불편하고 다루기 어려운 이 거대한 칼날은 숙련된 사용자의 손에 들리면 갑옷을 가차없이 베어내는 공포의 무기가 됩니다.</W_Weapon_Melee_HeavyMachete.description>
   <W_Weapon_Melee_HeavyMachete.tools.0.label>손잡이</W_Weapon_Melee_HeavyMachete.tools.0.label>
   <W_Weapon_Melee_HeavyMachete.tools.1.label>칼날</W_Weapon_Melee_HeavyMachete.tools.1.label>
@@ -397,8 +395,8 @@
   <W_Weapon_Melee_AlloyDagger.tools.0.label>손잡이</W_Weapon_Melee_AlloyDagger.tools.0.label>
   <W_Weapon_Melee_AlloyDagger.tools.1.label>칼끝</W_Weapon_Melee_AlloyDagger.tools.1.label>
   <W_Weapon_Melee_AlloyDagger.tools.2.label>칼날</W_Weapon_Melee_AlloyDagger.tools.2.label>
-  <W_Weapon_Melee_HeavySabre.label>울페인 중형 사브르</W_Weapon_Melee_HeavySabre.label>
-  <W_Weapon_Melee_HeavySabre.description>거대한 양손검이지만 놀랍도록 조작하기 쉬운 무게중심을 지니며, 독특한 공기역학적 구조로 인해 중형 근접 무기의 치명적인 위력을 유지하면서도 지속적인 찌르기 효율성을 발휘합니다. 이로 인해 요원들 사이에서 “유틸리티 나이프”라는 별명을 얻었습니다.</W_Weapon_Melee_HeavySabre.description>
+  <W_Weapon_Melee_HeavySabre.label>울페인 헤비 사브르</W_Weapon_Melee_HeavySabre.label>
+  <W_Weapon_Melee_HeavySabre.description>거대한 양손검이지만 놀랍도록 조작하기 쉬운 무게중심을 지니며, 독특한 공기역학적 구조로 인해 헤비 근접 무기의 치명적인 위력을 유지하면서도 지속적인 찌르기 효율성을 발휘합니다. 이로 인해 요원들 사이에서 “유틸리티 나이프”라는 별명을 얻었습니다.</W_Weapon_Melee_HeavySabre.description>
   <W_Weapon_Melee_HeavySabre.tools.0.label>손잡이</W_Weapon_Melee_HeavySabre.tools.0.label>
   <W_Weapon_Melee_HeavySabre.tools.1.label>칼끝</W_Weapon_Melee_HeavySabre.tools.1.label>
   <W_Weapon_Melee_HeavySabre.tools.2.label>칼날</W_Weapon_Melee_HeavySabre.tools.2.label>
@@ -421,11 +419,11 @@
   <W_Weapon_Melee_RebelAlloyDagger.tools.1.label>칼끝</W_Weapon_Melee_RebelAlloyDagger.tools.1.label>
   <W_Weapon_Melee_RebelAlloyDagger.tools.2.label>칼날</W_Weapon_Melee_RebelAlloyDagger.tools.2.label>
   <W_Weapon_Melee_AIPTChainSaw.label>울페인 AIPT 전기톱</W_Weapon_Melee_AIPTChainSaw.label>
-  <W_Weapon_Melee_AIPTChainSaw.description>울페인 이상 현상 대응 팀이 육체 기반 실체를 제거하기 위해 설계한 중형 무기입니다. 초고주파 진동 칼날을 갖춘 장갑형 장비로, 비인간형 생물 구조를 신속히 분해합니다.</W_Weapon_Melee_AIPTChainSaw.description>
+  <W_Weapon_Melee_AIPTChainSaw.description>울페인 이상 현상 대응 팀이 육체 기반 실체를 제거하기 위해 설계한 헤비 무기입니다. 초고주파 진동 칼날을 갖춘 장갑형 장비로, 비인간형 생물 구조를 신속히 분해합니다.</W_Weapon_Melee_AIPTChainSaw.description>
   <W_Weapon_Melee_AIPTChainSaw.tools.0.label>칼날</W_Weapon_Melee_AIPTChainSaw.tools.0.label>
   <W_Arrow.label>장궁 화살</W_Arrow.label>
   <W_Bullet_HomemadeSmall.label>울페인 소형 수제 탄환</W_Bullet_HomemadeSmall.label>
-  <W_Bullet_HomemadeMedium.label>울페인 중형 수제 탄환</W_Bullet_HomemadeMedium.label>
+  <W_Bullet_HomemadeMedium.label>울페인 헤비 수제 탄환</W_Bullet_HomemadeMedium.label>
   <W_Bullet_HomemadeLarge.label>울페인 대형 수제 탄환</W_Bullet_HomemadeLarge.label>
   <W_Bullet_Small.label>울페인 소구경 탄환</W_Bullet_Small.label>
   <W_Bullet_Medium.label>울페인 중구경 탄환</W_Bullet_Medium.label>
@@ -433,8 +431,8 @@
   <W_Bullet_Shrapnel.label>울페인 파편탄</W_Bullet_Shrapnel.label>
   <W_ChargeBullet_Shrapnel.label>울페인 충전 파편탄</W_ChargeBullet_Shrapnel.label>
   <W_ChargeBullet_Small.label>울페인 소형 충전 탄환</W_ChargeBullet_Small.label>
-  <W_ChargeBullet_Medium.label>울페인 중형 충전 탄환</W_ChargeBullet_Medium.label>
-  <W_ChargeBullet_Medium_EMP.label>울페인 중형 충전 탄환</W_ChargeBullet_Medium_EMP.label>
+  <W_ChargeBullet_Medium.label>울페인 헤비 충전 탄환</W_ChargeBullet_Medium.label>
+  <W_ChargeBullet_Medium_EMP.label>울페인 헤비 충전 탄환</W_ChargeBullet_Medium_EMP.label>
   <W_Bullet_MediumLaser.label>울페인 레이저 탄환</W_Bullet_MediumLaser.label>
   <W_Bullet_MediumLaserII.label>울페인 레이저 탄환</W_Bullet_MediumLaserII.label>
   <W_ChargeBullet_Large.label>울페인 대형 충전 탄환</W_ChargeBullet_Large.label>
@@ -594,7 +592,7 @@
   <Wolfein_CivilControlPack.label>울페인 민간 제어 팩</Wolfein_CivilControlPack.label>
   <Wolfein_CivilControlPack.description>메가코프가 생산 허가한 민간용 메카나이터 제어 팩입니다. 군용 버전과 비교해 메카 제어 기능을 일부 희생해 더 가벼운 구조를 갖추었습니다.</Wolfein_CivilControlPack.description>
   <Wolfein_MilitaryControlPack.label>울페인 군용 제어 팩</Wolfein_MilitaryControlPack.label>
-  <Wolfein_MilitaryControlPack.description>메가코프 태스크 포스 부대가 사용하는 보조 장치입니다. 특수 지원 등급 메카 코어를 탑재해 태스크 포스 메카나이터가 다수의 중형 메카를 지휘할 수 있게 하는 핵심 장치입니다. 인증된 울페인 메카나이터에게만 발급되며, 기업 비밀 유출을 방지하기 위해 생물학적 코딩이 적용되었습니다.</Wolfein_MilitaryControlPack.description>
+  <Wolfein_MilitaryControlPack.description>메가코프 태스크 포스 부대가 사용하는 보조 장치입니다. 특수 지원 등급 메카 코어를 탑재해 태스크 포스 메카나이터가 다수의 헤비 메카를 지휘할 수 있게 하는 핵심 장치입니다. 인증된 울페인 메카나이터에게만 발급되며, 기업 비밀 유출을 방지하기 위해 생물학적 코딩이 적용되었습니다.</Wolfein_MilitaryControlPack.description>
   <Wolfein_PrototypicalMechSignalBooster.label>울페인 프로토타입 메카 신호 증폭기</Wolfein_PrototypicalMechSignalBooster.label>
   <Wolfein_PrototypicalMechSignalBooster.description>메카코프의 최신 기술 혁신으로, 메카나이터 지원 기술에 획기적인 발전을 가져왔습니다. 인간 인지까지도 손쉽게 시뮬레이션할 수 있는 양자 컴퓨터를 탑재해, 사용자들은 이를 '기적의 시대에서 나온 메카나이터 도구'라고 묘사했습니다.</Wolfein_PrototypicalMechSignalBooster.description>
   <Wolfein_ArrayGlass.label>울페인 어레이 글라스</Wolfein_ArrayGlass.label>
@@ -610,7 +608,7 @@
   <Wolfein_MechGestatorCivil.label>울페인 민간 메크 작업대</Wolfein_MechGestatorCivil.label>
   <Wolfein_MechGestatorCivil.description>울페인 민간 메크 유닛을 제조하는 데 사용됩니다. 조립 외에도 민간 메크 모듈 교체 기능도 제공합니다.</Wolfein_MechGestatorCivil.description>
   <Wolfein_MechGestatorMilitary.label>울페인 군사용 메크 작업대</Wolfein_MechGestatorMilitary.label>
-  <Wolfein_MechGestatorMilitary.description>울페인 군사용 메크 유닛 생산에 사용되며, 자체 플랫폼보다 큰 중형 메크 유닛의 조립도 가능합니다.</Wolfein_MechGestatorMilitary.description>
+  <Wolfein_MechGestatorMilitary.description>울페인 군사용 메크 유닛 생산에 사용되며, 자체 플랫폼보다 큰 헤비 메크 유닛의 조립도 가능합니다.</Wolfein_MechGestatorMilitary.description>
   <Wolfein_MechCharger.label>울페인 메크 충전기</Wolfein_MechCharger.label>
   <Wolfein_MechCharger.description>인간형 기계, 드론 및 경량에서 중량급 유닛과 호환되는 경량 다목적 충전 스테이션. 다중 포트 고속 에너지 보충을 지원하여 일상 순찰 및 전투 후 에너지 회복에 적합합니다.</Wolfein_MechCharger.description>
   <Wolfein_MechChargerLarge.label>울페인 대형 메크 충전기</Wolfein_MechChargerLarge.label>
@@ -618,7 +616,7 @@
   <Wolfein_MegaCorpMechCore.label>울페인 메가코프 메크 코어</Wolfein_MegaCorpMechCore.label>
   <Wolfein_MegaCorpMechCore.description>울페인 메카코프 기술 트리의 정점. 루빅스 큐브 같은 외관은 메크 유닛에 유연하고 적응형 인지 능력을 부여하려는 설계 팀의 목표를 반영하며, 의심할 여지 없이 이를 달성했습니다.</Wolfein_MegaCorpMechCore.description>
   <Wolfein_Shuttle.label>울페인 수송기</Wolfein_Shuttle.label>
-  <Wolfein_Shuttle.description>울페인 메가코프가 고강도 전투 유닛을 행성 대기권 내에 신속히 투입하기 위해 개발한 중형 수송기입니다. 현재는 셔틀급 엔진으로 개조되어, 대기권을 넘어 우주 공간까지 운항이 가능해졌습니다. 궤도와 행성 표면 간의 수송 임무를 효율적으로 수행할 수 있습니다.</Wolfein_Shuttle.description>
+  <Wolfein_Shuttle.description>울페인 메가코프가 고강도 전투 유닛을 행성 대기권 내에 신속히 투입하기 위해 개발한 헤비 수송기입니다. 현재는 셔틀급 엔진으로 개조되어, 대기권을 넘어 우주 공간까지 운항이 가능해졌습니다. 궤도와 행성 표면 간의 수송 임무를 효율적으로 수행할 수 있습니다.</Wolfein_Shuttle.description>
   <Wolfein_ShuttleIncoming.label>울페인 수송기 (접근 중)</Wolfein_ShuttleIncoming.label>
   <Wolfein_ShuttleLeaving.label>울페인 수송기 (이륙 중)</Wolfein_ShuttleLeaving.label>
   <W_Weapon_HomemadeFlamethrower.label>울페인 수제 화염방사기</W_Weapon_HomemadeFlamethrower.label>
@@ -680,4 +678,173 @@
   <Wolfein_SpaceSuit.description>우주선 외부 활동에 사용됩니다. 복합 소재의 뛰어난 보호 성능 덕분에 메가코프 전투 부대에도 보급됩니다.</Wolfein_SpaceSuit.description>
   <Wolfein_Shuttle.comps.3.fuelLabel>화학연료</Wolfein_Shuttle.comps.3.fuelLabel>
   <Wolfein_Shuttle.comps.3.fuelGizmoLabel>화학연료</Wolfein_Shuttle.comps.3.fuelGizmoLabel>
+  <Wolfein_Mote_LaserPulse.label>Mote</Wolfein_Mote_LaserPulse.label>
+  <Wolfein_HeavyGearAugmentation.label>울페인 헤비 기어 증강 모듈</Wolfein_HeavyGearAugmentation.label>
+  <Wolfein_HeavyGearAugmentation.description>울페인과 메카노이드 간의 전쟁은 두 차례의 정권을 거치며 이어졌습니다. 장기화된 전쟁과 그로 인한 인력 부족은 메가코프의 옛 귀족들과 신흥 지휘관들로 하여금, 울페인을 위해 특화된 메카노이드를 개발하기로 공동 결정을 내리게 만들었습니다. 그러나 수차례의 충성도 시험과 대규모 실전 투입에도 불구하고, 이사회는 메카노이드의 반란 가능성을 끝내 우려했고, 그 결과 반란을 진압하고 반대파 세력을 처리할 비밀경찰 조직을 창설한다는 결론에 이르렀습니다.\n\n이 조직을 위해 헤비 기어 개조 모듈이 개발되었습니다. 해당 모듈은 울페인의 사지와 척추를 사이버네틱으로 강화하며, 고출력 모터를 이용해 초인적인 근력과 하중 지탱 능력을 부여합니다. 그 결과, 과거에는 상상에 불과했던 ‘1인용 초대형 무기’가 실제 전장에서 운용 가능해졌습니다.\n\n 이 생체 강화 장치를 설치하면, 다음 작업을 할 수 없게 됩니다: 치료, 조련, 조리, 재배, 벌목, 제작, 재봉, 예술, 가공, 연구, 낚시,공허 조사</Wolfein_HeavyGearAugmentation.description>
+  <Wolfein_HeavyGearAugmentationLight.label>울페인 경량형 헤비 기어 증강 모듈</Wolfein_HeavyGearAugmentationLight.label>
+  <Wolfein_HeavyGearAugmentationLight.description>경량형 헤비 기어 증강 모듈은 표준형과 다릅니다. 이 모듈의 하체 의체는 일반 울페인의 다리와 매우 흡사하도록 설계되어, 겉보기만으로는 거의 구분하기 어렵습니다. 다만 그 대가로, 증강을 받은 개체의 사지 근력은 표준형 증강에 비해 상대적으로 약합니다.
+
+이 생체 증강을 설치하면 다음 작업을 할 수 없게 됩니다: 치료, 조리, 재배, 벌목, 가공, 재봉, 예술, 제작, 육아.</Wolfein_HeavyGearAugmentationLight.description>
+  <Wolfein_Fenrir_Jacket.label>펜리르 재킷</Wolfein_Fenrir_Jacket.label>
+  <Wolfein_Fenrir_Jacket.description>재킷 아래로 흰 셔츠를 단정히 넣어 입어, 전체 실루엣이 컴팩트하면서도 또렷하게 잡힙니다. 겉면의 스트랩은 가벼운 캐주얼함과 레이어드된 깊이를 더해, 단순한 실용성을 넘어 뚜렷한 개인적 스타일을 드러내 줍니다.</Wolfein_Fenrir_Jacket.description>
+  <Wolfein_NunOutfit.label>울페인 수녀복</Wolfein_NunOutfit.label>
+  <Wolfein_NunOutfit.description>울페인에게는 종교 집단이 없습니다. 이 복장은 그들 고유의 문화에서 비롯된 것이 아니라, 다른 종족의 수녀 복장을 참고해 만든 모사품입니다. 울페인에게 이 의상은 본래의 종교적 의미를 이미 벗어났으며, 외계적인 느낌의 중립적이고 절제된 복장으로 받아들여집니다. 필요에 따라 전시용으로 사용되거나, 특정 상황에서는 제복으로도 활용됩니다.</Wolfein_NunOutfit.description>
+  <Wolfein_MaidOutfit.label>울페인 메이드복</Wolfein_MaidOutfit.label>
+  <Wolfein_MaidOutfit.description>검은색 롱드레스와 흰 앞치마로 구성된, 외계의 전통에서 유래한 메이드 복장입니다. 전체적인 스타일은 단정하고 절제되어 있으며, 일부 고급 레스토랑이나 격식 있는 장소에서는 지금도 직원 제복으로 사용됩니다.</Wolfein_MaidOutfit.description>
+  <Wolfein_BunnyGirlOutfit.label>울페인 바니걸</Wolfein_BunnyGirlOutfit.label>
+  <Wolfein_BunnyGirlOutfit.description>몸에 밀착되는 코르셋이 매끈하고 또렷한 신체 라인을 강조하고, 스타킹 위로 가터 스트랩이 남긴 은은한 자국이 엉덩이에서 코르셋과 스타킹이 함께 만들어내는 깊은 V자 윤곽과 호응합니다. 전체 디자인은 대담하면서도 절제되어 있습니다.</Wolfein_BunnyGirlOutfit.description>
+  <Wolfein_ReverseBunnyGirlOutfit.label>울페인 역바니걸</Wolfein_ReverseBunnyGirlOutfit.label>
+  <Wolfein_ReverseBunnyGirlOutfit.description>자신의 몸에 대한 절대적인 자신감이 있는 울페인만이, 이처럼 극도로 노출이 심한 복장을 감히 착용합니다.</Wolfein_ReverseBunnyGirlOutfit.description>
+  <Wolfein_MerchantOutfit.label>여행늑대 상단 복장</Wolfein_MerchantOutfit.label>
+  <Wolfein_MerchantOutfit.description>겉보기에는 단순해 보이지만, 자세히 들여다볼수록 끝없이 흥미로운 복장입니다. 느슨한 망토와 이동에 적합한 설계는 긴 여정에 단련되어 장사에도 능숙한 이의 분위기를 전합니다. 수확과 지혜의 상징으로 장식된 세부 요소들은, 마을과 야생의 경계를 오가며 상인과 긴 여정을 함께해 온 ‘늑대’의 이야기를 조용히 들려주는 듯합니다.</Wolfein_MerchantOutfit.description>
+  <Wolfein_MetalDogMuzzle.label>울페인 재갈</Wolfein_MetalDogMuzzle.label>
+  <Wolfein_MetalDogMuzzle.description>극도로 공격적인 포로에게 흔히 채워지는 장비입니다. 울페인은 더 이상 날카로운 이빨을 주된 공격 수단으로 삼지 않지만, 이 재갈은 이제 유전자에 잠재된 공격성을 억제하기 위한 제압 장비로서의 의미가 더 큽니다.</Wolfein_MetalDogMuzzle.description>
+  <Wolfein_GasMask.label>울페인 방독면</Wolfein_GasMask.label>
+  <Wolfein_GasMask.description>민감한 코와 입을 덮어 유독 가스로부터 사용자를 보호합니다. 머리 스트랩의 LED는 필터 교체 시점을 사용자에게 알려줍니다.</Wolfein_GasMask.description>
+  <Wolfein_Helmet_Filter.label>울페인 군용 가스마스크 헬멧</Wolfein_Helmet_Filter.label>
+  <Wolfein_Helmet_Filter.description>가스 마스크와 열화상 고글이 결합된 울페인 군의 표준 헬멧입니다. 이러한 첨단 장비가 추가되어, 울페인 병사들의 전투 효율은 다른 종족보다 훨씬 높습니다.</Wolfein_Helmet_Filter.description>
+  <Wolfein_BunnyHeadband.label>울페인 바니걸 머리띠</Wolfein_BunnyHeadband.label>
+  <Wolfein_BunnyHeadband.description>부드럽지만 곧게 선 토끼 귀가 머리 위에서 뻗어 나와, 의도된 과장과 무대적 존재감을 전합니다. 한눈에 시선을 끌며, 어떤 군중 속에서도 착용자를 선명하게 돋보이게 합니다.</Wolfein_BunnyHeadband.description>
+  <Wolfein_MaidHeadband.label>울페인 메이드 머리띠</Wolfein_MaidHeadband.label>
+  <Wolfein_MaidHeadband.description>단정한 실루엣을 잡아주는, 가장자리의 소박한 프릴이 특징인 클래식 메이드 머리띠입니다. 청결함과 봉사 역할을 강조하면서도, 전체 복장에 겸손하고 절제된 장식미를 한층 더해 줍니다.</Wolfein_MaidHeadband.description>
+  <Wolfein_NunHeaddress.label>울페인 수녀 베일</Wolfein_NunHeaddress.label>
+  <Wolfein_NunHeaddress.description>머리와 목을 감싸는 수녀풍 두건입니다. 상징적인 의복 요소로서, 엄숙함과 절제, 그리고 강한 의례적 존재감을 전합니다.</Wolfein_NunHeaddress.description>
+  <Wolfein_Red-EyedHelmet.label>사냥개 전술 헬멧</Wolfein_Red-EyedHelmet.label>
+  <Wolfein_Red-EyedHelmet.description>착용자의 표정 흔적을 거의 지워버릴 만큼 밀폐성이 높고 묵직한 전술 헬멧입니다. 차갑고 강직한 디자인 위로, 좁은 붉은 바이저가 어둠 속에서 빛나며 고요하지만 압도적인 짐승의 시선을 떠올리게 만듭니다.\n\n폭동과 질서의 경계선을 따라 움직이는 집행자의 이미지를 떠올리게 합니다. 헬멧이 봉인되는 순간 개인은 숨겨지고, 남는 것은 복종과 전진뿐입니다.</Wolfein_Red-EyedHelmet.description>
+  <Wolfein_Fenrir_MilitaryCape.label>펜리르 군용 망토</Wolfein_Fenrir_MilitaryCape.label>
+  <Wolfein_Fenrir_MilitaryCape.description>표준 군용 망토를 기반으로 한 확장형 망토 코트입니다. 길어진 자락은 더 넓은 범위를 가려 주면서도, 움직임은 자유롭게 유지됩니다. 펜리르에게 이것은 가볍게 걸쳐 입는 작업복에 가깝습니다. 전선 작전이든 일상 업무든, 철저한 실용성만으로 그의 특유의 침착함을 유지하게 해 줍니다.</Wolfein_Fenrir_MilitaryCape.description>
+  <Wolfein_Red-EyedArmor.label>사냥개 전술 갑옷</Wolfein_Red-EyedArmor.label>
+  <Wolfein_Red-EyedArmor.description>무거운 갑옷이 몸을 빈틈없이 감싸며, 차갑고 절제된 인상으로 살결 아래의 육체를 보호하는 동시에 감정까지 봉인하는 듯합니다. 움직임은 단호하고 효율적으로 변하지만, 한 가지 의문을 남깁니다. 인간이 늑대의 껍질을 걸친 것일까요, 아니면 늑대가 인간의 형상을 배워 걷게 된 것일까요?</Wolfein_Red-EyedArmor.description>
+  <Wolfein_MilitaryBackpack.label>울페인 군용 배낭</Wolfein_MilitaryBackpack.label>
+  <Wolfein_MilitaryBackpack.description>사용자의 작전 효율을 해치지 않으면서도 막대한 적재 용량을 제공합니다. 다만 배낭을 가득 채우면 기동성이 어느 정도 저하될 수 있으므로, 전투 중 특수 장비가 필요한 인원만 주로 사용합니다.</Wolfein_MilitaryBackpack.description>
+  <Wolfein_DeployableShieldGenerator.label>전개식 보호막 생성기 벨트</Wolfein_DeployableShieldGenerator.label>
+  <Wolfein_DeployableShieldGenerator.description>중장갑 기계 유닛과의 교전에서는, 전통적인 엄폐물이 적의 몇 차례 일제 사격만으로도 쉽게 붕괴하곤 합니다. 전방 병력은 휴대가 가능하면서도 견고한 보호 수단을 절실히 필요로 했고, 그 요구를 충족하기 위해 전개식 보호막 생성기 벨트가 개발되었습니다.\n\n충전되면, 벨트 측면에 장착된 생성기를 지정 위치에 전개할 수 있으며, 일시적인 에너지 방어막을 투사해 날아드는 탄환과 폭발 충격을 효과적으로 차단합니다. 이를 통해 사용자는 사격을 받는 와중에도 재정비하거나, 반격하거나, 재배치할 수 있는 중요한 시간을 확보할 수 있게됩니다.</Wolfein_DeployableShieldGenerator.description>
+  <Wolfein_DeployableShieldGenerator.comps.1.chargeNoun>재충전</Wolfein_DeployableShieldGenerator.comps.1.chargeNoun>
+  <Wolfein_DeployShield_Proj.label>보호막 투사체</Wolfein_DeployShield_Proj.label>
+  <Wolfein_DeployedBroadShield.label>배치된 보호막</Wolfein_DeployedBroadShield.label>
+  <Wolfein_DeployedBroadShield.description>벨트의 생성기를 작동시켜 지정한 위치에 전개된 에너지 보호막입니다. 보호막은 제한된 시간 동안 유지되며, 날아드는 투사체를 차단해 사용자와 주변 아군에게 일시적인 엄폐를 제공합니다.</Wolfein_DeployedBroadShield.description>
+  <Wolfein_DeployedBroadShield.comps.1.countdownLabel>소진까지:</Wolfein_DeployedBroadShield.comps.1.countdownLabel>
+  <Wolfein_PrototypeShieldBelt.label>프로토타입 보호막 벨트</Wolfein_PrototypeShieldBelt.label>
+  <Wolfein_PrototypeShieldBelt.description>표준형 보호막 벨트가 근접 전투 인원의 돌격 시 안전을 충분히 보장하지 못하자, 메가코프 개발 부서는 이 프로토타입 모델을 설계했습니다. 활성화되면 착용자를 향한 모든 공격을 무효화합니다.</Wolfein_PrototypeShieldBelt.description>
+  <Wolfein_PrototypeShieldBelt.comps.1.chargeNoun>재충전</Wolfein_PrototypeShieldBelt.comps.1.chargeNoun>
+  <Wolfein_SleepGown.label>울페인 잠옷</Wolfein_SleepGown.label>
+  <Wolfein_SleepGown.description>매우 부드럽고 통기성이 뛰어나, 여름철 수면복으로 이상적입니다. 다소 노출이 있다는 점을 제외하면, 큰 단점은 거의 없습니다.</Wolfein_SleepGown.description>
+  <Wolfein_IntegratedRepairUnit.label>우수사원 휴식 포드</Wolfein_IntegratedRepairUnit.label>
+  <Wolfein_IntegratedRepairUnit.description>사무 부서의 일부 월간 우수사원들이 “출퇴근 시간을 줄여 회사에 더 많은 가치를 창출할 수 있도록 사무실 내에 휴식 시설을 추가하자”고 제안하자, 메가코프는 임원실과 공용 휴게 구역에 1인용 수면 포드를 설치했습니다. 이는 야근하는 직원들에게 쾌적한 주간 휴식 환경을 제공합니다.\n\n수면 유도제를 복용하면, 포드는 자동으로 사용자에게 영양을 공급하고 의복과 장비를 수선하여, 월간 우수사원들이 흠잡을 데 없는 외관을 유지하도록 보장합니다.</Wolfein_IntegratedRepairUnit.description>
+  <Wolfein_DefenseWall.label>울페인 방어벽</Wolfein_DefenseWall.label>
+  <Wolfein_DefenseWall.description>변방계에서 전쟁이 상시적으로 벌어지는 탓에, 메가코프 지상 전초기지들은 각종 시설을 건설할 때 이 강화 방어벽을 흔히 사용합니다. 장기전과 고강도 교전 환경에서도 버틸 수 있는 내구성을 확보하기 위함입니다.</Wolfein_DefenseWall.description>
+  <Wolfein_ReinforcedDoor.label>울페인 자동문</Wolfein_ReinforcedDoor.label>
+  <Wolfein_ReinforcedDoor.description>이 자동문은 절차적 질서와 안정성을 중시하는 울페인의 성향을 더 잘 드러냅니다. 문의 반응은 빠르고, 작동 리듬은 절제되고 통일되어 있어 연속적이고 고밀도의 통행을 무리 없이 처리합니다. 기지 내부의 핵심 통로와 구역 출입구에 흔히 설치되며, 사용자의 눈에 잘 띄지는 않지만 언제나 안정적으로 제 기능을 수행합니다.</Wolfein_ReinforcedDoor.description>
+  <Wolfein_SingleBed.label>울페인 침대</Wolfein_SingleBed.label>
+  <Wolfein_SingleBed.description>메가코프 직원 기숙사의 표준 비품입니다. 외관은 소박하지만 의외로 편안해, 길고 고된 근무를 마친 뒤에도 푹 쉬고 잘 수 있습니다.</Wolfein_SingleBed.description>
+  <Wolfein_DoubleBed.label>울페인 2인용 침대</Wolfein_DoubleBed.label>
+  <Wolfein_DoubleBed.description>일부 메가코프 직원들은 개인 비용을 들여 기숙사 침대를 2인용 침대로 교체하기도 합니다. 잠들기가 한결 수월해지고, 한밤중에 몸을 뒤척이다 침대에서 굴러 떨어지는 난처한 상황도 막을 수 있습니다.</Wolfein_DoubleBed.description>
+  <Wolfein_MedicalBed.label>울페인 회복침대</Wolfein_MedicalBed.label>
+  <Wolfein_MedicalBed.description>울페인 의료 체계의 표준에 맞춰 설계된 의료용 침대입니다. 견고한 구조와 높은 모듈화를 갖추고 있으며, 비상 구속 장치와 신속 조절 메커니즘을 탑재했습니다. 긴급 환경에서도 치료를 빠르게 전개할 수 있도록 하면서, 기본적인 안락함과 효율·안전을 균형 있게 확보합니다.</Wolfein_MedicalBed.description>
+  <Wolfein_Crib.label>울페인 아기 침대</Wolfein_Crib.label>
+  <Wolfein_Crib.description>아기의 안전을 위해 전체 구조를 특별히 부드럽게 처리한 침대입니다. 다만 측면에는 강화 가로대를 의도적으로 남겨, 울페인 영아가 본능에 따라 이를 갈고 물어뜯을 수 있도록 했습니다.</Wolfein_Crib.description>
+  <Wolfein_Wardrobe.label>울페인 옷장</Wolfein_Wardrobe.label>
+  <Wolfein_Wardrobe.description>겉보기에는 아담하지만 수납 용량이 의외로 커서, 겁이 많은 일부 직원들은 밤에 옷장 안에서 무언가가 기어 나올지도 모른다고 걱정하기도 합니다.</Wolfein_Wardrobe.description>
+  <Wolfein_Bookcase.label>울페인 책장</Wolfein_Bookcase.label>
+  <Wolfein_Bookcase.description>진열장, 책장, 서랍을 결합한 다기능 가구입니다. 책과 문서, 각종 수집품을 전시할 수 있도록 설계되었습니다. 개방형·밀폐형 수납을 함께 구성해 자주 쓰는 읽을거리는 빠르게 꺼낼 수 있고, 사적인 물건이나 잡동사니는 안전하게 보관할 수 있습니다.</Wolfein_Bookcase.description>
+  <Wolfein_BedsideTable.label>울페인 협탁</Wolfein_BedsideTable.label>
+  <Wolfein_BedsideTable.description>울페인 특유의 산업적 디자인 철학을 따르는 침대 옆장입니다. 고강도 복합 소재로 제작되어 구조가 단정하고 신뢰성이 높습니다. 표면에는 오염 방치 및 내마모 처리가 되어 있어, 일상적인 청소와 관리가 수월합니다.</Wolfein_BedsideTable.description>
+  <Wolfein_LowCabinet.label>울페인 서랍장</Wolfein_LowCabinet.label>
+  <Wolfein_LowCabinet.description>원래는 오늘날 변방계에서나 볼 법한 텔레비전 같은 가구를 올려두기 위해 설계된 장식장입니다. 울페인 모성에서는 크고 구식인 가전이 이미 오래전에 퇴장했지만, 이 장식장 디자인은 보존되어 현재는 게임 콘솔이나 화분을 올려두는 용도로 흔히 사용됩니다.</Wolfein_LowCabinet.description>
+  <Wolfein_1x2_Shelf.label>울페인 선반 (1x2)</Wolfein_1x2_Shelf.label>
+  <Wolfein_1x2_Shelf.description>각종 물자를 정리하고 보관하기 위해 설계된 단순한 산업용 저장 선반입니다. 강화 프레임으로 제작되어 장기간 사용에도 견딜 수 있으며, 메가코프 시설과 전방 보급 구역에서 흔히 볼 수 있습니다.</Wolfein_1x2_Shelf.description>
+  <Wolfein_1x1_Shelf.label>울페인 선반 (1x1)</Wolfein_1x1_Shelf.label>
+  <Wolfein_1x1_Shelf.description>각종 물자를 정리하고 보관하기 위해 설계된 단순한 산업용 저장 선반입니다. 강화 프레임으로 제작되어 장기간 사용에도 견딜 수 있으며, 메가코프 시설과 전방 보급 구역에서 흔히 볼 수 있습니다.</Wolfein_1x1_Shelf.description>
+  <Wolfein_1x2_Table.label>울페인 식탁 (1x2)</Wolfein_1x2_Table.label>
+  <Wolfein_1x2_Table.description>메가코프 표준 식탁입니다. 견고하고 내구성이 뛰어나며 청소가 쉽습니다. 강화된 상판은 저항군의 소화기 사격 정도는 버텨낼 수 있습니다.</Wolfein_1x2_Table.description>
+  <Wolfein_2x2_Table.label>울페인 식탁 (2x2)</Wolfein_2x2_Table.label>
+  <Wolfein_2x2_Table.description>메가코프 표준 식탁입니다. 견고하고 내구성이 뛰어나며 청소가 쉽습니다. 강화된 상판은 저항군의 소화기 사격 정도는 버텨낼 수 있습니다.</Wolfein_2x2_Table.description>
+  <Wolfein_2x3_Table.label>울페인 식탁 (2x3)</Wolfein_2x3_Table.label>
+  <Wolfein_2x3_Table.description>메가코프 표준 식탁입니다. 견고하고 내구성이 뛰어나며 청소가 쉽습니다. 강화된 상판은 저항군의 소화기 사격 정도는 버텨낼 수 있습니다.</Wolfein_2x3_Table.description>
+  <Wolfein_3x3_Table.label>울페인 식탁 (3x3)</Wolfein_3x3_Table.label>
+  <Wolfein_3x3_Table.description>메가코프 표준 식탁입니다. 견고하고 내구성이 뛰어나며 청소가 쉽습니다. 강화된 상판은 저항군의 소화기 사격 정도는 버텨낼 수 있습니다.</Wolfein_3x3_Table.description>
+  <Wolfein_OfficeDesk.label>울페인 사무용 책상</Wolfein_OfficeDesk.label>
+  <Wolfein_OfficeDesk.description>단정하고 각진 디자인으로, 내구성과 하중 지탱 능력을 중시한 책상입니다. 넓은 상판은 각종 작업 도구와 단말 장비를 수용하며, 숨겨진 케이블 정리 채널과 모듈형 액세서리 인터페이스가 고강도 사무 업무와 지휘 운용을 지원합니다. 사무실과 중앙 통제실에 어울리는 선택지입니다.</Wolfein_OfficeDesk.description>
+  <Wolfein_OfficeChair.label>울페인 사무용 의자</Wolfein_OfficeChair.label>
+  <Wolfein_OfficeChair.description>기능 우선을 중시하는 울페인의 철학에 따라 설계되어, 외형은 절제되고 합리적입니다. 전체 구조는 안정성과 하중 지탱 능력을 강조해 장시간의 책상 업무나 감시·모니터링 작업에 적합합니다. 사무실과 중앙 통제 거점에 흔히 배치되며, 고강도 업무 환경의 표준 비품으로 자리 잡았습니다.</Wolfein_OfficeChair.description>
+  <Wolfein_FloorLamp.label>울페인 스탠드 전등</Wolfein_FloorLamp.label>
+  <Wolfein_FloorLamp.description>메가코프 표준 실내 조명 기구입니다. 겉보기에는 따뜻하고 아늑해 보이지만, 실제로는 거의 열을 내지 않습니다.</Wolfein_FloorLamp.description>
+  <Wolfein_WallLamp.label>울페인 벽등</Wolfein_WallLamp.label>
+  <Wolfein_WallLamp.description>주로 메가코프 시설의 복도에 설치되는 조명입니다. 빛은 약간은 거칠게 느껴질 정도로 밝은데, 설계자들은 이것이 직원들이 복도에 오래 머무는 시간을 줄이는 데 도움이 된다고 봅니다.</Wolfein_WallLamp.description>
+  <Wolfein_StreetLight.label>울페인 가로등</Wolfein_StreetLight.label>
+  <Wolfein_StreetLight.description>가로등은 메가코프 통제 구역 전반에 널리 설치되어 있으며, 밝은 빛으로 야간 근무를 마치고 귀가하는 직원들의 길을 비춰 줍니다.</Wolfein_StreetLight.description>
+  <Wolfein_2x3_Carpet.label>울페인 양탄자 (2x3)</Wolfein_2x3_Carpet.label>
+  <Wolfein_2x3_Carpet.description>울페인식 산업 디자인을 반영해 설계된 양탄자입니다. 내구성이 뛰어난 복합 섬유에 미세 금속층을 더했으며, 절제된 기하학 무늬가 은은한 분위기을 제공하는 동시에 울페인 문화의 규율성과 합리성을 드러냅니다. 금속 위주의 실내가 주는 차가운 인상을 누그러뜨리기 위해, 지휘실과 작업 구역에서 흔히 사용됩니다.</Wolfein_2x3_Carpet.description>
+  <Wolfein_3x3_Carpet.label>울페인 양탄자 (3x3)</Wolfein_3x3_Carpet.label>
+  <Wolfein_3x3_Carpet.description>울페인식 산업 디자인을 반영해 설계된 양탄자입니다. 내구성이 뛰어난 복합 섬유에 미세 금속층을 더했으며, 절제된 기하학 무늬가 은은한 분위기을 제공하는 동시에 울페인 문화의 규율성과 합리성을 드러냅니다. 금속 위주의 실내가 주는 차가운 인상을 누그러뜨리기 위해, 지휘실과 작업 구역에서 흔히 사용됩니다.</Wolfein_3x3_Carpet.description>
+  <Wolfein_Doormat.label>울페인 발매트</Wolfein_Doormat.label>
+  <Wolfein_Doormat.description>울페인들은 들어가기 전에, 실내로 먼지가 많이 들어가지 않도록 보통 현관 매트 위에서 꼬리를 가볍게 털어냅니다.</Wolfein_Doormat.description>
+  <Wolfein_SurveillanceCamera.label>울페인 감시 카메라</Wolfein_SurveillanceCamera.label>
+  <Wolfein_SurveillanceCamera.description>메가코프 규정에 따라, 사내 시설의 모든 작업 구역에는 분기 수익에 악영향을 줄 수 있는 사건을 방지하기 위해 감시 카메라를 최소 4대 이상 설치해야 합니다.</Wolfein_SurveillanceCamera.description>
+  <Wolfein_MedicalControlPanel.label>울페인 의료 제어 패널</Wolfein_MedicalControlPanel.label>
+  <Wolfein_MedicalControlPanel.description>울페인 의료용 침대와 연동되도록 설계된 제어 패널입니다. 환자의 활력 징후를 실시간으로 모니터링하는 데 사용됩니다. 의료 등급 민수용 메카노이드가 손쉽게 접근할 수 있도록 표준화된 데이터 인터페이스를 제공합니다.</Wolfein_MedicalControlPanel.description>
+  <Wolfein_NeonPlanter.label>울페인 네온 화분</Wolfein_NeonPlanter.label>
+  <Wolfein_NeonPlanter.description>본질적으로는 장식용 화분으로 위장한 탁상 조명입니다. 매끈하고 미래적인 디자인을 갖췄으며, 물을 주거나 유지보수할 필요가 없습니다. 그럼에도 실내 공간에 차분한 하이테크 분위기를 더해 줍니다.</Wolfein_NeonPlanter.description>
+  <Wolfein_Model.label>다각형 화력 플랫폼 모델</Wolfein_Model.label>
+  <Wolfein_Model.description>원격 조종식 다각형 화력 지원 플랫폼 모형입니다. 외형과 기계 구조가 실제 다각형 화력 지원 플랫폼을 거의 그대로 축소한 수준으로 재현되어 있습니다. 발사 음향 효과는 실제로 녹음한 것을 사용했으며, 출시되자마자 울페인 청소년들 사이에서 ‘가장 받고 싶은 선물’ 목록 상위권에 빠르게 올랐습니다.</Wolfein_Model.description>
+  <Wolfein_LunarGlobe.label>울페인 달 모형</Wolfein_LunarGlobe.label>
+  <Wolfein_LunarGlobe.description>울페인 모성을 공전하는 달의 주요 지형을 완벽하게 재현한 구체 모형입니다. 모성에서 전근 온 기업 임원들의 책상 위에는 이런 월면구가 전시되어 있는 경우가 흔합니다.</Wolfein_LunarGlobe.description>
+  <Wolfein_SolarGenerator.label>울페인 태양광 발전기</Wolfein_SolarGenerator.label>
+  <Wolfein_SolarGenerator.description>메가코프 에너지 부문의 자랑스러운 성과입니다. 동급 제품을 훨씬 뛰어넘는 광전 변환 효율을 갖췄을 뿐 아니라, 내장된 자동 추적 시스템이 태양광 패널을 항상 최적 방위각에 정렬해 최대 발전량을 유지합니다.</Wolfein_SolarGenerator.description>
+  <Wolfein_ShuttleCrashing.label>추락한 메가코프 수송선</Wolfein_ShuttleCrashing.label>
+  <Wolfein_ShuttleCrashing.description>울페인 메가코프 군사부서에서 개발한 헤비 수송기의 잔해입니다. 이 기종은 대기권 내에서 고강도 전투 유닛을 신속 전개하기 위해 설계되었습니다. 강제 착륙 과정에서 심각한 손상을 입은 뒤로 비행 및 수송 능력을 완전히 상실했으며, 잔열을 뿜는 금속 잔해만이 남아 있습니다.</Wolfein_ShuttleCrashing.description>
+  <Wolfein_ShuttleCrashed.label>추락한 메가코프 수송선</Wolfein_ShuttleCrashed.label>
+  <Wolfein_ShuttleCrashed.description>울페인 메가코프 군사부서에서 개발한 헤비 수송기의 잔해입니다. 이 기종은 대기권 내에서 고강도 전투 유닛을 신속 전개하기 위해 설계되었습니다. 강제 착륙 과정에서 심각한 손상을 입은 뒤로 비행 및 수송 능력을 완전히 상실했으며, 잔열을 뿜는 금속 잔해만이 남아 있습니다.</Wolfein_ShuttleCrashed.description>
+  <Wolfein_HoneyGlazedHam.label>꿀에 절인 햄</Wolfein_HoneyGlazedHam.label>
+  <Wolfein_HoneyGlazedHam.description>울페인의 전통 별미 중 하나로, 정성껏 준비된 고기만으로 이뤄진 만찬을 거부할 울페인은 없습니다. 메가코프 수감 기록에 따르면, 며칠간 굶긴 뒤 꿀에 절인 햄의 유혹을 견디지 못하고 자백을 택한 범죄자도 많았습니다.</Wolfein_HoneyGlazedHam.description>
+  <Wolfein_CustardCake.label>커스터드 케이크</Wolfein_CustardCake.label>
+  <Wolfein_CustardCake.description>울페인에게 삶의 필수 요소인 고기와는 아무 관련이 없지만, 고열량과 좋은 맛 덕분에 고지대 출신 울페인 우주선 조종사들 사이에서 설명하기 어려울 정도로 인기를 끌었습니다. 이후 한 울페인 인플루언서가 홍보하면서, 점차 국민 간식으로 자리 잡았습니다.</Wolfein_CustardCake.description>
+  <Wolfein_MeatNutrientJuice.label>고기맛 영양 주스</Wolfein_MeatNutrientJuice.label>
+  <Wolfein_MeatNutrientJuice.description>메가코프가 최근 홍보하는 액체형 고기 대체품입니다. 식물성 고기 원료에 실제 고기를 혼합해 갈아 만든 뒤, 맛을 개선하기 위한 식품 첨가물을 더해 생산합니다. 울페인의 육식 성향을 만족시키면서도, 전체 고기 함량은 가능한 한 최소화하는 것을 목표로 합니다.</Wolfein_MeatNutrientJuice.description>
+  <Wolfein_Battery.label>고에너지 배터리</Wolfein_Battery.label>
+  <Wolfein_Battery.description>전개식 보호막 생성기 벨트용으로 메가코프에서 설계한 1회용 배터리 셀입니다. 구조가 특별히 안정화되어 있어, 폭발이나 열폭주 없이도 수 초 내에 방어막을 안전하게 충전할 수 있습니다.</Wolfein_Battery.description>
+  <Wolfein_PawnJumper.label>질주</Wolfein_PawnJumper.label>
+  <Wolfein_Mechanoid_RebelA.label>기본 저항군 메크 유닛</Wolfein_Mechanoid_RebelA.label>
+  <Wolfein_Mechanoid_RebelA.description>여러 이유로 메가코프 네트워크와의 연결이 일시적으로 끊어진 군용 메크의 기반 시스템을 해킹해 만들어진 개체입니다. 이 메카노이드들은 전선에서 보병 전력으로도 투입됩니다. 다만 저항군은 메카노이드를 유지·정비할 수 있는 대규모 기지가 부족하기 때문에, 이 유닛들은 개별적인 고장을 자주 일으키며 메카나이터의 빈번한 조정이 필요해지곤 합니다.</Wolfein_Mechanoid_RebelA.description>
+  <Wolfein_Mechanoid_RebelA.tools.0.label>왼쪽 주먹</Wolfein_Mechanoid_RebelA.tools.0.label>
+  <Wolfein_Mechanoid_RebelA.tools.1.label>오른쪽 주먹</Wolfein_Mechanoid_RebelA.tools.1.label>
+  <Wolfein_Mechanoid_RebelB.label>근접전 저항군 메카노이드 유닛</Wolfein_Mechanoid_RebelB.label>
+  <Wolfein_Mechanoid_RebelB.description>저항군이 해킹을 통해 확보한 개체입니다. 전투 사거리 특성상, 저항군이 운용하는 근접전 메카노이드는 기본형보다 그 수가 더 많은 편입니다.</Wolfein_Mechanoid_RebelB.description>
+  <Wolfein_Mechanoid_RebelB.tools.0.label>왼쪽 주먹</Wolfein_Mechanoid_RebelB.tools.0.label>
+  <Wolfein_Mechanoid_RebelB.tools.1.label>오른쪽 주먹</Wolfein_Mechanoid_RebelB.tools.1.label>
+  <W_Weapon_Melee_RebelPowerHammer.label>울페인 반군 헤비 파워 해머</W_Weapon_Melee_RebelPowerHammer.label>
+  <W_Weapon_Melee_RebelPowerHammer.description>헤비 파워 액스를 사용하는 메가코프 특수부대에 맞서기 위해, 저항군 병사들이 운용하도록 설계된 무기입니다. 제작에 복합 합금을 쓰지 못해 헤비 파워 액스에 비하면 성능이 확연히 떨어지지만, 노련한 베테랑의 손에 쥐어지면 여전히 위협적인 무기입니다.</W_Weapon_Melee_RebelPowerHammer.description>
+  <W_Weapon_Melee_RebelPowerHammer.tools.0.label>손잡이</W_Weapon_Melee_RebelPowerHammer.tools.0.label>
+  <W_Weapon_Melee_RebelPowerHammer.tools.1.label>머리</W_Weapon_Melee_RebelPowerHammer.tools.1.label>
+  <W_Weapon_Melee_PrototypeGunlance.label>울페인 프로토타입 건랜스</W_Weapon_Melee_PrototypeGunlance.label>
+  <W_Weapon_Melee_PrototypeGunlance.description>근접전 병력이 다수의 적을 신속히 처리하기 어렵다는 문제를 해결하기 위해 설계된 울페인 프로토타입 건랜스입니다. 엔지니어들은 무기의 뛰어난 베기 성능은 유지한 채, 폭발성 벅샷 발사기를 추가했습니다. 이 무기가 발사하는 폭발성 벅샷은 근거리에서 장갑이 얇은 대규모 무리에게 파괴적인 피해를 가합니다.</W_Weapon_Melee_PrototypeGunlance.description>
+  <W_Weapon_Melee_PrototypeGunlance.tools.0.label>칼끝</W_Weapon_Melee_PrototypeGunlance.tools.0.label>
+  <W_Weapon_Melee_PrototypeGunlance.tools.1.label>칼날</W_Weapon_Melee_PrototypeGunlance.tools.1.label>
+  <W_Weapon_RF_HighAccuracyCannon.label>울페인 고정밀 캐논</W_Weapon_RF_HighAccuracyCannon.label>
+  <W_Weapon_RF_HighAccuracyCannon.description>메카노이드 전쟁이 이어지는 동안, 전선에서는 개인 휴대가 가능한 고정밀 직사 화기에 대한 수요가 극심했고, 이는 오랫동안 메가코프 각 부서의 숙제였습니다. 울페인은 인간보다 신체 능력이 뛰어나지만, 대구경 캐논을 개인이 감당하며 운용하기에는 분명 한계가 있었습니다.\n\n그러나 최근 울페인 맞춤형 헤비 기어 증강 모듈이 성공적으로 개발되면서, 한때는 공상에 불과하다고 여겨지던 ‘개인용 고정밀 캐논’이 현실이 되었습니다.</W_Weapon_RF_HighAccuracyCannon.description>
+  <W_Weapon_RF_HighAccuracyCannon.comps.6.gizmoLabel1>모드 전환</W_Weapon_RF_HighAccuracyCannon.comps.6.gizmoLabel1>
+  <W_Weapon_RF_HighAccuracyCannon.comps.6.gizmoDesc1>고폭 모드로 전환합니다.</W_Weapon_RF_HighAccuracyCannon.comps.6.gizmoDesc1>
+  <W_Weapon_RF_HighAccuracyCannon.comps.6.gizmoDesc2>철갑 모드로 전환합니다.</W_Weapon_RF_HighAccuracyCannon.comps.6.gizmoDesc2>
+  <W_Weapon_RF_HighAccuracyCannon.verbs.Verb_Shoot.label>울페인 고정밀 캐논</W_Weapon_RF_HighAccuracyCannon.verbs.Verb_Shoot.label>
+  <W_Weapon_RF_HighAccuracyCannon.tools.0.label>개머리판</W_Weapon_RF_HighAccuracyCannon.tools.0.label>
+  <W_Weapon_RF_HighAccuracyCannon.tools.1.label>총열</W_Weapon_RF_HighAccuracyCannon.tools.1.label>
+  <W_Bullet_HighAccuracyCannonAP.label>고정밀 캐논 (철갑탄)</W_Bullet_HighAccuracyCannonAP.label>
+  <W_Bullet_HighAccuracyCannonHE.label>고정밀 캐논 (고폭탄)</W_Bullet_HighAccuracyCannonHE.label>
+  <W_Weapon_MG_TwinChargeMinigun.label>울페인 트윈-차지 미니건</W_Weapon_MG_TwinChargeMinigun.label>
+  <W_Weapon_MG_TwinChargeMinigun.description>이 프로젝트는 공개 당시 비용, 기계적 복잡성, 냉각 문제 등으로 큰 논란을 불러왔습니다. 하지만 실사격 시험이 시작되자, 반대파들은 표적 드론이 쓰러지는 속도보다도 더 빠르게 입을 다물었습니다.</W_Weapon_MG_TwinChargeMinigun.description>
+  <W_Weapon_MG_TwinChargeMinigun.verbs.Verb_Shoot_Laser.label>울페인 트윈-차지 미니건</W_Weapon_MG_TwinChargeMinigun.verbs.Verb_Shoot_Laser.label>
+  <W_Weapon_MG_TwinChargeMinigun.tools.0.label>개머리판</W_Weapon_MG_TwinChargeMinigun.tools.0.label>
+  <W_Weapon_MG_TwinChargeMinigun.tools.1.label>총열</W_Weapon_MG_TwinChargeMinigun.tools.1.label>
+  <W_Weapon_PrototypeRailBalista.label>울페인 프로토타입 레일 발리스타</W_Weapon_PrototypeRailBalista.label>
+  <W_Weapon_PrototypeRailBalista.description>활시위로 발사된 투사체를 전자기력으로 추가 가속해, 극도로 높은 운동에너지와 관통력을 부여합니다. 그 결과 비행 경로에 있는 어떤 장갑이나 살점이든 꿰뚫을 수 있으며, 근거리이거나 입사각이 유리할 경우에는 비교적 얇은 벽조차 찢어 관통할 수 있습니다.</W_Weapon_PrototypeRailBalista.description>
+  <W_Weapon_PrototypeRailBalista.verbs.Verb_Shoot.label>울페인 프로토타입 레일 발리스타</W_Weapon_PrototypeRailBalista.verbs.Verb_Shoot.label>
+  <W_Weapon_PrototypeRailBalista.tools.0.label>개머리판</W_Weapon_PrototypeRailBalista.tools.0.label>
+  <W_Weapon_PrototypeRailBalista.tools.1.label>총열</W_Weapon_PrototypeRailBalista.tools.1.label>
+  <W_Bullet_PrototypeRailBalista.label>전자기 석궁화살</W_Bullet_PrototypeRailBalista.label>
+  <W_Bullet_PrototypeRailBalistaTriple.label>전자기 석궁화살</W_Bullet_PrototypeRailBalistaTriple.label>
+  <W_Weapon_Grenade_GasGrenade.label>울페인 가스 수류탄</W_Weapon_Grenade_GasGrenade.label>
+  <W_Weapon_Grenade_GasGrenade.description>저항군이 운용하는 가스 수류탄은 대부분의 장갑 틈새로 스며들어, 치유가 극도로 어려운 피부 손상을 유발할 수 있습니다. 저항군은 이 가스가 지속적인 후유증을 남기지 않으며, 인명 살상이 아니라 메가코프의 정밀 장비를 무력화하는 데 주된 목적이 있다고 주장합니다. 그러나 노출 이후 한참이 지난 뒤에도 극심한 고통과 비명을 멈추지 못하는 수많은 울페인 민간인들은, 그 주장에 동의하지 않을 것입니다.</W_Weapon_Grenade_GasGrenade.description>
+  <W_Weapon_Grenade_GasGrenade.verbs.Verb_LaunchProjectile.label>가스 수류탄 투척</W_Weapon_Grenade_GasGrenade.verbs.Verb_LaunchProjectile.label>
+  <W_Projectile_Grenade_GasGrenade.label>가스 수류탄</W_Projectile_Grenade_GasGrenade.label>
+  <W_Projectile_Grenade_GasReleasing.label>가스 수류탄</W_Projectile_Grenade_GasReleasing.label>
 </LanguageData>

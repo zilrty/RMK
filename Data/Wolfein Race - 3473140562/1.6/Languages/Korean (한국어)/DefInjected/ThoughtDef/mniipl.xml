@@ -54,4 +54,8 @@
   <Wolfein_MeatNeedSatisfied.stages.0.description>이 맛은 익숙하고 편안해.</Wolfein_MeatNeedSatisfied.stages.0.description>
   <Wolfein_AteChocolate.stages.0.label>초콜릿을 먹었어</Wolfein_AteChocolate.stages.0.label>
   <Wolfein_AteChocolate.stages.0.description>맛은 괜찮은데... 왜 속이 좀 안좋지?</Wolfein_AteChocolate.stages.0.description>
+  <Wolfein_AteHoneyGlazedHam.stages.0.label>꿀 절임 햄을 먹음</Wolfein_AteHoneyGlazedHam.stages.0.label>
+  <Wolfein_AteHoneyGlazedHam.stages.0.description>이거...진짜 맛있잖아!</Wolfein_AteHoneyGlazedHam.stages.0.description>
+  <Wolfein_AteCustardCake.stages.0.label>커스터드 케이크를 먹음</Wolfein_AteCustardCake.stages.0.label>
+  <Wolfein_AteCustardCake.stages.0.description>맛있어, 더 없나?</Wolfein_AteCustardCake.stages.0.description>
 </LanguageData>

@@ -50,9 +50,21 @@
   <Wolfein_MetalClawInstalled.labelNoun>금속 발톱</Wolfein_MetalClawInstalled.labelNoun>
   <Wolfein_MetalClawInstalled.description>이미 설치된 금속 발톱 세트. 사용자의 근접 전투 능력을 더욱 강화합니다.</Wolfein_MetalClawInstalled.description>
   <Wolfein_MetalClawInstalled.comps.0.tools.0.label>칼끝</Wolfein_MetalClawInstalled.comps.0.tools.0.label>
-  <Wolfein_MetalClawInstalled.comps.0.tools.1.label>칼날</Wolfein_MetalClawInstalled.comps.0.tools.1.label>
   <Wolfein_MechinalLegInstalled.label>설치된 기계식 다리</Wolfein_MechinalLegInstalled.label>
   <Wolfein_MechinalLegInstalled.labelNoun>기계식 다리</Wolfein_MechinalLegInstalled.labelNoun>
   <Wolfein_MechinalLegInstalled.description>완전히 설치된 기계식 의족으로, 사용자의 기본 이동성을 효과적으로 향상시키고 다양한 지형에서 안정적인 성능을 유지합니다.</Wolfein_MechinalLegInstalled.description>
   <Wolfein_MechinalLegInstalled.comps.0.tools.0.label>다리</Wolfein_MechinalLegInstalled.comps.0.tools.0.label>
+  <Wolfein_SprintFullMoon.label>돌진 (만월)</Wolfein_SprintFullMoon.label>
+  <Wolfein_SprintFullMoon.description>보름달 상태에서는 돌진 후에도 다리 근육의 활성이 한동안 유지되어, 돌진이 빗나가더라도 먹잇감을 놓치거나 추격에 실패할 가능성이 줄어듭니다.</Wolfein_SprintFullMoon.description>
+  <Wolfein_PrototypeShieldBelt.label>프로토타입 보호막 벨트 활성화됨</Wolfein_PrototypeShieldBelt.label>
+  <Wolfein_PrototypeShieldBelt.description>프로토타입 보호막 벨트가 현재 활성화되어 있으며, 제한된 시간 동안 착용자는 모든 공격에 면역 상태가 됩니다.</Wolfein_PrototypeShieldBelt.description>
+  <Wolfein_Abasia.label>심각한 부상</Wolfein_Abasia.label>
+  <Wolfein_Abasia.description>과다 출혈로 인해 신체가 심각하게 손상된 상태입니다. 사지는 간신히 몸을 지탱할 뿐이며, 모든 움직임에 막대한 힘이 소모됩니다.</Wolfein_Abasia.description>
+  <Wolfein_CombatBionicTailInstalled.comps.0.tools.0.label>Wolfein_Tail</Wolfein_CombatBionicTailInstalled.comps.0.tools.0.label>
+  <Wolfein_HeavyGearAugmentationInstalled.label>헤비 기어 증강 모듈</Wolfein_HeavyGearAugmentationInstalled.label>
+  <Wolfein_HeavyGearAugmentationInstalled.labelNoun>헤비 기어 증강 모듈</Wolfein_HeavyGearAugmentationInstalled.labelNoun>
+  <Wolfein_HeavyGearAugmentationInstalled.description>고출력 모터로 사지와 척추를 사이버네틱으로 강화하는 헤비 기어 증강입니다. 사용자의 근력과 하중 지탱 능력을 크게 향상시키며, 복잡한 전장 지형에서도 전술적 기동성을 유지한 채 1인용 초대형 무기를 안정적으로 운용할 수 있게 합니다.\n\n이 증강을 설치하면 다음 작업을 할 수 없게 됩니다: 치료, 조련, 조리, 재배, 벌목, 제작, 재봉, 예술, 가공, 연구, 낚시,공허 조사</Wolfein_HeavyGearAugmentationInstalled.description>
+  <Wolfein_HeavyGearAugmentationLightInstalled.label>경량형 헤비 기어 증강 모듈</Wolfein_HeavyGearAugmentationLightInstalled.label>
+  <Wolfein_HeavyGearAugmentationLightInstalled.labelNoun>경량형 헤비 기어 증강 모듈</Wolfein_HeavyGearAugmentationLightInstalled.labelNoun>
+  <Wolfein_HeavyGearAugmentationLightInstalled.description>일반 울페인의 하체와 거의 구분되지 않도록 설계된 하부 의체를 갖춘 완전 설치형 경량 증강 모듈입니다. 위장과 일상 활동에 유리하며, 다양한 지형에서 준수한 기동성을 유지합니다. 다만 표준형에 비해 사지 근력과 하중 지탱 능력은 일부 희생됩니다.\n\n 이 증강을 설치하면 다음 작업 종류를 수행할 수 없게 됩니다: 치료, 재배, 벌목, 예술, 육아.</Wolfein_HeavyGearAugmentationLightInstalled.description>
 </LanguageData>
