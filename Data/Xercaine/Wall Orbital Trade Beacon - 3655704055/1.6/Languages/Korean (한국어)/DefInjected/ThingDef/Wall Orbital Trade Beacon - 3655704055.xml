@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <XER_WallOrbitalTradeBeacon.label>벽 무역 송신기</XER_WallOrbitalTradeBeacon.label>
+  <XER_WallOrbitalTradeBeacon.description>궤도의 상선과 거래를 할 때 사용됩니다. 해당 범위 안에 물품이 존재할 때 판매 가능하며, 상선에서 물품을 보낼 때도 송신기 주위로 보냅니다.</XER_WallOrbitalTradeBeacon.description>
+</LanguageData>

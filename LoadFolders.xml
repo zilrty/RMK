@@ -1113,6 +1113,7 @@
     <li IfModActive="Xercaine.SmallSleepingSpot">Data/Xercaine/Small Sleeping Spot - 3239461499/1.6</li>
     <li IfModActive="Xercaine.SmallTable">Data/Xercaine/Small Table - 3239465764/1.6</li>
     <li IfModActive="Xercaine.WallHeater">Data/Xercaine/Wall Heater - 3286518227/1.6</li>
+    <li IfModActive="Xercaine.WallOrbitalTradeBeacon">Data/Xercaine/Wall Orbital Trade Beacon - 3655704055/1.6</li>
     <li IfModActive="xrushha.AnimaAnimals">Data/xrushha/Anima Animals - 2339084391</li>
     <li IfModActive="xrushha.AnimaAnimalsCommunityPack">Data/xrushha/Anima Animals - Community Pack - 2488975583</li>
     <li IfModActive="xrushha.AnimaGear">Data/xrushha/Anima Gear - 2215217049</li>
@@ -3664,6 +3665,7 @@
     <li IfModActive="Xercaine.SmallSleepingSpot">Data/Xercaine/Small Sleeping Spot - 3239461499/1.6</li>
     <li IfModActive="Xercaine.SmallTable">Data/Xercaine/Small Table - 3239465764/1.6</li>
     <li IfModActive="Xercaine.WallHeater">Data/Xercaine/Wall Heater - 3286518227/1.6</li>
+    <li IfModActive="Xercaine.WallOrbitalTradeBeacon">Data/Xercaine/Wall Orbital Trade Beacon - 3655704055/1.6</li>
     <li IfModActive="xrushha.AnimaAnimals">Data/xrushha/Anima Animals - 2339084391</li>
     <li IfModActive="xrushha.AnimaAnimalsCommunityPack">Data/xrushha/Anima Animals - Community Pack - 2488975583</li>
     <li IfModActive="xrushha.AnimaGear">Data/xrushha/Anima Gear - 2215217049</li>
@@ -6215,6 +6217,7 @@
     <li IfModActive="Xercaine.SmallSleepingSpot">Data/Xercaine/Small Sleeping Spot - 3239461499/1.6</li>
     <li IfModActive="Xercaine.SmallTable">Data/Xercaine/Small Table - 3239465764/1.6</li>
     <li IfModActive="Xercaine.WallHeater">Data/Xercaine/Wall Heater - 3286518227/1.6</li>
+    <li IfModActive="Xercaine.WallOrbitalTradeBeacon">Data/Xercaine/Wall Orbital Trade Beacon - 3655704055/1.6</li>
     <li IfModActive="xrushha.AnimaAnimals">Data/xrushha/Anima Animals - 2339084391</li>
     <li IfModActive="xrushha.AnimaAnimalsCommunityPack">Data/xrushha/Anima Animals - Community Pack - 2488975583</li>
     <li IfModActive="xrushha.AnimaGear">Data/xrushha/Anima Gear - 2215217049</li>
@@ -8767,6 +8770,7 @@
     <li IfModActive="Xercaine.SmallSleepingSpot">Data/Xercaine/Small Sleeping Spot - 3239461499/1.6</li>
     <li IfModActive="Xercaine.SmallTable">Data/Xercaine/Small Table - 3239465764/1.6</li>
     <li IfModActive="Xercaine.WallHeater">Data/Xercaine/Wall Heater - 3286518227/1.6</li>
+    <li IfModActive="Xercaine.WallOrbitalTradeBeacon">Data/Xercaine/Wall Orbital Trade Beacon - 3655704055/1.6</li>
     <li IfModActive="xrushha.AnimaAnimals">Data/xrushha/Anima Animals - 2339084391</li>
     <li IfModActive="xrushha.AnimaAnimalsCommunityPack">Data/xrushha/Anima Animals - Community Pack - 2488975583</li>
     <li IfModActive="xrushha.AnimaGear">Data/xrushha/Anima Gear - 2215217049</li>
