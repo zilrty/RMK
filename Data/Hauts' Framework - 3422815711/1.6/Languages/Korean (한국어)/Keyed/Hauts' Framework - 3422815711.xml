@@ -2,14 +2,18 @@
 <LanguageData>
   <!--English=[Hauts&apos; Framework] active.-->
   <Hauts_Initialize>[Hauts' Framework] active.</Hauts_Initialize>
-  <!--English=Crafting skill affects apparel wear rate factor-->
-  <Hauts_SettingAWRFC>제작 기술이 의류 마모율 계수에 영향</Hauts_SettingAWRFC>
+  <!--English=Crafting skill affects rate at which worn apparel decays-->
+  <Hauts_SettingAWRFC>제작 기술이 착용한 의류 내구도 감소 속도에 영향</Hauts_SettingAWRFC>
   <!--English=If enabled, grants ー1% apparel wear rate factor per level of crafting skill.-->
-  <Hauts_TooltipAWRFC>활성화 시, 제작 기술 수준마다 의류 마모율 계수 -1% 가 부여됩니다.</Hauts_TooltipAWRFC>
+  <Hauts_TooltipAWRFC>활성화 시, 제작 기술 수준마다 의류 마모율 계수 -1% 이 부여됩니다.</Hauts_TooltipAWRFC>
   <!--English=Construction skill affects damage vs buildings-->
   <Hauts_SettingBDFC>건설 기술이 구조물 피해에 영향</Hauts_SettingBDFC>
   <!--English=If enabled, grants +1.5% breach damage factor per level of construction skill.-->
-  <Hauts_TooltipBDFC>활성화 시, 건설 기술 수준마다 파괴 피해 계수 +1.5% 가 부여됩니다.</Hauts_TooltipBDFC>
+  <Hauts_TooltipBDFC>활성화 시, 건설 기술 수준마다 파괴 피해 계수 +1.5% 이 부여됩니다.</Hauts_TooltipBDFC>
+  <!--English=Medical skill affects risk and severity of drug overdoses-->
+  <Hauts_SettingOSC>의료 기술이 약물 과다복용의 위험도 및 심각도에 영향</Hauts_SettingOSC>
+  <!--English=If enabled, grants ー1% overdose susceptibility per level of medical skill.-->
+  <Hauts_TooltipOSC>활성화 시, 의료 기술 수준마다 약물 과다복용 민감성 -1% 이 부여됩니다.</Hauts_TooltipOSC>
   <!--English=Social skill affects pilfering stealth-->
   <Hauts_SettingPSC>사교 기술이 절도 은밀도에 영향</Hauts_SettingPSC>
   <!--English=If enabled, grants +0.01x pilfering stealth per level of social skill. Note, however, that the base value for pilfering stealth is 0, and only the Biotech DLC or certain other mods (such as Hauts&apos; Added Traits or Vanilla Skills Expanded) provide sources of flat pilfering stealth.-->
@@ -148,10 +152,10 @@
   <Hauts_IdeoBookConversion>Conversion power: {0}/hour</Hauts_IdeoBookConversion>
   <!--English=Reasurrance power: {0}/hour-->
   <Hauts_IdeoBookCertainty>Reasurrance power: {0}/hour</Hauts_IdeoBookCertainty>
-  <!--English=Chance to upset nonーbelievers: {0}-->
-  <Hauts_IdeoBookUpsetChance>Chance to upset non-believers: {0}</Hauts_IdeoBookUpsetChance>
-  <!--English={0} ({1} structure ideo): -->
-  <Hauts_IdeoBookMemeList>{0} ({1} structure ideo): </Hauts_IdeoBookMemeList>
+  <!--English=Chance to upset nonーbelievers: {0}/hour-->
+  <Hauts_IdeoBookUpsetChance>Chance to upset non-believers: {0}/hour</Hauts_IdeoBookUpsetChance>
+  <!--English=Ideoligion: {0} ({1} structure) ー -->
+  <Hauts_IdeoBookMemeList>Ideoligion: {0} ({1} structure) - </Hauts_IdeoBookMemeList>
   <!--English=Reading {0} has caused {1} to turn away from {2} and towards {3}.-->
   <Hauts_LetterConvertIdeoBook_Success>Reading {0} has caused {1} to turn away from {2} and towards {3}.</Hauts_LetterConvertIdeoBook_Success>
   <!--English={PERMITUSER_nameDef} was informed of-->

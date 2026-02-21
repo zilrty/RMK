@@ -38,8 +38,8 @@
   <Hauts_PsyfocusRegenRate.formatStringUnfinalized>{0} / 일</Hauts_PsyfocusRegenRate.formatStringUnfinalized>
   <!--Original=skipcast range factor-->
   <Hauts_SkipcastRangeFactor.label>공간도약 사거리 계수</Hauts_SkipcastRangeFactor.label>
-  <!--Original=A multiplier to the range of &quot;skip&quot; psycasts used by this character. Psycasts such as Skip or Chaos Skip are skip psycasts. However, there are also several other psycasts that work off of skipgates, such as Flashstorm.-->
-  <Hauts_SkipcastRangeFactor.description>이 대상이 사용하는 '공간도약' 초능력에 사거리에 대한 계수입니다. 공간도약이나 혼돈의 공간도약같은 초능력이 '공간도약' 초능력에 해당합니다. 하지만 섬광폭풍같이 관문을 사용하는 초능력에도 적용됩니다.</Hauts_SkipcastRangeFactor.description>
+  <!--Original=A multiplier to the range of &quot;skip&quot; psycasts used by this character. Psycasts with &quot;Skip&quot; in the name, such as Skip or Chaos Skip, are skip psycasts. However, there are also several other psycasts which are also affected by this stat, such as Flashstorm (these ones mention or imply in their tooltips that skipgates are used to create their effects).-->
+  <Hauts_SkipcastRangeFactor.description>이 대상이 사용하는 '공간도약' 초능력에 사거리에 대한 계수입니다. 공간도약이나 혼돈의 공간도약같이 이름에 '공간도약'이 포함된 초능력들이 여기에 해당합니다. 하지만 섬광폭풍같이 이 능력치에 영향을 받는 다른 초능력들도 있습니다. (이러한 초능력은 툴팁에서 관문을 사용하여 효과를 생성한다고 명시되거나 암시되어 있습니다.)</Hauts_SkipcastRangeFactor.description>
   <!--Original=firstーlevel psycast cost offset-->
   <Hauts_TierOnePsycastCostOffset.label>1단계 초능력 비용 보정치</Hauts_TierOnePsycastCostOffset.label>
   <!--Original=If Vanilla Psycasts Expanded is in the active modlist, provides a flat offset to the amount of psyfocus needed to cast 1stーlevel psycasts. Otherwise, if negative, its absolute value is added to the total psyfocus cost refund of any 1stーlevel psycast.-->
@@ -47,11 +47,11 @@
   <!--Original=instructive ability-->
   <Hauts_InstructiveAbility.label>교육 능력</Hauts_InstructiveAbility.label>
   <!--Original=A multiplier to the amount of skill experience and learning conveyed to those who take lessons from or watch the work of this character.-->
-  <Hauts_InstructiveAbility.description>이 대상으로부터 수업을 받거나 일을 구경하는 이들이 얻는 기술 경험치와 학습 욕구의 배율입니다.</Hauts_InstructiveAbility.description>
+  <Hauts_InstructiveAbility.description>이 대상으로부터 수업을 받거나 일을 구경하는 이들이 얻는 기술 경험치와 학습 욕구의 계수입니다.</Hauts_InstructiveAbility.description>
   <!--Original=apparel wear rate factor-->
   <Hauts_ApparelWearRateFactor.label>의류 마모율 계수</Hauts_ApparelWearRateFactor.label>
-  <!--Original=A multiplier to the rate at which worn apparel deteriorates.-->
-  <Hauts_ApparelWearRateFactor.description>착용한 의류가 마모되는 속도에 적용되는 계수입니다.</Hauts_ApparelWearRateFactor.description>
+  <!--Original=A multiplier to the rate at which worn apparel deteriorates.\n\nThis only affects hit point loss from gradual deterioration, not hit point loss from damaging hits.-->
+  <Hauts_ApparelWearRateFactor.description>착용한 의류가 마모되는 속도에 적용되는 계수입니다. 이는 시간이 흐름에 따라 서서히 발생하는 내구도 감소에만 영향을 미치며, 공격을 받아 손상을 입었을 때 발생하는 내구도 감소에는 영향을 주지 않습니다.</Hauts_ApparelWearRateFactor.description>
   <!--Original=boredom decay-->
   <Hauts_BoredomDropPerDay.label>지루함 감소</Hauts_BoredomDropPerDay.label>
   <!--Original=The amount of joy tolerance, or &apos;boredom&apos;, lost per day. This is in addition to the joy tolerance drop per day from one&apos;s expectation level.-->
@@ -60,18 +60,10 @@
   <Hauts_BoredomDropPerDay.formatString>{0} / 일</Hauts_BoredomDropPerDay.formatString>
   <!--Original={0} / day-->
   <Hauts_BoredomDropPerDay.formatStringUnfinalized>{0} / 일</Hauts_BoredomDropPerDay.formatStringUnfinalized>
-  <!--Original=pilfering stealth-->
-  <Hauts_PilferingStealth.label>절도 은밀도</Hauts_PilferingStealth.label>
-  <!--Original=The chance to avoid being caught when attempting a pilfering activity. For pickpocketing, success chance equals the trader&apos;s alert level minus the thief&apos;s pilfering stealth; for burglary, success chance equals the settlement&apos;s alert level minus the average pilfering stealth of all free pilferingーcapable colonists in the caravan. A difference of 1 or higher guarantees success, while a difference of 0 or lower guarantees failure.\n\nA pawn must have a pilfering stealth higher than 0 in order to be capable of pilfering.\n\nA target&apos;s alert level is shown in parentheses on the option to pilfer from it. Alert level gains a high but gradually decaying boost after being pilfered from, which can be more severe if the total market value of pilfered items is very high. The base alert level of more technologically advanced settlements is higher; the base alert level of traders is based on a number of factors, including their senses, social skill, and pilfering stealth.-->
-  <Hauts_PilferingStealth.description>절도를 시도할 때 발각되지 않을 확률입니다. 소매치기의 경우, 성공 확률은 상인의 경계 수준에서 도둑의 절도 은밀도를 뺀 값입니다. 도둑질의 경우, 성공 확률은 정착지의 경계 수준에서 상단 내의 모든 자유로운 절도가 가능한 이들의 평균 절도 은밀도를 뺀 값입니다. 차이가 1 이상이면 성공이 보장되고, 0 이하이면 실패가 보장됩니다.\n\n절도 능력을 가지려면 절도 은밀도가 0 보다 높아야 합니다.\n\n대상의 경계 수준은 절도 옵션에서 괄호 안에 표시됩니다. 경계 수준은 절도당한 후에는 높지만 점차 감소하며, 절도된 물품들의 총 시장 가치가 매우 높으면 경계 수준이 더 심각할 수도 있습니다. 기술적으로 더 발전된 정착지의 기본 경계 수준은 더 높습니다. 상인의 기본 경계 수준은 이들의 감각, 사교 기술, 절도 은밀도를 포함한 여러 요소를 기반으로 합니다.</Hauts_PilferingStealth.description>
-  <!--Original=max pilfering value-->
-  <Hauts_MaxPilferingValue.label>최대 절도 값</Hauts_MaxPilferingValue.label>
-  <!--Original=The maximum net market value of items that can be stolen during a single pilfering attempt. The total weight of items that can be pilfered is still ultimately limited by the mass capacity of the caravan (for burglary) or the carry capacity of the thief (for pickpocketing).-->
-  <Hauts_MaxPilferingValue.description>한 번의 절도 시도로 훔칠 수 있는 물품들의 최대 순수 시장 가치입니다. 절도 가능한 물품들의 총 무게는 여전히 최종적으로는 상단의 질량 용량(도둑질 시) 또는 도둑의 운반 수량(소매치기 시)에 의해 제한됩니다.</Hauts_MaxPilferingValue.description>
-  <!--Original=alert level-->
-  <Hauts_PawnAlertLevel.label>경계 수준</Hauts_PawnAlertLevel.label>
-  <!--Original=The ability to detect and thwart pickpocketing attempts.-->
-  <Hauts_PawnAlertLevel.description>소매치기 시도를 감지하고 저지하는 능력입니다.</Hauts_PawnAlertLevel.description>
+  <!--Original=overdose susceptibility-->
+  <Hauts_OverdoseSusceptibility.label>과다복용 민감성</Hauts_OverdoseSusceptibility.label>
+  <!--Original=Multiplies the random chance that ingesting drugs causes a severe overdose, as well as the amount of guaranteed overdose severity from ingesting hard drugs.-->
+  <Hauts_OverdoseSusceptibility.description>약물 복용 시 심각한 과다복용을 일으킬 무작위 확률뿐만 아니라, 강력 약물 복용으로 인해 확정적으로 발생하는 과다복용 심각도의 계수입니다.</Hauts_OverdoseSusceptibility.description>
   <!--Original=skill gain from recreation-->
   <Hauts_SkillGainFromRecreation.label>오락을 통한 기술 경험치</Hauts_SkillGainFromRecreation.label>
   <!--Original=A multiplier to the skill xp gained while engaging in a joy activity.-->
@@ -100,6 +92,18 @@
   <Hauts_TrackSize.label>흔적 크기</Hauts_TrackSize.label>
   <!--Original=Affects the amount of loose terrain (such as sand or dirt) this character tracks onto other surfaces.-->
   <Hauts_TrackSize.description>이 대상이 다른 지형에 남기는 느슨한 지형(모래나 흙 같은)의 양에 영향을 줍니다.</Hauts_TrackSize.description>
+  <!--Original=pilfering stealth-->
+  <Hauts_PilferingStealth.label>절도 은밀도</Hauts_PilferingStealth.label>
+  <!--Original=The chance to avoid being caught when attempting a pilfering activity. Pilfering activities include pickpocketing (rightーclick on a nonーhostile pawn with an inventory to try stealing random items from it) and burglary (visit another settlement and press the Burgle button to try stealing items of a desired category from it).\n\nFor pickpocketing, success chance equals the target&apos;s alert level minus the thief&apos;s pilfering stealth; for burglary, success chance equals the settlement&apos;s alert level minus the average pilfering stealth of all free pilferingーcapable colonists in the caravan. A difference of 1 or higher guarantees success, while a difference of 0 or lower guarantees failure.\n\nA pawn must have a pilfering stealth higher than 0 in order to be capable of pilfering.\n\nA target&apos;s alert level is shown in parentheses on the option to pilfer from it. Alert level gains a high but gradually decaying boost after being pilfered from, which can be more severe if the total market value of pilfered items is very high. The base alert level of more technologically advanced settlements is higher; the base alert level of traders is based on a number of factors, including their senses, social skill, and pilfering stealth.-->
+  <Hauts_PilferingStealth.description>절도를 시도할 때 발각되지 않을 확률입니다. 절도에는 소매치기(인벤토리가 있는 비적대적 대상을 우클릭하여 무작위 물품 훔치기)와 도둑질(다른 정착지를 방문하여 도둑질 버튼을 눌러 원하는 카테고리의 물품 훔치기)이 포함됩니다.\n\n소매치기의 경우, 성공 확률은 대상의 경계 수준에서 도둑의 절도 은밀도를 뺀 값에 따라 결정됩니다. 도둑질의 경우, 성공 확률은 정착지의 경계 수준에서 상단 내의 모든 자유로운 절도가 가능한 이들의 평균 절도 은밀도를 뺀 값입니다. 차이가 1 이상이면 성공이 보장되고, 0 이하이면 실패가 보장됩니다.\n\n절도 능력을 가지려면 절도 은밀도가 0 보다 높아야 합니다.\n\n대상의 경계 수준은 절도 옵션에서 괄호 안에 표시됩니다. 경계 수준은 절도당한 후에는 높지만 점차 감소하며, 절도된 물품들의 총 시장 가치가 매우 높으면 경계 수준이 더 심각할 수도 있습니다. 기술적으로 더 발전된 정착지의 기본 경계 수준은 더 높습니다. 상인의 기본 경계 수준은 이들의 감각, 사교 기술, 절도 은밀도를 포함한 여러 요소를 기반으로 합니다.</Hauts_PilferingStealth.description>
+  <!--Original=max pilfering value-->
+  <Hauts_MaxPilferingValue.label>최대 절도 값</Hauts_MaxPilferingValue.label>
+  <!--Original=The maximum net market value of items that can be stolen during a single pilfering attempt. Pilfering activities include pickpocketing (rightーclick on a nonーhostile pawn with an inventory to try stealing random items from it) and burglary (visit another settlement and press the Burgle button to try stealing items of a desired category from it).\n\nThe total weight of items that can be pilfered is still ultimately limited by the mass capacity of the caravan (for burglary) or the carry capacity of the thief (for pickpocketing).-->
+  <Hauts_MaxPilferingValue.description>한 번의 절도 시도로 훔칠 수 있는 물품들의 최대 순수 시장 가치입니다. 절도에는 소매치기(인벤토리가 있는 비적대적 대상을 우클릭하여 무작위 물품 훔치기)와 도둑질(다른 정착지를 방문하여 도둑질 버튼을 눌러 원하는 카테고리의 물품 훔치기)이 포함됩니다.\n\n절도 가능한 물품들의 총 무게는 여전히 최종적으로는 상단의 질량 용량(도둑질 시) 또는 도둑의 운반 수량(소매치기 시)에 의해 제한됩니다.</Hauts_MaxPilferingValue.description>
+  <!--Original=alert level-->
+  <Hauts_PawnAlertLevel.label>경계 수준</Hauts_PawnAlertLevel.label>
+  <!--Original=The ability to detect and thwart pickpocketing attempts.-->
+  <Hauts_PawnAlertLevel.description>소매치기 시도를 감지하고 저지하는 능력입니다.</Hauts_PawnAlertLevel.description>
   <!--Original=hemogen yield-->
   <Hauts_HemogenContentFactor.label>혈액 수확량</Hauts_HemogenContentFactor.label>
   <!--Original=The density of hemogen in this character&apos;s blood. At higher values, bloodfeeders will gain more hemogen per feeding from this character, and medical extraction of hemogen packs will incur less blood loss.-->

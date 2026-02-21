@@ -14,12 +14,12 @@
   <Hauts_GauranlenExpert.description>교감한 요정나무의 나무지기를 지원하는데 숙련됩니다.</Hauts_GauranlenExpert.description>
   <!--Original=Skulduggery-->
   <Hauts_Skulduggery.label>속임수</Hauts_Skulduggery.label>
-  <!--Original=An expertise in burglarizing other settlements without being caught.-->
-  <Hauts_Skulduggery.description>발각되지 않고 다른 정착지를 도둑질하는데 숙련됩니다.</Hauts_Skulduggery.description>
+  <!--Original=An expertise in pickpocketing individuals or burglarizing settlements without being caught.-->
+  <Hauts_Skulduggery.description>발각되지 않고 소매치기를 하거나 정착지에 도둑질하는데 숙련됩니다.</Hauts_Skulduggery.description>
   <!--Original=Larceny-->
   <Hauts_Larceny.label>절도</Hauts_Larceny.label>
-  <!--Original=An expertise in finding more valuable items when burglarizing other settlements.-->
-  <Hauts_Larceny.description>다른 정착지에 도둑질할 때 더 가치 있는 물품을 찾는데 숙련됩니다.</Hauts_Larceny.description>
+  <!--Original=An expertise in finding more valuable items when pickpocketing individuals or burglarizing settlements.-->
+  <Hauts_Larceny.description>소매치기나 정착지에 도둑질할 때 더 가치 있는 물품을 찾는데 숙련됩니다.</Hauts_Larceny.description>
   <!--Original=Gauscaping-->
   <Hauts_GauranlenExpert2.label>요정나무 조경</Hauts_GauranlenExpert2.label>
   <!--Original=An expertise in supporting dryads from tended Gauranlen trees.-->
