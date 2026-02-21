@@ -1110,6 +1110,7 @@
     <li IfModActive="Xercaine.Tribal.SimpleWall">Data/Xercaine/Simple Wall - 3625587148/1.6</li>
     <li IfModActive="Xercaine.SmallDresser">Data/Xercaine/Small Dresser - 3239464535/1.6</li>
     <li IfModActive="Xercaine.SmallHydroponicsBasins">Data/Xercaine/Small Hydroponics Basins - 3375086471/1.6</li>
+    <li IfModActive="Xercaine.SmallSleepingSpot">Data/Xercaine/Small Sleeping Spot - 3239461499/1.6</li>
     <li IfModActive="Xercaine.WallHeater">Data/Xercaine/Wall Heater - 3286518227/1.6</li>
     <li IfModActive="xrushha.AnimaAnimals">Data/xrushha/Anima Animals - 2339084391</li>
     <li IfModActive="xrushha.AnimaAnimalsCommunityPack">Data/xrushha/Anima Animals - Community Pack - 2488975583</li>
@@ -3659,6 +3660,7 @@
     <li IfModActive="Xercaine.Tribal.SimpleWall">Data/Xercaine/Simple Wall - 3625587148/1.6</li>
     <li IfModActive="Xercaine.SmallDresser">Data/Xercaine/Small Dresser - 3239464535/1.6</li>
     <li IfModActive="Xercaine.SmallHydroponicsBasins">Data/Xercaine/Small Hydroponics Basins - 3375086471/1.6</li>
+    <li IfModActive="Xercaine.SmallSleepingSpot">Data/Xercaine/Small Sleeping Spot - 3239461499/1.6</li>
     <li IfModActive="Xercaine.WallHeater">Data/Xercaine/Wall Heater - 3286518227/1.6</li>
     <li IfModActive="xrushha.AnimaAnimals">Data/xrushha/Anima Animals - 2339084391</li>
     <li IfModActive="xrushha.AnimaAnimalsCommunityPack">Data/xrushha/Anima Animals - Community Pack - 2488975583</li>
@@ -6208,6 +6210,7 @@
     <li IfModActive="Xercaine.Tribal.SimpleWall">Data/Xercaine/Simple Wall - 3625587148/1.6</li>
     <li IfModActive="Xercaine.SmallDresser">Data/Xercaine/Small Dresser - 3239464535/1.6</li>
     <li IfModActive="Xercaine.SmallHydroponicsBasins">Data/Xercaine/Small Hydroponics Basins - 3375086471/1.6</li>
+    <li IfModActive="Xercaine.SmallSleepingSpot">Data/Xercaine/Small Sleeping Spot - 3239461499/1.6</li>
     <li IfModActive="Xercaine.WallHeater">Data/Xercaine/Wall Heater - 3286518227/1.6</li>
     <li IfModActive="xrushha.AnimaAnimals">Data/xrushha/Anima Animals - 2339084391</li>
     <li IfModActive="xrushha.AnimaAnimalsCommunityPack">Data/xrushha/Anima Animals - Community Pack - 2488975583</li>
@@ -8758,6 +8761,7 @@
     <li IfModActive="Xercaine.Tribal.SimpleWall">Data/Xercaine/Simple Wall - 3625587148/1.6</li>
     <li IfModActive="Xercaine.SmallDresser">Data/Xercaine/Small Dresser - 3239464535/1.6</li>
     <li IfModActive="Xercaine.SmallHydroponicsBasins">Data/Xercaine/Small Hydroponics Basins - 3375086471/1.6</li>
+    <li IfModActive="Xercaine.SmallSleepingSpot">Data/Xercaine/Small Sleeping Spot - 3239461499/1.6</li>
     <li IfModActive="Xercaine.WallHeater">Data/Xercaine/Wall Heater - 3286518227/1.6</li>
     <li IfModActive="xrushha.AnimaAnimals">Data/xrushha/Anima Animals - 2339084391</li>
     <li IfModActive="xrushha.AnimaAnimalsCommunityPack">Data/xrushha/Anima Animals - Community Pack - 2488975583</li>
