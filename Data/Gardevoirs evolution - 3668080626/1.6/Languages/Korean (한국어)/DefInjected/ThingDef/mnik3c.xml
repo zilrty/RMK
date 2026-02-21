@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CVN_IronValiant.label>무쇠무인</CVN_IronValiant.label>
+  <CVN_IronValiant.description>최강의 에스퍼포켓몬을 추구하던 매드 사이언티스트에 의해 만들어진 로봇이라는 설이 있습니다. 가디안으로도 엘레이드로도 보이는 기묘한 모습을 하고 있으며, 맞서는 자는 빛나는 칼날로 주저 없이 베어 버리는 잔혹함을 가졌다고 합니다.</CVN_IronValiant.description>
+  <CVN_IronValiant.tools.0.label>왼쪽 주먹</CVN_IronValiant.tools.0.label>
+  <CVN_IronValiant.tools.1.label>오른쪽 주먹</CVN_IronValiant.tools.1.label>
+  <CVN_IronValiant.tools.2.label>머리</CVN_IronValiant.tools.2.label>
+  <CVN_IronValiant_Male.label>무쇠무인</CVN_IronValiant_Male.label>
+  <CVN_IronValiant_Male.description>최강의 에스퍼포켓몬을 추구하던 매드 사이언티스트에 의해 만들어진 로봇이라는 설이 있습니다. 가디안으로도 엘레이드로도 보이는 기묘한 모습을 하고 있으며, 맞서는 자는 빛나는 칼날로 주저 없이 베어 버리는 잔혹함을 가졌다고 합니다.</CVN_IronValiant_Male.description>
+  <CVN_IronValiant_Male.tools.0.label>왼쪽 주먹</CVN_IronValiant_Male.tools.0.label>
+  <CVN_IronValiant_Male.tools.1.label>오른쪽 주먹</CVN_IronValiant_Male.tools.1.label>
+  <CVN_IronValiant_Male.tools.2.label>머리</CVN_IronValiant_Male.tools.2.label>
+  <CVN_Eroefetta.label>무쇠칼날</CVN_Eroefetta.label>
+  <CVN_Eroefetta.description>고대 양식으로 제작된 단검입니다. 찌르기와 베기에 모두 적합합니다. 가볍고 기동성이 뛰어나, 때로는 더 크고 무거운 무기를 압도하기도 합니다.</CVN_Eroefetta.description>
+  <CVN_Eroefetta.tools.0.label>손잡이</CVN_Eroefetta.tools.0.label>
+  <CVN_Eroefetta.tools.1.label>칼끝</CVN_Eroefetta.tools.1.label>
+  <CVN_Eroefetta.tools.2.label>칼날</CVN_Eroefetta.tools.2.label>
+  <CVN_Psybeam.label>초능력 레이저</CVN_Psybeam.label>
+  <CVN_Psybeam.description>초능력 레이저</CVN_Psybeam.description>
+  <CVN_PsychicBullet.label>초능력 탄환</CVN_PsychicBullet.label>
+  <CVN_DazzlingBullet.label>매지컬샤인</CVN_DazzlingBullet.label>
+  <CVN_Gardevoirite.label>가디안나이트</CVN_Gardevoirite.label>
+  <CVN_Gardevoirite.description>가디안에게 사용하면 메가진화할 수 있는 신비한 메가스톤입니다. 사용시 메가스톤은 신체에 흡수되며 영구히 유지됩니다.</CVN_Gardevoirite.description>
+  <CVN_Gardevoirite.comps.1.useLabel>가디안나이트 사용</CVN_Gardevoirite.comps.1.useLabel>
+</LanguageData>

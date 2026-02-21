@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CVN_ReflectionDamage.label>반사</CVN_ReflectionDamage.label>
+  <CVN_ReflectionDamage.deathMessage>{0}(은)는 반사된 공격에 맞아 사망했습니다.</CVN_ReflectionDamage.deathMessage>
+  <CVN_PsychicDamage.label>초능력 공격</CVN_PsychicDamage.label>
+  <CVN_PsychicDamage.deathMessage>{0}(은)는 초능력에 의해 사망했습니다.</CVN_PsychicDamage.deathMessage>
+  <CVN_IceDamage.label>얼음</CVN_IceDamage.label>
+  <CVN_IceDamage.deathMessage>{0}(은)는 아쿠아커터에 잘려 죽었습니다.</CVN_IceDamage.deathMessage>
+  <CVN_IceDamage_TripleAxel.label>얼음</CVN_IceDamage_TripleAxel.label>
+  <CVN_IceDamage_TripleAxel.deathMessage>{0}(은)는 트리플악셀에 치여 죽었습니다.</CVN_IceDamage_TripleAxel.deathMessage>
+  <CVN_GrassDamage.label>리프블레이드</CVN_GrassDamage.label>
+  <CVN_GrassDamage.deathMessage>{0}(은)는 리프블레이드에 잘려 죽었습니다.</CVN_GrassDamage.deathMessage>
+</LanguageData>
