@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <XER_WallSleepAccelerator.label>벽 수면 가속기</XER_WallSleepAccelerator.label>
+  <XER_WallSleepAccelerator.description>생체 리듬을 가속하는 수면 보조 장치입니다. 정착민의 수면시간을 줄여주지만, 대량의 전기를 소모하며 허기를 느끼게 합니다. 반드시 머리맡에 배치되어야 합니다. 한 침대에 두 개 이상의 가속기를 두어도 추가효과는 없습니다.</XER_WallSleepAccelerator.description>
+</LanguageData>
