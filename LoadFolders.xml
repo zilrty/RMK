@@ -1524,6 +1524,7 @@
     <li IfModActive="Ling.TheLowCooler">Data/Cooler - 1414246983/1.6</li>
     <li IfModActive="arl85.CorpseInfo">Data/Corpse info - 2913588675</li>
     <li IfModActive="Crusader.CTF15">Data/Corpse To Fuel x15 - 1760614672</li>
+    <li IfModActive="dgacr.corpsetochemfuel">Data/CorpseToChemFuel - 3437821125/1.6</li>
     <li IfModActive="mawy.craftable">Data/Craftable - 2232096297</li>
     <li IfModActive="sjaak31367.craftablecores">Data/Craftable Cores - 1985991383</li>
     <li IfModActive="majesticmadman.craftabledeathrest">Data/Craftable Deathrest Capacity Serum - 2887793593</li>
@@ -4068,6 +4069,7 @@
     <li IfModActive="Ling.TheLowCooler">Data/Cooler - 1414246983/1.6</li>
     <li IfModActive="arl85.CorpseInfo">Data/Corpse info - 2913588675</li>
     <li IfModActive="Crusader.CTF15">Data/Corpse To Fuel x15 - 1760614672</li>
+    <li IfModActive="dgacr.corpsetochemfuel">Data/CorpseToChemFuel - 3437821125/1.6</li>
     <li IfModActive="mawy.craftable">Data/Craftable - 2232096297</li>
     <li IfModActive="sjaak31367.craftablecores">Data/Craftable Cores - 1985991383</li>
     <li IfModActive="majesticmadman.craftabledeathrest">Data/Craftable Deathrest Capacity Serum - 2887793593</li>
@@ -6612,6 +6614,7 @@
     <li IfModActive="Ling.TheLowCooler">Data/Cooler - 1414246983/1.6</li>
     <li IfModActive="arl85.CorpseInfo">Data/Corpse info - 2913588675</li>
     <li IfModActive="Crusader.CTF15">Data/Corpse To Fuel x15 - 1760614672</li>
+    <li IfModActive="dgacr.corpsetochemfuel">Data/CorpseToChemFuel - 3437821125/1.6</li>
     <li IfModActive="mawy.craftable">Data/Craftable - 2232096297</li>
     <li IfModActive="sjaak31367.craftablecores">Data/Craftable Cores - 1985991383</li>
     <li IfModActive="majesticmadman.craftabledeathrest">Data/Craftable Deathrest Capacity Serum - 2887793593</li>
@@ -9157,6 +9160,7 @@
     <li IfModActive="Ling.TheLowCooler">Data/Cooler - 1414246983/1.6</li>
     <li IfModActive="arl85.CorpseInfo">Data/Corpse info - 2913588675</li>
     <li IfModActive="Crusader.CTF15">Data/Corpse To Fuel x15 - 1760614672</li>
+    <li IfModActive="dgacr.corpsetochemfuel">Data/CorpseToChemFuel - 3437821125/1.6</li>
     <li IfModActive="mawy.craftable">Data/Craftable - 2232096297</li>
     <li IfModActive="sjaak31367.craftablecores">Data/Craftable Cores - 1985991383</li>
     <li IfModActive="majesticmadman.craftabledeathrest">Data/Craftable Deathrest Capacity Serum - 2887793593</li>
