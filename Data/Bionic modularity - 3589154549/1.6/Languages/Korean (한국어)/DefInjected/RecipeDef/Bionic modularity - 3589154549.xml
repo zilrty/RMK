@@ -1986,12 +1986,30 @@
   <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.description>신체 부위의 능력 모듈 슬롯에 연막 살포 모듈을 설치합니다.</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.description>
   <!--Original=Installing smoke spewer module.-->
   <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.jobString>연막 살포 모듈 설치 중</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.jobString>
+  <!--Original=install smoke spewer module.-->
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman_Implant.label>연막 살포 모듈 설치</BM_SpacerSmokeSpewerAbilityModule_InstallHuman_Implant.label>
+  <!--Original=Install a smoke spewer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman_Implant.description>신체 부위의 능력 모듈 슬롯에 연막 살포 모듈을 설치합니다.</BM_SpacerSmokeSpewerAbilityModule_InstallHuman_Implant.description>
+  <!--Original=Installing smoke spewer module.-->
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman_Implant.jobString>연막 살포 모듈 설치 중</BM_SpacerSmokeSpewerAbilityModule_InstallHuman_Implant.jobString>
+  <!--Original=install smoke spewer module.-->
+  <BM_SpacerSmokeSpewerAbilityModule_InstallAnimal_Implant.label>연막 살포 모듈 설치</BM_SpacerSmokeSpewerAbilityModule_InstallAnimal_Implant.label>
+  <!--Original=Install a smoke spewer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerSmokeSpewerAbilityModule_InstallAnimal_Implant.description>신체 부위의 능력 모듈 슬롯에 연막 살포 모듈을 설치합니다.</BM_SpacerSmokeSpewerAbilityModule_InstallAnimal_Implant.description>
+  <!--Original=Installing smoke spewer module.-->
+  <BM_SpacerSmokeSpewerAbilityModule_InstallAnimal_Implant.jobString>연막 살포 모듈 설치 중</BM_SpacerSmokeSpewerAbilityModule_InstallAnimal_Implant.jobString>
   <!--Original=remove smoke spewer module-->
   <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.label>연막 살포 모듈 제거</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.label>
   <!--Original=Remove smoke spewer module.-->
   <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.description>연막 살포 모듈을 제거합니다.</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.description>
   <!--Original=Removing smoke spewer module.-->
   <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.jobString>연막 살포 모듈 제거 중</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.jobString>
+  <!--Original=remove smoke spewer module-->
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromNatural.label>연막 살포 모듈 제거</BM_SpacerSmokeSpewerAbilityModule_RemoveFromNatural.label>
+  <!--Original=Remove smoke spewer module.-->
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromNatural.description>연막 살포 모듈을 제거합니다.</BM_SpacerSmokeSpewerAbilityModule_RemoveFromNatural.description>
+  <!--Original=Removing smoke spewer module.-->
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromNatural.jobString>연막 살포 모듈 제거 중</BM_SpacerSmokeSpewerAbilityModule_RemoveFromNatural.jobString>
   <!--Original=install atmofilter module-->
   <BM_SpacerAtmofilterUtilityModule_InstallAnimal.label>대기 여과기 모듈 설치</BM_SpacerAtmofilterUtilityModule_InstallAnimal.label>
   <!--Original=Install an atmofilter module into the body part&apos;s utility module slot.-->
@@ -2533,12 +2551,6 @@
   <!--Original=Removing socialite subpersona.-->
   <Remove_BM_SpacerSocialiteSubpersonaChip.jobString>사교가 보조자아 제거 중</Remove_BM_SpacerSocialiteSubpersonaChip.jobString>
   <!--Original=install jump pack module-->
-  <BM_SpacerJumpPackAbilityModule_InstallAnimal.label>점프팩 모듈 설치</BM_SpacerJumpPackAbilityModule_InstallAnimal.label>
-  <!--Original=Install a jump pack module into the body part&apos;s ability module slot.-->
-  <BM_SpacerJumpPackAbilityModule_InstallAnimal.description>신체 부위의 능력 모듈 슬롯에 점프팩 모듈을 설치합니다.</BM_SpacerJumpPackAbilityModule_InstallAnimal.description>
-  <!--Original=Installing jump pack module.-->
-  <BM_SpacerJumpPackAbilityModule_InstallAnimal.jobString>점프팩 모듈 설치 중</BM_SpacerJumpPackAbilityModule_InstallAnimal.jobString>
-  <!--Original=install jump pack module-->
   <BM_SpacerJumpPackAbilityModule_InstallHuman.label>점프팩 모듈 설치</BM_SpacerJumpPackAbilityModule_InstallHuman.label>
   <!--Original=Install a jump pack module into the body part&apos;s ability module slot.-->
   <BM_SpacerJumpPackAbilityModule_InstallHuman.description>신체 부위의 능력 모듈 슬롯에 점프팩 모듈을 설치합니다.</BM_SpacerJumpPackAbilityModule_InstallHuman.description>
@@ -2550,12 +2562,6 @@
   <BM_SpacerJumpPackAbilityModule_RemoveFromReplacement.description>점프팩 모듈을 제거합니다.</BM_SpacerJumpPackAbilityModule_RemoveFromReplacement.description>
   <!--Original=Removing jump pack module.-->
   <BM_SpacerJumpPackAbilityModule_RemoveFromReplacement.jobString>점프팩 모듈 제거 중</BM_SpacerJumpPackAbilityModule_RemoveFromReplacement.jobString>
-  <!--Original=install nuclear jump pack module-->
-  <BM_SpacerNuclearJumpPackAbilityModule_InstallAnimal.label>핵 점프팩 모듈 설치</BM_SpacerNuclearJumpPackAbilityModule_InstallAnimal.label>
-  <!--Original=Install a nuclear jump pack module into the body part&apos;s ability module slot.-->
-  <BM_SpacerNuclearJumpPackAbilityModule_InstallAnimal.description>신체 부위의 능력 모듈 슬롯에 핵 점프팩 모듈을 설치합니다.</BM_SpacerNuclearJumpPackAbilityModule_InstallAnimal.description>
-  <!--Original=Installing nuclear jump pack module.-->
-  <BM_SpacerNuclearJumpPackAbilityModule_InstallAnimal.jobString>핵 점프팩 모듈 설치 중</BM_SpacerNuclearJumpPackAbilityModule_InstallAnimal.jobString>
   <!--Original=install nuclear jump pack module-->
   <BM_SpacerNuclearJumpPackAbilityModule_InstallHuman.label>핵 점프팩 모듈 설치</BM_SpacerNuclearJumpPackAbilityModule_InstallHuman.label>
   <!--Original=Install a nuclear jump pack module into the body part&apos;s ability module slot.-->
@@ -3318,12 +3324,30 @@
   <BM_SpacerToxSpewerAbilityModule_InstallHuman.description>신체 부위의 능력 모듈 슬롯에 독소 살포 모듈을 설치합니다.</BM_SpacerToxSpewerAbilityModule_InstallHuman.description>
   <!--Original=Installing tox spewer module.-->
   <BM_SpacerToxSpewerAbilityModule_InstallHuman.jobString>독소 살포 모듈 설치 중</BM_SpacerToxSpewerAbilityModule_InstallHuman.jobString>
+  <!--Original=install tox spewer module.-->
+  <BM_SpacerToxSpewerAbilityModule_InstallHuman_Implant.label>독소 살포 모듈 설치</BM_SpacerToxSpewerAbilityModule_InstallHuman_Implant.label>
+  <!--Original=Install a tox spewer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerToxSpewerAbilityModule_InstallHuman_Implant.description>신체 부위의 능력 모듈 슬롯에 독소 살포 모듈을 설치합니다.</BM_SpacerToxSpewerAbilityModule_InstallHuman_Implant.description>
+  <!--Original=Installing tox spewer module.-->
+  <BM_SpacerToxSpewerAbilityModule_InstallHuman_Implant.jobString>독소 살포 모듈 설치 중</BM_SpacerToxSpewerAbilityModule_InstallHuman_Implant.jobString>
+  <!--Original=install tox spewer module.-->
+  <BM_SpacerToxSpewerAbilityModule_InstallAnimal_Implant.label>독소 살포 모듈 설치</BM_SpacerToxSpewerAbilityModule_InstallAnimal_Implant.label>
+  <!--Original=Install a tox spewer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerToxSpewerAbilityModule_InstallAnimal_Implant.description>신체 부위의 능력 모듈 슬롯에 독소 살포 모듈을 설치합니다.</BM_SpacerToxSpewerAbilityModule_InstallAnimal_Implant.description>
+  <!--Original=Installing tox spewer module.-->
+  <BM_SpacerToxSpewerAbilityModule_InstallAnimal_Implant.jobString>독소 살포 모듈 설치 중</BM_SpacerToxSpewerAbilityModule_InstallAnimal_Implant.jobString>
   <!--Original=remove tox spewer module-->
   <BM_SpacerToxSpewerAbilityModule_RemoveFromReplacement.label>독소 살포 모듈 제거</BM_SpacerToxSpewerAbilityModule_RemoveFromReplacement.label>
   <!--Original=Remove tox spewer module.-->
   <BM_SpacerToxSpewerAbilityModule_RemoveFromReplacement.description>독소 살포 모듈을 제거합니다.</BM_SpacerToxSpewerAbilityModule_RemoveFromReplacement.description>
   <!--Original=Removing tox spewer module.-->
   <BM_SpacerToxSpewerAbilityModule_RemoveFromReplacement.jobString>독소 살포 모듈 제거 중</BM_SpacerToxSpewerAbilityModule_RemoveFromReplacement.jobString>
+  <!--Original=remove tox spewer module-->
+  <BM_SpacerToxSpewerAbilityModule_RemoveFromNatural.label>독소 살포 모듈 제거</BM_SpacerToxSpewerAbilityModule_RemoveFromNatural.label>
+  <!--Original=Remove tox spewer module.-->
+  <BM_SpacerToxSpewerAbilityModule_RemoveFromNatural.description>독소 살포 모듈을 제거합니다.</BM_SpacerToxSpewerAbilityModule_RemoveFromNatural.description>
+  <!--Original=Removing tox spewer module.-->
+  <BM_SpacerToxSpewerAbilityModule_RemoveFromNatural.jobString>독소 살포 모듈 제거 중</BM_SpacerToxSpewerAbilityModule_RemoveFromNatural.jobString>
   <!--Original=install hemomaker module-->
   <BM_SpacerHemomakerUtilityModule_InstallHuman.label>혈액 제조 모듈 설치</BM_SpacerHemomakerUtilityModule_InstallHuman.label>
   <!--Original=Install a hemomaker module into the body part&apos;s utility module slot.-->
@@ -3432,6 +3456,24 @@
   <BM_SpacerRevenantVertebraeAbilityModule_RemoveFromReplacement.description>망령 척추골 모듈을 제거합니다.</BM_SpacerRevenantVertebraeAbilityModule_RemoveFromReplacement.description>
   <!--Original=Removing revenant vertebrae module.-->
   <BM_SpacerRevenantVertebraeAbilityModule_RemoveFromReplacement.jobString>망령 척추골 모듈 제거 중</BM_SpacerRevenantVertebraeAbilityModule_RemoveFromReplacement.jobString>
+  <!--Original=install turret deployer module-->
+  <BM_SpacerTurretDeployerAbilityModule_InstallAnimal.label>포탑 배치기 모듈 설치</BM_SpacerTurretDeployerAbilityModule_InstallAnimal.label>
+  <!--Original=Install a turret deployer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerTurretDeployerAbilityModule_InstallAnimal.description>신체 부위의 능력 모듈 슬롯에 포탑 배치기 모듈을 설치합니다.</BM_SpacerTurretDeployerAbilityModule_InstallAnimal.description>
+  <!--Original=Installing turret deployer module.-->
+  <BM_SpacerTurretDeployerAbilityModule_InstallAnimal.jobString>포탑 배치기 모듈 설치 중</BM_SpacerTurretDeployerAbilityModule_InstallAnimal.jobString>
+  <!--Original=install turret deployer module-->
+  <BM_SpacerTurretDeployerAbilityModule_InstallHuman.label>포탑 배치기 모듈 설치</BM_SpacerTurretDeployerAbilityModule_InstallHuman.label>
+  <!--Original=Install a turret deployer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerTurretDeployerAbilityModule_InstallHuman.description>신체 부위의 능력 모듈 슬롯에 포탑 배치기 모듈을 설치합니다.</BM_SpacerTurretDeployerAbilityModule_InstallHuman.description>
+  <!--Original=Installing turret deployer module.-->
+  <BM_SpacerTurretDeployerAbilityModule_InstallHuman.jobString>포탑 배치기 모듈 설치 중</BM_SpacerTurretDeployerAbilityModule_InstallHuman.jobString>
+  <!--Original=remove turret deployer module-->
+  <BM_SpacerTurretDeployerAbilityModule_RemoveFromReplacement.label>포탑 배치기 모듈 제거</BM_SpacerTurretDeployerAbilityModule_RemoveFromReplacement.label>
+  <!--Original=Remove turret deployer module.-->
+  <BM_SpacerTurretDeployerAbilityModule_RemoveFromReplacement.description>포탑 배치기 모듈을 제거합니다.</BM_SpacerTurretDeployerAbilityModule_RemoveFromReplacement.description>
+  <!--Original=Removing turret deployer module.-->
+  <BM_SpacerTurretDeployerAbilityModule_RemoveFromReplacement.jobString>포탑 배치기 모듈 제거 중</BM_SpacerTurretDeployerAbilityModule_RemoveFromReplacement.jobString>
   <!--Original=install disruptor flare module-->
   <BM_SpacerDisruptorFlareAbilityModule_InstallAnimal.label>교란용 조명탄 모듈 설치</BM_SpacerDisruptorFlareAbilityModule_InstallAnimal.label>
   <!--Original=Install a disruptor flare module into the body part&apos;s ability module slot.-->
@@ -3498,12 +3540,30 @@
   <BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman.description>신체 부위의 능력 모듈 슬롯에 모조생명 살포 모듈을 설치합니다.</BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman.description>
   <!--Original=Installing deadlife spewer module.-->
   <BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman.jobString>모조생명 살포 모듈 설치 중</BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman.jobString>
+  <!--Original=install deadlife spewer module.-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman_Implant.label>모조생명 살포 모듈 설치</BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman_Implant.label>
+  <!--Original=Install a deadlife spewer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman_Implant.description>신체 부위의 능력 모듈 슬롯에 모조생명 살포 모듈을 설치합니다.</BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman_Implant.description>
+  <!--Original=Installing deadlife spewer module.-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman_Implant.jobString>모조생명 살포 모듈 설치 중</BM_SpacerDeadlifeSpewerAbilityModule_InstallHuman_Implant.jobString>
+  <!--Original=install deadlife spewer module.-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_InstallAnimal_Implant.label>모조생명 살포 모듈 설치</BM_SpacerDeadlifeSpewerAbilityModule_InstallAnimal_Implant.label>
+  <!--Original=Install a deadlife spewer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_InstallAnimal_Implant.description>신체 부위의 능력 모듈 슬롯에 모조생명 살포 모듈을 설치합니다.</BM_SpacerDeadlifeSpewerAbilityModule_InstallAnimal_Implant.description>
+  <!--Original=Installing deadlife spewer module.-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_InstallAnimal_Implant.jobString>모조생명 살포 모듈 설치 중</BM_SpacerDeadlifeSpewerAbilityModule_InstallAnimal_Implant.jobString>
   <!--Original=remove deadlife spewer module-->
   <BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromReplacement.label>모조생명 살포 모듈 제거</BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromReplacement.label>
   <!--Original=Remove deadlife spewer module.-->
   <BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromReplacement.description>모조생명 살포 모듈을 제거합니다.</BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromReplacement.description>
   <!--Original=Removing deadlife spewer module.-->
   <BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromReplacement.jobString>모조생명 살포 모듈 제거 중</BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromReplacement.jobString>
+  <!--Original=remove deadlife spewer module-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromNatural.label>모조생명 살포 모듈 제거</BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromNatural.label>
+  <!--Original=Remove deadlife spewer module.-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromNatural.description>모조생명 살포 모듈을 제거합니다.</BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromNatural.description>
+  <!--Original=Removing deadlife spewer module.-->
+  <BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromNatural.jobString>모조생명 살포 모듈 제거 중</BM_SpacerDeadlifeSpewerAbilityModule_RemoveFromNatural.jobString>
   <!--Original=make voidreader subpersona-->
   <BM_SpacerVoidreaderSubpersonaChip_Produce.label>공허독자 보조자아 제작</BM_SpacerVoidreaderSubpersonaChip_Produce.label>
   <!--Original=Make a voidreader subpersona.-->
@@ -3534,6 +3594,24 @@
   <BM_SpacerMiniTurretGravdroneAbilityModule_RemoveFromReplacement.description>소형 기관포 중력 드론 모듈을 제거합니다.</BM_SpacerMiniTurretGravdroneAbilityModule_RemoveFromReplacement.description>
   <!--Original=Removing miniーturret gravdrone module.-->
   <BM_SpacerMiniTurretGravdroneAbilityModule_RemoveFromReplacement.jobString>소형 기관포 중력 드론 모듈 제거 중</BM_SpacerMiniTurretGravdroneAbilityModule_RemoveFromReplacement.jobString>
+  <!--Original=install hunter drone deployer module-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_InstallAnimal.label>헌터 드론 전개기 모듈 설치</BM_SpacerHunterDroneDeployerAbilityModule_InstallAnimal.label>
+  <!--Original=Install a hunter drone deployer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_InstallAnimal.description>신체 부위의 능력 모듈 슬롯에 헌터 드론 전개기 모듈을 설치합니다.</BM_SpacerHunterDroneDeployerAbilityModule_InstallAnimal.description>
+  <!--Original=Installing hunter drone deployer module.-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_InstallAnimal.jobString>헌터 드론 전개기 모듈 설치 중</BM_SpacerHunterDroneDeployerAbilityModule_InstallAnimal.jobString>
+  <!--Original=install hunter drone deployer module-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_InstallHuman.label>헌터 드론 전개기 모듈 설치</BM_SpacerHunterDroneDeployerAbilityModule_InstallHuman.label>
+  <!--Original=Install a hunter drone deployer module into the body part&apos;s ability module slot.-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_InstallHuman.description>신체 부위의 능력 모듈 슬롯에 헌터 드론 전개기 모듈을 설치합니다.</BM_SpacerHunterDroneDeployerAbilityModule_InstallHuman.description>
+  <!--Original=Installing hunter drone deployer module.-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_InstallHuman.jobString>헌터 드론 전개기 모듈 설치 중</BM_SpacerHunterDroneDeployerAbilityModule_InstallHuman.jobString>
+  <!--Original=remove hunter drone deployer module-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_RemoveFromReplacement.label>헌터 드론 전개기 모듈 제거</BM_SpacerHunterDroneDeployerAbilityModule_RemoveFromReplacement.label>
+  <!--Original=Remove hunter drone deployer module.-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_RemoveFromReplacement.description>헌터 드론 전개기 모듈을 제거합니다.</BM_SpacerHunterDroneDeployerAbilityModule_RemoveFromReplacement.description>
+  <!--Original=Removing hunter drone deployer module.-->
+  <BM_SpacerHunterDroneDeployerAbilityModule_RemoveFromReplacement.jobString>헌터 드론 전개기 모듈 제거 중</BM_SpacerHunterDroneDeployerAbilityModule_RemoveFromReplacement.jobString>
   <!--Original=install hover module-->
   <BM_SpacerHoverUtilityModule_InstallAnimal.label>부양 모듈 설치</BM_SpacerHoverUtilityModule_InstallAnimal.label>
   <!--Original=Install a hover module into the body part&apos;s utility module slot.-->
@@ -3606,10 +3684,10 @@
   <BM_SpacerCryptoTurretGravdroneAbilityModule_RemoveFromReplacement.description>동결 기관포 중력 드론 모듈을 제거합니다.</BM_SpacerCryptoTurretGravdroneAbilityModule_RemoveFromReplacement.description>
   <!--Original=Removing crypto turret gravdrone module.-->
   <BM_SpacerCryptoTurretGravdroneAbilityModule_RemoveFromReplacement.jobString>동결 기관포 중력 드론 모듈 제거 중</BM_SpacerCryptoTurretGravdroneAbilityModule_RemoveFromReplacement.jobString>
-  <!--Original=assemble crypto turret gravdrone module-->
-  <Assemble_BM_SpacerCryptoTurretGravdroneAbilityModule.label>동결 기관포 중력 드론 모듈 제작</Assemble_BM_SpacerCryptoTurretGravdroneAbilityModule.label>
-  <!--Original=Assemble a crypto turret gravdrone ability module.-->
-  <Assemble_BM_SpacerCryptoTurretGravdroneAbilityModule.description>동결 기관포 중력 드론 능력 모듈을 만듭니다.</Assemble_BM_SpacerCryptoTurretGravdroneAbilityModule.description>
-  <!--Original=Making crypto turret gravdrone ability module.-->
-  <Assemble_BM_SpacerCryptoTurretGravdroneAbilityModule.jobString>동결 기관포 중력 드론 모듈 제작 중</Assemble_BM_SpacerCryptoTurretGravdroneAbilityModule.jobString>
+  <!--Original=make crypto turret gravdrone module-->
+  <Make_BM_SpacerCryptoTurretGravdroneAbilityModule.label>동결 기관포 중력 드론 모듈 제작</Make_BM_SpacerCryptoTurretGravdroneAbilityModule.label>
+  <!--Original=Make a crypto turret gravdrone module.-->
+  <Make_BM_SpacerCryptoTurretGravdroneAbilityModule.description>동결 기관포 중력 드론 모듈을 만듭니다.</Make_BM_SpacerCryptoTurretGravdroneAbilityModule.description>
+  <!--Original=Making crypto turret gravdrone module.-->
+  <Make_BM_SpacerCryptoTurretGravdroneAbilityModule.jobString>동결 기관포 중력 드론 모듈 제작 중</Make_BM_SpacerCryptoTurretGravdroneAbilityModule.jobString>
 </LanguageData>

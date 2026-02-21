@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--English=Fuel:-->
+  <BM_RefueledWith>연료:</BM_RefueledWith>
+  <!--English=Fuel level:-->
+  <BM_FuelLevel>연료 수준:</BM_FuelLevel>
+  <BM_SubcoreSyncRateMultiplier_Label>보조자아 동기화 속도</BM_SubcoreSyncRateMultiplier_Label>
+  <!--English=Affects how fast &quot;subpersona&quot; brain implants gain higher stats. The default value is 1, making the process take 500 inーgame days. Higher number means faster progress.-->
+  <BM_SubcoreSyncRateMultiplier_Tooltip>"보조자아" 뇌 이식물의 능력치가 상승하는 속도에 영향을 줍니다. 기본값은 1이며, 이 경우 동기화에 게임 시간으로 500일이 소요됩니다. 숫자가 높을수록 진행 속도가 빨라집니다.</BM_SubcoreSyncRateMultiplier_Tooltip>
+  <!--English=Unーbuyable modules-->
+  <BM_UnBuyableModules_Label>모듈 구입 불가</BM_UnBuyableModules_Label>
+  <!--English=This setting completely prevents traders from bringing and selling bionic modules. Enable this if you feel like modules are diluting the item pool too much.\n\nThis setting requires a game restart to take effect.-->
+  <BM_UnBuyableModules_ToolTip>이 설정은 상인이 생체공학 모듈을 가져오거나 팔지 못하도록 완전히 차단합니다. 모듈이 아이템 풀을 너무 많이 차지한다고 느껴질 경우 활성화하십시오.\n\n이 설정을 적용하려면 게임을 재시작해야 합니다.</BM_UnBuyableModules_ToolTip>
+  <!--English=Jump pack module fix-->
+  <BM_AltJumpPack_Label>점프팩 모듈 수정</BM_AltJumpPack_Label>
+  <!--English=Some people are experiencing an issue with jump pack modules that cause pawns to automatically leap towards enemies without being directed to do so. This setting, when enabled, fixes that by replacing the jump VERB with a jump ABILITY. \n\nIMPORTANT: In order to avoid errors when enabling this setting you should:\n\n1. Load your save and uninstall the jump pack modules from all pawns that have it\n\n2. Make a new save and reload the game [the game, not the save].\n\n3. Load the save and reーinstall the jump pack modules.\n\n\nBecause the process of making such a change results in errors if someone already has pawns with those modules on their save, I&apos;ve decided to make this setting for the time being. It will be &quot;properly&quot; implemented once 1.7 comes out.-->
+  <BM_AltJumpPack_ToolTip>몇몇 사람들이 점프팩 모듈 때문에 폰이 명령을 내리지 않았음에도 적에게 자동으로 도약하는 문제를 겪고 있습니다. 이 설정을 활성화하면 점프 VERB를 점프 ABILITY로 대체하여 해당 문제를 수정합니다.\n\n중요: 오류를 방지하려면 설정을 활성화할 때 다음 순서를 따라야 합니다:\n\n1. 세이브를 불러온 뒤 점프팩 모듈이 장착된 모든 폰에게서 모듈을 제거합니다.\n\n2. 새로 저장한 후, 게임을 다시 실행합니다. [저장 파일이 아니라 게임을 다시 실행하는겁니다.]\n\n3. 다시 세이브를 불러와 모듈을 재설치합니다.\n\n\n이미 모듈을 사용 중인 세이브에서 설정을 변경하면 오류가 발생할 수 있으므로, 당분간 이 설정을 임시로 제공하기로 했습니다. 이 기능은 1.7 버전에서 "적절하게" 구현될 예정입니다.</BM_AltJumpPack_ToolTip>
+  <!--English=ALL replacements are modular-->
+  <BM_Omnimodularity_Label>모든 대체물 모듈화</BM_Omnimodularity_Label>
+  <!--English=This setting, while enabled, causes all body part replacements in your game to become modular. Unlikely to cause any errors, but might result in unbalanced combinations. Perfect for those that want modular peg legs for their colonists.\n\nThis setting requires a game restart to take effect.-->
+  <BM_Omnimodularity_ToolTip>이 설정을 활성화하면 게임 내의 모든 신체 부위 대체물이 모듈화됩니다. 오류 가능성은 낮지만, 밸런스가 맞지 않는 조합이 만들어질 수 있습니다. 정착민에게 '모듈형 나무 의족'을 달아주고 싶은 분들에게 완벽한 설정입니다.\n\n이 설정을 적용하려면 게임을 재시작해야 합니다.</BM_Omnimodularity_ToolTip>
+  <!--English=Reset Mod Settings-->
+  <BM_ResetToDefault>모드 설정 초기화</BM_ResetToDefault>
+  <!--English=Change this mod&apos;s settings back to their default values.-->
+  <BM_ResetToDefault_Tooltip>이 모드의 설정을 기본값으로 되돌립니다.</BM_ResetToDefault_Tooltip>
+</LanguageData>

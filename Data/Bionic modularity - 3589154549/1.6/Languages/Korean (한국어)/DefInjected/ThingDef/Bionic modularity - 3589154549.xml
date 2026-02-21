@@ -598,6 +598,10 @@
   <BM_SpacerRevenantVertebraeAbilityModule.label>망령 척추골 모듈</BM_SpacerRevenantVertebraeAbilityModule.label>
   <!--Original=A highーtech device that can be installed into any compatible artificial spine replacement. This particular module is functionally almost identical to the revenant vertebrae implant, the only difference being the option of installing the module alongside other spine replacements and enhancements.-->
   <BM_SpacerRevenantVertebraeAbilityModule.description>호환되는 모든 인공 척추 대체물에 설치할 수 있는 첨단 장치입니다. 이 모듈은 기능적으로 망령 척추골 이식물과 거의 동일합니다. 유일한 차이점은 다른 척추 대체물 및 강화물과 함께 설치할 수 있다는 것입니다.</BM_SpacerRevenantVertebraeAbilityModule.description>
+  <!--Original=turret deployer module-->
+  <BM_SpacerTurretDeployerAbilityModule.label>포탑 배치기 모듈</BM_SpacerTurretDeployerAbilityModule.label>
+  <!--Original=A highーtech combatーoriented device that can be installed into any compatible artificial arm or leg replacement. This particular model includes a compact storage and deployment apparatus for turret packs. The core functions of the pack remains the same and it has to be replaced after each use as a result. Due to its small size and low weight, the wielder can carry it around comfortably with no interference during daily tasks.-->
+  <BM_SpacerTurretDeployerAbilityModule.description>호환되는 모든 인공 팔 또는 다리 대체물에 설치할 수 있는 첨단 전투 지향 장치입니다. 이 모듈은 포탑 배낭을 위한 소형 보관 및 전개 장치가 포함되어 있습니다. 포탑 배낭의 핵심 기능은 동일하게 유지되므로 사용할 때마다 교체해야 합니다. 작은 크기와 가벼운 무게 덕분에, 사용자가 일상 업무 중에도 방해받지 않고 편하게 휴대할 수 있습니다.</BM_SpacerTurretDeployerAbilityModule.description>
   <!--Original=disruptor flare module-->
   <BM_SpacerDisruptorFlareAbilityModule.label>교란용 조명탄 모듈</BM_SpacerDisruptorFlareAbilityModule.label>
   <!--Original=A highーtech combatーoriented device that can be installed into any compatible artificial leg replacement. This particular model includes a disruptor flare dispenser which can be used similarly to a standard grenade belt or its contents can be launched directly from it with a swift leg motion. It is relatively small and wellーhidden, allowing the wielder to carry it around comfortably with no interference during daily tasks. Needs to be reloaded with bioferrite after use.-->
@@ -630,6 +634,10 @@
   <BM_Gravdrone_Gun_MiniTurret.description>전자동 소구경 기관총이 장착된 포탑입니다. 현재 중력 드론에 장착되어 있습니다.</BM_Gravdrone_Gun_MiniTurret.description>
   <!--Original=gravdrone miniーturret gun-->
   <BM_Gravdrone_Gun_MiniTurret.verbs.Verb_Shoot.label>중력 드론 소형 포탑</BM_Gravdrone_Gun_MiniTurret.verbs.Verb_Shoot.label>
+  <!--Original=hunter drone deployer module-->
+  <BM_SpacerHunterDroneDeployerAbilityModule.label>헌터 드론 전개기 모듈</BM_SpacerHunterDroneDeployerAbilityModule.label>
+  <!--Original=A highーtech combatーoriented device that can be installed into any compatible artificial arm or leg replacement. This particular model includes a compact storage and deployment apparatus for hunter packs. The core functions of the pack remains the same and it has to be replaced after each use as a result. Due to its small size and low weight, the wielder can carry it around comfortably with no interference during daily tasks.-->
+  <BM_SpacerHunterDroneDeployerAbilityModule.description>호환되는 모든 인공 팔 또는 다리 대체물에 설치할 수 있는 첨단 전투 지향 장치입니다. 이 모듈은 헌터 등짐을 위한 소형 보관 및 전개 장치가 포함되어 있습니다. 헌터 등짐의 핵심 기능은 동일하게 유지되므로 사용할 때마다 교체해야 합니다. 작은 크기와 가벼운 무게 덕분에, 사용자가 일상 업무 중에도 방해받지 않고 편하게 휴대할 수 있습니다.</BM_SpacerHunterDroneDeployerAbilityModule.description>
   <!--Original=hover module-->
   <BM_SpacerHoverUtilityModule.label>부양 모듈</BM_SpacerHoverUtilityModule.label>
   <!--Original=A highーtech device that can be installed into any compatible artificial spine replacement. This particular module utilizes gravcore technology in order to allow its user to gently hover above the ground, letting them traverse rough terrain with ease.-->

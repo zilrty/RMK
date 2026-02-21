@@ -3644,6 +3644,10 @@
   <BM_SpacerRevenantVertebraeAbilityModule.label>망령 척추골 모듈</BM_SpacerRevenantVertebraeAbilityModule.label>
   <!--Original=An installed revenant vertebrae ability module.-->
   <BM_SpacerRevenantVertebraeAbilityModule.description>설치된 망령 척추골 능력 모듈입니다.</BM_SpacerRevenantVertebraeAbilityModule.description>
+  <!--Original=turret deployer module-->
+  <BM_SpacerTurretDeployerAbilityModule.label>포탑 배치기 모듈</BM_SpacerTurretDeployerAbilityModule.label>
+  <!--Original=An installed turret deployer ability module.-->
+  <BM_SpacerTurretDeployerAbilityModule.description>설치된 포탑 배치기 능력 모듈입니다.</BM_SpacerTurretDeployerAbilityModule.description>
   <!--Original=disruptor flare module-->
   <BM_SpacerDisruptorFlareAbilityModule.label>교란용 조명탄 모듈</BM_SpacerDisruptorFlareAbilityModule.label>
   <!--Original=An installed disruptor flare ability module.-->
@@ -3882,6 +3886,10 @@
   <BM_CombatGravdrone_MiniTurret.labelNoun>소형 기관포 중력 드론 지원</BM_CombatGravdrone_MiniTurret.labelNoun>
   <!--Original=A gravdrone equipped with a miniーturret is following this person. It will target any enemies within range.-->
   <BM_CombatGravdrone_MiniTurret.description>소형 기관포가 장착된 중력 드론이 이 사람을 따라다니고 있습니다. 사거리 내의 모든 적을 공격합니다.</BM_CombatGravdrone_MiniTurret.description>
+  <!--Original=hunter drone deployer module-->
+  <BM_SpacerHunterDroneDeployerAbilityModule.label>헌터 드론 전개기 모듈</BM_SpacerHunterDroneDeployerAbilityModule.label>
+  <!--Original=An installed hunter drone deployer ability module.-->
+  <BM_SpacerHunterDroneDeployerAbilityModule.description>설치된 헌터 드론 전개기 능력 모듈입니다.</BM_SpacerHunterDroneDeployerAbilityModule.description>
   <!--Original=hover module-->
   <BM_SpacerHoverUtilityModule.label>부양 모듈</BM_SpacerHoverUtilityModule.label>
   <!--Original=An installed hover utility module.-->
