@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=active TargetA.-->
+  <UV_ActiveTank.reportString>TargetA 활성화 중</UV_ActiveTank.reportString>
+  <!--Original=using TargetB to TargetA.-->
+  <UV_UseChip.reportString>TargetA에게 TargetB 사용 중</UV_UseChip.reportString>
+  <!--Original=leading ritual.-->
+  <UV_LeadRitual.reportString>의식 주도 중</UV_LeadRitual.reportString>
+  <!--Original=entering node.-->
+  <UV_Enter.reportString>노드 진입 중</UV_Enter.reportString>
+  <!--Original=skipping.-->
+  <UV_Skip.reportString>공간도약 중</UV_Skip.reportString>
+</LanguageData>

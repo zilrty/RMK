@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=twisted reconstruction-->
+  <UV_TwistedReconstruction.label>비틀린 재구성</UV_TwistedReconstruction.label>
+  <!--Original=Channels Void energy to warp and restructure all of the target&apos;s equipped gear, altering its persona an components while fully repairing its durability.-->
+  <UV_TwistedReconstruction.description>공허의 에너지를 끌어와 대상이 장착한 모든 장비를 뒤틀고 재구축합니다. 이 과정에서 무기의 자아와 부품들이 변형되지만, 내구도는 완전히 수리됩니다.</UV_TwistedReconstruction.description>
+</LanguageData>

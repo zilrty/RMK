@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=draw monolith-->
+  <UV_Ritual_DrawMonolith.label>모노리스 유인</UV_Ritual_DrawMonolith.label>
+  <!--Original=draw the monolith to current map-->
+  <UV_Ritual_DrawMonolith.description>모노리스를 현재 지도로 불러냅니다.</UV_Ritual_DrawMonolith.description>
+</LanguageData>

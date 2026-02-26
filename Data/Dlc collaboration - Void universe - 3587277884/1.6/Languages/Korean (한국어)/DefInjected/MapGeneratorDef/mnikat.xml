@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=void asteroid-->
+  <UV_AsteroidMap.label>공허 소행성</UV_AsteroidMap.label>
+  <!--Original=undercave-->
+  <UV_MapGenerator_Dreadmeld.label>지하동굴</UV_MapGenerator_Dreadmeld.label>
+  <!--Original=undercave-->
+  <UV_MapGenerator_FleshHeart.label>지하동굴</UV_MapGenerator_FleshHeart.label>
+  <!--Original=basic asteroid-->
+  <UV_MapGeneratorDef_PitGateAsteroid.label>기본 소행성</UV_MapGeneratorDef_PitGateAsteroid.label>
+  <!--Original=basic asteroid-->
+  <UV_MapGeneratorDef_HeartPitGateAsteroid.label>기본 소행성</UV_MapGeneratorDef_HeartPitGateAsteroid.label>
+  <!--Original=basic asteroid-->
+  <UV_MapGeneratorDef_AncientHatch.label>기본 소행성</UV_MapGeneratorDef_AncientHatch.label>
+  <!--Original=ancient stockpile-->
+  <UV_AncientStockpile.label>고대 저장고</UV_AncientStockpile.label>
+</LanguageData>

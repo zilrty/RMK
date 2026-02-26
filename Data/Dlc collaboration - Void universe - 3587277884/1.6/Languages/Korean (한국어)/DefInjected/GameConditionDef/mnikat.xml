@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=ship offset-->
+  <UV_ShipOffset.label>중력부양선 보정</UV_ShipOffset.label>
+  <!--Original=affect the maximum flight distance of the Gravship-->
+  <UV_ShipOffset.description>중력부양선의 최대 비행 거리에 영향을 줍니다.</UV_ShipOffset.description>
+  <!--Original=unnatural darkness-->
+  <UV_UnnaturalDarkness.label>부자연스러운 어둠</UV_UnnaturalDarkness.label>
+  <!--Original=The world is blanketed by a layer of unnatural darkness. From the inky blackness, one can hear the inhuman groaning of deadly creatures. Stay in the light.-->
+  <UV_UnnaturalDarkness.description>세상이 부자연스러운 어둠 한 겹에 덮였습니다. 칠흑 같은 어둠에서 치명적인 생물의 비인간적인 울음소리가 들립니다. 빛 속에 머무세요.</UV_UnnaturalDarkness.description>
+</LanguageData>

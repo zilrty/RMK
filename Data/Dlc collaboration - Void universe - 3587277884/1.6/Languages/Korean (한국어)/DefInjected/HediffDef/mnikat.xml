@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=dark infusion-->
+  <UV_Hediff_Void.label>공허 부여</UV_Hediff_Void.label>
+  <!--Original=Protected by Anomaly nanites, the target can temporarily operate safely in the vacuum of space.-->
+  <UV_Hediff_Void.description>어둠의 초월입자의 보호를 받아, 일정 시간 동안 우주 공간에서 안전하게 활동할 수 있습니다.</UV_Hediff_Void.description>
+  <!--Original=dark infusion-->
+  <UV_Hediff_DarkInfusion.label>어둠 부여</UV_Hediff_DarkInfusion.label>
+  <!--Original=Protected by Anomaly nanites, the target can temporarily operate safely in the vacuum of space.-->
+  <UV_Hediff_DarkInfusion.description>어둠의 초월입자의 보호를 받아, 일정 시간 동안 우주 공간에서 안전하게 활동할 수 있습니다.</UV_Hediff_DarkInfusion.description>
+  <!--Original=dark infusion-->
+  <UV_Hediff_DarkInfusionPermenent.label>어둠 부여</UV_Hediff_DarkInfusionPermenent.label>
+  <!--Original=Protected by Anomaly nanites, the target can temporarily operate safely in the vacuum of space.-->
+  <UV_Hediff_DarkInfusionPermenent.description>어둠의 초월입자의 보호를 받아, 일정 시간 동안 우주 공간에서 안전하게 활동할 수 있습니다.</UV_Hediff_DarkInfusionPermenent.description>
+  <!--Original=loss gold Cube-->
+  <UV_Hediff_GoldenCanary.label>황금 큐브 없음</UV_Hediff_GoldenCanary.label>
+  <!--Original=An inactive Gold Canary. If the initiation ritual is not performed soon, this gilded husk will rapidly disintegrate.-->
+  <UV_Hediff_GoldenCanary.description>제대로 활성화되지 않은 황금 카나리아입니다. 의식을 신속하게 행하지 않으면, 이 껍데기는 빠르게 붕괴할 것입니다.</UV_Hediff_GoldenCanary.description>
+  <!--Original=Filling-->
+  <UV_Hediff_GoldenCanary.stages.1.label>채워지는 중</UV_Hediff_GoldenCanary.stages.1.label>
+  <!--Original=golden cube activated-->
+  <UV_Hediff_GoldenCanary_Actived.label>황금 큐브 활성화</UV_Hediff_GoldenCanary_Actived.label>
+  <!--Original=A truly living Gold Canary, immune to all damage from enemies. It will deactivate and disintegrate after some days.-->
+  <UV_Hediff_GoldenCanary_Actived.description>진정한 생명을 얻은 황금 카나리아입니다. 적에게 어떤 피해도 받지 않지만, 며칠이 지나면 기능이 정지되어 붕괴할 것입니다.</UV_Hediff_GoldenCanary_Actived.description>
+  <!--Original=golden canary alleviation-->
+  <UV_Hediff_GoldenCanaryHeal.label>황금 카나리아 완화</UV_Hediff_GoldenCanaryHeal.label>
+  <!--Original=The Gold Canary&apos;s psychic pulse alleviates cube addiction.-->
+  <UV_Hediff_GoldenCanaryHeal.description>황금 카나리아의 정신 파동이 황금 큐브 중독을 완화시켜 줍니다.</UV_Hediff_GoldenCanaryHeal.description>
+  <!--Original=rage speed-->
+  <UV_RageSpeed.label>분노 속도</UV_RageSpeed.label>
+  <!--Original=This creature has been enraged by its wounds and is moving faster.-->
+  <UV_RageSpeed.description>이 생물은 상처를 입어 분노했으며 더 빠르게 움직입니다.</UV_RageSpeed.description>
+  <!--Original=void infusion-->
+  <UV_Hediff_VoidInfusionPermenent.label>공허 부여</UV_Hediff_VoidInfusionPermenent.label>
+  <!--Original=Protected by Anomaly nanites, the target can temporarily operate safely in the vacuum of space.-->
+  <UV_Hediff_VoidInfusionPermenent.description>어둠의 초월입자의 보호를 받아, 일정 시간 동안 우주 공간에서 안전하게 활동할 수 있습니다.</UV_Hediff_VoidInfusionPermenent.description>
+</LanguageData>

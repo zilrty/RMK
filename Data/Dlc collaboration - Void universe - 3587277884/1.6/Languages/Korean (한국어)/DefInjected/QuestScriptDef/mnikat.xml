@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=discoveryMethod-->
+  <UV_OpportunitySite_PitGateAsteroid.root.nodes.0.name>discoveryMethod</UV_OpportunitySite_PitGateAsteroid.root.nodes.0.name>
+  <!--Original=discoveryMethod-->
+  <UV_OpportunitySite_PitGateAsteroid.root.nodes.0.elseNode.nodes.0.name>discoveryMethod</UV_OpportunitySite_PitGateAsteroid.root.nodes.0.elseNode.nodes.0.name>
+  <!--Original=discoveryMethod-->
+  <UV_OpportunitySite_HeartPitGateAsteroid.root.nodes.0.name>discoveryMethod</UV_OpportunitySite_HeartPitGateAsteroid.root.nodes.0.name>
+  <!--Original=discoveryMethod-->
+  <UV_OpportunitySite_HeartPitGateAsteroid.root.nodes.0.elseNode.nodes.0.name>discoveryMethod</UV_OpportunitySite_HeartPitGateAsteroid.root.nodes.0.elseNode.nodes.0.name>
+  <!--Original=discoveryMethod-->
+  <UV_OpportunitySite_StoreAsteroid.root.nodes.0.name>discoveryMethod</UV_OpportunitySite_StoreAsteroid.root.nodes.0.name>
+  <!--Original=discoveryMethod-->
+  <UV_OpportunitySite_StoreAsteroid.root.nodes.0.elseNode.nodes.0.name>discoveryMethod</UV_OpportunitySite_StoreAsteroid.root.nodes.0.elseNode.nodes.0.name>
+  <!--Original=questDescriptionー&gt;sightstealerarrival-->
+  <UV_SightstealerArrival.questNameRules.rulesStrings>
+    <li>questDescription-&gt;sightstealerarrival</li>
+  </UV_SightstealerArrival.questNameRules.rulesStrings>
+  <!--Original=questDescriptionー&gt;sightstealerarrival-->
+  <UV_SightstealerArrival.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;sightstealerarrival</li>
+  </UV_SightstealerArrival.questDescriptionRules.rulesStrings>
+  <!--Original=questNameー&gt; the ominous pitted asteroid-->
+  <UV_OpportunitySite_PitGateAsteroid.questNameRules.rulesStrings>
+    <li>questName-&gt;불길한 구멍이 있는 소행성</li>
+  </UV_OpportunitySite_PitGateAsteroid.questNameRules.rulesStrings>
+  <!--Original=questDescriptionー&gt;You have detected a rocky asteroid towed into the planet&apos;s orbit, a relic of mining operations long past. An unnaturally massive crater scars its surface, and radar indicates ominous psychic emanations steadily pouring from within.
+This site can be reached via Transport Pod, Shuttle, or Grav Ship.-->
+  <UV_OpportunitySite_PitGateAsteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;아주 오래전 채광 작업을 위해 행성 궤도로 끌어온 암석 소행성 하나를 탐지했습니다. 이 소행성에는 부자연스러운 거대한 구멍이 존재하며, 레이더 측정 결과 내부에서 불길한 정신 파동이 끊임없이 방출되고 있습니다.\n\n궤도 지역으로는 중력부양선, 왕복선, 또는 수송 포드를 이용해 이동할 수 있습니다. 출발 전에 정착민들에게 궤도에 적합한 복장을 입히세요.</li>
+  </UV_OpportunitySite_PitGateAsteroid.questDescriptionRules.rulesStrings>
+  <!--Original=You have discovered-->
+  <UV_OpportunitySite_PitGateAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>발견했습니다</UV_OpportunitySite_PitGateAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!--Original=questNameー&gt; the ominous pitted asteroid-->
+  <UV_OpportunitySite_HeartPitGateAsteroid.questNameRules.rulesStrings>
+    <li>questName-&gt;불길한 구멍이 있는 소행성</li>
+  </UV_OpportunitySite_HeartPitGateAsteroid.questNameRules.rulesStrings>
+  <!--Original=questDescriptionー&gt;You have detected a rocky asteroid towed into the planet&apos;s orbit, a relic of mining operations long past. An unnaturally massive crater scars its surface, and radar indicates ominous psychic emanations steadily pouring from within.
+This site can be reached via Transport Pod, Shuttle, or Grav Ship.-->
+  <UV_OpportunitySite_HeartPitGateAsteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;아주 오래전 채광 작업을 위해 행성 궤도로 끌어온 암석 소행성 하나를 탐지했습니다. 이 소행성에는 부자연스러운 거대한 구멍이 존재하며, 레이더 측정 결과 내부에서 불길한 정신 파동이 끊임없이 방출되고 있습니다.\n\n궤도 지역으로는 중력부양선, 왕복선, 또는 수송 포드를 이용해 이동할 수 있습니다. 출발 전에 정착민들에게 궤도에 적합한 복장을 입히세요.</li>
+  </UV_OpportunitySite_HeartPitGateAsteroid.questDescriptionRules.rulesStrings>
+  <!--Original=You have discovered-->
+  <UV_OpportunitySite_HeartPitGateAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>발견했습니다</UV_OpportunitySite_HeartPitGateAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!--Original=questNameー&gt; the ominous orbital station-->
+  <UV_OpportunitySite_StoreAsteroid.questNameRules.rulesStrings>
+    <li>questName-&gt;불길한 궤도 기지</li>
+  </UV_OpportunitySite_StoreAsteroid.questNameRules.rulesStrings>
+  <!--Original=questDescriptionー&gt;You have detected a rocky asteroid towed into the planet&apos;s orbit, a relic of longーpast mining operations. Its interior has been hollowed out and extensively refitted into an underground base. Radar scans reveal ominous psychic emanations steadily pouring from within.
+This site can be reached via Transport Pod, Shuttle, or Grav Ship.-->
+  <UV_OpportunitySite_StoreAsteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;아주 오래전 채광 작업을 위해 행성 궤도로 끌어온 암석 소행성 하나를 탐지했습니다. 이 소행성은 내부가 이미 파헤쳐 졌고 심층 개조를 거쳐 지하 기지가 구축되어 있습니다. 레이더 측정 결과 내부에서 불길한 정신 파동이 끊임없이 방출되고 있습니다.\n\n궤도 지역으로는 중력부양선, 왕복선, 또는 수송 포드를 이용해 이동할 수 있습니다. 출발 전에 정착민들에게 궤도에 적합한 복장을 입히세요.</li>
+  </UV_OpportunitySite_StoreAsteroid.questDescriptionRules.rulesStrings>
+  <!--Original=You have discovered-->
+  <UV_OpportunitySite_StoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>발견했습니다</UV_OpportunitySite_StoreAsteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!--Original=questDescriptionー&gt;unnatural darkness-->
+  <UV_UnnaturalDarkness.questNameRules.rulesStrings>
+    <li>questDescription-&gt;부자연스러운 어둠</li>
+  </UV_UnnaturalDarkness.questNameRules.rulesStrings>
+  <!--Original=questDescriptionー&gt;-->
+  <UV_UnnaturalDarkness.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;</li>
+  </UV_UnnaturalDarkness.questDescriptionRules.rulesStrings>
+  <!--Original=initialPhaseLetterLabelー&gt;Dimming sky-->
+  <!--Original=initialPhaseLetterTextー&gt;The sky is dimming. Soon it will be hard to see anything that isn&apos;t directly lit by lamps or torches.\n\nBuild wellーlit areas to survive. Craft disruptor flare packs to explore the darkness.-->
+  <!--Original=mainPhaseLetterLabelー&gt;Unnatural darkness-->
+  <!--Original=mainPhaseLetterTextー&gt;An unnatural darkness is descending. Inhuman things move just outside the light.\n\nPillars of jagged, oily metal are falling from the sky. They are terrible to look upon but surely contain valuable technology. Reach them by building wellーlit paths ー and destroy them to end this nightmare.\n\nAlternatively, if you can survive long enough, the darkness will dissipate on its own.-->
+  <!--Original=darknessLiftedLetterLabelー&gt;Darkness lifting-->
+  <!--Original=darknessLiftedLetterTextー&gt;The unnatural darkness has begun to dissipate. The metallic pillars have somehow folded into themselves and vanished. You survived!-->
+  <UV_UnnaturalDarkness.questContentRules.rulesStrings>
+    <li>initialPhaseLetterLabel-&gt;어두워지는 하늘</li>
+    <li>initialPhaseLetterText-&gt;하늘이 점점 어두워지고 있습니다. 곧 횃불이나 전등이 밝히는 곳이 아니면 앞을 보기 힘들어질 것입니다.\n\n살아남으려면 조명을 확보하세요. 어둠 속으로 나아가려면 교란 조명탄 배낭을 제작하세요.</li>
+    <li>mainPhaseLetterLabel-&gt;부자연스러운 어둠</li>
+    <li>mainPhaseLetterText-&gt;부자연스러운 어둠이 내려앉고 있습니다. 인간이 아닌 어떤 것들이 빛의 가장자리 너머에서 움직이고 있습니다.\n\n톱니처럼 뾰족하고 겉이 번지르르한 금속질 기둥들이 하늘에서 떨어지고 있습니다. 차마 직접 보기 힘들 정도로 흉측하지만, 저 안에는 귀중한 기술이 들어있을 게 분명합니다. 조명을 잘 갖춘 경로를 건설해서 도달하세요. 그리고 기둥을 모두 파괴해서 이 악몽을 끝내세요.\n\n아니면 어둠이 스스로 사라질 때까지 오래 버티세요.</li>
+    <li>darknessLiftedLetterLabel-&gt;걷히는 어둠</li>
+    <li>darknessLiftedLetterText-&gt;부자연스러운 어둠이 걷히고 있습니다. 금속질 기둥들은 알 수 없는 방식으로 안으로 접히더니 사라졌습니다. 살아남았습니다!</li>
+  </UV_UnnaturalDarkness.questContentRules.rulesStrings>
+</LanguageData>

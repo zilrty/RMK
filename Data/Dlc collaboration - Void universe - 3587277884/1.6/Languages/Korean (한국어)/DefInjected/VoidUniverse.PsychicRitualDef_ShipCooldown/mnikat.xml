@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=ship cooldown-->
+  <UV_Ritual_ShipCooldown.label>함선 냉각</UV_Ritual_ShipCooldown.label>
+  <!--Original=Flushes the ship&apos;s engine with Anomaly nanites, rapidly venting waste heat and priming its systems for optimal performance.-->
+  <UV_Ritual_ShipCooldown.description>중력부양선의 구동기를 초월입자로 정화하여 폐열을 빠르게 배출하고, 시스템을 최적의 작동 상태로 정렬합니다.</UV_Ritual_ShipCooldown.description>
+</LanguageData>
