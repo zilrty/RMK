@@ -941,6 +941,8 @@
     <li IfModActive="Syrus.CustomizeAnimals">Data/Syrus/Customize Animals - 2587157544/1.4</li>
     <li IfModActive="Syrus.HMSChoice">Data/Syrus/Healer Mech Serum Choice - 2714095848</li>
     <li IfModActive="syrus.yayoscombataddon">Data/Syrus/Yayo's Combat 3 - Addon - 2796514196</li>
+    <li IfModActive="moistestwhale.ceilingtradebeacon">Data/themoistestwhale/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
+    <li IfModActive="moistestWhale.gitsCyberbrains">Data/themoistestwhale/GiTS Cyberbrains - 3272114598</li>
     <li IfModActive="moistestWhale.gitsCyberoptics">Data/themoistestwhale/GiTS Cyberoptic Visors - 3496827622/1.6</li>
     <li IfModActive="TMC.Armory.AssaultRifle.1">Data/TMC/TMC Armory - Assault Rifles #1 - 2208689786</li>
     <li IfModActive="TMC.Armory.CommunityPack">Data/TMC/TMC Armory - Community Pack  - 2297887643</li>
@@ -1481,7 +1483,6 @@
     <li IfModActive="jdgg.adaptive.cargoholds">Data/Cargo Holds - 3536708812</li>
     <li IfModActive="CatLover366.BootsAndGloves">Data/Cat's Boots and Gloves - 3552813398</li>
     <li IfModActive="PeteTimesSix.CategorizedCleaning.Combo">Data/Categorized Cleaning - Combo - 3521792891</li>
-    <li IfModActive="moistestwhale.ceilingtradebeacon">Data/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
     <li IfModActive="tot.cmc.weaponry">Data/Celestial Manufacturing Cooperation MKII - 2883670795</li>
     <li IfModActive="ALIEN.CensoredArmory">Data/Censored Armory - 2356277786</li>
     <li IfModActive="n7huntsman.ceramics">Data/Ceramics - 1833163132</li>
@@ -1737,7 +1738,6 @@
     <li IfModActive="brassy.sfguns.vanilla">Data/Girl's Frontline Sangvis Ferri Weapons - 1684134687</li>
     <li IfModActive="RicoFox233.GirlsFrontline.404Team">Data/Girls' Frontline Styles - 404 Team - 1651177696</li>
     <li IfModActive="RicoFox233.GirlsFrontline.ARTeam">Data/Girls' Frontline Styles - AR Team - 2078863841</li>
-    <li IfModActive="moistestWhale.gitsCyberbrains">Data/GiTS Cyberbrains - 3272114598</li>
     <li IfModActive="NanoCE.GlassLights">Data/Glass+Lights - 826153738</li>
     <li IfModActive="Xavior.GlitterTech">Data/Glitter Tech - 2558099206</li>
     <li IfModActive="K.GlitterNet">Data/GlitterNet - 1725544583</li>
@@ -3498,6 +3498,8 @@
     <li IfModActive="Syrus.CustomizeAnimals">Data/Syrus/Customize Animals - 2587157544/1.4</li>
     <li IfModActive="Syrus.HMSChoice">Data/Syrus/Healer Mech Serum Choice - 2714095848</li>
     <li IfModActive="syrus.yayoscombataddon">Data/Syrus/Yayo's Combat 3 - Addon - 2796514196</li>
+    <li IfModActive="moistestwhale.ceilingtradebeacon">Data/themoistestwhale/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
+    <li IfModActive="moistestWhale.gitsCyberbrains">Data/themoistestwhale/GiTS Cyberbrains - 3272114598</li>
     <li IfModActive="moistestWhale.gitsCyberoptics">Data/themoistestwhale/GiTS Cyberoptic Visors - 3496827622/1.6</li>
     <li IfModActive="TMC.Armory.AssaultRifle.1">Data/TMC/TMC Armory - Assault Rifles #1 - 2208689786</li>
     <li IfModActive="TMC.Armory.CommunityPack">Data/TMC/TMC Armory - Community Pack  - 2297887643</li>
@@ -4038,7 +4040,6 @@
     <li IfModActive="jdgg.adaptive.cargoholds">Data/Cargo Holds - 3536708812</li>
     <li IfModActive="CatLover366.BootsAndGloves">Data/Cat's Boots and Gloves - 3552813398</li>
     <li IfModActive="PeteTimesSix.CategorizedCleaning.Combo">Data/Categorized Cleaning - Combo - 3521792891</li>
-    <li IfModActive="moistestwhale.ceilingtradebeacon">Data/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
     <li IfModActive="tot.cmc.weaponry">Data/Celestial Manufacturing Cooperation MKII - 2883670795</li>
     <li IfModActive="ALIEN.CensoredArmory">Data/Censored Armory - 2356277786</li>
     <li IfModActive="n7huntsman.ceramics">Data/Ceramics - 1833163132</li>
@@ -4294,7 +4295,6 @@
     <li IfModActive="brassy.sfguns.vanilla">Data/Girl's Frontline Sangvis Ferri Weapons - 1684134687</li>
     <li IfModActive="RicoFox233.GirlsFrontline.404Team">Data/Girls' Frontline Styles - 404 Team - 1651177696</li>
     <li IfModActive="RicoFox233.GirlsFrontline.ARTeam">Data/Girls' Frontline Styles - AR Team - 2078863841</li>
-    <li IfModActive="moistestWhale.gitsCyberbrains">Data/GiTS Cyberbrains - 3272114598</li>
     <li IfModActive="NanoCE.GlassLights">Data/Glass+Lights - 826153738</li>
     <li IfModActive="Xavior.GlitterTech">Data/Glitter Tech - 2558099206</li>
     <li IfModActive="K.GlitterNet">Data/GlitterNet - 1725544583</li>
@@ -6055,6 +6055,8 @@
     <li IfModActive="Syrus.CustomizeAnimals">Data/Syrus/Customize Animals - 2587157544/1.4</li>
     <li IfModActive="Syrus.HMSChoice">Data/Syrus/Healer Mech Serum Choice - 2714095848</li>
     <li IfModActive="syrus.yayoscombataddon">Data/Syrus/Yayo's Combat 3 - Addon - 2796514196</li>
+    <li IfModActive="moistestwhale.ceilingtradebeacon">Data/themoistestwhale/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
+    <li IfModActive="moistestWhale.gitsCyberbrains">Data/themoistestwhale/GiTS Cyberbrains - 3272114598</li>
     <li IfModActive="moistestWhale.gitsCyberoptics">Data/themoistestwhale/GiTS Cyberoptic Visors - 3496827622/1.6</li>
     <li IfModActive="TMC.Armory.AssaultRifle.1">Data/TMC/TMC Armory - Assault Rifles #1 - 2208689786</li>
     <li IfModActive="TMC.Armory.CommunityPack">Data/TMC/TMC Armory - Community Pack  - 2297887643</li>
@@ -6595,7 +6597,6 @@
     <li IfModActive="jdgg.adaptive.cargoholds">Data/Cargo Holds - 3536708812</li>
     <li IfModActive="CatLover366.BootsAndGloves">Data/Cat's Boots and Gloves - 3552813398</li>
     <li IfModActive="PeteTimesSix.CategorizedCleaning.Combo">Data/Categorized Cleaning - Combo - 3521792891</li>
-    <li IfModActive="moistestwhale.ceilingtradebeacon">Data/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
     <li IfModActive="tot.cmc.weaponry">Data/Celestial Manufacturing Cooperation MKII - 2883670795</li>
     <li IfModActive="ALIEN.CensoredArmory">Data/Censored Armory - 2356277786</li>
     <li IfModActive="n7huntsman.ceramics">Data/Ceramics - 1833163132</li>
@@ -6851,7 +6852,6 @@
     <li IfModActive="brassy.sfguns.vanilla">Data/Girl's Frontline Sangvis Ferri Weapons - 1684134687</li>
     <li IfModActive="RicoFox233.GirlsFrontline.404Team">Data/Girls' Frontline Styles - 404 Team - 1651177696</li>
     <li IfModActive="RicoFox233.GirlsFrontline.ARTeam">Data/Girls' Frontline Styles - AR Team - 2078863841</li>
-    <li IfModActive="moistestWhale.gitsCyberbrains">Data/GiTS Cyberbrains - 3272114598</li>
     <li IfModActive="NanoCE.GlassLights">Data/Glass+Lights - 826153738</li>
     <li IfModActive="Xavior.GlitterTech">Data/Glitter Tech - 2558099206</li>
     <li IfModActive="K.GlitterNet">Data/GlitterNet - 1725544583</li>
@@ -8613,6 +8613,8 @@
     <li IfModActive="Syrus.CustomizeAnimals">Data/Syrus/Customize Animals - 2587157544/1.6</li>
     <li IfModActive="Syrus.HMSChoice">Data/Syrus/Healer Mech Serum Choice - 2714095848</li>
     <li IfModActive="syrus.yayoscombataddon">Data/Syrus/Yayo's Combat 3 - Addon - 2796514196</li>
+    <li IfModActive="moistestwhale.ceilingtradebeacon">Data/themoistestwhale/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
+    <li IfModActive="moistestWhale.gitsCyberbrains">Data/themoistestwhale/GiTS Cyberbrains - 3272114598</li>
     <li IfModActive="moistestWhale.gitsCyberoptics">Data/themoistestwhale/GiTS Cyberoptic Visors - 3496827622/1.6</li>
     <li IfModActive="TMC.Armory.AssaultRifle.1">Data/TMC/TMC Armory - Assault Rifles #1 - 2208689786</li>
     <li IfModActive="TMC.Armory.CommunityPack">Data/TMC/TMC Armory - Community Pack  - 2297887643</li>
@@ -9153,7 +9155,6 @@
     <li IfModActive="jdgg.adaptive.cargoholds">Data/Cargo Holds - 3536708812</li>
     <li IfModActive="CatLover366.BootsAndGloves">Data/Cat's Boots and Gloves - 3552813398</li>
     <li IfModActive="PeteTimesSix.CategorizedCleaning.Combo">Data/Categorized Cleaning - Combo - 3521792891</li>
-    <li IfModActive="moistestwhale.ceilingtradebeacon">Data/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
     <li IfModActive="tot.cmc.weaponry">Data/Celestial Manufacturing Cooperation MKII - 2883670795</li>
     <li IfModActive="ALIEN.CensoredArmory">Data/Censored Armory - 2356277786</li>
     <li IfModActive="n7huntsman.ceramics">Data/Ceramics - 1833163132</li>
@@ -9409,7 +9410,6 @@
     <li IfModActive="brassy.sfguns.vanilla">Data/Girl's Frontline Sangvis Ferri Weapons - 1684134687</li>
     <li IfModActive="RicoFox233.GirlsFrontline.404Team">Data/Girls' Frontline Styles - 404 Team - 1651177696</li>
     <li IfModActive="RicoFox233.GirlsFrontline.ARTeam">Data/Girls' Frontline Styles - AR Team - 2078863841</li>
-    <li IfModActive="moistestWhale.gitsCyberbrains">Data/GiTS Cyberbrains - 3272114598</li>
     <li IfModActive="NanoCE.GlassLights">Data/Glass+Lights - 826153738</li>
     <li IfModActive="Xavior.GlitterTech">Data/Glitter Tech - 2558099206</li>
     <li IfModActive="K.GlitterNet">Data/GlitterNet - 1725544583</li>
