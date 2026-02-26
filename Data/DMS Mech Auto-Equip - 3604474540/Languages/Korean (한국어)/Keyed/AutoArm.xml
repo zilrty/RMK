@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- Gizmo -->
+  <AutoArm.Gizmo.Label>자동 장착</AutoArm.Gizmo.Label>
+  <AutoArm.Gizmo.Desc>선택한 메카에 자동으로 설치할 개조를 설정합니다.</AutoArm.Gizmo.Desc>
+
+  <!-- Window -->
+  <AutoArm.Window.Title>자동 장착: {0}</AutoArm.Window.Title>
+  <AutoArm.Window.SelectedCount>{0} 선택됨</AutoArm.Window.SelectedCount>
+  <AutoArm.Window.Empty>설치할 개조 없음</AutoArm.Window.Empty>
+
+  <!-- Settings -->
+  <AutoArm.Settings.Category>DMS: Mech Auto-Equip</AutoArm.Settings.Category>
+  <AutoArm.Settings.EnableAutoEquip.Label>메카 자동 무장(DMS)</AutoArm.Settings.EnableAutoEquip.Label>
+  <AutoArm.Settings.EnableAutoEquip.Desc>자동 무장 기능을 활성화 또는 비활성화합니다.</AutoArm.Settings.EnableAutoEquip.Desc>
+  <AutoArm.Settings.EnableVerboseLogs.Label>상세 로그 활성화</AutoArm.Settings.EnableVerboseLogs.Label>
+  <AutoArm.Settings.EnableVerboseLogs.Desc>활성화 시 디버깅용 메시지 레벨 로그를 출력합니다.</AutoArm.Settings.EnableVerboseLogs.Desc>
+</LanguageData>

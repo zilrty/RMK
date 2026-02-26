@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=auto arm mech-->
+  <AutoArm_WorkGiver.label>메크 자동 무장</AutoArm_WorkGiver.label>
+  <!--Original=configure-->
+  <AutoArm_WorkGiver.verb>구성</AutoArm_WorkGiver.verb>
+  <!--Original=configuring-->
+  <AutoArm_WorkGiver.gerund>구성</AutoArm_WorkGiver.gerund>
+</LanguageData>
