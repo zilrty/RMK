@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Romy_MakeAnimaSoothetea.label>영혼 진정차 달이기</Romy_MakeAnimaSoothetea.label>
+  <Romy_MakeAnimaSoothetea.description>영혼 진정잎으로 차와 같은 음료를 달입니다.</Romy_MakeAnimaSoothetea.description>
+  <Romy_MakeAnimaSoothetea.jobString>영혼 진정차 달이는 중.</Romy_MakeAnimaSoothetea.jobString>
+  <Romy_MakeAnimaSootheteaBulk.label>영혼 진정차 대량 달이기 (x4)</Romy_MakeAnimaSootheteaBulk.label>
+  <Romy_MakeAnimaSootheteaBulk.description>영혼 진정잎으로 차와 같은 음료를 한꺼번에 많이 달입니다.</Romy_MakeAnimaSootheteaBulk.description>
+  <Romy_MakeAnimaSootheteaBulk.jobString>영혼 진정차 달이는 중.</Romy_MakeAnimaSootheteaBulk.jobString>
+    <Romy_ExtractAnimaEssenceBlades.label>영혼 잎사귀에서 영혼 정수 추출</Romy_ExtractAnimaEssenceBlades.label>
+  <Romy_ExtractAnimaEssenceBlades.description>영혼 잎사귀에서 영혼 정수를 추출합니다.</Romy_ExtractAnimaEssenceBlades.description>
+  <Romy_ExtractAnimaEssenceBlades.jobString>영혼 정수 추출 중.</Romy_ExtractAnimaEssenceBlades.jobString>
+  <Romy_ExtractAnimaEssenceHeart.label>영혼 심장에서 영혼 정수 추출</Romy_ExtractAnimaEssenceHeart.label>
+  <Romy_ExtractAnimaEssenceHeart.description>영혼 심장에서 영혼 정수를 추출합니다.</Romy_ExtractAnimaEssenceHeart.description>
+  <Romy_ExtractAnimaEssenceHeart.jobString>영혼 정수 추출 중.</Romy_ExtractAnimaEssenceHeart.jobString>
+    <Romy_ExtractAnimaEssenceGlowbulbs.label>영혼 반짝구근에서 영혼 정수 추출</Romy_ExtractAnimaEssenceGlowbulbs.label>
+  <Romy_ExtractAnimaEssenceGlowbulbs.description>영혼 반짝구근에서 영혼 정수를 추출합니다.</Romy_ExtractAnimaEssenceGlowbulbs.description>
+  <Romy_ExtractAnimaEssenceGlowbulbs.jobString>영혼 정수 추출 중.</Romy_ExtractAnimaEssenceGlowbulbs.jobString>
+</LanguageData>

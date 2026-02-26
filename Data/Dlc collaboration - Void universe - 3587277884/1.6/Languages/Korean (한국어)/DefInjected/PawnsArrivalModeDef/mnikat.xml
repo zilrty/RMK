@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=A group of {0} have arrived nearby by skip.-->
+  <UV_SKipArrivalMode.textEnemy>{0} 무리가 공간도약으로 근처에 도착했습니다.</UV_SKipArrivalMode.textEnemy>
+  <!--Original=A group of friendly {0} from {1} have arrived nearby by skip.-->
+  <UV_SKipArrivalMode.textFriendly>우호적인 {1}의 {0} 무리가 공간도약으로 근처에 도착했습니다.</UV_SKipArrivalMode.textFriendly>
+  <!--Original={0_pawnsPluralDef} will arrive by skip.-->
+  <UV_SKipArrivalMode.textWillArrive>{0_pawnsPluralDef}(은)는 공간도약으로 접근할 것입니다.</UV_SKipArrivalMode.textWillArrive>
+</LanguageData>

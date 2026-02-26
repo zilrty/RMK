@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATP_Race_AnimaTree.label>영혼 나무</ATP_Race_AnimaTree.label>
+  <ATP_Race_AnimaTree.description>영혼 나무입니다.</ATP_Race_AnimaTree.description>
+  <ATP_Race_AnimaTree.tools.0.label>덩굴</ATP_Race_AnimaTree.tools.0.label>
+  <ATP_Race_AnimaTree.comps.3.message>영혼 나무가 죽으면서 불쾌한 정신적 비명을 내질렀습니다.</ATP_Race_AnimaTree.comps.3.message>
+  <ATP_AnimaFlake.label>영혼 플레이크</ATP_AnimaFlake.label>
+  <ATP_AnimaFlake.description>흡입 시 짧지만 강력한 황홀감을 유도하고 정신 감응력을 향상시키는 하얀 조각 형태의 약물입니다. 영혼 나무와 하나가 된 듯한 환각을 줍니다. 생산 비용은 저렴하지만 중독성이 매우 강합니다.</ATP_AnimaFlake.description>
+  <ATP_AnimaFlake.ingestible.ingestCommandString>{0} 흡입</ATP_AnimaFlake.ingestible.ingestCommandString>
+  <ATP_AnimaFlake.ingestible.ingestReportString>{0} 흡입 중.</ATP_AnimaFlake.ingestible.ingestReportString>
+  <ATP_AnimaInjector.label>영혼 주사기</ATP_AnimaInjector.label>
+  <ATP_AnimaInjector.description>정제된 영혼 약물 용액이 들어있는 주사기입니다. 체내에 주입하면 즉각적인 황홀감을 주며 휴식 욕구를 크게 줄이고 통증을 억제합니다. 또한 영혼 나무와 하나가 되는 듯한 느낌을 줍니다. 하급 약물인 영혼 플레이크보다는 덜하지만, 여전히 중독성이 있습니다.</ATP_AnimaInjector.description>
+  <ATP_AnimaInjector.ingestible.ingestCommandString>{0} 주사</ATP_AnimaInjector.ingestible.ingestCommandString>
+  <ATP_AnimaInjector.ingestible.ingestReportString>{0} 주사 중.</ATP_AnimaInjector.ingestible.ingestReportString>
+  <ATP_AnimaTea.label>영혼 차</ATP_AnimaTea.label>
+  <ATP_AnimaTea.description>영혼 나무의 잎을 우려낸 향긋한 차입니다. 마시면 은은한 황홀감을 느낄 수 있습니다. 조리 시설에서 쉽게 만들 수 있지만, 너무 자주 마시면 중독을 일으킬 수 있습니다.</ATP_AnimaTea.description>
+  <ATP_AnimaTea.ingestible.ingestCommandString>{0} 마시기</ATP_AnimaTea.ingestible.ingestCommandString>
+  <ATP_AnimaTea.ingestible.ingestReportString>{0} 마시는 중.</ATP_AnimaTea.ingestible.ingestReportString>
+  <ATP_AnimaJoint.label>영혼 연초</ATP_AnimaJoint.label>
+  <ATP_AnimaJoint.description>영혼 나무의 잎을 말아 피울 수 있게 만든 것입니다. 기분이 좋아지지만 식욕이 증가하고 집중을 방해하며 움직임을 느리게 합니다. 또한 연초에 의존하게 될 수 있습니다.</ATP_AnimaJoint.description>
+  <ATP_AnimaJoint.ingestible.ingestCommandString>{0} 피우기</ATP_AnimaJoint.ingestible.ingestCommandString>
+  <ATP_AnimaJoint.ingestible.ingestReportString>{0} 피우는 중.</ATP_AnimaJoint.ingestible.ingestReportString>
+  <ATP_AnimaJoint.ingestible.ingestReportStringEat>{0} 섭취 중.</ATP_AnimaJoint.ingestible.ingestReportStringEat>
+  <ATP_AnimaSap.label>영혼 수액</ATP_AnimaSap.label>
+  <ATP_AnimaSap.description>영혼 나무에서 얻은 우윳빛 액체입니다. 약물 형태로 정제할 수 있습니다.</ATP_AnimaSap.description>
+  <ATP_AnimaLeaf.label>영혼 나뭇잎</ATP_AnimaLeaf.label>
+  <ATP_AnimaLeaf.description>영혼 나무에서 갓 따낸 잎입니다. 약물 형태로 정제할 수 있습니다.</ATP_AnimaLeaf.description>
+  <ATP_AnimaFruit.label>영혼 과일</ATP_AnimaFruit.label>
+  <ATP_AnimaFruit.description>영혼 나무에서 수확할 수 있는 과일입니다. 환상적인 향과 맛을 지녔으며 약한 화학적 쾌감을 제공해 기분이 좋아집니다. 하지만 너무 자주 먹으면 중독될 수 있습니다.</ATP_AnimaFruit.description>
+  <ATP_AnimaTreeSpot.label>영혼 나무 명상 장소</ATP_AnimaTreeSpot.label>
+  <ATP_AnimaTreeSpot.description>영혼 나무가 명상할 장소를 지정합니다. 영혼 나무는 이곳에서 명상하며 영혼 잔디를 키울 수 있습니다. 영혼석과 같은 집중 사물이 근처에 있다면 영혼 잔디의 성장 효율이 높아집니다.</ATP_AnimaTreeSpot.description>
+</LanguageData>

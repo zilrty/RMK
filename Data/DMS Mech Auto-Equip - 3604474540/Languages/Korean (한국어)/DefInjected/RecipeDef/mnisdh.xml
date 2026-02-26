@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=make reinforced barrel-->
+  <DMS_Make_ReinforcedBarrel.label>강화 포신 제작</DMS_Make_ReinforcedBarrel.label>
+  <!--Original=Produce a reinforced gun barrel for heavy weapons using stamped components and steel.-->
+  <DMS_Make_ReinforcedBarrel.description>스탬포넨트와 강철을 사용해 중화기용 강화 포신을 만듭니다.</DMS_Make_ReinforcedBarrel.description>
+  <!--Original=Forging reinforced barrel.-->
+  <DMS_Make_ReinforcedBarrel.jobString>제작 중</DMS_Make_ReinforcedBarrel.jobString>
+  <!--Original=make Component Transmitter-->
+  <DMS_Make_ComponentTransmitter.label>T/R 부품 제작</DMS_Make_ComponentTransmitter.label>
+  <!--Original=Produce a ComponentTransmitter.-->
+  <DMS_Make_ComponentTransmitter.description>고급 기계 제어 시스템용 TR 부품을 만듭니다.</DMS_Make_ComponentTransmitter.description>
+  <!--Original=Forging Component Transmitter.-->
+  <DMS_Make_ComponentTransmitter.jobString>제작 중</DMS_Make_ComponentTransmitter.jobString>
+</LanguageData>

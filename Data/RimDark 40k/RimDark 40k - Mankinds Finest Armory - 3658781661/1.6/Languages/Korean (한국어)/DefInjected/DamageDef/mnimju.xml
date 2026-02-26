@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BEWH_PlasmaBurn.label>플라즈마 폭발</BEWH_PlasmaBurn.label>
+  <BEWH_PlasmaBurn.deathMessage>{0}(이)가 초고온 플라즈마 덩어리에 소각되었습니다.</BEWH_PlasmaBurn.deathMessage>
+</LanguageData>

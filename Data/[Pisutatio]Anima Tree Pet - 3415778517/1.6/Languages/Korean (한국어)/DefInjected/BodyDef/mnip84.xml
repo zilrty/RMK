@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATP_Body_AnimaTree.label>영혼 나무</ATP_Body_AnimaTree.label>
+  <ATP_Body_AnimaTree.corePart.parts.7.customLabel>왼쪽 어깨</ATP_Body_AnimaTree.corePart.parts.7.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.customLabel>오른쪽 어깨</ATP_Body_AnimaTree.corePart.parts.8.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.customLabel>왼다리</ATP_Body_AnimaTree.corePart.parts.10.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.customLabel>오른다리</ATP_Body_AnimaTree.corePart.parts.11.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.12.customLabel>1번째 덩굴</ATP_Body_AnimaTree.corePart.parts.12.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.13.customLabel>2번째 덩굴</ATP_Body_AnimaTree.corePart.parts.13.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.14.customLabel>3번째 덩굴</ATP_Body_AnimaTree.corePart.parts.14.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.15.customLabel>4번째 덩굴</ATP_Body_AnimaTree.corePart.parts.15.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.0.customLabel>왼쪽 쇄골</ATP_Body_AnimaTree.corePart.parts.7.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.customLabel>왼팔</ATP_Body_AnimaTree.corePart.parts.7.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.0.customLabel>오른쪽 쇄골</ATP_Body_AnimaTree.corePart.parts.8.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.customLabel>오른팔</ATP_Body_AnimaTree.corePart.parts.8.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.parts.0.customLabel>왼쪽 대퇴골</ATP_Body_AnimaTree.corePart.parts.10.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.parts.1.customLabel>왼쪽 경골</ATP_Body_AnimaTree.corePart.parts.10.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.parts.2.customLabel>왼발</ATP_Body_AnimaTree.corePart.parts.10.parts.2.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.parts.0.customLabel>오른쪽 대퇴골</ATP_Body_AnimaTree.corePart.parts.11.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.parts.1.customLabel>오른쪽 경골</ATP_Body_AnimaTree.corePart.parts.11.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.parts.2.customLabel>오른발</ATP_Body_AnimaTree.corePart.parts.11.parts.2.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.0.customLabel>왼쪽 상완골</ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.1.customLabel>왼쪽 요골</ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.customLabel>왼손</ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.0.customLabel>오른쪽 상완골</ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.1.customLabel>오른쪽 요골</ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.customLabel>오른손</ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.0.customLabel>왼쪽 새끼발가락</ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.1.customLabel>왼쪽 넷째 발가락</ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.2.customLabel>왼쪽 가운뎃발가락</ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.2.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.3.customLabel>왼쪽 둘째 발가락</ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.3.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.4.customLabel>왼쪽 엄지발가락</ATP_Body_AnimaTree.corePart.parts.10.parts.2.parts.4.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.0.customLabel>오른쪽 새끼발가락</ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.1.customLabel>오른쪽 넷째 발가락</ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.2.customLabel>오른쪽 가운뎃발가락</ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.2.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.3.customLabel>오른쪽 둘째 발가락</ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.3.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.4.customLabel>오른쪽 엄지발가락</ATP_Body_AnimaTree.corePart.parts.11.parts.2.parts.4.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃손가락</ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.2.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.3.customLabel>왼쪽 검지손가락</ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.3.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지손가락</ATP_Body_AnimaTree.corePart.parts.7.parts.1.parts.2.parts.4.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.0.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.1.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.2.customLabel>오른쪽 가운뎃손가락</ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.2.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.3.customLabel>오른쪽 검지손가락</ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.3.customLabel>
+  <ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지손가락</ATP_Body_AnimaTree.corePart.parts.8.parts.1.parts.2.parts.4.customLabel>
+</LanguageData>

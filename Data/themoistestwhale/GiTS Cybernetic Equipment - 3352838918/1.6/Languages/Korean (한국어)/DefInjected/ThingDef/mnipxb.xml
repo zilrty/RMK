@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <gitsCyberbodyAnchor.label>사이버바디 앵커</gitsCyberbodyAnchor.label>
+  <gitsCyberbodyAnchor.description>사이버바디 앵커는 사이메크에게 필수적인 도구로, 사이버바디의 유지보수를 지원하도록 설계되었습니다. 이는 서 있는 환자에 맞춰 수직 자세로 조정되는 가동형 시스템으로, 환자가 안으로 걸어 들어가면 비침습 클램프와 하네스로 안전하게 고정합니다. 고정이 끝나면 장치를 수평 위치로 내려 환자의 앞면 또는 뒷면에 쉽게 접근할 수 있게 합니다.\n\n사이버바디 앵커는 수술 소요 시간을 줄여 수술 결과를 향상합니다. 다만 환자의 상처를 처치하는 용도로는 적합하지 않으며, 편안하지도 않습니다.</gitsCyberbodyAnchor.description>
+  <gitsAnchorConsole.label>사이버바디 앵커 콘솔</gitsAnchorConsole.label>
+  <gitsAnchorConsole.description>이 단순한 콘솔은 사이버바디 앵커를 제어하고 관련 환자 정보를 표시하도록 설계되었습니다. 작동에 필수는 아니지만, 표시 장치가 훨씬 다루기 쉬워 수술 효율과 결과를 추가로 향상시킵니다.\n\n한 개의 앵커에 앵커 콘솔을 최대 2개까지 연결할 수 있습니다.</gitsAnchorConsole.description>
+  <gitsCyberneticsWorkbench.label>사이버네틱스 작업대</gitsCyberneticsWorkbench.label>
+  <gitsCyberneticsWorkbench.description>사이버네틱 부품과 임플란트를 생산하도록 설계된 작업대입니다.</gitsCyberneticsWorkbench.description>
+</LanguageData>

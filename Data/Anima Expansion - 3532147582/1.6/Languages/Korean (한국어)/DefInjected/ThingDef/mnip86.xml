@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Romy_AnimaTorchlight.label>영혼 횃불</Romy_AnimaTorchlight.label>
+  <Romy_AnimaTorchlight.description>영혼 재료로 만든 전등입니다. 영구적으로 빛나며 전력이 필요하지 않습니다. 영혼 나무 근처에 두어도 나무에 아무런 영향을 주지 않습니다.</Romy_AnimaTorchlight.description>
+  <Romy_AnimaWallTorchlight.label>영혼 벽걸이 횃불</Romy_AnimaWallTorchlight.label>
+  <Romy_AnimaWallTorchlight.description>영혼 재료로 만든 벽걸이 전등입니다. 영구적으로 빛나며 전력이 필요하지 않습니다. 영혼 나무 근처에 두어도 나무에 아무런 영향을 주지 않습니다.</Romy_AnimaWallTorchlight.description>
+  <Romy_ScrollInscribingBench.label>두루마리 기록대</Romy_ScrollInscribingBench.label>
+  <Romy_ScrollInscribingBench.description>두루마리에 초능력을 기록하기 위한 작업대입니다.</Romy_ScrollInscribingBench.description>
+  <Romy_AnimaEssencePress.label>영혼 정수 압착기</Romy_AnimaEssencePress.label>
+  <Romy_AnimaEssencePress.description>영혼 식물 재료에서 영혼 정수를 추출하기 위해 만들어진 압착기입니다.</Romy_AnimaEssencePress.description>
+  <Romy_AnimaSoothetea.label>영혼 진정차</Romy_AnimaSoothetea.label>
+  <Romy_AnimaSoothetea.description>영혼 진정잎으로 만든 차입니다. 중독성이 없으며 마음을 차분하게 해줍니다.</Romy_AnimaSoothetea.description>
+  <Romy_AnimaSoothetea.ingestible.ingestCommandString>{0} 마시기</Romy_AnimaSoothetea.ingestible.ingestCommandString>
+  <Romy_AnimaSoothetea.ingestible.ingestReportString>{0} 마시는 중.</Romy_AnimaSoothetea.ingestible.ingestReportString>
+  <Romy_AnimaEssence.label>영혼 정수</Romy_AnimaEssence.label>
+  <Romy_AnimaEssence.description>영혼 나무의 특별한 성질을 가진 액체입니다. 대부분의 용도로 사용하기 위해서는 초능력자가 이를 깨워야 합니다. 정수를 깨우려면 초능력자의 초집중 상태가 최소 20% 이상이어야 합니다.</Romy_AnimaEssence.description>
+  <Romy_AnimaEssence.comps.0.useLabel>{0_label} 깨우기</Romy_AnimaEssence.comps.0.useLabel>
+  <Romy_AwakenedAnimaEssence.label>깨어난 영혼 정수</Romy_AwakenedAnimaEssence.label>
+  <Romy_AwakenedAnimaEssence.description>영혼 나무의 특별한 성질을 가진 액체입니다. 초능력자에 의해 깨어났으며 이제 사용할 준비가 되었습니다.</Romy_AwakenedAnimaEssence.description>
+  <Romy_AnimaHeart.label>영혼 심장</Romy_AnimaHeart.label>
+  <Romy_AnimaHeart.description>영혼 심장줄기 식물에서 열리는 열매입니다. 영혼 정수로 가공할 수 있습니다. 그 외의 용도로 사용하려면 초능력자가 이를 깨워야 합니다. 영혼 심장을 깨우려면 초능력자의 초집중 상태가 최소 90% 이상이어야 합니다.</Romy_AnimaHeart.description>
+  <Romy_AnimaHeart.comps.0.useLabel>{0_label} 깨우기</Romy_AnimaHeart.comps.0.useLabel>
+  <Romy_AwakenedAnimaHeart.label>깨어난 영혼 심장</Romy_AwakenedAnimaHeart.label>
+  <Romy_AwakenedAnimaHeart.description>영혼 심장줄기 식물에서 열리는 열매입니다. 초능력자에 의해 깨어났습니다. 사람이 섭취하여 초능력 연결을 얻을 수 있지만, 5일 동안 정신적 충격 상태에 빠지게 됩니다. 추가로 섭취하면 초능력 단계가 상승하지만 정신적 충격 지속 시간도 단계당 2일씩 증가합니다. 다른 영혼 관련 프로젝트에도 사용될 수 있습니다.</Romy_AwakenedAnimaHeart.description>
+  <Romy_AwakenedAnimaHeart.comps.0.useLabel>{0_label} 섭취하기</Romy_AwakenedAnimaHeart.comps.0.useLabel>
+  <Romy_AnimaBlades.label>영혼 잎사귀</Romy_AnimaBlades.label>
+  <Romy_AnimaBlades.description>영혼 풀이나 영혼 나무의 잎사귀입니다.</Romy_AnimaBlades.description>
+  <Romy_RawAnimaSootheleaves.label>영혼 진정잎</Romy_RawAnimaSootheleaves.label>
+  <Romy_RawAnimaSootheleaves.description>영혼 진정잎 식물에서 채취한 잎입니다. 휴식을 돕는 차로 달일 수 있습니다.</Romy_RawAnimaSootheleaves.description>
+  <Romy_RawAnimaFruits.label>영혼 과일</Romy_RawAnimaFruits.label>
+  <Romy_RawAnimaFruits.description>가공되지 않은 영혼 과일입니다.</Romy_RawAnimaFruits.description>
+  <Romy_RawAnimaGlowbulbs.label>영혼 반짝구근</Romy_RawAnimaGlowbulbs.label>
+  <Romy_RawAnimaGlowbulbs.description>영혼 반짝구근 식물에서 자라난 빛나는 구근 모양의 열매입니다. 영혼 정수로 가공할 수 있습니다.</Romy_RawAnimaGlowbulbs.description>
+  <Romy_AnimaWood.label>영혼 나무</Romy_AnimaWood.label>
+  <Romy_AnimaWood.description>영혼 나무에서 얻은 목재입니다. 불에 타지 않고 색이 다르다는 점을 제외하면 일반 목재와 거의 동일합니다. 일반 건축 자재나 영혼 관련 프로젝트에 사용할 수 있습니다.</Romy_AnimaWood.description>
+  <Romy_AnimaWood.stuffProps.stuffAdjective>영혼 나무</Romy_AnimaWood.stuffProps.stuffAdjective>
+  <Romy_AnimaWood.tools.0.label>영혼 나무토막</Romy_AnimaWood.tools.0.label>
+  <Romy_AnimaSilk.label>영혼 실크</Romy_AnimaSilk.label>
+  <Romy_AnimaSilk.description>영혼 비단벌레에서 얻은 실크입니다. 방어나 단열 목적으로는 매우 부적합하지만, 매우 아름답고 비쌉니다.</Romy_AnimaSilk.description>
+  <Romy_AnimaLeather.label>영혼 가죽</Romy_AnimaLeather.label>
+  <Romy_AnimaLeather.description>영혼 생물에게서 얻은 부드럽고 털이 많은 가죽입니다. 튼튼하지는 않지만 희귀성 덕분에 가치가 있으며 아름답습니다.</Romy_AnimaLeather.description>
+  <Romy_Apparel_ScrollPainblock.label>통각차단 두루마리</Romy_Apparel_ScrollPainblock.label>
+  <Romy_Apparel_ScrollPainblock.description>통각차단 초능력이 기록된 두루마리입니다.\n\n대상의 뇌에서 통증 경로를 짧은 시간 동안 차단합니다. 이를 통해 평소라면 쓰러졌을 법한 심각한 부상을 입은 상태에서도 움직이고 활동할 수 있게 해줍니다.</Romy_Apparel_ScrollPainblock.description>
+  <Romy_Apparel_ScrollPainblock.comps.2.chargeNoun>충전</Romy_Apparel_ScrollPainblock.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollPainblock.verbs.Verb_CastTargetEffectLances.label>통증 차단 두루마리</Romy_Apparel_ScrollPainblock.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollStun.label>기절 두루마리</Romy_Apparel_ScrollStun.label>
+  <Romy_Apparel_ScrollStun.description>기절 초능력이 기록된 두루마리입니다.\n\n대상의 뇌에서 운동 기능을 일시적으로 방해하여 움직임을 차단합니다.</Romy_Apparel_ScrollStun.description>
+  <Romy_Apparel_ScrollStun.comps.2.chargeNoun>충전</Romy_Apparel_ScrollStun.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollStun.verbs.Verb_CastTargetEffectLances.label>기절 두루마리</Romy_Apparel_ScrollStun.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollBurden.label>과부하 두루마리</Romy_Apparel_ScrollBurden.label>
+  <Romy_Apparel_ScrollBurden.description>과부하 초능력이 기록된 두루마리입니다.\n\n대상의 뇌에서 운동 활동을 억제하여 짧은 시간 동안 느리게 만듭니다.</Romy_Apparel_ScrollBurden.description>
+  <Romy_Apparel_ScrollBurden.comps.2.chargeNoun>충전</Romy_Apparel_ScrollBurden.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollBurden.verbs.Verb_CastTargetEffectLances.label>과부하 두루마리</Romy_Apparel_ScrollBurden.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollBlinding.label>실명의 파동 두루마리</Romy_Apparel_ScrollBlinding.label>
+  <Romy_Apparel_ScrollBlinding.description>실명의 파동 초능력이 기록된 두루마리입니다.\n\n대상의 시각 중심 뇌 부위에 노이즈를 유도하여 시야를 가립니다.</Romy_Apparel_ScrollBlinding.description>
+  <Romy_Apparel_ScrollBlinding.comps.2.chargeNoun>충전</Romy_Apparel_ScrollBlinding.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollBlinding.verbs.Verb_CastTargetEffectLances.label>실명의 파동 두루마리</Romy_Apparel_ScrollBlinding.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollBeckon.label>현혹 두루마리</Romy_Apparel_ScrollBeckon.label>
+  <Romy_Apparel_ScrollBeckon.description>현혹 초능력이 기록된 두루마리입니다.\n\n대상이 시전자에게 다가오도록 초능력으로 명령합니다.</Romy_Apparel_ScrollBeckon.description>
+  <Romy_Apparel_ScrollBeckon.comps.2.chargeNoun>충전</Romy_Apparel_ScrollBeckon.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollBeckon.verbs.Verb_CastTargetEffectLances.label>현혹 두루마리</Romy_Apparel_ScrollBeckon.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollVertigo.label>현기증의 파동 두루마리</Romy_Apparel_ScrollVertigo.label>
+  <Romy_Apparel_ScrollVertigo.description>현기증의 파동 초능력이 기록된 두루마리입니다.\n\n대상의 공간 지각 능력을 방해하여 간헐적으로 균형을 잃게 만듭니다. 생명체라면 극심한 구토를 유발할 수도 있습니다.</Romy_Apparel_ScrollVertigo.description>
+  <Romy_Apparel_ScrollVertigo.comps.2.chargeNoun>충전</Romy_Apparel_ScrollVertigo.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollVertigo.verbs.Verb_CastTargetEffectLances.label>현기증의 파동 두루마리</Romy_Apparel_ScrollVertigo.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollManhunting.label>식인 광란 두루마리</Romy_Apparel_ScrollManhunting.label>
+  <Romy_Apparel_ScrollManhunting.description>식인 광란 초능력이 기록된 두루마리입니다.\n\n초능력 파동을 사용하여 대상 동물을 식인 광분 상태로 몰아넣습니다.</Romy_Apparel_ScrollManhunting.description>
+  <Romy_Apparel_ScrollManhunting.comps.2.chargeNoun>충전</Romy_Apparel_ScrollManhunting.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollManhunting.verbs.Verb_CastTargetEffectLances.label>식인 광 두루마리</Romy_Apparel_ScrollManhunting.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollFocus.label>집중 두루마리</Romy_Apparel_ScrollFocus.label>
+  <Romy_Apparel_ScrollFocus.description>집중 초능력이 기록된 두루마리입니다.\n\n대상의 정신을 초능력으로 집중시켜 시각, 청각 및 이동 능력을 증폭시킵니다.</Romy_Apparel_ScrollFocus.description>
+  <Romy_Apparel_ScrollFocus.comps.2.chargeNoun>충전</Romy_Apparel_ScrollFocus.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollFocus.verbs.Verb_CastTargetEffectLances.label>집중 두루마리</Romy_Apparel_ScrollFocus.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollInvisibility.label>투명화 두루마리</Romy_Apparel_ScrollInvisibility.label>
+  <Romy_Apparel_ScrollInvisibility.description>투명화 초능력이 기록된 두루마리입니다.\n\n대상 근처에 있는 모든 사람의 시각 중심 뇌 부위를 초능력으로 조작하여, 짧은 시간 동안 특정 개체를 인식하지 못하게 만듭니다.</Romy_Apparel_ScrollInvisibility.description>
+  <Romy_Apparel_ScrollInvisibility.comps.2.chargeNoun>충전</Romy_Apparel_ScrollInvisibility.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollInvisibility.verbs.Verb_CastTargetEffectLances.label>투명화 두루마리</Romy_Apparel_ScrollInvisibility.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollSmokepop.label>연막구름 두루마리</Romy_Apparel_ScrollSmokepop.label>
+  <Romy_Apparel_ScrollSmokepop.description>연막구름 초능력이 기록된 두루마리입니다.\n\n지표면의 먼지 입자를 도약시켜 두꺼운 구름을 형성합니다. 이는 연막을 통과하는 사격의 정확도를 낮추며, 포탑이 조준하는 것을 완전히 방지합니다.</Romy_Apparel_ScrollSmokepop.description>
+  <Romy_Apparel_ScrollSmokepop.comps.2.chargeNoun>충전</Romy_Apparel_ScrollSmokepop.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollSmokepop.verbs.Verb_ScrollExplosion.label>연막구름 두루마리</Romy_Apparel_ScrollSmokepop.verbs.Verb_ScrollExplosion.label>
+  <Romy_Apparel_ScrollBerserk.label>광란 두루마리</Romy_Apparel_ScrollBerserk.label>
+  <Romy_Apparel_ScrollBerserk.description>광란 초능력이 기록된 두루마리입니다.\n\n대상의 정신에 분노 섞인 정신병을 유도하여 주변의 누구든 공격하게 만듭니다.</Romy_Apparel_ScrollBerserk.description>
+  <Romy_Apparel_ScrollBerserk.comps.2.chargeNoun>충전</Romy_Apparel_ScrollBerserk.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollBerserk.verbs.Verb_CastTargetEffectLances.label>광란 두루마리</Romy_Apparel_ScrollBerserk.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollSkipshield.label>보호막 도약 두루마리</Romy_Apparel_ScrollSkipshield.label>
+  <Romy_Apparel_ScrollSkipshield.description>보호막 도약 초능력이 기록된 두루마리입니다.\n\n들어오고 나가는 모든 지면 발사체를 먼 곳으로 보내버리는 구형 도약문을 생성합니다. 이 과정은 폭발성 발사체를 터뜨릴 만큼 강력합니다. 사람과 아이템은 영향을 받지 않습니다.</Romy_Apparel_ScrollSkipshield.description>
+  <Romy_Apparel_ScrollSkipshield.comps.2.chargeNoun>충전</Romy_Apparel_ScrollSkipshield.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollSkipshield.verbs.Verb_ScrollSpawn.label>보호막 도약 두루마리</Romy_Apparel_ScrollSkipshield.verbs.Verb_ScrollSpawn.label>
+  <Romy_Apparel_ScrollSolarPinhole.label>빛의 바늘구멍 두루마리</Romy_Apparel_ScrollSolarPinhole.label>
+  <Romy_Apparel_ScrollSolarPinhole.description>빛의 바늘구멍 초능력이 기록된 두루마리입니다.\n\n인근 항성의 중심부와 연결된 미세한 도약문을 생성합니다. 시공간의 틈새로 태양 물질이 흘러나와 문이 닫힐 때까지 주변을 밝히고 따뜻하게 합니다. 작업하기에는 충분한 빛이지만 식물을 키우기에는 부족합니다.</Romy_Apparel_ScrollSolarPinhole.description>
+  <Romy_Apparel_ScrollSolarPinhole.comps.2.chargeNoun>충전</Romy_Apparel_ScrollSolarPinhole.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollSolarPinhole.verbs.Verb_ScrollSpawn.label>빛의 바늘구멍 두루마리</Romy_Apparel_ScrollSolarPinhole.verbs.Verb_ScrollSpawn.label>
+  <Romy_Apparel_ScrollPsychicShock.label>정신 충격 두루마리</Romy_Apparel_ScrollPsychicShock.label>
+  <Romy_Apparel_ScrollPsychicShock.description>정신 충격 초능력이 기록된 두루마리입니다.\n\n혼란스러운 환상으로 대상의 정신에 충격을 주어 일관된 인지 능력을 차단하고 정신적 충격 상태에 빠뜨립니다.</Romy_Apparel_ScrollPsychicShock.description>
+  <Romy_Apparel_ScrollPsychicShock.comps.2.chargeNoun>충전</Romy_Apparel_ScrollPsychicShock.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollPsychicShock.verbs.Verb_CastTargetEffectLances.label>정신 충격 두루마리</Romy_Apparel_ScrollPsychicShock.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_Apparel_ScrollPsychicShock.verbs.Verb_CastTargetEffectLances.invalidTargetPawn>정신 충격 면역</Romy_Apparel_ScrollPsychicShock.verbs.Verb_CastTargetEffectLances.invalidTargetPawn>
+  <Romy_Apparel_ScrollHive.label>군락 소환 두루마리</Romy_Apparel_ScrollHive.label>
+  <Romy_Apparel_ScrollHive.description>군락 소환 초능력이 기록된 두루마리입니다.\n\n초능력을 사용하여 땅속에서 단일 군락과 그 수호자들을 강제로 끌어올립니다.</Romy_Apparel_ScrollHive.description>
+  <Romy_Apparel_ScrollHive.comps.2.chargeNoun>충전</Romy_Apparel_ScrollHive.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollHive.verbs.Verb_ScrollSpawn.label>군락 소환 두루마리</Romy_Apparel_ScrollHive.verbs.Verb_ScrollSpawn.label>
+  <Romy_Apparel_ScrollTornado.label>토네이도 두루마리</Romy_Apparel_ScrollTornado.label>
+  <Romy_Apparel_ScrollTornado.description>토네이도 초능력이 기록된 두루마리입니다.\n\n지정된 위치의 공기 입자를 조작하여 강력한 토네이도를 형성합니다.</Romy_Apparel_ScrollTornado.description>
+  <Romy_Apparel_ScrollTornado.comps.2.chargeNoun>충전</Romy_Apparel_ScrollTornado.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollTornado.verbs.Verb_ScrollSpawn.label>토네이도 두루마리</Romy_Apparel_ScrollTornado.verbs.Verb_ScrollSpawn.label>
+  <Romy_Apparel_ScrollMechTurret.label>메카노이드 포탑 두루마리</Romy_Apparel_ScrollMechTurret.label>
+  <Romy_Apparel_ScrollMechTurret.description>메카노이드 포탑 초능력이 기록된 두루마리입니다.\n\n시공간을 조작하여 초능력 방어막이 없는 가장 가까운 메카노이드 포탑을 찾아냅니다. 포탑의 AI는 메카노이드 통제로부터 단절되어 시전자를 자동으로 아군으로 인식하며, 시전자의 적이 아닌 자들은 공격하지 않습니다.</Romy_Apparel_ScrollMechTurret.description>
+  <Romy_Apparel_ScrollMechTurret.comps.2.chargeNoun>충전</Romy_Apparel_ScrollMechTurret.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollMechTurret.verbs.Verb_ScrollSpawn.label>메카노이드 포탑 두루마리</Romy_Apparel_ScrollMechTurret.verbs.Verb_ScrollSpawn.label>
+  <Romy_Apparel_ScrollExplosionLesser.label>하급 폭발 두루마리</Romy_Apparel_ScrollExplosionLesser.label>
+  <Romy_Apparel_ScrollExplosionLesser.description>하급 폭발 초능력이 기록된 두루마리입니다.\n\n지정된 위치에 작은 폭발을 일으킵니다.</Romy_Apparel_ScrollExplosionLesser.description>
+  <Romy_Apparel_ScrollExplosionLesser.comps.2.chargeNoun>충전</Romy_Apparel_ScrollExplosionLesser.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollExplosionLesser.verbs.Verb_ScrollExplosion.label>하급 폭발 두루마리</Romy_Apparel_ScrollExplosionLesser.verbs.Verb_ScrollExplosion.label>
+  <Romy_Apparel_ScrollExplosion.label>폭발 두루마리</Romy_Apparel_ScrollExplosion.label>
+  <Romy_Apparel_ScrollExplosion.description>폭발 초능력이 기록된 두루마리입니다.\n\n지정된 위치에 폭발을 일으킵니다.</Romy_Apparel_ScrollExplosion.description>
+  <Romy_Apparel_ScrollExplosion.comps.2.chargeNoun>충전</Romy_Apparel_ScrollExplosion.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollExplosion.verbs.Verb_ScrollExplosion.label>폭발 두루마리</Romy_Apparel_ScrollExplosion.verbs.Verb_ScrollExplosion.label>
+  <Romy_Apparel_ScrollExplosionGreater.label>상급 폭발 두루마리</Romy_Apparel_ScrollExplosionGreater.label>
+  <Romy_Apparel_ScrollExplosionGreater.description>상급 폭발 초능력이 기록된 두루마리입니다.\n\n지정된 위치에 거대한 폭발을 일으킵니다.</Romy_Apparel_ScrollExplosionGreater.description>
+  <Romy_Apparel_ScrollExplosionGreater.comps.2.chargeNoun>충전</Romy_Apparel_ScrollExplosionGreater.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollExplosionGreater.verbs.Verb_ScrollExplosion.label>상급 폭발 두루마리</Romy_Apparel_ScrollExplosionGreater.verbs.Verb_ScrollExplosion.label>
+  <Romy_Apparel_ScrollFlamingExplosionLesser.label>하급 화염 폭발 두루마리</Romy_Apparel_ScrollFlamingExplosionLesser.label>
+  <Romy_Apparel_ScrollFlamingExplosionLesser.description>하급 화염 폭발 초능력이 기록된 두루마리입니다.\n\n지정된 위치에 작은 화염 폭발을 일으킵니다.</Romy_Apparel_ScrollFlamingExplosionLesser.description>
+  <Romy_Apparel_ScrollFlamingExplosionLesser.comps.2.chargeNoun>충전</Romy_Apparel_ScrollFlamingExplosionLesser.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollFlamingExplosionLesser.verbs.Verb_ScrollExplosion.label>하급 화염 폭발 두루마리</Romy_Apparel_ScrollFlamingExplosionLesser.verbs.Verb_ScrollExplosion.label>
+  <Romy_Apparel_ScrollFlamingExplosion.label>화염 폭발 두루마리</Romy_Apparel_ScrollFlamingExplosion.label>
+  <Romy_Apparel_ScrollFlamingExplosion.description>화염 폭발 초능력이 기록된 두루마리입니다.\n\n지정된 위치에 화염 폭발을 일으킵니다.</Romy_Apparel_ScrollFlamingExplosion.description>
+  <Romy_Apparel_ScrollFlamingExplosion.comps.2.chargeNoun>충전</Romy_Apparel_ScrollFlamingExplosion.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollFlamingExplosion.verbs.Verb_ScrollExplosion.label>화염 폭발 두루마리</Romy_Apparel_ScrollFlamingExplosion.verbs.Verb_ScrollExplosion.label>
+  <Romy_Apparel_ScrollFlamingExplosionGreater.label>상급 화염 폭발 두루마리</Romy_Apparel_ScrollFlamingExplosionGreater.label>
+  <Romy_Apparel_ScrollFlamingExplosionGreater.description>상급 화염 폭발 초능력이 기록된 두루마리입니다.\n\n지정된 위치에 거대한 화염 폭발을 일으킵니다.</Romy_Apparel_ScrollFlamingExplosionGreater.description>
+  <Romy_Apparel_ScrollFlamingExplosionGreater.comps.2.chargeNoun>충전</Romy_Apparel_ScrollFlamingExplosionGreater.comps.2.chargeNoun>
+  <Romy_Apparel_ScrollFlamingExplosionGreater.verbs.Verb_ScrollExplosion.label>상급 화염 폭발 두루마리</Romy_Apparel_ScrollFlamingExplosionGreater.verbs.Verb_ScrollExplosion.label>
+  <Romy_AnimaScreamStaff.label>영혼 비명 지팡이</Romy_AnimaScreamStaff.label>
+  <Romy_AnimaScreamStaff.description>끝부분에 깨어난 영혼 심장이 달린 지팡이입니다. 누군가의 정신 속에 영혼의 비명을 불러일으켜 의식을 잃게 만드는 용도로 여러 번 사용할 수 있습니다.</Romy_AnimaScreamStaff.description>
+  <Romy_AnimaScreamStaff.verbs.Verb_CastTargetEffectLances.label>영혼 비명 지팡이</Romy_AnimaScreamStaff.verbs.Verb_CastTargetEffectLances.label>
+  <Romy_AnimaScreamStaff.verbs.Verb_CastTargetEffectLances.invalidTargetPawn>정신적 충격 면역</Romy_AnimaScreamStaff.verbs.Verb_CastTargetEffectLances.invalidTargetPawn>
+  <Romy_AnimaScreamStaff.comps.0.chargeNoun>충전</Romy_AnimaScreamStaff.comps.0.chargeNoun>
+  <Romy_Filth_BloodAnima.label>영혼 피</Romy_Filth_BloodAnima.label>
+  <Romy_AnimaFruitpalm.label>영혼 야자</Romy_AnimaFruitpalm.label>
+  <Romy_AnimaFruitpalm.description>식용 가능한 영혼 과일이 열리는 작은 야자 형태의 식물입니다.</Romy_AnimaFruitpalm.description>
+  <Romy_AnimaSootheleaf.label>영혼 진정잎</Romy_AnimaSootheleaf.label>
+  <Romy_AnimaSootheleaf.description>심신을 안정시키는 성분이 있어 차로 달일 수 있는 잎을 가진 식물입니다.</Romy_AnimaSootheleaf.description>
+  <Romy_AnimaWoodstalk.label>영혼 나무줄기</Romy_AnimaWoodstalk.label>
+  <Romy_AnimaWoodstalk.description>수확하여 영혼 나무 목재를 얻을 수 있는 식물입니다.</Romy_AnimaWoodstalk.description>
+  <Romy_AnimaGlowbulb.label>영혼 반짝구근</Romy_AnimaGlowbulb.label>
+  <Romy_AnimaGlowbulb.description>영혼 나무 주변을 밝혀주는 빛나는 구근 열매가 열리는 식물입니다. 열매를 수확하여 영혼 정수로 가공할 수 있습니다.</Romy_AnimaGlowbulb.description>
+  <Romy_AnimaHeartstem.label>영혼 심장줄기</Romy_AnimaHeartstem.label>
+  <Romy_AnimaHeartstem.description>영혼 심장이라고 불리는 특별한 과일이 열리는 희귀 식물입니다.</Romy_AnimaHeartstem.description>
+  <Romy_AnimaConstructShellHound.label>영혼 구성체 고치 (영혼 사냥개)</Romy_AnimaConstructShellHound.label>
+  <Romy_AnimaConstructShellHound.description>성장 중인 영혼 사냥개 구성체가 들어있는 고치입니다. 고치가 완전히 자라면 안전하게 갈라 구성체를 꺼낼 수 있습니다.</Romy_AnimaConstructShellHound.description>
+  <Romy_AnimaConstructShellMantis.label>영혼 구성체 고치 (영혼 사마귀)</Romy_AnimaConstructShellMantis.label>
+  <Romy_AnimaConstructShellMantis.description>성장 중인 영혼 사마귀 구성체가 들어있는 고치입니다. 고치가 완전히 자라면 안전하게 갈라 구성체를 꺼낼 수 있습니다.</Romy_AnimaConstructShellMantis.description>
+  <Romy_AnimaConstructShellBehemoth.label>영혼 구성체 고치 (영혼 베히모스)</Romy_AnimaConstructShellBehemoth.label>
+  <Romy_AnimaConstructShellBehemoth.description>성장 중인 영혼 베히모스 구성체가 들어있는 고치입니다. 고치가 완전히 자라면 안전하게 갈라 구성체를 꺼낼 수 있습니다.</Romy_AnimaConstructShellBehemoth.description>
+  <Romy_AnimaConstructSeedHound.label>영혼 구성체 씨앗 (영혼 사냥개)</Romy_AnimaConstructSeedHound.label>
+  <Romy_AnimaConstructSeedHound.description>심으면 영혼 사냥개가 자라날 구성체 고치의 씨앗입니다.</Romy_AnimaConstructSeedHound.description>
+  <Romy_AnimaConstructSeedMantis.label>영혼 구성체 씨앗 (영혼 사마귀)</Romy_AnimaConstructSeedMantis.label>
+  <Romy_AnimaConstructSeedMantis.description>심으면 영혼 사마귀가 자라날 구성체 고치의 씨앗입니다.</Romy_AnimaConstructSeedMantis.description>
+  <Romy_AnimaConstructSeedBehemoth.label>영혼 구성체 씨앗 (영혼 베히모스)</Romy_AnimaConstructSeedBehemoth.label>
+  <Romy_AnimaConstructSeedBehemoth.description>심으면 영혼 베히모스가 자라날 구성체 고치의 씨앗입니다.</Romy_AnimaConstructSeedBehemoth.description>
+  <Romy_AnimaBehemoth.label>영혼 베히모스</Romy_AnimaBehemoth.label>
+  <Romy_AnimaBehemoth.description>거대하고 육중한 영혼 구성체입니다. 속도는 빠르지 않지만 매우 튼튼하고 강력한 타격을 가합니다.</Romy_AnimaBehemoth.description>
+  <Romy_AnimaBehemoth.tools.0.label>왼쪽 발톱</Romy_AnimaBehemoth.tools.0.label>
+  <Romy_AnimaBehemoth.tools.1.label>오른쪽 발톱</Romy_AnimaBehemoth.tools.1.label>
+  <Romy_AnimaBehemoth.tools.3.label>머리</Romy_AnimaBehemoth.tools.3.label>
+  <Romy_AnimaHound.label>영혼 사냥개</Romy_AnimaHound.label>
+  <Romy_AnimaHound.description>늑대를 닮은 영혼 구성체입니다. 민첩하고 치명적입니다.</Romy_AnimaHound.description>
+  <Romy_AnimaHound.tools.0.label>왼쪽 발톱</Romy_AnimaHound.tools.0.label>
+  <Romy_AnimaHound.tools.1.label>오른쪽 발톱</Romy_AnimaHound.tools.1.label>
+  <Romy_AnimaHound.tools.3.label>머리</Romy_AnimaHound.tools.3.label>
+  <Romy_AnimaMantis.label>영혼 사마귀</Romy_AnimaMantis.label>
+  <Romy_AnimaMantis.description>거대한 사마귀를 닮은 영혼 구성체입니다. 보통 수준의 속도를 가졌으나 날카로운 나무 발톱으로 적을 손쉽게 갈기갈기 찢어버릴 수 있습니다.</Romy_AnimaMantis.description>
+  <Romy_AnimaMantis.tools.0.label>왼쪽 발톱</Romy_AnimaMantis.tools.0.label>
+  <Romy_AnimaMantis.tools.1.label>오른쪽 발톱</Romy_AnimaMantis.tools.1.label>
+  <Romy_AnimaMantis.tools.3.label>머리</Romy_AnimaMantis.tools.3.label>
+  <Romy_AnimaHornbunny.label>영혼 뿔토끼</Romy_AnimaHornbunny.label>
+  <Romy_AnimaHornbunny.description>얼굴에 뿔이 난 토끼를 닮은 동물입니다. 귀엽고 푹신합니다.</Romy_AnimaHornbunny.description>
+  <Romy_AnimaHornbunny.tools.0.label>뿔</Romy_AnimaHornbunny.tools.0.label>
+  <Romy_AnimaCaterpillar.label>영혼 애벌레</Romy_AnimaCaterpillar.label>
+  <Romy_AnimaCaterpillar.description>작은 애벌레를 닮은 동물입니다. 색이 밝고 사랑스럽습니다.</Romy_AnimaCaterpillar.description>
+  <Romy_AnimaCaterpillar.tools.0.label>머리</Romy_AnimaCaterpillar.tools.0.label>
+  <Romy_AnimaLightbug.label>영혼 반디</Romy_AnimaLightbug.label>
+  <Romy_AnimaLightbug.description>커다란 배에서 빛이 나는 작은 곤충형 동물입니다. 도축 시 소량의 영혼 정수를 얻을 수 있습니다.</Romy_AnimaLightbug.description>
+  <Romy_AnimaLightbug.tools.0.label>머리</Romy_AnimaLightbug.tools.0.label>
+  <Romy_AnimaSilkbeetle.label>영혼 비단벌레</Romy_AnimaSilkbeetle.label>
+  <Romy_AnimaSilkbeetle.description>특별한 비단을 자아내는 작은 곤충형 동물입니다. 길들이면 비단을 안전하게 채취할 수 있습니다.</Romy_AnimaSilkbeetle.description>
+  <Romy_AnimaSilkbeetle.tools.0.label>머리</Romy_AnimaSilkbeetle.tools.0.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Romy_AnimaEssenceExtraction.label>영혼 정수 추출</Romy_AnimaEssenceExtraction.label>
+  <Romy_AnimaEssenceExtraction.description>일부 영혼 식물 재료에는 추출하여 추가로 활용할 수 있는 특별한 액체가 포함되어 있습니다.</Romy_AnimaEssenceExtraction.description>
+  <Romy_ScrollsInscribing.label>두루마리 기록</Romy_ScrollsInscribing.label>
+  <Romy_ScrollsInscribing.description>두루마리 기록 기술을 통해 초능력을 두루마리에 옮겨 담을 수 있습니다. 이를 사용하면 초능력이 없는 사람도 초능력을 사용할 수 있게 됩니다.</Romy_ScrollsInscribing.description>
+  <Romy_MediumLevelScrolls.label>중급 두루마리</Romy_MediumLevelScrolls.label>
+  <Romy_MediumLevelScrolls.description>중급 두루마리를 기록하기 위해서는 추가적인 지식이 필요합니다.</Romy_MediumLevelScrolls.description>
+  <Romy_HighLevelScrolls.label>상급 두루마리</Romy_HighLevelScrolls.label>
+  <Romy_HighLevelScrolls.description>상급 두루마리를 기록하기 위해서는 추가적인 지식이 필요합니다.</Romy_HighLevelScrolls.description>
+  <Romy_AnimaBrewing.label>영혼 양조</Romy_AnimaBrewing.label>
+  <Romy_AnimaBrewing.description>영혼 진정잎을 올바르게 달이면 마음을 편안하게 해주는 아주 좋은 차를 만들 수 있습니다.</Romy_AnimaBrewing.description>
+  <Romy_AnimaScreamStaff.label>영혼 비명 지팡이</Romy_AnimaScreamStaff.label>
+  <Romy_AnimaScreamStaff.description>영혼 심장을 사용하여 타인의 뇌에 영혼의 비명을 재현하고, 그들을 의식 불명 상태로 만들 수 있습니다.</Romy_AnimaScreamStaff.description>
+  <Romy_AnimaConstructs.label>영혼 구성체</Romy_AnimaConstructs.label>
+  <Romy_AnimaConstructs.description>영혼 심장을 사용하여 인공적인 영혼 구성체를 제작할 수 있습니다.</Romy_AnimaConstructs.description>
+  <Romy_AnimaLamps.label>영혼 전등</Romy_AnimaLamps.label>
+  <Romy_AnimaLamps.description>깨어난 영혼 정수는 빛을 내기 때문에 전등을 만드는 데 사용할 수 있습니다.</Romy_AnimaLamps.description>
+</LanguageData>

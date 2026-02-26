@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=dissect enty-->
+  <UV_DissectEnty.label>실체 해부</UV_DissectEnty.label>
+  <!--Original=Dissect entity corpses to gain Anomaly research points.-->
+  <UV_DissectEnty.description>실체의 시체를 해부하여 이상 현상 연구 점수를 얻습니다.</UV_DissectEnty.description>
+  <!--Original=Butchering.-->
+  <UV_DissectEnty.jobString>해부 중</UV_DissectEnty.jobString>
+</LanguageData>

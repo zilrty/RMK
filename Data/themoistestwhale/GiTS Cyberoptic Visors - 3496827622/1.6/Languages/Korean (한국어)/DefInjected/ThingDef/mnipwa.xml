@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <gitsSV93Visor.label>사가와 SV-93 전투 바이저</gitsSV93Visor.label>
+  <gitsSV93Visor.description>이 사가와 일렉트로닉스 SV-93 전투 바이저는 한때 각종 병과의 병사들에게 널리 지급되던 장비였습니다. 사용자의 사격 정확도와 근접 전투 능력을 향상시킵니다.\n\n투박한 금속 바이저로, 그다지 보기 좋지 않고 꽤 기본적으로 보입니다. 기능도 그만큼 기본적입니다. 거리 측정기, 탄약 카운터, 간단한 아간 시야 보정 기능을 갖추고 있습니다.\n\n이 바이저는 전자기 충격으로 일시적으로 교란될 수 있으나, 빠르게 회복합니다.\n\n\n&lt;color=#e6e6e6ff&gt;&lt;size=11.8&gt;사가와 SV-93 보정치:&lt;/size&gt;&lt;size=10.2&gt;\n\n 정착민 아름다움: -10%\n 사격 정확도: +2\n 근접 명중 확률: +1\n 근접 회피 확률: +1\n&lt;/size&gt;&lt;/color&gt;</gitsSV93Visor.description>
+  <gitsHankaSFASVisor.label>한카 SFAS 전술 바이저</gitsHankaSFASVisor.label>
+  <gitsHankaSFASVisor.description>이 한카 프리시전 인스트루먼츠 SFAS 전술 바이저는 한때 특수부대의 까다로운 전투 환경 요구를 위해 기획되었던 장비였습니다. 사용자의 사격 정확도를 향상시킵니다.\n\n겉보기에는 단순해 보이지만, 외형만으로 판단할 수는 없습니다. 사용자는 탄약 카운터, 탄도 궤적 예측, IFF, 야간 시야 기능을 포함한 HUD를 제공받습니다.\n\n이 바이저는 전자기 충격으로 일시적으로 교란될 수 있으나, 빠르게 회복합니다.\n\n\n&lt;color=#e6e6e6ff&gt;&lt;size=11.8&gt;한카 SFAS 보정치:&lt;/size&gt;&lt;size=10.2&gt;\n\n 사격 정확도: +3\n 조준 지연 계수: -5%\n&lt;/size&gt;&lt;/color&gt;</gitsHankaSFASVisor.description>
+  <gitsCV293NJVisor.label>켄비시 CV-293NJ ‘솔로’ 전술 바이저</gitsCV293NJVisor.label>
+  <gitsCV293NJVisor.description>이 켄비시 CV-293NJ '솔로' 전술 바이저는 근접전을 즐기는 이들을 위한 장비입니다. 사용자의 근접 전투 능력을 향상시킵니다.\n\n인체공학적인 설계로, 격전 속에서도 얼굴에 더 밀착되어 거슬리지 않습니다. 야간 시야 기능과 더불어, 근접전에 맞춰 설계된 HUD를 제공합니다.\n\n이 바이저는 전자기 충격으로 일시적으로 교란될 수 있으나, 빠르게 회복합니다.\n\n\n&lt;color=#e6e6e6ff&gt;&lt;size=11.8&gt;켄비시 CV-293NJ 보정치:&lt;/size&gt;&lt;size=10.2&gt;\n\n 근접 명중 확률: +2\n 근접 회피 확률: +4\n&lt;/size&gt;&lt;/color&gt;</gitsCV293NJVisor.description>
+  <gitsSec9Visor.label>세이신코우키 ‘러커’ 전술 바이저</gitsSec9Visor.label>
+  <gitsSec9Visor.description>이 세이신코우키 '러커' 전술 바이저는 고대 정보기관이 은밀 작전에 사용하던 장비였습니다. 사용자의 사격 정확도와 근접 전투 능력을 향상시킵니다.\n\n추가 전자장비로 인해 크기는 커졌지만, 시스템 자체는 비교적 가볍게 유지되었습니다. 야간 시야 기능과 은밀 작전을 위한 고급 HUD를 제공합니다.\n\n이 바이저는 전자기 충격으로 일시적으로 교란될 수 있으나, 빠르게 회복합니다.\n\n\n&lt;color=#e6e6e6ff&gt;&lt;size=11.8&gt;세이신코우키 '러커' 보정치:&lt;/size&gt;&lt;size=10.2&gt;\n\n 사격 정확도: +3\n 조준 지연 계수: -5%\n 근접 명중 확률: +2\n 근접 회피 확률: +4\n&lt;/size&gt;&lt;/color&gt;</gitsSec9Visor.description>
+  <gitsKyoRe1719Visor.label>쿄-레 1719식 전술 바이저</gitsKyoRe1719Visor.label>
+  <gitsKyoRe1719Visor.description>쿄-레 1719식 전술 바이저는 당대의 최첨단 시제품으로, 열광학 위장과 함께 사용할 때 위장 상태에서도 시야를 확보할 수 있도록 설계되었습니다. 또한 사용자의 사격 정확도와 해킹 속도를 향상시킵니다.\n\n고급 전자장비로 가득 찬 이 시스템은 사용자에게 독보적인 수준의 정확도를 제공합니다. 필요하다면 다른 소프트웨어나 사이버네틱스와도 연동할 수 있습니다.\n\n이 바이저는 전자기 충격으로 일시적으로 교란될 수 있으나, 빠르게 회복합니다.\n\n\n&lt;color=#e6e6e6ff&gt;&lt;size=11.8&gt;쿄-레 1719형 보정치:&lt;/size&gt;&lt;size=10.2&gt;\n\n 사격 정확도: +4\n 조준 지연 계수: -10%\n 해킹 속도: +25%\n&lt;/size&gt;&lt;/color&gt;</gitsKyoRe1719Visor.description>
+</LanguageData>

@@ -420,9 +420,9 @@ bbb90432(Garrett [Garrett] Schneider)->개럿 [개럿] 슈나이더
 2a2bef34(Ethan [Laidlaw] Laidlaw)->이선 [레이들로] 레이들로
 a78045a2(Matthew [Matt] Larson)->매튜 [매트] 라슨
 36a07777(Steve [Steve] Grainger)->스티브 [스티브] 그레인저
-bc925626(Damian [Damo] Lynch)->데미안 [뎀오] 린치
+bc925626(Damian [Damo] Lynch)->데이미언 [데이모] 린치
 74421082(Joseph [Joseph] Hayes)->조셉 [조셉] 헤이스
-6858ad50(Brian [Khan] Hulsman)->브라이언 [칸] 휠스만
+6858ad50(Brian [Khan] Hulsman)->브라이언 [칸] 훌스먼
 1ee4bfa2(Nathaniel [Nate] Caldwell)->너새니얼 [네이트] 콜드웰
 be59155b(Jacob [Jacob] Cianan)->제이콥 [제이콥] 시아난
 d29bf499(Tyler [Big T] Schwehr)->타일러 [빅 T] 슈베어
@@ -448,7 +448,7 @@ d48ca94d(Maximo [Maximo] Machado)->막시모 [막시모] 마차도
 dcc76304(Chris [Almost] Tobin)->크리스 [올모스트] 토빈
 52f63647(Huron [Huron] Storm)->휴런 [휴런] 스톰
 e12e7290(Henderson [Phoenix] Hua)->헨더슨 [피닉스] 화
-44f61474(Aidan [Aidan] O'Donnell)->에이든 [에이든] 오'도넬
+44f61474(Aidan [Aidan] O'Donnell)->에이단 [에이단] 오'도넬
 15a0f898(Ekarus [Ekarus] Ryndren)->에카루스 [에카루스] 린드렌
 2fb3d773(Broos [Broos] Nemanic)->브로스 [브로스] 네마니치
 c5430443(Elijah [Eli] Bailey)->일라이자 [일라이] 베일리
@@ -472,7 +472,7 @@ bba4995d(Lau [Jensen] Jensen)->라우 [옌센] 옌센
 59eef1ec(Joshua [Josh] Lim)->조슈아 [조쉬] 림
 bf43059a(Alan [Huddo] Hudson)->앨런 [허도] 허드슨
 f4bb4c85(Spencer [Skovy] Miskoviak)->스펜서 [스코비] 미스코비아크
-46b5cf11(Kiel [Frederik] Frederik)->킬 [프레데릭] 프레데릭
+46b5cf11(Kiel [Frederik] Frederik)->킬 [프레데리크] 프레데리크
 51fce341(Leonard [Leo] Greywolf)->레너드 [레오] 그레이울프
 cacc6b2c(Paul [Cowboy] Pearson)->폴 [카우보이] 피어슨
 7ddba23f(Jordan [Racer] Malish)->조던 [레이서] 말리쉬
@@ -524,7 +524,7 @@ ce988864(Brydon [Brydon] Parsons)->브라이든 [브라이든] 파슨스
 eb4f5904(Joseph [Joe] Rykiel)->조셉 [조] 리키엘
 b5897e62(Jeff [Bluewolf] Clyde)->제프 [푸른늑대] 클라이드
 7f5325b2(Kai [Moth] Pirttiniemi)->카이 [나방] 피르티니에미
-a02be36e(Aidan [Tui] Green)->에이든 [투이] 그린
+a02be36e(Aidan [Tui] Green)->에이단 [투이] 그린
 f88b449d(Avoch [Avie] Griffin)->아보크 [에이비] 그리핀
 03c1d8f6(Jabari [Booker] Booker)->자바리 [부커] 부커
 07625b55(Joshua [Milso] Beckus)->조슈아 [밀소] 베커스
@@ -638,7 +638,7 @@ c280e514(Martin [Martin] Manhillen)->마르틴 [마르틴] 맨힐런
 f19d7c59(Jason [Jason] Carter)->제이슨 [제이슨] 카터
 324518df(Blake [Blake] Puryear)->블레이크 [블레이크] 퍼리어
 3e1e58da(Austin [Austin] Walker)->오스틴 [오스틴] 워커
-dc590f61(Dian [Dian] Opperman)->디안 [디안] 오퍼만
+dc590f61(Dian [Dian] Opperman)->디안 [디안] 오퍼먼
 9b4d3c0b(Sebastian [Basti] Wolff)->제바스티안 [바스티] 볼프
 4973c51b(Caelin [Eumenes] Melrose)->케일런 [에우메네스] 멜로즈
 454e8380(Zac [Karpath] Frizzell)->잭 [카르파스] 프리즐
@@ -715,7 +715,7 @@ b583fe3e(Jelle [Jelle] Janssen)->옐러 [옐러] 얀센
 6a0b1ce3(Caligno [Cal] Passel)->칼리뇨 [칼] 파셀
 85c47cdb(Denis [Zavulon] Ipatov)->데니스 [자불론] 이파토프
 c1f57eb5(Manuel [Monti] Morschel)->마누엘 [몬티] 모르셸
-a265f4ea(Damian [Hasaki] Dowie)->데미안 [하사키] 도위
+a265f4ea(Damian [Hasaki] Dowie)->데이미언 [하사키] 도위
 4833552f(Dan [Dafo] Hansen)->댄 [다포] 한센
 c0005385(Night [Capn'] Winterbourne)->나이트 [캡틴'] 윈터번
 965aae2d(Anthony [Greiver] Kerr)->앤서니 [그리버] 커
@@ -748,7 +748,7 @@ d40ae9f3(Brandon [Brandon] Mason)->브랜던 [브랜던] 메이슨
 3bd06957(Arkfreith [Arkyll] Metcalfe)->아크프레이스 [아킬] 메트카프
 56020751(Barry [Izmak] Downs)->배리 [이즈맥] 다운스
 fda9554e(Wan Zulfikri [Wan] Wan Yusoff)->완 줄피크리 [완] 완 유소프
-4a051ca6(Nahku [Kerman] Kerman)->나쿠 [케르만] 케르만
+4a051ca6(Nahku [Kerman] Kerman)->나쿠 [커먼] 커먼
 4406be2e(Jonne [Katte] Laitinen)->요네 [카테] 라이티넨
 81e26ed3(Reece [Reece] Hart)->리스 [리스] 하트
 eebc6efd(Hessel [Tinga] Tinga)->헤셀 [팅가] 팅가
@@ -993,7 +993,7 @@ b335e860(Andreas [Lokale] Walseng)->안드레아스 [로칼레] 발셍
 914188c5(Conor [Conor] White)->코너 [코너] 화이트
 397f2517(Julian Eric [Jules] White)->줄리안 에릭 [줄스] 화이트
 db0f2dc9(Dan [Bing] Bingham)->댄 [빙] 빙엄
-cbf1bc3a(Jeremiah [Jere] Yost)->제레미아 [제레] 요스트
+cbf1bc3a(Jeremiah [Jere] Yost)->제러마이아 [제리] 요스트
 1b61ad62(Patrick [Patrick] Engels)->파트리크 [파트리크] 엥겔스
 589a5fb9(Thomas [Thomas] Martin)->토마스 [토마스] 마틴
 2669b68c(Andreas [Ankun] Fast)->안드레아스 [안쿤] 패스트
@@ -1070,7 +1070,7 @@ acdf7f6c(Jozsef [Remete] Seres)->요제프 [레메테] 세레시
 4dd97692(Christian [Christian] Bailey)->크리스티안 [크리스티안] 베일리
 f197e66b(Duncan [Pussycat] Bentley)->던컨 [푸시캣] 벤틀리
 f71cae20(Oliver [Tiger] Knerr)->올리버 [타이거] 네어
-01332849(James [Jimoc] O'Connell)->제임스 [짐oc] 오'코넬
+01332849(James [Jimoc] O'Connell)->제임스 [짐oc] 오'코널
 48e0ea97(Young [Joy] Lee)->영 [조이] 리
 5cddb69e(Amul [Amul] Kumar)->아물 [아물] 쿠마르
 6b845267(Sergey [Sereja] Antonovich)->세르게이 [세레자] 안토노비치
@@ -1209,7 +1209,7 @@ f063481f(David [Berry] Berry)->데이비드 [베리] 베리
 6bc9a629(Andreas [Splint] Mogensen)->안드레아스 [스플린트] 모겐센
 7ca8c329(Jimmy [Pyro] Callbert)->지미 [파이로] 콜버트
 25e54cee(Mikey [Mick] McGuire)->마이키 [믹] 맥과이어
-4aa919cb(Joe [Hesty] Hesterman)->조 [헤스티] 헤스터만
+4aa919cb(Joe [Hesty] Hesterman)->조 [헤스티] 헤스터먼
 37fc681f(Justin [Yeo] Yeo)->저스틴 [여] 여
 83083006(Benjamin [Steely] Glover)->벤저민 [스틸리] 글로버
 c59b5592(Vel [Vel] Zelko)->벨 [벨] 젤코
@@ -1300,7 +1300,7 @@ b8c92bb2(Ulric [Ulric] Dettwieler)->울리크 [울리크] 데트빌러
 e82ca4ba(Matthias [Django] Djihangiroff)->마티아스 [장고] 지한기로프
 2e5a3a87(Rene [Soulless] Ladegaard)->르네 [소울리스] 라데고르
 b31552e8(Spencer [Spencer] Sigmund)->스펜서 [스펜서] 지그문트
-83c11e4a(Damian [Damian] Tomczik)->다미안 [다미안] 톰치크
+83c11e4a(Damian [Damian] Tomczik)->데이미언 [데이미언] 톰치크
 03f1c0de(Adam [Adam] Gallant)->아담 [아담] 갤런트
 5755dc9f(Fabian [Jarell] Pawlak)->파비안 [자렐] 파블라크
 dc415204(James [Jim] Wigman)->제임스 [짐] 위그먼
@@ -1465,7 +1465,7 @@ ca1449d5(Colin [Wobbles] Boyes)->콜린 [워블스] 보이즈
 533179fc(Darren [Ren] Smith)->대런 [렌] 스미스
 6411ca9d(Cyrus [Brown] Brown)->사이러스 [브라운] 브라운
 17a9a0df(Taysin [Goober] McElwee)->테이신 [구버] 맥엘위
-aef29fe7(Damian [Wombat] Wombat)->데미안 [웜뱃] 웜뱃
+aef29fe7(Damian [Wombat] Wombat)->데이미언 [웜뱃] 웜뱃
 eda28380(Frog [Frog] Manjansen)->프로그 [프로그] 만얀센
 247d7bd2(Cavelius [Prudii] Montross)->카벨리우스 [프루디] 몬트로스
 d32cdcec(Tom [Tom] Loughead)->톰 [톰] 록히드
@@ -1550,7 +1550,7 @@ b2b9a83f(Alexander [Postman] Spyropoulos)->알렉산더 [포스트맨] 스피로
 a3fedb7a(Robert [Spud] Hamlin)->로버트 [스퍼드] 햄린
 4b390263(David [Birkey] Birkett)->데이비드 [버키] 버킷
 e2e81b3a(Jacob [Potachnik] Potachnik)->제이콥 [포타츠니크] 포타츠니크
-a54cc6f7(Chad [Dilly] Dillman)->채드 [딜리] 딜만
+a54cc6f7(Chad [Dilly] Dillman)->채드 [딜리] 딜먼
 8656563a(Justin [Justin] Teer)->저스틴 [저스틴] 티어
 bf137ff4(Joe [Breaker] Grimm)->조 [브레이커] 그림
 deb3299b(Isaac [Fish] Foster)->아이작 [피쉬] 포스터
@@ -1656,7 +1656,7 @@ c99c6a10(Lukas [Hunter] Wenz)->루카스 [헌터] 웬츠
 216b8f88(Gronar [Karadin] Karadin)->그로나르 [카라딘] 카라딘
 e0bbe14a(Peter [Pede] Johansen)->페테르 [페데] 요한센
 a399f538(Bela [Butter] Skoflek)->벨라 [버터] 스코플렉
-1db8d444(Frederic [Nex] Zimmer)->프레데릭 [넥스] 짐머
+1db8d444(Frederic [Nex] Zimmer)->프레더릭 [넥스] 짐머
 60b74e53(Curt [Baron] Honsberger)->커트 [남작] 혼스베르거
 96d54c1c(Richard [Kesh] Garland)->리처드 [케시] 가랜드
 18b94624(David [Dave] Newfarmer)->데이비드 [데이브] 뉴파머
@@ -1846,7 +1846,7 @@ fa9c497c(Connor [Connor] Blagojevic)->코너 [코너] 블라고예비치
 0d9d18f5(Fox [Pidoux] Pidoux)->폭스 [피두] 피두
 a194c562(Glennon [Glenn] Nelson)->글렌논 [글렌] 넬슨
 fc71b9c3(Christopher [Chris] Hanratty)->크리스토퍼 [크리스] 핸래티
-df1327eb(Damien [Gilbert] Gilbert)->다미앵 [질베르] 질베르
+df1327eb(Damien [Gilbert] Gilbert)->데이미언 [길버트] 길버트
 40029631(Roen [Ro] Enrym)->로엔 [로] 엔림
 ea0fd090(Thomas [Groenli] Groenli)->토마스 [그뢴리] 그뢴리
 a8272b33(Andrew [Mack] Drake)->앤드루 [맥] 드레이크
@@ -1863,7 +1863,7 @@ eb3b3ef4(Jon [Greeny] Schafer)->존 [그리니] 샤퍼
 06c9fb66(Ryan [Murdoc] Ferguson)->라이언 [머독] 퍼거슨
 fc567e85(Clark [Halik] Halicarnasus)->클라크 [할리크] 할리카르나소스
 f332ce0b(Daniel [Dan] Calhoun)->다니엘 [댄] 칼훈
-a8a618ac(James [Squirrel] Coffman)->제임스 [다람쥐] 코프만
+a8a618ac(James [Squirrel] Coffman)->제임스 [다람쥐] 코프먼
 a034246e(Alfons [Fox] Nugarin)->알폰스 [폭스] 누가린
 2fc7881d(Filip [Tearry] Zednicek)->필립 [티어리] 제드니체크
 bfaa8c39(Blair [Witch] Starret)->블레어 [위치] 스타렛
@@ -1962,7 +1962,7 @@ e4845505(Andrew [Schenavar] Schenavar)->앤드루 [셰나바르] 셰나바르
 d2db2778(Mike [Micky] Mcleod)->마이크 [미키] 맥클로드
 d16da970(Florent [Marconi] Sévellec)->플로랑 [마르코니] 세벨렉
 e32b5512(Christoph [Chris] Vogels)->크리스토프 [크리스] 포겔스
-cbbace38(Frederic [Fred] Boulay)->프레데릭 [프레드] 불레
+cbbace38(Frederic [Fred] Boulay)->프레더릭 [프레드] 불레
 63d59682(Yann [Yann] Thomas)->얀 [얀] 토마스
 b7ad9b17(Moby [Moby] Dick)->모비 [모비] 딕
 37a2a245(Daniel [Dan] Smith)->다니엘 [댄] 스미스
@@ -2003,7 +2003,7 @@ e0ef869c(Tyler [Mecke] Mecke)->타일러 [메케] 메케
 d813dd70(Lucas [Poku] Schmöhl)->루카스 [포쿠] 슈묄
 64da3b63(Lachlan [Kearns] Kearns)->라클란 [컨스] 컨스
 a50431e8(Jonathan [Xavin] Spence)->조너선 [자빈] 스펜스
-558c68e4(Beau [Beau] Dierman)->보 [보] 디어맨
+558c68e4(Beau [Beau] Dierman)->보 [보] 디어먼
 2e03dcba(Ian [Cox] Cox)->이안 [콕스] 콕스
 1aa9cc6c(Barnack [Shadow] Hyral)->바르낙 [섀도우] 하이랄
 11fbae8d(Matt [Matt] Edge)->매트 [매트] 엣지
@@ -2038,7 +2038,7 @@ bb10c247(Rob [Thighs] Fenwick)->롭 [허벅지] 펜윅
 586017e0(Daniel [Since] Sauer)->다니엘 [신스] 자우어
 8098ac0e(Khan [Khan] Techsane)->칸 [칸] 테크세인
 33ddf573(George [Casper] Casper)->조지 [캐스퍼] 캐스퍼
-08b70710(Nick [Crow] Vranman)->닉 [까마귀] 브란만
+08b70710(Nick [Crow] Vranman)->닉 [까마귀] 브란먼
 c99e2f96(Malchius [Mal] Clay)->말키우스 [말] 클레이
 e7c8a551(Atahan [Ata] Bozkurt)->아타한 [아타] 보즈쿠르트
 27c251c6(Sancti [Spook] Archai)->상크티 [스푸크] 아르차이
@@ -2087,7 +2087,7 @@ b6b7945c(Alex [Vale] Lawless)->알렉스 [베일] 롤리스
 ea5688f7(Zach [Zach] Phillips)->잭 [잭] 필립스
 125cda73(Brandon [Brandon] McBride)->브랜던 [브랜던] 맥브라이드
 de6db788(Rufert [Rufert] Lehman)->루퍼트 [루퍼트] 리먼
-e219170a(Gustav [Gussi] Seymore)->구스타프 [구씨] 시모어
+e219170a(Gustav [Gussi] Seymore)->구스타프 [구시] 시모어
 eabef592(Leo [Ace] Northwood)->레오 [에이스] 노스우드
 4b2eb03d(Kirill [Kirya] Belotserkvi)->키릴 [키리야] 벨로체르크비
 719f74a0(Lane [Beast] Buckingham)->레인 [야수] 버킹엄
@@ -2300,7 +2300,7 @@ ab19c15f(Liam [Liam] Dixon)->리암 [리암] 딕슨
 518ec054(Chris [Fox] Fox)->크리스 [폭스] 폭스
 0ec8ceca(Devin [Dev] Rocco)->데빈 [데브] 로코
 2e1fad0e(Cadwell [Thum] Thum)->캐드웰 [툼] 툼
-2f0b45b1(Frederik [Fred] Maass)->프레데릭 [프레드] 마스
+2f0b45b1(Frederik [Fred] Maass)->프레데리크 [프레드] 마스
 9ffdd9e6(Bjorn [Bjoernen] Ekstrom)->비요른 [비외르넨] 에크스트롬
 9daaa4a1(Taizo [Simpson] Simpson)->타이조 [심슨] 심슨
 fadcfdec(Michael [Mike] Lockheart)->마이클 [마이크] 록하트
@@ -2444,10 +2444,10 @@ e8ad7e6a(Andrew [Andrew] Youngs)->앤드루 [앤드루] 영스
 e2de9f3e(Denver [Den] Broderick)->덴버 [덴] 브로데릭
 ecc28d9d(Kayden [Kay] Lambourne)->케이든 [케이] 램번
 1001b5fe(Tobias [Toby] Russell)->토비아스 [토비] 러셀
-62d45123(Brett [Brett] Beeman)->브렛 [브렛] 비맨
+62d45123(Brett [Brett] Beeman)->브렛 [브렛] 비먼
 1cf002b7(Ludovic [Ludo] Wypych)->루도빅 [루도] 비피흐
 ec0959f3(Ethan [Wit] Rooney)->이선 [위트] 루니
-e6475840(Justin [Kietzman] Kietzman)->저스틴 [키에츠만] 키에츠만
+e6475840(Justin [Kietzman] Kietzman)->저스틴 [키츠먼] 키츠먼
 903e1c32(Joakim [Jokk] Odnes Hansen)->요아킴 [요크] 오드네스 한센
 5ecc8e14(Jiunwei [Rooks] Chen)->쥔웨이 [룩스] 천
 bbede3ff(Boris [Sunny] De La Roux)->보리스 [써니] 데 라 루
@@ -2613,7 +2613,7 @@ a4c8d2e5(Chase [Chuckles] Goodwin)->체이스 [처클스] 굿윈
 7149e9fa(Adam [Walker] Walker)->아담 [워커] 워커
 20a30090(Michael [Mike] Willey)->마이클 [마이크] 윌리
 19849edd(Arthur [Roski] Roski)->아서 [로스키] 로스키
-60e17af2(Damian [Silvermane] Silvermane)->데미안 [실버메인] 실버메인
+60e17af2(Damian [Silvermane] Silvermane)->데이미언 [실버메인] 실버메인
 b290a36d(Paul [Spud] Tate)->폴 [스퍼드] 테이트
 1b83a5d6(Maximilian [Max] Gudat)->막시밀리안 [막스] 구다트
 bd84e0d6(Simon [Si] Payne)->사이먼 [사이] 페인
@@ -2760,7 +2760,7 @@ cb30bc5a(Joshua [Lord] Brodie)->조슈아 [로드] 브로디
 62249d12(Warren [Wazza] Brent)->워렌 [와자] 브렌트
 167d1807(Marc [Alex] Grundke)->마크 [알렉스] 그룬트케
 0e11c346(William [Palaski] Palaski)->윌리엄 [팔라스키] 팔라스키
-6f106efb(Euan [Westy] Westerman)->유안 [웨스티] 웨스터만
+6f106efb(Euan [Westy] Westerman)->유언 [웨스티] 웨스터먼
 2afb47bd(Tim [Chuckers] McCutcheon)->팀 [처커스] 맥커천
 87c28759(Jake [Dez] Dennison)->제이크 [데즈] 데니슨
 b333c243(Brian [Casey] Casey)->브라이언 [케이시] 케이시
@@ -2771,7 +2771,7 @@ e927594c(Natas [Natas] du Vall)->나타스 [나타스] 뒤 발
 af6f9812(Chase [Chase] Quinnell)->체이스 [체이스] 퀸넬
 7f9e2f31(Chad [Perkins] Perkins)->채드 [퍼킨스] 퍼킨스
 4ea830d1(Lars [Lars] Hedrich)->라르스 [라르스] 헤드리히
-70c89094(Sander [Ruff] Huurdeman)->산더 [러프] 휘르데만
+70c89094(Sander [Ruff] Huurdeman)->산더르 [러프] 휘르데만
 17b3a879(Joseph [Joe] Valdez)->조셉 [조] 발데스
 5e678871(Arrian [Ari] Purcell)->아리안 [아리] 퍼셀
 fc24306f(Jett [Jett] Gallagher)->제트 [제트] 갤러거
@@ -2902,7 +2902,7 @@ f4446aee(Andrew [Drew] Howe)->앤드루 [드루] 하우
 dbfee1bc(Lowell [Lowell] Marston)->로웰 [로웰] 마스턴
 32c3fffa(Keiran [Taylor] Taylor)->키런 [테일러] 테일러
 701e7978(James [James] Spearmint)->제임스 [제임스] 스피어민트
-ca01cadd(Jeremiah [Cross] Ross)->제레미아 [크로스] 로스
+ca01cadd(Jeremiah [Cross] Ross)->제러마이아 [크로스] 로스
 a71ed682(Joshua [Phantum] Peters)->조슈아 [팬텀] 피터스
 fc9c6f15(Darius [Darius] Deathrend)->다리우스 [다리우스] 데스렌드
 489038b2(Edward [Eddie] Dotchscherer)->에드워드 [에디] 도치셰러
@@ -2975,7 +2975,7 @@ f7b6e920(Daniel [Dan] De Rosa)->다니엘 [댄] 데 로사
 c1371cf9(Texonidas [Tex] Andersen)->텍소니다스 [텍스] 안데르센
 d1552668(Wesley [Wes] Yang)->웨슬리 [웨스] 양
 07db718f(Mickey [Skittish] Tobin)->미키 [스키티시] 토빈
-88a2368b(Jerry [Jer-Bear] Hardman)->제리 [제르-베어] 하드맨
+88a2368b(Jerry [Jer-Bear] Hardman)->제리 [저-베어] 하드먼
 e08b4df4(Arun [Shrink] Menon)->아룬 [쉬링크] 메논
 47052296(Ronan [Rob] O'Byrne)->로난 [롭] 오'번
 65bb3ac3(Tyler [Tyler] Scheuble)->타일러 [타일러] 쇼이블레
@@ -3006,7 +3006,7 @@ a4706482(William [Bill] Gilbert)->윌리엄 [빌] 길버트
 837e832b(Danny [Rhubarb] Custus)->대니 [루바브] 쿠스투스
 f397067e(Sibiescke [Morton] Morton)->시비에스케 [모턴] 모턴
 30c84410(David [Dave] Pottrell)->데이비드 [데이브] 포트럴
-d60488b5(Cody [Coyote] Baverman)->코디 [코요테] 바버만
+d60488b5(Cody [Coyote] Baverman)->코디 [코요테] 베이버먼
 847c54d5(Zanthril [Farren] Farren)->잔스릴 [패런] 패런
 aa58fe86(Ian [Ian] Teodorescu)->이안 [이안] 테오도레스쿠
 39966b71(Rejis [Rejis] Johnson)->레지스 [레지스] 존슨
@@ -3043,7 +3043,7 @@ a1449d25(Brock [Brock] Sampson)->브록 [브록] 샘슨
 8c9961f6(Mohamed [Nagy] Nagy)->모하메드 [너지] 너지
 80376b61(Thomas [Longhoff] Langhoff)->토마스 [롱호프] 랑호프
 05257036(Patrick [Trot] Trotter)->패트릭 [트로트] 트로터
-42583cda(Matthew [Esema] Eseman)->매튜 [에세마] 에세만
+42583cda(Matthew [Esema] Eseman)->매튜 [에세마] 에세먼
 452bf51f(Jay [Rab] Rab)->제이 [랩] 랩
 ba0bd26f(Adam [Adad] Wilson)->아담 [아다드] 윌슨
 5cd57429(Daniel [Danbo] Baxter)->다니엘 [단보] 백스터
@@ -3114,12 +3114,12 @@ d4849c0d(Francis [Francis] Cole)->프랜시스 [프랜시스] 콜
 13f744cf(Jeffrey [Jeff] Hope)->제프리 [제프] 호프
 7739bb6e(Wilhelm [Will] Vors)->빌헬름 [윌] 보르스
 626f79d7(Simon [Smoky] Haywood)->사이먼 [스모키] 헤이우드
-cb9e071c(Raymond [Bateman] Calder)->레이먼드 [베이트먼] 칼더
+cb9e071c(Raymond [Bateman] Calder)->레이먼드 [베이트먼] 콜더
 7d60153e(Darakia [Dar] Darus)->다라키아 [다르] 다루스
 1d4fc3b3(Borre [Bamsefar] Lien)->보레 [밤세파르] 리엔
 deb11884(Christo [Christo] Giles)->크리스토 [크리스토] 자일스
 9bbaf03d(Taylor [Duke] Edgell)->테일러 [듀크] 에지엘
-717f91ea(Ian [Wid] Wieserman)->이안 [비드] 비제르만
+717f91ea(Ian [Wid] Wieserman)->이안 [위드] 위저먼
 2902d5cc(Marc [Ackter] Jackter)->마크 [악터] 잭터
 6504c984(Chris [Lebs] LeBlond)->크리스 [릅스] 르브론드
 4e147180(Karl [Karl] Foster)->카를 [카를] 포스터
@@ -3156,7 +3156,7 @@ a70d1712(Jared [Fizz] Krause)->재러드 [피즈] 크라우스
 d7b5f47d(Jalil-Ahmad [Jalil] Sharif)->잘릴-아마드 [잘릴] 샤리프
 aba6d6dc(Matthew [Jester] McArdle)->매튜 [제스터] 맥아들
 fd5416db(Joshua [Josh] Foster)->조슈아 [조쉬] 포스터
-a1dca64b(Brad [Lefty] Boldman)->브래드 [래프티] 볼드만
+a1dca64b(Brad [Lefty] Boldman)->브래드 [레프티] 볼드먼
 3146fa74(Elliot [Mandem] Ryan)->엘리엇 [만뎀] 라이언
 b01bb581(Anthony [Bantony] Muscat)->앤서니 [밴토니] 머스캣
 0a45eddc(Stefan [Ashen] Frei)->스테판 [애쉬엔] 프라이
@@ -3192,8 +3192,8 @@ fe367c2f(Dennis [Griffin] Hjorth)->데니스 [그리핀] 요르트
 daade13d(Tingshen [roulston] Zhou)->팅선 [룰스턴] 저우
 8df63bfa(Bobby [Batty] Campati)->바비 [배티] 캄파티
 24e5fc0d(Alex [Pinky] Heft)->알렉스 [핑키] 헤프트
-68a8dff2(Alexander [Xander] Irvine)->알렉산더 [산더] 어바인
-4f8e4add(Nick [Toffi] Tofferman)->닉 [토피] 토퍼만
+68a8dff2(Alexander [Xander] Irvine)->알렉산더 [잰더] 어바인
+4f8e4add(Nick [Toffi] Tofferman)->닉 [토피] 토퍼먼
 59eb61f1(Jonathan [Jonny] German)->조너선 [조니] 저먼
 e16061d4(Namjai [Namjai] Teeluk)->남자이 [남자이] 티루크
 b07dfaf1(Michal [Ene] Strabel)->미할 [에네] 스트라벨
@@ -3303,7 +3303,7 @@ d83893b5(Lawrence [Larry] Sickles)->로렌스 [래리] 사이클스
 c2f77712(Alex [Texas] Kamper)->알렉스 [텍사스] 캠퍼
 b6009a03(Jamison [Heilig] Heilig)->제이미슨 [하일리히] 하일리히
 5dc172e5(Mark [Judas] Armstrong)->마크 [유다] 암스트롱
-5bf72f7b(Michael [Mike] Overman)->마이클 [마이크] 오버만
+5bf72f7b(Michael [Mike] Overman)->마이클 [마이크] 오버먼
 cf35640f(Mathieu [Muffin] Nyarai)->마티외 [머핀] 냐라이
 44d2d054(Eric [Eric] Lengling)->에릭 [에릭] 렌글링
 c9ea20a4(Manuel [Fumble] Schweigert)->마누엘 [펌블] 슈바이게르트
@@ -3356,7 +3356,7 @@ e413bb8d(Hunter [Hunter] Skalkeas)->헌터 [헌터] 스칼케아스
 cdcff011(Jarkko [Jake] McAnder)->야르코 [제이크] 맥앤더
 67aa8785(Luke [Luke] Kimmell)->루크 [루크] 킴멜
 ec0aef89(Steven [Steve] Ware)->스티븐 [스티브] 웨어
-da9905f6(Nikolaus [Nikolaus] Kellermann)->니콜라우스 [니콜라우스] 켈러만
+da9905f6(Nikolaus [Nikolaus] Kellermann)->니콜라우스 [니콜라우스] 켈레르만
 c6ff8479(Filip [Filbo] Pohle)->필립 [필보] 폴레
 192cffc8(Tongkou [Tong] Vue)->퉁커우 [통] 뷰
 b4ed486a(Steven [Stevie] Howell)->스티븐 [스티비] 하웰
@@ -3379,7 +3379,7 @@ ac0ebce5(Elise [Elli] Bailey)->엘리제 [엘리] 베일리
 0a51650d(Florent [Sama] Dapo)->플로랑 [사마] 다포
 62a79e4d(Simon [Si] Stuart)->사이먼 [사이] 스튜어트
 d90e4de7(Miku [Miku] Sutton)->미쿠 [미쿠] 서튼
-33968509(Rylan [Holt] Mangum)->라일란 [홀트] 맨검
+33968509(Rylan [Holt] Mangum)->라일런 [홀트] 맨검
 1a9d7fc6(Mats [Ugla] Johansen)->마츠 [우글라] 요한센
 a98ac2c2(Jorn [Vulder] Dokter)->요른 [벌더] 독터
 4e74f450(Carlo [Carlo] Curiosus)->카를로 [카를로] 큐리오수스
@@ -3768,19 +3768,19 @@ c33f4e18(Ryan [Orlando] Orlando)->라이언 [올랜도] 올랜도
 e0d78696(Parker [Sparky] Wood)->파커 [스파키] 우드
 70eb0ca9(Ryan [Tank] Quinn)->라이언 [탱크] 퀸
 803443c8(Eric [Vega] Vega)->에릭 [베가] 베가
-c870323a(Juanito [Bandito] Hitzeman)->후아니토 [밴디토] 히츠맨
+c870323a(Juanito [Bandito] Hitzeman)->후아니토 [밴디토] 히츠먼
 6be52648(Cadumus [Cad] Cinaed)->카두무스 [카드] 시나에드
 c0ecbe2c(Philipp [Phil] Ebner)->필리프 [필] 에브너
 e4995c93(Joseph [King] Edinger)->조셉 [킹] 에딩거
 0a6162ef(Erik [Sandman] Lim)->에릭 [샌드맨] 림
 577c86db(Toby [Stag] Brooks)->토비 [스태그] 브룩스
 6dffd2fe(Jonathan [Crais] Hampson)->조너선 [크레이스] 햄프슨
-1322ef21(Frederik [Kikko] Okaia)->프레데릭 [키코] 오카이아
+1322ef21(Frederik [Kikko] Okaia)->프레데리크 [키코] 오카이아
 cd77e6de(Brandon [Bee] Law)->브랜던 [비] 로우
 344cf3e2(Dan [Cadillac] Kadleck)->댄 [캐딜락] 카들렉
 26c2dd6f(Leigh [Woddles] Woodhead)->레이 [우들스] 우드헤드
 cd176e15(Arian [Oveissi] Oveissi)->아리안 [오베이시] 오베이시
-b3213185(Frederic [Fred] Noret)->프레데릭 [프레드] 노레
+b3213185(Frederic [Fred] Noret)->프레더릭 [프레드] 노레
 4b066add(Liam [Watterworth] Watterworth)->리암 [워터워스] 워터워스
 535d75d5(Lance [Bananas] Banana)->랜스 [바나나스] 바나나
 52ae5300(Kevin [Kev] Robinson)->케빈 [케브] 로빈슨
@@ -4009,7 +4009,7 @@ ce40650f(Morgan [Blue] Kerns)->모건 [블루] 컨스
 5de6d4e5(Nicholas [Nick] Zhang)->니콜라스 [닉] 장
 9519ad67(Gediminas [Gediminas] Tupe)->게디미나스 [게디미나스] 투페
 e5d7f682(Shurka [Mania] Shapovalov)->슈르카 [매니아] 샤포발로프
-61eda473(Damien [Harvy] Overcash)->데미언 [하비] 오버캐시
+61eda473(Damien [Harvy] Overcash)->데이미언 [하비] 오버캐시
 3beb97b4(Seth [Seth] Dozer)->세스 [세스] 도저
 1769e164(Chris [Chris] Costescu)->크리스 [크리스] 코스테스쿠
 0d669c48(Pauli [Basso] Matjussi)->파울리 [바소] 마치우시
@@ -4225,7 +4225,7 @@ bb740ade(James [Belin] Belin)->제임스 [벨린] 벨린
 9c86fc63(Seunghun [Seunghun] Shin)->승훈 [승훈] 신
 19e20102(Sander [Strack] Strack)->산더 [슈트라크] 슈트라크
 e0c61ffd(Daniel [Jammy] Jordan)->다니엘 [잼미] 조던
-5daa6463(Alec [Neiman] Neiman)->알렉 [나이만] 나이만
+5daa6463(Alec [Neiman] Neiman)->알렉 [나이먼] 나이먼
 f3f0b341(Pablo [Panes] Nes)->파블로 [파네스] 네스
 0c540297(Pim [Spithost] Spithost)->핌 [스피토스트] 스피토스트
 b66a02da(Jules [Belyea] Belyea)->줄스 [벨리야] 벨리야
@@ -4247,7 +4247,7 @@ f4120835(Michael [Mikeje] McKinlay)->마이클 [미케제] 맥킨레이
 1fe995cd(Alexander [Neh] Monrad)->알렉산데르 [네] 몬라드
 4b4084df(Marten [Matten] Van Gosliga)->마르텐 [마텐] 반 호슬리가
 757be5c2(Henrik [Henners] Halvorsen)->헨리크 [헨네르스] 할보르센
-3a9df4ca(Cody [Codeman] Corfman)->코디 [코드맨] 코르프만
+3a9df4ca(Cody [Codeman] Corfman)->코디 [코드맨] 코프먼
 0292c2b0(Adrian [Narices] Mohme)->아드리안 [나리세스] 모메
 bea0aeef(Alecos [Alecos] Pravlis)->알레코스 [알레코스] 프라블리스
 091b6e6f(Harry [Shorty] Kelly)->해리 [꼬마] 켈리
@@ -4310,7 +4310,7 @@ c99f5ac1(Lewis [Lewis] Wetzel)->루이스 [루이스] 베첼
 fc011635(Robin [Ram] Armstrong)->로빈 [램] 암스트롱
 366207ab(Mathieu [Matt] Bedu)->마티외 [마트] 베두
 6769c3c6(Thomas [Tom] Wormell)->토마스 [톰] 워멜
-e9bad474(Sven [Sven] Hallberg)->스벤 [스벤] 홀버그
+e9bad474(Sven [Sven] Hallberg)->스벤 [스벤] 할베리
 ea2f901c(Kevin [Kevin] Smith)->케빈 [케빈] 스미스
 816268c8(Zibin [Wu] Wu)->쯔빈 [우] 우
 b3f9ad2b(Sung-Ho [Lewis] Cho)->성호 [루이스] 조
@@ -4362,7 +4362,7 @@ b717f91e(Daniel [Stechi] Steszewski)->다니엘 [스테히] 스테셰프스키
 82333f19(Jake [McGrath] McGrath)->제이크 [맥그래스] 맥그래스
 a6695e8c(Samuele [Susso] Sussani)->사무엘레 [수쏘] 수사니
 09b6b602(Mike [Chandles] Chandles)->마이크 [챈들스] 챈들스
-91cc8d1f(Spencer [Thoman] Thoman)->스펜서 [토만] 토만
+91cc8d1f(Spencer [Thoman] Thoman)->스펜서 [토먼] 토먼
 ab839a25(André [Andi] Bauer)->앙드레 [안디] 바우어
 defd0c90(Thomas [Tom] Helford)->토마스 [톰] 헬퍼드
 3893a8b6(Jonatan [Swinger] Olsson)->조나탄 [스윙어] 올손
@@ -4445,10 +4445,10 @@ ebddca66(Kyle [Casey] Casey)->카일 [케이시] 케이시
 2c771c60(Lee [Walker] Walker)->리 [워커] 워커
 3d2a0755(Cameron [Cam] Dunstone)->캐머런 [캠] 던스톤
 5dc1a544(Ticer [Tiger] Nelson)->타이서 [타이거] 넬슨
-64a026eb(Ulf [Uffa] Hoffman)->울프 [우파] 호프만
+64a026eb(Ulf [Uffa] Hoffman)->울프 [우파] 호프먼
 de6a209b(Scott [Phoenix] Klepfer)->스콧 [피닉스] 클레퍼
 3bccfb40(Hanz [Hanz] Tinkerton)->한츠 [한츠] 팅커턴
-a819ecfc(Christopher [Chris] Lierman)->크리스토퍼 [크리스] 리어만
+a819ecfc(Christopher [Chris] Lierman)->크리스토퍼 [크리스] 리어먼
 b519b7e0(Samuel [Sam] Greenwood)->사무엘 [샘] 그린우드
 b1c72e60(Nathan [Nate] Brock)->네이선 [네이트] 브록
 ad50d477(Nick [Higgs] Robes)->닉 [힉스] 로브스
@@ -4470,9 +4470,9 @@ d91abc99(Westly [Westly] James)->웨스틀리 [웨스틀리] 제임스
 3752fa9a(Mark [Alex] Flook)->마크 [알렉스] 플룩
 87a97911(Max [Oller] Oller)->맥스 [올러] 올러
 1dae76a3(Dong-Ik [Dong-Ik] Song)->동익 [동익] 송
-c2bb33b6(Brett [Church] Churchman)->브렛 [교회] 처치맨
+c2bb33b6(Brett [Church] Churchman)->브렛 [교회] 처치먼
 a5b39b8d(Grant [Slick] Tucker)->그랜트 [슬릭] 터커
-39443e0a(Ross [Boss] Boughman)->로스 [보스] 바우만
+39443e0a(Ross [Boss] Boughman)->로스 [보스] 보먼
 138cd588(Ren [Sylv] Sylvan)->렌 [실브] 실반
 ea1c7ef6(Riley [Riley] French)->라일리 [라일리] 프렌치
 15a46a83(Robert [Robby] Warren)->로버트 [로비] 워렌
@@ -4605,19 +4605,19 @@ ee8b345c(Roberto [Neme] Neme)->로베르토 [네메] 네메
 6e3f2f47(Teodor [Teo] Pinzariu)->테오도르 [테오] 핀자리우
 25d42a71(Peter [Baldy] Addicott)->피터 [대머리] 애디콧
 ad01e67b(Dmitriy [Blekfen] Kuzneysov)->드미트리 [블렉펜] 쿠즈네이소프
-f517f82f(Jaime [Insane] Guzman)->제이미 [미치광이] 구스만
+f517f82f(Jaime [Insane] Guzman)->하이메 [미치광이] 구스만
 1e404896(Matei [Matt] Livescu)->마테이 [매트] 리베스쿠
 426b0341(Anthony [Phoenix] Hornsey)->앤서니 [피닉스] 혼지
 ab66e587(Alexander [Master] Bondarenko)->알렉산더 [마스터] 본다렌코
 d2e93ba0(Ian [Shadows] Anderson)->이안 [섀도우즈] 앤더슨
-1a7ae380(Aidan [Osh] Millan)->에이든 [오시] 밀란
+1a7ae380(Aidan [Osh] Millan)->에이단 [오시] 밀란
 32fdd1cc(Zore [Phoenix] Phoenix)->조레 [피닉스] 피닉스
 540de79b(Fabian [Jacobsen] Jacobsen)->파비안 [야콥센] 야콥센
 163f008d(Calhoun [Cattell] Cattell)->칼훈 [카텔] 카텔
 53504d9b(Lionel [Richtea] Richtea)->리오넬 [리치티] 리치티
 61b3fef9(Chris [Schwartz] Schwartz)->크리스 [슈워츠] 슈워츠
 4796dee1(Ansiel [Ansiel] Briathos)->안시엘 [안시엘] 브리아토스
-bf75fae4(Damian [Dingo] Silver)->데미안 [딩고] 실버
+bf75fae4(Damian [Dingo] Silver)->데이미언 [딩고] 실버
 3f29aa32(Caleb [Crawdad] Jones)->칼렙 [크로우대드] 존스
 fb4bcf69(Daniel [Dan] Lyon)->다니엘 [댄] 리옹
 5efac17c(Timo [Tim'o] Stahlmann)->티모 [팀'오] 슈탈만
@@ -4633,7 +4633,7 @@ bfde1abc(Dillon [Pickles] Tricare)->딜런 [피클스] 트리케어
 20c978c8(David [Nimrauko] Argudo)->다비드 [님라우코] 아르구도
 79b195f8(Rossell [Ross] Pog)->로셀 [로스] 포그
 616e50a9(Leito [Toh] Veeen)->레이토 [토] 비인
-931540b3(Damien [Damo] Cockerill)->데미언 [다모] 코케릴
+931540b3(Damien [Damo] Cockerill)->데이미언 [데이모] 코케릴
 e265f3e4(Aaron [Aaron] Sewell)->에런 [에런] 수얼
 7a446e8b(Wallace [Wallace] Booth)->월리스 [월리스] 부스
 919ecc20(Darrian [Darrian] Shaw)->다리안 [다리안] 쇼
@@ -4666,11 +4666,11 @@ e22b51df(Bret [Bret] Canny)->브렛 [브렛] 캐니
 5ba251d3(Luca [Kasper] Mosebach)->루카 [카스퍼] 모제바흐
 49c36a3e(Darren [Darren] Toth)->대런 [대런] 토스
 2d5d6803(Kai [Skuttnick] Skuttnick)->카이 [스쿠트닉] 스쿠트닉
-aee5cf27(Julio [Bobman] Sed)->훌리오 [보브만] 세드
+aee5cf27(Julio [Bobman] Sed)->훌리오 [보브맨] 세드
 0531d498(Irfan [Bidiwala] Bidiwala)->이르판 [비디와라] 비디와라
 c4dadd9d(James [James] Gilbert)->제임스 [제임스] 길버트
 58b04e38(Jason [Jehu] Love)->제이슨 [제후] 러브
-638e9c86(Joris [Hoevenberg] Hoevenberg)->요리스 [후벤베르크] 후벤베르크
+638e9c86(Joris [Hoevenberg] Hoevenberg)->요리스 [후벤베르흐] 후벤베르흐
 3d7a090c(Stephan [Sketman] Sket)->스테판 [스켓맨] 스켓
 9f570759(Chris [Chris] Grenard)->크리스 [크리스] 그레나드
 ead6399e(Brandon [Wolf] Thompson)->브랜던 [울프] 톰슨
@@ -4703,7 +4703,7 @@ edf4fc5c(John [John] Folmer)->존 [존] 폴머
 651b6ffe(Zach [Burner] Burnham)->잭 [버너] 번햄
 5b955ad9(Myron [My] Harris)->마이론 [마이] 해리스
 f3e3125c(Andrew [Chief] Hoppo)->앤드루 [치프] 호포
-367fbaac(Nesselith [Nessman] Doucette)->네셀리스 [네스만] 듀세트
+367fbaac(Nesselith [Nessman] Doucette)->네셀리스 [네스맨] 듀세트
 ccc42866(Luuk [Luuk] Meijer)->루크 [루크] 메이어
 23fe8287(Simon [Pora] Backes)->사이먼 [포라] 바케스
 cc0797a7(Ronnie [Routledge] Routledge)->로니 [라우틀리지] 라우틀리지
@@ -4781,7 +4781,7 @@ aef9b6e4(Brandonn [Reef] Huntahz)->브랜던 [리프] 헌타즈
 6dc2cea8(Jason [Snappa] Blackstone)->제이슨 [스냅파] 블랙스톤
 1f7b5c83(David [Craig] Craig)->데이비드 [크레이그] 크레이그
 88a5b6b7(Kevin [Welle] Wellinger)->케빈 [벨레] 벨링거
-f2c70091(Frederik [Forest] Eskildsen)->프레데릭 [포레스트] 에스킬센
+f2c70091(Frederik [Forest] Eskildsen)->프레데리크 [포레스트] 에스킬센
 c7c5892a(Samuel [Whitey] White)->사무엘 [화이티] 화이트
 c6587a65(Stefan [Brille] Oroe)->스테판 [브릴] 오로에
 ab5f7cd6(Sinisha [Sinki] Brakus)->시니샤 [신키] 브라쿠스
@@ -4804,11 +4804,11 @@ d39a2d3a(Ben [Bush] Nitsiza)->벤 [부시] 니치자
 c14ce95c(Renan [Renan] Fisch)->레난 [레난] 피쉬
 fb6778f8(Dante [Bigs] Paboo)->단테 [빅스] 파부
 e8bb349e(Gong [Gong] Steve)->공 [공] 스티브
-f342d081(Frederic [Frederic] Wilhelmi)->프레데릭 [프레데릭] 빌헬미
+f342d081(Frederic [Frederic] Wilhelmi)->프레더릭 [프레더릭] 빌헬미
 ed4fd4cc(Rodolfo [Rudy] Calderon)->로돌포 [루디] 칼데론
 8675add2(Dustin [Chris] Fields)->더스틴 [크리스] 필즈
 c2014d72(Nathanial [Nathan] McCoy)->네서니얼 [네이선] 맥코이
-86a937fc(Rad [Rad] Sikkman)->래드 [래드] 시크만
+86a937fc(Rad [Rad] Sikkman)->래드 [래드] 시크먼
 a2720c67(Ryan [Chong] Chang)->라이언 [총] 장
 25bfadae(Frank [Frankie] Brown)->프랭크 [프랭키] 브라운
 17dc8adf(Randy [Kilroy] Cooper)->랜디 [킬로이] 쿠퍼
@@ -4906,7 +4906,7 @@ e33a734b(Leith [Sleith] Nader)->리스 [슬리스] 네이더
 1943897b(Troy [Troy] Purvis)->트로이 [트로이] 퍼비스
 b99a0b5e(Stephen [Steve] Hales)->스티븐 [스티브] 헤일스
 391ecf24(Clint [Collins] Collins)->클린트 [클린트] 콜린스
-729da4b6(Arbis [McScruff] McTaren)->아르비스 [맥스크러프] 맥타렌
+729da4b6(Arbis [McScruff] McTaren)->아르비스 [맥스크러프] 맥태런
 e631ef19(Teroni [Terra] Terra)->테로니 [테라] 테라
 a0e7a3d7(Sam [Sam] Rye)->샘 [샘] 라이
 00e2583a(Travis [Travis] Rodriguez)->트래비스 [트래비스] 로드리게스
@@ -4959,7 +4959,7 @@ ea4d4eca(Jedrzej [Hozene] Kusnierz)->예제이 [호젠] 쿠스니에시
 e42d80d9(Jimmy [Doge] Hsu)->지미 [도지] 쉬
 5a3320c8(Leopold [Leo] Xavier)->레오폴드 [레오] 제이비어
 63a23c81(Matthew [Matt] Turse)->매튜 [매트] 터스
-afbbaa91(Justin [Red] Thieman)->저스틴 [레드] 티만
+afbbaa91(Justin [Red] Thieman)->저스틴 [레드] 티먼
 0cbca3ce(Andras [Andras] Jambori)->안드라스 [안드라스] 잠보리
 1c923d28(Curtis [Moon] Moon)->커티스 [문] 문
 957c3033(Luke [Shep] Canii)->루크 [솁] 카니이
@@ -5064,7 +5064,7 @@ c9b77e4a(Jodie [Joe] Mason)->조디 [조] 메이슨
 310b08de(Ross [Rosco] McGregor)->로스 [로스코] 맥그리거
 8420f4cb(Matt [Stranger] Zielesch)->매트 [스트레인저] 질레쉬
 be7251f3(Michael [Resting] Falahee)->마이클 [레스팅] 팔라히
-edc02a01(Keough [North] Northman)->키오 [노스] 노스만
+edc02a01(Keough [North] Northman)->키오 [노스] 노스먼
 f19b7a88(Haojin [Haojin] Du)->하오진 [하오진] 두
 a91ecd18(Anssi [Söderena] Söderena)->안시 [쇠데레나] 쇠데레나
 8e48ad86(Brett [Brett] Flory)->브렛 [브렛] 플로리
@@ -5143,7 +5143,7 @@ a4153b06(Erenus [Erenus] Ozer)->에레누스 [에레누스] 오제르
 eba63ea2(Ivan [Ivan] Korobenkov)->이반 [이반] 코로벤코프
 9d81ff7c(Joolz [Didi] Dietrich)->줄즈 [디디] 디트리히
 ba69fd9f(Nick [Render] Render)->닉 [렌더] 렌더
-796b54a5(Christophe [Chris] Leman)->크리스토프 [크리스] 레만
+796b54a5(Christophe [Chris] Leman)->크리스토프 [크리스] 르망
 6e023b38(James [Lord] Mulkerin)->제임스 [로드] 멀커린
 520b50d4(Brian [Funk] Duggan)->브라이언 [펑크] 더건
 de055419(Brandon [Docarmo] Docarmo)->브랜던 [도카르모] 도카르모
@@ -5191,7 +5191,7 @@ b6341638(Jacob [Fridholm] Fridholm)->제이콥 [프리드홀름] 프리드홀름
 85a81e43(Tristan [Horvath] Horvath)->트리스탄 [호르바스] 호르바스
 8a7331fd(Theodore [Theo] Yochum)->시어도어 [시오] 요첨
 f0b1ba4e(Hendrik [Handy] Kusch)->헨드릭 [핸디] 쿠쉬
-a8ff6f5e(Joris [Leemans] Leemans)->요리스 [리만스] 리만스
+a8ff6f5e(Joris [Leemans] Leemans)->요리스 [레이만스] 레이만스
 7265b01b(Mike [Barger] Barger)->마이크 [바저] 바저
 d0a25c0b(Rishi [Rish] Sachdeo)->리시 [리쉬] 사크데오
 54aacf89(Leeland [Leeland] Mason)->리랜드 [리랜드] 메이슨
@@ -5250,7 +5250,7 @@ d1812950(Arthur [Menulis] Mairs)->아서 [메뉴리스] 메어스
 6b1c8ddb(Matthew [Bucky] Brownlee)->매튜 [버키] 브라운리
 9ab5b962(Jon [Admiral] Carroll)->존 [제독] 캐럴
 95314447(Michael [Gus] Gussert)->마이클 [거스] 구서트
-28036131(Martin [Trouman] Trouman)->마틴 [트라우만] 트라우만
+28036131(Martin [Trouman] Trouman)->마틴 [트루먼] 트루먼
 6bd68961(Brad [Meteor] Drummond)->브래드 [메테오] 드러먼드
 67923045(Morgan [Satt] Satterfield)->모건 [새트] 새터필드
 c7300acf(Dex [Bracken] Bracken)->덱스 [덱스] 블랙켄
@@ -5263,7 +5263,7 @@ cf7ec2e9(Ben [Ben] Irons)->벤 [벤] 아이언스
 24342e70(Kale [Chesworth] Chesworth)->케일 [체스워스] 체스워스
 51056f1f(Killian [Darkwater] Darkwater)->킬리안 [다크워터] 다크워터
 dc5c983f(Benjamin [Bennyboy] Holmes)->벤저민 [베니보이] 홈즈
-1f761b56(Phil [Daddy] Wakeman)->필 [대디] 웨이크만
+1f761b56(Phil [Daddy] Wakeman)->필 [대디] 웨이크먼
 db11f3e8(Rune [Rune] Soltveit)->룬 [룬] 솔트바이트
 ff964fd7(Gihyun [Bisang] Kim)->기현 [비상] 김
 a990ab19(Cameron [Cam] Lee)->캐머런 [캠] 리
@@ -5292,7 +5292,7 @@ c879cb03(Mikhail [Mishka] Serpukhin)->미하일 [미쉬카] 세르푸킨
 1f674360(Marcel [Marcel] Bich)->마르셀 [마르셀] 비크
 afd61c2e(Michael [Michael] Ralston)->마이클 [마이클] 랠스턴
 85ffb7df(Kristian [Skrien] Skrien)->크리스티안 [스크리엔] 스크리엔
-f854d96a(Aidan [Stone] Stone)->에이든 [스톤] 스톤
+f854d96a(Aidan [Stone] Stone)->에이단 [스톤] 스톤
 29c27ce6(Martin [Kunze] Kunze)->마르틴 [쿤체] 쿤체
 74fb4ff8(Martin [Lau] Lau)->마틴 [라우] 라우
 d73cd915(Gabriel [Carver] Carver)->가브리엘 [카버] 카버
@@ -5346,7 +5346,7 @@ cf4947f9(Luca [Recky] Reckmann)->루카 [렉키] 렉크만
 2c70e197(Matt [Beaver] Davidson)->매트 [비버] 데이비슨
 3c615fe4(Matthias [Mattsche] Brueck)->마티아스 [마체] 브뤼크
 bb349dfc(Patrick [Schulzi] Schulz)->파트리크 [슐치] 슐츠
-78224dcc(Senne [Essie] Cauberghs)->센느 [에시] 카우베르흐스
+78224dcc(Senne [Essie] Cauberghs)->세너 [에시] 카우베르흐스
 ef72e49c(Micha [Cookie] Granit)->미카 [쿠키] 그라니트
 b6fbd716(Matthew [Beef] Beifuss)->매튜 [소고기] 베이푸스
 066ac255(Ludo [Arends] Arends)->루도 [아렌즈] 아렌즈
@@ -5485,7 +5485,7 @@ f7e1e89d(Michael [Mike] Buckelew)->마이클 [마이크] 버클루
 af714897(Mark [Spoerl] Spoerl)->마크 [슈푀를] 슈푀를
 cf2e28d8(Avni [Jin] Altinsoy)->아브니 [진] 알틴소이
 5a317624(Jeffery [Wilkenson] Wilkenson)->제프리 [윌켄슨] 윌켄슨
-ffa6cebc(Daniel [Maggi] Mangert)->다니엘 [매기] 만게르트
+ffa6cebc(Daniel [Maggi] Mangert)->다니엘 [매기] 망게르트
 06709e97(Ken [Corbiene] Corbie)->켄 [코르비엔] 코르비
 b92bd239(Kevin [Duffy] Duffy)->케빈 [더피] 더피
 f56f2aaf(Yi Xuan [Yi Xuan] Lim)->이 쉬안 [이 쉬안] 림
@@ -5493,12 +5493,12 @@ f56f2aaf(Yi Xuan [Yi Xuan] Lim)->이 쉬안 [이 쉬안] 림
 dccaaea9(Ryan [O'Connor] O'Connor)->라이언 [오'코너] 오'코너
 16b0c0cf(Hano [Hano] Vögel)->하노 [하노] 포겔
 e11ac5e1(Alfred [Alfi] Ulvmose)->알프레드 [알피] 울브모세
-62a21604(Mani [Gegout] Gegout)->매니 [겍아웃] 겍아웃
+62a21604(Mani [Gegout] Gegout)->마니 [즈구] 즈구
 41dc629b(Peter [Halligan] Halligan)->피터 [할리건] 할리건
 499ce5bd(Perceval [Pock] Pock)->페르세발 [폭] 폭
 8d5a1d11(Jack [Bowy] Bowater)->잭 [보위] 보워터
 769bf5ea(Hunter [Robinson] Robinson)->헌터 [로빈슨] 로빈슨
-0d277df1(Heinrig [Dutch] Berger)->헤인리흐 [더치] 베르허
+0d277df1(Heinrig [Dutch] Berger)->하인리히 [더치] 베르거
 44256f28(Jock [Nauty] Auty)->조크 [너티] 오티
 5a7c390a(Callum [Tinnie] England)->칼럼 [티니] 잉글랜드
 bb359b75(Agustin [Salman] Salman)->아구스틴 [살만] 살만
@@ -5538,7 +5538,7 @@ a62e9980(John [John] Barnes)->존 [존] 반스
 7749c838(Paul [Paul] Hardiman)->폴 [폴] 하디먼
 4e47900f(Steven [Stingray] Stingray)->스티븐 [스팅레이] 스팅레이
 5f89e23c(Pierre [Teddy] Bodeland)->피에르 [테디] 보데란드
-8752295c(Samson [Sternberg] Sternberg)->샘슨 [슈테른베르크] 슈테른베르크
+8752295c(Samson [Sternberg] Sternberg)->샘슨 [스턴버그] 스턴버그
 f40b160b(Brandon [Anselmo] Anselmo)->브랜던 [안셀모] 안셀모
 2561f663(Jay [Papa] Yarde)->제이 [파파] 야드
 a7c2fcb1(Steve [English] English)->스티브 [잉글리시] 잉글리시
@@ -5560,7 +5560,7 @@ a5d4ea46(Jesus [Jebo] Soler)->헤수스 [제보] 솔레르
 7ceead9b(Kai [Keron] Heron)->카이 [케론] 헤론
 9900af15(Sam [Ducko] Landry)->샘 [덕코] 랜드리
 73fe427e(Steven [Steve] Platzeck)->스티븐 [스티브] 플라체크
-e606e7f1(Bryant [Bergstrom] Bergstrom)->브라이언트 [베리스트롬] 베리스트롬
+e606e7f1(Bryant [Bergstrom] Bergstrom)->브라이언트 [벅스트롬] 벅스트롬
 f8ddf7cb(Thomas [Thomas] Norris)->토마스 [토마스] 노리스
 dabbd533(Michael [Mikey] Schindel)->마이클 [마이키] 쉰델
 619c8934(Conner [Turner] Turner)->코너 [터너] 터너
@@ -5624,7 +5624,7 @@ fd1f95bc(Rob [Klappspartan] Klappspartan)->롭 [클랩스파르탄] 클랩스파
 5af2c608(Trevor [Trev] Burkholder)->트레버 [트레브] 버크홀더
 61167539(Alexey [Tzar] Russov)->알렉세이 [차르] 루소프
 d2f4d579(Sigurd [Sye] Johansson)->시구르드 [사이] 요한슨
-e0e5ead3(Aidan [Aidan] Collins)->에이든 [에이든] 콜린스
+e0e5ead3(Aidan [Aidan] Collins)->에이단 [에이단] 콜린스
 e7e92864(Ugo [Galluzzi] Galluzzi)->우고 [갈루치] 갈루치
 dd385d9d(Ramza [Ramza] Belus)->람자 [람자] 벨루스
 f2952a9b(Marshall [Fig] Vail)->마셜 [무화과] 베일
@@ -5676,7 +5676,7 @@ e557ffde(Garrett [Garrett] Tincher)->개럿 [개럿] 틴처
 67288c71(Wieland [Wieland] Bos)->빌란트 [빌란트] 보스
 7c147fc1(Cody [Cody] Brock)->코디 [코디] 브록
 c2d8c035(Isaac [Isaac] Pentz)->아이작 [아이작] 펜츠
-820fe3e7(Brock [Brock] Goldman)->브록 [브록] 골드만
+820fe3e7(Brock [Brock] Goldman)->브록 [브록] 골드먼
 8c72c754(Fisher [Fish] Chappell)->피셔 [피쉬] 채플
 6c2b5d8f(Timothy [Timmy] van Hoffen)->티모시 [티미] 반 호펜
 c5682975(Liam [Liam] O'Hanlon)->리암 [리암] 오'핸론
@@ -5688,7 +5688,7 @@ d4b000fa(Dave [Dave] Faraday)->데이브 [데이브] 패러데이
 14b1d12d(Kamil [Chyc] Chyc)->카밀 [히츠] 히츠
 89b2ad56(Ross [Rossy] Reid)->로스 [로시] 리드
 88466fed(Noah [Nater] Booth)->노아 [네이터] 부스
-47d00fb8(Patrick [Dearman] Dearman)->패트릭 [디어맨] 디어맨
+47d00fb8(Patrick [Dearman] Dearman)->패트릭 [디어먼] 디어먼
 b0c7a1df(Nathan [Nathan] Morgan)->네이선 [네이선] 모건
 a3acf50e(Jarin [Jarin] Lombardi)->자린 [자린] 롬바르디
 6deaca2c(Jeff [Williamson] Williamson)->제프 [윌리엄슨] 윌리엄슨
@@ -5720,7 +5720,7 @@ ee18d175(Richard [James] Mackenzie)->리처드 [제임스] 맥켄지
 b31b3da8(Danny [Dan] Schlepers)->대니 [댄] 슐레퍼스
 9506abc9(Marc [Ford] Ford)->마크 [포드] 포드
 8aa413cc(Teagan [German] Yates)->티건 [게르만] 예이츠
-41a26d63(August [August] Bergh)->아우구스트 [아우구스트] 베르그
+41a26d63(August [August] Bergh)->아우구스트 [아우구스트] 베리
 95191fd3(Keith [Keith] Smith)->키스 [키스] 스미스
 5c585ef6(Kyle [Kye] Grimm)->카일 [카이] 그림
 b9c7ca3a(James [Jarms] Maron)->제임스 [제름스] 마론
@@ -5737,7 +5737,7 @@ fc1781b1(Joakim [Joche] Dreier)->요아킴 [요헤] 드라이어
 9cb7e1e9(Marvin [Marvtill] Tillner)->마빈 [마브틸] 틸너
 4d85d3b1(Rob [Banks] Banks)->롭 [뱅크스] 뱅크스
 a8ec9358(Jacob [Jacob] Waltz)->제이콥 [제이콥] 왈츠
-14b848ab(Marc [Carve] Woodman)->마크 [카브] 우드맨
+14b848ab(Marc [Carve] Woodman)->마크 [카브] 우드먼
 3a4d8e17(Michael [Much] Hueber)->마이클 [머치] 후버
 c18e4e7c(Ross [Square] Hawey)->로스 [스퀘어] 하위
 82ddb8e5(Carl [Coral] Giacomo)->칼 [코랄] 자코모
@@ -5773,17 +5773,17 @@ f89b7a7b(Xavier [Hoss] Baron)->제이비어 [호스] 바론
 161a6c48(Antonio [Antonio] Sebastian)->안토니오 [안토니오] 세바스티안
 72c9dd2b(Jerrol [Jerrol] Kay)->제롤 [제롤] 케이
 98f0bee8(Gerhart [Hunky] Holttzmahn)->게르하르트 [헝키] 홀츠만
-7f98b770(Roman [DeNu] DeNu)->로만 [데누] 데누
+7f98b770(Roman [DeNu] DeNu)->로만 [드뉴] 드뉴
 10a88349(William [Wanderer] Smith)->윌리엄 [방랑자] 스미스
 758d172e(Naoto [Nao] Tsukihana)->나오토 [나오] 츠키하나
 9d75a076(Sean [Sean] Paradise)->숀 [숀] 파라다이스
 6b8975a1(Hank [Hank] Korbowski)->행크 [행크] 코르보프스키
 a9a004e4(Charlie [Charlie] Red)->찰리 [찰리] 레드
 eed86b8f(Ash [Soon] Soon)->애쉬 [순] 순
-26092750(Sam [VnWaeyenberg] VnWaeyenberg)->샘 [반 바옌베르흐] 반 바옌베르흐
+26092750(Sam [VnWaeyenberg] VnWaeyenberg)->샘 [반바이엔베르흐] 반바이엔베르흐
 2673dc65(Arend [Ladida] De Kok)->아렌트 [라디다] 더 콕
 4ccd16b0(Brandon [Aus] Hart)->브랜던 [오스] 하트
-81403b0a(Owen [Zowie] Graupman)->오웬 [조위] 그라우프만
+81403b0a(Owen [Zowie] Graupman)->오웬 [조위] 그라우프먼
 c078d1ef(Jan-Hendrik [Jan-Hendrik] Kruegler)->얀-헨드리크 [얀-헨드리크] 크뤼글러
 0c818c69(Felix [Flowers] Davis)->펠릭스 [플라워스] 데이비스
 a9d9bc0c(Alexander [Offi] Offinger)->알렉산더 [오피] 오핑거
@@ -5851,7 +5851,7 @@ f7f2b9b7(Jakob [Kaysey] Bye)->제이콥 [케이시] 바이
 02e06e6a(Ezekiel [Zeke] Trinidad)->에제키엘 [지크] 트리니다드
 8abd824e(Sebastian [Sebe] Kottig)->제바스티안 [제베] 코티그
 28a21e79(Max [Godders] Godfrey)->맥스 [고더스] 고드프리
-0d13f72a(Damien [Ver] Ver)->다미앵 [베르] 베르
+0d13f72a(Damien [Ver] Ver)->데이미언 [베르] 베르
 950d68f2(Conrad [Ical] Ical)->콘래드 [아이칼] 아이칼
 a13aa9e6(Forrest [Fomo] Moishna)->포레스트 [포모] 모이슈나
 617a62b5(Chang Hwi [Max] Lee)->창휘 [맥스] 이
@@ -5943,7 +5943,7 @@ d9c05209(Zeltaria [Audebert] Audebert)->젤타리아 [오드베르] 오드베르
 f50d4815(Conner [Sutherland] Sutherland)->코너 [서덜랜드] 서덜랜드
 ae9cb478(Jawad [Jawad] Sajjad)->자와드 [자와드] 사자드
 742b21b7(Vae [Vae] Hykova)->베이 [베이] 히코바
-ef717478(Ethan [Sollenberger] Sollenberger)->이선 [졸렌베르거] 졸렌베르거
+ef717478(Ethan [Sollenberger] Sollenberger)->이선 [솔렌버거] 솔렌버거
 94f94bc2(Alexander [Brumah] Massey)->알렉산더 [브루마] 매시
 d71c7f39(Sargeant [Siper] Siper)->사전트 [시퍼] 시퍼
 8bfcf565(Jack [Jack] Tillier)->잭 [잭] 틸리에
@@ -5967,7 +5967,7 @@ a888cb8b(David [Dave] Palmetzhofer)->데이비드 [데이브] 팔메츠호퍼
 46b45cf3(Michael [Ripper] Ripperda)->마이클 [리퍼] 리퍼다
 6dbd3be1(Rui [Fawang] Qiu)->루이 [파왕] 추
 7aad347f(Aleksandr [Aleksandr] Khitsunov)->알렉산드르 [알렉산드르] 키츠노프
-21893ced(Ethan [Ethan] Beckman)->이선 [이선] 베크만
+21893ced(Ethan [Ethan] Beckman)->이선 [이선] 베크먼
 45879bcd(Ioan [Ioan] Loosley)->요안 [요안] 루슬리
 9ff471c8(Richard [Minty] Johnson)->리처드 [민티] 존슨
 26ecafbc(Nato [Dutchy] Dutchman)->나토 [더치] 더치맨
@@ -6111,7 +6111,7 @@ d469c384(Nikolai [Box] Johansen)->니콜라이 [박스] 요한센
 831eafd3(John [John] Boogers)->존 [존] 부거스
 e6ded544(Michel [Mich] Prior)->미셸 [미치] 프라이어
 b7236a4a(Jaycob [Jake] Griffin)->제이콥 [제이크] 그리핀
-ae444e75(Michael [Karshman] Karshis)->마이클 [카르시만] 카르시스
+ae444e75(Michael [Karshman] Karshis)->마이클 [카시먼] 카시스
 6f076a27(Lucian [Earl] Earl)->루시안 [얼] 얼
 41846802(Emrik [Krieger] Kryg)->엠리크 [크리거] 크리그
 209a68a9(Jonathan [Wolford] Wolford)->조너선 [울포드] 울포드
@@ -6208,7 +6208,7 @@ a2c19dac(Sean [Sean] Andrade)->숀 [숀] 안드라데
 fe6dfd54(Cameron [Cam] McKay)->캐머런 [캠] 맥케이
 d9ac932b(Geronimo [Nemo] Vega)->제로니모 [니모] 베가
 e1882e99(Fred [Leaky] Munro)->프레드 [리키] 먼로
-1271cf56(Roland [Kitt] Hörhager)->롤랜드 [키트] 회르하거
+1271cf56(Roland [Kitt] Hörhager)->롤란트 [키트] 회르하거
 1351f9d5(Kelvin [Kel] Chien)->켈빈 [켈] 젠
 037e7681(Cody [Cody] Slater)->코디 [코디] 슬레이터
 91ec74aa(Gabriel [Elba] de Cervantes)->가브리엘 [엘바] 데 세르반테스
@@ -6225,7 +6225,7 @@ a11de0da(Matthew [Xavi] Xavi)->매튜 [차비] 차비
 71527c9d(Eduardo [Snarf] Rodriguez)->에두아르도 [스나프] 로드리게스
 d881a093(Marco [Beo] Pasqua)->마르코 [베오] 파스쿠아
 b3acba90(Jason [Grid] Gridgerson)->제이슨 [그리드] 그리저슨
-351678d9(Malte [Rammi] Ravensberg)->말테 [람미] 라벤스베르크
+351678d9(Malte [Rammi] Ravensberg)->말테 [라미] 라펜스베르크
 9d6261fd(Dion [Raouf] Raouf)->디온 [라우프] 라우프
 80f5941f(Mate [Gulacsi] Gulacsi)->메이트 [굴라치] 굴라치
 4a903aaa(James [Tuplin] Tuplin)->제임스 [투플린] 투플린
@@ -6236,7 +6236,7 @@ b3acba90(Jason [Grid] Gridgerson)->제이슨 [그리드] 그리저슨
 18c2502e(Tomas [Ori] Bisek)->토마스 [오리] 비세크
 6f80d315(Raymond [Ray] Ferguson)->레이먼드 [레이] 퍼거슨
 aaff6361(Adam [Sparrow] Deane)->아담 [스패로우] 딘
-247a1e04(Damien [Cadeo] Miller)->데미언 [카데오] 밀러
+247a1e04(Damien [Cadeo] Miller)->데이미언 [카데오] 밀러
 9c35d27d(Hicham [Hicham] Semenzin)->히샴 [히샴] 세멘진
 e27fbd26(Ameer [Ames] Baig)->아미어 [에임스] 베이그
 6d0ef1cf(David [Davy] Angulo)->다비드 [다비] 앙굴로
@@ -6267,7 +6267,7 @@ e87fe430(Louis [Callaway] Callaway)->루이스 [캘러웨이] 캘러웨이
 d455ca91(Paul [Sergeant] Hughes)->폴 [병장] 휴스
 450a845d(Karebu [Bookworm] Shimomura)->카레부 [책벌레] 시모무라
 01a1caf1(Jackson [Jack] Vanguard)->잭슨 [잭] 뱅가드
-f8fd7ade(Charles [Goobs] Lundberg)->찰스 [굽스] 룬드베리
+f8fd7ade(Charles [Goobs] Lundberg)->찰스 [굽스] 룬드버그
 18af4b98(Lucrecio [Omerovic] Omerovic)->루크레시오 [오메로비치] 오메로비치
 d4bbc4e3(Archibald [Nellie] Nellie)->아치볼드 [넬리] 넬리
 4adc6986(Robert [Red] Garner)->로버트 [레드] 가너
@@ -6311,7 +6311,7 @@ d2779ab6(William [Will] Valentine)->윌리엄 [윌] 밸런타인
 f1283989(Fabian [Fabi] Struckmann)->파비안 [파비] 슈트루크만
 838d3814(Jason [Bax] Baxter)->제이슨 [박스] 백스터
 6394921c(Nicholas [Nick] Lyons)->니콜라스 [닉] 라이언스
-7bc17f2f(Ben [Stressman] Weig)->벤 [스트레스맨] 바이그
+7bc17f2f(Ben [Stressman] Weig)->벤 [스트레스맨] 바이크
 ac383316(Isaiah [Isaiah] Ogbulu)->아이제이아 [아이제이아] 오그불루
 f51b91f1(Evan [Evan] Larson)->에반 [에반] 라슨
 41ea5a76(Chris [Crunk] Crickard)->크리스 [크렁크] 크리카드
@@ -6484,7 +6484,7 @@ ee868280(Ralph [Ralph] Bluetawn)->랄프 [랄프] 블루타운
 8af7acc7(Alex [Ehn] Ehn)->알렉스 [엔] 엔
 96115b4e(Florian [Flow] Wiekhorst)->플로리안 [플로우] 빅호르스트
 a6dbf1ca(Tim [Timmy] Leuverden)->팀 [티미] 루베르덴
-ff5de7f9(Sander [Koeman] Koeman)->산더 [쿠만] 쿠만
+ff5de7f9(Sander [Koeman] Koeman)->산더르 [쿠만] 쿠만
 518e25a8(Arslan [Baran] Baran)->아르슬란 [바란] 바란
 fe408163(Reuben [Reuben] Stone)->루벤 [루벤] 스톤
 aa32d9ac(Callan [Cal] Evans)->칼란 [칼] 에반스
@@ -6553,7 +6553,7 @@ c100ad58(Doug [Zimmerer] Zimmerer)->더그 [짐머러] 짐머러
 4e8ef4ab(Brandon [Brandon] Lee)->브랜던 [브랜던] 리
 5afdcfc2(Jimmie [Moldy] Nakahiro)->지미 [곰팡이] 나카히로
 c4942726(Daniel [Danya] Wir)->다니엘 [다냐] 위르
-fdde5d6e(Jeff [Metal] Schwarzman)->제프 [메탈] 슈바르츠만
+fdde5d6e(Jeff [Metal] Schwarzman)->제프 [메탈] 슈워츠먼
 fda46a8f(Albert [Albert] DaVeiga)->알버트 [알버트] 다베이가
 c5a1c411(Tayron [Tayron] Amaral)->타이론 [타이론] 아마랄
 ffed21c9(Travis [Travis] Martin)->트래비스 [트래비스] 마틴
@@ -6568,7 +6568,7 @@ b8554970(Malek [Zoub] Zoubir)->말렉 [주브] 주비르
 e72e57be(Joe [Tank] Friel)->조 [탱크] 프리엘
 87c86e68(Dylan [Pugh] Pugh)->딜런 [퓨] 퓨
 ab1c70f2(Jack [Lillie] Lillie)->잭 [릴리에] 릴리에
-d7517659(Steve [Greg] Handsoman)->스티브 [그렉] 핸소맨
+d7517659(Steve [Greg] Handsoman)->스티브 [그렉] 핸드소먼
 ae773c08(Taylor [Bitty] Bittenbender)->테일러 [비티] 비텐벤더
 fea6eb21(David [Davey] Tanner)->데이비드 [데이비] 태너
 113b6fd0(Sabata [Sab] Ryan)->사바타 [사브] 라이언
@@ -6858,7 +6858,7 @@ cebda934(Tom [Boughser] Bough)->톰 [바우저] 바우
 be8f8fe9(Matt [Matteo] Gaines)->매트 [마테오] 게인스
 61fd6513(Jimmy [Jimmy] McKlusky)->지미 [지미] 맥클러스키
 dff9b418(Kevin [Czarnecki] Czarnecki)->케빈 [차르네츠키] 차르네츠키
-41c1220b(Orion [Reign] Kamman)->오리온 [레인] 캄만
+41c1220b(Orion [Reign] Kamman)->오라이온 [레인] 캠먼
 41328ca0(Tim [Perry] Perry)->팀 [페리] 페리
 45739c5a(Tom [Coates] Coates)->톰 [코츠] 코츠
 51242863(Jacob [Bacon] Renfro)->제이콥 [베이컨] 렌프로
@@ -6920,7 +6920,7 @@ df80aa86(Victor [Hamacek] Hamacek)->빅터 [하마체크] 하마체크
 00c02332(Franz [Jager] Jager)->프란츠 [예거] 예거
 1695eced(Yiwei [Huang] Huang)->이웨이 [황] 황
 c9d17c2d(Adrian [Aquino] Aquino)->아드리안 [아퀴노] 아퀴노
-e288eb17(Oliver [Breaker] Ullman)->올리버 [브레이커] 울만
+e288eb17(Oliver [Breaker] Ullman)->올리버 [브레이커] 얼먼
 e0f1cb29(Josh [Hawk] Smith)->조쉬 [호크] 스미스
 dd87ecaa(Karl [Maszk] Maszk)->카를 [마슈크] 마슈크
 8bad1280(Grady [Maestro] Klein)->그래디 [마에스트로] 클라인
@@ -6963,7 +6963,7 @@ b7eae6e2(Jason [Jason] Shaver)->제이슨 [제이슨] 셰이버
 23c4d4ba(Donald [Donny] Blood Jr)->도널드 [도니] 블러드 주니어
 1c8e7d0c(Igor [Igor] Pavilion)->이고르 [이고르] 파빌리온
 a99542fa(Tanner [Tan] Troop)->태너 [탄] 트루프
-7e03e665(David [Bowman] Bowman)->데이비드 [보먼] 보먼
+7e03e665(David [Bowman] Bowman)->데이비드 [보우먼] 보우먼
 d0600841(Torbjorn [Thorbs] Elve)->토르비욘 [토르브스] 엘베
 46c676e5(Aaron [Panama] McKinley)->에런 [파나마] 맥킨리
 a58158cf(Zachary [Snatch] Ruesch)->재커리 [스내치] 뤼슈
@@ -7072,7 +7072,7 @@ d6288058(Benedikt [Bene] Eberhardt)->베네딕트 [베네] 에버하르트
 e5bf11a9(Alex [Candy] Slee)->알렉스 [캔디] 슬리
 60b89485(Justin [Leipsic] Leipsic)->저스틴 [저스틴] 레이프식
 e3143f76(Altay [Atican] Gök)->알타이 [아티잔] 괴크
-a55d31e1(Aidan [Aidan] Valenzuela)->에이든 [에이든] 발렌수엘라
+a55d31e1(Aidan [Aidan] Valenzuela)->에이단 [에이단] 발렌수엘라
 6aa05db0(Jonas [Kanone] Beckert)->조나스 [카노네] 베커트
 399df0a4(Milosz [Mio] Jankowski)->미워시 [미오] 얀코프스키
 245c97fc(Eirik [Amrud] Amrud)->에이리크 [암루드] 암루드
@@ -7151,7 +7151,7 @@ c3071323(Xavier [Javi] Hoskins)->하비에르 [하비] 호스킨스
 5a57db94(Ivan [Ivan] Torres)->이반 [이반] 토레스
 58001755(Jerico [Hawke] Hawke)->제리코 [호크] 호크
 dac3d752(Riley [Woody] Wood)->라일리 [우디] 우드
-06df5123(Jason [Cat] O'Connell)->제이슨 [고양이] 오'코넬
+06df5123(Jason [Cat] O'Connell)->제이슨 [고양이] 오'코널
 acf37b54(Jonathan [Jonny] Owen)->조너선 [조니] 오웬
 9a8cc3c4(Graeme [Grammy] Campbell)->그레임 [그래미] 캠벨
 064debad(Volodymyr [Faoost] Kostinskyi)->볼로디미르 [파우스트] 코스틴스키
@@ -7209,7 +7209,7 @@ dd529dd5(Robin [Bobby] Marz)->로빈 [바비] 마즈
 9fc39b7f(Zenith [Zen] Astell)->제니스 [젠] 아스텔
 19ba01eb(Josh [Firebird] Fineberg)->조쉬 [파이어버드] 파인버그
 20ed71f9(Travys [McJolly] Jolley)->트레이비스 [맥졸리] 졸리
-76ea0b07(Marc [Crafter] Logman)->마크 [크래프터] 로그맨
+76ea0b07(Marc [Crafter] Logman)->마크 [크래프터] 로그먼
 c572e993(Johannes [Johnny] Kropp)->요하네스 [조니] 크롭
 060d3454(Zaine [Scorpion] Modaine)->제인 [스콜피온] 모데인
 d7fbda64(Ben [Bednall] Bednall)->벤 [베드널] 베드널
@@ -7341,7 +7341,7 @@ c5888b82(Jack [Oliver] Fagan)->잭 [올리버] 페이건
 83aea8bd(Jeicholson [Xen] Jaikol)->제이콜슨 [젠] 자이콜
 7fea9c77(Jacob [Novak] Novak)->제이콥 [노박] 노박
 58d1f6cd(Zed [Zeta] Zhang)->제드 [제타] 장
-aec5501f(Dillon [Dillon] Wolfenberger)->딜런 [딜런] 울펜베르거
+aec5501f(Dillon [Dillon] Wolfenberger)->딜런 [딜런] 울펜버거
 cb610518(Nils [Nails] Davis)->닐스 [네일스] 데이비스
 c1934c01(Mike [Mar] Pressmar)->마이크 [마르] 프레스마르
 78a92222(David [Fidi] Ammann)->다비트 [피디] 아만
@@ -7367,7 +7367,7 @@ f78fc0ae(Shaun [Grey] Comer)->숀 [그레이] 코머
 bb6f1d41(Jory [Jor] Granados)->조리 [조르] 그라나도스
 747e661e(Mike [Kami] Stone)->마이크 [카미] 스톤
 6e27e5fd(Darius [Dare] Ilkhani)->다리우스 [데어] 일카니
-8839a9fc(Aidan [Wingman] Sharp)->에이든 [윙맨] 샤프
+8839a9fc(Aidan [Wingman] Sharp)->에이단 [윙맨] 샤프
 c94e3c39(Paul [Steinbach] Steinbach)->파울 [슈타인바흐] 슈타인바흐
 a0689bb6(Christopher [Chris] Coover)->크리스토퍼 [크리스] 쿠버
 596468dd(Xun [Xun] Chang)->쉰 [쉰] 장
@@ -7409,7 +7409,7 @@ c4e06430(Anthony [Tony] Cordeiro)->앤서니 [토니] 코르데이루
 8766b217(Francisco [Fran] Diaz)->프란시스코 [프란] 디아스
 383b86d3(Nikola [Nikola] Schneider)->니콜라 [니콜라] 슈나이더
 4f25f642(Joaquin [Kino] de Castro)->호아킨 [키노] 데 카스트로
-bb9bdcad(Manöösel [Manöösel] Nurmekuusik)->마뇌셀 [마뇌셀] 누르메쿠식
+bb9bdcad(Manöösel [Manöösel] Nurmekuusik)->마뇌셀 [마뇌셀] 누르메쿠시크
 abbb2eae(Anthony [Cosco] Costanzo)->앤서니 [코스코] 코스탄초
 2a7cb25d(James [Jammie] Wilkinson)->제임스 [잼미] 윌킨슨
 7253f2a1(Tom [Pulse] Kam)->톰 [펄스] 캄
@@ -7711,7 +7711,7 @@ d041e91d(Michael [Farry] Goodenough)->마이클 [패리] 굿이너프
 9f31c3e6(Andree [Tegemo] Tegemo)->안드리 [테게모] 테게모
 8cc6f136(Anil [Anitmak] Anitmak)->아닐 [아니트마크] 아니트마크
 281675a8(Oliver [Big] Curtis)->올리버 [빅] 커티스
-e65ebee6(Damien [Dada] Thumerel)->다미앵 [다다] 튀메렐
+e65ebee6(Damien [Dada] Thumerel)->다미앵 [다다] 튀므렐
 441b3b5f(Hamzah [Hamzah] Khan)->함자 [함자] 칸
 47991ea5(Jon [Jhon] Barker)->존 [존] 바커
 7a2afb85(Dimas [Dimas] Junior)->디마스 [디마스] 주니어
@@ -7780,7 +7780,7 @@ c57ef331(Christopher [Pent] Pentarian)->크리스토퍼 [펜트] 펜타리안
 623f1541(Anthony [Alien] Morrison)->앤서니 [에일리언] 모리슨
 7c0962b3(Grant [King] King)->그랜트 [킹] 킹
 295af43e(Liam [Ross] Ross)->리암 [로스] 로스
-1275c817(Andrew [Gothman] Gothman)->앤드루 [고트만] 고트만
+1275c817(Andrew [Gothman] Gothman)->앤드루 [고드먼] 고드먼
 4f6c0bd7(Cameron [Cameron] McAllister)->캐머런 [캐머런] 맥알리스터
 2e3e1580(Umut [Camper] Furkan)->우무트 [캠퍼] 푸르칸
 f6bc67b9(Oliver [Smith] Smith)->올리버 [스미스] 스미스
@@ -7820,8 +7820,8 @@ cd9e90bf(Shee [Shee] Shore)->시 [시] 쇼어
 46d3ae09(Andrew [Agui] Aguinaldo)->앤드루 [아구이] 아기날도
 71f1e3d1(Will [Sunshine] Miller)->윌 [선샤인] 밀러
 7a221dc3(Edwardo [Edwardo] Burnworth)->에드와르도 [에드와르도] 번워스
-a6ebdc67(Dylan [Dylan] Bergeson)->딜런 [딜런] 베르게슨
-51d90463(Benjamin [Gild] Gildmeister)->벤야민 [길트] 길트마이스터
+a6ebdc67(Dylan [Dylan] Bergeson)->딜런 [딜런] 버지슨
+51d90463(Benjamin [Gild] Gildmeister)->벤저민 [길드] 길드마이스터
 a2eb05c5(Justin [Stin] Taylor)->저스틴 [스틴] 테일러
 04b9884c(Bryson [Ley] Ley)->브라이슨 [레이] 레이
 7bad4a0f(Ryan [Duarte] Duarte)->라이언 [두아르테] 두아르테
@@ -7965,7 +7965,7 @@ cc3f3213(Donatien [Donatien] Lombaert)->도나티엔 [도나티엔] 롬바르트
 7bca0eec(Richard [Richard] Tickler)->리처드 [리처드] 티클러
 f0eb731c(Leandro [Lea] Ponce)->레안드로 [레아] 폰세
 07286f81(Mathias [Dresch] Drescher)->마티아스 [드레쉬] 드레셔
-9535da11(Aidan [Aidan] Sumpter)->에이든 [에이든] 섬프터
+9535da11(Aidan [Aidan] Sumpter)->에이단 [에이단] 섬프터
 b1420aa1(Ole [Ole] Schneider)->올레 [올레] 슈나이더
 844dc17d(Viktor [Viktor] Einstrom)->빅토르 [빅토르] 아인스트롬
 5a098a2b(Ken [Tack] Tackitt)->켄 [택] 태킷
@@ -8029,7 +8029,7 @@ e3220362(Bennet [Baabat] Miller)->베넷 [바뱃] 밀러
 385f4c5e(Ricky [Richard] Thomas)->리키 [리처드] 토마스
 8766ff4b(Joshua [Smooch] Falk)->조슈아 [스무치] 팔크
 de84738d(Ron [Ron] Vib)->론 [론] 빕
-55141175(Jeremiah [Sparky] Baughman)->제레미아 [스파키] 바우만
+55141175(Jeremiah [Sparky] Baughman)->제러마이아 [스파키] 보먼
 45d99f8a(Kevin [Shibi] Olli)->케빈 [시비] 올리
 e63ba579(Oliver [Pebble] Buckle)->올리버 [조약돌] 버클
 2595feeb(Dan [Doof] Siebert)->댄 [두프] 시버트
@@ -8094,7 +8094,7 @@ d227f62f(Callum [Gollum] Forrest)->칼럼 [골룸] 포레스트
 15322541(Robert [Robby] Hazen)->로버트 [로비] 헤이즌
 9e456499(Timon [Preuss] Preuss)->티몬 [프로이스] 프로이스
 75c0697e(Rafael [Rafael] Damaso)->라파엘 [라파엘] 다마소
-c12ad913(Lukas [Birne] Birnenmann)->루카스 [비른] 비르넨만
+c12ad913(Lukas [Birne] Birnenmann)->루카스 [비르네] 비르넨만
 3aa7adda(Christoph [Chris] Sander)->크리스토프 [크리스] 산더
 94ff3c6a(Nikolaj [Wendt] Wendt)->니콜라이 [벤트] 벤트
 ea37c5ef(Shane [Shayzen] Zehnder)->셰인 [셰이젠] 젠더
@@ -8137,7 +8137,7 @@ f02fb7da(Dmitry [Borisov] Borisov)->드미트리 [보리소프] 보리소프
 d19b5897(Todd [Todd] Bala)->토드 [토드] 발라
 31d3c288(Philipp [Laufer] Laufer)->필리프 [라우퍼] 라우퍼
 76c744f9(Cesar [Frosty] Cordova)->세자르 [프로스티] 코르도바
-d19c5200(Zee [Beckman] Beckman)->지 [베크만] 베크만
+d19c5200(Zee [Beckman] Beckman)->지 [베크먼] 베크먼
 623b404d(Alex [Doc] Filios)->알렉스 [닥] 필리오스
 f3741aeb(Iko [Iko] Budwarek)->이코 [이코] 부드바레크
 3f23b820(Elliott [Eli] Spaender)->엘리엇 [엘리] 스펜더
@@ -8193,7 +8193,7 @@ bd5b4286(Tyler [McDonough] McDonough)->타일러 [맥도너] 맥도너
 0073c677(Micheal [Mikey] Farrell)->마이클 [마이키] 패럴
 81b8b395(Atakan [Ati] Kaynak)->아타칸 [아티] 카이나크
 21c32063(Vincent [Vinny] Lyons)->빈센트 [비니] 라이언스
-132fefdf(Tiger [Tiger] Bowman)->타이거 [타이거] 보먼
+132fefdf(Tiger [Tiger] Bowman)->타이거 [타이거] 보우먼
 ade2e620(Elias [Eli] Vahmo)->엘리아스 [엘리] 바흐모
 fa405748(Damion [Bees] Cross)->다미온 [비즈] 크로스
 11d0ab80(Arjan [Rao] Rao)->아르잔 [라오] 라오
@@ -8214,7 +8214,7 @@ c38f485c(Robert [Unknown] Needham)->로버트 [알 수 없음] 니덤
 3bfc39cd(Pablo [Pablo] Re)->파블로 [파블로] 레
 8eae7ce9(Zvonimir [Zwonny] Jurisic)->즈보니미르 [즈본니] 유리시치
 8b4a1c95(Kyle [Hooten] Houghton)->카일 [후튼] 호턴
-79a9c7c7(Tassilo [Tassilo] Manges)->타실로 [타실로] 만게스
+79a9c7c7(Tassilo [Tassilo] Manges)->타실로 [타실로] 망게스
 309a9d49(Anton [Anton] Zolotko)->안톤 [안톤] 졸로트코
 7659306a(Joseph [Joe] Erjavec)->조셉 [조] 에르야벡
 17a78054(Boris [Bobo] Cherney)->보리스 [보보] 체르니
@@ -8356,7 +8356,7 @@ ece870db(Joshua [Cancer] Lister)->조슈아 [캔서] 리스터
 f2ef4cd7(Cagri [Cagri] Ulas)->차그리 [차그리] 울라스
 1f88f6b5(Cody [Cody] Riddles)->코디 [코디] 리들스
 cc4c6c7a(Igor [Gromek] Kuzminski)->이고르 [그로멕] 쿠즈민스키
-09a2a01a(Tim [Arctic] Baleman)->팀 [북극] 베일맨
+09a2a01a(Tim [Arctic] Baleman)->팀 [북극] 베일먼
 566b6ffe(Kilian [Kili] Scholz)->킬리안 [킬리] 숄츠
 78f5ade9(Leon [Darling] Omnitz)->레온 [달링] 옴니츠
 1cc354a5(Louis [Lou] McFenn)->루이스 [루] 맥펜
@@ -8476,7 +8476,7 @@ a462edc4(Leonidas [Leon] Badguy)->레오니다스 [레온] 배드가이
 19dba578(Franco [Franqui] Diaz)->프랑코 [프랑키] 디아스
 9ddb6775(Eric [Eric] Lam)->에릭 [에릭] 람
 6f801d7d(Lee [Lee] Nazca)->리 [리] 나스카
-cd312784(Frank [Warman] Warman)->프랭크 [워맨] 워맨
+cd312784(Frank [Warman] Warman)->프랭크 [워먼] 워먼
 f1c5f227(Bo [Hitland] Hitland)->보 [히트랜드] 히트랜드
 17e9acee(Majek [Majek] Jenkins)->마젝 [마젝] 젠킨스
 b7755e0b(Benjamin [Benji] Wilson)->벤저민 [벤지] 윌슨
@@ -8490,7 +8490,7 @@ c10cc647(Rasmus [Razu] Aron)->라스무스 [라주] 아론
 fe889c2f(Burak [Barax] Bayrakdar)->부락 [바락스] 바이락다르
 9b72433c(Valentine [Val] Nesterov)->밸런타인 [밸] 네스테로프
 957950da(Jordy [Blue] Spark)->조르디 [블루] 스파크
-b7996156(Zachary [Inco] Warman)->재커리 [인코] 워맨
+b7996156(Zachary [Inco] Warman)->재커리 [인코] 워먼
 65570f93(Justin [Juice] St-Amant)->저스틴 [주스] 생-아망
 cc66a6af(Tom [Blackjack] Mot)->톰 [블랙잭] 모트
 7bac32b0(Dave [Hamilton] Hamilton)->데이브 [해밀턴] 해밀턴
@@ -8646,7 +8646,7 @@ e05d06f0(Marcel [Schota] Schota)->마르셀 [쇼타] 쇼타
 69a29152(Adrien [Crosse] Crosse)->아드리앙 [크로스] 크로스
 ad9debec(Gad [Sutliff] Sutliff)->가드 [서틀리프] 서틀리프
 da9272d8(José [Jovial] Almada)->호세 [조비알] 알마다
-6ec53347(William [William] Kerman)->윌리엄 [윌리엄] 케르만
+6ec53347(William [William] Kerman)->윌리엄 [윌리엄] 커먼
 32c5a206(Ignacio [Ribeu] Salvatore)->이그나시오 [리베우] 살바토레
 c9e981ea(Chao [Cristoph] Yang)->차오 [크리스토프] 양
 4dae19f6(Janez [Janez] Nimac)->야네즈 [야네즈] 니마츠
@@ -8702,7 +8702,7 @@ ab9223f0(Justin [Opie] Johnson)->저스틴 [오피] 존슨
 d616e188(Justin [Jub] David)->저스틴 [주브] 데이비드
 de7826c8(Kaileb [Chop] Chapman)->카일럽 [찹] 채프먼
 f355aab6(Matthieu [Matt] Rubin)->마티유 [매트] 루빈
-6b8e9eba(Simon [Simon] Uhrmann)->지몬 [지몬] 우어만
+6b8e9eba(Simon [Simon] Uhrmann)->지몬 [지몬] 우르만
 04dd683d(Marcus [Marcus] Hall)->마커스 [마커스] 홀
 912a6413(Vincent [Vinc] Welling)->빈센트 [빈크] 웰링
 8685b51c(Lamor [Locke] Acanthus)->라모르 [로크] 아칸서스
@@ -8734,7 +8734,7 @@ f40d868b(Mark [Boog] Leach)->마크 [부그] 리치
 53df36f1(Arfur [Arfy] Shelby)->아르푸르 [아르피] 셸비
 dc732b26(William [Will] Afton)->윌리엄 [윌] 애프튼
 5c20be36(Maximilian [Max] Wittelsbach)->막시밀리안 [막스] 비텔스바흐
-1e6dd575(Sveinn [Manson] Karlsson)->스베인 [맨슨] 칼슨
+1e6dd575(Sveinn [Manson] Karlsson)->스베인 [맨슨] 칼손
 90f22ba6(Nagayama [Shimiz] Shimiz)->나가야마 [시미즈] 시미즈
 49a307c0(Adam [Monke] McKee)->아담 [몽케] 맥키
 0f9aefb2(Michael [Cube] Square)->마이클 [큐브] 스퀘어
@@ -8750,7 +8750,7 @@ f14156b6(Howard [Howard] Cui)->하워드 [하워드] 추이
 9075011f(Hao [Haoge] Kong)->하오 [하오거] 콩
 7664d3b7(Tariq [Marouf] Marouf)->타리크 [마루프] 마루프
 60beb882(Lance [Lord] Gander)->랜스 [로드] 갠더
-45fe04de(Aidan [Lenny] Callegari)->에이든 [레니] 칼레가리
+45fe04de(Aidan [Lenny] Callegari)->에이단 [레니] 칼레가리
 0bbcdcba(Povel [Povel] Le Febvre)->포벨 [포벨] 르 페브르
 13514d1f(James [Botts] Bottemiller)->제임스 [보츠] 보테밀러
 0d2ac565(Connor [Conifer] Harward)->코너 [코니퍼] 하르워드
@@ -8780,7 +8780,7 @@ e75bc386(Nathan [Nat] Capelo)->네이선 [내트] 카펠로
 343a320f(Bean [Bear] Bear)->빈 [베어] 베어
 685eca07(Edion [Ed] Islami)->에디온 [에드] 이슬라미
 25d79c49(Fathi [Rabbit] Mirza)->파티 [토끼] 미르자
-19ab7275(Peyton [Milkman] Winningham)->페이튼 [밀크맨] 위닝햄
+19ab7275(Peyton [Milkman] Winningham)->페이튼 [밀크맨] 위닝엄
 240f5294(Nick [Nick] Knight)->닉 [닉] 나이트
 7c07b32a(Mustafa [Mustafa] Yasar)->무스타파 [무스타파] 야사르
 5faee76d(Gabriel [Calamari] Allen)->가브리엘 [칼라마리] 앨런
@@ -8854,10 +8854,10 @@ a0310f28(James [Siden] Campbell)->제임스 [사이든] 캠벨
 bb88b044(Alvaro [Varo] Bonigno)->알바로 [바로] 보니뇨
 409e8006(Tyler [Roof] Stallworthy)->타일러 [루프] 스톨워시
 b2b52494(Sam [Sam] Owoc)->샘 [샘] 오보츠
-ad34e008(Conrad [Conrad] Limberg)->콘래드 [콘래드] 림베르크
+ad34e008(Conrad [Conrad] Limberg)->콘라트 [콘라트] 림베르크
 95369f3c(Fred [Joss] Joss)->프레드 [조스] 조스
 28f60429(Pilomirus [Pilo] Trycer)->필로미루스 [필로] 트라이서
-9eddeb3f(Marc [Gonman] Gonser)->마크 [곤맨] 곤세르
+9eddeb3f(Marc [Gonman] Gonser)->마르크 [곤맨] 곤저
 180e9f91(Brandon [Larva] Lee)->브랜던 [애벌레] 리
 8d47de81(Tristen [Tristen] Mornvale)->트리스텐 [트리스텐] 모른베일
 5067ef97(Santiago [Runner] Miguel)->산티아고 [러너] 미구엘
@@ -8883,7 +8883,7 @@ bf434e4a(Simon [Smile] Corden)->사이먼 [스마일] 코든
 ae6a5358(Hua'Teng [Penguin] Ma)->화'텅 [펭귄] 마
 f0c2c01c(Evan [Snail] Hicks)->에반 [달팽이] 힉스
 e2297576(Brendan [Virus] Riley)->브렌던 [바이러스] 라일리
-17c9c753(Ash [Lizman] Lizman)->애쉬 [리즈만] 리즈만
+17c9c753(Ash [Lizman] Lizman)->애쉬 [리즈먼] 리즈먼
 18f70fb7(Matthew [Speer] Speer)->매튜 [스피어] 스피어
 1d974a45(Thomas [Work] Work)->토마스 [워크] 워크
 ac4e3324(Rick [Scooter] Martyna)->릭 [스쿠터] 마르티나
@@ -9000,7 +9000,7 @@ f35417ff(Andrew [Walshy] Walsh)->앤드루 [월샤이] 월시
 4f1d0a76(Alexios [Moraitis] Moraitis)->알렉시오스 [모라이티스] 모라이티스
 0a3f36bf(Patrick [Pat] Hellmann)->파트리크 [파트] 헬만
 944c10c3(Luke [Xilver] Xilver)->루크 [실버] 실버
-edb8289a(Jarman [Richard] Zaeh)->야르만 [리처드] 자에
+edb8289a(Jarman [Richard] Zaeh)->자먼 [리처드] 체
 8cebd57a(Brandon [Carl] Evans)->브랜던 [칼] 에반스
 29943411(Kevin [Kevin] Strong)->케빈 [케빈] 스트롱
 64a34e8f(Cray [Crayon] Nelson)->크레이 [크레용] 넬슨
@@ -9047,7 +9047,7 @@ be0a7768(Derinik [Deri] Trisk)->데리닉 [데리] 트리스크
 78655e5a(Jack [Jack] Healey)->잭 [잭] 힐리
 43fbe463(Samuel [Sam] Schroder)->사무엘 [샘] 슈로더
 925680c7(Wally [Bing] Adamany)->월리 [빙] 아다마니
-540f1c24(Stephen [Sandwich] Godman)->스티븐 [샌드위치] 갓맨
+540f1c24(Stephen [Sandwich] Godman)->스티븐 [샌드위치] 가드먼
 ada16930(Eduardo [Edu] Rivera)->에두아르도 [에두] 리베라
 c7f41e80(Jason [Plu] Yu)->제이슨 [플루] 유
 067d2f8b(Pavel [Parfeniy] Parfeniy)->파벨 [파르페니] 파르페니
@@ -9234,7 +9234,7 @@ e913ebce(Benjamin [Ritty] Ritenour)->벤저민 [리티] 리트너
 6889af2b(Ekan [Ekan] Ericsson)->에칸 [에칸] 에릭손
 509972ad(Gregory [Greg] Latta)->그레고리 [그렉] 라타
 2368b689(Angxuan [Nick] Li)->앙쉬안 [닉] 리
-ac0688db(Jacob [Jacob] Moman)->제이콥 [제이콥] 모만
+ac0688db(Jacob [Jacob] Moman)->제이콥 [제이콥] 모먼
 eb99f40e(Ringe [Zero] Dever)->링게 [제로] 디버
 b5664cce(Sergei [Chamkin] Chamkin)->세르게이 [챔킨] 챔킨
 a31b9862(Thomas [van Tilburg] van Tilburg)->토마스 [반 틸부르흐] 반 틸부르흐
@@ -9248,13 +9248,13 @@ b89519e6(Derek [Mesh] Joe)->데릭 [메시] 조
 bf25c0dc(Christopher [Sparky] Sparks)->크리스토퍼 [스파키] 스팍스
 e38bed29(Ayaya [Ayaya] Shirong)->아야야 [아야야] 시룽
 d95bea63(David [Captain] Kincaid)->데이비드 [캡틴] 킨케이드
-d44955af(Christian [McConnell] McConnell)->크리스티안 [맥코넬] 맥코넬
+d44955af(Christian [McConnell] McConnell)->크리스티안 [맥코널] 맥코널
 303309b5(Ethan [Bull] Bach)->이선 [불] 바흐
 da022f28(Jacob [Jacob] Peri)->제이콥 [제이콥] 페리
 039af359(Samuel [Garn] Garner)->사무엘 [가른] 가너
 7788cb36(Kasem [Albadawi] Albadawi)->카셈 [알바다위] 알바다위
 0376d615(Forrest [Topia] Mcgilvrey)->포레스트 [토피아] 맥길브리
-fcfd3112(Roman [Carrot] Lisecki)->로만 [당근] 리세키
+fcfd3112(Roman [Carrot] Lisecki)->로만 [당근] 리세츠키
 29fee081(Rihards [Rihards] Upenieks)->리하르츠 [리하르츠] 우페니엑스
 ff338952(Paul [Bud] Tobias)->폴 [버드] 토비아스
 53689bcb(Heron [Bill] Boldrini)->헤론 [빌] 볼드리니
@@ -9333,7 +9333,7 @@ e7a66e0c(Anthony [Ant] Testa)->앤서니 [개미] 테스타
 391e1b2e(Jack [Paris] Paris)->잭 [패리스] 패리스
 7867f62f(Dylan [Brown] Brown)->딜런 [브라운] 브라운
 75eb1ed9(Adam [Levesque] Levesque)->아담 [르베스크] 르베스크
-fc768e11(Brock [Brock] Hileman)->브록 [브록] 하일만
+fc768e11(Brock [Brock] Hileman)->브록 [브록] 하일먼
 cb0a7251(Aulston [Moore Adams] Moore Adams)->얼스턴 [무어 아담스] 무어 아담스
 3be2ccab(Jackie [Jack] Eugene)->재키 [잭] 유진
 39f58d58(Richard [Viper] Rooplal)->리처드 [바이퍼] 루프랄
@@ -9350,7 +9350,7 @@ efce76d5(Aiden [Aid] Ulmer)->에이든 [에이드] 울머
 a476ac05(Andrew [Ves] Kruse)->앤드루 [베스] 크루스
 3ab40f9e(Alexander [Gunner] Norris)->알렉산더 [거너] 노리스
 c2980185(Justin [Just] Cruz)->저스틴 [저스트] 크루즈
-42d71fda(Charles [Char] Jurman)->찰스 [차르] 유르만
+42d71fda(Charles [Char] Jurman)->찰스 [차르] 저먼
 5384ef0f(Scott [Spider] Snyder)->스콧 [스파이더] 스나이더
 c65c2ef8(Kirill [Tom] Tomin)->키릴 [톰] 토민
 c0d80f8e(Michael [Mike] Koop)->마이클 [마이크] 쿠프
@@ -9456,8 +9456,8 @@ cb1ef165(Elio [Elio] Kast)->엘리오 [엘리오] 카스트
 67b32b45(Reed [Reed] Stoner)->리드 [리드] 스토너
 4157a581(Timo [Gebler] Gebler)->티모 [게블러] 게블러
 9bdf74f1(Joshua [Pudding] Warwick)->조슈아 [푸딩] 워윅
-7f4c1ab8(Xiong [Ice] Fredericks)->슝 [아이스] 프레데릭스
-336bda64(Bradley [O'Connell] O'Connell)->브래들리 [오'코넬] 오'코넬
+7f4c1ab8(Xiong [Ice] Fredericks)->슝 [아이스] 프레더릭스
+336bda64(Bradley [O'Connell] O'Connell)->브래들리 [오'코널] 오'코널
 980bff6b(David [David] Roberts)->데이비드 [데이비드] 로버츠
 32c12586(Alex [Wils] Geddes)->알렉스 [윌스] 게디스
 16cf7fef(Alvin [Jack] McCormack)->앨빈 [잭] 맥코맥
@@ -9489,7 +9489,7 @@ b8972493(Felizius [Felix] Hammerstein)->펠리지우스 [펠릭스] 해머스타
 5a5c28ce(Alec [Al] Hord)->알렉 [알] 호드
 7491207d(Nathaniel [Nate] Reynolds)->너새니얼 [네이트] 레이놀즈
 9b3093cf(Bartholomew [Bartholomew] Lafitte)->바솔로뮤 [바솔로뮤] 라피트
-e521fd86(Cassius [Cass] Wolfman)->카시우스 [캐스] 울프맨
+e521fd86(Cassius [Cass] Wolfman)->카시우스 [캐스] 울프먼
 6eff358b(Laurence [Tay] Taylor)->로렌스 [테이] 테일러
 1bf81388(Andrew [Andy] Roberts)->앤드루 [앤디] 로버츠
 de346213(Navin [Nav] Brohier)->나빈 [나브] 브로히에
@@ -9547,7 +9547,7 @@ a88d876a(Mark [Mark] Mill)->마크 [마크] 밀
 a1e811e1(Liam [Legend] Mulholland)->리암 [레전드] 멀홀랜드
 cb7c9de2(Garrett [Garrett] Novotny)->개럿 [개럿] 노보트니
 f50ee241(George [George] Crouch)->조지 [조지] 크라우치
-fb96c583(Thijs [van den Berg] van den Berg)->타이스 [반 덴 베르흐] 반 덴 베르흐
+fb96c583(Thijs [van den Berg] van den Berg)->테이스 [반 덴 베르흐] 반 덴 베르흐
 3e091632(Dave [Dave] Prince)->데이브 [데이브] 프린스
 5d0b9332(Iroh [Doc] Khan)->아이로 [닥] 칸
 03c6c560(Tianheng [Ape] Zhao)->톈헝 [유인원] 자오
@@ -9576,15 +9576,15 @@ ea8c8cba(Mihai [Gypsy] Damaschin)->미하이 [집시] 다마스킨
 2aa8f451(Anthony [Tony] La Rocca)->앤서니 [토니] 라 로카
 467969d1(Hendrik [Kayan] Eickmeyer)->헨드릭 [카얀] 아이크마이어
 b39a45d7(Tyler [Chenke] Chenke)->타일러 [첸케] 첸케
-eee915a0(Jayveesdale [Jayvees] Mante)->제이비스데일 [제이비스] 맨트
-c2813756(Jeremiah [Jeremy] Van Dam)->제레미아 [제레미] 반 담
+eee915a0(Jayveesdale [Jayvees] Mante)->제이비스데일 [제이비스] 만테
+c2813756(Jeremiah [Jeremy] Van Dam)->제러마이아 [제레미] 반 담
 ea028de7(Bailey [Bazza] Hupp)->베일리 [바자] 후프
 39c850ed(Milque [Milk] Candol)->밀케 [밀크] 캔돌
 a99bb8fe(Lezly [Lez] Mackerel)->레즐리 [레즈] 맥커럴
 8d66c034(Martin [Storm] Nikolajsen)->마르틴 [스톰] 니콜라이센
 92b281f5(Emil [Emiren] Yusupov)->에밀 [에미렌] 유수포프
 f740cfe7(Emir [Pasha] Ozdemir)->에미르 [파샤] 오즈데미르
-51325ac1(Aidan [Aidan] Bieker)->에이든 [에이든] 비커
+51325ac1(Aidan [Aidan] Bieker)->에이단 [에이단] 비커
 16280f65(Frexi [Stephan] Stephan)->프렉시 [스테판] 스테판
 3e8a4594(Minho [Choi] Choi)->민호 [최] 최
 048246a0(Oliver [Martini] Fritch)->올리버 [마티니] 프리치
@@ -9824,7 +9824,7 @@ d9813832(Jonathan [Stony] Strunk)->조너선 [스토니] 스트렁크
 773b3a84(Jens [Jens] Eickmeyer)->옌스 [옌스] 아이크마이어
 9dd1660a(Johnathan [Johnny] Harold)->조너선 [조니] 해럴드
 a1a87e8e(Connor [Coup] Coupe)->코너 [쿠프] 쿠페
-cd8f09f9(Aidan [Eyden] Crujiplant)->에이든 [에이든] 크루지플란트
+cd8f09f9(Aidan [Eyden] Crujiplant)->에이단 [에이단] 크루지플란트
 e51d44de(Weerakorn [Arm] Inthapibool)->위라콘 [암] 인타피불
 92beca78(Lars [Fish] Fish)->라스 [피쉬] 피쉬
 c19a12e1(Bogdan [Biggie] Buljani)->보그단 [비기] 불야니
@@ -9907,7 +9907,7 @@ be128229(Aldo [Aldo] Sappe)->알도 [알도] 사프
 b303ebe6(Saul [Thief] Genc)->사울 [도둑] 겐츠
 efad7b4c(Casey [Chill] Hill)->케이시 [칠] 힐
 cec17eb2(Aleksei [Mag] Kozhevnikov)->알렉세이 [매그] 코제브니코프
-4a503cc0(Ethan [Ethanol] Hoffman)->이선 [에탄올] 호프만
+4a503cc0(Ethan [Ethanol] Hoffman)->이선 [에탄올] 호프먼
 c929acb8(Szymon [Maiki] Jarosz)->시몬 [마이키] 야로시
 e669ab75(Thomas [Tommy] Deutelmoser)->토마스 [토미] 도이텔모저
 c219efc6(Wen [Eis] Cui)->웬 [에이스] 추이
@@ -9918,7 +9918,7 @@ d79eef33(Eugene [Euge] Shevchenko)->유진 [유지] 셰브첸코
 fd96ee4c(Chris [Chris] Boatwright)->크리스 [크리스] 보트라이트
 80c2d88b(Matthew [Appleyard] Appleyard)->매튜 [애플야드] 애플야드
 7cacc7cd(Hang [Boss] Xin)->항 [보스] 신
-a36f7215(Aidan [Gutierrez] Gutierrez)->에이든 [구티에레스] 구티에레스
+a36f7215(Aidan [Gutierrez] Gutierrez)->에이단 [구티에레스] 구티에레스
 ae9c9c39(Andreas [Ashy] Richter)->안드레아스 [애쉬] 리히터
 b1a3bd80(Burag [Chete] Chetinyurur)->부라그 [체테] 체틴유루르
 db4dbbc7(Andre [Peeps] Gonzalez)->안드레 [핍스] 곤잘레스
@@ -9991,7 +9991,7 @@ ac2b7b02(Saysana [Saysana] Chomthipe)->사이사나 [사이사나] 촘티페
 37659a7e(Ryan [Roberts] Roberts)->라이언 [로버츠] 로버츠
 72fb6380(Edd [Gilligan] Bleach)->에드 [길리건] 블리치
 a4aa00da(Bruno [Bruno] Limmer)->브루노 [브루노] 리머
-faad4a9b(Aidan [Vicknair] Vicknair)->에이든 [비크네어] 비크네어
+faad4a9b(Aidan [Vicknair] Vicknair)->에이단 [비크네어] 비크네어
 c9898de0(Elias [Valmy] Flynn)->엘리아스 [발미] 플린
 68b2995e(Rex [Rexler] Freddie)->렉스 [렉슬러] 프레디
 979c99b2(Joery [Joe] Zegers)->조에리 [조] 제거스
@@ -10046,7 +10046,7 @@ c033a246(Jiacheng [Zhao] Zhao)->자청 [자오] 자오
 50aad6c9(Adam [Hanky] Hankin)->아담 [핸키] 핸킨
 7f168094(Stefan [Stiffel] Stöckel)->슈테판 [슈티펠] 슈퇴켈
 d9b9d190(Alessandro [Jotty] Orlandi)->알레산드로 [조티] 올란디
-7ed06324(Connor [Starkman] Starkman)->코너 [스타크만] 스타크만
+7ed06324(Connor [Starkman] Starkman)->코너 [스타크먼] 스타크먼
 45836b3a(Martin [Mardre] Dressler)->마틴 [마드레] 드레슬러
 f511efa5(Igor [Gark] Krasavchik)->이고르 [가르크] 크라사프치크
 d30b13df(Don [Wessac] Wessac)->돈 [웨삭] 웨삭
@@ -10061,15 +10061,15 @@ c88587f6(Jose [Pepe] Casillas)->호세 [페페] 카시야스
 58187001(Wolfz [Wolfz] Lone)->울프즈 [울프즈] 론
 ad4ca717(Michael [Mikey] Trevino)->마이클 [마이키] 트레비노
 63e32ed0(Josh [Girish] Girish)->조쉬 [기리쉬] 기리쉬
-7d90b4d9(Tom [Chimie] Streetman)->톰 [시미] 스트리트맨
+7d90b4d9(Tom [Chimie] Streetman)->톰 [시미] 스트리트먼
 b9e51833(Daniel [Dan] Dempster)->다니엘 [댄] 뎀프스터
 2d511bc8(Eugeny [Jenechka] Popelensky)->유제니 [예네치카] 포펠렌스키
 4979cfed(Nollic [Guy] Peacock)->놀릭 [가이] 피콕
 fd099e5a(Eric [Eric] Burkey)->에릭 [에릭] 버키
 d944db48(Keagan [Keagan] Miller)->키건 [키건] 밀러
-95000a3c(Zac [Berghler] Bergh)->잭 [베르글러] 베르그
+95000a3c(Zac [Berghler] Bergh)->잭 [베르흘러] 베르흐
 e63e90a9(Chris [Hackett] Hackett)->크리스 [해켓] 해켓
-a8ad0f45(Nico [Nico] Barkman)->니코 [니코] 바크만
+a8ad0f45(Nico [Nico] Barkman)->니코 [니코] 바크먼
 67aca021(Michael [Twelve] Smith)->마이클 [트웰브] 스미스
 7661febd(Preston [Preston] Wong)->프레스턴 [프레스턴] 웡
 da5f61d1(Clive [Clive] Curtis)->클라이브 [클라이브] 커티스
@@ -10106,7 +10106,7 @@ c035875a(Dennis [Dennis] Arfan)->데니스 [데니스] 아르판
 056aca9e(Waylon [Pun] Worrell)->웨일런 [펀] 워렐
 9e3b94a7(Ethan [Eth] Neumann)->이선 [이드] 노이만
 135c45c9(Donald [Don] Walker)->도널드 [돈] 워커
-0647bf6c(Egil [Byberg] Byberg)->에길 [바이베르그] 바이베르그
+0647bf6c(Egil [Byberg] Byberg)->에길 [뷔베리] 뷔베리
 5ac983eb(Duane [Duane] Padilla)->듀안 [듀안] 파디야
 8e8703d2(Nathanael [Edwards] Edwards)->나타나엘 [에드워즈] 에드워즈
 8671f115(Samuel [Sam] Perez)->사무엘 [샘] 페레스
@@ -10153,7 +10153,7 @@ e2b25aec(Thomas [Tyran] Tyran)->토마스 [타이란] 타이란
 b6592fed(Kendrick [Kenny] Evans)->켄드릭 [케니] 에반스
 64eb4e8c(Kunyuan [Guo] Keevinzha)->쿤위안 [궈] 키빈자
 ca39d4c9(Romain [Momo] Meurisse)->로메인 [모모] 뮤리스
-eb072b99(Damien [Dam] Vaneberck)->데미언 [댐] 반에베르크
+eb072b99(Damien [Dam] Vaneberck)->다미앵 [댐] 반에베르크
 ad8bc045(Nicholas [Nick] Wood)->니콜라스 [닉] 우드
 7ed03055(Logan [Wyatt] Wyatt)->로건 [와이엇] 와이엇
 32cd6cc1(David [Minnie] Horsfield)->데이비드 [미니] 호스필드
@@ -10176,7 +10176,7 @@ ade8d69b(Daniel [Deinol] Gomez)->다니엘 [데이놀] 고메스
 27e8cfbf(Chaba [Chab] Saffron)->차바 [차브] 사프란
 e8668126(Joseph [Dragon] Stipe)->조셉 [드래곤] 스타이프
 2a4919ed(Brendon [Bastion] Santana)->브렌든 [바스티온] 산타나
-acaa47a4(Johan [Hotten] Bergqvist)->요한 [호텐] 베르크비스트
+acaa47a4(Johan [Hotten] Bergqvist)->요한 [호텐] 베리크비스트
 f2467d74(Mark [Calvert] Calvert)->마크 [칼버트] 칼버트
 f9b61195(Oleksandr [Sashko] Berezan)->올렉산드르 [사쉬코] 베레잔
 83bf387e(Pierre-M [Walther] Walther)->피에르-M [발터] 발터
@@ -10208,7 +10208,7 @@ e4f8ed21(Thomas [Tom] Walsh)->토마스 [톰] 월시
 eb12e649(Ben [Banjo] Kirkham)->벤 [반조] 커크햄
 7b71a87e(Lyndon [Lyndon] Stone)->린든 [스톤] 스톤
 8a998bf6(Martin [Martin] Chatelain)->마르탱 [마르탱] 샤틀랭
-ebeea9ea(Quinten [Coeckelbergh] Coeckelbergh)->퀸턴 [쾨켈베르흐] 쾨켈베르흐
+ebeea9ea(Quinten [Coeckelbergh] Coeckelbergh)->퀸턴 [쿠켈베르흐] 쿠켈베르흐
 f186ffd9(Tanner [Tanner] Leffler)->태너 [태너] 레플러
 115a0ead(Artur [Artur] Stantsel)->아르투르 [아르투르] 스탄첼
 53d5fd07(Senji [Fischer] Fischer)->센지 [피셔] 피셔
@@ -10237,7 +10237,7 @@ a8cb35ef(John [Ellis] Ellis)->존 [엘리스] 엘리스
 c901f132(Dale [Dale] Choate)->데일 [데일] 초우트
 393b636c(Curt [Dark] Pelta)->커트 [다크] 펠타
 271b1d2d(Ryan [Harwick] Harwick)->라이언 [하르윅] 하르윅
-eb294245(Lewis [Steady] Stedman)->루이스 [스테디] 스테드만
+eb294245(Lewis [Steady] Stedman)->루이스 [스테디] 스테드먼
 0e77b870(Quincy [Graham] Graham)->퀸시 [그레이엄] 그레이엄
 8105a39c(Matthias [Metty] Hub)->마티아스 [메티] 허브
 5303f0b9(Daniel [Jackson] Jackson)->다니엘 [잭슨] 잭슨
@@ -10431,7 +10431,7 @@ f8e4f7bd(Julien [Gorilla] White)->줄리앙 [고릴라] 화이트
 fcf19702(Kacper [Diver] Grabowski)->카츠페르 [다이버] 그라보프스키
 89665818(Aiden [Slick] McAlorum)->에이든 [슬릭] 맥알로럼
 54aedd4a(Francis [Barza] Barzagli)->프랜시스 [바르자] 바르잘리
-eefc2ce4(Wib [Wib] Berger)->위브 [위브] 버거
+eefc2ce4(Wib [Wib] Berger)->윕 [윕] 버거
 3319a96d(Gian-Franco [Franco] Bizzaro)->지안-프랑코 [프랑코] 비자로
 a06d0ae1(Ash [Wolf] Wolfe)->애쉬 [울프] 울프
 24974108(Forest [Sawatari] Sawatari)->포레스트 [사와타리] 사와타리
@@ -10470,7 +10470,7 @@ a3ec9f90(Benjamin [Benco] Conner)->벤저민 [벤코] 코너
 d88d8bb1(Jakob [Jay] Heubl)->제이콥 [제이] 호이블
 6eb7e428(Bas [Bas] van Dolder)->바스 [바스] 반 돌더르
 edd85400(Joris [Joris] Fritzsche)->요리스 [요리스] 프리체
-2f31fca8(Joseph [Joe] Carpman)->조셉 [조] 카프만
+2f31fca8(Joseph [Joe] Carpman)->조셉 [조] 카프먼
 a94aa544(Dylan [Dyl] Carter)->딜런 [딜] 카터
 d7c3cf06(Yi [Le] Le)->이 [이] 레
 a03058b6(Rodrigo [Rodrigo] Pinto)->로드리고 [로드리고] 핀토
@@ -10669,7 +10669,7 @@ adb1d09a(Ethan [Bright] Bright)->이선 [브라이트] 브라이트
 26bc4324(Alex [Uryi] Gorshkov)->알렉스 [우리이] 고르시코프
 cfe11743(Denneres [Denneres] Sauer)->데너레스 [데너레스] 자우어
 971eae93(Mamikon [Monch] Minasyan)->마미콘 [몽크] 미나시안
-69fea79c(Florian [Flo] Gonnermann)->플로리안 [플로] 곤너만
+69fea79c(Florian [Flo] Gonnermann)->플로리안 [플로] 고너만
 ebfa1432(Phillip [Plopi] Bienenstich)->필립 [플로피] 비넨슈티히
 25e9e414(Jon [Wolffe] Snow)->존 [울프] 스노우
 c4230a34(Donggeon [Geon] An)->동건 [건] 안
@@ -10703,8 +10703,8 @@ c91fea17(Chris [Waldo] Hall)->크리스 [왈도] 홀
 a94983e4(Robin [Rofro] Fronza)->로빈 [로프로] 프론자
 a847d676(Levani [Levan] Khutsishvili)->레바니 [레반] 쿠치슈빌리
 241a2d3d(Shaopeng [Hawssberg] Fang)->샤오펑 [하우스버그] 팡
-49127e38(Eugene [Eugene] Zuckerberg)->유진 [유진] 주커버그
-30da75fd(Colter [Aransas] Nunn)->콜터 [아란사스] 넌
+49127e38(Eugene [Eugene] Zuckerberg)->유진 [유진] 저커버그
+30da75fd(Colter [Aransas] Nunn)->콜터 [어랜서스] 넌
 4923a4e0(Ilay [Ilay] Tayar)->일레이 [일레이] 타야르
 c36c0d74(Ellis [Frost] Frost)->엘리스 [프로스트] 프로스트
 f62c7bff(Corbin [Corbster] McCreary)->코르빈 [코르브스터] 맥크리어리
@@ -10758,7 +10758,7 @@ be3354bf(Teunis [Neuner] Nor)->퇴니스 [노이너] 노르
 0206c3c9(Markus [Moon] Hampton)->마르쿠스 [문] 햄프턴
 223704fc(Kylan [Kylan] Plunk)->카일란 [카일란] 플렁크
 32ae8281(Zeyu [Zeyu] Wang)->쩌위 [쩌위] 왕
-2662a1b8(Kaharman [Lambda] Zhanataev)->카하르만 [람다] 자나타에프
+2662a1b8(Kaharman [Lambda] Zhanataev)->카하르만 [람다] 자나타예프
 ab454b91(Zekai [Zekai] Ozalp)->제카이 [제카이] 오잘프
 4bd0d90c(Christopher [Chris] Sweezey)->크리스토퍼 [크리스] 스위지
 17265c2b(Christopher [Chris] Craft)->크리스토퍼 [크리스] 크래프트
@@ -10767,11 +10767,11 @@ ab454b91(Zekai [Zekai] Ozalp)->제카이 [제카이] 오잘프
 9e698c6c(Cambell [Scribbles] Smith)->캠벨 [스크리블스] 스미스
 a81f51a8(Zachary [Parrish] Parrish)->재커리 [패리시] 패리시
 e2baa933(Thomas [Pointman] Lloyd)->토마스 [포인트맨] 로이드
-8c302bf8(Wolfgang [Wehrmann] Wehrmann)->볼프강 [베어만] 베어만
+8c302bf8(Wolfgang [Wehrmann] Wehrmann)->볼프강 [베르만] 베르만
 7dcd3a6a(Bo [Bo] Keersmaeker)->보 [보] 키어스마커
 b0ade502(Wraith [Spirit] Hope)->레이스 [스피릿] 호프
 25279bdd(Quentin [Cleftin] Twain)->쿠엔틴 [클레프틴] 트웨인
-f6edc0f0(Birger [Berge] Steen)->비르거 [베르게] 스틴
+f6edc0f0(Birger [Berge] Steen)->비르게르 [베르게] 스텐
 9686698c(Benjamin [Ben] Schlear)->벤저민 [벤] 슐리어
 618d4977(Cody [Cody] Barlow)->코디 [코디] 발로우
 9bd94d5f(Christiian [Stumpy] Stump)->크리스티안 [스텀피] 스텀프
@@ -10820,7 +10820,7 @@ bb4e4571(Antoine [Roy] Roy)->앙투안 [로이] 로이
 2a3659ab(Andrei [Andre] Butusina)->안드레이 [안드레] 부투시나
 5aead6b2(Aleksandr [Alex] Kovalchuk)->알렉산드르 [알렉스] 코발추크
 98ab312d(Tyler [Bean] LaBine)->타일러 [콩] 라빈
-f60c7feb(Noah [Reilman] Reilman)->노아 [레일먼] 레일먼
+f60c7feb(Noah [Reilman] Reilman)->노아 [라일먼] 라일먼
 8c02ae95(Gavin [Gavin] McGrew)->개빈 [개빈] 맥그루
 c2712f2c(Dao [Dao] Liu)->다오 [다오] 류
 0c38bec6(Nevar [Nev] Atine)->네바르 [네브] 아틴
@@ -10855,7 +10855,7 @@ f55d2895(William [Billy] Johnson)->윌리엄 [빌리] 존슨
 ddc0abe4(Vincent [Vinc] Mueller)->빈센트 [빈크] 뮐러
 c49a92fb(Robin [Baba] Klein)->로빈 [바바] 클라인
 594d518e(Aaron [Tiny] Caetano)->에런 [타이니] 카에타노
-090a7936(Marvin [Colonel] Behrens)->마빈 [커넬] 베렌스
+090a7936(Marvin [Colonel] Behrens)->마빈 [커널] 베렌스
 f59d844a(Zachery [Zach] Keeling)->재커리 [잭] 킬링
 8606f1ea(Christofer [Chris] Johnson)->크리스토퍼 [크리스] 존슨
 6d0c1f4d(Paul [Sachs] Sachs)->폴 [작스] 작스
@@ -10961,7 +10961,7 @@ ea70a78a(Mike [Mike] Ferreiro)->마이크 [마이크] 페레이로
 90e9dd55(Stuart [Stuart] Moore)->스튜어트 [스튜어트] 무어
 aa57914e(Martin [Paegle] Paegle)->마틴 [페이글] 페이글
 698e1fdd(Ben [Ben] Stecker)->벤 [벤] 슈테커
-c8cb035e(Damien [Golda] Golik)->데미언 [골다] 골리크
+c8cb035e(Damien [Golda] Golik)->다미엔 [골다] 골리크
 185add34(James [Teacher] Teacher)->제임스 [티처] 티처
 eced811c(Tim [Tim] Ripper)->팀 [팀] 리퍼
 a9447fd9(Thor [Howkin] Thorsen)->토르 [하우킨] 토르센
@@ -11157,7 +11157,7 @@ d0f9c01a(John [Snoot] Mostert)->존 [스누트] 모스터트
 0b193f85(Nick [Nick] Orio)->닉 [닉] 오리오
 f6b54919(Luke [Reverend] Dees)->루크 [레버런드] 디스
 24860797(Khoi [Le] Le)->코이 [레] 레
-6d343ef5(Tomas [Tomas] Mandon)->토마스 [토마스] 맨든
+6d343ef5(Tomas [Tomas] Mandon)->토마스 [토마스] 망동
 cc6bd36d(Mackenzie [Kenzie] Carter)->맥켄지 [켄지] 카터
 887ad09b(Juho [Juhku] Kuukauppi)->유호 [유흐쿠] 쿠카우피
 26ea39ee(Pavel [Pawell] Popov)->파벨 [파웰] 포포프
@@ -11235,7 +11235,7 @@ db768eb0(Benjamin [Benny] Ricke)->벤야민 [베니] 리케
 7c49982c(Christer [Dragon] Drage)->크리스터 [드래곤] 드레이지
 726f1ca4(Danil [Hvost] Hvostovsky)->다닐 [흐보스트] 흐보스토프스키
 543dcf4d(March [Sam] Marcus)->마치 [샘] 마커스
-2c6f15e9(Martin [Mandrew] Blomfroy)->마틴 [맨드루] 블롬프로이
+2c6f15e9(Martin [Mandrew] Blomfroy)->마틴 [맨드루] 블롬프루아
 488eb7b2(Kamil [Rat] Popielarski)->카밀 [쥐] 포피엘라르스키
 8fbf2c35(Jason [Jason] Henderson)->제이슨 [제이슨] 헨더슨
 5000a246(Mohamed [Moe] Chehab)->모하메드 [모] 셰하브
@@ -11266,7 +11266,7 @@ f0622bee(Jonathan [Jon] Davis)->조너선 [존] 데이비스
 bc4a3184(Marcin [Aldi] Herting)->마르친 [알디] 헤르팅
 e59f3bce(Lennard [Lesho] Baalington)->레나르트 [레쇼] 발링턴
 27fd4a84(Virgil [Spack] Ghreen)->버질 [슈파크] 그린
-b1903a3d(Haltzman [Haltzman] Yan)->할츠만 [할츠만] 얀
+b1903a3d(Haltzman [Haltzman] Yan)->할츠먼 [할츠먼] 얀
 6451cb2d(Joseph [Joey] Rigatoni)->조셉 [조이] 리가토니
 86da95a6(Mario [Mario] Speedwagon)->마리오 [마리오] 스피드웨건
 a0f43c44(Luke [Adam] Reid)->루크 [아담] 리드
@@ -11500,7 +11500,7 @@ e91e99aa(Bryan [Pinky] Dewkett)->브라이언 [핑키] 듀켓
 fc11105e(Florian [Flo] Bouquet)->플로리안 [플로] 부케
 16a61738(Monroe [Jackson] Jackson)->먼로 [잭슨] 잭슨
 3cbec237(Arturo [King] Marquez)->아르투로 [킹] 마르케스
-a2039caf(Damian [Demain] Hurkmans)->다미안 [드맹] 휘르크만스
+a2039caf(Damian [Demain] Hurkmans)->다미안 [드망] 휘르크만스
 fcb4709a(David [Dave] Ring)->데이비드 [데이브] 링
 587da55f(Antony [Ant] Cosentino)->안토니 [개미] 코센티노
 236452e3(Keith [Ape] Lewis)->키스 [유인원] 루이스
@@ -11538,7 +11538,7 @@ fbf5ac17(John [Brown] Brown)->존 [브라운] 브라운
 e2d9da96(Adam [Adam] Omicron)->아담 [아담] 오미크론
 1ec18d15(Oliver [Oliver] Wolf)->올리버 [올리버] 울프
 4831ad45(Ryc [Ryc] O'Chet)->릭 [릭] 오'체트
-21ee3f6e(Markus [Bayermann] Bayermann)->마르쿠스 [바이에르만] 바이에르만
+21ee3f6e(Markus [Bayermann] Bayermann)->마르쿠스 [바이어만] 바이어만
 de5382d8(Jon [Brash] Nard)->존 [브래쉬] 나드
 e3b28969(Josep [Chusep] Pastor)->조셉 [츄셉] 파스토르
 169f331b(Xavier [Xav] Delfini)->제이비어 [재브] 델피니
@@ -11561,7 +11561,7 @@ cd081890(Ben [Riffy] Rifkin)->벤 [리피] 리프킨
 14d08d98(Alvin [Wall] Wall)->앨빈 [월] 월
 a00ef0e6(Floyd [Van Engelen] Van Engelen)->플로이드 [반 엥겔렌] 반 엥겔렌
 496cc878(Sebastian [Sebastian] Mobo)->세바스티안 [세바스티안] 모보
-6a36f909(Noel [Nollek] Sallmann)->노엘 [놀렉] 살만
+6a36f909(Noel [Nollek] Sallmann)->노엘 [놀렉] 잘만
 ae6aa972(Matthias [Frog] Miller)->마티아스 [프로그] 밀러
 1eea8038(Sam [Shrubby] Bush)->샘 [덤불] 부시
 fd78f367(Adrian [Fuggi] Fuglevand)->아드리안 [푸기] 푸글레반
@@ -11592,7 +11592,7 @@ f7a133f9(Ryan [Insch] Insch)->라이언 [인쉬] 인쉬
 32c0541b(Donald [Don] Kong)->도널드 [돈] 콩
 8c8de20b(Ian [Minkee] Morrison)->이안 [밍키] 모리슨
 0b67c822(Hangyeol [Perroford] Yang)->한결 [페러포드] 양
-79d32463(Armando [Armando] Leal)->아르만도 [아르만도] 리알
+79d32463(Armando [Armando] Leal)->아르만도 [아르만도] 레알
 a48a77a6(Thor [Thunder] Kristoff)->토르 [썬더] 크리스토프
 39962a56(Devon [Devon] Höpfner)->데본 [데본] 회프너
 eebe822d(Paul [Micas] Pears)->폴 [미카스] 피어스
@@ -11630,7 +11630,7 @@ ba0b9909(Jeffrey [Peels] Piehler)->제프리 [필스] 피엘러
 cdcbd49d(Tandayr [Tandi] Bandini)->탄데이르 [탄디] 반디니
 ab97bef3(Joseph [Jody] Domingue)->조셉 [조디] 도밍게
 aa96791b(Richard [Dick] Jett)->리처드 [딕] 제트
-6de3f407(Beabus [Bossman] Beist)->비버스 [보스만] 베이스트
+6de3f407(Beabus [Bossman] Beist)->비버스 [보스만] 바이스트
 931b1cae(Chris [Cochise] Hernandez)->크리스 [코치스] 에르난데스
 acd76a8b(Jordan [Jojo] Mouschievous)->조던 [조조] 마우스처버스
 de82b432(Brian [Dolby] Dolby)->브라이언 [돌비] 돌비
@@ -11759,7 +11759,7 @@ b7cbc92c(Antoine [Antoine] Szidon)->앙투안 [앙투안] 시돈
 16c09ae3(Joseff [Joey] Joseffson)->요세프 [조이] 요세프손
 c87a7a96(Jimbo [Westlake] Westlake)->짐보 [웨스트레이크] 웨스트레이크
 37417743(Victor [Crossy] Cross)->빅터 [크로시] 크로스
-6856f559(Alexander [Xander] Peterson)->알렉산더 [산더] 피터슨
+6856f559(Alexander [Xander] Peterson)->알렉산더 [잰더] 피터슨
 ae526ed0(Kirill [Kirja] Zokov)->키릴 [키르야] 조코프
 5e0d4e26(Ahmad [Ahmadush] Al-Osaimi)->아마드 [아흐마두쉬] 알-오사이미
 80c7a073(Erdem [Aliderdem] Aycav)->에르뎀 [알리데르뎀] 아이카브
@@ -11798,7 +11798,7 @@ cf45c49c(Mitchell [Mister] Docherty)->미첼 [미스터] 도허티
 9fc2aee9(Naijun [Chen] Chen)->나이준 [첸] 첸
 050da5fe(Simon [Simon] Lison)->사이먼 [사이먼] 리슨
 e4d6e38d(Tony [Jab] Ball)->토니 [잽] 볼
-021dbaeb(Frederik [Wolf] Sonder)->프레데릭 [울프] 존더
+021dbaeb(Frederik [Wolf] Sonder)->프레데리크 [울프] 존더
 c48ed112(Nick [Nick] Townend)->닉 [닉] 타운엔드
 b10c1d24(James [Moore] Moore)->제임스 [무어] 무어
 d5712099(Marcus [Jade] Skalko)->마커스 [제이드] 스칼코
@@ -11820,9 +11820,9 @@ bb706a6c(Bryce [Doc] McKay)->브라이스 [닥] 맥케이
 22c2f18f(Orion [Onion] Fridley)->오리온 [어니언] 프리들리
 f9abda45(Benito [Beto] Birrell)->베니토 [베토] 비렐
 e4def8a0(Kirill [Keril] Guoba)->키릴 [케릴] 궈바
-f8e65d73(Hans [Berg] Loewenberg)->한스 [버그] 뢰벤베르크
+f8e65d73(Hans [Berg] Loewenberg)->한스 [베르크] 뢰벤베르크
 20db91b5(Berwick [Gunner] Tannin)->버윅 [거너] 타닌
-c1bb6edf(Sigvard [Solberg] Solberg)->시그바르 [솔베르] 솔베르
+c1bb6edf(Sigvard [Solberg] Solberg)->시그바르드 [솔베리] 솔베리
 8a1dd2d0(Tomas [Kucy] Kucera)->토마스 [쿠시] 쿠체라
 edf7db60(Yanni [Yanser] Serverius)->야니 [얀세르] 세르베리우스
 5b6aad3d(Sam [Yasha] Vintners)->샘 [야샤] 빈트너스
@@ -11923,7 +11923,7 @@ ce28e787(Niyaz [Gan] Sharipov)->니야즈 [간] 샤리포프
 15a98a57(Adam [Adam] Cumiskey)->아담 [아담] 커미스키
 163328a9(Andrew [Andrew] Willett)->앤드루 [앤드루] 윌렛
 2ba05fea(Marek [Maly] Fedorowski)->마렉 [말리] 페도로프스키
-0d93358f(Angus [Gussy] Connell)->앵거스 [구시] 코넬
+0d93358f(Angus [Gussy] Connell)->앵거스 [구시] 코널
 0dd011b6(Cangliao [Blues] Yao)->창랴오 [블루스] 야오
 99fb4fec(Vladimirs [Bibbe] Nordholm)->블라디미르스 [비브] 노르드홀름
 8b7cd8b4(Andrew [Phoenix] Valkariya)->앤드루 [피닉스] 발카리야
@@ -11935,7 +11935,7 @@ ae3ad8c5(Ignacio [Nacho] Rozada)->이그나시오 [나초] 로사다
 2e4243c9(Rostyslav [Joyce] Fedorko)->로스티슬라프 [조이스] 페도르코
 114ad492(Sylvain [Sylvain] Renault)->실뱅 [실뱅] 르노
 5c83e8c1(Alexander [Shoda] Shoda)->알렉산더 [쇼다] 쇼다
-44bdf1b5(Wolfegang [Wolfegang] Redman)->볼프강 [볼프강] 레드만
+44bdf1b5(Wolfegang [Wolfegang] Redman)->볼페강 [볼페강] 레드먼
 4bec8d06(Andrew [Logue] Logue)->앤드루 [로그] 로그
 8b4d0c35(Matthew [Saljanin] Saljanin)->매튜 [살리아닌] 살리아닌
 561ab3c2(Christian [Daniel] Butterman)->크리스티안 [다니엘] 버터맨
@@ -11949,7 +11949,7 @@ af5c5f42(Eden [Eden] Price)->에덴 [에덴] 프라이스
 4b79f8f2(Corne [Nillus] Klundert)->코르너 [닐루스] 클룬더르트
 1d349213(Eliasib [Eliasib] Cordova)->엘리아십 [엘리아십] 코르도바
 5ca10fd9(Maxime [Moustache] Mouzart)->막심 [콧수염] 무자르트
-5b5d6330(Damian [Dingo] King)->데미안 [딩고] 킹
+5b5d6330(Damian [Dingo] King)->데이미언 [딩고] 킹
 8897aa03(Kevin [Broms] Bromley)->케빈 [브롬스] 브롬리
 85f58ca3(Raven [Raven] Hover)->레이븐 [레이븐] 호버
 ea595fc4(Hammond [Raj] Mendoza)->해먼드 [라지] 멘도사
@@ -11972,7 +11972,7 @@ b9afe3bd(David [Dave] Thomsen)->데이비드 [데이브] 톰센
 59926b1b(Robert [Duckie] Szott)->로버르트 [더키] 쇼트
 4d218744(Oskar [Bultberg] Hultberg)->오스카르 [불트베리] 훌트베리
 8c766e50(Vilem [Lentelka] Longwood)->빌렘 [렌텔카] 롱우드
-2c630048(Damian [Graves] Graves)->데미안 [그레이브스] 그레이브스
+2c630048(Damian [Graves] Graves)->데이미언 [그레이브스] 그레이브스
 e7c6814d(Ruben [Ruby] Correia)->루벤 [루비] 코헤이아
 3f367b13(Trey [Trey] Breeding)->트레이 [트레이] 브리딩
 86cdc0dc(Emir Ege [Sönmez] Sönmez)->에미르 에게 [쇤메즈] 쇤메즈
@@ -12007,7 +12007,7 @@ c184a35f(Caleb [Roeder] Roeder)->칼렙 [뢰더] 뢰더
 951b0294(Steven [Steeb] Flish)->스티븐 [슈테프] 플리시
 305f25ee(Haak [Cheese] Curdington)->하크 [치즈] 커딩턴
 9faf01df(Stanislav [Stanislav] Savenkov)->스타니슬라프 [스타니슬라프] 사벤코프
-4f8cac73(Grant [Groggy] Metcalfe)->그랜트 [그로기] 메트카프
+4f8cac73(Grant [Groggy] Metcalfe)->그랜트 [그로기] 멧캐프
 1e717858(Joe [Joe] Dox)->조 [조] 독스
 10b0ce72(Philip [Philip] Jeon)->필립 [필립] 전
 2cae4fc8(Nicholas [Nick] Nelson)->니콜라스 [닉] 넬슨
@@ -12016,7 +12016,7 @@ c184a35f(Caleb [Roeder] Roeder)->칼렙 [뢰더] 뢰더
 84731e15(James [Jiminy] McGrath)->제임스 [지미니] 맥그래스
 4eea201a(Ryan [Roms] Jackson)->라이언 [롬스] 잭슨
 ccdf1894(Tim [Timbo] Sterk)->팀 [팀보] 슈테르크
-3ca1cdd6(Joshua [Roland] Van Houten)->조슈아 [롤랜드] 반 하우텐
+3ca1cdd6(Joshua [Roland] Van Houten)->조슈아 [롤랜드] 반 하우턴
 8e24db51(Lucas [Luku] Holmski)->루카스 [루쿠] 홀름스키
 2248a523(Djengo [Pengo] Hooftman)->젱고 [펭고] 호프트만
 e16848fc(Kiuk [Ko-Kiuk] Kim)->기욱 [고-기욱] 김
@@ -12081,7 +12081,7 @@ a03a4d01(Jiarong [Wen] Wen)->자룽 [자룽] 웬
 e0325281(Ricardo [Richi] Seliz)->리카르도 [리치] 셀리즈
 15aa3ea6(Chris [Lockwood] Lockwood)->크리스 [록우드] 록우드
 9dc8cd4e(Fernando [Rapao] Garsan)->페르난도 [라파오] 가르산
-08420fb2(Roman [Roman] Dalgamor)->로만 [로만] 달가모르
+08420fb2(Roman [Roman] Dalgamor)->로만 [로만] 달가모어
 e704090b(Ryan [Ry] Dove)->라이언 [라이] 도브
 29a3fe61(Nolan [Grandpa] Nelson)->놀란 [그랜파] 넬슨
 9478a463(Hunter [Hunter] Shutts)->헌터 [헌터] 슈츠
@@ -12136,7 +12136,7 @@ b4fbc81c(Michael [Magnuson] Magnuson)->마이클 [매그너슨] 매그너슨
 e19cbc39(Jared [Salty] Brandt)->재러드 [솔티] 브란트
 0e85d823(Liron [Di'angelo] Di'angelo)->리론 [디'안젤로] 디'안젤로
 275d2d5c(Rodrigo [Rodri] Carballo)->로드리고 [로드리] 카르바요
-fb50ccc3(George [Widra] Wiedermann)->조지 [비드라] 비더만
+fb50ccc3(George [Widra] Wiedermann)->조지 [비드라] 비데르만
 de51ff25(Ryan [Ryan] Donnachaidh)->라이언 [라이언] 도너히
 d84874d9(Alexandar [Sascha] Ilich)->알렉산다르 [사샤] 일리치
 e2d73f10(Thomas [Tako] Kolstad)->토마스 [타코] 콜스타드
@@ -12201,7 +12201,7 @@ e2b04f76(Ruaridh [Ruaridh] Johnto)->루아리 [루아리] 존토
 79da48c1(Gordon [Tempest] Robertson)->고든 [템페스트] 로버트슨
 9b2f8464(Ashan [Sashan] Pashan)->아샨 [사샨] 파샨
 e03d581c(Jahan [Jahan] Hameed)->자한 [자한] 하미드
-b6abacbb(Denis [Gamer] Loman)->데니스 [게이머] 로만
+b6abacbb(Denis [Gamer] Loman)->데니스 [게이머] 로먼
 59f6c889(Ollie [Ollie] Norman-Ramm)->올리 [올리] 노먼-람
 5cc22cb6(Jakob [Jake] Mueller)->제이콥 [제이크] 뮬러
 82f5ea76(Henry [Walker] Dobson)->헨리 [워커] 돕슨
@@ -12226,7 +12226,7 @@ aaa21fb4(Jimmy [Jimothy] Lightning)->지미 [지모시] 라이트닝
 f9fff8c4(Jacob [Pineapple] Dobbins)->제이콥 [파인애플] 도빈스
 69354333(Ambly [Ace] Arcnel)->앰블리 [에이스] 아크넬
 f376d2b1(Giun [Shin] Shin)->기운 [신] 신
-693b1c51(Damien [Huijbregts] Huijbregts)->다미엔 [하위브레흐츠] 하위브레흐츠
+693b1c51(Damien [Huijbregts] Huijbregts)->다미앵 [하위브레흐츠] 하위브레흐츠
 92ef69fb(Lukas [Franky] Frankenstein)->루카스 [프랭키] 프랑켄슈타인
 f9ebdd09(Brandon [Hicky] Hickling)->브랜던 [히키] 히클링
 bc0c0ea6(Jakub [Galka] Galka)->야쿠프 [갈카] 갈카
@@ -12283,7 +12283,7 @@ c241ebc0(Earl [Allives] Jones)->얼 [알리브스] 존스
 1a730c1f(Hakan [Hako] Arman)->하칸 [하코] 아르만
 26da0da0(Liam [Shaggy] Butcher)->리암 [샤기] 부처
 f42c3b13(Brian [Flux] Heart)->브라이언 [플럭스] 하트
-19bf083b(Rhett [Rainman] McConnell)->렛 [레인맨] 맥코넬
+19bf083b(Rhett [Rainman] McConnell)->렛 [레인맨] 맥코널
 f78d3d32(Dustin [Dustman] Dinkleberry)->더스틴 [더스트맨] 딩클베리
 c01e5b81(Wade [Morag] Dixon)->웨이드 [모라그] 딕슨
 323d1e6c(Jodan [Eggs] Benedict)->조단 [에그스] 베네딕트
@@ -12307,10 +12307,10 @@ a95ca500(Cristian [Acadio] Duque)->크리스티안 [아카디오] 두케
 3ddc39a2(Wolfgar [Wolf] Williams)->볼프가르 [울프] 윌리엄스
 a62a84b4(Roman [Gloomy] Dennis)->로만 [글루미] 데니스
 803b6ce7(Carlos [Carleto] Toledano)->카를로스 [카를레토] 톨레다노
-7a32bd44(Chris [Blanchman] Blanchman)->크리스 [블랜치맨] 블랜치맨
+7a32bd44(Chris [Blanchman] Blanchman)->크리스 [블랜치먼] 블랜치먼
 1193e8d7(Minjun [Sun] Sun)->민준 [선] 선
 b265ff30(Jaeyoung [Jaeyoung] Jeong)->재영 [재영] 정
-064d01e1(Damien [John] Groves)->데미언 [존] 그로브스
+064d01e1(Damien [John] Groves)->데이미언 [존] 그로브스
 eada6794(Griff [Isu] Isu)->그리프 [이수] 이수
 b4b6a557(Kornel [Corny] Krzos)->코르넬 [코니] 크조스
 4fbda3d9(Tom [Hefty] Wilson)->톰 [쓰레기봉투] 윌슨
@@ -12361,7 +12361,7 @@ be16b670(Calum [Calum] Bittles)->칼럼 [칼럼] 비틀스
 93d10434(Paul [Paul] Mabray)->폴 [폴] 마브레이
 ae38f720(Conor [Kentucky] Gaines)->코너 [켄터키] 게인스
 779c9c11(Adrian [Datzu] Garcia)->아드리안 [다추] 가르시아
-575fed79(Aidan [Human] Shannon)->에이든 [휴먼] 섀넌
+575fed79(Aidan [Human] Shannon)->에이단 [휴먼] 섀넌
 f4609b81(Jasper [Hoppo] Hopkins)->재스퍼 [호포] 홉킨스
 6f1bbc1b(Jim [Jim] Rosenboom)->짐 [짐] 로젠붐
 5eff7525(Daniel [Pooleo] Harris)->다니엘 [푸레오] 해리스
@@ -12671,7 +12671,7 @@ e6f06a52(Patricia [Pattie] Heintz)->패트리샤 [패티] 하인츠
 2bfad2c5(Dianne [Dwi] Nguyen)->다이앤 [드위] 응우옌
 b51243f1(Artemisia [Arty] Thrip)->아르테미시아 [아티] 쓰립
 0203a627(Roan [Roan] Berg)->로안 [로안] 버그
-c1a48063(Kordelia [Kord] Dermann)->코르델리아 [코드] 데르만
+c1a48063(Kordelia [Kord] Dermann)->코르델리아 [코르트] 데르만
 2ed86ac6(Keegras [Keegs] Mier)->키그라스 [키그스] 미어
 b8e4bc00(Zara [Zoodles] LeBlanc)->자라 [주들스] 르블랑
 6f011a15(Chrysa [Crown] Mahoney)->크리사 [크라운] 마호니
@@ -12769,7 +12769,7 @@ c1a18f94(Livvy [Livvy] Morrigan)->리비 [리비] 모리건
 fda0f2ef(Amber [Omni] Rusted)->엠버 [옴니] 러스티드
 a6f32671(Yachiyo [Yachiyo] Nagae)->야치요 [야치요] 나가에
 54a32ff7(Erin [O'Meara] O'Meara)->에린 [오'미라] 오'미라
-5975bc35(Samantha [Colonel] Jackson)->사만다 [커넬] 잭슨
+5975bc35(Samantha [Colonel] Jackson)->사만다 [커널] 잭슨
 b70a4c79(Elizabeth [Lizzie] Charlton)->엘리자베스 [리지] 찰튼
 e5827422(Briege [Beach] Loughran)->브리지 [비치] 로흐란
 b1acc867(Nova [Starr] Starr)->노바 [스타] 스타
@@ -12784,7 +12784,7 @@ a42a6872(Brittany [Snow] Holmes)->브리타니 [스노우] 홈즈
 d96e9cff(QiLing [Lingmei] Feng)->치링 [링메이] 펑
 7a6c569f(Naomi [Naomi] Yuki)->나오미 [나오미] 유키
 f7ed5058(Sakii [Sakii] Nevareth)->사키이 [사키이] 네바레스
-78254fec(Katia [Katia] Managan)->카티아 [카티아] 마나간
+78254fec(Katia [Katia] Managan)->카티아 [카티아] 매너건
 375c800f(Mistaki [Rainford] Rainford)->미스타키 [레인포드] 레인포드
 f1502ac8(Eleni [El] Miltiadou)->엘레니 [엘] 밀티아두
 0aeb59e8(Maetel [Maetel] Kim)->메텔 [메텔] 김
@@ -12851,7 +12851,7 @@ d874503d(Kailani [Kai] Grimm)->카일라니 [카이] 그림
 9a304d2d(Layla [Layla] Shocker)->레일라 [레일라] 쇼커
 960a1a05(Marinata [Marin] Jones)->마리나타 [마린] 존스
 b9fd3a66(Olga [Ef] Efimenko)->올가 [에프] 에피멘코
-521222b1(Damianne [Dubs] Abel)->다미앤 [덥스] 아벨
+521222b1(Damianne [Dubs] Abel)->데이미안 [덥스] 아벨
 174b0c8a(Joli [Joli] Kelly)->졸리 [졸리] 켈리
 04a1e36f(Delynn [Lynn] Sterling)->델린 [린] 스털링
 fd33746b(Chara [Chara] Primrose)->차라 [차라] 프림로즈
@@ -13112,7 +13112,7 @@ a1636bfb(Kythera [Ky] Moonlight)->키테라 [키] 문라이트
 65440b15(Carina [Carimyna] Gediga)->카리나 [카리미나] 게디가
 f80e98c2(Azula [Azula] Nova)->아줄라 [아줄라] 노바
 1aed567d(Zoey [Sora] Rae)->조이 [소라] 레이
-f280888c(Aidan [Aidan] Malnove)->에이든 [에이든] 말노베
+f280888c(Aidan [Aidan] Malnove)->에이단 [에이단] 말노베
 6e962aaf(Kendra [Kendra] Shivers)->켄드라 [켄드라] 시버스
 106ab6fd(Eva [Nattsen] Demian)->에바 [낫센] 데미안
 86019d24(Ansordia [Rosy] Mercia)->안소르디아 [로지] 머시아
@@ -13204,7 +13204,7 @@ afe8ce30(Selena [Angelus] Anais)->셀레나 [안젤루스] 아나이스
 48f63a59(Cottery [Cottery] Vinter)->코트리 [코트리] 빈터
 82544823(Morgan [Morg] Salisbury)->모건 [모르그] 솔즈베리
 101976da(Laila [Foxy] Kumaki)->라일라 [폭시] 쿠마키
-eea2c244(Layla [Layla] Kelman)->레일라 [레일라] 켈만
+eea2c244(Layla [Layla] Kelman)->레일라 [레일라] 켈먼
 ecc8b59a(Jennifer [Candy] Rymer)->제니퍼 [캔디] 라이머
 896b28e3(Joanna [JoJo] Parker)->조안나 [조조] 파커
 da910c92(Anna [Mesa] Anri)->안나 [메사] 안리
@@ -13213,7 +13213,7 @@ c441d14b(Taylor [Tayz] Zelion)->테일러 [테이즈] 제리온
 2918fcb6(Jessica [Jazz] Fawkes)->제시카 [재즈] 포크스
 fe6c467c(Cassandra [Cassie] Craig)->카산드라 [캐시] 크레이그
 39aecd53(Mokou [Mokotan] Fujiwara)->모코우 [모코탄] 후지와라
-6ede91b1(Lisbeth [Lasse] Orberg)->리즈벳 [라세] 오르베리
+6ede91b1(Lisbeth [Lasse] Orberg)->리스베트 [라세] 오르베리
 d950b4d8(Andrea [Dre] Banks)->안드레아 [드레] 뱅크스
 bdccf5e0(Ashley [Ash] Meister)->애슐리 [애쉬] 마이스터
 b3b4121c(Rosillo [Chiito] Castro)->로시요 [치이토] 카스트로
@@ -13376,7 +13376,7 @@ b02106b6(Audrey [Audrey] Brock)->오드리 [오드리] 브록
 3d0b5a42(Tierna [Tierna] Iomlan)->티에르나 [티에르나] 이올란
 00dd8483(Xizi [Xizi] Tongsheng)->시쯔 [시쯔] 퉁성
 e7bd7ad3(Alexis [Cheynas] Cheynas)->알렉시스 [체이나스] 체이나스
-c533f15b(Samantha [Sam] Quam)->사만다 [샘] 쿠암
+c533f15b(Samantha [Sam] Quam)->사만다 [샘] 쿼엄
 a9edf738(Melody [Bex] Kurasai)->멜로디 [벡스] 쿠라사이
 296d845d(Elisabeth [Liz] Small)->엘리자베스 [리즈] 스몰
 3043bcfe(Kelly [Kelly] Watters)->켈리 [켈리] 워터스
@@ -13627,7 +13627,7 @@ fa53d825(Maple [Sierrap] Doyle)->메이플 [시에랍] 도일
 2d6da7e3(Harriet [Harri] Pring)->해리엇 [해리] 프링
 834d9be2(Evirae [Evie] Rath)->에비레 [에비] 라스
 8cc00ba0(Mikaia [Mika] Lapointe)->미카이아 [미카] 라푸앙트
-5906976b(Sarah [Sarah] Stillman)->사라 [사라] 스틸만
+5906976b(Sarah [Sarah] Stillman)->사라 [사라] 스틸먼
 f9983c34(Victoria [Victoria] Christenson)->빅토리아 [빅토리아] 크리스텐슨
 130bebae(Astoria [Thistle] Ziema)->아스토리아 [시슬] 지에마
 95bf8bdf(Rebecca [Becks] Fancy)->레베카 [벡스] 팬시
@@ -13765,8 +13765,8 @@ df21ae17(Ceri [Woolway] Woolway)->세리 [울웨이] 울웨이
 5b3f382c(Victoria [Tori] West)->빅토리아 [토리] 웨스트
 4da482f6(Sophie [Bun] Rye)->소피 [번] 라이
 7a6bf1c8(Sammi [Whisper] Ashwood)->새미 [위스퍼] 애쉬우드
-759eeb94(Hanna [Sammy] Klenberg)->해나 [새미] 클렌버그
-47a7db20(Kristin [Hummel] Blackwood)->크리스틴 [훔멜] 블랙우드
+759eeb94(Hanna [Sammy] Klenberg)->한나 [새미] 클렌베르그
+47a7db20(Kristin [Hummel] Blackwood)->크리스틴 [후멜] 블랙우드
 eea4257c(Lottie [Biscotti] Davies)->로티 [비스코티] 데이비스
 d576a6ca(Donna [Dee] Campbell)->도나 [디] 캠벨
 6650dfb6(Eleanor [Ellie] Pickle)->엘리노어 [엘리] 피클
@@ -13781,7 +13781,7 @@ bb7edba3(Serena [Silver] Smith)->세레나 [실버] 스미스
 9f005611(Jisoo [Blinks] Blinks)->지수 [블링크스] 블링크스
 35e4bb84(Wangqun [Tiantian] Shi)->왕췬 [톈톈] 시
 bf757c4c(Marcy [Mar] Alramahi)->마시 [마르] 알라마히
-425478de(Mona [Paynes] Petermann)->모나 [페인스] 피터만
+425478de(Mona [Paynes] Petermann)->모나 [페인스] 페터만
 ef0b9c54(Olivia [Grygiel] Grygiel)->올리비아 [그리기엘] 그리기엘
 7e661241(Alice [Baka] Baltakova)->앨리스 [바카] 발타코바
 1ab733ea(Chino [Chino] Kafu)->치노 [치노] 카푸
@@ -13867,7 +13867,7 @@ e39b32fb(Lillith [Tekk] Hiltunen)->릴리스 [테크] 힐투넨
 391bde1b(Jamila [Taali] Ta'ali)->자밀라 [타알리] 타'알리
 8f192d6f(Alyssa [Lys] Scarlett)->알리사 [리스] 스칼렛
 a1f96078(Aila [Lis] Spiegel)->아일라 [리스] 슈피겔
-7354a2f1(Camilla [Cami] Maney)->카밀라 [카미] 매니
+7354a2f1(Camilla [Cami] Maney)->카밀라 [캐미] 매니
 f9e69ad7(Emilia [Forsythia] Forsyth)->에밀리아 [포사이시아] 포사이스
 174c9de4(Bonnibel [Bonnie] Lynch)->보니벨 [보니] 린치
 4027e785(Kay [Rabbit] McDonald)->케이 [토끼] 맥도날드
@@ -13883,7 +13883,7 @@ c2c5ad20(Hildunn [Hildunn] Ermenburg)->힐던 [힐던] 에르멘부르크
 8e8eebfd(Ruby [Ruby] Rose)->루비 [루비] 로즈
 90c75173(Sylvia [Jumpy] Donadieu)->실비아 [점피] 도나디유
 a3e618bd(Arelynn [Arelynn] Black)->아렐린 [아렐린] 블랙
-f6ec4d50(Madison [Nossi] Fane)->매디슨 [노씨] 페인
+f6ec4d50(Madison [Nossi] Fane)->매디슨 [노시] 페인
 239a231e(Beatrix [Bea] Strieber)->베아트릭스 [베아] 스트리버
 add91561(Seirein [Siren] Sangster)->세이레인 [세이렌] 생스터
 61ef20c3(Eveli Aimsey [Eve] Soultana)->에벨리 에임지 [이브] 소울타나
@@ -13987,7 +13987,7 @@ fd6d88e7(Nova [Nova] Thorn)->노바 [노바] 쏜
 d22fa7df(Anita [Cream] Stack)->아니타 [크림] 스택
 ca6d32ab(Allie [Shortie] Janzen)->앨리 [쇼티] 얀젠
 5c4844be(Liani [Liani] Ashdauer)->리아니 [리아니] 애쉬다우어
-ffc66ff0(Natasha [Tasha] Shotsman)->나타샤 [타샤] 샷츠맨
+ffc66ff0(Natasha [Tasha] Shotsman)->나타샤 [타샤] 샷츠먼
 6923ce20(Freya [Freya] Steele)->프레야 [프레야] 스틸
 b4b12566(Anshee [County] Crows)->앤시 [카운티] 크로우스
 fcdb06ec(Raissa [Franguva] Franguva)->라이사 [프랑구바] 프랑구바
@@ -14093,7 +14093,7 @@ b4a61e2b(Sierra [Firefly] Wood)->시에라 [파이어플라이] 우드
 4eb43214(Kelsey [Sissy] Fox)->켈시 [약골] 폭스
 767a2459(Kosmos [Pineapple] Miyazaki)->코스모스 [파인애플] 미야자키
 8e785887(Hinata [Aoi] Hoshino)->히나타 [아오이] 호시노
-6ae98ed9(Aleise [Nene] Philman)->알레이스 [네네] 필먼
+6ae98ed9(Aleise [Nene] Philman)->얼리스 [네네] 필먼
 cb696401(Kira [Ash] Adley)->키라 [애쉬] 애들리
 466add3e(Kasahra [Kassie] Atkins)->카사흐라 [캐시] 앳킨스
 36cd500e(Cotwo [Cotwo] Tobias)->코투 [코투] 토비아스
@@ -14109,7 +14109,7 @@ e2e70cf2(Ashley [Kooky] Schwab)->애슐리 [쿠키] 슈바프
 7d1a9a57(Betty [Burdee] Hornswaggle)->베티 [버디] 혼스워글
 d3c67570(Linaly [Linaly] Himura)->리나리 [리나리] 히무라
 73745e51(Phoebe [Phoebe] Bell)->피비 [벨] 벨
-1a0039ae(Stephanie [Steph] Ullman)->스테파니 [스테프] 울만
+1a0039ae(Stephanie [Steph] Ullman)->스테파니 [스테프] 얼먼
 7266b1da(Gibum [Fiona] Kwon)->기범 [피오나] 권
 46b9250c(Saria [Blue] Sindel)->사리아 [블루] 신델
 38504356(Willow [Willow] Terra)->윌로우 [윌로우] 테라
@@ -14183,7 +14183,7 @@ ccaa9972(Autumn [Red] Brown)->어텀 [레드] 브라운
 42f1a689(Ryner [Lute] Oaksbury)->라이너 [류트] 오크스버리
 24ad549d(Anthal [Anthal] Kyten)->안탈 [카이튼] 카이튼
 8bddf2f6(Charlie [Cross] Cross)->찰리 [크로스] 크로스
-59aeaab3(Soder [Soda] Berg)->소더 [소다] 버그
+59aeaab3(Soder [Soda] Berg)->소더 [소다] 베리
 9c8a160c(James [Coley] Cole)->제임스 [콜리] 콜
 f1010ff6(Wurst [Manny] Speent)->부어스트 [매니] 스피엔트
 5f8b23d1(Alex [Gundozer] Boyle)->알렉스 [건도저] 보일
@@ -14192,7 +14192,7 @@ f1010ff6(Wurst [Manny] Speent)->부어스트 [매니] 스피엔트
 2f4139ea(Jessie [Mac] MacMillan)->제시 [맥] 맥밀란
 84b6b131(Soniai [Soniai] Shimizu)->소니아이 [소니아이] 시미즈
 8db3f41b(Sulle [Sulle] Deluxe)->술레 [술레] 디럭스
-4b7ee57e(Brett [Brett] Hoffman)->브렛 [브렛] 호프만
+4b7ee57e(Brett [Brett] Hoffman)->브렛 [브렛] 호프먼
 0c0ea467(Shuan [Bud] Kenney)->슈안 [버드] 케니
 fd17fec8(Syrrah [Syr] Gloam)->시라 [시르] 글로암
 e2028e2a(Ash [Bramble] Temples)->애쉬 [브램블] 템플스
@@ -14368,7 +14368,7 @@ d711b242(Nikhil [Bild] Olsson)->니킬 [빌트] 올손
 17511345(Kitt [Kitt] Schlatter)->키트 [키트] 슐라터
 002f0318(Tommi [Damage] Vaurio)->톰미 [데미지] 바우리오
 6af157f6(Ender [Ender] Christopher)->엔더 [엔더] 크리스토퍼
-6cc60fce(Alberty [Hoff] Hoffman)->알베르티 [호프] 호프만
+6cc60fce(Alberty [Hoff] Hoffman)->알베르티 [호프] 호프먼
 979f6aad(Crim [Crim] Roberts)->크림 [크림] 로버츠
 5449dc9c(Verrigan [Ver] Homles)->베리건 [베르] 홈레스
 a1168738(Ryan [Hutcherson] Hutcherson)->라이언 [허처슨] 허처슨
@@ -14414,7 +14414,7 @@ c678a063(Lihas [Lihas] Crowe)->리하스 [리하스] 크로우
 2d72c73f(Archer [Renny] Rennhack)->아처 [레니] 렌하크
 df86c95a(Jesse [Leyton] Stafslien)->제시 [레이튼] 스타프슬리엔
 39143b61(Alex [Lex] Turner)->알렉스 [렉스] 터너
-ef44064e(Taren [Twiggy] Wightman)->타렌 [트위기] 와이트만
+ef44064e(Taren [Twiggy] Wightman)->태런 [트위기] 와이트먼
 619e9367(Taske [Rin] Rin)->타스크 [린] 린
 f060dea4(Sylla [Syl] Graardor)->실라 [실] 그라도르
 19d07dd7(Andy [Oaks] Quercus)->앤디 [참나무] 퀘르쿠스
@@ -14476,7 +14476,7 @@ f3635ebe(Chelle [Chelle] Moon)->셸 [셸] 문
 e3584400(Jafar [Jackal] Bailey)->자파르 [자칼] 베일리
 1a6009de(San [Syco] Syco)->샌 [사이코] 사이코
 d39a6a92(Chad [Chadwick] Thunder)->채드 [채드윅] 썬더
-81ae8374(Alex [Alex] Leatherman)->알렉스 [알렉스] 레더만
+81ae8374(Alex [Alex] Leatherman)->알렉스 [알렉스] 레더먼
 5bb3d0fd(Ryan [Broman] Broman)->라이언 [브로먼] 브로먼
 e56983fe(Sauyon [Shouyu] Lee)->소연 [쇼유] 이
 221c8acb(Dominic [Dodo] Dorsman)->도미닉 [도도] 도르스만
@@ -14501,7 +14501,7 @@ a370295c(Gwardo [Jonesy] Jones)->과르도 [존시] 존스
 c26489f4(Hori [Hori] Chaines)->호리 [호리] 셰네
 95d7f640(Tim [Turk] Pierce)->팀 [투르크] 피어스
 e21bfc1a(Nikolai [Von] Imhof)->니콜라이 [폰] 임호프
-64ab8f0f(Loïc [Silo] Toulmand)->로익 [사일로] 툴망
+64ab8f0f(Loïc [Silo] Toulmand)->로이크 [사일로] 툴망
 13f32787(Satoru [Richelieu] Mikami)->사토루 [리슐리외] 미카미
 d7402f8f(Leo [Lafornara] Lafornara)->레오 [라포르나라] 라포르나라
 7725761f(Sam [Dipp] Donivin)->샘 [딥] 도니빈
@@ -14625,7 +14625,7 @@ b7a47687(Paul [Cauchois] Cauchois)->폴 [코슈아] 코슈아
 a142b0e8(Danny [Dan] Brinsa)->대니 [댄] 브린사
 ee215558(Gavin [Siri] Zakowiz)->개빈 [시리] 자코비츠
 808a2e0e(Steph [Crab] Andri)->스테프 [크랩] 안드리
-4820c598(Keegan [Peacock] Dayman)->키건 [피콕] 데이맨
+4820c598(Keegan [Peacock] Dayman)->키건 [피콕] 데이먼
 feec887c(Peipei [Zzhou] Zzhou)->페이페이 [쯔저우] 쯔저우
 413495bf(Aisu [Ilovych] Ilovych)->아이수 [일로비치] 일로비치
 35b125bb(Fotar [Glenn] McGee)->포타르 [글렌] 맥기
@@ -14716,7 +14716,7 @@ f5f8c04b(Aramin [Ara] Ewen)->아라민 [아라] 에웬
 252f589f(Dianshu [Fu] Fu)->뎬수 [푸] 푸
 3ff96232(Shae [Shae] Raymond)->셰이 [셰이] 레이먼드
 d8fb2aaf(Chanon [Dome] Sahanon)->차논 [돔] 사하논
-1b7c6ae9(Natrak [Natrak] Mannes)->나트라크 [나트라크] 만네스
+1b7c6ae9(Natrak [Natrak] Mannes)->나트락 [나트락] 마네스
 974d2906(Kristopher [Sekani] Sekani)->크리스토퍼 [세카니] 세카니
 ba2ffb75(Sylonin [Syl] Piper)->실로닌 [실] 파이퍼
 dec5e370(Rhys [Hughes] Hughes)->리스 [휴스] 휴스
@@ -14852,7 +14852,7 @@ e3a5b75c(Connor [Connor] Chapman)->코너 [코너] 채프먼
 22721152(Cyrek [Cyrek] Mazewski)->치레크 [치레크] 마제프스키
 6c572daa(Cyril [Cyril] Boissieu)->시릴 [시릴] 부아시외
 6b16cff7(Dagur [Dagur] Stefánsson)->다구르 [다구르] 스테판손
-1a6c426a(Damien [Damien] Hyberion)->데미언 [데미언] 하이베리온
+1a6c426a(Damien [Damien] Hyberion)->데이미언 [데이미언] 하이베리온
 c46f15d6(Danilo [Danilo] Pereya)->다닐로 [다닐로] 페레야
 6d9db82f(Danny [Danny] Del Toro)->대니 [대니] 델 토로
 ec377463(Danny [Danny] White)->대니 [대니] 화이트
@@ -15300,7 +15300,7 @@ d73def4d(Jessica [Jessica] Portman)->제시카 [제시카] 포트먼
 29d4d0de(Joanne [Joanne] Coburn)->조앤 [조앤] 코번
 85c38b3e(Julia [Julia] Rau)->줄리아 [줄리아] 라우
 d1d3a6fe(Juliette [Juliette] Sensa)->줄리엣 [줄리엣] 센사
-06e5581f(Juliette [Juliette] Vonderman)->줄리엣 [줄리엣] 본더만
+06e5581f(Juliette [Juliette] Vonderman)->줄리엣 [줄리엣] 폰더만
 39d93a8e(June [June] Davidoff)->준 [준] 다비도프
 d60b20f0(Karen [Karen] Joani)->카렌 [카렌] 조아니
 835dbc69(Karina [Karina] Rider)->카리나 [카리나] 라이더
@@ -15469,7 +15469,7 @@ b8090bfc(Stephanie [Stephanie] Thomas)->스테파니 [스테파니] 토마스
 0ff2a87f(Sveta [Sveta] Lebedev)->스베타 [스베타] 레베데프
 a2dbd7e2(Sybille [Sybille] Gruber)->지빌레 [지빌레] 그루버
 9a2a386b(Taiba [Taiba] Preece)->타이바 [타이바] 프리스
-61daab60(Tara [Tara] Biedermann)->타라 [타라] 비데르만
+61daab60(Tara [Tara] Biedermann)->타라 [타라] 비더만
 2b6691f0(Tarja [Tarja] Salo)->타리아 [타리아] 살로
 7f44a122(Taylor [Taylor] Swift)->테일러 [테일러] 스위프트
 7141a3ee(Tessa [Tessa] Kirby)->테사 [테사] 커비
@@ -15596,7 +15596,7 @@ e7045ce1(Boston [Bost] Black)->보스턴 [보스트] 블랙
 abaeaea6(Byeong O [Friends] Kim)->병오 [프렌즈] 김
 2348eabb(Daniel [Morb] Schnitzler)->다니엘 [모브] 슈니츨러
 b9f66100(Nicholas [Nico] Hedge)->니콜라스 [니코] 헷지
-f341abd8(Roland [Rere] Saldana)->롤랜드 [리리] 살다나
+f341abd8(Roland [Rere] Saldana)->롤랜드 [레레] 살다나
 07d039bc(Andrew [Jonesy] Jones)->앤드루 [존시] 존스
 f7334d5f(James [Jaimie] Knight)->제임스 [제이미] 나이트
 8d604547(Vincent [Snens] Treder)->빈센트 [스넨스] 트레더
@@ -15656,7 +15656,7 @@ b5019138(Sharabee [Bilibili] Bilibili)->샤라비 [비리비리] 비리비리
 ce57b9f5(Ollen [Olle] Torp)->올렌 [올레] 토르프
 fe8d9194(Nikolas [Niko] Noeske)->니콜라스 [니코] 뇌스케
 6436eec3(Ezra [Vesper] Gonzalez)->에즈라 [베스퍼] 곤살레스
-1873ea56(Joshua [Gumby] Metcalfe)->조슈아 [검비] 메트카프
+1873ea56(Joshua [Gumby] Metcalfe)->조슈아 [검비] 멧캐프
 29a417a4(Valentin [Guego] Guego)->발랑탱 [게고] 게고
 6c942b22(Vyacheslav [Slava] Golnikov)->뱌체슬라프 [슬라바] 골니코프
 920b112c(Santiago [Santi] Urrutia)->산티아고 [산티] 우루티아
@@ -15965,7 +15965,7 @@ f43f4996(Andrew [Staley] Staley)->앤드루 [스테일리] 스테일리
 d4752ac1(Dennis [Denny] Natale)->데니스 [데니] 나탈레
 26de3ffa(Sanwuqi [Xixian] Xixian)->산우치 [시셴] 시셴
 fe4e3da2(Kewin [Fono] Bukowski)->케빈 [포노] 부코프스키
-a97b6946(Joakim [Jokks] Asberg)->요아킴 [요크스] 아스베리
+a97b6946(Joakim [Jokks] Asberg)->요아킴 [욕스] 아스베리
 e6bf6037(Sami [Arctic] Tuhkanen)->사미 [북극] 투흐카넨
 6456db49(Malcrow [Khul-tan] Khul-tan)->맬크로우 [쿨-탄] 쿨-탄
 ac1a6db0(Didar [Koshkin] Koshkin)->디다르 [코슈킨] 코슈킨
@@ -16179,7 +16179,7 @@ a48acd2a(Laszlo [lc] Pauwlik)->라슬로 [lc] 파블리크
 1ab80e1a(Leigh [LJ] Henderson)->레이 [LJ] 헨더슨
 2ebc8471(Jens [JK] Kittl)->옌스 [JK] 키틀
 9b5e89d2(Joachim [JJ] Jensen)->요아힘 [JJ] 젠슨
-61e1ac0e(Eric [DM] Stieferman)->에릭 [DM] 슈티페르만
+61e1ac0e(Eric [DM] Stieferman)->에릭 [DM] 슈티퍼만
 b7b3f6da(Christofis [JJ] Matheou)->크리스토피스 [JJ] 마테우
 f7a06e1b(Alfonz [Vee] Bordeux)->알폰즈 [Vee] 보르도
 15826b99(Tom [V] Manners)->톰 [V] 매너스
@@ -16209,7 +16209,7 @@ fc491e97(Simon [SJB] Bolt)->사이먼 [SJB] 볼트
 e7e2aa31(Johnny [JR] Lawson)->조니 [JR] 로슨
 f4e8e651(Karl [KV] Vandy)->카를 [KV] 밴디
 8ea92783(JeanBaptiste [JB] Zeller)->장바티스트 [JB] 젤러
-84a4f974(Aidan [AJ] Kartchner)->에이든 [AJ] 카르트너
+84a4f974(Aidan [AJ] Kartchner)->에이단 [AJ] 카르트너
 8be5a2cd(Jean-Marc [JM] Durnt)->장-마르크 [JM] 듀른트
 1929be10(Quinten [Q] Leeflang)->퀸턴 [Q] 레이플랑
 d42e50f6(Myles [MT] Thomas)->마일스 [MT] 토마스
@@ -16268,7 +16268,7 @@ c434a8a7(Katherine [Am] Meyer)->캐서린 [Am] 마이어
 d9d4f192(Voronwe [V] Fisher)->보론웨 [V] 피셔
 61c2dc39(Tony [K] Kay)->토니 [K] 케이
 6044a1cc(Cassandra [CJ] Sherlock)->카산드라 [CJ] 셜록
-e874eb60(Manou [MJ] Jeurissen)->마누 [MJ] 예리센
+e874eb60(Manou [MJ] Jeurissen)->마누 [MJ] 예리선
 f05c8f30(But [T] Head)->벗 [T] 헤드
 9f1bed3a(Lee [T] Thwart)->리 [T] 스워트
 ed72f8de(Ted [E] Baer)->테드 [E] 배어

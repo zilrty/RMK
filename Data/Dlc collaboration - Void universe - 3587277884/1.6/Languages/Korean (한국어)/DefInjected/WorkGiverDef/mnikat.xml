@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=butcher creatures-->
+  <UV_DoBillsButcherFlesh.label>도축</UV_DoBillsButcherFlesh.label>
+  <!--Original=butcher at-->
+  <UV_DoBillsButcherFlesh.verb>도축</UV_DoBillsButcherFlesh.verb>
+  <!--Original=butchering at-->
+  <UV_DoBillsButcherFlesh.gerund>에서 도축</UV_DoBillsButcherFlesh.gerund>
+</LanguageData>

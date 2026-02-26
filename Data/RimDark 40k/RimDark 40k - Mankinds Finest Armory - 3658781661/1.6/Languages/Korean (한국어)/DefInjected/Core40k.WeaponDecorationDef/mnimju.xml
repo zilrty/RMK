@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BEWH_wDecoSkulls_1.label>해골 1</BEWH_wDecoSkulls_1.label>
+  <BEWH_wDecoSkulls_1.description>...</BEWH_wDecoSkulls_1.description>
+  <BEWH_wDecoSkulls_2.label>해골 2</BEWH_wDecoSkulls_2.label>
+  <BEWH_wDecoSkulls_2.description>...</BEWH_wDecoSkulls_2.description>
+  <BEWH_wDecoAquila_1.label>아퀼라 1</BEWH_wDecoAquila_1.label>
+  <BEWH_wDecoAquila_1.description>...</BEWH_wDecoAquila_1.description>
+  <BEWH_wDecoAquila_2.label>아퀼라 2</BEWH_wDecoAquila_2.label>
+  <BEWH_wDecoAquila_2.description>...</BEWH_wDecoAquila_2.description>
+  <BEWH_wDecoAstartes.label>임페리알리스</BEWH_wDecoAstartes.label>
+  <BEWH_wDecoAstartes.description>...</BEWH_wDecoAstartes.description>
+  <BEWH_wDecoKillcount.label>킬카운트</BEWH_wDecoKillcount.label>
+  <BEWH_wDecoKillcount.description>...</BEWH_wDecoKillcount.description>
+  <BEWH_wDecoShells.label>탄피</BEWH_wDecoShells.label>
+  <BEWH_wDecoShells.description>...</BEWH_wDecoShells.description>
+  <BEWH_wDeco_Pseal_1.label>순결의 인장 1</BEWH_wDeco_Pseal_1.label>
+  <BEWH_wDeco_Pseal_1.description>...</BEWH_wDeco_Pseal_1.description>
+  <BEWH_wDeco_Pseal_2.label>순결의 인장 2</BEWH_wDeco_Pseal_2.label>
+  <BEWH_wDeco_Pseal_2.description>...</BEWH_wDeco_Pseal_2.description>
+  <BEWH_DecoTrinket_0.label>해골</BEWH_DecoTrinket_0.label>
+  <BEWH_DecoTrinket_0.description>...</BEWH_DecoTrinket_0.description>
+  <BEWH_DecoTrinket_1.label>해골 2</BEWH_DecoTrinket_1.label>
+  <BEWH_DecoTrinket_1.description>...</BEWH_DecoTrinket_1.description>
+  <BEWH_DecoTrinket_2.label>아퀼라</BEWH_DecoTrinket_2.label>
+  <BEWH_DecoTrinket_2.description>...</BEWH_DecoTrinket_2.description>
+  <BEWH_DecoTrinket_3.label>탄피</BEWH_DecoTrinket_3.label>
+  <BEWH_DecoTrinket_3.description>...</BEWH_DecoTrinket_3.description>
+  <BEWH_DecoHandleWrap.label>손잡이 감개</BEWH_DecoHandleWrap.label>
+  <BEWH_DecoHandleWrap.description>...</BEWH_DecoHandleWrap.description>
+  <BEWH_DecoLeatherWrap.label>가죽 감개</BEWH_DecoLeatherWrap.label>
+  <BEWH_DecoLeatherWrap.description>...</BEWH_DecoLeatherWrap.description>
+  <BEWH_DecoChainWrap.label>사슬 감개</BEWH_DecoChainWrap.label>
+  <BEWH_DecoChainWrap.description>...</BEWH_DecoChainWrap.description>
+</LanguageData>

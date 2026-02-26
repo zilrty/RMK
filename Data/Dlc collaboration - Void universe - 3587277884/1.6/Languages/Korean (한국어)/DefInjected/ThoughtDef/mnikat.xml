@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=Bird Joy-->
+  <UV_GoldenCanary_Thought.stages.0.label>카나리아 기쁨</UV_GoldenCanary_Thought.stages.0.label>
+  <!--Original=My wonderful bird. My precious bird. I love it. It&apos;s so beautiful.-->
+  <UV_GoldenCanary_Thought.stages.0.description>내 멋진 새. 내 소중한 새. 사랑해. 너무 아름다워.</UV_GoldenCanary_Thought.stages.0.description>
+  <!--Original=Bird peace-->
+  <UV_GoldenCanaryPeace_Thought.stages.0.label>카나리아 평온</UV_GoldenCanaryPeace_Thought.stages.0.label>
+  <!--Original=This beautiful little bird calms my heart.-->
+  <UV_GoldenCanaryPeace_Thought.stages.0.description>이 아름답고 작은 새가 내 마음을 평온하게 해줘.</UV_GoldenCanaryPeace_Thought.stages.0.description>
+</LanguageData>

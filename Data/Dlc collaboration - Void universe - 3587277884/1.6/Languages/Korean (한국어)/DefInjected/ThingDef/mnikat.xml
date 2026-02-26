@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=A large metallic core that emanates a putrid psychic energy. The core hums ominously and appears to be increasing in activity. It&apos;s not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena.-->
+  <UV_Grav_WarpedObelisk_Mutator.description>불쾌한 정신 에너지를 발산하는 거대한 금속 핵입니다. 불길하게 웅웅거리고 있으며, 점점 활발해지는 것처럼 보입니다. 불길하게 웅웅거리고 있으며, 점점 활발해지는 것처럼 보입니다. 완전한 상태에 도달하면 어떤 일이 벌어질지는 알 수 없습니다.\n\n정착민을 보내 오벨리스크를 억제하여 활성화를 막을 수 있습니다. 오벨리스크에 표시를 남기고 그것의 기능을 계속 조사한다면 오벨리스크를 유리하게 사용할 수 있을지도 모릅니다.\n\n오벨리스크는 공격해 파괴할 수도 있지만, 그러면 비정상적이고 위험한 현상이 나타날 수 있습니다.</UV_Grav_WarpedObelisk_Mutator.description>
+  <!--Original=twisted obelisk-->
+  <UV_Grav_WarpedObelisk_Mutator.label>뒤틀린 오벨리스크</UV_Grav_WarpedObelisk_Mutator.label>
+  <!--Original=Mutation cooldown-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.6.onCooldownString>변이 재사용 대기시간</UV_Grav_WarpedObelisk_Mutator.comps.6.onCooldownString>
+  <!--Original=Mutate...-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.6.activateLabelString>변이...</UV_Grav_WarpedObelisk_Mutator.comps.6.activateLabelString>
+  <!--Original=Induce rapid cellular growth in a person causing them to grow a tentacle or fleshmass organ.-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.6.activateDescString>사람 내에서 빠른 세포 성장을 유발하여 촉수 혹은 살덩이 장기를 자라게 하세요.</UV_Grav_WarpedObelisk_Mutator.comps.6.activateDescString>
+  <!--Original=triggering obelisk mutation: {1}s-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activatingString>오벨리스크 변이 작동 중: {1}초</UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activatingString>
+  <!--Original=triggering obelisk mutation-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activatingStringPending>오벨리스크 변이 작동 중</UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.activatingStringPending>
+  <!--Original=Choose who should do this-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.6.guiLabelString>이것을 할 사람을 선택하세요</UV_Grav_WarpedObelisk_Mutator.comps.6.guiLabelString>
+  <!--Original=Trigger mutation-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.6.jobString>변이 활성화</UV_Grav_WarpedObelisk_Mutator.comps.6.jobString>
+  <!--Original={PAWN_nameDef} has successfully triggered obelisk mutation.-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCompletedString>{PAWN_nameDef}(이)가 성공적으로 오벨리스크 변이를 작동시켰습니다.</UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCompletedString>
+  <!--Original=The twisted obelisk is ready to use again.-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>>뒤틀린 오벨리스크를 다시 사용할 준비가 되었습니다.</UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <!--Original=Mutation cooldown-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.onCooldownString>변이 재사용 대기시간</UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskTriggerInteractor.onCooldownString>
+  <!--Original=Deactivate...-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.7.activateLabelString>비활성화...</UV_Grav_WarpedObelisk_Mutator.comps.7.activateLabelString>
+  <!--Original=Permanently and safely disable the twisted obelisk. This will prevent it from activating and being studied further.\n\nRequires 2 shards.-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.7.activateDescString>뒤틀린 오벨리스크를 영구적이고 안전하게 비활성화합니다. 이렇게 하면 활성화와 추가 조사를 막습니다.\n\n파편 2개가 필요합니다.</UV_Grav_WarpedObelisk_Mutator.comps.7.activateDescString>
+  <!--Original=deactivating obelisk: {1}s-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activatingString>오벨리스크 비활성화 중: {1}초</UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activatingString>
+  <!--Original=deactivating obelisk-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activatingStringPending>오벨리스크 비활성화 중</UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.activatingStringPending>
+  <!--Original=Choose who should do this-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.7.guiLabelString>이것을 할 사람을 선택하세요</UV_Grav_WarpedObelisk_Mutator.comps.7.guiLabelString>
+  <!--Original=Deactivate obelisk-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.7.jobString>오벨리스크 비활성화</UV_Grav_WarpedObelisk_Mutator.comps.7.jobString>
+  <!--Original={PAWN_nameDef} has successfully deactivated the obelisk.-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.messageCompletedString>{PAWN_nameDef}(이)가 성공적으로 오벨리스크를 비활성화했습니다.</UV_Grav_WarpedObelisk_Mutator.comps.CompObeliskDeactivationInteractor.messageCompletedString>
+  <!--Original=Obelisk study progress-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.0.label>오벨리스크 조사 진행</UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.0.label>
+  <!--Original=Investigation of the obelisk has revealed some information. It is an archotechnological device that seems to interact with organic creatures at a distance. It is probably a piece of a much larger archotech structure that was destroyed or broken apart long ago. The machinery at its core is inhumanly complex and frighteningly powerful. Its purpose and method of action remain totally mysterious.\n\nIf not suppressed, its activity level will increase over time. You can&apos;t tell what will happen when the device fully activates.-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.0.text>오벨리스크에 대한 조사로 약간의 정보를 밝혀냈습니다. 오벨리스크는 일종의 초월공학 장치로, 유기적인 생물들과 원격으로 상호작용하는 것 같습니다. 아마도 오래 전에 파괴되었거나 조각난 더 큰 초월공학 구조물의 일부일지도 모릅니다. 중심에 있는 기계는 비인간적으로 복잡하며 깜짝 놀랄 정도로 강력합니다. 그 목적과 행위의 작동원리는 완전히 수수께끼입니다.\n\n만약 제때 억제하지 않으면 활성 등급이 점차 증가할 것입니다. 장치가 완전히 활성화되면 무슨 일이 일어날지 알 수 없습니다.</UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.0.text>
+  <!--Original=Obelisk study progress-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.1.label>오벨리스크 조사 진행</UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.1.label>
+  <!--Original=You&apos;ve learned more about the obelisk. It is an archotech machine that transforms flesh creatures into different forms. The device is damaged, so the new forms would be chaotic and unstable ー a person or animal so transformed would become something totally unrecognizable.\n\nThe obelisk&apos;s energy level rises unless suppressed. If it fully activates, it could transform an endless number of creatures, creating a nightmarish horde of flesh mutants.\n\n{PAWN_nameDef} thinks that it may be possible to safely shut down the obelisk but this will need significantly more study.\n\nYou can now intentionally provoke a response from the twisted obelisk.-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.1.text>오벨리스크에 대해 더 많이 알게 되었습니다. 이 장치는 육체가 있는 생물을 다른 형태로 변형시키는 초월공학 기계입니다. 이 장치는 손상을 입었으므로, 새로운 형태는 기괴스럽고 불안정할 수 있습니다. 그러므로 변형된 인간 혹은 동물은 완전히 알아볼 수 없는 무언가가 됩니다.\n\n억제되지 않으면 오벨리스크의 활성 등급은 증가합니다. 완전히 활성화되면 무한한 양의 생물을 변형시켜, 악몽 같은 살 돌연변이 무리를 만들어냅니다.\n\n{PAWN_nameDef}(은)는 오벨리스크를 안전하게 정지시킬 수 있을 거라 생각하지만 상당한 수준의 조사가 필요합니다.\n\n이제 뒤틀린 오벨리스크에서 의도적으로 반응을 유발할 수 있습니다.</UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.1.text>
+  <!--Original=Obelisk study complete-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.2.label>오벨리스크 조사 완료</UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.2.label>
+  <!--Original={PAWN_nameDef} has completed {PAWN_possessive} investigation of the twisted obelisk. {PAWN_pronoun} has discovered a method for safely deactivating the obelisk using shards of archotechnology.\n\nYou can no longer study the obelisk after deactivating it.-->
+  <UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.2.text>{PAWN_nameDef}(이)가 뒤틀린 오벨리스크의 조사를 끝냈습니다. 초월공학 파편을 사용해 안전하게 오벨리스크를 비활성화하는 방법을 발견했습니다.\n\n오벨리스크를 비활성화하면 더 이상 조사할 수 없습니다.</UV_Grav_WarpedObelisk_Mutator.comps.5.studyNotes.2.text>
+  <!--Original=A large metallic core that emanates a putrid psychic energy. The core hums ominously and appears to be increasing in activity. It&apos;s not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena.-->
+  <UV_Grav_WarpedObelisk_Duplicator.description>불쾌한 정신 에너지를 발산하는 거대한 금속 핵입니다. 불길하게 웅웅거리고 있으며, 점점 활발해지는 것처럼 보입니다. 완전한 상태에 도달하면 어떤 일이 벌어질지는 알 수 없습니다.\n\n정착민을 보내 오벨리스크를 억제하여 활성화를 막을 수 있습니다. 오벨리스크에 표시를 남기고 그것의 기능을 계속 조사한다면 오벨리스크를 유리하게 사용할 수 있을지도 모릅니다.\n\n오벨리스크는 공격해 파괴할 수도 있지만, 그러면 비정상적이고 위험한 현상이 나타날 수 있습니다.</UV_Grav_WarpedObelisk_Duplicator.description>
+  <!--Original=corrupted obelisk-->
+  <UV_Grav_WarpedObelisk_Duplicator.label>타락한 오벨리스크</UV_Grav_WarpedObelisk_Duplicator.label>
+  <!--Original=Duplication cooldown-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.6.onCooldownString>복제 재사용 대기시간</UV_Grav_WarpedObelisk_Duplicator.comps.6.onCooldownString>
+  <!--Original=Duplicate...-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.6.activateLabelString>복제...</UV_Grav_WarpedObelisk_Duplicator.comps.6.activateLabelString>
+  <!--Original=triggering obelisk duplication: {1}s-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activatingString>오벨리스크 복제 작동 중: {1}초</UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activatingString>
+  <!--Original=triggering obelisk duplication-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activatingStringPending>오벨리스크 복제 작동 중</UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.activatingStringPending>
+  <!--Original=Provoke the obelisk into duplicating a willing person.-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.6.activateDescString>오벨리스크를 자극하여 원하는 사람을 복제하세요.</UV_Grav_WarpedObelisk_Duplicator.comps.6.activateDescString>
+  <!--Original=Choose who should do this-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.6.guiLabelString>이것을 할 사람을 선택하세요</UV_Grav_WarpedObelisk_Duplicator.comps.6.guiLabelString>
+  <!--Original=Trigger duplication-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.6.jobString>복제 작동</UV_Grav_WarpedObelisk_Duplicator.comps.6.jobString>
+  <!--Original=The corrupted obelisk is ready to use again.-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>타락한 오벨리스크를 다시 사용할 준비가 되었습니다.</UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <!--Original=Duplication cooldown-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.onCooldownString>복제 재사용 대기시간</UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskTriggerInteractor.onCooldownString>
+  <!--Original=Deactivate...-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.7.activateLabelString>비활성화...</UV_Grav_WarpedObelisk_Duplicator.comps.7.activateLabelString>
+  <!--Original=Permanently and safely disable the corrupted obelisk. This will prevent it from activating, and from being studied further.\n\nRequires 2 shards.-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.7.activateDescString>타락한 오벨리스크를 영구적이고 안전하게 비활성화합니다. 이렇게 하면 활성화와 추가 조사를 막습니다.\n\n파편 2개가 필요합니다.</UV_Grav_WarpedObelisk_Duplicator.comps.7.activateDescString>
+  <!--Original=deactivating obelisk: {1}s-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingString>오벨리스크 비활성화 중: {1}초</UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingString>
+  <!--Original=deactivating obelisk-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingStringPending>오벨리스크 비활성화 중</UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.activatingStringPending>
+  <!--Original=Choose who should do this-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.7.guiLabelString>이것을 할 사람을 선택하세요</UV_Grav_WarpedObelisk_Duplicator.comps.7.guiLabelString>
+  <!--Original=Deactivate obelisk-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.7.jobString>오벨리스크 비활성화</UV_Grav_WarpedObelisk_Duplicator.comps.7.jobString>
+  <!--Original={PAWN_nameDef} has successfully deactivated the obelisk.-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.messageCompletedString>{PAWN_nameDef}(이)가 성공적으로 오벨리스크를 비활성화했습니다.</UV_Grav_WarpedObelisk_Duplicator.comps.CompObeliskDeactivationInteractor.messageCompletedString>
+  <!--Original=Obelisk study progress-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.0.label>오벨리스크 조사 진행</UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.0.label>
+  <!--Original=Investigation of the obelisk has revealed some information. It is an archotechnological device that seems to interact with organic creatures at a distance. It is probably a piece of a much larger archotech structure that was destroyed or broken apart long ago. The machinery at its core is inhumanly complex and frighteningly powerful. Its purpose and method of action remain totally mysterious.\n\nIf not suppressed, its activity level will increase over time. You can&apos;t tell what will happen when the device fully activates.-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.0.text>오벨리스크에 대한 조사로 약간의 정보를 밝혀냈습니다. 오벨리스크는 일종의 초월공학 장치로, 유기적인 생물들과 원격으로 상호작용하는 것 같습니다. 아마도 오래 전에 파괴되었거나 조각난 더 큰 초월공학 구조물의 일부일지도 모릅니다. 중심에 있는 기계는 비인간적으로 복잡하며 깜짝 놀랄 정도로 강력합니다. 그 목적과 행위의 작동원리는 완전히 수수께끼입니다.\n\n만약 제때 억제하지 않으면 활성 등급이 점차 증가할 것입니다. 장치가 완전히 활성화되면 무슨 일이 일어날지 알 수 없습니다.</UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.0.text>
+  <!--Original=Obelisk study progress-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.1.label>오벨리스크 조사 진행</UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.1.label>
+  <!--Original=You&apos;ve learned more about the obelisk. The device has the power to duplicate intelligent creatures. In theory, it can produce duplicates without limit.\n\nThe obelisk appears damaged and unstable, so its energy level rises unless suppressed. If it were to fully activate, it would go into a duplication loop, chaotically pumping out a large number of flawed human duplicates.\n\n{PAWN_nameDef} thinks that it may be possible to safely shut down the obelisk but this will need significantly more study.\n\nYou can now intentionally provoke a response from the corrupted obelisk.-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.1.text>오벨리스크에 대해 더 많이 알게 되었습니다. 이 장치는 지성체를 복사하는 능력이 있습니다. 이론적으로 이는 제한 없이 복제본을 생산할 수 있습니다.\n\n오벨리스크는 손상을 입었으며 불안정하므로, 억제되지 않으면 활성 등급이 증가합니다. 완전히 활성화되면 무한으로 복사를 반복해, 결함 있는 많은 인간 복제본을 쏟아낼 것입니다.\n\n{PAWN_nameDef}(은)는 오벨리스크를 안전하게 정지시킬 수 있을 거라 생각하지만 상당한 수준의 조사가 필요합니다.\n\n이제 타락한 오벨리스크에서 의도적으로 반응을 유발할 수 있습니다.</UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.1.text>
+  <!--Original=Obelisk study complete-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.2.label>오벨리스크 조사 완료</UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.2.label>
+  <!--Original={PAWN_nameDef} has completed {PAWN_possessive} investigation of the corrupted obelisk. {PAWN_pronoun} has discovered a method for safely deactivating the obelisk using shards of archotechnology.\n\nYou can no longer study the obelisk after deactivating it.-->
+  <UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.2.text>{PAWN_nameDef}(이)가 타락한 오벨리스크의 조사를 끝냈습니다. 초월공학 파편을 사용해 안전하게 오벨리스크를 비활성화하는 방법을 발견했습니다.\n\n오벨리스크를 비활성화하면 더 이상 연구할 수 없습니다.</UV_Grav_WarpedObelisk_Duplicator.comps.5.studyNotes.2.text>
+  <!--Original=A large metallic core that emanates a putrid psychic energy. The core hums ominously and appears to be increasing in activity. It&apos;s not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena.-->
+  <UV_Grav_WarpedObelisk_Abductor.description>불쾌한 정신 에너지를 발산하는 거대한 금속 핵입니다. 불길하게 웅웅거리고 있으며, 점점 활발해지는 것처럼 보입니다. 완전한 상태에 도달하면 어떤 일이 벌어질지는 알 수 없습니다.\n\n정착민을 보내 오벨리스크를 억제하여 활성화를 막을 수 있습니다. 오벨리스크에 표시를 남기고 그것의 기능을 계속 조사한다면 오벨리스크를 유리하게 사용할 수 있을지도 모릅니다.\n\n오벨리스크는 공격해 파괴할 수도 있지만, 그러면 비정상적이고 위험한 현상이 나타날 수 있습니다.</UV_Grav_WarpedObelisk_Abductor.description>
+  <!--Original=warped obelisk-->
+  <UV_Grav_WarpedObelisk_Abductor.label>비뚤어진 오벨리스크</UV_Grav_WarpedObelisk_Abductor.label>
+  <!--Original=Teleportation cooldown-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.6.onCooldownString>순간이동 재사용 대기시간</UV_Grav_WarpedObelisk_Abductor.comps.6.onCooldownString>
+  <!--Original=Teleport...-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.6.activateLabelString>순간이동...</UV_Grav_WarpedObelisk_Abductor.comps.6.activateLabelString>
+  <!--Original=Transport a willing person to a distant spatial dimension. It may be difficult for them to return.-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.6.activateDescString>원하는 사람을 떨어진 공간 차원에 보내세요. 돌아오기 어려울 수 있습니다.</UV_Grav_WarpedObelisk_Abductor.comps.6.activateDescString>
+  <!--Original=triggering obelisk teleportation: {1}s-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activatingString>오벨리스크 순간이동 작동 중: {1}초</UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activatingString>
+  <!--Original=triggering obelisk teleportation-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activatingStringPending>오벨리스크 순간이동 작동 중</UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.activatingStringPending>
+  <!--Original=Choose who should do this-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.6.guiLabelString>이것을 할 사람을 선택하세요</UV_Grav_WarpedObelisk_Abductor.comps.6.guiLabelString>
+  <!--Original=Trigger teleportation-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.6.jobString>순간이동 작동</UV_Grav_WarpedObelisk_Abductor.comps.6.jobString>
+  <!--Original={PAWN_nameDef} has successfully triggered obelisk teleportation.-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.messageCompletedString>{PAWN_nameDef}(이)가 성공적으로 오벨리스크 순간이동을 작동시켰습니다.</UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.messageCompletedString>
+  <!--Original=The warped obelisk is ready to use again.-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.messageCooldownEnded>비뚤어진 오벨리스크를 다시 사용할 준비가 되었습니다.</UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <!--Original=Teleportation cooldown-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.onCooldownString>순간이동 재사용 대기시간</UV_Grav_WarpedObelisk_Abductor.comps.CompObeliskTriggerInteractor.onCooldownString>
+  <!--Original=Obelisk study progress-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.5.studyNotes.0.label>오벨리스크 조사 진행</UV_Grav_WarpedObelisk_Abductor.comps.5.studyNotes.0.label>
+  <!--Original=Investigation of the obelisk has revealed some information. It is an archotechnological device that seems to interact with organic creatures at a distance. It is probably a piece of a much larger archotech structure that was destroyed or broken apart long ago. The machinery at its core is inhumanly complex and frighteningly powerful. Its purpose and method of action remain totally mysterious.\n\nIf not suppressed, its activity level will increase over time. You can&apos;t tell what will happen when the device fully activates.-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.5.studyNotes.0.text>오벨리스크에 대한 조사로 약간의 정보를 밝혀냈습니다. 오벨리스크는 일종의 초월공학 장치로, 유기적인 생물들과 원격으로 상호작용하는 것 같습니다. 아마도 오래 전에 파괴되었거나 조각난 더 큰 초월공학 구조물의 일부일지도 모릅니다. 중심에 있는 기계는 비인간적으로 복잡하며 깜짝 놀랄 정도로 강력합니다. 그 목적과 행위의 작동원리는 완전히 수수께끼입니다.\n\n만약 제때 억제하지 않으면 활성 등급이 점차 증가할 것입니다. 장치가 완전히 활성화되면 무슨 일이 일어날지 알 수 없습니다.</UV_Grav_WarpedObelisk_Abductor.comps.5.studyNotes.0.text>
+  <!--Original=Obelisk study complete-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.5.studyNotes.1.label>오벨리스크 조사 완료</UV_Grav_WarpedObelisk_Abductor.comps.5.studyNotes.1.label>
+  <!--Original=You&apos;ve completed your investigation of the obelisk. It creates a bridge to a point in a spacetime void separated from ours along usually inaccessible spatial dimensions.\n\nThe void plane is filled with a gray labyrinthine structure of astronomical scale. Someone trapped there could return by finding the obelisk&apos;s mirror version inside the gray rooms and hallways.\n\nThe gray structures seem to have been created by an archotech superintelligence, but there&apos;s no way to know their purpose, age, or spatial limits.\n\nThe obelisk is damaged and unstable, so its energy level rises unless suppressed. If it were to fully activate, it could begin to abduct individuals at random.\n\nYou can now intentionally provoke a response from the warped obelisk.-->
+  <UV_Grav_WarpedObelisk_Abductor.comps.5.studyNotes.1.text>오벨리스크 조사를 완료했습니다. 오벨리스크는 보통 접근할 수 없는 공간 차원을 따라 우리 시공간에서 분리된 시공간 공허의 지점까지 다리를 만듭니다.\n\n공허 차원은 천문학적인 단위의 회색 미로 같은 구조물로 이루어져 있습니다. 그곳에 갇힌 누군가가 회색 방과 복도 안에 있는 오벨리스크의 거울을 찾아 돌아올 수 있습니다.\n\n회색 구조물은 초월공학 초지능이 만든 것처럼 보입니다. 하지만 목적과 나이, 공간의 한계를 알 수 있는 방법은 없습니다.\n\n오벨리스크는 손상을 입었으며 불안정하므로, 억제되지 않으면 에너지 등급이 증가합니다. 완전히 활성화되면 임의로 사람을 납치하기 시작할 수도 있습니다.\n\n이제 비뚤어진 오벨리스크에서 의도적으로 반응을 유발할 수 있습니다.</UV_Grav_WarpedObelisk_Abductor.comps.5.studyNotes.1.text>
+  <!--Original=A large metallic core that emanates a putrid psychic energy. The core hums ominously and appears to be increasing in activity. It&apos;s not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena.-->
+  <UV_Grav_WarpedObelisk_Blood.description>불쾌한 정신 에너지를 발산하는 거대한 금속 핵입니다. 불길하게 웅웅거리고 있으며, 점점 활발해지는 것처럼 보입니다. 완전한 상태에 도달하면 어떤 일이 벌어질지는 알 수 없습니다.\n\n정착민을 보내 오벨리스크를 억제하여 활성화를 막을 수 있습니다. 오벨리스크에 표시를 남기고 그것의 기능을 계속 조사한다면 오벨리스크를 유리하게 사용할 수 있을지도 모릅니다.\n\n오벨리스크는 공격해 파괴할 수도 있지만, 그러면 비정상적이고 위험한 현상이 나타날 수 있습니다.</UV_Grav_WarpedObelisk_Blood.description>
+  <!--Original=ripped obelisk-->
+  <UV_Grav_WarpedObelisk_Blood.label>찢어진 오벨리스크</UV_Grav_WarpedObelisk_Blood.label>
+  <!--Original=Blood rain cooldown-->
+  <UV_Grav_WarpedObelisk_Blood.comps.6.onCooldownString>피의 비 재사용 대기시간</UV_Grav_WarpedObelisk_Blood.comps.6.onCooldownString>
+  <!--Original=BloodRain...-->
+  <UV_Grav_WarpedObelisk_Blood.comps.6.activateLabelString>피의 비...</UV_Grav_WarpedObelisk_Blood.comps.6.activateLabelString>
+  <!--Original=Provoke the obelisk to trigger Unnatural Darkness in an Blood rain-->
+  <UV_Grav_WarpedObelisk_Blood.comps.6.activateDescString>오벨리스크를 자극하여 불완전한 피의 비를 내리게 하세요.</UV_Grav_WarpedObelisk_Blood.comps.6.activateDescString>
+  <!--Original=triggering obelisk blood rain: {1}s-->
+  <UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.activatingString>오벨리스크 피의 비 작동 중: {1}초</UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.activatingString>
+  <!--Original=triggering obelisk blood rain-->
+  <UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.activatingStringPending>오벨리스크 피의 비 작동 중</UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.activatingStringPending>
+  <!--Original=Choose who should do this-->
+  <UV_Grav_WarpedObelisk_Blood.comps.6.guiLabelString>이것을 할 사람을 선택하세요</UV_Grav_WarpedObelisk_Blood.comps.6.guiLabelString>
+  <!--Original=Trigger blood rain-->
+  <UV_Grav_WarpedObelisk_Blood.comps.6.jobString>피의 비 작동</UV_Grav_WarpedObelisk_Blood.comps.6.jobString>
+  <!--Original={PAWN_nameDef} has successfully triggered blood rain.-->
+  <UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.messageCompletedString>{PAWN_nameDef}(이)가 성공적으로 오벨리스크 피의 비를 작동시켰습니다.</UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.messageCompletedString>
+  <!--Original=The ripped obelisk is ready to use again.-->
+  <UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.messageCooldownEnded>찢어진 오벨리스크를 다시 사용할 준비가 되었습니다.</UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <!--Original=Blood rain cooldown-->
+  <UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.onCooldownString>피의 비 재사용 대기시간</UV_Grav_WarpedObelisk_Blood.comps.CompObeliskTriggerInteractor.onCooldownString>
+  <!--Original=Obelisk study progress-->
+  <UV_Grav_WarpedObelisk_Blood.comps.5.studyNotes.0.label>오벨리스크 조사 진행</UV_Grav_WarpedObelisk_Blood.comps.5.studyNotes.0.label>
+  <!--Original=Investigation of the obelisk has revealed some information. It is an archotechnological device that seems to interact with organic creatures at a distance. It is probably a piece of a much larger archotech structure that was destroyed or broken apart long ago. The machinery at its core is inhumanly complex and frighteningly powerful. Its purpose and method of action remain totally mysterious.\n\nIf not suppressed, its activity level will increase over time. You can&apos;t tell what will happen when the device fully activates.-->
+  <UV_Grav_WarpedObelisk_Blood.comps.5.studyNotes.0.text>오벨리스크에 대한 조사로 약간의 정보를 밝혀냈습니다. 오벨리스크는 일종의 초월공학 장치로, 유기적인 생물들과 원격으로 상호작용하는 것 같습니다. 아마도 오래 전에 파괴되었거나 조각난 더 큰 초월공학 구조물의 일부일지도 모릅니다. 중심에 있는 기계는 비인간적으로 복잡하며 깜짝 놀랄 정도로 강력합니다. 그 목적과 행위의 작동원리는 완전히 수수께끼입니다.\n\n만약 제때 억제하지 않으면 활성 등급이 점차 증가할 것입니다. 장치가 완전히 활성화되면 무슨 일이 일어날지 알 수 없습니다.</UV_Grav_WarpedObelisk_Blood.comps.5.studyNotes.0.text>
+  <!--Original=Obelisk study complete-->
+  <UV_Grav_WarpedObelisk_Blood.comps.5.studyNotes.1.label>오벨리스크 조사 완료</UV_Grav_WarpedObelisk_Blood.comps.5.studyNotes.1.label>
+  <!--Original=You have completed your investigation of the obelisk. It can emit a powerful psychic pulse and trigger Unnatural Darkness.
+You can manually trigger the obelisk, which will significantly weaken the pulse&apos;s intensity, allowing your colonists to safely operate within the darkness.-->
+  <UV_Grav_WarpedObelisk_Blood.comps.5.studyNotes.1.text>오벨리스크 조사를 완료했습니다. 이 장치는 강력한 정신파를 방출하여 장시간 지속되는 피의 비를 내리게 할 수 있습니다.\n\n이제 뒤틀린 오벨리스크에서 의도적으로 반응을 유발할 수 있습니다. 의도적으로 반응을 유발하면 정신파의 강도를 대폭 약화시켜 피의 비가 지속되는 시간을 줄일 수 있습니다.</UV_Grav_WarpedObelisk_Blood.comps.5.studyNotes.1.text>
+  <!--Original=A large metallic core that emanates a putrid psychic energy. The core hums ominously and appears to be increasing in activity. It&apos;s not clear what will happen when it reaches its full capacity.\n\nYou can send colonists to suppress the obelisk to prevent it from activating. You can also mark the obelisk for study to try to learn its purpose and perhaps make use of it.\n\nYou can attack the obelisk to destroy it, but doing so may unleash unnatural and dangerous phenomena.-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.description>불쾌한 정신 에너지를 발산하는 거대한 금속 핵입니다. 불길하게 웅웅거리고 있으며, 점점 활발해지는 것처럼 보입니다. 완전한 상태에 도달하면 어떤 일이 벌어질지는 알 수 없습니다.\n\n정착민을 보내 오벨리스크를 억제하여 활성화를 막을 수 있습니다. 오벨리스크에 표시를 남기고 그것의 기능을 계속 조사한다면 오벨리스크를 유리하게 사용할 수 있을지도 모릅니다.\n\n오벨리스크는 공격해 파괴할 수도 있지만, 그러면 비정상적이고 위험한 현상이 나타날 수 있습니다.</UV_Grav_WarpedObelisk_UnnaturalDarkness.description>
+  <!--Original=thorn obelisk-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.label>가시 오벨리스크</UV_Grav_WarpedObelisk_UnnaturalDarkness.label>
+  <!--Original=darkness cooldown-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.onCooldownString>부자연스러운 어둠 재사용 대기시간</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.onCooldownString>
+  <!--Original=BloodRain...-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.activateLabelString>부자연스러운 어둠...</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.activateLabelString>
+  <!--Original=Provoke the obelisk to trigger Unnatural Darkness in an Unnatural darkness-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.activateDescString>오벨리스크를 자극하여 불완전한 부자연스러운 어둠이 오게 하세요.</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.activateDescString>
+  <!--Original=triggering obelisk darkness: {1}s-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.activatingString>오벨리스크 부자연스러운 어둠 작동 중: {1}초</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.activatingString>
+  <!--Original=triggering obelisk darkness-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.activatingStringPending>오벨리스크 부자연스러운 어둠 작동 중</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.activatingStringPending>
+  <!--Original=Choose who should do this-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.guiLabelString>이것을 할 사람을 선택하세요</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.guiLabelString>
+  <!--Original=Trigger darkness-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.jobString>부자연스러운 어둠 작동</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.6.jobString>
+  <!--Original={PAWN_nameDef} has successfully triggered obelisk darkness.-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.messageCompletedString>{PAWN_nameDef}(이)가 성공적으로 오벨리스크 부자연스러운 어둠을 작동시켰습니다.</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.messageCompletedString>
+  <!--Original=The warped obelisk is ready to use again.-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.messageCooldownEnded>가시 오벨리스크를 다시 사용할 준비가 되었습니다.</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.messageCooldownEnded>
+  <!--Original=darkness cooldown-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.onCooldownString>부자연스러운 어둠 재사용 대기시간</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.CompObeliskTriggerInteractor.onCooldownString>
+  <!--Original=Obelisk study progress-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.5.studyNotes.0.label>오벨리스크 조사 진행</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.5.studyNotes.0.label>
+  <!--Original=Investigation of the obelisk has revealed some information. It is an archotechnological device that seems to interact with organic creatures at a distance. It is probably a piece of a much larger archotech structure that was destroyed or broken apart long ago. The machinery at its core is inhumanly complex and frighteningly powerful. Its purpose and method of action remain totally mysterious.\n\nIf not suppressed, its activity level will increase over time. You can&apos;t tell what will happen when the device fully activates.-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.5.studyNotes.0.text>오벨리스크에 대한 조사로 약간의 정보를 밝혀냈습니다. 오벨리스크는 일종의 초월공학 장치로, 유기적인 생물들과 원격으로 상호작용하는 것 같습니다. 아마도 오래 전에 파괴되었거나 조각난 더 큰 초월공학 구조물의 일부일지도 모릅니다. 중심에 있는 기계는 비인간적으로 복잡하며 깜짝 놀랄 정도로 강력합니다. 그 목적과 행위의 작동원리는 완전히 수수께끼입니다.\n\n만약 제때 억제하지 않으면 활성 등급이 점차 증가할 것입니다. 장치가 완전히 활성화되면 무슨 일이 일어날지 알 수 없습니다.</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.5.studyNotes.0.text>
+  <!--Original=Obelisk study complete-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.5.studyNotes.1.label>오벨리스크 조사 완료</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.5.studyNotes.1.label>
+  <!--Original=You have completed your investigation of the obelisk. It can emit a powerful psychic pulse and trigger a prolonged BloodRain.
+You can manually trigger the obelisk, which will significantly weaken the pulse&apos;s intensity and reduce the duration of the blood rain.-->
+  <UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.5.studyNotes.1.text>오벨리스크 조사를 완료했습니다. 이 장치는 강력한 정신파를 방출하여 부자연스러운 어둠이 오게 할 수 있습니다.\n\n이제 가시 오벨리스크에서 의도적으로 반응을 유발할 수 있습니다. 의도적으로 반응을 유발하면 정신파의 강도를 대폭 약화시켜 정착민들이 어둠 속에서도 안전하게 활동할 수 있게 됩니다.</UV_Grav_WarpedObelisk_UnnaturalDarkness.comps.5.studyNotes.1.text>
+  <!--Original=void holding platform-->
+  <UV_VoidHoldingPlatform.label>공허 구속대</UV_VoidHoldingPlatform.label>
+  <!--Original=A platform used for the complete containment of dangerous entities. Crafted from fragments of the Void Monolith, it renders all contained entities utterly powerless to resist.
+Downed entities can be captured and secured on a holding platform,where they can be studied for Anomaly knowledge.increase containment strength by building strong walls and doors,and other special containment devices.-->
+  <UV_VoidHoldingPlatform.description>위험한 실체를 완전히 구속하기 위한 구속대입니다. 모노리스의 조각으로 제작되어, 구속된 모든 실체의 저항 능력을 완전히 상실시킵니다.\n\n쓰러진 실체를 포획하여 구속대에 고정하고 조사하면 이상 현상 연구를 진행할 수 있습니다. 주변에 강한 벽, 문, 기타 특수 억제 장치를 건설하면 더욱 효과적인 구속이 가능합니다.</UV_VoidHoldingPlatform.description>
+  <!--Original=biomutation terraformer-->
+  <UV_BiomutationTerraformer.label>생체변이 테라포머</UV_BiomutationTerraformer.label>
+  <!--Original=A scavenged archotech shard mounted in an electrical stimulation frame. The device creates a frenzied psychic vibration in the local area which stimulates everyone nearby to move and work faster. However, any mental breaks they have are guaranteed to be violent.-->
+  <UV_BiomutationTerraformer.description>초월공학 파편으로 작동하는 대기 투사 장치입니다. 생체강을 태움으로서 호흡 가능한 다량의 공기 분자를 생성하고 이를 일정 범위 내에 가두어, 안전하게 호흡할 수 있는 구역을 만듭니다. 또한 이 구역은 열이 우주로 빠져나가지 않도록 붙잡아 두어 해당 지역의 실외 온도 최저치를 크게 높여줍니다.</UV_BiomutationTerraformer.description>
+  <!--Original=pit gate-->
+  <UV_DreadmeldPitGate.label>지하 통로</UV_DreadmeldPitGate.label>
+  <!--Original=A massive, foreboding hole that connects the surface with a dark network of underground caves. It is possible to climb down into the caverns below.-->
+  <UV_DreadmeldPitGate.description>거대하고 불길한 구멍으로, 정착지를 거미줄처럼 뻗친 어두운 지하 동굴과 연결합니다. 동굴 안은 들어가 탐험할 수 있을 정도로 넓습니다.</UV_DreadmeldPitGate.description>
+  <!--Original=pit gate-->
+  <UV_HeartPitGate.label>지하 통로</UV_HeartPitGate.label>
+  <!--Original=A massive, foreboding hole that connects the surface with a dark network of underground caves. It is possible to climb down into the caverns below.-->
+  <UV_HeartPitGate.description>거대하고 불길한 구멍으로, 정착지를 거미줄처럼 뻗친 어두운 지하 동굴과 연결합니다. 동굴 안은 들어가 탐험할 수 있을 정도로 넓습니다.</UV_HeartPitGate.description>
+  <!--Original=ancient stockpile entrance-->
+  <UV_AncientHatch.label>고대 저장고 입구</UV_AncientHatch.label>
+  <!--Original=The entrance to a longーabandoned subterranean facility. Hack it to open the hatch.-->
+  <UV_AncientHatch.description>오랫동안 방치된 지하 시설로 통하는 입구입니다. 해킹하여 열 수 있습니다.</UV_AncientHatch.description>
+  <!--Original={HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}.-->
+  <UV_AncientHatch.comps.CompHackable.hackedMessage>{HACKER_labelShort}(이)가 {SUBJECT_labelNoParenthesisDef} 해킹을 완료했습니다.</UV_AncientHatch.comps.CompHackable.hackedMessage>
+  <!--Original=Hack to open.-->
+  <UV_AncientHatch.comps.CompHackable.notHackedInspectString>해킹하여 열기.</UV_AncientHatch.comps.CompHackable.notHackedInspectString>
+  <!--Original=Sealed-->
+  <UV_AncientHatch.comps.CompSealable.cannotEnterLabel>봉인됨</UV_AncientHatch.comps.CompSealable.cannotEnterLabel>
+  <!--Original=Cannot seal-->
+  <UV_AncientHatch.comps.CompSealable.cannotSealLabel>봉인할 수 없음</UV_AncientHatch.comps.CompSealable.cannotSealLabel>
+  <!--Original=Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue?-->
+  <UV_AncientHatch.comps.CompSealable.confirmSealText>고대 저장고 입구를 영원히 봉인하게 됩니다. 아래 남겨진 모든 것은 영원히 사라집니다.{0}\n\n계속하시겠습니까?</UV_AncientHatch.comps.CompSealable.confirmSealText>
+  <!--Original=Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever.-->
+  <UV_AncientHatch.comps.CompSealable.sealCommandDesc>입구를 영구적으로 봉인합니다. 안에 남겨진 모든 사람과 물건은 영원히 사라집니다.</UV_AncientHatch.comps.CompSealable.sealCommandDesc>
+  <!--Original=Seal entrance-->
+  <UV_AncientHatch.comps.CompSealable.sealCommandLabel>입구 봉인</UV_AncientHatch.comps.CompSealable.sealCommandLabel>
+  <!--Original=Permanently sealed.-->
+  <UV_AncientHatch.comps.CompSealable.sealedInspectString>영구적으로 봉인됨</UV_AncientHatch.comps.CompSealable.sealedInspectString>
+  <!--Original=bioferrite slag box-->
+  <UV_BioferriteSlagBox.label>생체강 상자</UV_BioferriteSlagBox.label>
+  <!--Original=A box filled with valuable bioferrite. Some are intact and useable.-->
+  <UV_BioferriteSlagBox.description>가치있는 생체강으로 가득 찬 상자입니다. 일부는 온전해서 사용할 수 있습니다.</UV_BioferriteSlagBox.description>
+  <!--Original=small flesh chemfuel tank-->
+  <UV_FleshChemfuelTank.label>소형 살덩이 화학연료 탱크</UV_FleshChemfuelTank.label>
+  <!--Original=A fuel storage tank for grav ship thrusters. Equipped with an internal fleshーculturing apparatus that continuously generates chemfuel.-->
+  <UV_FleshChemfuelTank.description>중력부양선의 추진기에 연료를 공급하는 화학연료 저장 탱크입니다. 내부에는 살덩이 배양 장치가 장착되어 있어 화학연료를 끊임없이 생성할 수 있습니다.</UV_FleshChemfuelTank.description>
+  <!--Original=Chemfuel-->
+  <UV_FleshChemfuelTank.comps.3.fuelLabel>화학연료</UV_FleshChemfuelTank.comps.3.fuelLabel>
+  <!--Original=Chemfuel-->
+  <UV_FleshChemfuelTank.comps.3.fuelGizmoLabel>화학연료</UV_FleshChemfuelTank.comps.3.fuelGizmoLabel>
+  <!--Original=large flesh chemfuel tank-->
+  <UV_FleshLargeChemfuelTank.label>대형 살덩이 화학연료 탱크</UV_FleshLargeChemfuelTank.label>
+  <!--Original=A largeーscale fuel storage tank for grav ship thrusters. Features an integrated fleshmass nucleus containment housing that enables continuous chemfuel production.-->
+  <UV_FleshLargeChemfuelTank.description>중력부양선의 추진기에 연료를 공급하는 대형 화학연료 저장 탱크입니다. 내부에 살덩이 핵 격리 장치가 있어 화학연료를 끊임없이 생성할 수 있습니다.</UV_FleshLargeChemfuelTank.description>
+  <!--Original=Chemfuel-->
+  <UV_FleshLargeChemfuelTank.comps.4.fuelLabel>화학연료</UV_FleshLargeChemfuelTank.comps.4.fuelLabel>
+  <!--Original=Chemfuel-->
+  <UV_FleshLargeChemfuelTank.comps.4.fuelGizmoLabel>화학연료</UV_FleshLargeChemfuelTank.comps.4.fuelGizmoLabel>
+  <!--Original=void grav field extender-->
+  <UV_VoidGravFieldExtender.label>공허 중력장 확장기</UV_VoidGravFieldExtender.label>
+  <!--Original=A technological device used to increase the scale of a grav ship. Unlike standard extenders, the Void Field Extender augments the effective range of the GravEngine itself and increases the number of supported gantries the grav ship can maintain. Must be constructed within proximity of a GravEngine.
+A single grav ship can support a maximum of ten Void Field Extenders.-->
+  <UV_VoidGravFieldExtender.description>중력부양선의 크기를 확장할 때 필요한 기술 장치입니다. 일반적인 중력장 확장기와 달리, 공허 중력장 확장기는 중력구동기 자체의 영역를 넓혀주며, 중력부양선이 지탱할 수 있는 하부구조의 총량도 증가시켜줍니다. 반드시 중력구동기 근처에 설치해야 합니다.\n\n중력부양선에는 최대 10개의 공허 중력장 확장기를 설치할 수 있습니다.</UV_VoidGravFieldExtender.description>
+  <!--Original=void thruster-->
+  <UV_VoidThruster.label>공허 추진기</UV_VoidThruster.label>
+  <!--Original=An arcane thruster constructed from Monolith fragments, which significantly increases the range of a grav ship. It also drastically reduces the ship&apos;s flight energy consumption via dark energy. The thruster must be placed in an open area, clear of large structures and grav ship gantries.
+A single grav ship can be equipped with a maximum of one VoidThruster.-->
+  <UV_VoidThruster.description>모노리스 조각을 사용하여 제작한 초월적 추진기입니다. 중력부양선의 비행 거리를 상당히 늘려줍니다. 또한 암흑 에너지를 통해 비행 시 소모되는 연료를 대폭 감소시킵니다. 추진기 설치에는 큰 건물과 중력부양선 하부구조가 없는 빈 공간이 필요합니다.\n\n중력부양선에는 최대 1개의 공허 추진기를 설치할 수 있습니다.</UV_VoidThruster.description>
+  <!--Original=entity anatomy table-->
+  <UV_ResearchBenchButcher.label>실체 해부대</UV_ResearchBenchButcher.label>
+  <!--Original=A research bench equipped with dissection tools and waste disposal systems. Used to dissect entity corpses to deepen the understanding of anomalous lifeforms and gain Anomaly research points. Rotted or desiccated corpses cannot be dissected.-->
+  <UV_ResearchBenchButcher.description>해부 도구와 폐기물 처리 시스템을 갖춘 연구 작업대입니다. 실체의 시체를 해부하여 이상 현상 생물에 대한 이해를 높이고 이상 현상 연구 점수를 얻는데 사용됩니다. 부패하거나 백골화된 시체는 해부할 수 없습니다.</UV_ResearchBenchButcher.description>
+  <!--Original=gold prototype-->
+  <UV_GoldenPrototype.label>황금 껍데기</UV_GoldenPrototype.label>
+  <!--Original=A delicate, small sculpture made of gold, depicting a golden bird with its wings unfurled, breathtakingly lifelike. If you draw closer, you can almost sense a faint, supernatural hum.-->
+  <UV_GoldenPrototype.description>금으로 만들어진 작고 정교한 조각상으로, 날개를 펼친 황금 새의 모습이 마치 살아있는 듯 생생합니다. 가까이 다가가면 초자연적인 미세한 웅웅거림이 느껴지는 것만 같습니다.</UV_GoldenPrototype.description>
+  <!--Original=golden canary-->
+  <UV_GoldenCanary.label>황금 카나리아</UV_GoldenCanary.label>
+  <!--Original=A golden avian automaton, brought to life through an arcane ritual. It moves with an uncanny, fluid grace, its metallic feathers catching the light with a warm, soothing glow. The creature emits a constant, low hum that brings a strange sense of calm to all who hear it. It is immune to injury, disease, and age, serving as a temporary, serene guardian until its borrowed time expires.-->
+  <UV_GoldenCanary.description>초정신 의식을 통해 생명을 얻은 황금빛 기계 새입니다. 이 생물은 기이할 정도로 유연하고 우아하게 움직이며, 금속 깃털은 따스하고 안심시키는 빛을 발합니다. 또한 끊임없이 낮게 웅웅거리는 소리를 내어, 그 소리를 듣는 모든 이에게 기묘한 평온함을 가져다줍니다. 상처를 입거나 병들지 않으며 노화하지도 않지만, 빌려온 시간이 다할 때까지만 존재하는 일시적인 고요한 수호자입니다.</UV_GoldenCanary.description>
+  <!--Original=claws-->
+  <UV_GoldenCanary.tools.claws.label>발톱</UV_GoldenCanary.tools.claws.label>
+  <!--Original=beak-->
+  <UV_GoldenCanary.tools.beak.label>부리</UV_GoldenCanary.tools.beak.label>
+  <!--Original=head-->
+  <UV_GoldenCanary.tools.head.label>머리</UV_GoldenCanary.tools.head.label>
+  <!--Original=quantum coherence chip-->
+  <UV_QuantumCoherenceChip.label>양자 동조 칩</UV_QuantumCoherenceChip.label>
+  <!--Original=A miniature quantumーcoherence mechanical component used to repurpose mechanoid wrecks. It overrides the target&apos;s hostile protocols and rewrites its hardware signature to align with your faction.-->
+  <UV_QuantumCoherenceChip.description>메카노이드 잔해를 재활용하는 데 사용되는 소형 양자 동조 기계 부품입니다. 기계입자 혈청과 유사한 방법으로 다른 세력의 메카노이드 잔해에 사용할 수 있으며, 사용 후 해당 잔해의 세력은 플레이어 측으로 변경됩니다.</UV_QuantumCoherenceChip.description>
+  <!--Original=Use {0_label}-->
+  <UV_QuantumCoherenceChip.comps.CompUsable.useLabel>{0_label} 사용</UV_QuantumCoherenceChip.comps.CompUsable.useLabel>
+  <!--Original=overclock broadcast-->
+  <UV_OverclockBroadcast.label>오버클럭 방송기</UV_OverclockBroadcast.label>
+  <!--Original=A chip that enables the Mechanitor to dramatically enhance control links, providing remote power supply and distributed computing. All friendly mechanoids on the same map as the Mechanitor will gain increased movement speed and work efficiency.-->
+  <UV_OverclockBroadcast.description>메카나이터가 제어 연결을 극도로 강화하여 원격 전력 공급 및 분할 연산을 가능하게 하는 칩입니다. 메카나이터와 같은 지도에 있는 모든 아군 메카노이드는 더 빠르게 움직이고 작동합니다.</UV_OverclockBroadcast.description>
+  <!--Original=Implant sublink-->
+  <UV_OverclockBroadcast.comps.CompUsableImplant.useLabel>{0_label} 설치</UV_OverclockBroadcast.comps.CompUsableImplant.useLabel>
+</LanguageData>

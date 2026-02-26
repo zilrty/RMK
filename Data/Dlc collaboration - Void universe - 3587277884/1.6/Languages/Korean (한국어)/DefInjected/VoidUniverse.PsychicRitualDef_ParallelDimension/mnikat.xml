@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=parallel dimension-->
+  <UV_ParallelDimension.label>평행 차원</UV_ParallelDimension.label>
+  <!--Original=Consumes vast quantities of Biometal while maximizing ritual energy, transporting the entire region to a nearby similar dimension. This process refreshes all local landmarks and repairs grav launch ruins.-->
+  <UV_ParallelDimension.description>막대한 양의 생체강을 소모하고 의식 에너지를 극대화하여 지역 전체를 인접한 유사 차원으로 이동시킵니다. 이 과정에서 주변의 모든 지역 특징들이 재설정되며 중력부양선 발사 장소들이 복구됩니다.</UV_ParallelDimension.description>
+</LanguageData>

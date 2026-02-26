@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>##packageId##ceteam.combatextended</li>
+      <li>##packageId##ceteam.combatextended_steam</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaThrumboHorn"]/description</xpath>
+          <value>
+            <description>An anima thrumbo's horn. It's razor-sharp, rock-hard. This is a true trophy.</description>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaWargFang"]/tools/li[1]/label</xpath>
+          <value>
+            <label>handle</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaWargFang"]/tools/li[2]/label</xpath>
+          <value>
+            <label>blade</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaWargFang"]/tools/li[3]/label</xpath>
+          <value>
+            <label>point</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="MeleeWeapon_RazorfangKnife"]/tools/li[1]/label</xpath>
+          <value>
+            <label>handle</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="MeleeWeapon_RazorfangKnife"]/tools/li[2]/label</xpath>
+          <value>
+            <label>blade</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="MeleeWeapon_RazorfangKnife"]/tools/li[3]/label</xpath>
+          <value>
+            <label>point</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaThrumbo"]/tools/li[1]/label</xpath>
+          <value>
+            <label>anima horn</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaThrumbo"]/tools/li[2]/label</xpath>
+          <value>
+            <label>horn</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaThrumbo"]/tools/li[3]/label</xpath>
+          <value>
+            <label>left foot</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaThrumbo"]/tools/li[4]/label</xpath>
+          <value>
+            <label>right foot</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaThrumbo"]/tools/li[6]/label</xpath>
+          <value>
+            <label>head</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaWarg"]/tools/li[1]/label</xpath>
+          <value>
+            <label>left claw</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaWarg"]/tools/li[2]/label</xpath>
+          <value>
+            <label>right claw</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaWarg"]/tools/li[4]/label</xpath>
+          <value>
+            <label>head</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaBear"]/tools/li[1]/label</xpath>
+          <value>
+            <label>left claw</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaBear"]/tools/li[2]/label</xpath>
+          <value>
+            <label>right claw</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaBear"]/tools/li[4]/label</xpath>
+          <value>
+            <label>head</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaYak"]/tools/li[2]/label</xpath>
+          <value>
+            <label>horns</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaYak"]/tools/li[3]/label</xpath>
+          <value>
+            <label>horns</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaMuffalo"]/tools/li[1]/label</xpath>
+          <value>
+            <label>head</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaFox"]/tools/li[1]/label</xpath>
+          <value>
+            <label>left claw</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaFox"]/tools/li[2]/label</xpath>
+          <value>
+            <label>right claw</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaFox"]/tools/li[4]/label</xpath>
+          <value>
+            <label>head</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="AnimaMegaspider"]/tools/li[3]/label</xpath>
+          <value>
+            <label>head</label>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

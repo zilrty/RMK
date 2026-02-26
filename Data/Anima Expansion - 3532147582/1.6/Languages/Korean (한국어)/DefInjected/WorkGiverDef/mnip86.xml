@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Romy_DoBillsInscribeScrolls.label>두루마리 기록</Romy_DoBillsInscribeScrolls.label>
+  <Romy_DoBillsInscribeScrolls.verb>기록</Romy_DoBillsInscribeScrolls.verb>
+  <Romy_DoBillsInscribeScrolls.gerund>두루마리 기록 중:</Romy_DoBillsInscribeScrolls.gerund>
+  <Romy_DoBillsExtractAnimaEssence.label>영혼 정수 추출</Romy_DoBillsExtractAnimaEssence.label>
+  <Romy_DoBillsExtractAnimaEssence.verb>추출</Romy_DoBillsExtractAnimaEssence.verb>
+  <Romy_DoBillsExtractAnimaEssence.gerund>영혼 정수 추출 중:</Romy_DoBillsExtractAnimaEssence.gerund>
+</LanguageData>

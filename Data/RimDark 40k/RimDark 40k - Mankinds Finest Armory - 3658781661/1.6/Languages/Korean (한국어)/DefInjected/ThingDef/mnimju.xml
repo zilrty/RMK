@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BEWH_AstartesBoltPistol.label>볼트 피스톨</BEWH_AstartesBoltPistol.label>
+  <BEWH_AstartesBoltPistol.description>아뎁투스 아스타르테스의 표준 근거리 보조 무기로, 질량 반응탄을 발사합니다. 작고 신뢰성이 높으며 다재다능하여, 일반 볼터의 치명성을 유지하면서도 근접전에서 가장 효과적입니다.\n\n사용 가능한 탄약: 표준형, 인페르노</BEWH_AstartesBoltPistol.description>
+  <BEWH_AstartesBoltPistol.verbs.Verb_ShootChangeableBullets.label>볼트 피스톨</BEWH_AstartesBoltPistol.verbs.Verb_ShootChangeableBullets.label>
+  
+  <BEWH_AstartesBoltCarbine.label>볼트 카빈</BEWH_AstartesBoltCarbine.label>
+  <BEWH_AstartesBoltCarbine.description>주로 특수 작전에 사용되는 Mk. II 카울 패턴 섀시를 기반으로 제작된 다목적 속사 무기입니다. 작지만 강력하며, 다양한 특수 탄약을 장전할 수 있어 사용자가 어떤 전장 상황에도 적응할 수 있게 해줍니다.\n\n사용 가능한 탄약: 표준형, 인페르노, 메탈 스톰, 템페스트</BEWH_AstartesBoltCarbine.description>
+  <BEWH_AstartesBoltCarbine.verbs.Verb_ShootChangeableBullets.label>볼트 카빈</BEWH_AstartesBoltCarbine.verbs.Verb_ShootChangeableBullets.label>
+  
+  <BEWH_AstartesBoltCarbine_Oculus.label>오큘러스 볼트 카빈</BEWH_AstartesBoltCarbine_Oculus.label>
+  <BEWH_AstartesBoltCarbine_Oculus.description>볼트 카빈의 정밀 타격 파생형으로, 고급 광학 장비를 탑재해 연사력을 희생한 대신 뛰어난 사거리와 명중률을 자랑합니다. 다재다능함과 다양한 탄약 호환성은 그대로 유지됩니다.\n\n사용 가능한 탄약: 표준형, 인페르노, 메탈 스톰, 템페스트</BEWH_AstartesBoltCarbine_Oculus.description>
+  <BEWH_AstartesBoltCarbine_Oculus.verbs.Verb_ShootChangeableBullets.label>오큘러스 볼트 카빈</BEWH_AstartesBoltCarbine_Oculus.verbs.Verb_ShootChangeableBullets.label>
+  
+  <BEWH_AstartesBoltRifle_Stalker.label>스토커 볼트 라이플</BEWH_AstartesBoltRifle_Stalker.label>
+  <BEWH_AstartesBoltRifle_Stalker.description>스토커 볼터라고도 불리는 스토커 볼트 라이플은 Mk. II 카울 패턴 섀시를 사용하는 아뎁투스 아스타르테스의 장거리 정밀 전투 소총입니다. 크라켄 볼트를 장전할 수 있어 중장갑 목표물을 상대로 뛰어난 성능을 발휘합니다.\n\n사용 가능한 탄약: 표준형, 크라켄</BEWH_AstartesBoltRifle_Stalker.description>
+  <BEWH_AstartesBoltRifle_Stalker.verbs.Verb_ShootChangeableBullets.label>스토커 볼트 라이플</BEWH_AstartesBoltRifle_Stalker.verbs.Verb_ShootChangeableBullets.label>
+  
+  <BEWH_AstartesBoltPistol_Heavy.label>헤비 볼트 피스톨</BEWH_AstartesBoltPistol_Heavy.label>
+  <BEWH_AstartesBoltPistol_Heavy.description>아뎁투스 아스타르테스의 강력한 근거리 보조 무기로, 대형 질량 반응탄을 발사합니다. 작지만 일반형보다 훨씬 더 큰 피해를 주어 덩치가 크고 중무장한 적에게 매우 효과적입니다.\n\n사용 가능한 탄약: 헤비 볼트</BEWH_AstartesBoltPistol_Heavy.description>
+  <BEWH_AstartesBoltPistol_Heavy.verbs.Verb_Shoot.label>헤비 볼트 피스톨</BEWH_AstartesBoltPistol_Heavy.verbs.Verb_Shoot.label>
+  
+  <BEWH_AstartesBoltRifle_Heavy.label>헤비 볼트 라이플</BEWH_AstartesBoltRifle_Heavy.label>
+  <BEWH_AstartesBoltRifle_Heavy.description>아뎁투스 아스타르테스의 헤비 인터세서들이 주로 사용하는 장거리 지원 화기입니다. 지속적인 화력 투사와 저지력을 위해 설계되었으며, 대구경 질량 반응탄을 발사합니다. 표준 볼터보다 다루기 무겁고 연사 속도가 느리지만, 적의 진형을 제압하고 요새화된 진지를 돌파하는 데 탁월합니다.\n\n사용 가능한 탄약: 헤비 볼트</BEWH_AstartesBoltRifle_Heavy.description>
+  <BEWH_AstartesBoltRifle_Heavy.verbs.Verb_Shoot.label>헤비 볼트 라이플</BEWH_AstartesBoltRifle_Heavy.verbs.Verb_Shoot.label>
+  
+  <BEWH_AstartesBoltRifle_Sniper.label>스나이퍼 볼트 라이플</BEWH_AstartesBoltRifle_Sniper.label>
+  <BEWH_AstartesBoltRifle_Sniper.description>아뎁투스 아스타르테스의 장거리 정밀 무기로, 파괴적인 충격을 가하는 대구경 헤비 볼트를 발사합니다. 숙련된 사수라면 아주 먼 거리에서도 적의 정예병과 주요 목표를 제거할 수 있습니다. 연사 속도가 느리다는 단점은 극한의 유효 사거리와 헤비 볼트가 제공하는 타의 추종을 불허하는 살상력으로 상쇄됩니다.\n\n사용 가능한 탄약: 헤비 볼트</BEWH_AstartesBoltRifle_Sniper.description>
+  <BEWH_AstartesBoltRifle_Sniper.verbs.Verb_Shoot.label>스나이퍼 볼트 라이플</BEWH_AstartesBoltRifle_Sniper.verbs.Verb_Shoot.label>
+  
+  <BEWH_AstartesKnife.label>컴뱃 나이프</BEWH_AstartesKnife.label>
+  <BEWH_AstartesKnife.description>진 시드 이식 수술에서 회복된 모든 스페이스 마린에게 지급되는 표준 아스타르테스 컴뱃 나이프입니다. 일반적인 인간의 소검과 비슷한 크기이며, 결코 무뎌지지 않는 단분자 칼날을 가지고 있습니다.\n\n패시브: 종결의 정밀함 - 공격 시 낮은 확률로 적에게 치명적인 피해를 줍니다.</BEWH_AstartesKnife.description>
+  <BEWH_AstartesKnife.tools.0.label>손잡이</BEWH_AstartesKnife.tools.0.label>
+  <BEWH_AstartesKnife.tools.1.label>칼날</BEWH_AstartesKnife.tools.1.label>
+  
+  <BEWH_AstartesPowerSword_Judiciar.label>주디시어 파워 소드</BEWH_AstartesPowerSword_Judiciar.label>
+  <BEWH_AstartesPowerSword_Judiciar.description>주디시어의 주된 처형 도구인 무거운 양손 파워 소드입니다. 표준 파워 소드보다 휘두르는 속도는 느리지만 더 큰 피해를 줍니다. 그 무게, 균형, 칼날의 형태는 강력하고 정밀한 타격에 최적화되어 있어, 주디시어가 적의 목을 쉽게 벨 수 있게 해줍니다.\n\n패시브: 최후의 심판 - 착용자가 인간형 적의 목을 베어버리는 마무리 일격을 가할 확률이 생깁니다.</BEWH_AstartesPowerSword_Judiciar.description>
+  <BEWH_AstartesPowerSword_Judiciar.tools.0.label>손잡이</BEWH_AstartesPowerSword_Judiciar.tools.0.label>
+  <BEWH_AstartesPowerSword_Judiciar.tools.1.label>칼날</BEWH_AstartesPowerSword_Judiciar.tools.1.label>
+  
+  <BEWH_AstartesChainAxe.label>체인액스</BEWH_AstartesChainAxe.label>
+  <BEWH_AstartesChainAxe.description>대형 전투 도끼의 형태와 전동 전기톱의 칼날을 결합한 잔혹한 근접 무기입니다. 회전하는 단분자 톱니가 살점과 장갑을 모두 쉽게 찢어버릴 수 있습니다.</BEWH_AstartesChainAxe.description>
+  <BEWH_AstartesChainAxe.tools.0.label>손잡이</BEWH_AstartesChainAxe.tools.0.label>
+  <BEWH_AstartesChainAxe.tools.1.label>전기톱</BEWH_AstartesChainAxe.tools.1.label>
+  
+  <BEWH_AstartesPowerAxe.label>파워 액스</BEWH_AstartesPowerAxe.label>
+  <BEWH_AstartesPowerAxe.description>붕괴 역장(disruptive energy field)을 방출하여 적의 장갑을 쉽게 쪼개버릴 수 있는 묵직한 근접 무기입니다. 파워 소드보다 민첩성은 떨어지지만, 무거운 무게 덕분에 더 큰 충격을 가합니다. 이 무기는 잔혹하고 무자비한 타격으로 잘 알려져 있으며, 전장에서의 효율성만큼이나 개인적인 취향으로 선택되는 경우가 많습니다.</BEWH_AstartesPowerAxe.description>
+  <BEWH_AstartesPowerAxe.tools.0.label>손잡이</BEWH_AstartesPowerAxe.tools.0.label>
+  <BEWH_AstartesPowerAxe.tools.1.label>칼날</BEWH_AstartesPowerAxe.tools.1.label>
+  
+  <BEWH_AstartesPowerMaul.label>파워 마울</BEWH_AstartesPowerMaul.label>
+  <BEWH_AstartesPowerMaul.description>붕괴 역장을 방출하여 타격할 때마다 장갑과 뼈를 으스러뜨리는 묵직한 근접 무기입니다. 가벼운 무기들보다 속도는 느리지만, 에너지가 깃든 둔기 머리 부분으로 육중한 충격파를 일으켜 적들을 기절시킵니다.</BEWH_AstartesPowerMaul.description>
+  <BEWH_AstartesPowerMaul.tools.0.label>손잡이</BEWH_AstartesPowerMaul.tools.0.label>
+  <BEWH_AstartesPowerMaul.tools.1.label>둔기 머리</BEWH_AstartesPowerMaul.tools.1.label>
+  
+  <BEWH_AstartesThunderhammer.label>썬더해머</BEWH_AstartesThunderhammer.label>
+  <BEWH_AstartesThunderhammer.description>둔기 머리 부분에 에너지 방출기가 통합된 거대한 전투 망치입니다. 썬더해머는 종종 적들을 기절시키는 파괴적이고 충격적인 타격을 가합니다. 휘두르기 느리지만 엄청나게 강력하며, 이 무기의 모든 일격은 천둥과 같은 위력과 굉음과 함께 적중하므로 이러한 이름이 붙었습니다.</BEWH_AstartesThunderhammer.description>
+  <BEWH_AstartesThunderhammer.tools.0.label>손잡이</BEWH_AstartesThunderhammer.tools.0.label>
+  <BEWH_AstartesThunderhammer.tools.1.label>둔기 머리</BEWH_AstartesThunderhammer.tools.1.label>
+  
+  <BEWH_AstartesPowerFist.label>파워 피스트</BEWH_AstartesPowerFist.label>
+  <BEWH_AstartesPowerFist.description>착용자의 근력을 크게 증폭시켜주는 거대한 장갑 건틀릿으로, 무거운 장갑판도 부술 수 있는 붕괴 역장을 생성합니다. 속도는 느리지만 매우 강력하여, 근접전에서 가장 거대한 적들조차 불구가 되게 하거나 죽일 수 있습니다.</BEWH_AstartesPowerFist.description>
+  
+  <BEWH_AstartesLightningClaws.label>라이트닝 클로</BEWH_AstartesLightningClaws.label>
+  <BEWH_AstartesLightningClaws.description>날카로운 세 개의 아다만티움 칼날이 장착된 파워 건틀릿입니다. 각각의 칼날은 붕괴 역장을 방출하여 소형 파워 소드와 같은 역할을 합니다. 덕분에 착용자는 적의 장갑과 살점을 쉽게 찢을 수 있으며, 이는 라이트닝 클로를 치명적인 근접 무기로 만듭니다.</BEWH_AstartesLightningClaws.description>
+  <BEWH_AstartesLightningClaws.tools.0.label>칼날</BEWH_AstartesLightningClaws.tools.0.label>
+  
+  <BEWH_AstartesPlasmaPistol.label>플라즈마 피스톨</BEWH_AstartesPlasmaPistol.label>
+  <BEWH_AstartesPlasmaPistol.description>초고온 물질의 볼트를 발사하는, 고도로 정교하면서도 콤팩트한 보조 무기입니다. 표준 발사 모드에서는 정확도와 사용자의 안전을 위해 투사체가 안정화됩니다. 과충전 모드에서는 안전 프로토콜이 해제되며, 명중 시 격렬하게 폭발하는 매우 불안정한 고열의 플라즈마 볼트를 쏟아냅니다.\n\n사용 가능한 발사 모드: 표준형, 과충전</BEWH_AstartesPlasmaPistol.description>
+  <BEWH_AstartesPlasmaPistol.verbs.Verb_ShootChangeableBullets.label>플라즈마 피스톨</BEWH_AstartesPlasmaPistol.verbs.Verb_ShootChangeableBullets.label>
+  
+  <BEWH_AstartesPlasmaIncinerator.label>플라즈마 인시너레이터</BEWH_AstartesPlasmaIncinerator.label>
+  <BEWH_AstartesPlasmaIncinerator.description>초고온 물질을 쏟아부을 수 있는 거대하고 진보된 무기입니다. 표준 발사 모드에서는 정확도와 사용자의 안전을 위해 투사체가 안정화됩니다. 과충전 모드에서는 안전 프로토콜이 해제되며, 명중 시 격렬하게 폭발하는 매우 불안정한 고열의 플라즈마 볼트를 쏟아냅니다.\n\n사용 가능한 발사 모드: 표준형, 과충전</BEWH_AstartesPlasmaIncinerator.description>
+  <BEWH_AstartesPlasmaIncinerator.verbs.Verb_ShootChangeableBullets.label>플라즈마 인시너레이터</BEWH_AstartesPlasmaIncinerator.verbs.Verb_ShootChangeableBullets.label>
+  
+  <BEWH_BolterRoundKraken.label>크라켄 볼트</BEWH_BolterRoundKraken.label>
+  <BEWH_BolterRoundKraken.description>정밀한 대장갑 임무를 위해 설계된, 흔치 않은 중관통탄입니다. 단단한 다이아만틴 팁과 대상의 내부 시스템을 파괴하는 반응성 코어가 결합되어 있어, 중무장하거나 정예인 적들을 단발에 무력화할 수 있습니다.\n\n에너지 출력이 높기 때문에 단발로 치명적인 사격을 가할 때 더 느리고 신중한 조준이 필요합니다.</BEWH_BolterRoundKraken.description>
+  
+  <BEWH_BolterRoundTempest.label>템페스트 볼트</BEWH_BolterRoundTempest.label>
+  <BEWH_BolterRoundTempest.description>소형 플라즈마 충격 발생기를 내장한 특수 탄약으로, 집중된 EMP 폭발을 방출하여 대상의 에너지 방어막과 전자 장비를 교란시킵니다. 기계류 및 기계형 적들에게 특히 효과적입니다.</BEWH_BolterRoundTempest.description>
+  
+  <BEWH_Projectile_Plasma.label>플라즈마</BEWH_Projectile_Plasma.label>
+  <BEWH_Projectile_Plasma.description>표준 모드: 명중 시 대상을 소각하는, 안정적인 초고온 물질의 플라즈마 볼트입니다.</BEWH_Projectile_Plasma.description>
+  
+  <BEWH_Projectile_PlasmaCharged.label>과충전 플라즈마</BEWH_Projectile_PlasmaCharged.label>
+  <BEWH_Projectile_PlasmaCharged.description>과충전 모드: 안전 프로토콜이 해제됩니다. 완전히 충전하려면 시간이 필요하며 유효 사거리가 감소합니다. 명중 시 격렬한 열에너지 방출과 함께 폭발하는 매우 불안정한 플라즈마 볼트를 방출합니다.</BEWH_Projectile_PlasmaCharged.description>
+  
+  <BEWH_Projectile_PlasmaCharged_Heavy.label>과충전 플라즈마</BEWH_Projectile_PlasmaCharged_Heavy.label>
+  <BEWH_Projectile_PlasmaCharged_Heavy.description>과충전 모드: 안전 프로토콜이 해제됩니다. 완전히 충전하려면 시간이 필요하며 유효 사거리가 감소합니다. 명중 시 격렬한 열에너지 방출과 함께 폭발하는 매우 불안정한 플라즈마 볼트를 방출합니다.</BEWH_Projectile_PlasmaCharged_Heavy.description>
+</LanguageData>

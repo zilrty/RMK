@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATP_AnimaDrugWithdrawal.stages.1.label>영혼 약물 금단현상</ATP_AnimaDrugWithdrawal.stages.1.label>
+  <ATP_AnimaDrugWithdrawal.stages.1.description>세상에, 너무 피곤해. 모든 게 너무 느리고 지루해. 특히 나 자신이 말이야.</ATP_AnimaDrugWithdrawal.stages.1.description>
+  <ATP_AnimaFlakeHigh.stages.0.label>영혼 플레이크 취기</ATP_AnimaFlakeHigh.stages.0.label>
+  <ATP_AnimaFlakeHigh.stages.0.description>너무 좋아... 정말 최고야...</ATP_AnimaFlakeHigh.stages.0.description>
+  <ATP_AnimaInjectorHigh.stages.0.label>영혼 주사기로 고양됨</ATP_AnimaInjectorHigh.stages.0.label>
+  <ATP_AnimaInjectorHigh.stages.0.description>몸이 가벼워! 뭐든 할 수 있을 것 같아!</ATP_AnimaInjectorHigh.stages.0.description>
+  <ATP_AnimaTeaHigh.stages.0.label>영혼 차 기운</ATP_AnimaTeaHigh.stages.0.label>
+  <ATP_AnimaTeaHigh.stages.0.description>차를 마셨더니 기분이 아주 좋아졌어. 이 넘치는 에너지가 정말 마음에 들어!</ATP_AnimaTeaHigh.stages.0.description>
+  <ATP_AnimaJointHigh.stages.0.label>영혼 연초의 몽롱함</ATP_AnimaJointHigh.stages.0.label>
+  <ATP_AnimaJointHigh.stages.0.description>나 지금... 완전 취한 거 같아, 친구.</ATP_AnimaJointHigh.stages.0.description>
+  <ATP_AnimaFruitHigh.stages.0.label>따스한 영혼 과일 기운</ATP_AnimaFruitHigh.stages.0.label>
+  <ATP_AnimaFruitHigh.stages.0.description>영혼 과일 덕분에 몸이 편안해지면서도 동시에 힘이 솟는 게 느껴져.</ATP_AnimaFruitHigh.stages.0.description>
+</LanguageData>

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=entity anatomy table-->
+  <UV_Project_EntityAnatomyTable.label>실체 해부대</UV_Project_EntityAnatomyTable.label>
+  <!--Original=Unlocks build a research bench for dissecting entity corpses to gain Anomaly research points. Yields no leather, meat, or filth.-->
+  <UV_Project_EntityAnatomyTable.description>실체의 시체를 해부하여 이상 현상 연구 점수를 얻을 수 있는 연구 작업대를 건설하세요. 해부 과정에서 가죽이나 고기가 나오지 않으며, 오물을 생성하지 않습니다.</UV_Project_EntityAnatomyTable.description>
+  <!--Original=subjectー&gt;Entity Autopsy-->
+  <!--Original=subject_storyー&gt; Performed systematic biological dissection on a non-carbon-based extraterrestrial lifeform-->
+  <!--Original=subject_storyー&gt; Worked at a clandestine research institute dedicated to classifying unknown biological entities-->
+  <!--Original=subject_storyー&gt; Discovered and documented numerous abnormal organ functions from Void creatures-->
+  <!--Original=subject_storyー&gt; Caused partial reassembly of a dissected entity specimen on the operating table due to operational error, triggering a containment breach-->
+  <!--Original=subject_gerundー&gt; Dissecting entities to study their biological characteristics-->
+  <UV_Project_EntityAnatomyTable.generalRules.rulesStrings>
+    <li>subject->실체 해부</li>
+    <li>subject_story->비탄소 기반의 외계 생명체에 대해 체계적인 생물학적 해부를 수행했습니다</li>
+    <li>subject_story->정체불명의 생물 실체를 분류하는 비밀 연구소에서 근무했습니다</li>
+    <li>subject_story->공허 생물에게서 발견된 수많은 이상 장기 기능을 발견하고 기록했습니다</li>
+    <li>subject_story->조작 실수로 인해 수술대 위에서 해부 중이던 실체 표본이 부분적으로 재조합되어 격리 실패 사고를 유발했습니다</li>
+    <li>subject_gerund->생물학적 특성 파악을 위해 실체 해부</li>
+  </UV_Project_EntityAnatomyTable.generalRules.rulesStrings>
+  <!--Original=flesh sealing-->
+  <UV_Project_FleshSealing.label>살덩이 봉인</UV_Project_FleshSealing.label>
+  <!--Original=Perform a psychic ritual that seal the fleshmass nucleus within a specialized vessel that automatically purges newly formed warped flesh and converts it into stored chemfuel. Compatible with grav ship fuel systems.-->
+  <UV_Project_FleshSealing.description>살덩이 핵을 특수 용기에 봉인하는 초정신 의식을 행하세요. 이 용기는 새롭게 생성되는 뒤틀린 살점을 자동으로 제거하고 화학연료로 변환하여 저장합니다. 중력부양선의 연료 시스템과 호환됩니다.</UV_Project_FleshSealing.description>
+  <!--Original=subjectー&gt;Flesh Preservation-->
+  <!--Original=subject_storyー&gt; Developed technology to preserve biological tissue permanently in stasis fields-->
+  <!--Original=subject_storyー&gt; Managed a gene bank storing rare alien biological specimens-->
+  <!--Original=subject_storyー&gt; Accidentally activated a preserved predator embryo causing severe consequences-->
+  <!--Original=subject_gerundー&gt; Containing living flesh in stasis capsules-->
+  <UV_Project_FleshSealing.generalRules.rulesStrings>
+    <li>subject-&gt;살덩이 보존</li>
+    <li>subject_story-&gt;생체 조직을 정지장 내에 영구적으로 보존하는 기술을 개발했습니다</li>
+    <li>subject_story-&gt;희귀한 외계 생물 표본을 보관하는 유전자 저장고를 관리했습니다</li>
+    <li>subject_story-&gt;실수로 보관 중이던 포식자 배아를 활성화하여 끔찍한 결과를 초래했습니다</li>
+    <li>subject_gerund-&gt;생체 살덩이 정지 캡슐에 격리</li>
+  </UV_Project_FleshSealing.generalRules.rulesStrings>
+  <!--Original=distorted terraformer-->
+  <UV_Project_DistortedTerraformer.label>뒤틀린 테라포머</UV_Project_DistortedTerraformer.label>
+  <!--Original=Unlocks build a Biometalーpowered Terraformer that generates breathable safe zones in space and significantly raises the region&apos;s minimum temperature.-->
+  <UV_Project_DistortedTerraformer.description>생체강을 동력으로 사용하는 테라포머를 건설하세요. 이 장치는 우주 공간에 호흡 가능한 안전 구역을 생성하고, 해당 지역의 최저 온도를 현저히 높여줍니다.</UV_Project_DistortedTerraformer.description>
+  <!--Original=subjectー&gt;Supernatural Terraforming-->
+  <!--Original=subject_storyー&gt; Led ecoーdome construction on a planet enveloped by lethal atmosphere-->
+  <!--Original=subject_storyー&gt; Researched using native microbiota to rapidly purify toxic environments-->
+  <!--Original=subject_storyー&gt; Accidentally turned a desert into a permanent fluorescent swamp due to failed weather control experiment-->
+  <!--Original=subject_gerundー&gt; Reshaping local climate by channeling telluric energies-->
+  <UV_Project_DistortedTerraformer.generalRules.rulesStrings>
+    <li>subject-&gt;초자연 테라포밍</li>
+    <li>subject_story-&gt;치명적인 대기에 휩싸인 행성에서 에코돔 건설 프로젝트를 주도했습니다</li>
+    <li>subject_story-&gt;토착 미생물군을 이용해 독성 환경을 빠르게 정화하는 방법을 연구했습니다</li>
+    <li>subject_story-&gt;기상 조절 실험 실패로 인해 사막을 영구적인 형광 늪지대로 바꿔버리는 사고를 냈습니다</li>
+    <li>subject_gerund-&gt;지맥 에너지를 유도하여 국지적 기후 재형성</li>
+  </UV_Project_DistortedTerraformer.generalRules.rulesStrings>
+  <!--Original=void field extender-->
+  <UV_Project_VoidFieldExtender.label>공허 중력 확장기</UV_Project_VoidFieldExtender.label>
+  <!--Original=Unlocks build a field extender that uses shard to replace the gravcore.-->
+  <UV_Project_VoidFieldExtender.description>중력 코어 대신 파편을 사용하는 중력 확장기를 건설하세요.</UV_Project_VoidFieldExtender.description>
+  <!--Original=subjectー&gt;Void Field Extender-->
+  <!--Original=subject_storyー&gt; Participated in experimental projects using Void energy to stabilize local spacetime structures-->
+  <!--Original=subject_storyー&gt; Maintained a remote matter transmission array based on grav engine principles-->
+  <!--Original=subject_storyー&gt; Researched methods to expand internal volume of enclosed spaces through gravitational field distortion-->
+  <!--Original=subject_storyー&gt; Briefly &quot;stretched&quot; a forest area into another dimension during prototype testing-->
+  <!--Original=subject_gerundー&gt; Calibrating field effect parameters of Void Field Extenders-->
+  <!--Original=subject_gerundー&gt; Deploying Void Field Extenders to increase grav ship payload capacity-->
+  <UV_Project_VoidFieldExtender.generalRules.rulesStrings>
+    <li>subject-&gt;공허 중력 확장기</li>
+    <li>subject_story-&gt;공허 에너지를 이용해 국지적 시공간 구조를 안정시키는 실험 프로젝트에 참여했습니다</li>
+    <li>subject_story-&gt;중력구동기 원리에 기반한 원거리 물질 전송 배열을 유지보수했습니다</li>
+    <li>subject_story-&gt;중력장 왜곡을 통해 밀폐된 공간의 내부 부피를 확장하는 방법을 연구했습니다</li>
+    <li>subject_story-&gt;프로토타입 테스트 중 실수로 숲 지역 일부를 다른 차원으로 짧게 "늘려" 버린 적이 있습니다</li>
+    <li>subject_gerund-&gt;공허 중력 확장기의 중력장 효과 매개변수를 교정</li>
+    <li>subject_gerund-&gt;중력부양선 적재 용량을 늘리기 위한 공허 중력 확장기 배치</li>
+  </UV_Project_VoidFieldExtender.generalRules.rulesStrings>
+  <!--Original=void monolithtech-->
+  <UV_Project_VoidThruster.label>공허 모노리스 기술</UV_Project_VoidThruster.label>
+  <!--Original=Unlocks archotech structures forged from Monolith Fragments, designed for the complete containment of entities and space travel.-->
+  <UV_Project_VoidThruster.description>모노리스 조각으로 제작하는 초월공학 구조물을 건설하세요. 이 구조물들은 실체의 완전한 격리와 우주 항행을 위해 설계되었습니다.</UV_Project_VoidThruster.description>
+  <!--Original=subjectー&gt;Void Thruster-->
+  <!--Original=subject_storyー&gt; Tested experimental engines generating thrust by tearing spacetime-->
+  <!--Original=subject_storyー&gt; Reverseーengineered FTL technology from crashed alien spacecraft wreckage-->
+  <!--Original=subject_storyー&gt; Briefly stranded a ship and its crew in timeless Void during jump test-->
+  <!--Original=subject_gerundー&gt; Installing Void Thrusters on grav ships-->
+  <UV_Project_VoidThruster.generalRules.rulesStrings>
+    <li>subject-&gt;공허 추진기</li>
+    <li>subject_story-&gt;시공간을 찢어 추진력을 얻는 실험용 엔진을 테스트했습니다</li>
+    <li>subject_story-&gt;추락한 외계 우주선 잔해에서 초광속 기술을 역설계했습니다</li>
+    <li>subject_story-&gt;도약 테스트 중 함선과 승무원들을 시간이 존재하지 않는 공허 속에 잠시 고립시켰던 적이 있습니다</li>
+    <li>subject_gerund-&gt;중력부양선에 공허 추진기 설치</li>
+  </UV_Project_VoidThruster.generalRules.rulesStrings>
+  <!--Original=gold canary-->
+  <UV_Project_GoldCanary.label>황금 카나리아</UV_Project_GoldCanary.label>
+  <!--Original=Using a Golden Cube, create an invulnerable legendary creature that provides a mood boost to the entire area.-->
+  <UV_Project_GoldCanary.description>황금 큐브를 사용하여 어떤 피해도 입지 않는 전설적인 생명체를 창조하세요. 이 생명체는 주변의 모든 이들에게 기분 보너스를 제공합니다.</UV_Project_GoldCanary.description>
+  <!--Original=subjectー&gt;Immortal Gold Canary-->
+  <!--Original=subject_storyー&gt; Researched legendary golden mechanical lifeforms capable of rebirth from flames-->
+  <!--Original=subject_storyー&gt; Restored an eternal guardian device left by ancient civilization-->
+  <!--Original=subject_storyー&gt; Witnessed Gold Canary healing radiation wounds across entire area with its glow-->
+  <!--Original=subject_gerundー&gt; Seeking eternal blessings from the Gold Canary-->
+  <UV_Project_GoldCanary.generalRules.rulesStrings>
+    <li>subject-&gt;불사의 황금 카나리아</li>
+    <li>subject_story-&gt;불길 속에서 부활할 수 있다는 전설적인 황금 기계 생명체를 연구했습니다</li>
+    <li>subject_story-&gt;고대 문명이 남긴 영원한 수호자 장치를 복원했습니다</li>
+    <li>subject_story-&gt;황금 카나리아가 내뿜는 빛이 지역 전체의 방사능 상처를 치유하는 과정을 목격했습니다</li>
+    <li>subject_gerund-&gt;황금 카나리아에게서 영원한 축복 구하기</li>
+  </UV_Project_GoldCanary.generalRules.rulesStrings>
+  <!--Original=ship cooldown-->
+  <UV_Project_ShipCooldown.label>함선 냉각</UV_Project_ShipCooldown.label>
+  <!--Original=Performs a psychic ritual that rapidly cools the grav ship&apos;s engine and increases the maximum range of its next voyage-->
+  <UV_Project_ShipCooldown.description>초정신 의식을 행하여 중력부양선의 구동기를 빠르게 냉각시키고, 다음 비행의 최대 항속 거리를 늘리세요.</UV_Project_ShipCooldown.description>
+  <!--Original=subjectー&gt;Gravship Cooling Ritual-->
+  <!--Original=subject_storyー&gt; Studied ancient chanting methods said to channel heat into the Void through sonic waves-->
+  <!--Original=subject_storyー&gt; Discovered ritual patterns for &quot;cooling&quot; metals in a lost manuscript-->
+  <!--Original=subject_storyー&gt; Witnessed an old technician calm an overheating engine through chants and complex gestures-->
+  <!--Original=subject_storyー&gt; A ritual failure caused a ship engine to become permanently locked due to overーcooling-->
+  <!--Original=subject_gerundー&gt; Presiding over starship cooling rituals-->
+  <!--Original=subject_gerundー&gt; Chilling critical components by chanting cooling hymns-->
+  <UV_Project_ShipCooldown.generalRules.rulesStrings>
+    <li>subject-&gt;중력부양선 냉각 의식</li>
+    <li>subject_story-&gt;음파를 통해 열을 공허로 유도한다는 고대 찬송을 학습했습니다</li>
+    <li>subject_story-&gt;실전된 사본에서 금속의 열기를 "식히는" 의식 문양을 발견했습니다</li>
+    <li>subject_story-&gt;노련한 기술자가 찬송과 복잡한 손동작을 통해 과열된 구동기를 진정시키는 모습을 목격했습니다</li>
+    <li>subject_story-&gt;의식 도중 발생한 실수로 인해 구동기가 과냉각되어 완전히 멈춰버리는 사고를 겪었습니다</li>
+    <li>subject_gerund-&gt;함선 냉각 의식을 주관</li>
+    <li>subject_gerund-&gt;냉각 찬가로 핵심 부품의 온도 낮추기</li>
+  </UV_Project_ShipCooldown.generalRules.rulesStrings>
+  <!--Original=reveal information-->
+  <UV_Project_RevealInformation.label>공허 정보</UV_Project_RevealInformation.label>
+  <!--Original=Performs a psychic ritual to extract valuable information from the Void, revealing a quest location-->
+  <UV_Project_RevealInformation.description>초정신 의식을 행하여 공허로부터 가치 있는 정보를 추출해, 새로운 임무 장소를 찾아내세요.</UV_Project_RevealInformation.description>
+  <!--Original=subjectー&gt;Void Message-->
+  <!--Original=subject_storyー&gt; Deciphered nonーEuclidean geometric signals from deep Void-->
+  <!--Original=subject_storyー&gt; Served as communications officer monitoring deep space anomalous radiation signals-->
+  <!--Original=subject_storyー&gt; Received warning message from future self but couldn&apos;t fully comprehend it-->
+  <!--Original=subject_gerundー&gt; Decrypting encoded messages from the Void-->
+  <UV_Project_RevealInformation.generalRules.rulesStrings>
+    <li>subject-&gt;공허 정보</li>
+    <li>subject_story-&gt;공허 심연에서 전송된 비유클리드 기하학 구조의 신호를 해독했습니다</li>
+    <li>subject_story-&gt;심우주의 이상 방사능 신호를 감시하는 통신 장교로 복무했습니다</li>
+    <li>subject_story-&gt;미래의 자신에게서 온 경고 메시지를 받았지만, 그 의미를 완전히 이해하지는 못했습니다</li>
+    <li>subject_gerund-&gt;공허에서 온 암호화된 정보 해석</li>
+  </UV_Project_RevealInformation.generalRules.rulesStrings>
+  <!--Original=dark infusion-->
+  <UV_Project_DarkInfusion.label>어둠 부여</UV_Project_DarkInfusion.label>
+  <!--Original=Performs a psychic ritual that envelops all allied units within the shard&apos;s reach with voidーwalking capability, allowing safe operation in space for a brief period.-->
+  <UV_Project_DarkInfusion.description>초정신 의식을 행하여 지역 내 모든 아군 생명체를 초월적 암흑 에너지로 감싸세요. 이를 통해 우주 공간에서도 안전하게 활동할 수 있게 해줍니다.</UV_Project_DarkInfusion.description>
+  <!--Original=subjectー&gt;Vacuum Survival Ritual-->
+  <!--Original=subject_storyー&gt; Mastered an esoteric technique to drastically reduce oxygen need through deep meditation-->
+  <!--Original=subject_storyー&gt; Joined an extreme cult that screened followers through vacuum chamber rituals-->
+  <!--Original=subject_storyー&gt; Completed a tenーminute survival ritual in space vacuum without any protection-->
+  <!--Original=subject_storyー&gt; Bears ancient tattoos said to form an invisible protective layer in vacuum-->
+  <!--Original=subject_gerundー&gt; Performing vacuum survival rituals-->
+  <!--Original=subject_gerundー&gt; Inscribing vacuumーprotection runes on spacesuits-->
+  <UV_Project_DarkInfusion.generalRules.rulesStrings>
+    <li>subject-&gt;진공 생존 의식</li>
+    <li>subject_story-&gt;깊은 명상을 통해 산소 요구량을 획기적으로 낮추는 비기를 터득했습니다.</li>
+    <li>subject_story-&gt;진공실 안에서 의식을 치러 신도를 선별하는 극단적인 교단에 참여한 적이 있습니다</li>
+    <li>subject_story-&gt;아무런 보호 장비 없이 우주 진공 상태에서 10분 동안 생존하는 의식을 성공적으로 마쳤습니다</li>
+    <li>subject_story-&gt;진공에서 무형의 보호막을 형성한다고 전해지는 고대 문신을 몸에 새겼습니다</li>
+    <li>subject_gerund-&gt;진공 생존 의식 행하기</li>
+    <li>subject_gerund-&gt;우주복에 진공 보호 룬 새기기</li>
+  </UV_Project_DarkInfusion.generalRules.rulesStrings>
+  <!--Original=twisted reconstruction-->
+  <UV_Project_TwistedReconstruction.label>비틀린 재구성</UV_Project_TwistedReconstruction.label>
+  <!--Original=Performs a psychic ritual that warps and mends the target&apos;s equipment using Void energy.-->
+  <UV_Project_TwistedReconstruction.description>초정신 의식을 행하여 공허의 에너지로 대상의 장비를 비틀고 수선하세요.</UV_Project_TwistedReconstruction.description>
+  <!--Original=subjectー&gt;Gear Refabrication-->
+  <!--Original=subject_storyー&gt; Operated device capable of decomposing and reassembling molecular structures-->
+  <!--Original=subject_storyー&gt; Successfully refabricated scrap metal into functional power armor-->
+  <!--Original=subject_storyー&gt; Fused a weapon with user&apos;s arm during refabrication experiment-->
+  <!--Original=subject_gerundー&gt; Refabricating useless equipment into useful tools-->
+  <UV_Project_TwistedReconstruction.generalRules.rulesStrings>
+    <li>subject-&gt;장비 재구성</li>
+    <li>subject_story-&gt;물질의 분자 구조를 분해하고 재조합할 수 있는 장치를 다루었습니다</li>
+    <li>subject_story-&gt;고철 더미를 사용 가능한 동력 갑옷으로 성공적으로 재구성했습니다</li>
+    <li>subject_story-&gt;재구성 실험 도중 실수로 무기를 사용자의 팔과 융합시킨 적이 있습니다.</li>
+    <li>subject_gerund-&gt;폐기된 장비를 유용한 도구로 재구성</li>
+  </UV_Project_TwistedReconstruction.generalRules.rulesStrings>
+  <!--Original=parallel dimension-->
+  <UV_Project_ParallelDimension.label>평행 차원</UV_Project_ParallelDimension.label>
+  <!--Original=Performs a psychic ritual that transports the entire region to a similar yet distinct world, repairing grav ship wrecks and resetting nearby landmarks.-->
+  <UV_Project_ParallelDimension.description>초정신 의식을 행하여 지역 전체를 비슷하면서도 다른 세계로 이동시키세요. 이 과정에서 중력부양선 발사 장소들이 복구되며 주변 지역의 특징들이 재설정됩니다.</UV_Project_ParallelDimension.description>
+  <!--Original=subjectー&gt;Parallel Spacetime-->
+  <!--Original=subject_storyー&gt; Researched methods to briefly open rifts to resourceーrich parallel dimensions-->
+  <!--Original=subject_storyー&gt; Briefly communicated with alternateーtimeline self-->
+  <!--Original=subject_storyー&gt; Caused partial overlap of two similar but hostile timelines due to experiment accident-->
+  <!--Original=subject_gerundー&gt; Scouting parallel timelines for rare resources-->
+  <UV_Project_ParallelDimension.generalRules.rulesStrings>
+    <li>subject-&gt;평행 시공간</li>
+    <li>subject_story-&gt;자원이 풍부한 평행 차원으로 통하는 균열을 일시적으로 여는 방법을 연구했습니다</li>
+    <li>subject_story-&gt;다른 시간대 속에 존재하는 자신과 잠시 교신한 적이 있습니다</li>
+    <li>subject_story-&gt;실험 도중 발생한 사고로 인해, 비슷하지만 서로 적대적인 두 시간대가 부분적으로 겹쳐지는 현상을 초래했습니다</li>
+    <li>subject_gerund-&gt;평행 시간대에서 희귀 자원 수색</li>
+  </UV_Project_ParallelDimension.generalRules.rulesStrings>
+</LanguageData>

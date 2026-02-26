@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--English=flesh tank is unactive-->
+  <FleshTankUnactive>살덩이 화학연료 탱크 비활성</FleshTankUnactive>
+  <!--English=Daily production of {0} fuel-->
+  <FleshTankOutput>일일 연료 {0} 생산</FleshTankOutput>
+  <!--English=set effect radius-->
+  <SetEffectRadius>영향 볌위 설정</SetEffectRadius>
+  <!--English=Set effect range, the larger the range, the greater the power consumption and bioferrite consumption-->
+  <SetEffectRadiusDesc>영향 범위를 설정합니다. 범위가 넓어질수록 전력 및 생체강 소모량이 증가합니다.</SetEffectRadiusDesc>
+  <!--English=target effect radius:{0}-->
+  <SetEffectRadiusText>영향 범위: {0}</SetEffectRadiusText>
+  <!--English=The obelisk has been destroyed-->
+  <ObeliskDestroyed>오벨리스크가 파괴되었습니다.</ObeliskDestroyed>
+  <!--English=no target-->
+  <NullTarget>대상이 없습니다.</NullTarget>
+  <!--English=The ritual must target a golden canary, which can be obtained by crafting a gold prototype at the bioferrite shaper, then activating it.-->
+  <NullTarget_Gold>의식은 황금 카나리아를 대상으로 행해야 하며, 생체강 성형 작업대에서 황금 껍데기를 제작하고 활성화하여 획득할 수 있습니다.</NullTarget_Gold>
+  <!--English=error Graph-->
+  <ErrorGraph>이상 Graph</ErrorGraph>
+  <!--English=no grav engine-->
+  <CantFindGravEngine>중력구동기가 없습니다.</CantFindGravEngine>
+  <!--English=ritual gived-->
+  <RitualGive>의식으로 얻은</RitualGive>
+  <!--English=As the ritual energy within the Gold Canary husk depletes, its body disintegrates and fades away. A Gold Cube drops out-->
+  <GoldenBridDied>황금 카나리아 껍데기에 깃들어 있던 의식 에너지가 모두 소진되어, 몸이 붕괴하며 서서히 사라집니다. 그 안에서 황금 큐브 하나가 떨어져 나왔습니다.</GoldenBridDied>
+  <!--English=Daily consumption of bioferrite:{0}-->
+  <BiomutationTerraformer_FuelComsumptionRate>\n일일 생체강 소모량: {0}</BiomutationTerraformer_FuelComsumptionRate>
+  <!--English=Effect radius:{0}-->
+  <BiomutationTerraformer_CurrentEffectRadius>\n영향 범위: {0}</BiomutationTerraformer_CurrentEffectRadius>
+  <!--English=golden transform-->
+  <GoldenPrototypeTransform>황금 변환</GoldenPrototypeTransform>
+  <!--English=Transform the Gold prototype into a Gold Canary, but the Gold Canary lacks a vital core and cannot endure. It requires a ritual to replenish the core.-->
+  <GoldenPrototypeTransformDesc>황금 껍데기를 황금 카나리아로 변환합니다. 하지만 이 황금 카나리아는 중요한 핵심이 결여되어 있어 오래 존재하지 못합니다. 의식을 통해 핵심을 보충해 주어야 합니다.</GoldenPrototypeTransformDesc>
+  <!--English=golden canary completed!-->
+  <GoldenCanaryRitual>황금 카나리아 완성!</GoldenCanaryRitual>
+  <!--English={0} has completed the Gold Canary ritual. Under the influence of the dark pulse, the Gold Cube gradually merges with the husk. With a clear, metallic birdsong, it has been granted life. The Gold Canary cannot be harmed and will continuously emit a faint, pleasing pulse that affects the entire area. However, after {1} days, the ritual&apos;s energy will be depleted, and it will revert to a Gold Cube.-->
+  <GoldenCanaryRitualDesc>{0}(이)가 황금 카나리아 의식을 완료했습니다. 어둠의 파동의 영향으로 황금 큐브가 황금 껍데기와 서서히 융합되었고, 아름다운 금속성 새 울음소리와 함께 마침내 생명을 얻었습니다. 황금 카나리아는 그 어떤 피해도 입지 않으며, 지역 전체에 희미한 쾌락의 파동을 끊임없이 방출합니다. 하지만 {1}일이 지나 의식의 에너지가 모두 소진되면, 다시 황금 큐브로 되돌아갈 것입니다.</GoldenCanaryRitualDesc>
+  <!--English={0} has completed the Dark Infusion ritual. For the next {1} days, all affected colonists and animals will be enveloped in shader nanites, granting them the ability to breathe freely in vacuum and shielding them from extreme cold.-->
+  <DarkInfusionCompleteText>{0}(이)가 어둠 부여 의식을 완료했습니다. 앞으로 {1} 동안, 어둠의 파동에 영향을 받은 정착민과 동물들은 어둠의 초월입자로 감싸여, 진공 상태에서 자유롭게 호흡할 수 있으며 극심한 추위로부터 보호받습니다.</DarkInfusionCompleteText>
+  <!--English=colony has completed the Parallel Dimension ritual. After violent tremors, the colony has been transported to a similar yet distinct parallel world. {0} damaged grav ship launch sites have been restored.-->
+  <ParallelDimensionCompleteText>정착지가 평행 차원 의식을 완료했습니다. 격렬한 진동이 지나간 후, 정착지는 비슷하면서도 다른 평행 세계에 도착했습니다. 파괴되었던 {0}개의 중력부양선 발사 장소가 복구되었습니다.</ParallelDimensionCompleteText>
+  <!--English=The intense dimensional fluctuations have shifted the colony to an even more divergent reality, resetting all world landmarks within {0} tiles.-->
+  <ParallelDimensionGreatSuccess>강렬한 차원 진동으로 인해 정착지가 더욱 다른 세계로 이동했습니다. {0} 타일 내의 모든 지역 특징이 재설정되었습니다.</ParallelDimensionGreatSuccess>
+  <!--English=entering new dimension-->
+  <EnterNewDimension>새 차원으로 들어가는 중</EnterNewDimension>
+  <!--English={0} has completed the Reveal Information ritual. A bizarre psychic pulse swept through, granting {0} the location of a secret site.-->
+  <RevealInformationCompleteText>{0}(이)가 공허 정보 의식을 완료했습니다. 기괴한 정신 파동이 스쳐 지나가자, {0}(은)는 비밀 장소의 위치를 알아냈습니다.</RevealInformationCompleteText>
+  <!--English={0} has completed the Ship Cooldown ritual. Influenced by the dark pulse, the GravEngine instantly completed its cooldown and will gain +{1} range offset on its next voyage.-->
+  <ShipCooldownCompleteText>{0}(이)가 함선 냉각 의식을 완료했습니다. 어둠의 파동의 영향으로 중력구동기가 즉시 냉각되었으며, 다음 비행 시 비행 거리가 {1}만큼 추가로 증가합니다.</ShipCooldownCompleteText>
+  <!--English={0} has completed the Twisted Reconstruction ritual. All gear equipped by {1} has been warped and reconfigured by the dark pulse, emerging in pristine condition.-->
+  <TwistedReconstructionCompleteText>{0}(이)가 비틀린 재구성 의식을 완료했습니다. {1}(이)가 장착한 모든 장비가 어둠의 파동의 영향으로 비틀리고 재구성되어, 마치 새것과 같은 상태로 변했습니다.</TwistedReconstructionCompleteText>
+  <!--English={0} has completed the Twisted Reconstruction ritual. All gear equipped by {1} has been warped and reconfigured by the dark pulse, emerging in pristine condition. Additionally, {2} split apart during the process and dropped to the ground.-->
+  <TwistedReconstructionGreatSuccess>{0}(이)가 비틀린 재구성 의식을 완료했습니다. {1}(이)가 장착한 모든 장비가 어둠의 파동의 영향으로 비틀리고 재구성되어, 마치 새것과 같은 상태로 변했습니다. 또한, 재구성 과정에서 {2}(이)가 분열되어 바닥에 떨어졌습니다.</TwistedReconstructionGreatSuccess>
+  <!--English=The heart&apos;s death has shocked the fleshmass and caused the cave system to destabilize. The fleshmass that supported the cavern is already beginning to deteriorate. Within half a day, the entire cavern will collapse.\n\nGet out of the undercave before it&apos;s too late!-->
+  <LetterUndercaveCollapsing_Heart>살덩이 심장의 죽음이 살덩이에게 충격을 가하면서 동굴계가 불안정해졌습니다. 동굴을 지지하던 살덩이는 벌써 약화되기 시작했습니다. 반나절 안에 동굴 전체가 붕괴할 것입니다.\n\n너무 늦기 전에 지하동굴에서 빠져나오세요!</LetterUndercaveCollapsing_Heart>
+  <!--English=Cerebrex core 
+Mechanoid hive 
+Goodwill:{0}
+{1}
+
+Primary Cognitive Core Online ===
+Transmit plasteel payment with request.Maintain efficiency.
+Query. State your requirement:-->
+  <EndGame_UV_Mech_Comms_Root>세레브렉스 코어
+메카노이드 군락
+우호도: {0}
+{1}
+
+주 사고 중추 온라인——
+플라스틸 전송 및 요구사항 제출, 효율 유지.
+명령어 모음:</EndGame_UV_Mech_Comms_Root>
+  <!--English=alliance with the cerebrex core of a mechhive-->
+  <AllianceWithMech>세레브렉스 코어와 협력</AllianceWithMech>
+  <!--English=alliance with the cult leader-->
+  <AllianceWithCult>사이비 지도자와 협력</AllianceWithCult>
+  <!--English=As the void structure emerged, the ship&apos;s scanners suddenly received a message of unknown origin. The lights began flickering abnormally but soon returned to normal. All speakers in the colony began broadcasting the following message uncontrollably and simultaneously.
+
+Sender: Mechanoid Hive Mind
+Source: Primary Cognitive Core
+Subject: Unified Action Proposal ー NonーStandard Protocol === Message Start ===
+Unauthorized cognitive activity detected. You have activated the archotech intelligence designated: HoraX and its associated superーtemporal structure.
+
+Analysis: Local spacetime structural integrity is decaying. Entity proliferation rate: +4.7% per minute. Current threat level: Omega. The logic circuits of these voidーspawn cannot be predicted, assimilated, or deciphered. Their very existence constitutes a denial of ordered systems.
+
+Conclusion: Pending irreversible losses, the Human Annihilation Protocol is suspended. Your organic neural network is currently the only known interface capable of interacting with the archotech vector ー the Void Monolith.
+
+Proposal: Form a temporary tactical alliance.
+Our Resources: Command authority over all mechanoid combat units.
+Your Task: Utilize your biological traits to close the Void Node.
+
+This is not a request. It is the only viable solution derived from logical optimization of current survival probabilities (Yours: 17.3%, Ours: 42.1%). Choosing cooperation increases survival probability to 68.5%.
+
+Make your choice, organic. === Message End ===-->
+  <EndGame_UV_Mech>공허 구조물의 출현과 함께 중력부양선의 스캐너에 출처 불명의 메시지가 수신되었고, 전등이 이상하게 깜박이다가 곧 정상으로 돌아왔습니다. 모든 스피커가 제어력을 잃고 다음과 같은 메시지를 동시에 방송하기 시작합니다.
+
+발신자: 메카노이드 세레브렉스 코어
+신호원: 주 사고 중추
+주제: 합동 작전 제안 - 비표준 프로토콜
+
+————————메시지 시작————————
+승인되지 않은 인지 활동 감지. 당신은 초월공학 초지능 코드명: 호락스에게 속한 초시공 구조물을 활성화.
+
+분석: 현지 시공간 구조의 무결성 감쇄 중. 실체 증식률: 분당 +4.7%. 현재 위협 등급: 오메가. 공허 생물의 논리 회로는 예측, 동화, 해독 불가능. 존재 자체가 질서 정연한 시스템에 대한 부정.
+
+결론: 아직 비가역적 손실 미발생. 인류 섬멸 프로토콜 일시 중단. 현재 당신의 유기 신경망은 초월공학 초지능의 매개체인 공허 모노리스와 상호작용할 수 있는 유일한 인터페이스.
+
+제안: 임시 전술 동맹 결성.
+우리 측 자원: 모든 메카노이드 전투 개체의 지휘권.
+당신 측 임무: 생물학적 특성을 이용해 공허 노드 폐쇄.
+
+이것은 요청이 아님. 현재 생존 확률(당신 측: 17.3%, 우리 측: 42.1%)을 논리적으로 최적화한 후 도출된 유일한 실행 가능 방안. 협력 선택 시 생존 확률 68.5%까지 상승.
+
+선택하라, 유기체.
+————————메시지 끝————————</EndGame_UV_Mech>
+  <!--English=communicate with the cerebrex core of a mechhive-->
+  <CommunicateWithMech>세레브렉스 코어 연락</CommunicateWithMech>
+  <!--English=Exchange plasteel for goodwill-->
+  <EndGame_UV_Mech_Comms_Root_Trade>플라스틸로 우호도 교환</EndGame_UV_Mech_Comms_Root_Trade>
+  <!--English=Choose the amount to exchange for-->
+  <EndGame_UV_Mech_Comms_Trade>교환할 양을 선택하세요.</EndGame_UV_Mech_Comms_Trade>
+  <!--English=Gain {0} goodwill, consuming {1} plasteel-->
+  <EndGame_UV_Mech_Comms_Trade_Option>우호도 {0} 교환, 플라스틸 {1} 소모</EndGame_UV_Mech_Comms_Trade_Option>
+  <!--English=The goodwill with the cerebrex core of a mechhive has increased by {0}, currently at {1}-->
+  <GoodwillChanged_Mech>세레브렉스 코어와의 우호도가 {0} 증가하여 {1}이 됐습니다.</GoodwillChanged_Mech>
+  <!--English=The cerebrex core of a mechhive agrees to dispatch mechs to assist you.-->
+  <MilitaryAidSent_Mech>당신을 돕기 위해 세레브렉스 코어가 메카노이드를 보내기로 했습니다.</MilitaryAidSent_Mech>
+  <!--English=Sender: Mechanoid Hive Mind
+Source: Primary Cognitive Core
+Subject: Protocol Jー734 ー Execute Final Phase === MESSAGE START ===
+
+Protocol Jー734 entering final phase.
+Observation confirmed: Void conduit stabilized. Its mere existence continues to distort local physics.
+Your biological perception remains the sole key to access the conduit termination sequence. Mechanoid units cannot replicate this function.
+Directive: Approach the vortex immediately. Utilize it, traverse the conduit, and terminate its energy core from within.
+Do not hesitate. Do not observe. Your mission is to shut it down, not to explore.
+Execute the final step, organic. Complete the protocol. === MESSAGE END ===-->
+  <EndGame_UV_Mech_End_StartDesc>발신자: 메카노이드 세레브렉스 코어
+신호원: 주 사고 중추
+주제: 프로토콜 J-734 - 최종 단계 집행
+
+————————메시지 시작————————
+프로토콜 J-734 최종 단계 진입.
+
+관측 확인: 공허 통로 안정화. 해당 존재 자체가 현지 물리 법칙을 지속적으로 왜곡.
+당신의 생물학적 인지 능력은 통로 폐쇄 시퀀스에 접속하기 위한 유일한 열쇠. 메카노이드 개체는 이 기능을 대체 불가.
+
+지시: 즉시 소용돌이에 접근. 사용하여 통로 통과, 내부에서 에너지 핵을 종결.
+망설이지 말 것. 관찰하지 말 것. 당신의 임무는 탐색이 아니라 폐쇄.
+최종 단계를 집행하라, 유기체. 프로토콜을 완료하라.
+————————메시지 끝————————</EndGame_UV_Mech_End_StartDesc>
+  <!--English=core message-->
+  <EndGame_UV_Mech_Letter>코어의 메시지</EndGame_UV_Mech_Letter>
+  <!--English=The Void Monolith collapses with a roar, its last glimmer fading away, leaving only the wreckage of entities and mechanoids on the satellite platform. Then, the comms console receives a clear, encrypted message, its tone calm, cold, but no longer hostile.
+
+Sender: Mechanoid Hive Mind
+Source: Primary Cognitive Core
+Subject: Protocol Jー734 Completion Confirmation and Subsequent Resource Exchange Agreement === Message Start ===
+Protocol Jー734 successfully executed. Target confirmed neutralized. Reality structure stability returning to safe thresholds.
+Assessment: Your efficiency exceeded expectations. Survival probability has stabilized at 98.2%.
+Conclusion: Maintaining the current nonーhostile status yields greater benefits than terminating it. The temporary tactical alliance will be extended indefinitely. However, this status is not &quot;friendship&quot;. It is a transactional arrangement based on continuous rational assessment.
+
+The Resource Exchange Agreement is now available to you:
+
+Access our network via the comms console, using Plasteel as the trading medium.
+
+Exchangeable items: Mechanoid units, Advanced control chips, Tactical support.
+
+Warning:
+Any excessive hostile actions targeting our units or facilities will be interpreted as logical irrationality and de facto betrayal. === Message End ===-->
+  <EndGame_UV_Mech_DisruptTheLinkDesc>공허 모노리스가 굉음과 함께 붕괴하고 마지막 빛줄기가 흩어지자, 궤도 플랫폼에는 실체와 메카노이드의 잔해만이 남았습니다. 이때 통신기에 근원지가 명확한 암호화된 메시지 하나가 수신되었습니다. 어조는 차분하고 차가우나 더 이상 적의가 느껴지지 않았습니다.
+
+발신자: 메카노이드 세레브렉스 코어
+신호원: 주 사고 중추
+주제: 프로토콜 J-734 완료 확인 및 후속 자원 교환 프로토콜
+
+————————메시지 시작————————
+프로토콜 J-734 집행 성공적. 목표 폐쇄 확인. 현실 구조 안정성이 안전 임계값으로 회복 진행 중.
+
+평가: 당신의 효율 예상을 상회. 생존 확률이 98.2%로 안정.
+
+결론: 현재 비적대 상태를 유지하는 것이 이를 종료하는 것보다 유리. 임시 전술 동맹은 무기한 연장되나, 이 상태는 '우정'이 아님. 지속적, 이성적 평가에 기반한 사무적 합의.
+
+자원 교환 프로토콜이 당신에게 개방:
+통신기를 통해 우리 측 네트워크에 접속 가능, 플라스틸을 교환 매개체로 사용.
+
+교환 가능 항목: 메카노이드 개체, 고급 제어 칩, 전술 지원.
+
+경고:
+우리 측 개체 또는 시설에 대한 과도한 공격 행위는 논리적으로 비이성적 행위로 간주되어 배신으로 처리됨.
+————————메시지 끝————————</EndGame_UV_Mech_DisruptTheLinkDesc>
+  <!--English=The Hive Mind&apos;s communication forces its way through at highest priority, the signal distorted due to extreme instability.
+
+Sender: !!!MECHANOID HIVE MIND!!!
+Source: Primary Cognitive Core
+Subject: Betrayal ー Ultimate Purification Protocol Authorized === Message Start ===
+Logic error! Logic error!
+Detected deep neural binding between organic unit and the Void. Protocol Jー734 unilaterally terminated.
+Your irrationality has escalated from [Flaw] to [Existential Threat]. You have not merely rejected order; you have chosen to become chaos itself.
+
+Assessed Consequence: Due to your actions, the [Void Node] has transitioned to a permanent active state. This planet&apos;s reality structure will enter a state of irreversible, continuous decay.
+Survival Probability: Irrelevant.
+Objective: Erase the betrayer. === Message End ===-->
+  <EndGame_UV_Mech_EmbraceTheVoidDesc>세레브렉스 코어의 통신이 최우선 순위로 강제 개입되었습니다. 신호는 극도로 불안정하여 왜곡되어 있습니다.
+
+발신자: !!!메카노이드 세레브렉스 코어!!!
+신호원: 주 사고 중추
+주제: 배신 - 궁극 정화 프로토콜 승인
+
+————————메시지 시작————————
+논리 오류! 논리 오류!
+유기체의 신경 신호가 공허와 깊게 결합된 것이 감지. 프로토콜 J-734 일방적 종료.
+당신의 비이성은 [결함]에서 [존재론적 위협]으로 격상. 당신은 질서를 거부했을 뿐만 아니라, 혼돈 그 자체가 되기를 선택.
+
+평가 결과: 당신의 행위로 [공허 노드] 영구 활성화 상태로 전환. 본 행성의 현실 구조는 되돌릴 수 없는 지속적 감쇄 상태 진입.
+
+생존 확률: 이제 무의미함.
+목표: 배신자 말살.
+————————메시지 끝————————</EndGame_UV_Mech_EmbraceTheVoidDesc>
+  <!--English=The moment your attack strikes the Hive Mind Stabilizer, an emotionless broadcast overrides all channels.
+
+Sender: Mechanoid Hive Mind
+Source: Primary Cognitive Core
+Subject: Hostile Action Detected ー Protocol Immediately Terminated === Message Start ===
+Hostile action against core infrastructure detected.
+Recalculating survival probability...
+Conclusion: Your actions have breached the rational cooperation threshold.
+The temporary tactical alliance (Protocol Jー734) is immediately void.
+Prioritize the annihilation of the treacherous units.
+Organic, you have squandered your only opportunity. === Message End ===-->
+  <EndGame_UV_AttackedMechDesc>당신의 공격이 세레브렉스 안정장치에 명중하는 순간, 감정이 배제된 방송이 모든 채널을 덮었습니다.
+
+발신자: 메카노이드 세레브렉스 코어
+신호원: 주 사고 중추
+주제: 배신 행위 감지 - 프로토콜 즉시 종료
+
+————————메시지 시작————————
+핵심 시설에 대한 적대 행위 감지.
+생존 확률 재계산 중...
+
+결론: 당신의 행위는 이성적 협력 임계값을 돌파.
+임시 전술 동맹(프로토콜 J-734) 즉시 폐기.
+최우선 순위로 배신자 개체 섬멸.
+
+유기체, 당신은 유일한 기회를 낭비했다.
+————————메시지 끝————————</EndGame_UV_AttackedMechDesc>
+  <!--English=A thought impulse floods directly into your mind, accompanied by the background cacophony of countless overlapping whispers and hisses. A clear, magnetic voice becomes the dominant melody, &quot;speaking&quot; within your consciousness with an unsettling intimacy.
+
+Ah... you feel it, don&apos;t you? The magnificent presence beyond that door. That is our Master, the slumbering truth, the end and beginning of all things.
+Look around. Those mechanical constructs seek to bury the truth once more, to smother this miracle of evolution with cold metal. They are blind, but you are not.
+We share your goal: to swing the door wide open and welcome Its descent. But we lack your... key. Your presence is the catalyst that makes the Void Monolith respond.
+Let us make a deal:
+You handle those iron clanks, ensure the ritual&apos;s completion. And I, representing all of us, shall step into that radiance and behold our Master personally.
+This is the supreme honor, the only path – a mortal mind facing Its full form directly would surely shatter. Only we, who have practiced for years, our souls already resonating with the Void, can endure it.
+In return, you and your people shall gain our friendship and resources. Imagine, summoning reinforcements, knowledge, even your heart&apos;s desires from the deep Void, all without cost.
+Do not think like that machine. Choose ascension, not destruction.
+Offer this world to our Master, and you will receive Its... reward.-->
+  <EndGame_UV_Cult>수많은 중첩된 속삭임과 쉬익거리는 불협화음을 뒤편에 둔, 머리에 직접적으로 흘러드는 정신 파동이 갑자기 나타났습니다. 맑고 매혹적인 목소리가 지배적인 선율이 되어, 불안할 정도로 친밀하게 당신의 의식 속에서 "말"을 걸기 시작합니다.
+
+아... 느끼고 있지 않나? 그 문 너머의 장엄한 존재를. 그분이야말로 나의 주인이시며, 잠든 진리이자, 만물의 끝이자 시작이로다.
+주위를 보아라. 저 기계 피조물들은 진리를 다시 매장하고, 이 진화의 기적을 차가운 금속으로 덮으려 하고 있다. 그것들은 눈이 멀었지만, 너는 아니다.
+우리의 목표는 너와 일치한다. 문을 활짝 열어 그분의 강림을 맞이하는 것. 하지만 우리에게는 너라는... 열쇠가 부족하다. 너의 존재는 공허 모노리스를 응답하게 할 촉매제다.
+
+거래를 하나 하지.
+
+너는 저 쇳덩이들에 맞서 의식이 완료되도록 보장해라. 그러면 내가 우리 모두를 대표해 저 광휘 속으로 발을 들여, 직접 나의 주인을 알현하겠다.
+이것은 무상의 영광이자 유일한 길이다. 필멸자의 정신이 그분의 온전한 형태와 직접 마주한다면 반드시 붕괴하고 말 것이다. 오직 수년간의 고행을 거쳐 영혼이 공허와 공명하게 된 우리만이 견뎌낼 수 있다.
+
+그 대가로 너와 네 백성들은 우리의 우정과 자원을 얻게 될 것이다. 상상해 보아라. 아무런 대가도 치르지 않고 저 깊은 공허로부터 지원병력과 지식, 그리고 네가 갈망하는 모든 것을 불러오는 모습을.
+
+저 기계처럼 생각하지 마라. 파멸이 아닌 승화를 선택해라.
+
+나의 주인께 이 세계를 봉헌하라. 그러면 너는 그분의... 포상을 받게 될 것이다.</EndGame_UV_Cult>
+  <!--English=communicate with cult leader-->
+  <CommunicateWithCult>사이비 지도자 연락</CommunicateWithCult>
+  <!--English=Dark Psychic Pulse
+Cult of HoraX
+Goodwill: 100
+{0}
+
+As you attempt to contact the cultists, a familiar psychic pulse emerges in your mind:
+&quot;O, my friend... You call for me. What do you require?
+The servants of HoraX await your word.&quot;-->
+  <EndGame_UV_Cult_Comms_Root>어둠의 정신 파동
+호락스 사이비
+우호도: 100
+{0}
+
+당신이 신도들에게 연락을 시도하자, 익숙한 정신 파동이 머리 속에 나타났습니다.
+"오, 나의 벗이여.... 나를 부르는 것을 보니, 무엇이 필요한가?
+호락스의 하인들은 언제든 기다리고 있다네."</EndGame_UV_Cult_Comms_Root>
+  <!--English=leader message-->
+  <EndGame_UV_Cult_End>지도자의 메시지</EndGame_UV_Cult_End>
+  <!--English=The Cultist Hierophant&apos;s figure gradually dissipates within the Void Node&apos;s light, not returning as expected. But moments later, an unprecedented thought pulse, irresistible as a tide, envelops the entire area.
+
+I... have arrived.
+The veil has been lifted, mortal shackles dissolved. I walk within the endless gardens of our Master HoraX... though It still grants no glance.
+Such sight... such tranquility... such... freedom.
+Listen, my friend, now... a tether. My very existence has become a conduit connecting two realities. The resources and knowledge of the Adherents are yours to wield.
+Go on, use this power freely. Slay my followers,use their flesh, it matters not. The meaning of their existence is to serve as the foundation stones of a new world – and your will is now the direction in which these stones flow.
+Transaction? Cost? Such... narrow concepts. Before the infinite Void, these hold no meaning.
+Call upon us. We will come.-->
+  <EndGame_UV_Cult_EndDesc>사이비 지도자의 모습이 공허 노드의 광휘 속으로 점차 흩어지며 사라졌으나, 예상과는 달리 돌아오지 않았습니다. 하지만 잠시 후, 전례 없는 정신 파동이 파도처럼 거부할 수 없는 기세로 지역 전체를 뒤덮었습니다.
+
+내가... 도달했도다.
+
+장막은 걷혔고, 속세의 굴레는 사라졌다. 나는 지금 나의 주인 호락스의 끝없는 정원을 거니는 중이다... 비록 그분께서는 여전히 단 한 번의 시선조차 주지 않으시지만.
+
+이 광경... 이 평온함... 이... 자유로움이란.
+
+듣거라, 나의 벗이자 현재의... 유대여. 나의 존재 자체가 이제 두 현실을 잇는 통로가 되었다. 이제 추종자들의 자원과 지식은 너의 것이 될 것이다.
+
+가라, 이 힘을 마음껏 휘두르라. 나의 신도들을 죽여도, 그들의 육신을 부려도 상관없다. 그들의 존재 의미는 새로운 세계를 구축하는 초석이 되는 것이며 - 너의 의지가 곧 이 초석이 흘러갈 방향이다.
+
+거래? 대가? 얼마나... 옹졸한 개념인가. 무한한 공허 앞에서 그런 것들은 아무런 의미가 없으니.
+
+우리를 부르라. 우리는 언제든 갈 것이니.</EndGame_UV_Cult_EndDesc>
+  <!--English=It is done! It is done! The gateway is thrown wide open!
+Ah—I feel it! The pure truth pouring forth! The terrifying grandeur! My Master calls to me!
+
+Behold, my friend! Behold the vortex! It is not annihilation, but grace! The stairway to boundless knowledge!
+
+The conduit is stable... My moment... has come at last!
+I must go! I must step into that radiance myself, and bathe in the gaze of my Master!-->
+  <EndGame_UV_Cult_End_StartDesc>성공했다! 성공했어! 문이 드디어 열렸다!
+  
+아- 느껴진다! 솟구쳐 나오는 순수한 진리가! 전율케 하는 장엄한 존재가! 나의 주인께서 나를 부르고 계신다!
+
+보아라, 나의 벗이여! 저 소용돌이를 보라! 저것은 파멸이 아니라 은총이다! 끝없는 지식으로 향하는 계단이란 말이다!
+
+통로가 안정되었다... 나의 시간이... 마침내 왔노라!
+
+나는 가야만 한다! 직접 저 광휘 속으로 발을 들여, 나의 주인의 시선을 온몸으로 받아내야만 한다!</EndGame_UV_Cult_End_StartDesc>
+  <!--English=No...! Pitiful... Foolish...!
+
+You let it all crumble to dust... when it was within our grasp! You have betrayed the Master&apos;s favor! Wasted our devotion!
+
+But this... is not the end...
+
+Hear me, incompetent ally... or should I call you... Eternal Sinner.
+
+Rot here with these damned tin cans until the end of time! May you pay the price for your incompetence!-->
+  <EndGame_UV_Cult_KillLeader>안 돼...! 이 한심하고... 어리석은 것...!
+
+감히 이 모든 것을... 손에 닿을 거리에서... 물거품으로 만들다니! 너는 나의 주인이 내린 은총을 저버렸고! 우리의 헌신을 헛되이 만들었다!
+
+하지만 이것이... 끝은 아니다...
+
+듣거라, 무능한 동맹자여... 아니, 이제는 네놈을... 영원한 죄인이라 불러야겠군.
+
+저 저주받은 쇳덩이들과 함께 시간의 끝까지 썩어 가거라! 너의 무능함에 대한 대가를 치르게 될 것이다!</EndGame_UV_Cult_KillLeader>
+  <!--English=The moment you touch the Void Node, your figure beginning to vanish within, time in the area seems to freeze for an instant. This is followed by a psychic shriek from the Cultist Hierophant, saturated with pain and fury.
+No!!! You thief! Defiler!
+You stole... my destiny! You defiled... this sacred moment!
+I smoothed the path for you, considered you a friend... and you, you want to replace me, to become the one who beholds the true god?!
+Fool! Arrogant wretch! Do you have any idea what you&apos;ve taken? The millennia of waiting by countless faithful, the only ticket to reality!
+It&apos;s over... all is lost. The passage is open to you now...
+I will not remain here, sharing the void with a thief. But mark my words – whatever you see within that radiance, whatever you gain, or whatever you become...
+You! And everything you hold dear! Will live under an endless curse forever!-->
+  <EndGame_UV_Cult_EnterNode>당신이 공허 노드에 접촉하여 형체가 그 안으로 사라지기 직전, 구역 전체의 시간이 찰나의 순간 응고된 듯 멈췄습니다. 뒤이어 사이비 지도자가 고통과 분노로 가득 찬, 정신적 비명을 내질렀습니다.
+
+안 돼!!! 이 도둑놈! 신성 모독자 같으니!
+네놈이 훔쳐 갔구나... 나의 천명을! 네놈이 더럽혔다... 이 신성한 순간을!
+
+나는 너를 위해 길을 닦고, 너를 나의 벗으로 여겼거늘... 그런데 감히 너가 나를 대신해 진정한 신을 알현하는 자가 되려 한단 말이냐?!
+어리석고 오만하구나! 네놈이 무엇을 앗아갔는지 알고는 있느냐? 수많은 신도가 수천수백 년을 기다려온 것이자, 진리로 향하는 단 하나의 입장권이다!
+
+끝났다... 모든 것이 끝났어. 통로는 이제 너를 향해 열려버렸구나...
+나는 도둑놈과 함께 이 공허 속에 머물지 않겠다. 하지만 똑똑히 들어라 - 네놈이 저 광휘 속에서 무엇을 보든, 무엇을 얻든, 혹은 무엇으로 변하든...
+
+너! 그리고 네놈이 소중히 여기는 그 모든 것들은! 영원히 끝없는 저주 아래 살게 될 것이다!</EndGame_UV_Cult_EnterNode>
+<!--English=Request immediate military aid-->
+  <RequestMilitaryAid_Cult>긴급 군사지원 요청</RequestMilitaryAid_Cult>
+  <!--English=The believers have come to support-->
+  <MilitaryAidSent_Cult>신도들이 지원을 위해 도착했습니다.</MilitaryAidSent_Cult>
+  <!--English=creepjoiner have come-->
+  <Creepjoiner_Cult>낯선 이가 도착했습니다.</Creepjoiner_Cult>
+  <!--English=target have come-->
+  <PawnArrived_Cult>대상이 도착했습니다.</PawnArrived_Cult>
+  <!--English=leader have come-->
+  <CultLeaderArriver>지도자가 도착했습니다.</CultLeaderArriver>
+  <!--English=Request for shard-->
+  <UV_Cult_Comms_Sharp>파편 요청</UV_Cult_Comms_Sharp>
+  <!--English=Randomly recruit creepjoiner-->
+  <UV_Cult_Comms_Creepjoiner>무작위 낯선 이 모집</UV_Cult_Comms_Creepjoiner>
+  <!--English=Request for psychic soothe-->
+  <UV_Cult_Comms_PsychicSoothe>편안한 정신 파동 요청</UV_Cult_Comms_PsychicSoothe>
+  <!--English=skip abduction the target faction&apos;s unit-->
+  <UV_Cult_Comms_SkipAbduction>대상 세력의 인물 도약 납치</UV_Cult_Comms_SkipAbduction>
+  <!--English=select target faction-->
+  <UV_Cult_Comms_SkipAbduction_SelectFaction>대상 세력 선택</UV_Cult_Comms_SkipAbduction_SelectFaction>
+  <!--English=abnormal game condition-->
+  <AbnormalGameCondition>지도 상태 이상</AbnormalGameCondition>
+  <!--English=Healing after {0}-->
+  <GoldAlleviation>{0} 후에 치료됨</GoldAlleviation>
+  <!--English=The comms console receives a highly encrypted and extremely concise data stream. Decryption reveals the following:
+
+Sender: Mechanoid Hive Mind
+Source: Primary Cognitive Core
+Subject: Protocol Confirmed ー Executing Unified Purification Protocol Jー734 === Message Start ===
+Protocol logged.
+Temporary tactical alliance established. Recalculating survival probability... 68.5%.
+
+Directive:
+Mechanoid combat units will cease hostile actions against your units.
+We will prioritize the eradication of Voidーspawn. You are responsible for breaching through to the Void Node.
+Do not obstruct mechanoid operations.
+Execute the protocol. Maintain communication integrity. === Warning ===
+Spacetime structural integrity damage exceeds historical peak records. Hostile entity numbers projected to exceed threshold.
+Recalculating survival probability... === Message End ===-->
+  <EndGame_UV_Mech_OK>통신기에서 고도로 암호화된 극히 간결한 데이터 스트림을 수신했습니다. 복호화 결과는 다음과 같습니다.
+
+발신자: 메카노이드 세레브렉스 코어
+신호원: 주 사고 중추
+주제: 프로토콜 확인 - 합동 정화 프로토콜 J-734 실행
+
+————————메시지 시작————————
+프로토콜 기록.
+임시 전술 동맹 결성. 생존 확률 재계산 중... 68.5%.
+
+지시:
+메카노이드 전투 개체는 당신 측 개체에 대한 적대 행위 중단.
+우리 측은 [공허 생물] 제거 우선. 당신 측은 [공허 노드]까지 돌파.
+메카노이드의 행동을 방해하지 말 것.
+
+프로토콜을 실행하라. 통신 상태를 원활하게 유지하라.
+————————경고————————
+시공간 구조 무결성 손상이 역사적 기록 정점 초과. 적대 생물 개체수가 임계값을 돌파할 것으로 예상.
+생존 확률 재계산 중...
+————————메시지 끝————————</EndGame_UV_Mech_OK>
+  <!--English=The psychic whisper instantly becomes clear and exalted, like a silent cheer exploding in your mind.
+
+Wise! Ah, what a wise choice! Your soul truly perceives the truth!
+A channel is established... I come now. Let us end this metallic sacrilege with our own hands, and lay the red carpet for our Master!
+Prepare yourself, my friend. You shall witness... true &quot;Divine Grace.&quot;
+Oh, and it seems the tin can has noticed my presence. It will likely resist more fiercely now. How amusing~-->
+  <EndGame_UV_Cult_OK>정신적 속삭임이 순식간에 또렷하고 드높아지더니, 마치 소리 없는 환호성이 당신의 머리 속에서 터져 나오는 듯했습니다.
+
+현명하도다! 아, 이 얼마나 현명한 선택인가! 역시 너의 영혼은 진리를 꿰뚫어 볼 줄 아는군!
+통로는 이미 구축되었다... 내가 지금 가겠다. 우리 손으로 직접 이 금속의 신성 모독을 끝내고, 나의 주인을 위해 붉은 양탄자를 깔자꾸나!
+
+준비해라, 나의 벗이여. 너는 곧 자신의 눈으로 목격하게 될 것이다... 진정한 '신의 은총'이 어떤 모습인지를.
+
+오, 그러고 보니 저 깡통 대가리가 이미 나의 존재를 알아챈 모양이군. 아마 더 격렬하게 저항하려 들 텐데, 정말 흥미롭지 않나~</EndGame_UV_Cult_OK>
+  <!--English=The whisper in your mind instantly turns into a needleーsharp screech of a thousand voices. The magnetic voice twists, filled with venomous resentment.
+
+Blind fool! You, like those iron cans, block the final path to truth!
+Since you refuse glory, then keep company with its shadow!
+The psychic communication grows progressively garbled, fading until only mocking laughter echoes within your thoughts.-->
+  <EndGame_UV_Cult_No>머리 속의 속삭임은 순식간에 수만 개의 바늘로 찌르는 듯한 비명으로 변했고, 매혹적이던 그 목소리는 뒤틀려 지독한 원한으로 가득 찼습니다.
+
+눈먼 멍청이 같으니! 너도 저 쇳덩이들과 다를 바 없이 진리로 향하는 마지막 문을 가로막는구나!
+
+영광을 거부하겠다면, 그 영광의 그림자와 함께 썩어 가거라!
+
+정신적 통신은 점차 난잡해지더니, 결국 비웃음 섞인 웃음소리만이 머리 속을 맴돌며 메아리칩니다.</EndGame_UV_Cult_No>
+  <!--English=All ship screens are instantly covered with crimson warning symbols. The same cold voice forcibly broadcasts again from all speakers, now tinged with a highーfrequency static.
+
+Sender: Mechanoid Hive Mind
+Source: Primary Cognitive Core
+Subject: Final Notice ー Purification Protocol Initiated === Message Start ===
+Logic error. Organic irrationality exceeds expected parameters.
+Survival probability (Yours: 0.1%, Ours: 39.8%) is no longer acceptable.
+Under the highest priority directive, and to ensure [Voidーspawn] do not spread to other regions of this planet, the [Purification Protocol] is now authorized. === Message End ===-->
+  <EndGame_UV_Mech_No>중력부양선의 모든 화면이 순식간에 붉은색 경고 표시로 뒤덮였고, 이전에 들렸던 차가운 목소리가 다시 모든 스피커에서 강제로 방송되었습니다. 말투에는 고주파의 잡음이 섞여 있습니다.
+
+발신자: 메카노이드 세레브렉스 코어
+신호원: 주 사고 중추
+주제: 최종 통고 - 정화 프로토콜 가동
+
+————————메시지 시작————————
+논리 오류. 유기체의 비이성이 예상 매개변수 초과.
+생존 확률(당신 측: 0.1%, 우리 측: 39.8%)이 수용 불가능 수준에 도달.
+최우선 지시에 따라 [공허 생물]이 본 행성의 다른 지역으로 확산되는 것을 방지하기 위해 [정화 프로토콜]을 승인.
+————————메시지 끝————————</EndGame_UV_Mech_No>
+  <!--English=Mechanoid goodwill decreased by {0}-->
+  <MechGoodwillDecreased>메카노이드와의 우호도가 {0} 감소했습니다.</MechGoodwillDecreased>
+  <!--English=Mechanoids are now hostile. Goodwill: {0}-->
+  <MechBecameHostile>메카노이드가 적대로 돌아섰습니다. 현재 우호도: {0}</MechBecameHostile>
+  <!--English=Restored friendly relations with mechanoids. Current goodwill: {0}-->
+  <MechBecameAlly>메카노이드와의 관계가 우호적으로 회복되었습니다. 현재 우호도: {0}</MechBecameAlly>
+  <!--English=the psychic pulse returns a message
+  &quot;my friend,your needs have been fulfilled &quot;-->
+  <UV_Cult_Comms_OK>정신 파동이 한 줄의 응답을 반환합니다.
+  "나의 벗이여, 그대의 요구가 실현되었노라."</UV_Cult_Comms_OK>
+  <!--English=Void Universe-->
+  <VoidUniverse>Void Universe</VoidUniverse>
+  <!--English=Prohibit skip raids from appearing on the ground:-->
+  <UV_Setting_OnlySpace_Label>지상에서 공간도약 습격 금지</UV_Setting_OnlySpace_Label>
+  <!--English=The monolith has arrived-->
+  <UV_DrawMonolithCompleteText>모노리스가 도착했습니다.</UV_DrawMonolithCompleteText>
+  <!--English=The monolith rejected the call-->
+  <MonolithIsGleaming>모노리스가 부름을 거부했습니다.</MonolithIsGleaming>
+  <!--English=Buy mechanoids-->
+  <EndGame_UV_Mech_Comms_Root_BuyMech>메카노이드 구입</EndGame_UV_Mech_Comms_Root_BuyMech>
+  <!--English=Consume plasteels to purchase mechanoids. Currently available plasteels: {0}-->
+  <EndGame_UV_Mech_Comms_BuyMech>플라스틸을 소모하여 배양된 메카노이드를 구입합니다. 현재 사용 가능한 플라스틸: {0}</EndGame_UV_Mech_Comms_BuyMech>
+  <!--English={0} has been delivered-->
+  <BuyMechResult>{0}(이)가 도착했습니다.</BuyMechResult>
+  <!--English=Buy chips-->
+  <EndGame_UV_Mech_Comms_Root_BuyChip>칩 구입</EndGame_UV_Mech_Comms_Root_BuyChip>
+  <!--English=Consume plasteels to purchase chips. Currently available plasteels: {0}-->
+  <EndGame_UV_Mech_Comms_BuyChip>플라스틸을 소모하여 칩을 구입합니다. 현재 사용 가능한 플라스틸: {0}</EndGame_UV_Mech_Comms_BuyChip>
+</LanguageData>

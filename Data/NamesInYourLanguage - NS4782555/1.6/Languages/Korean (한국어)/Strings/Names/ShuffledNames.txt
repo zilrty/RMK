@@ -136,7 +136,7 @@ HumanStandard.None.Last.Boone(Boone)->분
 HumanStandard.None.Last.Booth(Booth)->부스
 HumanStandard.None.Last.Bowen(Bowen)->보웬
 HumanStandard.None.Last.Bowers(Bowers)->바워스
-HumanStandard.None.Last.Bowman(Bowman)->보먼
+HumanStandard.None.Last.Bowman(Bowman)->보우먼
 HumanStandard.None.Last.Boyd(Boyd)->보이드
 HumanStandard.None.Last.Boyer(Boyer)->보이어
 HumanStandard.None.Last.Boyle(Boyle)->보일
@@ -345,7 +345,7 @@ HumanStandard.None.Last.Franco(Franco)->프랑코
 HumanStandard.None.Last.Frank(Frank)->프랭크
 HumanStandard.None.Last.Franklin(Franklin)->프랭클린
 HumanStandard.None.Last.Frazier(Frazier)->프레이저
-HumanStandard.None.Last.Frederick(Frederick)->프레데릭
+HumanStandard.None.Last.Frederick(Frederick)->프레더릭
 HumanStandard.None.Last.Freeman(Freeman)->프리먼
 HumanStandard.None.Last.French(French)->프렌치
 HumanStandard.None.Last.Frey(Frey)->프레이
@@ -459,7 +459,7 @@ HumanStandard.None.Last.Ho(Ho)->호
 HumanStandard.None.Last.Hobbs(Hobbs)->홉스
 HumanStandard.None.Last.Hodge(Hodge)->호지
 HumanStandard.None.Last.Hodges(Hodges)->호지스
-HumanStandard.None.Last.Hoffman(Hoffman)->호프만
+HumanStandard.None.Last.Hoffman(Hoffman)->호프먼
 HumanStandard.None.Last.Hogan(Hogan)->호건
 HumanStandard.None.Last.Holden(Holden)->홀든
 HumanStandard.None.Last.Holder(Holder)->홀더
@@ -484,7 +484,7 @@ HumanStandard.None.Last.Hubbard(Hubbard)->허버드
 HumanStandard.None.Last.Huber(Huber)->후버
 HumanStandard.None.Last.Huerta(Huerta)->우에르타
 HumanStandard.None.Last.Huff(Huff)->허프
-HumanStandard.None.Last.Huffman(Huffman)->허프만
+HumanStandard.None.Last.Huffman(Huffman)->허프먼
 HumanStandard.None.Last.Hughes(Hughes)->휴스
 HumanStandard.None.Last.Hull(Hull)->헐
 HumanStandard.None.Last.Humphrey(Humphrey)->험프리
@@ -612,7 +612,7 @@ HumanStandard.None.Last.McCarthy(McCarthy)->맥카시
 HumanStandard.None.Last.McCarty(McCarty)->맥카티
 HumanStandard.None.Last.McClain(McClain)->맥클레인
 HumanStandard.None.Last.McClure(McClure)->맥클루어
-HumanStandard.None.Last.McConnell(McConnell)->맥코넬
+HumanStandard.None.Last.McConnell(McConnell)->맥코널
 HumanStandard.None.Last.McCormick(McCormick)->맥코믹
 HumanStandard.None.Last.McCoy(McCoy)->맥코이
 HumanStandard.None.Last.McDaniel(McDaniel)->맥다니엘
@@ -703,7 +703,7 @@ HumanStandard.None.Last.Novak(Novak)->노박
 HumanStandard.None.Last.Nunez(Nunez)->누녜스
 HumanStandard.None.Last.O'Brien(O'Brien)->오'브라이언
 HumanStandard.None.Last.Ochoa(Ochoa)->오초아
-HumanStandard.None.Last.O'Connell(O'Connell)->오'코넬
+HumanStandard.None.Last.O'Connell(O'Connell)->오'코널
 HumanStandard.None.Last.O'Connor(O'Connor)->오'코너
 HumanStandard.None.Last.Odom(Odom)->오덤
 HumanStandard.None.Last.O'Donnell(O'Donnell)->오'도넬
@@ -1355,7 +1355,7 @@ HumanStandard.Male.First.Gavril(Gavril)->가브릴
 HumanStandard.Male.First.Garry(Garry)->게리
 HumanStandard.Male.First.Gennady(Gennady)->게나디
 HumanStandard.Male.First.Gerasim(Gerasim)->게라심
-HumanStandard.Male.First.German(German)->게르만
+HumanStandard.Male.First.German(German)->저먼
 HumanStandard.Male.First.Gleb(Gleb)->글렙
 HumanStandard.Male.First.Grigory(Grigory)->그리고리
 HumanStandard.Male.First.David(David)->데이비드

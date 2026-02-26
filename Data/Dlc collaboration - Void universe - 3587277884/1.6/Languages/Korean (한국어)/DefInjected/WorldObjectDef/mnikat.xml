@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=pit gate asteroid-->
+  <UV_PitGateAsteroid.label>지하 통로 소행성</UV_PitGateAsteroid.label>
+  <!--Original=An asteroid marked by a massive crater, exuding an ominous aura. It conceals a network of caves leading deep into its core.
+You may attempt to venture deeper inside.-->
+  <UV_PitGateAsteroid.description>거대한 구멍이 특징인 이 소행성은 불길한 기운을 뿜어내고 있습니다. 그 내부에는 핵 깊숙한 곳까지 이어지는 동굴들이 숨겨져 있습니다.
+안으로 더 깊숙이 진입을 시도할 수 있습니다.</UV_PitGateAsteroid.description>
+  <!--Original=pit gate asteroid-->
+  <UV_HeartPitGateAsteroid.label>지하 통로 소행성</UV_HeartPitGateAsteroid.label>
+  <!--Original=An asteroid marked by a massive crater, exuding an ominous aura. It conceals a network of caves leading deep into its core.
+You may attempt to venture deeper inside.-->
+  <UV_HeartPitGateAsteroid.description>거대한 구멍이 특징인 이 소행성은 불길한 기운을 뿜어내고 있습니다. 그 내부에는 핵 깊숙한 곳까지 이어지는 동굴들이 숨겨져 있습니다.
+안으로 더 깊숙이 진입을 시도할 수 있습니다.</UV_HeartPitGateAsteroid.description>
+  <!--Original=asteroid underground base-->
+  <UV_HatchAsteroid.label>소행성 지하 기지</UV_HatchAsteroid.label>
+  <!--Original=An asteroid whose interior has been refitted into an underground base. It exudes an ominous aura, with unknown dust particles continuously wafting from within.
+You may attempt to venture deeper inside.-->
+  <UV_HatchAsteroid.description>내부가 지하 기지로 개조된 소행성입니다. 불길한 기운을 내뿜고 있으며, 정체불명의 먼지 입자가 내부에서 끊임없이 흘러나오고 있습니다.
+안으로 더 깊숙이 진입을 시도할 수 있습니다.</UV_HatchAsteroid.description>
+</LanguageData>

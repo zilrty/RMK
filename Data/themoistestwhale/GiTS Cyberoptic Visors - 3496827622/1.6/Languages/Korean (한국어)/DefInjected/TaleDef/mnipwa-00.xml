@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <gitsTaleEMPDisruptVisor.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef](이)가 시야가 EMP로  교란된 일</li>
+    <li>tale_noun-&gt;[PAWN_nameDef](이)가 EMP로 사이버옵틱 바이저가 교란된 일</li>
+    <li>tale_noun-&gt;[PAWN_nameDef](이)가 EMP로 전투 바이저가 교란된 일</li>
+    <li>tale_noun-&gt;[PAWN_nameDef]의 사이버옵틱 바이저가 치명적으로 고장난 일</li>
+    <li>tale_noun-&gt;[PAWN_nameDef]의 전투 바이저가 치명적으로 고장난 일</li>
+    <li>image-&gt;[PAWN_nameFull](이)가 [circumstance_group] 쓰러지는 모습</li>
+    <li>image-&gt;[PAWN_nameFull](이)가 [TerrainFeature] 옆에서 [circumstance_group] 웅크리는 장면</li>
+    <li>image-&gt;[PAWN_nameFull](이)가 [circumstance_group] 엄폐물로 몸을 던지는 모습</li>
+    <li>image-&gt;[PAWN_nameFull](이)가 [circumstance_group] 엄폐물 안으로 굴러 들어가는 장면</li>
+    <li>image-&gt;[PAWN_nameFull](이)가 [circumstance_group] 사이버옵틱 바이저를 움켜쥐는 모습</li>
+    <li>circumstance_phrase-&gt;[PAWN_possessive] 얼굴이 고통으로 일그러진 채로</li>
+    <li>circumstance_phrase-&gt;극심한 고통 속에서</li>
+    <li>circumstance_phrase-&gt;고통스러운 표정으로</li>
+    <li>circumstance_phrase-&gt;귀를 막은 채로</li>
+    <li>circumstance_phrase-&gt;교전 중에</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef](은)는 전기 화상으로 그을렸습니다.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef]의 전투 바이저가 눈에 띄게 오작동하고 있습니다.</li>
+    <li>desc_sentence-&gt;배경 너머로 버섯구름이 피어오르고 있습니다.</li>
+    <li>desc_sentence-&gt;이 장면은 [TreeType] 숲 안에서 벌어집니다.</li>
+    <li>desc_sentence-&gt;이 장면은 버려진 창고 내부에서 벌어진 것으로 보입니다.</li>
+    <li>desc_sentence-&gt;이 장면은 와인 은행 포위전 중인 것으로 보입니다.</li>
+    <li>desc_sentence-&gt;이 장면은 ‘제리코’라는 유조선 내부의 희미한 조명 아래에서 펼쳐집니다.</li>
+    <li>desc_sentence-&gt;이 장면은 폭발과 총성이 난무하는 배경을 등지고 있습니다.</li>
+  </gitsTaleEMPDisruptVisor.rulePack.rulesStrings>
+</LanguageData>

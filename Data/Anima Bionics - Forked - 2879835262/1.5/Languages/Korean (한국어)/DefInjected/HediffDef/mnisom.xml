@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimaLeg.label>영혼 운반꾼 다리</AnimaLeg.label>
+  <AnimaLeg.description>이식된 영혼 운반꾼 다리입니다.</AnimaLeg.description>
+  <AnimaLeg.labelNoun>영혼 운반꾼 다리</AnimaLeg.labelNoun>
+  <AnimaWarArm.label>영혼 뾰족발톱 팔</AnimaWarArm.label>
+  <AnimaWarArm.description>이식된 영혼 뾰족발톱 팔입니다.</AnimaWarArm.description>
+  <AnimaWarArm.labelNoun>영혼 뾰족발톱 팔</AnimaWarArm.labelNoun>
+  <AnimaWarArm.comps.0.tools.0.label>발톱</AnimaWarArm.comps.0.tools.0.label>
+  <AnimaEntArm.label>영혼 요정 팔</AnimaEntArm.label>
+  <AnimaEntArm.labelNoun>영혼 요정 팔</AnimaEntArm.labelNoun>
+  <AnimaEntArm.description>이식된 영혼 요정 팔입니다.</AnimaEntArm.description>
+  <AnimaHorn.label>영혼 뿔</AnimaHorn.label>
+  <AnimaHorn.description>이식된 영혼 뿔입니다.</AnimaHorn.description>
+  <AnimaHorn.labelNoun>영혼 뿔</AnimaHorn.labelNoun>
+  <AnimaNose.label>영혼 코</AnimaNose.label>
+  <AnimaNose.labelNoun>영혼 코</AnimaNose.labelNoun>
+  <AnimaNose.description>이식된 영혼 코입니다.</AnimaNose.description>
+  <AnimaJaw.label>영혼 턱</AnimaJaw.label>
+  <AnimaJaw.labelNoun>영혼 턱</AnimaJaw.labelNoun>
+  <AnimaJaw.description>이식된 영혼 턱입니다.</AnimaJaw.description>
+  <AnimaEar.label>영혼 귀</AnimaEar.label>
+  <AnimaEar.labelNoun>영혼 귀</AnimaEar.labelNoun>
+  <AnimaEar.description>이식된 영혼 귀입니다.</AnimaEar.description>
+  <AnimaPlate.label>영혼 나무피부</AnimaPlate.label>
+  <AnimaPlate.description>이식된 영혼 나무피부입니다.</AnimaPlate.description>
+  <AnimaPlate.labelNoun>영혼 나무피부</AnimaPlate.labelNoun>
+  <AnimaLiver.label>영혼 간</AnimaLiver.label>
+  <AnimaLiver.description>이식된 영혼 간입니다.</AnimaLiver.description>
+  <AnimaLiver.labelNoun>영혼 간</AnimaLiver.labelNoun>
+  <AnimaKidney.label>영혼 신장</AnimaKidney.label>
+  <AnimaKidney.description>이식된 영혼 신장입니다.</AnimaKidney.description>
+  <AnimaKidney.labelNoun>영혼 신장</AnimaKidney.labelNoun>
+  <AnimaLung.label>영혼 정화 폐</AnimaLung.label>
+  <AnimaLung.description>이식된 영혼 정화 폐입니다.</AnimaLung.description>
+  <AnimaLung.labelNoun>영혼 폐</AnimaLung.labelNoun>
+  <AnimaEye.label>영혼 눈</AnimaEye.label>
+  <AnimaEye.description>이식된 영혼 눈입니다.</AnimaEye.description>
+  <AnimaEye.labelNoun>영혼 눈</AnimaEye.labelNoun>
+  <AnimaStomach.label>영혼 위</AnimaStomach.label>
+  <AnimaStomach.description>이식된 영혼 위입니다.</AnimaStomach.description>
+  <AnimaStomach.labelNoun>영혼 변재 위</AnimaStomach.labelNoun>
+  <AnimaSpine.label>영혼 척추</AnimaSpine.label>
+  <AnimaSpine.description>이식된 영혼 척추입니다.</AnimaSpine.description>
+  <AnimaSpine.labelNoun>영혼 몸통 척추</AnimaSpine.labelNoun>
+  <AnimaHeart.label>영혼 심장</AnimaHeart.label>
+  <AnimaHeart.description>이식된 영혼 심장입니다.</AnimaHeart.description>
+  <AnimaHeart.labelNoun>영혼 심장</AnimaHeart.labelNoun>
+  <PsychicDryad.label>초능력 나무지기</PsychicDryad.label>
+  <PsychicDryad.labelNoun>초능력 나무지기</PsychicDryad.labelNoun>
+  <PsychicDryad.description>이식된 초능력 나무지기입니다.</PsychicDryad.description>
+  <MindDryad.label>정신 나무지기</MindDryad.label>
+  <MindDryad.labelNoun>정신 나무지기</MindDryad.labelNoun>
+  <MindDryad.description>이식된 정신 나무지기입니다.</MindDryad.description>
+  <ToxinScratch.label>독성 긁힘</ToxinScratch.label>
+  <ToxinScratch.labelNoun>독성 긁힘</ToxinScratch.labelNoun>
+  <ToxinScratch.description>긁히거나 찢긴 상처로 고통스러운 독이 퍼졌습니다.</ToxinScratch.description>
+  <ToxinScratch.injuryProps.destroyedLabel>뜯겨나감</ToxinScratch.injuryProps.destroyedLabel>
+  <ToxinScratch.injuryProps.destroyedOutLabel>뽑혀나감</ToxinScratch.injuryProps.destroyedOutLabel>
+  <ToxinScratch.comps.0.labelTendedWell>붕대 감김</ToxinScratch.comps.0.labelTendedWell>
+  <ToxinScratch.comps.0.labelTendedWellInner>봉합됨</ToxinScratch.comps.0.labelTendedWellInner>
+  <ToxinScratch.comps.0.labelSolidTendedWell>고정됨</ToxinScratch.comps.0.labelSolidTendedWell>
+  <ToxinScratch.comps.2.permanentLabel>긁힌 흉터</ToxinScratch.comps.2.permanentLabel>
+</LanguageData>
