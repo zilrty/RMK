@@ -97,7 +97,7 @@
   <!--Original={PAWN_nameDef} harbors an extremely dangerous dark side which comes out when {PAWN_pronoun} starts to lose control. While stressed or in a mental break, {PAWN_pronoun} becomes much faster, stronger, and harder to subdue; during such an episode, any damage {PAWN_pronoun} takes may cause {PAWN_objective} to go berserk.-->
   <HVT_RepressedRage.degreeDatas.0.description>{PAWN_nameDef}(은)는 {PAWN_pronoun}(이)가 통제력을 잃기 시작할 때 드러나는 극도로 위험한 어두운 면을 가지고 있습니다. 스트레스를 받거나 정신이상일 때, {PAWN_pronoun}(은)는 훨씬 더 빠르고 강해지며 제압하기 어려워집니다. 이런 상태일 때는 {PAWN_pronoun}(이)가 피해를 받으면 광란 상태가 될 수 있습니다.</HVT_RepressedRage.degreeDatas.0.description>
   <!--Original=reveller-->
-  <HVT_Reveller.degreeDatas.0.label>파티광</HVT_Reveller.degreeDatas.0.label>
+  <HVT_Reveller.degreeDatas.0.label>파티 애호가</HVT_Reveller.degreeDatas.0.label>
   <!--Original={PAWN_nameDef} is all about the party life! {PAWN_pronoun} throws a party whenever {PAWN_pronoun} becomes inspired, and {PAWN_pronoun} loves attending any sort of social function.-->
   <HVT_Reveller.degreeDatas.0.description>{PAWN_nameDef}(은)는 파티를 위해 삽니다! {PAWN_pronoun}(은)는 {PAWN_pronoun}(이)가 영감을 얻을 때마다 파티를 열며, 사교 모임이라면 뭐든지 참석하는 것을 좋아합니다.</HVT_Reveller.degreeDatas.0.description>
   <!--Original=sadistic-->
@@ -554,8 +554,8 @@
   <HVT_TTraitFirehawk.degreeDatas.0.description>{PAWN_nameDef}(은)는 불꽃에게 총애를 받아 고온에 거의 면역입니다. 명상하는 동안에는 열을 방출합니다. {PAWN_possessive} 초능력은 근처의 적들을 불태우고 열사병을 일으킬 수 있으며, 공격 시에는 대상에게 불을 붙입니다.</HVT_TTraitFirehawk.degreeDatas.0.description>
   <!--Original=psychic flamingo-->
   <HVT_TTraitFlamingo.degreeDatas.0.label>초능력 홍학</HVT_TTraitFlamingo.degreeDatas.0.label>
-  <!--Original={PAWN_nameDef} is immune to fire, poison, and most environmental phenomena.-->
-  <HVT_TTraitFlamingo.degreeDatas.0.description>{PAWN_nameDef}(은)는 화염, 독, 그리고 대부분의 환경적 현상에 면역입니다.</HVT_TTraitFlamingo.degreeDatas.0.description>
+  <!--Original={PAWN_nameDef} is immune to fire, poison, EMPs, and most environmental phenomena.-->
+  <HVT_TTraitFlamingo.degreeDatas.0.description>{PAWN_nameDef}(은)는 화염, 독, 전자기 펄스, 그리고 대부분의 환경적 현상에 면역입니다.</HVT_TTraitFlamingo.degreeDatas.0.description>
   <!--Original=psychic fodiator-->
   <HVT_TTraitFodiator.degreeDatas.0.label>초능력 날치</HVT_TTraitFodiator.degreeDatas.0.label>
   <!--Original={PAWN_nameDef} can induce sudden and unnatural movements in {PAWN_possessive} body, making {PAWN_objective} faster and better at dodging, allowing {PAWN_objective} to travel much farther with jump abilities, and even allowing {PAWN_objective} to leap great distances under {PAWN_possessive} own power.-->
