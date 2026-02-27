@@ -639,7 +639,6 @@
     <li IfModActive="XMB.Giantimperialcannonturret.MO">Data/mo/Giant imperial turret - 3406932075</li>
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
-    <li IfModActive="moistestWhale.gitsCyberneticEquipment">Data/moistestwhale/GiTS Cybernetic Equipment - 3352838918/1.6</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -944,6 +943,7 @@
     <li IfModActive="syrus.yayoscombataddon">Data/Syrus/Yayo's Combat 3 - Addon - 2796514196</li>
     <li IfModActive="moistestwhale.ceilingtradebeacon">Data/themoistestwhale/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
     <li IfModActive="moistestWhale.gitsCyberbrains">Data/themoistestwhale/GiTS Cyberbrains - 3272114598</li>
+    <li IfModActive="moistestWhale.gitsCyberneticEquipment">Data/themoistestwhale/GiTS Cybernetic Equipment - 3352838918/1.6</li>
     <li IfModActive="moistestWhale.gitsCyberoptics">Data/themoistestwhale/GiTS Cyberoptic Visors - 3496827622/1.6</li>
     <li IfModActive="TMC.Armory.AssaultRifle.1">Data/TMC/TMC Armory - Assault Rifles #1 - 2208689786</li>
     <li IfModActive="TMC.Armory.CommunityPack">Data/TMC/TMC Armory - Community Pack  - 2297887643</li>
@@ -3204,7 +3204,6 @@
     <li IfModActive="XMB.Giantimperialcannonturret.MO">Data/mo/Giant imperial turret - 3406932075</li>
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
-    <li IfModActive="moistestWhale.gitsCyberneticEquipment">Data/moistestwhale/GiTS Cybernetic Equipment - 3352838918/1.6</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -3509,6 +3508,7 @@
     <li IfModActive="syrus.yayoscombataddon">Data/Syrus/Yayo's Combat 3 - Addon - 2796514196</li>
     <li IfModActive="moistestwhale.ceilingtradebeacon">Data/themoistestwhale/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
     <li IfModActive="moistestWhale.gitsCyberbrains">Data/themoistestwhale/GiTS Cyberbrains - 3272114598</li>
+    <li IfModActive="moistestWhale.gitsCyberneticEquipment">Data/themoistestwhale/GiTS Cybernetic Equipment - 3352838918/1.6</li>
     <li IfModActive="moistestWhale.gitsCyberoptics">Data/themoistestwhale/GiTS Cyberoptic Visors - 3496827622/1.6</li>
     <li IfModActive="TMC.Armory.AssaultRifle.1">Data/TMC/TMC Armory - Assault Rifles #1 - 2208689786</li>
     <li IfModActive="TMC.Armory.CommunityPack">Data/TMC/TMC Armory - Community Pack  - 2297887643</li>
@@ -5769,7 +5769,6 @@
     <li IfModActive="XMB.Giantimperialcannonturret.MO">Data/mo/Giant imperial turret - 3406932075</li>
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
-    <li IfModActive="moistestWhale.gitsCyberneticEquipment">Data/moistestwhale/GiTS Cybernetic Equipment - 3352838918/1.6</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -6074,6 +6073,7 @@
     <li IfModActive="syrus.yayoscombataddon">Data/Syrus/Yayo's Combat 3 - Addon - 2796514196</li>
     <li IfModActive="moistestwhale.ceilingtradebeacon">Data/themoistestwhale/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
     <li IfModActive="moistestWhale.gitsCyberbrains">Data/themoistestwhale/GiTS Cyberbrains - 3272114598</li>
+    <li IfModActive="moistestWhale.gitsCyberneticEquipment">Data/themoistestwhale/GiTS Cybernetic Equipment - 3352838918/1.6</li>
     <li IfModActive="moistestWhale.gitsCyberoptics">Data/themoistestwhale/GiTS Cyberoptic Visors - 3496827622/1.6</li>
     <li IfModActive="TMC.Armory.AssaultRifle.1">Data/TMC/TMC Armory - Assault Rifles #1 - 2208689786</li>
     <li IfModActive="TMC.Armory.CommunityPack">Data/TMC/TMC Armory - Community Pack  - 2297887643</li>
@@ -8335,7 +8335,6 @@
     <li IfModActive="XMB.Giantimperialcannonturret.MO">Data/mo/Giant imperial turret - 3406932075</li>
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
-    <li IfModActive="moistestWhale.gitsCyberneticEquipment">Data/moistestwhale/GiTS Cybernetic Equipment - 3352838918/1.6</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -8640,6 +8639,7 @@
     <li IfModActive="syrus.yayoscombataddon">Data/Syrus/Yayo's Combat 3 - Addon - 2796514196</li>
     <li IfModActive="moistestwhale.ceilingtradebeacon">Data/themoistestwhale/Ceiling Mounted Orbital Trade Beacon - 3214957801</li>
     <li IfModActive="moistestWhale.gitsCyberbrains">Data/themoistestwhale/GiTS Cyberbrains - 3272114598</li>
+    <li IfModActive="moistestWhale.gitsCyberneticEquipment">Data/themoistestwhale/GiTS Cybernetic Equipment - 3352838918/1.6</li>
     <li IfModActive="moistestWhale.gitsCyberoptics">Data/themoistestwhale/GiTS Cyberoptic Visors - 3496827622/1.6</li>
     <li IfModActive="TMC.Armory.AssaultRifle.1">Data/TMC/TMC Armory - Assault Rifles #1 - 2208689786</li>
     <li IfModActive="TMC.Armory.CommunityPack">Data/TMC/TMC Armory - Community Pack  - 2297887643</li>
@@ -10004,7 +10004,7 @@
     <li IfModActive="thelastbulletbender.saddleup2">Data/Saddle-up 2! - 2927035685</li>
     <li IfModActive="opponent019.SanguophageFeedRelationship">Data/Sanguophage Feed Relationship - 2884586228</li>
     <li IfModActive="taranchuk.savecleaner">Data/Save Cleaner - NS2879064</li>
-    <li IfModActive="kentington.saveourship2">Data/Save Our Ship 2 - 1909914131/1.5</li>
+    <li IfModActive="kentington.saveourship2">Data/Save Our Ship 2 - 1909914131/1.6</li>
     <li IfModActive="scaled.world">Data/Scaled World - 2799361186</li>
     <li IfModActive="Infinite.Scavenging">Data/Scavenging mod - 2544523612</li>
     <li IfModActive="dev.soeur.ScenarioEditorUIOverhaul">Data/Scenario Editor UI Overhaul - 3547456746</li>
