@@ -200,7 +200,7 @@ You can manually trigger the obelisk, which will significantly weaken the pulse&
   <UV_VoidHoldingPlatform.label>공허 구속대</UV_VoidHoldingPlatform.label>
   <!--Original=A platform used for the complete containment of dangerous entities. Crafted from fragments of the Void Monolith, it renders all contained entities utterly powerless to resist.
 Downed entities can be captured and secured on a holding platform,where they can be studied for Anomaly knowledge.increase containment strength by building strong walls and doors,and other special containment devices.-->
-  <UV_VoidHoldingPlatform.description>위험한 실체를 완전히 구속하기 위한 구속대입니다. 모노리스의 조각으로 제작되어, 구속된 모든 실체의 저항 능력을 완전히 상실시킵니다.\n\n쓰러진 실체를 포획하여 구속대에 고정하고 조사하면 이상 현상 연구를 진행할 수 있습니다. 주변에 강한 벽, 문, 기타 특수 억제 장치를 건설하면 더욱 효과적인 구속이 가능합니다.</UV_VoidHoldingPlatform.description>
+  <UV_VoidHoldingPlatform.description>위험한 실체를 완전히 수용하기 위한 구속대입니다. 모노리스 조각으로 제작되어, 수용된 모든 실체의 저항 능력을 완전히 상실시킵니다.\n\n쓰러진 실체를 포획하여 구속대에 고정하고 조사하면 이상 현상 연구를 진행할 수 있습니다. 주변에 강한 벽, 문, 기타 특수 억제 장치를 건설하면 더욱 효과적인 구속이 가능합니다.</UV_VoidHoldingPlatform.description>
   <!--Original=biomutation terraformer-->
   <UV_BiomutationTerraformer.label>생체변이 테라포머</UV_BiomutationTerraformer.label>
   <!--Original=A scavenged archotech shard mounted in an electrical stimulation frame. The device creates a frenzied psychic vibration in the local area which stimulates everyone nearby to move and work faster. However, any mental breaks they have are guaranteed to be violent.-->
