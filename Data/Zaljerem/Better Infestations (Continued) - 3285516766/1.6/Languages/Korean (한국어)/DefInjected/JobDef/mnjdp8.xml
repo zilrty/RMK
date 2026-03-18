@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BI_Butcher.reportString>{TargetA} 도축 중.</BI_Butcher.reportString>
+  <BI_Maintain.reportString>{TargetA} 유지보수 중.</BI_Maintain.reportString>
+  <BI_GotoSpawnHive.reportString>이동 중.</BI_GotoSpawnHive.reportString>
+  <BI_GotoPatrol.reportString>이동 중.</BI_GotoPatrol.reportString>
+  <BI_ChewConduits.reportString>{TargetA} 갉아먹는 중.</BI_ChewConduits.reportString>
+</LanguageData>

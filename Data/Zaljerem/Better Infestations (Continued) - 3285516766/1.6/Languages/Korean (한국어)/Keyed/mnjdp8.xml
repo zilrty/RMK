@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BI_LetterInfestationDefeated>{0}(이)가 완전히 소탕되었습니다.</BI_LetterInfestationDefeated>
+  <BI_LetterLabelInfestationDefeated>곤충 발생지 제거됨</BI_LetterLabelInfestationDefeated>
+  <BI_LetterLabelInsectRaid>습격: 곤충</BI_LetterLabelInsectRaid>
+  <BI_LetterTextInsectRaid>근처 곤충 군락지에서 온 {0} 무리가 근처에 도착했습니다.\n\n그들은 즉시 공격을 시작할 것입니다.</BI_LetterTextInsectRaid>
+
+  <BI_InfestationsTip>곤충 발생 이벤트의 활성화 여부를 선택할 수 있습니다.</BI_InfestationsTip>
+  <BI_RaidingInsectsTip>이 설정을 활성화하면 습격하는 곤충들이 맵에 진입할 수 있습니다.</BI_RaidingInsectsTip>
+  <BI_SwarmingHordeTip>몰려드는 군단 이벤트는 곤충 발생의 후속 이벤트입니다. 곤충 발생 규모가 너무 커지면 정착지에 대한 대규모 습격이 시작될 수 있습니다.</BI_SwarmingHordeTip>
+  <BI_NotificationTip>곤충 발생이 시작될 때 나타나는 시간 지연 및 편지 알림에 대한 설정입니다.</BI_NotificationTip>
+  <BI_SpawnInitialHuntersTip>군락이 생성될 때 초기 사냥꾼 집단의 등장 여부를 결정합니다.</BI_SpawnInitialHuntersTip>
+  <BI_SpawnQueensTip>활성화 시 군락에서 여왕이 등장할 수 있습니다.</BI_SpawnQueensTip>
+  <BI_SpawnNewbornsTip>활성화 시 군락에서 생성되는 곤충들이 새끼 상태로 등장합니다.</BI_SpawnNewbornsTip>
+  <BI_ProduceLeatherTip>군락의 곤충들이 사체를 도축할 때 가죽을 생산할 수 있게 합니다.</BI_ProduceLeatherTip>
+  
+  <BI_UninstallTip>이 모드의 모든 수정 사항을 제거하여 안전하게 구독을 해제할 수 있도록 합니다. ***사용하기 전에 반드시 세이브 파일을 백업하세요!***</BI_UninstallTip>
+</LanguageData>
