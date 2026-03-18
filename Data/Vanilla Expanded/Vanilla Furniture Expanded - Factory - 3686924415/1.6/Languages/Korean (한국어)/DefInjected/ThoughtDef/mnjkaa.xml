@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEFactory_AteProcessedMince.stages.0.label>생 다짐육 섭취</VFEFactory_AteProcessedMince.stages.0.label>
+  <VFEFactory_AteProcessedMince.stages.0.description>생 가공육을 먹었어. 차갑고 미끌미끌한데다 되게 기분 나쁜 느낌이었어.</VFEFactory_AteProcessedMince.stages.0.description>
+  <VFEFactory_AteProcessedMinceIngredient.stages.0.label>다짐육 요리 섭취</VFEFactory_AteProcessedMinceIngredient.stages.0.label>
+  <VFEFactory_AteProcessedMinceIngredient.stages.0.description>가공육으로 만든 요리를 먹었어. 먹을 순 있었지만 맛은 아쉬웠어.</VFEFactory_AteProcessedMinceIngredient.stages.0.description>
+</LanguageData>

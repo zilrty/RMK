@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEFactory_FishingProcess_.label>{0} 양식</VFEFactory_FishingProcess_.label>
+  <VFEFactory_FishingProcess_.description>양식장에서 {0}(을)를 기릅니다.</VFEFactory_FishingProcess_.description>
+  <VFEFactory_FishingProcess_.labelOverride>{0} 양식</VFEFactory_FishingProcess_.labelOverride>
+</LanguageData>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEFactory_Conveyor.label>컨베이어</VFEFactory_Conveyor.label>
+  <VFEFactory_Conveyor.description>물품을 한 장소에서 다른 곳으로 옮길 수 있는 간단한 컨베이어 벨트입니다. 안전상 문제로 컨베이어 벨트 위에 있는 물품과는 상호작용할 수 없습니다.</VFEFactory_Conveyor.description>
+  <VFEFactory_UndergroundConveyorEntrance.label>지하 컨베이어 입구</VFEFactory_UndergroundConveyorEntrance.label>
+  <VFEFactory_UndergroundConveyorEntrance.description>컨베이어 벨트용 지하 진입 터널입니다. 물품을 짧은 거리 동안 지하로 운송할 수 있습니다. 작동하려면 인근의 지하 컨베이어 출구와 연결되어야 합니다.</VFEFactory_UndergroundConveyorEntrance.description>
+  <VFEFactory_UndergroundConveyorExit.label>지하 컨베이어 출구</VFEFactory_UndergroundConveyorExit.label>
+  <VFEFactory_UndergroundConveyorExit.description>컨베이어 벨트용 지하 진출 터널입니다. 물품을 짧은 거리 동안 지하로 운송할 수 있습니다. 작동하려면 인근의 지하 컨베이어 입구와 연결되어야 합니다.</VFEFactory_UndergroundConveyorExit.description>
+  <VFEFactory_Autofarmer.label>자동 재배기</VFEFactory_Autofarmer.label>
+  <VFEFactory_Autofarmer.description>파종기와 수확기의 기능을 결합한 대형 자동화 시스템으로, 지정된 실외 구역을 앞뒤로 이동하며 다 자란 식물을 수확하고 새 작물을 심습니다. 수확물은 연결된 공장 호퍼에 넣거나, 호퍼가 없으면 바닥에 떨어뜨립니다. 구역 내 식물 대부분이 완전히 자라면 자동으로 가동되도록 설정할 수 있습니다.</VFEFactory_Autofarmer.description>
+  <VFEFactory_AutomatedDrillPlatform.label>자동 채굴 플랫폼</VFEFactory_AutomatedDrillPlatform.label>
+  <VFEFactory_AutomatedDrillPlatform.description>지표면 깊은 곳에서 광물을 추출하기 위한 자동 심층 채굴 장비입니다. 바위 덩어리뿐만 아니라 금속도 채굴할 수 있습니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다.</VFEFactory_AutomatedDrillPlatform.description>
+  <VFEFactory_AutomatedSmelter.label>자동 전기로</VFEFactory_AutomatedSmelter.label>
+  <VFEFactory_AutomatedSmelter.description>강력한 전자석과 열을 이용해 고철 덩어리, 망가진 무기, 의류, 바위 덩어리, 그리고 메카노이드 시체에서 사용 가능한 금속을 추출합니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedSmelter.description>
+  <VFEFactory_AutomatedBiofuelRefinery.label>자동 연료 정제기</VFEFactory_AutomatedBiofuelRefinery.label>
+  <VFEFactory_AutomatedBiofuelRefinery.description>나무나 식물성 물질 같은 유기물을 화학연료로 자동 정제합니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedBiofuelRefinery.description>
+  <VFEFactory_AutomatedMasonrySaw.label>자동 석조 톱</VFEFactory_AutomatedMasonrySaw.label>
+  <VFEFactory_AutomatedMasonrySaw.description>바위 덩어리를 사용 가능한 석재 블록으로 절단할 수 있는 산업용 기계입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedMasonrySaw.description>
+  <VFEFactory_AutomatedMincer.label>자동 분쇄기</VFEFactory_AutomatedMincer.label>
+  <VFEFactory_AutomatedMincer.description>시체를 가공 다짐육으로 처리할 수 있는 자동화된 톱과 분쇄기 시스템입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedMincer.description>
+  <VFEFactory_ConveyorOven.label>컨베이어 오븐</VFEFactory_ConveyorOven.label>
+  <VFEFactory_ConveyorOven.description>보관이 용이한 간단한 포장 음식을 대량으로 자동 생산하기 위한 산업용 오븐입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_ConveyorOven.description>
+  <VFEFactory_AutomatedAssembler.label>자동 조립기</VFEFactory_AutomatedAssembler.label>
+  <VFEFactory_AutomatedAssembler.description>부품이나 고급 부품 같은 복잡한 아이템을 조립하기 위한 자동화된 산업용 기계입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedAssembler.description>
+  <VFEFactory_NeutroamineSynthesizer.label>뉴트로아민 합성기</VFEFactory_NeutroamineSynthesizer.label>
+  <VFEFactory_NeutroamineSynthesizer.description>유기 원료로부터 뉴트로아민을 자동 합성하도록 설계된 첨단 화학 시설입니다. 정제된 동물 지방과 화학연료를 뉴트로아민으로 전환합니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_NeutroamineSynthesizer.description>
+  <VFEFactory_AutomatedAmmunitionPress.label>자동 탄약 프레스기</VFEFactory_AutomatedAmmunitionPress.label>
+  <VFEFactory_AutomatedAmmunitionPress.description>원자재로부터 다양한 포탄을 자동으로 제조할 수 있는 산업용 프레스기입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedAmmunitionPress.description>
+  <VFEFactory_Autoloom.label>자동 직조기</VFEFactory_Autoloom.label>
+  <VFEFactory_Autoloom.description>옷감과 의류의 자동 생산을 위해 설계된 산업용 직조기로, 천이나 가죽 같은 재료를 효율적으로 다양한 완제품으로 만들어냅니다. 평범 등급의 물품만 생산할 수 있습니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_Autoloom.description>
+  <VFEFactory_AutomatedAlloyForge.label>자동 합금 용광로</VFEFactory_AutomatedAlloyForge.label>
+  <VFEFactory_AutomatedAlloyForge.description>기초적인 재료를 플라스틸과 같은 희귀한 합금으로 결합하는 데 필요한 엄청난 열과 압력을 견디도록 제작된 거대 산업용 용광로입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedAlloyForge.description>
+  <VFEFactory_AutomatedDistillery.label>자동 증류기</VFEFactory_AutomatedDistillery.label>
+  <VFEFactory_AutomatedDistillery.description>노동력 투입 없이 원료로부터 맥주와 기타 주류를 대량 생산하기 위한 산업용 자동 증류기입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. They produce significant heat and consume much power. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedDistillery.description>
+  <VFEFactory_MedicineGranulator.label>약품 제립기</VFEFactory_MedicineGranulator.label>
+  <VFEFactory_MedicineGranulator.description>원료로부터 기초 의료품 및 약물을 대량 생산하기 위한 첨단 제약 공정 장치입니다. 약품, 사이카이트 계열 약물, 연초와 같은 품목을 효율적으로 분쇄, 합성 및 포장할 수 있습니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_MedicineGranulator.description>
+  <VFEFactory_AutomatedMachiningBay.label>자동 기계 작업소</VFEFactory_AutomatedMachiningBay.label>
+  <VFEFactory_AutomatedMachiningBay.description>다양한 무기 및 방어구와 복잡한 장비를 정밀 제조하기 위해 설계된 자동 산업 시설입니다. 평범 등급의 물품만 생산할 수 있습니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedMachiningBay.description>
+  <VFEFactory_AutomatedCrematorium.label>컨베이어 화장터</VFEFactory_AutomatedCrematorium.label>
+  <VFEFactory_AutomatedCrematorium.description>극한의 열로 시체나 유품 의류와 같은 필요없는 물품을 자동으로 소각하기 위해 설계된 산업용 소각로입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedCrematorium.description>
+  <VFEFactory_FactoryHopper.label>공장 호퍼</VFEFactory_FactoryHopper.label>
+  <VFEFactory_FactoryHopper.description>공장 건물이 사용할 자원을 담아두는 곳입니다.</VFEFactory_FactoryHopper.description>
+  <VFEFactory_Booster.label>공장 부스터</VFEFactory_Booster.label>
+  <VFEFactory_Booster.description>산업용 공장 건물의 속도와 효율을 높일 수 있는 민감도 높은 마이크로 프로세서 배열입니다. 인근의 공장 건물과 연결되면 오버클럭 상한을 100% 높여 생산 속도를 비약적으로 높일 수 있습니다. 공장 건물 하나당 최대 3개의 공장 부스터를 사용할 수 있습니다.</VFEFactory_Booster.description>
+  <VFEFactory_Heatsink.label>공장 방열판</VFEFactory_Heatsink.label>
+  <VFEFactory_Heatsink.description>산업용 공장 건물에서 발생하는 열을 흡수하기 위해 만들어진 냉각 시스템입니다. 인근의 공장 건물과 연결되면 열 발생량을 25% 감소시켜 과열과 화재 발생 위험을 줄입니다. 공장 건물 하나당 최대 4개의 공장 방열판을 사용할 수 있습니다.</VFEFactory_Heatsink.description>
+  <VFEFactory_MassProducedMeal.label>보급형 식사</VFEFactory_MassProducedMeal.label>
+  <VFEFactory_MassProducedMeal.description>가공된 재료를 기계가 조립하여 만든 보급형 식사입니다.</VFEFactory_MassProducedMeal.description>
+  <VFEFactory_ProcessedMince.label>가공 다짐육</VFEFactory_ProcessedMince.label>
+  <VFEFactory_ProcessedMince.description>많은 가공을 거친 다짐육 덩어리입니다. 먹어도 안전하지만 맛은 없습니다.</VFEFactory_ProcessedMince.description>
+  <VFEFactory_AutomatedCannery.label>자동 통조림 제조기</VFEFactory_AutomatedCannery.label>
+  <VFEFactory_AutomatedCannery.description>다양한 원재료를 사용해 통조림을 대량 생산하는 자동화된 식품 보존 시스템으로, 수작업이 전혀 필요하지 않습니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 공장 건물은 막대한 양의 열을 발생시키고 상당한 전력을 소모하며, 오버클럭을 통해 효율을 높이면 열 발생량과 전력 소모가 증가합니다. 공장 바닥 위에 지어야 합니다.</VFEFactory_AutomatedCannery.description>
+  <VCE_CannedSoup.label>캔 수프</VCE_CannedSoup.label>
+  <VCE_CannedSoup.description>강철로 밀봉된 수프는 거의 무한정 보관할 수 있습니다.</VCE_CannedSoup.description>
+  <VFEFactory_AutomatedFishfarm.label>자동 물고기 양식장</VFEFactory_AutomatedFishfarm.label>
+  <VFEFactory_AutomatedFishfarm.description>물고기가 있는 수역에서 자동으로 어획 작업을 하도록 설계된 산업용 어류 양식 및 채집 시설입니다.\n\n공장 건물은 투입과 배출에 공장 호퍼를 필요로 합니다. 얕은 물에 지어야 합니다.</VFEFactory_AutomatedFishfarm.description>
+</LanguageData>

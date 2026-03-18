@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_BasicFactories.label>기초 공장 건물</VFE_BasicFactories.label>
+  <VFE_BasicFactories.description>정착지 곳곳의 몇몇 작업들을 자동화하기 위한 기초적인 공장 건물과 분배기, 병합기, 선별기, 지하 운송 기능이 포함된 컨베이어 벨트 시스템, 그리고 공장 호퍼를 건설할 수 있습니다.</VFE_BasicFactories.description>
+  <VFE_ComplexFactories.label>복합 공장 건물</VFE_ComplexFactories.label>
+  <VFE_ComplexFactories.description>부품 제조나 플라스틸 합금 등 훨씬 더 다양한 작업을 수행할 수 있는 복잡하고 전문화된 공장들을 건설할 수 있습니다.</VFE_ComplexFactories.description>
+</LanguageData>
