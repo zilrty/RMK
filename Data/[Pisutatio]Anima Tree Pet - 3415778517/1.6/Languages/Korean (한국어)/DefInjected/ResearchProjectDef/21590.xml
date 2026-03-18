@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATP_AnimaDrugRefining.generalRules.rulesStrings>
+    <li>subject->영혼 약물 제조</li>
+    <li>subject_story->[ANYPAWN_possessive] 대학 직무를 약물 거래를 위한 위장 신분으로 활용했습니다</li>
+    <li>subject_story->음식에 소량의 플레이크를 섞어 배급하는 공동체를 세웠습니다</li>
+    <li>subject_story->인근 도시계에서 영혼 주사기 합법화 운동을 벌였습니다</li>
+    <li>subject_gerund->영혼 약물 정제</li>
+  </ATP_AnimaDrugRefining.generalRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATP_RitualTargetAnimaTreeNoPawns>지금은 영혼 나무를 위해 기도할 수 있는 정착민이 없습니다.</ATP_RitualTargetAnimaTreeNoPawns>
+  <ATP_AnimaTreePetHasAlreadySpawned>영혼 나무의 화신이 이미 존재합니다.</ATP_AnimaTreePetHasAlreadySpawned>
+  <ATP_BeginRitualNeedReach>영혼 나무에 도달할 수 있어야 합니다.</ATP_BeginRitualNeedReach>
+  <ATP_BeginChangeToPetRitualFloatMenu>영혼 나무의 화신 의식 시작</ATP_BeginChangeToPetRitualFloatMenu>
+  <ATP_LetterLabelAnimaTreeChangeToPet>영혼 나무의 화신</ATP_LetterLabelAnimaTreeChangeToPet>
+  <ATP_LetterTextAnimaTreeChangeToPet>영혼 나무가 화신으로 변했습니다.\n\n화신이 된 영혼 나무는 여유 시간에 명상을 하며 자신의 몸에 영혼 잔디를 키웁니다. 영혼 잔디가 20개에 도달하면 정착민 중 한 명과 초능력 연결을 형성할 수 있습니다.</ATP_LetterTextAnimaTreeChangeToPet>
+  <ATP_NotEnoughAnimaGrass>영혼 잔디가 부족합니다. 20개의 영혼 잔디가 필요합니다.</ATP_NotEnoughAnimaGrass>
+</LanguageData>

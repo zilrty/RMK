@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ATP_NumOfAnimaGrass.label>영혼 풀</ATP_NumOfAnimaGrass.label>
+  <ATP_NumOfAnimaGrass.description>영혼 풀의 수량</ATP_NumOfAnimaGrass.description>
+  <ATP_NumOfAnimaGrass.descriptionShort>영혼 풀 수량</ATP_NumOfAnimaGrass.descriptionShort>
+  <ATP_AnimaFruitHigh.label>따스한 영혼 과일 기운</ATP_AnimaFruitHigh.label>
+  <ATP_AnimaFruitHigh.description>혈류에 영혼 약물 성분이 흐르고 있습니다. 기분을 좋게 만듭니다.</ATP_AnimaFruitHigh.description>
+  <ATP_AnimaDrugTolerance.label>영혼 약물 내성</ATP_AnimaDrugTolerance.label>
+  <ATP_AnimaDrugTolerance.description>영혼 약물에 대한 내성이 형성되었습니다. 내성이 강할수록 동일한 효과를 보기 위해 더 많은 양의 영혼 약물이 필요합니다.</ATP_AnimaDrugTolerance.description>
+  <ATP_AnimaDrugAddiction.label>영혼 약물 중독</ATP_AnimaDrugAddiction.label>
+  <ATP_AnimaDrugAddiction.description>영혼 약물에 대한 화학적 중독 상태입니다.</ATP_AnimaDrugAddiction.description>
+  <ATP_AnimaDrugAddiction.stages.1.label>금단현상</ATP_AnimaDrugAddiction.stages.1.label>
+  <ATP_AnimaFlakeHigh.label>영혼 플레이크 취기</ATP_AnimaFlakeHigh.label>
+  <ATP_AnimaFlakeHigh.labelNoun>영혼 플레이크 취기</ATP_AnimaFlakeHigh.labelNoun>
+  <ATP_AnimaFlakeHigh.description>혈류에 활성화된 영혼 약물 성분이 흐르고 있습니다. 기운을 북돋우는 강력한 황홀감을 형성합니다.</ATP_AnimaFlakeHigh.description>
+  <ATP_AnimaInjectorHigh.label>영혼 주사기로 고양됨</ATP_AnimaInjectorHigh.label>
+  <ATP_AnimaInjectorHigh.labelNoun>영혼 주사기로 고양됨</ATP_AnimaInjectorHigh.labelNoun>
+  <ATP_AnimaInjectorHigh.description>혈류에 활성화된 영혼 약물 성분이 흐르고 있습니다. 강렬하고 고양된 황홀감을 줍니다.</ATP_AnimaInjectorHigh.description>
+  <ATP_AnimaTeaHigh.label>영혼 차 기운</ATP_AnimaTeaHigh.label>
+  <ATP_AnimaTeaHigh.labelNoun>영혼 차 기운</ATP_AnimaTeaHigh.labelNoun>
+  <ATP_AnimaTeaHigh.description>혈류에 활성화된 영혼 약물 성분이 흐르고 있습니다. 가벼운 황홀감을 줍니다.</ATP_AnimaTeaHigh.description>
+  <ATP_AnimaJointHigh.label>영혼 연초의 몽롱함</ATP_AnimaJointHigh.label>
+  <ATP_AnimaJointHigh.labelNoun>영혼 연초의 몽롱함</ATP_AnimaJointHigh.labelNoun>
+  <ATP_AnimaJointHigh.description>혈류에 활성화된 영혼 약물 성분이 흐르고 있습니다. 보들보들하고 몽롱한 안락함을 줍니다.</ATP_AnimaJointHigh.description>
+</LanguageData>
