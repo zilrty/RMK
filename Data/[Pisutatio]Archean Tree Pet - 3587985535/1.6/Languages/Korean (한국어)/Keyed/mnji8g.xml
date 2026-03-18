@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ARTP_Command_ChangeToPet_Label>시생 나무 변성</ARTP_Command_ChangeToPet_Label>
+  <ARTP_Command_ChangeToPet_Desc>시생 나무를 길들여진 생명체로 바꾸는 의식을 거행합니다. 이미 변성된 시생 나무가 존재한다면 새로 시작할 수 없습니다.</ARTP_Command_ChangeToPet_Desc>
+  <ARTP_RitualTargetInfo>시생 나무를 대상으로 거행됩니다.</ARTP_RitualTargetInfo>
+  
+  <ARTP_Message_WrongTarget>이 의식은 시생 나무에게만 거행할 수 있습니다.</ARTP_Message_WrongTarget>
+  <ARTP_Message_AlreadyExists>변성된 시생 나무가 이미 존재합니다.</ARTP_Message_AlreadyExists>
+  <ARTP_Message_NoColonist>지금 시생 나무 변성 의식을 거행할 수 있는 정착민이 없습니다.</ARTP_Message_NoColonist>
+  <ARTP_Message_NoIdeo>지금 시생 나무 변성 의식을 거행할 수 있는 정착민이 없습니다.</ARTP_Message_NoIdeo>
+  <ARTP_Message_TargetBurning>시생 나무가 불타고 있습니다.</ARTP_Message_TargetBurning>
+  
+  <ARTP_LetterLabel_RitualSuccess>의식 성공</ARTP_LetterLabel_RitualSuccess>
+  <ARTP_LetterText_RitualSuccess>시생 나무 변성에 성공했으며, 새로운 생명이 뿌리를 내렸습니다.</ARTP_LetterText_RitualSuccess>
+  
+  <ARTP_Gizmo_ArcheanPower_Label>태고의 힘</ARTP_Gizmo_ArcheanPower_Label>
+  <ARTP_Gizmo_ArcheanPower_Value>{0} / {1}</ARTP_Gizmo_ArcheanPower_Value>
+  <ARTP_Gizmo_ArcheanPower_RegenInfo>자연 회복: 일일 {0}</ARTP_Gizmo_ArcheanPower_RegenInfo>
+  <ARTP_Gizmo_ArcheanPower_TimeToFull>완충까지 남은 시간: {0}</ARTP_Gizmo_ArcheanPower_TimeToFull>
+  <ARTP_Gizmo_ArcheanPower_Tip>시간에 따라 충전됩니다. '교감의 포옹' 기술을 사용하는 데 소모됩니다.</ARTP_Gizmo_ArcheanPower_Tip>
+  
+  <ARTP_Cmd_Hug_Label>교감의 포옹</ARTP_Cmd_Hug_Label>
+  <ARTP_Cmd_Hug_Desc>토질을 개선할 구역을 선택합니다.</ARTP_Cmd_Hug_Desc>
+  <ARTP_Message_Hug_NoPower>태고의 힘이 부족합니다.</ARTP_Message_Hug_NoPower>
+  <ARTP_Message_Hug_SelectedPreview>선택됨: {0}칸 (필요 에너지: {1})</ARTP_Message_Hug_SelectedPreview>
+  
+  <ARTP_Cmd_RangeSelect_Label>구역 지정</ARTP_Cmd_RangeSelect_Label>
+  <ARTP_Cmd_RangeSelect_Desc>토질 개선 예약할 칸을 칠합니다. 최대 {0}칸까지 지정 가능합니다.</ARTP_Cmd_RangeSelect_Desc>
+  <ARTP_Cmd_RangeErase_Label>구역 해제</ARTP_Cmd_RangeErase_Label>
+  <ARTP_Cmd_RangeErase_Desc>지정된 칸을 제거합니다. 드래그하여 영역을 지울 수 있습니다.</ARTP_Cmd_RangeErase_Desc>
+  
+  <ARTP_Message_Hug_NoReserved>지정된 구역이 없습니다. 먼저 '구역 지정'을 사용하세요.</ARTP_Message_Hug_NoReserved>
+  <ARTP_Message_Hug_ExecStub>대기 중인 {0}칸을 처리 중입니다.</ARTP_Message_Hug_ExecStub>
+  <ARTP_Message_OverCap>더 이상 구역을 지정할 수 없습니다 (제한: {0}칸).</ARTP_Message_OverCap>
+  <ARTP_Message_Hug_AllSuccess>{0}(이)가 {1}칸의 지형을 비옥한 토양으로 바꾸었습니다.</ARTP_Message_Hug_AllSuccess>
+  <ARTP_Message_Hug_AllFailed>{0}(이)가 개선 가능한 지형을 찾지 못했습니다.</ARTP_Message_Hug_AllFailed>
+  <ARTP_Message_Hug_Started>{0}(이)가 교감의 포옹 의식을 시작했습니다 (대상: {1}칸).</ARTP_Message_Hug_Started>
+  
+  <ARTP_Letter_Hug_Completed_Label>교감 완료</ARTP_Letter_Hug_Completed_Label>
+  <ARTP_Letter_Hug_Completed_Text>{0}(이)가 교감의 포옹 의식을 마쳤습니다. {1}타일이 비옥한 토양으로 변했습니다.</ARTP_Letter_Hug_Completed_Text>
+</LanguageData>
