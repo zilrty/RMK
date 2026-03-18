@@ -25,9 +25,9 @@
   <DMS_Apparel_ArmyCap.label>아미 캡</DMS_Apparel_ArmyCap.label>
   <DMS_Apparel_ArmyCap.description>얼굴의 햇빛을 차단하거나 눈에 비를 막아주는 군용 순찰용 모자입니다.</DMS_Apparel_ArmyCap.description>
   <DMS_Apparel_SoftKepi.label>소프트 케피</DMS_Apparel_SoftKepi.label>
-  <DMS_Apparel_SoftKepi.description>평평한 원형 윗부분과 챙이 있는 전통적인 모자.</DMS_Apparel_SoftKepi.description>
-  <DMS_Apparel_Beret.label>베레</DMS_Apparel_Beret.label>
-  <DMS_Apparel_Beret.description>일반적으로 착용자가 특수 부대에 소속되어 있음을 알리는데 사용되는 보다 스타일리시한 모자</DMS_Apparel_Beret.description>
+  <DMS_Apparel_SoftKepi.description>평평한 원형 윗부분과 챙이 있는 전통적인 모자입니다.</DMS_Apparel_SoftKepi.description>
+  <DMS_Apparel_Beret.label>베레모</DMS_Apparel_Beret.label>
+  <DMS_Apparel_Beret.description>특수 부대 소속임을 식별하기 위해 주로 사용되는, 보다 세련된 형태의 모자입니다.</DMS_Apparel_Beret.description>
   <DMS_Apparel_TacticalHelmet.label>전술 헬멧</DMS_Apparel_TacticalHelmet.label>
   <DMS_Apparel_TacticalHelmet.description>총탄에 의해 충격을 받았을 때 안쪽이 변형되는 것을 방지하기 위해 플라스틸로 강화된 경량 전투 헬멧. 총알과 파편으로부터 착용자를 보호하는 데 탁월하지만, 둔기로부터 보호하는 데는 그다지 효과적이지 않습니다.</DMS_Apparel_TacticalHelmet.description>
   <DMS_Apparel_ArrayHelmet.label>오퍼레이터 헬멧</DMS_Apparel_ArrayHelmet.label>
@@ -35,7 +35,7 @@
   <DMS_Apparel_TacticalVest.label>전술 조끼</DMS_Apparel_TacticalVest.label>
   <DMS_Apparel_TacticalVest.description>가슴과 등에 장갑판이 삽입된 조끼입니다. 가슴을 향한 총격과 칼 공격을 막아내는 데는 매우 효과적이지만, 팔다리를 보호하는 데는 전혀 도움이 되지 않습니다.</DMS_Apparel_TacticalVest.description>
   <DMS_Apparel_TacticalCloak.label>전술 망토</DMS_Apparel_TacticalCloak.label>
-  <DMS_Apparel_TacticalCloak.description>함대 내 초능력자들과 특수부대를 위한 전술 위장 망토입니다.</DMS_Apparel_TacticalCloak.description>
+  <DMS_Apparel_TacticalCloak.description>식민 함대의 공병과 특수작전 요원들이 주로 장비하는, 저강도 능동 위장 기능을 갖춘 망토입니다.</DMS_Apparel_TacticalCloak.description>
   <DMS_Apparel_Gunlink.label>야간 투시경</DMS_Apparel_Gunlink.label>
   <DMS_Apparel_Gunlink.description>저조도 환경에서 기존 빛을 증폭하여 디스플레이를 통해 사용자의 눈에 투사하는 광학 강화 장비입니다. 대부분의 헬멧과 호환되며 함께 착용할 수 있습니다.</DMS_Apparel_Gunlink.description>
   <DMS_Apparel_StealthMask.label>은신 마스크</DMS_Apparel_StealthMask.label>
@@ -164,7 +164,7 @@
   <Artifuscle.label>아티퓨슬</Artifuscle.label>
   <Artifuscle.description>유전자 조작된 사우로모프 근육 다발로 만든 보철 재료의 일종입니다.</Artifuscle.description>
   <Artifuscle.comps.3.completedLetterLabel>아티퓨슬 분석 완료: {RESEARCH} 잠금 해제</Artifuscle.comps.3.completedLetterLabel>
-  <Artifuscle.comps.3.completedLetter>{PAWN_labelShort}(이)가 아티퓨슬을 분석함으로써 {RESEARCH} 연구에 필요한 지식을 얻었습니다.\n\n이제 정착민들이 이 기술의 활용법을 연구할 수 있습니다.</Artifuscle.comps.3.completedLetter>
+  <Artifuscle.comps.3.completedLetter>{STUDIER_labelShort}(이)가 {PARENT_label}(을)를 분석함으로써 {RESEARCH} 연구에 필요한 지식을 얻었습니다.\n\n이제 정착민들이 이 기술의 활용법을 연구할 수 있습니다.</Artifuscle.comps.3.completedLetter>
   <Artifuscle.comps.3.activateLabelString>분석...</Artifuscle.comps.3.activateLabelString>
   <Artifuscle.comps.3.activateDescString>아티퓨슬 분석</Artifuscle.comps.3.activateDescString>
   <Artifuscle.comps.3.jobString>아티퓨슬을 분석합니다.</Artifuscle.comps.3.jobString>
@@ -175,7 +175,7 @@
   <Neurocomputer.label>웨트웨어 컴퓨터</Neurocomputer.label>
   <Neurocomputer.description>인공 유기물 뇌로 작동하는 유기물 컴퓨터로, 희귀 금속과 정밀 가공 기술에 접근할 수 없는 세력들을 위한 저렴한 계산 뇌 역할을 합니다.</Neurocomputer.description>
   <Neurocomputer.comps.1.completedLetterLabel>웨트웨어 컴퓨터 분석 완료: {RESEARCH} 잠금 해제</Neurocomputer.comps.1.completedLetterLabel>
-  <Neurocomputer.comps.1.completedLetter>{PAWN_labelShort}(이)가 웨트웨어 컴퓨터를 분석함으로써 {RESEARCH} 연구에 필요한 지식을 얻었습니다.\n\n이제 정착민들이 이 기술의 활용법을 연구할 수 있습니다.</Neurocomputer.comps.1.completedLetter>
+  <Neurocomputer.comps.1.completedLetter>{STUDIER_labelShort}(이)가 {PARENT_label}(을)를 분석함으로써 {RESEARCH} 연구에 필요한 지식을 얻었습니다.\n\n이제 정착민들이 이 기술의 활용법을 연구할 수 있습니다.</Neurocomputer.comps.1.completedLetter>
   <Neurocomputer.comps.1.activateLabelString>분석...</Neurocomputer.comps.1.activateLabelString>
   <Neurocomputer.comps.1.activateDescString>웨트웨어 컴퓨터 분석</Neurocomputer.comps.1.activateDescString>
   <Neurocomputer.comps.1.jobString>웨트웨어 컴퓨터를 분석합니다</Neurocomputer.comps.1.jobString>
@@ -184,7 +184,7 @@
   <ComponentTransmitter.label>T/R 부품</ComponentTransmitter.label>
   <ComponentTransmitter.description>레이더 및 통신 장치용 정밀 전자 부품.</ComponentTransmitter.description>
   <ComponentTransmitter.comps.1.completedLetterLabel>T/R 부품 분석 완료: {RESEARCH} 잠금 해제</ComponentTransmitter.comps.1.completedLetterLabel>
-  <ComponentTransmitter.comps.1.completedLetter>{PAWN_labelShort}(이)가 T/R 부품을 분석함으로써 {RESEARCH} 연구에 필요한 지식을 얻었습니다.\n\n이제 정착민들이 이 기술의 활용법을 연구할 수 있습니다.</ComponentTransmitter.comps.1.completedLetter>
+  <ComponentTransmitter.comps.1.completedLetter>{STUDIER_labelShort}(이)가 {PARENT_label}(을)를 분석함으로써 {RESEARCH} 연구에 필요한 지식을 얻었습니다.\n\n이제 정착민들이 이 기술의 활용법을 연구할 수 있습니다.</ComponentTransmitter.comps.1.completedLetter>
   <ComponentTransmitter.comps.1.activateLabelString>분석...</ComponentTransmitter.comps.1.activateLabelString>
   <ComponentTransmitter.comps.1.activateDescString>T/R 부품 분석</ComponentTransmitter.comps.1.activateDescString>
   <ComponentTransmitter.comps.1.jobString>T/R 부품을 분석합니다</ComponentTransmitter.comps.1.jobString>
@@ -195,7 +195,7 @@
   <ComponentFireControl.label>사격 제어 시스템</ComponentFireControl.label>
   <ComponentFireControl.description>무기 제어 지원 및 궤적 추적용으로 설계된 칩셋입니다.</ComponentFireControl.description>
   <ComponentFireControl.comps.1.completedLetterLabel>사격 제어 시스템 분석 완료: {RESEARCH} 잠금 해제</ComponentFireControl.comps.1.completedLetterLabel>
-  <ComponentFireControl.comps.1.completedLetter>{PAWN_labelShort}(이)가 사격 제어 시스템을 분석함으로써 {RESEARCH} 연구에 필요한 지식을 얻었습니다.\n\n이제 정착민들이 이 기술의 활용법을 연구할 수 있습니다.</ComponentFireControl.comps.1.completedLetter>
+  <ComponentFireControl.comps.1.completedLetter>{STUDIER_labelShort}(이)가 {PARENT_label}(을)를 분석함으로써 {RESEARCH} 연구에 필요한 지식을 얻었습니다.\n\n이제 정착민들이 이 기술의 활용법을 연구할 수 있습니다.</ComponentFireControl.comps.1.completedLetter>
   <ComponentFireControl.comps.1.activateLabelString>분석...</ComponentFireControl.comps.1.activateLabelString>
   <ComponentFireControl.comps.1.activateDescString>사격 제어 시스템 분석</ComponentFireControl.comps.1.activateDescString>
   <ComponentFireControl.comps.1.jobString>사격 제어 시스템을 분석합니다</ComponentFireControl.comps.1.jobString>
