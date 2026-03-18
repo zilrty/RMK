@@ -4,7 +4,7 @@
   <OECivilian.degreeDatas.0.description>{PAWN_nameDef}(은)는 타고난 일꾼입니다. {PAWN_pronoun}(은)는 영리하며 남들보다 더 열심히 일합니다.</OECivilian.degreeDatas.0.description>
   <OESoldier.degreeDatas.0.label>훈련된 병사</OESoldier.degreeDatas.0.label>
   <OESoldier.degreeDatas.0.description>수많은 훈련 끝에, {PAWN_nameDef}(은)는 어떤 무기든 다루는 법을 익혔습니다.</OESoldier.degreeDatas.0.description>
-    <OENomad.degreeDatas.0.label>유목민</OENomad.degreeDatas.0.label>
+  <OENomad.degreeDatas.0.label>유목민</OENomad.degreeDatas.0.label>
   <OENomad.degreeDatas.0.description>{PAWN_pronoun}(은)는 적게 먹는 것에 익숙하며, 남들보다 더 빨리 충분한 휴식을 취합니다.</OENomad.degreeDatas.0.description>
   <OECultist.degreeDatas.0.label>신봉자</OECultist.degreeDatas.0.label>
   <OECultist.degreeDatas.0.description>{PAWN_nameDef}(은)는 어떤 시련도 견뎌낼 수 있는 흔들리지 않는 의지와 신체를 가졌습니다.</OECultist.degreeDatas.0.description>
@@ -22,11 +22,11 @@
   <OEUnstableTrader.degreeDatas.0.description>{PAWN_nameDef}의 분열된 정신은 가끔 상업적 천재성이 번뜩이는 순간을 맞이합니다.\n정신 이상이 발생할 때 50%의 확률로 '거래 영감'을 얻습니다.</OEUnstableTrader.degreeDatas.0.description>
   <OEUnstableCharmer.degreeDatas.0.label>불안정한 매혹가</OEUnstableCharmer.degreeDatas.0.label>
   <OEUnstableCharmer.degreeDatas.0.description>{PAWN_nameDef}의 변덕스러운 에너지는 때때로 {PAWN_pronoun}에게 묘한 설득력을 부여합니다.\n정신 이상이 발생할 때 50%의 확률로 '포섭 영감'을 얻습니다.</OEUnstableCharmer.degreeDatas.0.description>
-    <OEUnstableWhisperer.degreeDatas.0.label>불안정한 교감자</OEUnstableWhisperer.degreeDatas.0.label>
+  <OEUnstableWhisperer.degreeDatas.0.label>불안정한 교감자</OEUnstableWhisperer.degreeDatas.0.label>
   <OEUnstableWhisperer.degreeDatas.0.description>{PAWN_nameDef}의 휘발성 오라는 아주 잠시 동안 동물의 본능과 기묘하게 공명합니다.\n정신 이상이 발생할 때 50%의 확률로 '조련 영감'을 얻습니다.</OEUnstableWhisperer.degreeDatas.0.description>
-    <OEUnstableSurgeon.degreeDatas.0.label>불안정한 의사</OEUnstableSurgeon.degreeDatas.0.label>
+  <OEUnstableSurgeon.degreeDatas.0.label>불안정한 의사</OEUnstableSurgeon.degreeDatas.0.label>
   <OEUnstableSurgeon.degreeDatas.0.description>광기와 명료함 사이의 드문 균형 속에서, {PAWN_nameDef}(은)는 의학적 기적을 행합니다.\n정신 이상이 발생할 때 50%의 확률로 '수술 영감'을 얻습니다.</OEUnstableSurgeon.degreeDatas.0.description>
-    <OEUnstableCreator.degreeDatas.0.label>불안정한 창작자</OEUnstableCreator.degreeDatas.0.label>
+  <OEUnstableCreator.degreeDatas.0.label>불안정한 창작자</OEUnstableCreator.degreeDatas.0.label>
   <OEUnstableCreator.degreeDatas.0.description>{PAWN_pronoun}의 마음속 폭풍으로부터 예술적 천재성의 불꽃이 피어오릅니다.\n정신 이상이 발생할 때 50%의 확률로 '예술 영감'을 얻습니다.</OEUnstableCreator.degreeDatas.0.description>
   <OESkillsMastery.degreeDatas.0.label>황금빛 영혼</OESkillsMastery.degreeDatas.0.label>
   <OESkillsMastery.degreeDatas.0.description>{PAWN_nameDef}에게는 특별한 무언가가 있습니다. 모든 행동에서 황금빛 재능의 불꽃이 튑니다.</OESkillsMastery.degreeDatas.0.description>
@@ -50,11 +50,11 @@
   <OEQualityAnimals.degreeDatas.1.description>{PAWN_nameDef}(은)는 동물로부터 자원을 얻을 때 매우 빠르게 움직이지만, 일부 자원을 남겨두고 올 때가 있습니다.</OEQualityAnimals.degreeDatas.1.description>
   <OEPsyBlood.degreeDatas.0.label>고귀한 혈통</OEPsyBlood.degreeDatas.0.label>
   <OEPsyBlood.degreeDatas.0.description>{PAWN_nameDef}(은)는 고대 귀족 가문의 후계자입니다. {PAWN_pronoun}의 존재감은 초능력에 대한 타고난 재능을 부여합니다.</OEPsyBlood.degreeDatas.0.description>
-    <OEPsyMonk.degreeDatas.0.label>수도자</OEPsyMonk.degreeDatas.0.label>
+  <OEPsyMonk.degreeDatas.0.label>수도자</OEPsyMonk.degreeDatas.0.label>
   <OEPsyMonk.degreeDatas.0.description>{PAWN_nameDef}(은)는 정적 속에서 남다른 명료함을 찾으며, 성찰의 매 순간으로부터 힘을 끌어냅니다.</OEPsyMonk.degreeDatas.0.description>
-    <OEPsyWarrior.degreeDatas.0.label>초능력 전사</OEPsyWarrior.degreeDatas.0.label>
+  <OEPsyWarrior.degreeDatas.0.label>초능력 전사</OEPsyWarrior.degreeDatas.0.label>
   <OEPsyWarrior.degreeDatas.0.description>전투는 {PAWN_nameDef}에게 일상이며, {PAWN_pronoun}의 일격에는 물리적인 힘과 초감각적인 위력이 함께 실립니다.</OEPsyWarrior.degreeDatas.0.description>
-    <OEPsyMarksman.degreeDatas.0.label>초능력 사수</OEPsyMarksman.degreeDatas.0.label>
+  <OEPsyMarksman.degreeDatas.0.label>초능력 사수</OEPsyMarksman.degreeDatas.0.label>
   <OEPsyMarksman.degreeDatas.0.description>{PAWN_nameDef}의 조준은 안정된 손과 날카로워진 초감각적 감각에 의해 인도됩니다.</OEPsyMarksman.degreeDatas.0.description>
   <OEIdeoSpread.degreeDatas.0.label>열렬한 설교자</OEIdeoSpread.degreeDatas.0.label>
   <OEIdeoSpread.degreeDatas.0.description>{PAWN_nameDef}(은)는 불타는 열정으로 믿음을 전파합니다. 하지만 가끔 그 열정이 너무 과해 자신마저 태워버리곤 합니다.</OEIdeoSpread.degreeDatas.0.description>
@@ -74,7 +74,7 @@
   <OEIdeoHacking.degreeDatas.3.description>{PAWN_nameDef}이 콘솔에 손을 대는 순간, 무언가 심각하게 고장 나는 것은 시간문제입니다.</OEIdeoHacking.degreeDatas.3.description>
   <OEMechLove.degreeDatas.0.label>메카노이드 광팬</OEMechLove.degreeDatas.0.label>
   <OEMechLove.degreeDatas.0.description>{PAWN_nameDef}(은)는 메카노이드를 아주 좋아합니다. 덕분에 {PAWN_pronoun}(은)는 더 많은 수의 메카노이드를 제어할 수 있습니다.</OEMechLove.degreeDatas.0.description>
-    <OEMechInstinct.degreeDatas.0.label>메크테크 본능</OEMechInstinct.degreeDatas.0.label>
+  <OEMechInstinct.degreeDatas.0.label>메크테크 본능</OEMechInstinct.degreeDatas.0.label>
   <OEMechInstinct.degreeDatas.0.description>{PAWN_nameDef}(은)는 마치 메카노이드를 위해 태어난 것처럼, 모든 메카를 빠르게 제작, 조율 및 복구합니다.</OEMechInstinct.degreeDatas.0.description>
   <OERitualist.degreeDatas.0.label>의식의 거장</OERitualist.degreeDatas.0.label>
   <OERitualist.degreeDatas.0.description>의식은 {PAWN_nameDef}에게 활력을 줍니다. {PAWN_pronoun}(은)는 정밀하고 열정적으로 의식을 수행합니다.</OERitualist.degreeDatas.0.description>
