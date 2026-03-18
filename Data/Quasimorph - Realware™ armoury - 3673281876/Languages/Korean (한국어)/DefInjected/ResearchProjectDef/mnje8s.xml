@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=Bloodbath kevlar armor manufacturing-->
+  <QM_RealwareKevlarMan.label>블러드배스 케블라 갑옷 제작</QM_RealwareKevlarMan.label>
+  <!--Original=Top of the market kevlar suit by Realware Industries™. Bloodbath kevlar armor is by far the cheapest and most effective protection suit by Realware Industries™, maximizing the mega corporation’s profit by a decent margin compared to its older designs..-->
+  <QM_RealwareKevlarMan.description>리얼웨어 인더스트리™의 최고급 케블라 갑옷입니다. 블러드배스 케블라 갑옷은 리얼웨어 제품 중 가장 저렴하고 효과적인 보호복으로, 기존 제품들에 비해 훨씬 높은 이윤을 창출해 거대 기업의 수익을 극대화해주고 있습니다.</QM_RealwareKevlarMan.description>
+  <!--Original=Carnage pattern armor manufacturing-->
+  <QM_RealwareArmorMan.label>카니지 패턴 갑옷 제작</QM_RealwareArmorMan.label>
+  <!--Original=Top of the market space suit by Realware Industries™. Sleek and refined, Carnage pattern can perform both ship maintenance and zero gravity combat at highest efficiency. Though production of these in a rimworld will be difficult.-->
+  <QM_RealwareArmorMan.description>리얼웨어 인더스트리™의 최고급 우주 갑옷입니다. 세련되고 정교한 카니지 패턴은 함선 유지보수와 무중력 전투를 모두 최고의 효율로 수행할 수 있습니다. 다만, 이런 물건을 변방계에서 만드는 것은 어려울 것입니다.</QM_RealwareArmorMan.description>
+  <!--Original=Warlord pattern armor manufacturing-->
+  <QM_RealwareHeavyArmorMan.label>워로드 패턴 갑옷 제작</QM_RealwareHeavyArmorMan.label>
+  <!--Original=Top of the market heavy armor by Realware Industries™. Behemoth of its own caliber, Warlord pattern easily outperforms most heavy armor in general field use. Though deploying them in a rimworld is gonna be costly and hard to maintain.-->
+  <QM_RealwareHeavyArmorMan.description>리얼웨어 인더스트리™의 최고급 중형 동력 갑옷입니다. 그 자체로 거대한 괴물과도 같은 워로드 패턴은 일반적인 야전에서 쓰이는 대부분의 중형 갑옷을 가볍게 압도합니다. 하지만 이 갑옷을 변방계에서 운용한다면 비용이 많이 들고 유지보수 또한 힘들 것입니다.</QM_RealwareHeavyArmorMan.description>
+  <!--Original=Public Domain designs-->
+  <QM_PDDWeaponMan.label>자유 이용 설계도</QM_PDDWeaponMan.label>
+  <!--Original=Public Domain Designs sometimes referred as Publicly Dumped Designs are compilations of common, obsolete, and occasionally unfunctional weapon blueprints freely accessible through comm console. Most of the research time is spent separating functioning blueprints from junk data. Only primitive revolver designs are discernible without prerequisite weapons research. Most recipes demand plasteel, making them difficult to produce in a remote regions.-->
+  <QM_PDDWeaponMan.description>자유 이용 쓰레기라고도 불리는 자유 이용 설계도는 통신기를 통해 자유롭게 접근할 수 있는 흔하고 구식이며, 때로는 작동하지 않는 무기 청사진들의 모음집입니다. 연구 시간의 대부분은 쓰레기 데이터에서 작동하는 청사진을 분리하는 데 소비됩니다. 선행 무기 연구 없이는 원시적인 리볼버 설계도만 식별할 수 있습니다. 대부분의 제작법은 플라스틸을 요구하므로 외딴 지역에서는 만들기 어렵습니다.</QM_PDDWeaponMan.description>
+  <!--Original=Army surplus weapon manufacturing-->
+  <QM_ArmyWeaponMan.label>군용 잉여 무기 제작</QM_ArmyWeaponMan.label>
+  <!--Original=Surplus weapon designs made for mass production, pioneered by the Realware Industries™ at the time. These weapon designs still hold up today for its lethality and ease of maintenance. Once extracted from the blueprint chip, the designs are fully readable and require no prior weapons research.-->
+  <QM_ArmyWeaponMan.description>리얼웨어 인더스트리™가 최초로 개발했었던 대량 생산용 잉여 무기 설계도들입니다. 이 무기들은 살상력과 유지보수의 용이성 덕분에 오늘날에도 충분한 경쟁력을 갖추고 있습니다. 청사진 칩에서 추출한 설계도는 모든 내용을 완벽하게 판독할 수 있으며 별도의 선행 무기 연구가 필요하지 않습니다.</QM_ArmyWeaponMan.description>
+  <!--Original=Realware patent weapon manufacturing-->
+  <QM_RealwareWeaponMan.label>리얼웨어 특허 무기 제작</QM_RealwareWeaponMan.label>
+  <!--Original=Top of the market weapons by Realware Industries™. Hard to get hold of but these weapon platforms prove their worth by their performance in the field. Manufacturing them outside the corporate fabricator is demanding, requiring skilled craftsmen along with a surplus of components.-->
+  <QM_RealwareWeaponMan.description>리얼웨어 인더스트리™의 최고급 무기들입니다. 구하기는 어렵지만, 이 무기 체계들은 실전에서의 성능을 통해 그 가치를 증명합니다. 기업 소유의 제조 시설 밖에서 이 무기들을 만드는 것은 쉽지 않은 일로, 숙련된 장인과 충분한 양의 부품이 필요합니다.</QM_RealwareWeaponMan.description>
+</LanguageData>
