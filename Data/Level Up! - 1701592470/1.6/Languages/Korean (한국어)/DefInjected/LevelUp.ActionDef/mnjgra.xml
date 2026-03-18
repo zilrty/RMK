@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LevelUpActionDef_Sound.label>소리</LevelUpActionDef_Sound.label>
+  <LevelUpActionDef_Sound.description>효과음을 재생합니다.</LevelUpActionDef_Sound.description>
+
+  <LevelUpActionDef_Animation.label>애니메이션</LevelUpActionDef_Animation.label>
+  <LevelUpActionDef_Animation.description>정착민 위에 간단한 그래픽이나 애니메이션 효과를 표시합니다.</LevelUpActionDef_Animation.description>
+
+  <LevelUpActionDef_Message.label>텍스트 메시지</LevelUpActionDef_Message.label>
+  <LevelUpActionDef_Message.description>화면 왼쪽 상단에 알림 메시지를 표시합니다.</LevelUpActionDef_Message.description>
+
+  <LevelUpActionDef_OverheadMessage.label>머리 위 메시지</LevelUpActionDef_OverheadMessage.label>
+  <LevelUpActionDef_OverheadMessage.description>정착민의 머리 위에 텍스트 메시지를 표시합니다.</LevelUpActionDef_OverheadMessage.description>
+</LanguageData>
