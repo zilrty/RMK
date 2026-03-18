@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_RegenSickness.label>회복 후유증</SLP_RegenSickness.label>
+  <SLP_RegenSickness.description>과도한 재생 능력 사용으로 인한 신체 반동 상태입니다. 일정 기간 의식이 흐려지고 기력이 저하되며 극심한 허기를 느끼지만 시간이 지나면 저절로 치유됩니다.</SLP_RegenSickness.description>
+  <SLP_RegenSickness.stages.0.label>적응중</SLP_RegenSickness.stages.0.label>
+  <SLP_RegenSickness.stages.1.label>경미한</SLP_RegenSickness.stages.1.label>
+  <SLP_RegenSickness.stages.2.label>심각한</SLP_RegenSickness.stages.2.label>
+  <SLP_RegenSickness.stages.3.label>극심한</SLP_RegenSickness.stages.3.label>
+  <SLP_HealingPains.label>회복통</SLP_HealingPains.label>
+  <SLP_HealingPains.description>치유의 반동으로 인한 전신 통증입니다. 회복 기간 중 수면의 질이 저하되지만 신체 기능이 정상화됨에 따라 점차 소멸합니다.</SLP_HealingPains.description>
+  <SLP_HealingPains.stages.0.label>적응중</SLP_HealingPains.stages.0.label>
+  <SLP_HealingPains.stages.1.label>경미한</SLP_HealingPains.stages.1.label>
+  <SLP_HealingPains.stages.2.label>심각한</SLP_HealingPains.stages.2.label>
+  <SLP_PhoenixSyndrome.label>부활증후근</SLP_PhoenixSyndrome.label>
+  <SLP_PhoenixSyndrome.description>강제 부활에 따른 영혼과 신체의 괴리 현상입니다. 극심한 전신 통증과 지적 능력 저하를 유발하며 부활 횟수가 누적될수록 그 증세는 더욱 깊어집니다.</SLP_PhoenixSyndrome.description>
+  <SLP_PhoenixSyndrome.stages.0.label>적응중</SLP_PhoenixSyndrome.stages.0.label>
+  <SLP_PhoenixSyndrome.stages.1.label>경미한</SLP_PhoenixSyndrome.stages.1.label>
+  <SLP_PhoenixSyndrome.stages.2.label>심각한</SLP_PhoenixSyndrome.stages.2.label>
+  <SLP_PhoenixSyndrome.stages.3.label>극심한</SLP_PhoenixSyndrome.stages.3.label>
+  <SLP_PhoenixSyndrome.stages.4.label>극도의</SLP_PhoenixSyndrome.stages.4.label>
+  <SLP_ResurrectionSickness.label>부활후유증</SLP_ResurrectionSickness.label>
+  <SLP_ResurrectionSickness.description>부활 직후의 신체 불안정 상태입니다. 강제로 재시작된 생체 리듬이 정상 궤도로 돌아오기 위한 조정 시간이 필요합니다.</SLP_ResurrectionSickness.description>
+  <SLP_Overdriven.label>과부하 탈진</SLP_Overdriven.label>
+  <SLP_Overdriven.description>육체의 한계를 강제로 돌파한 대가로 발생한 중증 외상 상태입니다. 전신 근육이 파열되고 뼈가 골절될 수 있으며 오직 절대적인 안정만이 회복의 길입니다.</SLP_Overdriven.description>
+  <SLP_Overdriven.stages.0.label>회복중</SLP_Overdriven.stages.0.label>
+  <SLP_Overdriven.stages.1.label>경미한</SLP_Overdriven.stages.1.label>
+  <SLP_Overdriven.stages.2.label>심각한</SLP_Overdriven.stages.2.label>
+  <SLP_Overdriven.stages.3.label>극심한</SLP_Overdriven.stages.3.label>
+  <SLP_Overdriven.stages.4.label>초기</SLP_Overdriven.stages.4.label>
+  <SLP_RegrowthPains.label>신체 회복통</SLP_RegrowthPains.label>
+  <SLP_RegrowthPains.description>신체 결손 부위가 재생되는 동안 발생하는 날카로운 신경통입니다. 세포가 완전히 복구될 때까지 극심한 고통과 불쾌감이 동반됩니다.</SLP_RegrowthPains.description>
+  <SLP_Psycast_ImmunityBoost.label>면역력 강화</SLP_Psycast_ImmunityBoost.label>
+  <SLP_Psycast_ImmunityBoost.description>초능력을 통한 면역력 강화 상태</SLP_Psycast_ImmunityBoost.description>
+  <SLP_Psycast_HealingBoost.label>회복력 강화</SLP_Psycast_HealingBoost.label>
+  <SLP_Psycast_HealingBoost.description>초능력을 통한 회복력 강화 상태</SLP_Psycast_HealingBoost.description>
+  <SLP_Psycast_FlashHeal.label>급속 치유</SLP_Psycast_FlashHeal.label>
+  <SLP_Psycast_FlashHeal.description>초능력을 통한 급진적인 초회복 상태</SLP_Psycast_FlashHeal.description>
+  <SLP_Psycast_Haemostasis.label>지혈 강화</SLP_Psycast_Haemostasis.label>
+  <SLP_Psycast_Haemostasis.description>초능력을 통한 지혈 강화 상태</SLP_Psycast_Haemostasis.description>
+  <SLP_Psycast_SuperficialRegen.label>흉터 재생</SLP_Psycast_SuperficialRegen.label>
+  <SLP_Psycast_SuperficialRegen.description>초능력을 통한 흉터 재생 상태</SLP_Psycast_SuperficialRegen.description>
+  <SLP_Psycast_WordOfSleep.label>수면의 단어</SLP_Psycast_WordOfSleep.label>
+  <SLP_Psycast_WordOfSleep.description>초능력으로 인한 졸음 상태</SLP_Psycast_WordOfSleep.description>
+  <SLP_Psycast_WordOfVigor.label>활력의 단어</SLP_Psycast_WordOfVigor.label>
+  <SLP_Psycast_WordOfVigor.description>초능력으로 인한 활력 상태</SLP_Psycast_WordOfVigor.description>
+  <SLP_Psycast_PU.label>잠재력 폭발</SLP_Psycast_PU.label>
+  <SLP_Psycast_PU.description>잠재력 폭발로 인한 신체 과부하 상태입니다.</SLP_Psycast_PU.description>
+  <SLP_Psycast_Dash.label>질주</SLP_Psycast_Dash.label>
+  <SLP_Psycast_Dash.description>초능력으로 인해 이동속도가 증가하였습니다.</SLP_Psycast_Dash.description>
+  <SLP_PsychicContempt.label>경멸 초능력</SLP_PsychicContempt.label>
+  <SLP_PsychicContempt.description>정신적 간섭을 통해 특정 대상에 대한 혐오감을 심습니다. 대상 간의 불화와 라이벌 의식을 고취하며 기존의 모든 사회적 유대를 파괴합니다.</SLP_PsychicContempt.description>
+  <SLP_Calm.label>안정 초능력</SLP_Calm.label>
+  <SLP_Calm.description>정신에 평온한 안정감을 주입하여 기분을 호전시킵니다. 약물이나 일반적인 정신 마법과 달리 대상의 사고력이나 인지 능력을 저하시키지 않는 고차원적 기술입니다.</SLP_Calm.description>
+  <SLP_ComfortShield.label>열 보호막</SLP_ComfortShield.label>
+  <SLP_ComfortShield.description>외부 기온으로부터 신체를 격리하는 지능형 열 제어막입니다. 혹한기에는 체온 유출을 막고 혹서기에는 내부 열을 배출하여 최적의 신체 온도를 유지합니다.</SLP_ComfortShield.description>
+  <SLP_PsychicFriendship.label>우정 초능력</SLP_PsychicFriendship.label>
+  <SLP_PsychicFriendship.description>초능력을 통해 타인에 대한 호의를 이끌어냅니다. 대상 간의 심리적 거리감을 좁히고 지속적인 우호 관계로 발전하도록 유도합니다.</SLP_PsychicFriendship.description>
+  <SLP_Psycast_Regeneration.label>신체 회복</SLP_Psycast_Regeneration.label>
+  <SLP_Psycast_Regeneration.description>정신적 재생상태</SLP_Psycast_Regeneration.description>
+  <SLP_Psycast_Energise.label>기계 충전</SLP_Psycast_Energise.label>
+  <SLP_Psycast_Energise.description>초능력을 통한 기계 충전</SLP_Psycast_Energise.description>
+</LanguageData>
