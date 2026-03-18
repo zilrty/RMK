@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BT_KindWordsShared.stages.0.label>따뜻한 말을 건넴</BT_KindWordsShared.stages.0.label>
+  <BT_KindWordsShared.stages.0.description>누군가에게 좋은 말을 해준 덕분에 기분이 좋아졌어.</BT_KindWordsShared.stages.0.description>
+
+  <BT_KindWordsThought.stages.0.label>친절한 말씨</BT_KindWordsThought.stages.0.label>
+
+  <BT_KindWordsMood.stages.0.label>다정한 대화</BT_KindWordsMood.stages.0.label>
+  <BT_KindWordsMood.stages.0.description>정말 따뜻한 말을 들었어! 세상에, 참 좋은 사람이네! :D</BT_KindWordsMood.stages.0.description>
+</LanguageData>

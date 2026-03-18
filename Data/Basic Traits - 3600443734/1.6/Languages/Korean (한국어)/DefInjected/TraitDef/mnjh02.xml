@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BT_Slaughterer.label>도축업자</BT_Slaughterer.label>
+  <BT_Slaughterer.description>[PAWN_nameDef](은)는 동물을 더 빨리 도축합니다.</BT_Slaughterer.description>
+  <BT_Slaughterer.degreeDatas.0.label>도축업자</BT_Slaughterer.degreeDatas.0.label>
+  <BT_Slaughterer.degreeDatas.0.description>[PAWN_nameDef](은)는 사체를 더 빨리 도축합니다.</BT_Slaughterer.degreeDatas.0.description>
+
+  <BT_Diligent.label>근면성실</BT_Diligent.label>
+  <BT_Diligent.description>[PAWN_nameDef](은)는 모든 업무에 집중력과 규율을 가지고 임하며, 더 빠르고 숙련되게 일을 마칩니다.</BT_Diligent.description>
+  <BT_Diligent.degreeDatas.0.label>근면성실</BT_Diligent.degreeDatas.0.label>
+  <BT_Diligent.degreeDatas.0.description>[PAWN_nameDef](은)는 건설과 제작을 효율적으로 수행하는 것에 자부심을 느끼며, 시간이나 노력을 결코 낭비하지 않습니다.</BT_Diligent.degreeDatas.0.description>
+
+  <BT_Marksman.label>명사수</BT_Marksman.label>
+  <BT_Marksman.description>[PAWN_nameDef](은)는 날카로운 눈과 침착한 손을 가졌지만, 근접전보다는 사격을 선호합니다.</BT_Marksman.description>
+  <BT_Marksman.degreeDatas.0.label>명사수</BT_Marksman.degreeDatas.0.label>
+  <BT_Marksman.degreeDatas.0.description>[PAWN_nameDef](은)는 원거리 무기의 전문가이지만 근접 전투에서는 고전합니다.</BT_Marksman.degreeDatas.0.description>
+
+  <BT_Curious.label>호기심</BT_Curious.label>
+  <BT_Curious.description>[PAWN_nameDef](은)는 끝없는 호기심을 가졌으며 새로운 것을 배우길 좋아합니다.</BT_Curious.description>
+  <BT_Curious.degreeDatas.0.label>호기심</BT_Curious.degreeDatas.0.label>
+  <BT_Curious.degreeDatas.0.description>[PAWN_nameDef](은)는 주변 세계를 탐험하고 연구하며 시간을 보냅니다.</BT_Curious.degreeDatas.0.description>
+
+  <BT_Brawny.label>건장함</BT_Brawny.label>
+  <BT_Brawny.description>[PAWN_nameDef](은)는 신체적으로 강하며 근접 전투와 중노동에서 더 나은 성능을 보입니다.</BT_Brawny.description>
+  <BT_Brawny.degreeDatas.0.label>건장함</BT_Brawny.degreeDatas.0.label>
+  <BT_Brawny.degreeDatas.0.description>[PAWN_nameDef](은)는 근육질 체격으로 근접 전투 및 건설 업무에 능숙합니다.</BT_Brawny.degreeDatas.0.description>
+
+  <BT_Patient.label>인내심</BT_Patient.label>
+  <BT_Patient.description>[PAWN_nameDef](은)는 침착하고 꾸준하며, 지루하거나 힘든 상황도 불평 없이 견뎌냅니다.</BT_Patient.description>
+  <BT_Patient.degreeDatas.0.label>인내심</BT_Patient.degreeDatas.0.label>
+  <BT_Patient.degreeDatas.0.description>[PAWN_nameDef](은)는 항상 평정심을 유지하며 사교 및 의료 활동에 뛰어난 모습을 보입니다.</BT_Patient.degreeDatas.0.description>
+
+  <BT_Shooter.label>사격가</BT_Shooter.label>
+  <BT_Shooter.description>[PAWN_nameDef](은)는 원거리 무기를 다루는 데 타고난 재능이 있습니다.</BT_Shooter.description>
+  <BT_Shooter.degreeDatas.0.label>사격가</BT_Shooter.degreeDatas.0.label>
+  <BT_Shooter.degreeDatas.0.description>[PAWN_nameDef](은)는 원거리 무기를 다루는 데 타고난 재능이 있습니다.</BT_Shooter.degreeDatas.0.description>
+
+  <BT_MeleeExpert.label>격투 전문가</BT_MeleeExpert.label>
+  <BT_MeleeExpert.description>[PAWN_nameDef](은)는 근접 전투에서 탁월한 기량을 발휘합니다.</BT_MeleeExpert.description>
+  <BT_MeleeExpert.degreeDatas.0.label>격투 전문가</BT_MeleeExpert.degreeDatas.0.label>
+  <BT_MeleeExpert.degreeDatas.0.description>[PAWN_nameDef](은)는 근접 전투에서 탁월한 기량을 발휘합니다.</BT_MeleeExpert.degreeDatas.0.description>
+
+  <BT_Builder.label>건설가</BT_Builder.label>
+  <BT_Builder.description>[PAWN_nameDef](은)는 건설 작업에 능숙합니다.</BT_Builder.description>
+  <BT_Builder.degreeDatas.0.label>건설가</BT_Builder.degreeDatas.0.label>
+  <BT_Builder.degreeDatas.0.description>[PAWN_nameDef](은)는 건설 작업에 능숙합니다.</BT_Builder.degreeDatas.0.description>
+
+  <BT_Miner.label>광부</BT_Miner.label>
+  <BT_Miner.description>[PAWN_nameDef](은)는 채굴에 소질이 있습니다.</BT_Miner.description>
+  <BT_Miner.degreeDatas.0.label>광부</BT_Miner.degreeDatas.0.label>
+  <BT_Miner.degreeDatas.0.description>[PAWN_nameDef](은)는 채굴에 소질이 있습니다.</BT_Miner.degreeDatas.0.description>
+
+  <BT_Cook.label>요리사</BT_Cook.label>
+  <BT_Cook.description>[PAWN_nameDef](은)는 주방에서 재능을 발휘합니다.</BT_Cook.description>
+  <BT_Cook.degreeDatas.0.label>요리사</BT_Cook.degreeDatas.0.label>
+  <BT_Cook.degreeDatas.0.description>[PAWN_nameDef](은)는 주방에서 재능을 발휘합니다.</BT_Cook.degreeDatas.0.description>
+
+  <BT_Botanist.label>식물학자</BT_Botanist.label>
+  <BT_Botanist.description>[PAWN_nameDef](은)는 식물을 재배하는 재주가 있습니다.</BT_Botanist.description>
+  <BT_Botanist.degreeDatas.0.label>식물학자</BT_Botanist.degreeDatas.0.label>
+  <BT_Botanist.degreeDatas.0.description>[PAWN_nameDef](은)는 식물을 재배하는 재주가 있습니다.</BT_Botanist.degreeDatas.0.description>
+
+  <BT_AnimalFriend.label>동물의 친구</BT_AnimalFriend.label>
+  <BT_AnimalFriend.description>[PAWN_nameDef](은)는 동물을 아주 잘 다룹니다.</BT_AnimalFriend.description>
+  <BT_AnimalFriend.degreeDatas.0.label>동물의 친구</BT_AnimalFriend.degreeDatas.0.label>
+  <BT_AnimalFriend.degreeDatas.0.description>[PAWN_nameDef](은)는 동물을 아주 잘 다룹니다.</BT_AnimalFriend.degreeDatas.0.description>
+
+  <BT_Crafter.label>제작자</BT_Crafter.label>
+  <BT_Crafter.description>[PAWN_nameDef](은)는 물건을 만드는 데 능숙합니다.</BT_Crafter.description>
+  <BT_Crafter.degreeDatas.0.label>제작자</BT_Crafter.degreeDatas.0.label>
+  <BT_Crafter.degreeDatas.0.description>[PAWN_nameDef](은)는 물건을 만드는 데 능숙합니다.</BT_Crafter.degreeDatas.0.description>
+
+  <BT_Artist.label>예술가</BT_Artist.label>
+  <BT_Artist.description>[PAWN_nameDef](은)는 예술적 재능을 타고났습니다.</BT_Artist.description>
+  <BT_Artist.degreeDatas.0.label>예술가</BT_Artist.degreeDatas.0.label>
+  <BT_Artist.degreeDatas.0.description>[PAWN_nameDef](은)는 예술적 재능을 타고났습니다.</BT_Artist.degreeDatas.0.description>
+
+  <BT_Medic.label>의사</BT_Medic.label>
+  <BT_Medic.description>[PAWN_nameDef](은)는 타고난 치료사입니다.</BT_Medic.description>
+  <BT_Medic.degreeDatas.0.label>의사</BT_Medic.degreeDatas.0.label>
+  <BT_Medic.degreeDatas.0.description>[PAWN_nameDef](은)는 타고난 치료사입니다.</BT_Medic.degreeDatas.0.description>
+
+  <BT_Socialite.label>사교가</BT_Socialite.label>
+  <BT_Socialite.description>[PAWN_nameDef](은)는 사교술이 뛰어납니다.</BT_Socialite.description>
+  <BT_Socialite.degreeDatas.0.label>사교가</BT_Socialite.degreeDatas.0.label>
+  <BT_Socialite.degreeDatas.0.description>[PAWN_nameDef](은)는 사교술이 뛰어납니다.</BT_Socialite.degreeDatas.0.description>
+
+  <BT_Scholar.label>학자</BT_Scholar.label>
+  <BT_Scholar.description>[PAWN_nameDef](은)는 지적인 능력이 뛰어납니다.</BT_Scholar.description>
+  <BT_Scholar.degreeDatas.0.label>학자</BT_Scholar.degreeDatas.0.label>
+  <BT_Scholar.degreeDatas.0.description>[PAWN_nameDef](은)는 지적인 능력이 뛰어납니다.</BT_Scholar.degreeDatas.0.description>
+
+  <BT_Swift.label>민첩함</BT_Swift.label>
+  <BT_Swift.description>[PAWN_nameDef](은)는 빠르고 날렵하게 움직입니다.</BT_Swift.description>
+  <BT_Swift.degreeDatas.0.label>민첩함</BT_Swift.degreeDatas.0.label>
+  <BT_Swift.degreeDatas.0.description>[PAWN_nameDef](은)는 본래 발이 매우 빠릅니다.</BT_Swift.degreeDatas.0.description>
+
+  <BT_Charismatic.label>카리스마</BT_Charismatic.label>
+  <BT_Charismatic.description>[PAWN_nameDef](은)는 타고난 매력과 설득력을 갖추고 있습니다.</BT_Charismatic.description>
+  <BT_Charismatic.degreeDatas.0.label>카리스마</BT_Charismatic.degreeDatas.0.label>
+  <BT_Charismatic.degreeDatas.0.description>[PAWN_nameDef](은)는 특유의 매력으로 사람들의 마음을 쉽게 사로잡습니다.</BT_Charismatic.degreeDatas.0.description>
+
+  <BT_Careful.label>신중함</BT_Careful.label>
+  <BT_Careful.description>[PAWN_nameDef](은)는 업무에 각별한 주의를 기울입니다.</BT_Careful.description>
+  <BT_Careful.degreeDatas.0.label>신중함</BT_Careful.degreeDatas.0.label>
+  <BT_Careful.degreeDatas.0.description>[PAWN_nameDef](은)는 속도는 느리지만 세부 사항에 매우 세심한 주의를 기울여 작업합니다.</BT_Careful.degreeDatas.0.description>
+
+  <BT_Sturdy.label>튼튼함</BT_Sturdy.label>
+  <BT_Sturdy.description>[PAWN_nameDef](은)는 신체적 지구력이 뛰어납니다.</BT_Sturdy.description>
+  <BT_Sturdy.degreeDatas.0.label>튼튼함</BT_Sturdy.degreeDatas.0.label>
+  <BT_Sturdy.degreeDatas.0.description>[PAWN_nameDef](은)는 더 많이 운반할 수 있으며 피해를 더 잘 견뎌냅니다.</BT_Sturdy.degreeDatas.0.description>
+
+  <BT_Focused.label>집중력</BT_Focused.label>
+  <BT_Focused.description>[PAWN_nameDef](은)는 뛰어난 집중력을 유지합니다.</BT_Focused.description>
+  <BT_Focused.degreeDatas.0.label>집중력</BT_Focused.degreeDatas.0.label>
+  <BT_Focused.degreeDatas.0.description>[PAWN_nameDef](은)는 지속적인 주의가 필요한 작업에 매우 능숙합니다.</BT_Focused.degreeDatas.0.description>
+
+  <BT_MasterBuilder.label>건설 명장</BT_MasterBuilder.label>
+  <BT_MasterBuilder.description>[PAWN_nameDef](은)는 건설과 구조 설계에 타고난 재능이 있습니다.</BT_MasterBuilder.description>
+  <BT_MasterBuilder.degreeDatas.0.label>건설 명장</BT_MasterBuilder.degreeDatas.0.label>
+  <BT_MasterBuilder.degreeDatas.0.description>[PAWN_nameDef](은)는 독보적인 속도와 정밀도로 더 튼튼한 구조물을 건설합니다.</BT_MasterBuilder.degreeDatas.0.description>
+
+  <BT_Artisan.label>장인</BT_Artisan.label>
+  <BT_Artisan.description>[PAWN_nameDef](은)는 정밀한 제작 업무의 달인입니다.</BT_Artisan.description>
+  <BT_Artisan.degreeDatas.0.label>장인</BT_Artisan.degreeDatas.0.label>
+  <BT_Artisan.degreeDatas.0.description>[PAWN_nameDef](은)는 뛰어난 품질과 효율로 아이템을 제작합니다.</BT_Artisan.degreeDatas.0.description>
+
+  <BT_Analytical.label>분석적</BT_Analytical.label>
+  <BT_Analytical.description>[PAWN_nameDef](은)는 연구와 복잡한 작업에 능한 분석적인 사고방식을 가졌습니다.</BT_Analytical.description>
+  <BT_Analytical.degreeDatas.0.label>분석적</BT_Analytical.degreeDatas.0.label>
+  <BT_Analytical.degreeDatas.0.description>[PAWN_nameDef](은)는 문제에 체계적으로 접근하여 연구의 돌파구를 마련할 가능성이 높습니다.</BT_Analytical.degreeDatas.0.description>
+
+  <BT_Survivor.label>생존 전문가</BT_Survivor.label>
+  <BT_Survivor.description>[PAWN_nameDef](은)는 가혹한 환경에 대한 놀라운 저항력을 길렀습니다.</BT_Survivor.description>
+  <BT_Survivor.degreeDatas.0.label>생존 전문가</BT_Survivor.degreeDatas.0.label>
+  <BT_Survivor.degreeDatas.0.description>[PAWN_nameDef](은)는 독성 환경과 열악한 조건을 남들보다 훨씬 잘 견뎌냅니다.</BT_Survivor.degreeDatas.0.description>
+
+  <BT_Sleepless.label>불면</BT_Sleepless.label>
+  <BT_Sleepless.description>[PAWN_nameDef](은)는 최소한의 잠으로도 생활할 수 있게 적응했습니다.</BT_Sleepless.description>
+  <BT_Sleepless.degreeDatas.0.label>불면</BT_Sleepless.degreeDatas.0.label>
+  <BT_Sleepless.degreeDatas.0.description>[PAWN_nameDef](은)는 짧은 수면 시간을 최대한 활용하며 남들보다 더 오래 활동합니다.</BT_Sleepless.degreeDatas.0.description>
+
+  <BT_Weatherproof.label>내후성</BT_Weatherproof.label>
+  <BT_Weatherproof.description>[PAWN_nameDef](은)는 극한의 온도에 대한 뛰어난 내성을 가졌습니다.</BT_Weatherproof.description>
+  <BT_Weatherproof.degreeDatas.0.label>내후성</BT_Weatherproof.degreeDatas.0.label>
+  <BT_Weatherproof.degreeDatas.0.description>[PAWN_nameDef](은)는 덥거나 추운 환경 모두에서 쾌적함을 유지합니다.</BT_Weatherproof.degreeDatas.0.description>
+
+  <BT_Excavator.label>굴착기</BT_Excavator.label>
+  <BT_Excavator.description>[PAWN_nameDef](은)는 지표 자원을 추출하는 데 능숙합니다.</BT_Excavator.description>
+  <BT_Excavator.degreeDatas.0.label>굴착기</BT_Excavator.degreeDatas.0.label>
+  <BT_Excavator.degreeDatas.0.description>[PAWN_nameDef](은)는 채굴과 원자재 추출 처리에 매우 효율적입니다.</BT_Excavator.degreeDatas.0.description>
+
+  <BT_SousChef.label>수셰프</BT_SousChef.label>
+  <BT_SousChef.description>[PAWN_nameDef](은)는 주방 업무와 식재료 준비에 탁월합니다.</BT_SousChef.description>
+  <BT_SousChef.degreeDatas.0.label>수셰프</BT_SousChef.degreeDatas.0.label>
+  <BT_SousChef.degreeDatas.0.description>[PAWN_nameDef](은)는 주방에서 음식을 빠르고 안정적으로 만들어냅니다.</BT_SousChef.degreeDatas.0.description>
+
+<BT_Horticulturist.label>원예가</BT_Horticulturist.label>
+  <BT_Horticulturist.description>[PAWN_nameDef](은)는 식물과 성장 조건에 대해 직관적으로 이해하고 있습니다.</BT_Horticulturist.description>
+  <BT_Horticulturist.degreeDatas.0.label>원예가</BT_Horticulturist.degreeDatas.0.label>
+  <BT_Horticulturist.degreeDatas.0.description>[PAWN_nameDef](은)는 작물을 심고 가꾸는 데 매우 효율적입니다.</BT_Horticulturist.degreeDatas.0.description>
+
+  <BT_Trainer.label>조련사</BT_Trainer.label>
+  <BT_Trainer.description>[PAWN_nameDef](은)는 동물을 다루고 훈련시키는 데 재능이 있습니다.</BT_Trainer.description>
+  <BT_Trainer.degreeDatas.0.label>조련사</BT_Trainer.degreeDatas.0.label>
+  <BT_Trainer.degreeDatas.0.description>[PAWN_nameDef](은)는 동물을 다루거나 훈련시킬 때 더 좋은 결과를 얻습니다.</BT_Trainer.degreeDatas.0.description>
+
+  <BT_Forager.label>채집가</BT_Forager.label>
+  <BT_Forager.description>[PAWN_nameDef](은)는 여행 중에 더 많은 식량 자원을 찾아냅니다.</BT_Forager.description>
+  <BT_Forager.degreeDatas.0.label>채집가</BT_Forager.degreeDatas.0.label>
+  <BT_Forager.degreeDatas.0.description>[PAWN_nameDef](은)는 이동 중에 음식을 발견하는 기술이 뛰어납니다.</BT_Forager.degreeDatas.0.description>
+
+  <BT_Rider.label>기수</BT_Rider.label>
+  <BT_Rider.description>[PAWN_nameDef](은)는 상단에서 동물을 타는 데 능숙합니다.</BT_Rider.description>
+  <BT_Rider.degreeDatas.0.label>기수</BT_Rider.degreeDatas.0.label>
+  <BT_Rider.degreeDatas.0.description>[PAWN_nameDef](은)는 동물에 탑승했을 때 상단의 이동 속도를 높여줍니다.</BT_Rider.degreeDatas.0.description>
+
+  <BT_Unyielding.label>불굴의 의지</BT_Unyielding.label>
+  <BT_Unyielding.description>[PAWN_nameDef](은)는 강인하며 고통과 피로를 남들보다 훨씬 잘 견뎌냅니다.</BT_Unyielding.description>
+  <BT_Unyielding.degreeDatas.0.label>불굴의 의지</BT_Unyielding.degreeDatas.0.label>
+  <BT_Unyielding.degreeDatas.0.description>[PAWN_nameDef](은)는 피로와 부상을 불평 없이 이겨낼 수 있습니다.</BT_Unyielding.degreeDatas.0.description>
+
+  <BT_Orderly.label>정돈됨</BT_Orderly.label>
+  <BT_Orderly.description>[PAWN_nameDef](은)는 유난히 깔끔하며 쓰레기를 적게 배출합니다.</BT_Orderly.description>
+  <BT_Orderly.degreeDatas.0.label>정돈됨</BT_Orderly.degreeDatas.0.label>
+  <BT_Orderly.degreeDatas.0.description>[PAWN_nameDef](은)는 오물을 적게 만들어 구역을 청결하게 유지합니다.</BT_Orderly.degreeDatas.0.description>
+
+  <BT_Hearty.label>왕성함</BT_Hearty.label>
+  <BT_Hearty.description>[PAWN_nameDef](은)는 음식을 빨리 먹으며 더 많은 짐을 운반할 수 있습니다.</BT_Hearty.description>
+  <BT_Hearty.degreeDatas.0.label>왕성함</BT_Hearty.degreeDatas.0.label>
+  <BT_Hearty.degreeDatas.0.description>[PAWN_nameDef](은)는 식사를 빠르게 마치고 운반 중량에 약간의 보너스를 얻습니다.</BT_Hearty.degreeDatas.0.description>
+
+  <BT_Bruiser.label>투사</BT_Bruiser.label>
+  <BT_Bruiser.description>[PAWN_nameDef](은)는 근접전에 능한 격렬한 전사이지만, 원거리 무기는 효율이 떨어집니다.</BT_Bruiser.description>
+  <BT_Bruiser.degreeDatas.0.label>투사</BT_Bruiser.degreeDatas.0.label>
+  <BT_Bruiser.degreeDatas.0.description>[PAWN_nameDef](은)는 근접전에 능한 격렬한 전사이지만, 원거리 무기는 효율이 떨어집니다.</BT_Bruiser.degreeDatas.0.description>
+
+  <BT_Deadeye.label>명사수</BT_Deadeye.label>
+  <BT_Deadeye.description>[PAWN_nameDef](은)는 원거리 전투의 달인으로 독보적인 명중률을 자랑하지만, 근접전에서는 서툽니다.</BT_Deadeye.description>
+  <BT_Deadeye.degreeDatas.0.label>데드아이</BT_Deadeye.degreeDatas.0.label>
+  <BT_Deadeye.degreeDatas.0.description>[PAWN_nameDef](은)는 원거리 전투의 달인으로 독보적인 명중률을 자랑하지만, 근접전에서는 서툽니다.</BT_Deadeye.degreeDatas.0.description>
+
+  <BT_Tank.label>탱크</BT_Tank.label>
+  <BT_Tank.description>[PAWN_nameDef](은)는 전차와 같은 맷집을 가져 남들이 쓰러질 법한 피해도 견뎌내지만, 그 무게 때문에 이동 속도가 느립니다.</BT_Tank.description>
+  <BT_Tank.degreeDatas.0.label>탱크</BT_Tank.degreeDatas.0.label>
+  <BT_Tank.degreeDatas.0.description>[PAWN_nameDef](은)는 전차와 같은 맷집을 가져 남들이 쓰러질 법한 피해도 견뎌내지만, 그 무게 때문에 이동 속도가 느립니다.</BT_Tank.degreeDatas.0.description>
+
+  <BT_Acrobat.label>아크로뱃</BT_Acrobat.label>
+  <BT_Acrobat.description>[PAWN_nameDef](은)는 몸이 가벼워 공격을 잘 피하고 빠르게 움직이지만, 일단 공격을 받으면 피해에 더 취약합니다.</BT_Acrobat.description>
+  <BT_Acrobat.degreeDatas.0.label>아크로뱃</BT_Acrobat.degreeDatas.0.label>
+  <BT_Acrobat.degreeDatas.0.description>[PAWN_nameDef](은)는 몸이 가벼워 공격을 잘 피하고 빠르게 움직이지만, 일단 공격을 받으면 피해에 더 취약합니다.</BT_Acrobat.degreeDatas.0.description>
+
+  <BT_Culinarian.label>미식가</BT_Culinarian.label>
+  <BT_Culinarian.description>[PAWN_nameDef](은)는 세련된 미각으로 훌륭한 요리를 만들지만, 작업 속도가 조금 느리고 까다롭습니다.</BT_Culinarian.description>
+  <BT_Culinarian.degreeDatas.0.label>미식가</BT_Culinarian.degreeDatas.0.label>
+  <BT_Culinarian.degreeDatas.0.description>[PAWN_nameDef](은)는 세련된 미각으로 훌륭한 요리를 만들지만, 작업 속도가 조금 느리고 까다롭습니다.</BT_Culinarian.degreeDatas.0.description>
+
+  <BT_FieldMedic.label>야전 의무병</BT_FieldMedic.label>
+  <BT_FieldMedic.description>[PAWN_nameDef](은)는 긴박한 상황에서 상처를 봉합하는 데 능숙하지만, 복잡한 수술에 필요한 정교함은 부족합니다.</BT_FieldMedic.description>
+  <BT_FieldMedic.degreeDatas.0.label>야전 위생병</BT_FieldMedic.degreeDatas.0.label>
+  <BT_FieldMedic.degreeDatas.0.description>[PAWN_nameDef](은)는 긴박한 상황에서 상처를 봉합하는 데 능숙하지만, 복잡한 수술에 필요한 정교함은 부족합니다.</BT_FieldMedic.degreeDatas.0.description>
+
+  <BT_Gardener.label>정원사</BT_Gardener.label>
+  <BT_Gardener.description>[PAWN_nameDef](은)는 무언가를 길러내는 데 타고난 재능이 있습니다.</BT_Gardener.description>
+  <BT_Gardener.degreeDatas.0.label>정원사</BT_Gardener.degreeDatas.0.label>
+  <BT_Gardener.degreeDatas.0.description>[PAWN_nameDef](은)는 무언가를 길러내는 데 타고난 재능이 있습니다.</BT_Gardener.degreeDatas.0.description>
+
+  <BT_Spelunker.label>동굴 탐험가</BT_Spelunker.label>
+  <BT_Spelunker.description>[PAWN_nameDef](은)는 지하 작업의 전문가로, 더 빠르고 많은 양을 채굴합니다.</BT_Spelunker.description>
+  <BT_Spelunker.degreeDatas.0.label>동굴 탐험가</BT_Spelunker.degreeDatas.0.label>
+  <BT_Spelunker.degreeDatas.0.description>[PAWN_nameDef](은)는 지하 작업의 전문가로, 더 빠르고 많은 양을 채굴합니다.</BT_Spelunker.degreeDatas.0.description>
+
+  <BT_Visionary.label>몽상가</BT_Visionary.label>
+  <BT_Visionary.description>[PAWN_nameDef](은)는 독특한 예술적 비전을 가져 가치 있는 예술품을 만들지만, 창작 과정이 매우 느립니다.</BT_Visionary.description>
+  <BT_Visionary.degreeDatas.0.label>몽상가</BT_Visionary.degreeDatas.0.label>
+  <BT_Visionary.degreeDatas.0.description>[PAWN_nameDef](은)는 독특한 예술적 비전을 가져 가치 있는 예술품을 만들지만, 창작 과정이 매우 느립니다.</BT_Visionary.degreeDatas.0.description>
+
+  <BT_BeastMaster.label>비스트 마스터</BT_BeastMaster.label>
+  <BT_BeastMaster.description>[PAWN_nameDef](은)는 동물과 묘한 교감을 나누며, 동물을 길들이고 훈련시키는 것이 훨씬 쉽습니다.</BT_BeastMaster.description>
+  <BT_BeastMaster.degreeDatas.0.label>비스트 마스터</BT_BeastMaster.degreeDatas.0.label>
+  <BT_BeastMaster.degreeDatas.0.description>[PAWN_nameDef](은)는 동물과 묘한 교감을 나누며, 동물을 길들이고 훈련시키는 것이 훨씬 쉽습니다.</BT_BeastMaster.degreeDatas.0.description>
+
+  <BT_Himbo.label>근육뇌</BT_Himbo.label>
+  <BT_Himbo.description>[PAWN_nameDef](은)는 매력적이고 성실하지만, 머리 회전이 그리 빠르지는 않습니다.</BT_Himbo.description>
+  <BT_Himbo.degreeDatas.0.label>힘보</BT_Himbo.degreeDatas.0.label>
+  <BT_Himbo.degreeDatas.0.description>[PAWN_nameDef](은)는 매력적이고 성실하지만, 머리 회전이 그리 빠르지는 않습니다.</BT_Himbo.degreeDatas.0.description>
+
+  <BT_Herbalist.label>약초사</BT_Herbalist.label>
+  <BT_Herbalist.description>[PAWN_nameDef](은)는 타고난 원예가이자 식물 재배와 의학 모두에 능숙합니다.</BT_Herbalist.description>
+  <BT_Herbalist.degreeDatas.0.label>약초사</BT_Herbalist.degreeDatas.0.label>
+  <BT_Herbalist.degreeDatas.0.description>[PAWN_nameDef](은)는 식물을 경작하고 부상자나 환자를 돌보는 데 타고난 재능이 있습니다.</BT_Herbalist.degreeDatas.0.description>
+
+  <BT_Polymath.label>박식가</BT_Polymath.label>
+  <BT_Polymath.description>[PAWN_nameDef](은)는 다양한 분야에 재능이 있는 진정한 박식가입니다. [PAWN_pronoun](은)는 여러 분야에서 탁월하지만, 이러한 방대한 지식 때문에 때때로 타인과 약간의 사회적 거리감이 생기기도 합니다.</BT_Polymath.description>
+  <BT_Polymath.degreeDatas.0.label>박식가</BT_Polymath.degreeDatas.0.label>
+  <BT_Polymath.degreeDatas.0.description>[PAWN_nameDef](은)는 다방면에 능통한 영리한 인물이지만, 이로 인해 타인에게 다소 거리감 있게 느껴질 수 있습니다.</BT_Polymath.degreeDatas.0.description>
+
+  <BT_GentleHand.label>부드러운 손길</BT_GentleHand.label>
+  <BT_GentleHand.degreeDatas.0.label>부드러운 손길</BT_GentleHand.degreeDatas.0.label>
+  <BT_GentleHand.degreeDatas.0.description>[PAWN_nameDef](은)는 동물을 부드럽게 다루어 생산성을 높이고 관리하기 쉽게 만듭니다.</BT_GentleHand.degreeDatas.0.description>
+
+  <BT_Friendly.label>친화적</BT_Friendly.label>
+  <BT_Friendly.description>[PAWN_nameDef](은)는 매우 상냥하며 타인과 유대감을 쌓는 데 막힘이 없습니다.</BT_Friendly.description>
+  <BT_Friendly.degreeDatas.0.label>친화적</BT_Friendly.degreeDatas.0.label>
+  <BT_Friendly.degreeDatas.0.description>[PAWN_nameDef](은)는 매우 상냥하며 타인과 유대감을 쌓는 데 막힘이 없습니다.</BT_Friendly.degreeDatas.0.description>
+</LanguageData>
