@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_Overdriven_V2.label>분노 후유증</SLP_Overdriven_V2.label>
+  <SLP_Overdriven_V2.description>신체 제한 해제로 인한 극심한 통증, 근육 파열 및 골절 상태입니다. 휴식만이 답입니다.</SLP_Overdriven_V2.description>
+  <SLP_Overdriven_V2.stages.0.label>회복중</SLP_Overdriven_V2.stages.0.label>
+  <SLP_Overdriven_V2.stages.1.label>경미한</SLP_Overdriven_V2.stages.1.label>
+  <SLP_Overdriven_V2.stages.2.label>심각한</SLP_Overdriven_V2.stages.2.label>
+  <SLP_Overdriven_V2.stages.3.label>극심한</SLP_Overdriven_V2.stages.3.label>
+  <SLP_Overdriven_V2.stages.4.label>극도의</SLP_Overdriven_V2.stages.4.label>
+  <SLP_Psycast_Hex.label>초능력 저주</SLP_Psycast_Hex.label>
+  <SLP_Psycast_Hex.description>초능력으로 인해 저하된 전투 능력.</SLP_Psycast_Hex.description>
+  <SLP_Psycast_Fireshield.label>초능력 화염 보호막</SLP_Psycast_Fireshield.label>
+  <SLP_Psycast_Fireshield.description>초능력으로 강화된 열기 보호 효과.</SLP_Psycast_Fireshield.description>
+  <SLP_Psycast_HuntersMark.label>사냥꾼의 표식</SLP_Psycast_HuntersMark.label>
+  <SLP_Psycast_HuntersMark.description>초능력으로 인해 약화된 방어력.</SLP_Psycast_HuntersMark.description>
+  <SLP_Psycast_Clairvoyance.label>감각 증폭</SLP_Psycast_Clairvoyance.label>
+  <SLP_Psycast_Clairvoyance.description>초능력으로 강화된 감각.</SLP_Psycast_Clairvoyance.description>
+  <SLP_Psycast_ParalysingPunch.label>기절</SLP_Psycast_ParalysingPunch.label>
+  <SLP_Psycast_ParalysingPunch.description>기절펀치로 인한 마비 상태.</SLP_Psycast_ParalysingPunch.description>
+  <SLP_Psycast_Hypervelocity.label>초고속</SLP_Psycast_Hypervelocity.label>
+  <SLP_Psycast_Hypervelocity.description>초능력으로 강화된 신체.</SLP_Psycast_Hypervelocity.description>
+  <SLP_Psycast_RecklessRage.label>무모한 분노</SLP_Psycast_RecklessRage.label>
+  <SLP_Psycast_RecklessRage.description>초능력으로 유도된 분노 상태.</SLP_Psycast_RecklessRage.description>
+  <SLP_Psycast_Sniper.label>저격수</SLP_Psycast_Sniper.label>
+  <SLP_Psycast_Sniper.description>초능력으로 강화된 명중률.</SLP_Psycast_Sniper.description>
+</LanguageData>
