@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=rubber rounds-->
+  <QM_RubberBullet.label>경화 고무탄</QM_RubberBullet.label>
+  <!--Original=RB-->
+  <QM_RubberBullet.labelShort>경화고무탄</QM_RubberBullet.labelShort>
+  <!--Original=Lethal force rounds. Cartridge is fitted with hardened rubber bullet designed to be effective against armor with poor blunt resistance.-->
+  <QM_RubberBullet.description>경화 고무 탄두를 장착한 살상용 탄환입니다. 둔탁함 저항이 낮은 장갑에 효과적으로 대응할 수 있도록 설계되었습니다.</QM_RubberBullet.description>
+  <!--Original=cryo rounds-->
+  <QM_FrostBullet.label>냉동탄</QM_FrostBullet.label>
+  <!--Original=Cryo-->
+  <QM_FrostBullet.labelShort>냉동탄</QM_FrostBullet.labelShort>
+  <!--Original=Loaded with a bullet with a cryogenic chemical mix. Which upon impact chemical reaction would rupture out and release the freezing gel to deal freezing damage.-->
+  <QM_FrostBullet.description>극저온 화학 혼합물이 들어있는 탄환입니다. 충돌 시 화학 반응으로 인해 파열되면서 냉동 젤이 방출되어 동상 피해를 입힙니다.</QM_FrostBullet.description>
+  <!--Original=incendiary rounds-->
+  <QM_PlasmaBullet.label>철갑 플라즈마 소이탄</QM_PlasmaBullet.label>
+  <!--Original=Plasma-->
+  <QM_PlasmaBullet.labelShort>철갑소이탄</QM_PlasmaBullet.labelShort>
+  <!--Original=Loaded with a small microーfussion bullethead. On impact it would detonate and cause a plasma explosion.-->
+  <QM_PlasmaBullet.description>소형 융합 탄두가 장착된 탄환입니다. 충돌 시 폭발하며 플라즈마 폭발을 일으킵니다.</QM_PlasmaBullet.description>
+  <!--Original=bursting-->
+  <QM_Burst.label>폭발탄</QM_Burst.label>
+  <!--Original=Burst-->
+  <QM_Burst.labelShort>폭발탄</QM_Burst.labelShort>
+  <!--Original=Loaded with a bullethead with explosives that would bore into the material then detonate for additional damage.-->
+  <QM_Burst.description>폭발물이 내장된 탄두가 장착된 탄환입니다. 대상의 내부로 파고든 뒤 폭발하여 추가 피해를 입힙니다.</QM_Burst.description>
+  <!--Original=nuclearーwarhead-->
+  <QM_Nuclear.label>핵탄두</QM_Nuclear.label>
+  <!--Original=Nuke-->
+  <QM_Nuclear.labelShort>핵</QM_Nuclear.labelShort>
+  <!--Original=Armed with a small nuclear warhead that would detonate on impact. Resulting small nuclear fission would turn any armor into a slag.-->
+  <QM_Nuclear.description>폭발하는 소형 핵탄두를 탑재했습니다. 충돌 시 발생하는 소규모 핵분열은 어떤 장갑이라도 순식간에 쇳물로 만들어버립니다.</QM_Nuclear.description>
+</LanguageData>

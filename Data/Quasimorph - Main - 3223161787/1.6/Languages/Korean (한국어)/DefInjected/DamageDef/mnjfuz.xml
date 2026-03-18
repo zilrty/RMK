@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=frost projectile-->
+  <QM_FrostBullet.label>냉동 투사체</QM_FrostBullet.label>
+  <!--Original={0} has been shot to death.-->
+  <QM_FrostBullet.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</QM_FrostBullet.deathMessage>
+  <!--Original={0} has been shot to death.-->
+  <QM_MagneticChargedLance.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</QM_MagneticChargedLance.deathMessage>
+  <!--Original=railgun lance-->
+  <QM_MagneticChargedLance.label>레일건 랜스</QM_MagneticChargedLance.label>
+  <!--Original={0} has been shot to death.-->
+  <QM_EnergyBullet.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</QM_EnergyBullet.deathMessage>
+  <!--Original=energy projectile-->
+  <QM_EnergyBullet.label>에너지 투사체</QM_EnergyBullet.label>
+  <!--Original={0} has been shot to death.-->
+  <QM_EnergyBeam.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</QM_EnergyBeam.deathMessage>
+  <!--Original=energy beam-->
+  <QM_EnergyBeam.label>에너지 빔</QM_EnergyBeam.label>
+  <!--Original={0} has been shot to death.-->
+  <QM_PlasmaCharge.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</QM_PlasmaCharge.deathMessage>
+  <!--Original=plasma projectile-->
+  <QM_PlasmaCharge.label>플라즈마 투사체</QM_PlasmaCharge.label>
+  <!--Original={0} has been shot to death.-->
+  <QM_EnergyBeam_WK.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</QM_EnergyBeam_WK.deathMessage>
+  <!--Original=energy beam-->
+  <QM_EnergyBeam_WK.label>에너지 빔</QM_EnergyBeam_WK.label>
+  <!--Original={0} has been shot to death.-->
+  <QM_PlasmaCharge_WK.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</QM_PlasmaCharge_WK.deathMessage>
+  <!--Original=plasma projectile-->
+  <QM_PlasmaCharge_WK.label>플라즈마 투사체</QM_PlasmaCharge_WK.label>
+  <!--Original=beanbag-->
+  <Beanbag.label>고무탄</Beanbag.label>
+  <!--Original={0} has been beanbagged to death.-->
+  <Beanbag.deathMessage>{0}(이)가 고무탄에 맞아 죽었습니다.</Beanbag.deathMessage>
+  <!--Original=taser-->
+  <Taser.label>테이저</Taser.label>
+  <!--Original={0} has been tasered to death.-->
+  <Taser.deathMessage>{0}(이)가 테이저에 지져져 죽었습니다.</Taser.deathMessage>
+  <!--Original=fragment-->
+  <Fragment.label>파편</Fragment.label>
+  <!--Original={0} has been shredded to death.-->
+  <Fragment.deathMessage>{0}(이)가 파편에 맞아 죽었습니다.</Fragment.deathMessage>
+  <!--Original=prometheum flame-->
+  <PrometheumFlame.label>프로메튬 화염</PrometheumFlame.label>
+  <!--Original=thermobaric-->
+  <Thermobaric.label>열압력탄</Thermobaric.label>
+  <!--Original=burn-->
+  <Flame_Secondary.label>화상</Flame_Secondary.label>
+  <!--Original=electrical-->
+  <Electrical.label>전기</Electrical.label>
+  <!--Original={0} has been electrocuted.-->
+  <Electrical.deathMessage>{0}(이)가 감전되어 죽었습니다.</Electrical.deathMessage>
+  <!--Original=tranquilizer-->
+  <Tranquilizer.label>마취탄</Tranquilizer.label>
+  <!--Original={0} has been electrocuted.-->
+  <Neuralizer.deathMessage>{0}(이)가 감전되어 죽었습니다.</Neuralizer.deathMessage>
+  <!--Original=neuralizer-->
+  <Neuralizer.label>신경 교란</Neuralizer.label>
+  <!--Original=flashbang-->
+  <Flashbang.label>섬광</Flashbang.label>
+  <!--Original=laser-->
+  <CE_Laser.label>레이저</CE_Laser.label>
+  <!--Original={0} has been scorched to death.-->
+  <CE_Laser.deathMessage>{0}(이)가 타 죽었습니다.</CE_Laser.deathMessage>
+</LanguageData>

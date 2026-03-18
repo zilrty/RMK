@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=make 5.58x42mm Corpo Cartridge (FMJ) cartridge x500-->
+  <MakeQM_Ammo_42C_FMJ.label>5.58x42mm 기업 (일반탄) 500발 제작</MakeQM_Ammo_42C_FMJ.label>
+  <!--Original=Craft 500 5.58x42mm Corpo Cartridge (FMJ) cartridges.-->
+  <MakeQM_Ammo_42C_FMJ.description>5.58x42mm 기업 (일반탄) 500발을 제작합니다.</MakeQM_Ammo_42C_FMJ.description>
+  <!--Original=Making 5.58x42mm Corpo Cartridge (FMJ) cartridges.-->
+  <MakeQM_Ammo_42C_FMJ.jobString>5.58x42mm 기업 (일반탄) 제작 중</MakeQM_Ammo_42C_FMJ.jobString>
+  <!--Original=make 5.58x42mm Corpo Cartridge (RB) cartridge x500-->
+  <MakeQM_Ammo_42C_RB.label>5.58x42mm 기업 (경화고무탄) 500발 제작</MakeQM_Ammo_42C_RB.label>
+  <!--Original=Craft 500 5.58x42mm Corpo Cartridge (RB) cartridges.-->
+  <MakeQM_Ammo_42C_RB.description>5.58x42mm 기업 (경화고무탄) 500발을 제작합니다.</MakeQM_Ammo_42C_RB.description>
+  <!--Original=Making 5.58x42mm Corpo Cartridge (RB) cartridges.-->
+  <MakeQM_Ammo_42C_RB.jobString>5.58x42mm 기업 (경화고무탄) 제작 중</MakeQM_Ammo_42C_RB.jobString>
+  <!--Original=make 5.58x42mm Corpo Cartridge (Cryo) cartridge x500-->
+  <MakeQM_Ammo_42C_CRYO.label>5.58x42mm 기업 (냉동탄) 500발 제작</MakeQM_Ammo_42C_CRYO.label>
+  <!--Original=Craft 500 5.58x42mm Corpo Cartridge (Cryo) cartridges.-->
+  <MakeQM_Ammo_42C_CRYO.description>5.58x42mm 기업 (냉동탄) 500발을 제작합니다.</MakeQM_Ammo_42C_CRYO.description>
+  <!--Original=Making 5.58x42mm Corpo Cartridge (Cryo) cartridges.-->
+  <MakeQM_Ammo_42C_CRYO.jobString>5.58x42mm 기업 (냉동탄) 제작 중</MakeQM_Ammo_42C_CRYO.jobString>
+  <!--Original=make 7.97mm Corpo (FMJ) cartridge x500-->
+  <MakeQM_Ammo_797C_FMJ.label>7.97mm 기업 (일반탄) 500발 제작</MakeQM_Ammo_797C_FMJ.label>
+  <!--Original=Craft 500 7.97mm Corpo (FMJ) cartridges.-->
+  <MakeQM_Ammo_797C_FMJ.description>7.97mm 기업 (일반탄) 500발을 제작합니다.</MakeQM_Ammo_797C_FMJ.description>
+  <!--Original=Making 7.97mm Corpo (FMJ) cartridges.-->
+  <MakeQM_Ammo_797C_FMJ.jobString>7.97mm 기업 (일반탄) 제작 중</MakeQM_Ammo_797C_FMJ.jobString>
+  <!--Original=make 7.97mm Corpo (AP) cartridge x500-->
+  <MakeQM_Ammo_797C_AP.label>7.97mm 기업 (철갑탄) 500발 제작</MakeQM_Ammo_797C_AP.label>
+  <!--Original=Craft 500 7.97mm Corpo (AP) cartridges.-->
+  <MakeQM_Ammo_797C_AP.description>7.97mm 기업 (철갑탄) 500발을 제작합니다.</MakeQM_Ammo_797C_AP.description>
+  <!--Original=Making 7.97mm Corpo (AP) cartridges.-->
+  <MakeQM_Ammo_797C_AP.jobString>7.97mm 기업 (철갑탄) 제작 중</MakeQM_Ammo_797C_AP.jobString>
+  <!--Original=make 7.97mm Corpo (APーI) cartridge x500-->
+  <MakeQM_Ammo_797C_API.label>7.97mm 기업 (철갑소이탄) 500발 제작</MakeQM_Ammo_797C_API.label>
+  <!--Original=Craft 500 7.97mm Corpo (APーI) cartridges.-->
+  <MakeQM_Ammo_797C_API.description>7.97mm 기업 (철갑소이탄) 500발을 제작합니다.</MakeQM_Ammo_797C_API.description>
+  <!--Original=Making 7.97mm Corpo (APーI) cartridges.-->
+  <MakeQM_Ammo_797C_API.jobString>7.97mm 기업 (철갑소이탄) 제작 중</MakeQM_Ammo_797C_API.jobString>
+  <!--Original=make 9mm Corporate (FMJ) cartridge x500-->
+  <MakeQM_Ammo_9mmC_FMJ.label>9mm 기업 (일반탄) 500발 제작</MakeQM_Ammo_9mmC_FMJ.label>
+  <!--Original=Craft 500 9mm Corporate (FMJ) cartridges.-->
+  <MakeQM_Ammo_9mmC_FMJ.description>9mm 기업 (일반탄) 500발을 제작합니다.</MakeQM_Ammo_9mmC_FMJ.description>
+  <!--Original=Making 9mm Corporate (FMJ) cartridges.-->
+  <MakeQM_Ammo_9mmC_FMJ.jobString>9mm 기업 (일반탄) 제작 중</MakeQM_Ammo_9mmC_FMJ.jobString>
+  <!--Original=make 9mm Corporate (AP) cartridge x500-->
+  <MakeQM_Ammo_9mmC_AP.label>9mm 기업 (철갑탄) 500발 제작</MakeQM_Ammo_9mmC_AP.label>
+  <!--Original=Craft 500 9mm Corporate (AP) cartridges.-->
+  <MakeQM_Ammo_9mmC_AP.description>9mm 기업 (철갑탄) 500발을 제작합니다.</MakeQM_Ammo_9mmC_AP.description>
+  <!--Original=Making 9mm Corporate (AP) cartridges.-->
+  <MakeQM_Ammo_9mmC_AP.jobString>9mm 기업 (철갑탄) 제작 중</MakeQM_Ammo_9mmC_AP.jobString>
+  <!--Original=make 9mm Corporate (Burst) cartridge x500-->
+  <MakeQM_Ammo_9mmC_HE.label>9mm 기업 (폭발탄) 500발 제작</MakeQM_Ammo_9mmC_HE.label>
+  <!--Original=Craft 500 9mm Corporate (Burst) cartridges.-->
+  <MakeQM_Ammo_9mmC_HE.description>9mm 기업 (폭발탄) 500발을 제작합니다.</MakeQM_Ammo_9mmC_HE.description>
+  <!--Original=Making 9mm Corporate (Burst) cartridges.-->
+  <MakeQM_Ammo_9mmC_HE.jobString>9mm 기업 (폭발탄) 제작 중</MakeQM_Ammo_9mmC_HE.jobString>
+  <!--Original=make makeshift battery cell (corpo) x800-->
+  <MakeQM_Ammo_BatteryCellC.label>임시 배터리 셀 (기업) 800개 제작</MakeQM_Ammo_BatteryCellC.label>
+  <!--Original=Craft 800 makeshift battery cell (corpo).-->
+  <MakeQM_Ammo_BatteryCellC.description>임시 배터리 셀 (기업) 800개를 제작합니다.</MakeQM_Ammo_BatteryCellC.description>
+  <!--Original=Making makeshift battery cell (corpo).-->
+  <MakeQM_Ammo_BatteryCellC.jobString>임시 배터리 셀 (기업) 제작 중</MakeQM_Ammo_BatteryCellC.jobString>
+  <!--Original=make energy cell (corpo) x500-->
+  <MakeQM_Ammo_EnergyCellC.label>에너지 셀 (기업) 500개 제작</MakeQM_Ammo_EnergyCellC.label>
+  <!--Original=Craft 500 energy cell (corpo).-->
+  <MakeQM_Ammo_EnergyCellC.description>에너지 셀 (기업) 500개를 제작합니다.</MakeQM_Ammo_EnergyCellC.description>
+  <!--Original=Making energy cell (corpo).-->
+  <MakeQM_Ammo_EnergyCellC.jobString>에너지 셀 (기업) 제작 중</MakeQM_Ammo_EnergyCellC.jobString>
+  <!--Original=make Scalp rockets (Frag) x5-->
+  <MakeQM_Ammo_RocketC_Scalp.label>스칼프 기업 로켓 (파쇄탄) 5발 제작</MakeQM_Ammo_RocketC_Scalp.label>
+  <!--Original=Craft 5 Scalp rockets (Frag).-->
+  <MakeQM_Ammo_RocketC_Scalp.description>스칼프 기업 로켓 (파쇄탄) 5발을 제작합니다.</MakeQM_Ammo_RocketC_Scalp.description>
+  <!--Original=Making Scalp rockets (Frag).-->
+  <MakeQM_Ammo_RocketC_Scalp.jobString>스칼프 기업 로켓 (파쇄탄) 제작 중</MakeQM_Ammo_RocketC_Scalp.jobString>
+  <!--Original=make Ignis rockets (Thermobaric) x5-->
+  <MakeQM_Ammo_RocketC_Ignis.label>이그니스 기업 로켓 (열압력탄) 5발 제작</MakeQM_Ammo_RocketC_Ignis.label>
+  <!--Original=Craft 5 Ignis rockets (Thermobaric).-->
+  <MakeQM_Ammo_RocketC_Ignis.description>이그니스 기업 로켓 (열압력탄) 5발을 제작합니다.</MakeQM_Ammo_RocketC_Ignis.description>
+  <!--Original=Making Ignis rockets (Thermobaric).-->
+  <MakeQM_Ammo_RocketC_Ignis.jobString>이그니스 기업 로켓 (열압력탄) 제작 중</MakeQM_Ammo_RocketC_Ignis.jobString>
+  <!--Original=make Ultimatum rockets (Nuke) x5-->
+  <MakeQM_Ammo_RocketC_Ultimatum.label>얼티메이텀 기업 로켓 (핵) 5발 제작</MakeQM_Ammo_RocketC_Ultimatum.label>
+  <!--Original=Craft 5 Ultimatum rockets (Nuke).-->
+  <MakeQM_Ammo_RocketC_Ultimatum.description>얼티메이텀 기업 로켓 (핵) 5발을 제작합니다.</MakeQM_Ammo_RocketC_Ultimatum.description>
+  <!--Original=Making Ultimatum rockets (Nuke).-->
+  <MakeQM_Ammo_RocketC_Ultimatum.jobString>얼티메이텀 기업 로켓 (핵) 제작 중</MakeQM_Ammo_RocketC_Ultimatum.jobString>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=handwear and footwear-->
+  <QM_BootsAndGloves.label>장갑과 신발</QM_BootsAndGloves.label>
+  <!--Original=corporate items-->
+  <QM_Corporate.label>기업 물건</QM_Corporate.label>
+  <!--Original=chip-->
+  <QM_Chip.label>칩</QM_Chip.label>
+  <!--Original=.42 caliber Corpo-->
+  <QM_Ammo42C.label>5.58x42mm 기업</QM_Ammo42C.label>
+  <!--Original=7.97mm Corpo-->
+  <QM_Ammo797C.label>7.97mm 기업</QM_Ammo797C.label>
+  <!--Original=9mm Corporate-->
+  <QM_Ammo9mmC.label>9mm 기업</QM_Ammo9mmC.label>
+  <!--Original=Makeshift battery cell (corpo)-->
+  <QM_Ammo_BatteryCellC.label>임시 배터리 셀 (기업)</QM_Ammo_BatteryCellC.label>
+  <!--Original=Energy cell (Corpo)-->
+  <QM_Ammo_EnergyCellC.label>에너지 셀 (기업)</QM_Ammo_EnergyCellC.label>
+  <!--Original=Corporate missiles-->
+  <QM_AmmoRocketC.label>기업 미사일</QM_AmmoRocketC.label>
+</LanguageData>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=5.58x42mm bullet often called &quot;.42&quot; is a standardized rifle cartridge approved for manufacturing and usage by corpate entities.-->
+  <QM_Ammo_42C_FMJ.description>흔히 ".42"라고 불리는 5.58x42mm 탄약은 기업 연합의 제조 및 사용 승인을 받은 표준 소총 탄약입니다.</QM_Ammo_42C_FMJ.description>
+  <!--Original=5.58x42mm Corpo (FMJ)-->
+  <QM_Ammo_42C_FMJ.label>5.58x42mm 기업 (일반탄)</QM_Ammo_42C_FMJ.label>
+  <!--Original=5.58x42mm bullet often called &quot;.42&quot; is a standardized rifle cartridge approved for manufacturing and usage by corpate entities.-->
+  <QM_Ammo_42C_RB.description>흔히 ".42"라고 불리는 5.58x42mm 탄약은 기업 연합의 제조 및 사용 승인을 받은 표준 소총 탄약입니다.</QM_Ammo_42C_RB.description>
+  <!--Original=5.58x42mm Corpo (RB)-->
+  <QM_Ammo_42C_RB.label>5.58x42mm 기업 (경화고무탄)</QM_Ammo_42C_RB.label>
+  <!--Original=5.58x42mm bullet often called &quot;.42&quot; is a standardized rifle cartridge approved for manufacturing and usage by corpate entities.-->
+  <QM_Ammo_42C_CRYO.description>흔히 ".42"라고 불리는 5.58x42mm 탄약은 기업 연합의 제조 및 사용 승인을 받은 표준 소총 탄약입니다.</QM_Ammo_42C_CRYO.description>
+  <!--Original=5.58x42mm Corpo (Cryo)-->
+  <QM_Ammo_42C_CRYO.label>5.58x42mm 기업 (냉동탄)</QM_Ammo_42C_CRYO.label>
+  <!--Original=5.58x42mm Corpo cartridge (FMJ)-->
+  <QM_Bullet_42C_FMJ.label>5.58x42mm 기업 탄환 (일반탄)</QM_Bullet_42C_FMJ.label>
+  <!--Original=5.58x42mm Corpo cartridge (RB)-->
+  <QM_Bullet_42C_RB.label>5.58x42mm 기업 탄환 (경화고무탄)</QM_Bullet_42C_RB.label>
+  <!--Original=5.58x42mm Corpo cartridge (Cryo)-->
+  <QM_Bullet_42C_CRYO.label>5.58x42mm 기업 탄환 (냉동탄)</QM_Bullet_42C_CRYO.label>
+  <!--Original=5.58x42mm Corpo cartridge (FMJ)-->
+  <QM_Bullet_42C_FMJ_LB.label>5.58x42mm 기업 탄환 (일반탄)</QM_Bullet_42C_FMJ_LB.label>
+  <!--Original=5.58x42mm Corpo cartridge (RB)-->
+  <QM_Bullet_42C_RB_LB.label>5.58x42mm 기업 탄환 (경화고무탄)</QM_Bullet_42C_RB_LB.label>
+  <!--Original=5.58x42mm Corpo cartridge (Cryo)-->
+  <QM_Bullet_42C_CRYO_LB.label>5.58x42mm 기업 탄환 (냉동탄)</QM_Bullet_42C_CRYO_LB.label>
+  <!--Original=spent rifle casings-->
+  <QM_Filth_SMGAmmoCasings_A.label>탄피</QM_Filth_SMGAmmoCasings_A.label>
+  <!--Original=spent rifle casings-->
+  <QM_Filth_SMGAmmoCasings_B.label>탄피</QM_Filth_SMGAmmoCasings_B.label>
+  <!--Original=spent rifle casings-->
+  <QM_Filth_SMGAmmoCasings_C.label>탄피</QM_Filth_SMGAmmoCasings_C.label>
+  <!--Original=Standardized heavy rifle cartridge approved for manufacturing and usage by corporate entities.-->
+  <QM_Ammo_797C_FMJ.description>기업 연합의 제조 및 사용 승인을 받은 표준 중형 소총 탄약입니다.</QM_Ammo_797C_FMJ.description>
+  <!--Original=7.97mm Corpo (FMJ)-->
+  <QM_Ammo_797C_FMJ.label>7.97mm 기업 (일반탄)</QM_Ammo_797C_FMJ.label>
+  <!--Original=Standardized heavy rifle cartridge approved for manufacturing and usage by corporate entities.-->
+  <QM_Ammo_797C_AP.description>기업 연합의 제조 및 사용 승인을 받은 표준 중형 소총 탄약입니다.</QM_Ammo_797C_AP.description>
+  <!--Original=7.97mm Corpo (AP)-->
+  <QM_Ammo_797C_AP.label>7.97mm 기업 (철갑탄)</QM_Ammo_797C_AP.label>
+  <!--Original=Standardized heavy rifle cartridge approved for manufacturing and usage by corporate entities.-->
+  <QM_Ammo_797C_API.description>기업 연합의 제조 및 사용 승인을 받은 표준 중형 소총 탄약입니다.</QM_Ammo_797C_API.description>
+  <!--Original=7.97mm Corpo (APーI)-->
+  <QM_Ammo_797C_API.label>7.97mm 기업 (철갑소이탄)</QM_Ammo_797C_API.label>
+  <!--Original=7.97mm Corpo bullet (FMJ)-->
+  <QM_Bullet_797C_FMJ.label>7.97mm 기업 탄환 (일반탄)</QM_Bullet_797C_FMJ.label>
+  <!--Original=7.97mm Corpo bullet (AP)-->
+  <QM_Bullet_797C_AP.label>7.97mm 기업 탄환 (철갑탄)</QM_Bullet_797C_AP.label>
+  <!--Original=7.97mm Corpo bullet (APーI)-->
+  <QM_Bullet_797C_API.label>7.97mm 기업 탄환 (철갑소이탄)</QM_Bullet_797C_API.label>
+  <!--Original=7.97mm Corpo bullet (FMJ)-->
+  <QM_Bullet_797C_LB_FMJ.label>7.97mm 기업 탄환 (일반탄)</QM_Bullet_797C_LB_FMJ.label>
+  <!--Original=7.97mm Corpo bullet (AP)-->
+  <QM_Bullet_797C_LB_AP.label>7.97mm 기업 탄환 (철갑탄)</QM_Bullet_797C_LB_AP.label>
+  <!--Original=7.97mm Corpo bullet (APーI)-->
+  <QM_Bullet_797C_LB_API.label>7.97mm 기업 탄환 (철갑소이탄)</QM_Bullet_797C_LB_API.label>
+  <!--Original=7.97mm Corpo bullet (FMJ)-->
+  <QM_Bullet_797C_SB_FMJ.label>7.97mm 기업 탄환 (일반탄)</QM_Bullet_797C_SB_FMJ.label>
+  <!--Original=7.97mm Corpo bullet (AP)-->
+  <QM_Bullet_797C_SB_AP.label>7.97mm 기업 탄환 (철갑탄)</QM_Bullet_797C_SB_AP.label>
+  <!--Original=7.97mm Corpo bullet (APーI)-->
+  <QM_Bullet_797C_SB_API.label>7.97mm 기업 탄환 (철갑소이탄)</QM_Bullet_797C_SB_API.label>
+  <!--Original=spent pistol casings-->
+  <QM_Filth_RiflelAmmoCasings_A.label>탄피</QM_Filth_RiflelAmmoCasings_A.label>
+  <!--Original=spent pistol casings-->
+  <QM_Filth_RiflelAmmoCasings_B.label>탄피</QM_Filth_RiflelAmmoCasings_B.label>
+  <!--Original=spent pistol casings-->
+  <QM_Filth_RiflelAmmoCasings_C.label>탄피</QM_Filth_RiflelAmmoCasings_C.label>
+  <!--Original=Standardized pistol cartridge approved for manufacturing and usage by corpate entities. Unlike standard cartridge, Corporate 9mm cartridges are assembled with softer and wide metal head which drastically reduces armor penetration in favor of impact force.-->
+  <QM_Ammo_9mmC_FMJ.description>기업 연합의 제조 및 사용 승인을 받은 표준 권총 탄약입니다. 일반적인 탄환과 달리, 기업 9mm 탄약은 더 부드럽고 넓은 금속 탄두로 제작되어 장갑 관통력은 현저히 낮지만 충격력은 비약적으로 높습니다.</QM_Ammo_9mmC_FMJ.description>
+  <!--Original=9mm Corporate (FMJ)-->
+  <QM_Ammo_9mmC_FMJ.label>9mm 기업 (일반탄)</QM_Ammo_9mmC_FMJ.label>
+  <!--Original=Standardized pistol cartridge approved for manufacturing and usage by corpate entities. Unlike standard cartridge, Corporate 9mm cartridges are assembled with softer and wide metal head which drastically reduces armor penetration in favor of impact force.-->
+  <QM_Ammo_9mmC_AP.description>기업 연합의 제조 및 사용 승인을 받은 표준 권총 탄약입니다. 일반적인 탄환과 달리, 기업 9mm 탄약은 더 부드럽고 넓은 금속 탄두로 제작되어 장갑 관통력은 현저히 낮지만 충격력은 비약적으로 높습니다.</QM_Ammo_9mmC_AP.description>
+  <!--Original=9mm Corporate (AP)-->
+  <QM_Ammo_9mmC_AP.label>9mm 기업 (철갑탄)</QM_Ammo_9mmC_AP.label>
+  <!--Original=Standardized pistol cartridge approved for manufacturing and usage by corpate entities. Unlike standard cartridge, Corporate 9mm cartridges are assembled with softer and wide metal head which drastically reduces armor penetration in favor of impact force.-->
+  <QM_Ammo_9mmC_HE.description>기업 연합의 제조 및 사용 승인을 받은 표준 권총 탄약입니다. 일반적인 탄환과 달리, 기업 9mm 탄약은 더 부드럽고 넓은 금속 탄두로 제작되어 장갑 관통력은 현저히 낮지만 충격력은 비약적으로 높습니다.</QM_Ammo_9mmC_HE.description>
+  <!--Original=9mm Corporate (Burst)-->
+  <QM_Ammo_9mmC_HE.label>9mm 기업 (폭발탄)</QM_Ammo_9mmC_HE.label>
+  <!--Original=9mm Corporate bullet (FMJ)-->
+  <QM_Bullet_9mmC_FMJ.label>9mm 기업 탄환 (일반탄)</QM_Bullet_9mmC_FMJ.label>
+  <!--Original=9mm Corporate bullet (AP)-->
+  <QM_Bullet_9mmC_AP.label>9mm 기업 탄환 (철갑탄)</QM_Bullet_9mmC_AP.label>
+  <!--Original=9mm Corporate bullet (Burst)-->
+  <QM_Bullet_9mmC_HE.label>9mm 기업 탄환 (폭발탄)</QM_Bullet_9mmC_HE.label>
+  <!--Original=spent pistol casings-->
+  <QM_Filth_PistolAmmoCasings_A.label>권총 탄피</QM_Filth_PistolAmmoCasings_A.label>
+  <!--Original=spent pistol casings-->
+  <QM_Filth_PistolAmmoCasings_B.label>권총 탄피</QM_Filth_PistolAmmoCasings_B.label>
+  <!--Original=spent pistol casings-->
+  <QM_Filth_PistolAmmoCasings_C.label>권총 탄피</QM_Filth_PistolAmmoCasings_C.label>
+  <!--Original=Makeshift battery cell compatible with various corporate energy ports. Cheap but weak alternative to standard energy cell.-->
+  <QM_Ammo_BatteryCellC.description>다양한 기업 에너지 포트와 호환되는 임시 배터리 셀입니다. 표준 에너지 셀보다 저렴하지만 성능이 떨어지는 대체품입니다.</QM_Ammo_BatteryCellC.description>
+  <!--Original=makeshift battery cell (corpo)-->
+  <QM_Ammo_BatteryCellC.label>임시 배터리 셀 (기업)</QM_Ammo_BatteryCellC.label>
+  <!--Original=Corporate patented energy cellpack for various energy weapons.-->
+  <QM_Ammo_EnergyCellC.description>다양한 에너지 무기를 위한 기업 특허 에너지 셀팩입니다.</QM_Ammo_EnergyCellC.description>
+  <!--Original=energy cell (corpo)-->
+  <QM_Ammo_EnergyCellC.label>에너지 셀 (기업)</QM_Ammo_EnergyCellC.label>
+  <!--Original=Standardized rocket approved for manufacturing and usage by corpate entities.-->
+  <QM_Ammo_RocketC_Scalp.description>기업 연합의 제조 및 사용 승인을 받은 표준 로켓입니다.</QM_Ammo_RocketC_Scalp.description>
+  <!--Original=Scalp Corporate rocket (Frag)-->
+  <QM_Ammo_RocketC_Scalp.label>스칼프 기업 로켓 (파쇄탄)</QM_Ammo_RocketC_Scalp.label>
+  <!--Original=Standardized rocket approved for manufacturing and usage by corpate entities.-->
+  <QM_Ammo_RocketC_Ignis.description>기업 연합의 제조 및 사용 승인을 받은 표준 로켓입니다.</QM_Ammo_RocketC_Ignis.description>
+  <!--Original=Ignis Corporate rocket (Thermobaric)-->
+  <QM_Ammo_RocketC_Ignis.label>이그니스 기업 로켓 (열압력탄)</QM_Ammo_RocketC_Ignis.label>
+  <!--Original=Standardized rocket approved for manufacturing and usage by corpate entities.-->
+  <QM_Ammo_RocketC_Ultimatum.description>기업 연합의 제조 및 사용 승인을 받은 표준 로켓입니다.</QM_Ammo_RocketC_Ultimatum.description>
+  <!--Original=Ultimatum Corporate rocket (Nuke)-->
+  <QM_Ammo_RocketC_Ultimatum.label>얼티메이텀 기업 로켓 (핵)</QM_Ammo_RocketC_Ultimatum.label>
+  <!--Original=Scalp rocket (Frag)-->
+  <QM_Bullet_RocketC_Scalp.label>스칼프 기업 로켓 (파쇄탄)</QM_Bullet_RocketC_Scalp.label>
+  <!--Original=Ignis rocket (Thermobaric)-->
+  <QM_Bullet_RocketC_Ignis.label>이그니스 기업 로켓 (열압력탄)</QM_Bullet_RocketC_Ignis.label>
+  <!--Original=Ultimatum rocket (Nuke)-->
+  <QM_Bullet_RocketC_Ultimatum.label>얼티메이텀 기업 로켓 (핵)</QM_Bullet_RocketC_Ultimatum.label>
+</LanguageData>

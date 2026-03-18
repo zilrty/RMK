@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=5.58x42mm Corpo-->
+  <QM_AmmoSet_42C.label>5.58x42mm 기업</QM_AmmoSet_42C.label>
+  <!--Original=5.58x42mm Corpo-->
+  <QM_AmmoSet_42C_LB.label>5.58x42mm 기업</QM_AmmoSet_42C_LB.label>
+  <!--Original=7.97 Corpo-->
+  <QM_AmmoSet_797C.label>7.97mm 기업</QM_AmmoSet_797C.label>
+  <!--Original=7.97 Corpo (high velocity)-->
+  <QM_AmmoSet_797C_LB.label>7.97mm 기업 (고속)</QM_AmmoSet_797C_LB.label>
+  <!--Original=7.97 Corpo (low velocity)-->
+  <QM_AmmoSet_797C_SB.label>7.97mm 기업 (저속)</QM_AmmoSet_797C_SB.label>
+  <!--Original=9mm Corporate-->
+  <QM_AmmoSet_9mmC.label>9mm 기업</QM_AmmoSet_9mmC.label>
+  <!--Original=Missile Corporate-->
+  <QM_AmmoSet_RocketC.label>기업 미사일</QM_AmmoSet_RocketC.label>
+</LanguageData>

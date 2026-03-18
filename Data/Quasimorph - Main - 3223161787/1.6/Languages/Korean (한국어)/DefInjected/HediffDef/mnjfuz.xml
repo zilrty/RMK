@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=plasma burn-->
+  <QM_PlasmaBurn.label>플라즈마 화상</QM_PlasmaBurn.label>
+  <!--Original=an plasma burn-->
+  <QM_PlasmaBurn.labelNoun>플라즈마 화상</QM_PlasmaBurn.labelNoun>
+  <!--Original=Damage caused by a plasma weapon.-->
+  <QM_PlasmaBurn.description>플라즈마 무기에 의한 피해입니다</QM_PlasmaBurn.description>
+  <!--Original=Melted off (plasma)-->
+  <QM_PlasmaBurn.injuryProps.destroyedLabel>녹아내림 (플라즈마)</QM_PlasmaBurn.injuryProps.destroyedLabel>
+  <!--Original=Melted out (plasma)-->
+  <QM_PlasmaBurn.injuryProps.destroyedOutLabel>녹아내림 (플라즈마)</QM_PlasmaBurn.injuryProps.destroyedOutLabel>
+  <!--Original=treated-->
+  <QM_PlasmaBurn.comps.0.labelTendedWell>치료됨</QM_PlasmaBurn.comps.0.labelTendedWell>
+  <!--Original=treated-->
+  <QM_PlasmaBurn.comps.0.labelTendedWellInner>치료됨</QM_PlasmaBurn.comps.0.labelTendedWellInner>
+  <!--Original=treated-->
+  <QM_PlasmaBurn.comps.0.labelSolidTendedWell>치료됨</QM_PlasmaBurn.comps.0.labelSolidTendedWell>
+  <!--Original=plasma burn scar-->
+  <QM_PlasmaBurn.comps.2.permanentLabel>플라즈마 화상 흉터</QM_PlasmaBurn.comps.2.permanentLabel>
+  <!--Original=beam burn-->
+  <QM_EnergyBurn.label>광선 화상</QM_EnergyBurn.label>
+  <!--Original=an beam burn-->
+  <QM_EnergyBurn.labelNoun>광선 화상</QM_EnergyBurn.labelNoun>
+  <!--Original=Damage caused by a beam weapon.-->
+  <QM_EnergyBurn.description>빔 무기에 의한 피해입니다.</QM_EnergyBurn.description>
+  <!--Original=Vaporized off (beam)-->
+  <QM_EnergyBurn.injuryProps.destroyedLabel>기화됨 (광선)</QM_EnergyBurn.injuryProps.destroyedLabel>
+  <!--Original=Vaporized out (beam)-->
+  <QM_EnergyBurn.injuryProps.destroyedOutLabel>기화됨 (광선)</QM_EnergyBurn.injuryProps.destroyedOutLabel>
+  <!--Original=treated-->
+  <QM_EnergyBurn.comps.0.labelTendedWell>치료됨</QM_EnergyBurn.comps.0.labelTendedWell>
+  <!--Original=treated-->
+  <QM_EnergyBurn.comps.0.labelTendedWellInner>치료됨</QM_EnergyBurn.comps.0.labelTendedWellInner>
+  <!--Original=treated-->
+  <QM_EnergyBurn.comps.0.labelSolidTendedWell>치료됨</QM_EnergyBurn.comps.0.labelSolidTendedWell>
+  <!--Original=beam burn scar-->
+  <QM_EnergyBurn.comps.2.permanentLabel>광선 화상 흉터</QM_EnergyBurn.comps.2.permanentLabel>
+</LanguageData>
