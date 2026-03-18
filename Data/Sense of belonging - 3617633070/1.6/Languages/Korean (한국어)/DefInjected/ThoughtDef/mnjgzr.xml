@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DesireForProtection.stages.0.label>증오</DesireForProtection.stages.0.label>
+  <DesireForProtection.stages.0.description>이 정착지의 모든 사람이 싫어. 전부 불타버렸으면 좋겠어.</DesireForProtection.stages.0.description>
+  
+  <DesireForProtection.stages.1.label>혐오</DesireForProtection.stages.1.label>
+  <DesireForProtection.stages.1.description>여기 있는 대부분이 짜증 나. 이곳에 머무는 것 자체가 고문이야.</DesireForProtection.stages.1.description>
+  
+  <DesireForProtection.stages.2.label>의심</DesireForProtection.stages.2.label>
+  <DesireForProtection.stages.2.description>많은 사람이 나를 적대하는 것 같고, 나도 역시 그들을 믿지 않아.</DesireForProtection.stages.2.description>
+  
+  <DesireForProtection.stages.3.label>경계</DesireForProtection.stages.3.label>
+  <DesireForProtection.stages.3.description>몇몇 사람이 위험해 보여. 항상 정신을 바짝 차려야 해.</DesireForProtection.stages.3.description>
+  
+  <DesireForProtection.stages.4.label>무관심</DesireForProtection.stages.4.label>
+  <DesireForProtection.stages.4.description>딱히 그들이 밉지는 않지만, 그렇다고 좋아하지도 않아.</DesireForProtection.stages.4.description>
+  
+  <DesireForProtection.stages.5.label>재고</DesireForProtection.stages.5.label>
+  <DesireForProtection.stages.5.description>타인을 이해하려고 노력해 봤어. 생각만큼 나쁜 사람들은 아닌 것 같아.</DesireForProtection.stages.5.description>
+  
+  <DesireForProtection.stages.6.label>신뢰</DesireForProtection.stages.6.label>
+  <DesireForProtection.stages.6.description>서로 알아가다 보니, 여기엔 좋은 사람들이 꽤 많다는 걸 깨달았어.</DesireForProtection.stages.6.description>
+  
+  <DesireForProtection.stages.7.label>책임감</DesireForProtection.stages.7.label>
+  <DesireForProtection.stages.7.description>이제 대부분이 내 친구이자 가족이야. 이곳을 지키고 싶어.</DesireForProtection.stages.7.description>
+  
+  <DesireForProtection.stages.8.label>헌신</DesireForProtection.stages.8.label>
+  <DesireForProtection.stages.8.description>내가 사랑하고 나를 사랑해 주는 이들을 위해서라면, 목숨을 바쳐서라도 이 땅을 지켜낼 거야.</DesireForProtection.stages.8.description>
+</LanguageData>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicContemptInduceIn>대상에게 정신적 경멸을 유도</PsychicContemptInduceIn>
+  <PsychicContemptFor>에 대한 정신적 경멸을 유도</PsychicContemptFor>
+  <CannotSkipTargetIsntCaster>대상은 반드시 시전자 본인이어야 함</CannotSkipTargetIsntCaster>
+  <PsychicFriendshipInduceIn>에게 정신적 우정을 유도함</PsychicFriendshipInduceIn>
+  <PsychicFriendshipFor>에 대한 정신적 우정을 유도</PsychicFriendshipFor>
+  <SLPMessageCannotTurnIntoChemfuel>시체를 대상으로 해야 함</SLPMessageCannotTurnIntoChemfuel>
+  <SLPMessageCannotTurnIntoBricks>바위 덩어리를 대상으로 해야 함</SLPMessageCannotTurnIntoBricks>
+  <SLP_MorePsycastSettings>Sleepy's More Psycasts</SLP_MorePsycastSettings>
+  <SLP_MustRestart>변경 사항을 적용하려면 림월드를 수동으로 재시작해야 합니다.</SLP_MustRestart>
+  <SLP_DefaultSettings>기본적으로 모든 체크박스가 활성화되어 있으며 이는 어떤 초능력도 비활성화되지 않았음을 의미합니다.</SLP_DefaultSettings>
+  <SLP_EffectSettings>비활성화하면 게임 내에서 해당 초능력이 나타나지 않으며 진행 중인 게임에서 제거할 경우 빨간색 로그 오류가 발생할 수 있습니다.</SLP_EffectSettings>
+  <SLP_PSY_ArcticPinholeExplain>북극구 비활성화</SLP_PSY_ArcticPinholeExplain>
+  <SLP_PSY_ArcticPinholeTooltip>북극구 활성화</SLP_PSY_ArcticPinholeTooltip>
+  <SLP_PSY_ImmunityBoostExplain>면역력 증폭 비활성화</SLP_PSY_ImmunityBoostExplain>
+  <SLP_PSY_ImmunityBoostTooltip>면역력 증폭 활성화</SLP_PSY_ImmunityBoostTooltip>
+  <SLP_PSY_HealingBoostExplain>회복력 증폭 비활성화</SLP_PSY_HealingBoostExplain>
+  <SLP_PSY_HealingBoostTooltip>회복력 증폭 활성화</SLP_PSY_HealingBoostTooltip>
+  <SLP_PSY_RegenMajorExplain>신체 수복 비활성화</SLP_PSY_RegenMajorExplain>
+  <SLP_PSY_RegenMajorTooltip>신체 수복 활성화</SLP_PSY_RegenMajorTooltip>
+  <SLP_PSY_FlashHealExplain>초가속 회복 비활성화</SLP_PSY_FlashHealExplain>
+  <SLP_PSY_FlashHealTooltip>초가속 회복 활성화</SLP_PSY_FlashHealTooltip>
+  <SLP_PSY_RegenMinorExplain>흉터 말소 비활성화</SLP_PSY_RegenMinorExplain>
+  <SLP_PSY_RegenMinorTooltip>흉터 말소 활성화</SLP_PSY_RegenMinorTooltip>
+  <SLP_PSY_ResurrectExplain>부활 비활성화</SLP_PSY_ResurrectExplain>
+  <SLP_PSY_ResurrectTooltip>부활 활성화</SLP_PSY_ResurrectTooltip>
+  <SLP_PSY_CleanSkipExplain>청소 비활성화</SLP_PSY_CleanSkipExplain>
+  <SLP_PSY_CleanSkipTooltip>청소 활성화</SLP_PSY_CleanSkipTooltip>
+  <SLP_PSY_FertilitySkipExplain>토양 개간 비활성화</SLP_PSY_FertilitySkipExplain>
+  <SLP_PSY_FertilitySkipTooltip>토양 개간</SLP_PSY_FertilitySkipTooltip>
+  <SLP_PSY_HaemostasisExplain>지혈 비활성화</SLP_PSY_HaemostasisExplain>
+  <SLP_PSY_HaemostasisTooltip>지혈 활성화</SLP_PSY_HaemostasisTooltip>
+  <SLP_PSY_IgniteExplain>점화 비활성화</SLP_PSY_IgniteExplain>
+  <SLP_PSY_IgniteTooltip>점화 활성화</SLP_PSY_IgniteTooltip>
+  <SLP_PSY_ReconditionExplain>수리 비활성화</SLP_PSY_ReconditionExplain>
+  <SLP_PSY_ReconditionTooltip>수리 활성화</SLP_PSY_ReconditionTooltip>
+  <SLP_PSY_InterdictionExplain>포획 비활성화</SLP_PSY_InterdictionExplain>
+  <SLP_PSY_InterdictionTooltip>포획 활성화</SLP_PSY_InterdictionTooltip>
+  <SLP_PSY_WordOfSleepExplain>수면의 단어 비활성화</SLP_PSY_WordOfSleepExplain>
+  <SLP_PSY_WordOfSleepTooltip>수면의 단어 활성화</SLP_PSY_WordOfSleepTooltip>
+  <SLP_PSY_WordOfVigorExplain>활력의 단어 비활성화</SLP_PSY_WordOfVigorExplain>
+  <SLP_PSY_WordOfVigorTooltip>활력의 단어 활성화</SLP_PSY_WordOfVigorTooltip>
+  <SLP_PSY_SkipscreenExplain>고각 보호막 비활성화</SLP_PSY_SkipscreenExplain>
+  <SLP_PSY_SkipscreenTooltip>고각 보호막 활성화</SLP_PSY_SkipscreenTooltip>
+  <SLP_PSY_PotentialUnleashedExplain>잠재력 폭발 비활성화</SLP_PSY_PotentialUnleashedExplain>
+  <SLP_PSY_PotentialUnleashedTooltip>잠재력 폭발 활성화</SLP_PSY_PotentialUnleashedTooltip>
+  <SLP_PSY_DashExplain>질주 비활성화</SLP_PSY_DashExplain>
+  <SLP_PSY_DashTooltip>질주 활성화</SLP_PSY_DashTooltip>
+  <SLP_PSY_WordOfContemptExplain>경멸의 단어 비활성화</SLP_PSY_WordOfContemptExplain>
+  <SLP_PSY_WordOfContemptTooltip>경멸의 단어 활성화</SLP_PSY_WordOfContemptTooltip>
+  <SLP_PSY_CalmExplain>정신적 평온 비활성화</SLP_PSY_CalmExplain>
+  <SLP_PSY_CalmTooltip>정신적 평온 활성화</SLP_PSY_CalmTooltip>
+  <SLP_PSY_MassBeckonExplain>광역 유도 비활성화</SLP_PSY_MassBeckonExplain>
+  <SLP_PSY_MassBeckonTooltip>광역 유도 활성화</SLP_PSY_MassBeckonTooltip>
+  <SLP_PSY_MassBurdenExplain>광역 둔화 비활성화</SLP_PSY_MassBurdenExplain>
+  <SLP_PSY_MassBurdenTooltip>광역 둔화 활성화</SLP_PSY_MassBurdenTooltip>
+  <SLP_PSY_StunPulseExplain>쇼크 비활성화</SLP_PSY_StunPulseExplain>
+  <SLP_PSY_StunPulseTooltip>쇼크 활성화</SLP_PSY_StunPulseTooltip>
+  <SLP_PSY_FlashstepExplain>순간도약 비활성화</SLP_PSY_FlashstepExplain>
+  <SLP_PSY_FlashstepTooltip>순간도약 활성화</SLP_PSY_FlashstepTooltip>
+  <SLP_PSY_SkipstepExplain>섬광도약 비활성화</SLP_PSY_SkipstepExplain>
+  <SLP_PSY_SkipstepTooltip>섬광도약 활성화</SLP_PSY_SkipstepTooltip>
+  <SLP_PSY_ComfortShieldExplain>열 보호막 비활성화</SLP_PSY_ComfortShieldExplain>
+  <SLP_PSY_ComfortShieldTooltip>열 보호막 활성화</SLP_PSY_ComfortShieldTooltip>
+  <SLP_PSY_EngulfExplain>소각 비활성화</SLP_PSY_EngulfExplain>
+  <SLP_PSY_EngulfTooltip>소각 활성화</SLP_PSY_EngulfTooltip>
+  <SLP_PSY_DartExplain>궤도 유도 비활성화</SLP_PSY_DartExplain>
+  <SLP_PSY_DartTooltip>궤도 유도 활성화</SLP_PSY_DartTooltip>
+  <SLP_PSY_EndoPinholeExplain>흡열구 비활성화</SLP_PSY_EndoPinholeExplain>
+  <SLP_PSY_EndoPinholeTooltip>흡열구 활성화</SLP_PSY_EndoPinholeTooltip>
+  <SLP_SupernovaPinholeExplain>거대태양구 비활성화</SLP_SupernovaPinholeExplain>
+  <SLP_SupernovaPinholeTooltip>거대태양구 활성화</SLP_SupernovaPinholeTooltip>
+  <SLP_PSY_WordOfFriendshipExplain>우정의 단어 비활성화</SLP_PSY_WordOfFriendshipExplain>
+  <SLP_PSY_WordOfFriendshipTooltip>우정의 단어 활성화</SLP_PSY_WordOfFriendshipTooltip>
+  <SLP_PSY_BrickgateExplain>벽돌가공 비활성화</SLP_PSY_BrickgateExplain>
+  <SLP_PSY_BrickgateTooltip>벽돌가공 활성화</SLP_PSY_BrickgateTooltip>
+  <SLP_PSY_ChemskipExplain>화학연료가공 비활성화</SLP_PSY_ChemskipExplain>
+  <SLP_PSY_ChemskipTooltip>화학연료가공 활성화</SLP_PSY_ChemskipTooltip>
+  <SLP_PSY_StaticBurstExplain>전기 폭발 비활성화</SLP_PSY_StaticBurstExplain>
+  <SLP_PSY_StaticBurstTooltip>전기 폭발 활성화</SLP_PSY_StaticBurstTooltip>
+  <SLP_PSY_SuperskipExplain>초월도약 비활성화</SLP_PSY_SuperskipExplain>
+  <SLP_PSY_SuperskipTooltip>초월도약 활성화</SLP_PSY_SuperskipTooltip>
+  <SLP_AnomalySettings>아노말리 DLC 필요</SLP_AnomalySettings>
+  <SLP_PSY_RevitaliseExplain>신체 재생 비활성화</SLP_PSY_RevitaliseExplain>
+  <SLP_PSY_RevitaliseTooltip>신체 재생 활성화</SLP_PSY_RevitaliseTooltip>
+  <SLP_BiotechSettings>바이오테크 DLC 필요</SLP_BiotechSettings>
+  <SLP_PSY_EnergiseExplain>기계 충전 비활성화</SLP_PSY_EnergiseExplain>
+  <SLP_PSY_EnergiseTooltip>기계 충전 활성화</SLP_PSY_EnergiseTooltip>
+  <SLP_RestartForChanges>새로운 변경 사항을 불러오려면 림월드를 재시작해 주세요.</SLP_RestartForChanges>
+</LanguageData>

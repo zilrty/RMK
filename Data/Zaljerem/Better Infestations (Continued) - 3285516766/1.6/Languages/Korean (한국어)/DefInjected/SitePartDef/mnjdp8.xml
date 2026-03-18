@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BI_Infestation_SitePart.label>곤충 발생</BI_Infestation_SitePart.label>
+  <BI_Infestation_SitePart.description>곤충 군락지입니다.</BI_Infestation_SitePart.description>
+
+  <BI_Infestation_SitePart.approachOrderString>{0} 공격</BI_Infestation_SitePart.approachOrderString>
+  <BI_Infestation_SitePart.approachingReportString>{0} 공격 중</BI_Infestation_SitePart.approachingReportString>
+</LanguageData>

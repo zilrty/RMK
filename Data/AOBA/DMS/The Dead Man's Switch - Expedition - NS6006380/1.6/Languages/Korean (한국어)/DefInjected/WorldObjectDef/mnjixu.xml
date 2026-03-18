@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ship.label>중력부양선</Ship.label>
+  <Ship.description>비행 중인 중력부양선입니다.</Ship.description>
+  <DMSE_WorldObject_CruiseMissile.label>크루즈 미사일</DMSE_WorldObject_CruiseMissile.label>
+  <DMSE_WorldObject_CruiseMissile.description>비행 중인 크루즈 미사일입니다.</DMSE_WorldObject_CruiseMissile.description>
+</LanguageData>

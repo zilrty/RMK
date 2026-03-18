@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OE_Cultist.title>이교도</OE_Cultist.title>
+  <OE_Cultist.titleShort>이교도</OE_Cultist.titleShort>
+  <OE_Cultist.description>진홍색 아라크나 이교의 일원인 [PAWN_nameDef](은)는 흔들리지 않는 신념을 가지고 있으며, 어떤 방식으로든 자신의 신앙을 모두에게 전파하려는 열망을 품고 있습니다.</OE_Cultist.description>
+
+  <OE_Cryptkeeper.title>지하묘지지기</OE_Cryptkeeper.title>
+  <OE_Cryptkeeper.titleShort>묘지지기</OE_Cryptkeeper.titleShort>
+  <OE_Cryptkeeper.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교 내에서 금지된 무덤과 생체 봉인된 성물함의 수호자로 복무했습니다. 죽은 자들에게 속삭이고, 유물을 분류하며, 절대로 깨어나서는 안 될 존재들을 유지 보수해 왔습니다.</OE_Cryptkeeper.description>
+
+  <OE_DataProphet.title>데이터 예언자</OE_DataProphet.title>
+  <OE_DataProphet.titleShort>데이터 예언자</OE_DataProphet.titleShort>
+  <OE_DataProphet.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교에서 데이터 예언자로 거듭나 암호화된 전송, 징조 알고리즘, 파편화된 데이터 스트림을 신성한 메시지로 해석했습니다. 설교와 암호화된 예언, 치밀한 신념 조작을 통해 추종자들을 이끌고 외부인들을 흔들었습니다. 육체노동과 세속적인 생존 기술은 고차원적인 패턴을 읽는 데 방해물로 여겨졌기에, [PAWN_nameDef](은)는 실무적인 노고나 생물과의 본능적인 유대감과는 거리가 멉니다.</OE_DataProphet.description>
+
+  <OE_Reliquary.title>성물 보관사</OE_Reliquary.title>
+  <OE_Reliquary.titleShort>성물 보관사</OE_Reliquary.titleShort>
+  <OE_Reliquary.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교에 의해 수호자가 아닌 살아있는 기록 보관소로 길러졌습니다. 금지된 유물들을 분류하고, 그 영향력을 지도화하며, 타인이 살아남지 못한 실패의 기록들을 문서화하는 역할을 맡았습니다. 손으로는 끊임없이 유물 시스템을 조립, 수리, 해체했지만 토양 관리나 사회적 의례, 추상적인 이론은 무시되었습니다. 교단은 기원을 이해하는 것보다 정밀함과 보존을 중시했으며, 발굴 행위 자체는 하지 않는 것이 좋은 불경한 행위로 여겨졌습니다.</OE_Reliquary.description>
+
+  <OE_Apostate.title>변절자</OE_Apostate.title>
+  <OE_Apostate.titleShort>변절자</OE_Apostate.titleShort>
+  <OE_Apostate.description>[PAWN_nameDef](은)는 한때 다른 이념의 변절자였으며, 교리와 권위를 거부했다는 이유로 추방당했습니다. 신념보다 생존이 우선이었습니다. 시간이 흐른 뒤, 진홍색 아라크나 이교는 용서 없는 질서와 논쟁 없는 목적을 제시했습니다. [PAWN_nameDef](은)는 노동과 경작을 통해 삶을 재건하며, 설득이나 치유 대신 창조와 인내를 배웠습니다. 교리와 지적 논쟁은 뒤로한 채, 복종과 일상, 그리고 교단의 가혹한 진실을 서서히 받아들이는 삶을 택했습니다.</OE_Apostate.description>
+
+  <OE_Mystic.title>신비주의자</OE_Mystic.title>
+  <OE_Mystic.titleShort>신비주의자</OE_Mystic.titleShort>
+  <OE_Mystic.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교 내에서 신비주의자의 길을 걸으며 야수, 상징, 그리고 의식 예술 속에 새겨진 금지된 환상과 교감했습니다. 표현과 본능은 구어체 교리를 넘어 교단의 의지를 해석하는 신성한 도구였습니다. 체계적인 노동, 기계적 생산, 자원 추출은 그들에게 아무런 의미가 없었으며, 초월적인 집중을 위해 기본적인 생존 의례조차 소홀히 하는 경우가 많았습니다.</OE_Mystic.description>
+
+  <OE_Luminarch.title>루미나크</OE_Luminarch.title>
+  <OE_Luminarch.titleShort>루미나크</OE_Luminarch.titleShort>
+  <OE_Luminarch.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교로부터 '황금빛 영혼'을 가진 것으로 인정받았습니다. 이는 그들의 신인 아라크나의 어두운 파편이 형상화된 것으로 여겨집니다. 교단 내에서 [PAWN_nameDef](은)는 하인이 아닌 신성한 자산, 즉 미래의 위대한 공양물로 취급되었습니다. 어떤 노동이나 의무도 요구되지 않았는데, 이는 약해서가 아니라 준비를 위해 정적이 필요했기 때문입니다. 고귀한 지위는 의무로부터 그를 보호해 주었지만, 세상 돌아가는 법에 대한 지식까지 앗아가지는 않았습니다.</OE_Luminarch.description>
+
+  <OE_Drifter.title>옵시디아 유랑자</OE_Drifter.title>
+  <OE_Drifter.titleShort>유랑자</OE_Drifter.titleShort>
+  <OE_Drifter.description>[PAWN_nameDef](은)는 이전에 유목 생활을 이끌었습니다. 끊임없이 이동하며 임시 캠프 생활에 유용한 기술들을 습득했습니다.</OE_Drifter.description>
+
+  <OE_Exile.title>옵시디아 추방자</OE_Exile.title>
+  <OE_Exile.titleShort>추방자</OE_Exile.titleShort>
+  <OE_Exile.description>[PAWN_nameDef](은)는 실제 혹은 조작된 혐의로 옵시디아 거주지에서 쫓겨났습니다. 황무지에서 수단과 방법을 가리지 않고 살아남으며 냉혹하고 조용하며 수완이 좋은 사람이 되었습니다.</OE_Exile.description>
+
+  <OE_Salvager.title>옵시디아 폐품 수집가</OE_Salvager.title>
+  <OE_Salvager.titleShort>수집가</OE_Salvager.titleShort>
+  <OE_Salvager.description>[PAWN_nameDef](은)는 고대 전장과 무너진 금고를 누비며 가치 있는 것을 추출해 왔습니다. 유적을 완전히 털어버리는 법을 잘 알지만, 가끔 파편화된 언어나 불꽃 같은 소리만으로 대화하곤 합니다.</OE_Salvager.description>
+
+  <OE_Scout.title>옵시디아 정찰병</OE_Scout.title>
+  <OE_Scout.titleShort>정찰병</OE_Scout.titleShort>
+  <OE_Scout.description>[PAWN_nameDef](은)는 유랑 클랜의 장거리 정찰병으로 복무하며, 홀로 살아남아 들키지 않고 보고하는 훈련을 받았습니다. 빠르고 조용하며 관찰력이 좋지만, 깊이 있는 학문과는 거리가 멉니다.</OE_Scout.description>
+
+  <OE_OffworldDisplaced.title>외계 실향민</OE_OffworldDisplaced.title>
+  <OE_OffworldDisplaced.titleShort>실향민</OE_OffworldDisplaced.titleShort>
+  <OE_OffworldDisplaced.description>[PAWN_nameDef](은)는 한때 외계의 옵시디아 점령지에서 일하던 노동자로, 끊임없는 압박 속에서 기반 시설을 건설, 추출 및 유지하도록 훈련받았습니다. 정착지가 붕괴된 후에는 예술이나 사교보다는 실질적인 기술과 규율 잡힌 사격 능력을 통해 살아남았습니다. 타향살이가 일상이 된 삶에서 예술과 외교는 가치가 없었습니다.</OE_OffworldDisplaced.description>
+
+  <OE_CryoRefugee.title>동면 피난민</OE_CryoRefugee.title>
+  <OE_CryoRefugee.titleShort>동면 피난민</OE_CryoRefugee.titleShort>
+  <OE_CryoRefugee.description>[PAWN_nameDef](은)는 파편화된 기억과 불균형한 기술을 가진 채 옵시디아 동면 탈출 프로토콜에서 깨어났습니다. 신체 조건과 근접전 반사 신경은 남아있지만, 장기간의 동면으로 인해 실질적인 생존 본능은 무뎌졌습니다. 의료 지식과 분석적 사고는 구시대의 시민적 일상과 함께 고스란히 보존되었습니다.</OE_CryoRefugee.description>
+
+  <OE_GhostedCitizen.title>삭제된 시민</OE_GhostedCitizen.title>
+  <OE_GhostedCitizen.titleShort>삭제된 시민</OE_GhostedCitizen.titleShort>
+  <OE_GhostedCitizen.description>[PAWN_nameDef](은)는 옵시디아 등록부에서 말소되어, 승인되지 않은 자산으로서 시스템 사이를 전전하며 살아남아야 했습니다. 공식적인 인정 대신 조작, 계획, 그리고 기술적 임기응변이 그 자리를 채웠습니다. 총기는 전문 분야가 아닌 생존을 위한 필수품이었으며, 예술과 안정적인 인간관계는 공식적인 신분과 함께 희미해졌습니다.</OE_GhostedCitizen.description>
+
+  <OE_NowhereBorn.title>무명의 탄생</OE_NowhereBorn.title>
+  <OE_NowhereBorn.titleShort>무명의 탄생</OE_NowhereBorn.titleShort>
+  <OE_NowhereBorn.description>[PAWN_nameDef](은)는 잊힌 옵시디아 무역로를 이동하던 중에 태어나, 떠돌이 선원들과 임시 거처 사이에서 자랐습니다. 식량원을 돌보고 동물을 다루며 적대적인 환경에 빠르게 적응하는 것이 생존의 열쇠였습니다. 직접적인 실무 경험에 비하면 추상적인 이론과 세련된 문화는 별다른 의미가 없었습니다.</OE_NowhereBorn.description>
+
+  <OE_BorderExile.title>국경 추방자</OE_BorderExile.title>
+  <OE_BorderExile.titleShort>국경 추방자</OE_BorderExile.titleShort>
+  <OE_BorderExile.description>[PAWN_nameDef](은)는 인프라가 마비되고 의료 지원을 독학해야 하는 옵시디아의 경계 지역으로 추방되었습니다. 변두리의 삶은 인내심, 포화 속의 건설, 그리고 정확한 사격을 요구했으며, 사교적인 예의나 안락한 일상은 강점이 아닌 약점이 되었습니다.</OE_BorderExile.description>
+
+  <OE_OrbitRansacker.title>궤도 약탈자</OE_OrbitRansacker.title>
+  <OE_OrbitRansacker.titleShort>약탈자</OE_OrbitRansacker.titleShort>
+  <OE_OrbitRansacker.description>[PAWN_nameDef](은)는 옵시디아 궤도 약탈대와 함께 활동하며 버려진 함선, 격리된 스테이션, 갓 습격받은 무역 거점들을 당국이 도착하기 전에 휩쓸었습니다. 선체 파괴, 신속한 분해, 불법 인양 등이 주 업무였습니다. 허가도, 소유권도, 목격자도 필요 없었습니다. 오직 속도와 필요할 때의 폭력, 그리고 해적 공급망으로 끌고 갈 수 있는 전리품만이 중요했습니다.</OE_OrbitRansacker.description>
+
+  <OE_BlackMarketBroker.title>암시장 브로커</OE_BlackMarketBroker.title>
+  <OE_BlackMarketBroker.titleShort>브로커</OE_BlackMarketBroker.titleShort>
+  <OE_BlackMarketBroker.description>[PAWN_nameDef](은)는 옵시디아의 범죄 지하 세계를 통해 물건, 청탁, 비밀을 유통하며 밀수꾼, 해적 선장, 기업 배신자들을 연결했습니다. 공식적인 통로는 따라야 할 규칙이 아니라 우회해야 할 장애물이었습니다. 법적 정당성보다 영향력, 수단, 그리고 침묵이 더 중요했으며, 정직한 노동은 연줄 없는 사람들이나 하는 것이라고 여겼습니다.</OE_BlackMarketBroker.description>
+
+  <OE_HardpointThief.title>거점 절도범</OE_HardpointThief.title>
+  <OE_HardpointThief.titleShort>절도범</OE_HardpointThief.titleShort>
+  <OE_HardpointThief.description>[PAWN_nameDef](은)는 지하 세계를 위해 옵시디아의 거점들(요새화된 창고, 비밀 금고, 누구도 열 수 없는 기업용 보관함)을 따는 일을 전문으로 했습니다. 보안 시스템은 저지선이 아니라 풀어야 할 퍼즐이었습니다. 빠르게 습격하고 흔적을 남기지 않으며 보복이 시작되기 전에 사라지는 것이 원칙입니다. 폭력은 최후의 수단이었으나, 탈출 계획은 언제나 최우선이었습니다.</OE_HardpointThief.description>
+
+  <OE_Eidolon.title>옵시디아 제국 영광의 표상</OE_Eidolon.title>
+  <OE_Eidolon.titleShort>에이돌론</OE_Eidolon.titleShort>
+  <OE_Eidolon.description>[PAWN_nameDef](은)는 한때 옵시디아의 위대한 영웅으로 추앙받았으나, 어떤 사건 이후 자신의 동족들에게 잊히고 버려졌습니다. 뛰어난 전투 기술과 자신의 명성을 유지하는 능력을 갖추고 있습니다.</OE_Eidolon.description>
+
+  <OE_Tactician.title>옵시디아 제국 전술가</OE_Tactician.title>
+  <OE_Tactician.titleShort>전술가</OE_Tactician.titleShort>
+  <OE_Tactician.description>[PAWN_nameDef](은)는 한때 옵시디아 지휘부의 전략적 핵심이었습니다. 실패한 작전 이후 기록에서 사라졌지만, 여전히 명석함과 결단력을 갖춘 채 싸웁니다.</OE_Tactician.description>
+
+  <OE_Soulforger.title>옵시디아 제국 소울포저</OE_Soulforger.title>
+  <OE_Soulforger.titleShort>소울포저</OE_Soulforger.titleShort>
+  <OE_Soulforger.description>[PAWN_nameDef](은)는 한때 제국의 비밀 전당에서 인공 영혼과 초정신 엔진을 빚어냈습니다. 누군가는 그것을 천재성이라 불렀고, 누군가는 신성 모독이라 불렀습니다.</OE_Soulforger.description>
+
+  <OE_Stellar.title>옵시디아 제국 스텔라</OE_Stellar.title>
+  <OE_Stellar.titleShort>스텔라</OE_Stellar.titleShort>
+  <OE_Stellar.description>[PAWN_nameDef](은)는 옵시디아 최전선의 상징으로 떠올랐습니다. 근접 전투에서는 두려움의 대상이었고, 압박 속에서도 정밀한 사격으로 찬사를 받았습니다. 구조물이 무너지고 벽이 불탈 때면 직접 손으로 다시 세워 전장을 거점으로 탈바꿈시켰습니다. 예술과 사색은 배워본 적 없는 사치였으며, 오직 강철과 불꽃, 그리고 생존의 고요한 무게만이 남았습니다.</OE_Stellar.description>
+
+  <OE_Nova.title>옵시디아 제국 노바</OE_Nova.title>
+  <OE_Nova.titleShort>노바</OE_Nova.titleShort>
+  <OE_Nova.description>[PAWN_nameDef](은)는 옵시디아 전역에서 포화 속 희망의 목소리로 알려졌으며, 동료들을 살리는 동시에 본인 또한 결정적인 사격을 가했습니다. 상처는 아물었고, 사기는 유지되었으며, 전투의 흐름은 그들의 인도에 따라 바뀌었습니다. 그러나 토양 관리나 작물 재배 같은 평화로운 삶의 가치는 배우지 못했기에, 평화는 묘하게 낯설게만 느껴집니다.</OE_Nova.description>
+
+  <OE_Exemplar.title>옵시디아 제국 엑셈플라르</OE_Exemplar.title>
+  <OE_Exemplar.titleShort>엑셈플라르</OE_Exemplar.titleShort>
+  <OE_Exemplar.description>[PAWN_nameDef](은)는 교육받고 설득력 있으며 위기 상황에서도 침착한, 이상적인 옵시디아 시민으로 통했습니다. 무력보다는 이성으로 부상자를 치료하고 분쟁을 해결하며 교리를 정립했습니다. 직접 손으로 무언가를 만드는 것은 소명보다 낮은 일로 여겨 도구를 숙달하는 대신 대리인을 썼습니다. 대신 그가 세운 것은 신념과 규율, 그리고 타인과의 위태로운 신뢰였습니다.</OE_Exemplar.description>
+
+  <OE_Champion.title>옵시디아 제국 챔피언</OE_Champion.title>
+  <OE_Champion.titleShort>챔피언</OE_Champion.titleShort>
+  <OE_Champion.description>[PAWN_nameDef](은)는 압도적인 무력과 흔들리지 않는 존재감으로 앞장서서 옵시디아의 챔피언으로서 명성을 얻었습니다. 그가 가리키는 곳에 벽이 세워졌고, 그가 돌격하는 곳에 적들이 쓰러졌으며, 사람들은 의심 없이 그를 따랐습니다. 생각은 행동한 뒤에야 찾아왔으며, 중요한 것은 왜 필요한가가 아니라 승리 그 자체였습니다.</OE_Champion.description>
+
+  <OE_Pathmaker.title>옵시디아 제국 패스메이커</OE_Pathmaker.title>
+  <OE_Pathmaker.titleShort>패스메이커</OE_Pathmaker.titleShort>
+  <OE_Pathmaker.description>[PAWN_nameDef](은)는 옵시디아 지도가 끝나는 곳에 생존로를 개척하여 야생을 길들이고 무너진 지역에 생기를 불어넣었습니다. 꾸준한 손길 아래 동물이 따르고 작물이 자라며 거처가 형성되었습니다. 기능에 비하면 아름다움과 표현은 아무런 의미가 없었습니다. 앞으로 나아갈 길만이 중요했으며, 그 길을 위해 부드러운 것들은 기꺼이 지워나갔습니다.</OE_Pathmaker.description>
+
+  <OE_Pillar.title>옵시디아 제국 필라</OE_Pillar.title>
+  <OE_Pillar.titleShort>필라</OE_Pillar.titleShort>
+  <OE_Pillar.description>[PAWN_nameDef](은)는 옵시디아 전초기지의 조용한 토대가 되어 타인들이 의지하는 모든 것을 조립하고 강화했습니다. 구조물은 견고했고 시스템은 유지되었으며 사람들은 그의 판단을 신뢰했습니다. 화기는 다른 이들의 몫이었습니다. 그는 구경거리가 아닌 안정을 구축하는 사람이었으며, 혼돈 속에서도 굳건히 자리를 지켰습니다.</OE_Pillar.description>
+
+  <OE_Paragon.title>옵시디아 제국 파라곤</OE_Paragon.title>
+  <OE_Paragon.titleShort>파라곤</OE_Paragon.titleShort>
+  <OE_Paragon.description>[PAWN_nameDef](은)는 옵시디아가 제공할 수 있는 가장 밝은 빛 아래서 살았으며, 어린 시절부터 황금빛 영혼을 가진 '파라곤'으로 칭송받았습니다. 고난 대신 박수가, 규율 대신 찬사가 뒤따랐고 모든 문은 노력을 요구하기도 전에 열렸습니다. 많은 가능성이 열려 있었으나 어떤 교훈들은 끝내 배우지 못했습니다. 영광이 그를 앞으로 이끄는 동안, 어떤 짐들은 영원히 타인의 몫으로 남겨졌습니다.</OE_Paragon.description>
+
+  <OE_Colonist.title>옵시디아 개척민</OE_Colonist.title>
+  <OE_Colonist.titleShort>개척민</OE_Colonist.titleShort>
+  <OE_Colonist.description>[PAWN_nameDef](은)는 옵시디아 개척민 교육 과정을 수료했습니다. 식민지 생활을 지원하는 데 필요한 모든 기술을 갖추고 있습니다.</OE_Colonist.description>
+
+  <OE_Worker.title>옵시디아 노동자</OE_Worker.title>
+  <OE_Worker.titleShort>노동자</OE_Worker.titleShort>
+  <OE_Worker.description>[PAWN_nameDef](은)는 옵시디아 노동자 교육 과정을 수료했습니다. 기지를 건설하고 유용한 자원을 추출하는 데 필요한 모든 기술을 보유하고 있습니다.</OE_Worker.description>
+
+  <OE_Scientist.title>옵시디아 과학자</OE_Scientist.title>
+  <OE_Scientist.titleShort>과학자</OE_Scientist.titleShort>
+  <OE_Scientist.description>[PAWN_nameDef](은)는 옵시디아 과학자 교육 과정을 수료했습니다. 식민지의 발전과 개선에 필요한 모든 기술을 갖추고 있습니다.</OE_Scientist.description>
+
+  <OE_Artisan.title>옵시디아 장인</OE_Artisan.title>
+  <OE_Artisan.titleShort>장인</OE_Artisan.titleShort>
+  <OE_Artisan.description>[PAWN_nameDef](은)는 옵시디아의 창작 길드에서 형태와 기능의 예술을 마스터했습니다. 버려진 고철조차 놀라운 작품으로 바꿀 수 있습니다. 아름다움을 보는 눈은 탁월하지만 현장 업무에는 관심이 거의 없습니다.</OE_Artisan.description>
+
+  <OE_Trader.title>옵시디아 무역상</OE_Trader.title>
+  <OE_Trader.titleShort>무역상</OE_Trader.titleShort>
+  <OE_Trader.description>[PAWN_nameDef](은)는 흩어진 옵시디아 거주지 사이를 여행하며 거래를 성사시키고 희귀품을 찾아냈습니다. 사람을 읽는 법은 익혔지만 도구나 무기를 직접 잡는 일은 거의 없었습니다.</OE_Trader.description>
+
+  <OE_Caretaker.title>옵시디아 관리자</OE_Caretaker.title>
+  <OE_Caretaker.titleShort>관리자</OE_Caretaker.titleShort>
+  <OE_Caretaker.description>[PAWN_nameDef](은)는 수년간 옵시디아의 부상자, 고아, 짐짐승들을 돌보는 데 헌신했습니다. 부드럽고 인내심이 강하지만 전투 보직에는 적합하지 않습니다.</OE_Caretaker.description>
+
+  <OE_Scholar.title>옵시디아 학자</OE_Scholar.title>
+  <OE_Scholar.titleShort>학자</OE_Scholar.titleShort>
+  <OE_Scholar.description>[PAWN_nameDef](은)는 데이터 뱅크와 에코 아카이브에서 옵시디아의 잊힌 유산을 연구하며 수많은 시간을 보냈습니다. 이론에는 해박하지만 사교 능력이나 도구 사용에는 서툽니다.</OE_Scholar.description>
+
+  <OE_Engineer.title>옵시디아 기술자</OE_Engineer.title>
+  <OE_Engineer.titleShort>기술자</OE_Engineer.titleShort>
+  <OE_Engineer.description>[PAWN_nameDef](은)는 옵시디아 핵심 시스템이 붕괴되는 동안 중요 인프라를 담당했습니다. 건설과 수리에는 능숙하지만 사회적 복잡함은 피하는 경향이 있습니다.</OE_Engineer.description>
+
+  <OE_AstroTamer.title>우주 조련사</OE_AstroTamer.title>
+  <OE_AstroTamer.titleShort>조련사</OE_AstroTamer.titleShort>
+  <OE_AstroTamer.description>[PAWN_nameDef](은)는 옵시디아 생존 프로그램에 따라 무중력 및 적대적 진공 환경에 적응한 동물들을 훈련하고 다루었습니다. 생물을 다루는 데는 능숙하지만, 누군가를 간호하거나 돌보는 업무에는 훨씬 서툽니다.</OE_AstroTamer.description>
+
+  <OE_BiobeastKeeper.title>생체공학 동물 사육사</OE_BiobeastKeeper.title>
+  <OE_BiobeastKeeper.titleShort>사육사</OE_BiobeastKeeper.titleShort>
+  <OE_BiobeastKeeper.description>[PAWN_nameDef](은)는 옵시디아의 비밀 생체 연구소에서 개발된 유전자 조작 생물들의 관리와 격리를 감독했습니다. 그것들을 어떻게 살려두는지, 그리고 그것들이 탈출했을 때 어떤 일이 벌어지는지 잘 알고 있습니다.</OE_BiobeastKeeper.description>
+
+  <OE_XenofaunaGuide.title>외계동물 가이드</OE_XenofaunaGuide.title>
+  <OE_XenofaunaGuide.titleShort>가이드</OE_XenofaunaGuide.titleShort>
+  <OE_XenofaunaGuide.description>[PAWN_nameDef](은)는 옵시디아 원정대를 이끌고 외계 생태계를 가로지르며 동물의 행동과 식물의 징후를 읽어냈습니다. 살아남는 법은 알았지만, 제대로 요리하는 법은 몰랐습니다.</OE_XenofaunaGuide.description>
+
+  <OE_HoloSculptor.title>홀로그램 조각가</OE_HoloSculptor.title>
+  <OE_HoloSculptor.titleShort>조각가</OE_HoloSculptor.titleShort>
+  <OE_HoloSculptor.description>[PAWN_nameDef](은)는 옵시디아의 실험 예술 거주지에서 살아있는 빛과 합성 피부를 조형했습니다. 그 결과물은 영감을 주는 만큼이나 불쾌함을 주기도 했습니다. 일부는 조각상들이 원래의 형태를 기억하고 있다고 주장합니다.</OE_HoloSculptor.description>
+
+  <OE_SyntheriusArtist.title>합성 예술가</OE_SyntheriusArtist.title>
+  <OE_SyntheriusArtist.titleShort>예술가</OE_SyntheriusArtist.titleShort>
+  <OE_SyntheriusArtist.description>[PAWN_nameDef](은)는 옵시디아 창작 길드에서 원형 합성으로 예술을 빚는 법을 배웠으며, 이 물질을 조각, 설치물, 그리고 살아있는 형태로 변형시켰습니다. 창의력은 뛰어났으나 육체노동과는 완전히 동떨어진 삶을 살았습니다.</OE_SyntheriusArtist.description>
+
+  <OE_Novelist.title>옵시디아 소설가</OE_Novelist.title>
+  <OE_Novelist.titleShort>소설가</OE_Novelist.titleShort>
+  <OE_Novelist.description>[PAWN_nameDef](은)는 옵시디아의 갈등과 전설을 기록하며 전투와 영웅적인 최후를 완벽하고 생생하게 묘사했습니다. 전투에 대해서는 모르는 게 없지만, 정작 전투에서 살아남는 법은 모릅니다.</OE_Novelist.description>
+
+  <OE_HabitatForger.title>서식지 설계자</OE_HabitatForger.title>
+  <OE_HabitatForger.titleShort>설계자</OE_HabitatForger.titleShort>
+  <OE_HabitatForger.description>[PAWN_nameDef](은)는 생명체가 살 수 없는 옵시디아 변방 전초기지를 위해 자립형 거주지를 설계하고 조립했습니다. 동물보다는 시스템과 구조물을 선호했습니다.</OE_HabitatForger.description>
+
+  <OE_Hullwright.title>선체 제작공</OE_Hullwright.title>
+  <OE_Hullwright.titleShort>제작공</OE_Hullwright.titleShort>
+  <OE_Hullwright.description>[PAWN_nameDef](은)는 극한의 압력과 진공 상태에서 옵시디아 함대의 선체를 건조하고 수리했습니다. 사람보다는 강철과 도구를 훨씬 더 신뢰했습니다.</OE_Hullwright.description>
+
+  <OE_OrbitalFabricator.title>궤도 제조공</OE_OrbitalFabricator.title>
+  <OE_OrbitalFabricator.titleShort>제조공</OE_OrbitalFabricator.titleShort>
+  <OE_OrbitalFabricator.description>[PAWN_nameDef](은)는 옵시디아의 궤도 생산 어레이를 운영하며 무중력 상태에서 거대 구조물을 부품별로 조립했습니다. 토양이나 작물을 돌보는 일에는 인내심이 거의 없었습니다.</OE_OrbitalFabricator.description>
+
+  <OE_SynthCuisineTech.title>합성 요리 기술자</OE_SynthCuisineTech.title>
+  <OE_SynthCuisineTech.titleShort>요리사</OE_SynthCuisineTech.titleShort>
+  <OE_SynthCuisineTech.description>[PAWN_nameDef](은)는 효율과 사기 진작에 최적화된 옵시디아 식민지용 합성 식단을 설계했습니다. 식민지 사람들을 잘 먹였지만, 직접 누군가를 돌보는 일은 피했습니다. </OE_SynthCuisineTech.description>
+
+<OE_ProteinRefiner.title>단백질 정제공</OE_ProteinRefiner.title>
+  <OE_ProteinRefiner.titleShort>정제공</OE_ProteinRefiner.titleShort>
+  <OE_ProteinRefiner.description>[PAWN_nameDef](은)는 가공되지 않은 바이오매스를 옵시디아 공급망을 위한 안정적인 식량원으로 처리했습니다. 실무적이고 효율적이지만, 창의적인 요리법에는 관심이 없습니다.</OE_ProteinRefiner.description>
+
+  <OE_FoodprintDesigner.title>식단 설계사</OE_FoodprintDesigner.title>
+  <OE_FoodprintDesigner.titleShort>식단 설계사</OE_FoodprintDesigner.titleShort>
+  <OE_FoodprintDesigner.description>[PAWN_nameDef](은)는 기분, 기억, 사회적 유대에 영향을 주도록 설계된 옵시디아 표준 식단을 설계했습니다. 주방에서는 천재적이지만, 이론이나 연구에는 관심이 없습니다.</OE_FoodprintDesigner.description>
+
+  <OE_CircuitArtisan.title>회로 장인</OE_CircuitArtisan.title>
+  <OE_CircuitArtisan.titleShort>회로 장인</OE_CircuitArtisan.titleShort>
+  <OE_CircuitArtisan.description>[PAWN_nameDef](은)는 옵시디아 워크숍에서 정밀 기기와 섬세한 회로를 조립했습니다. 흙을 만지거나 식물을 키우는 것보다 기계를 다루는 것을 선호했습니다.</OE_CircuitArtisan.description>
+
+  <OE_Nanoworker.title>나노 노동자</OE_Nanoworker.title>
+  <OE_Nanoworker.titleShort>나노 노동자</OE_Nanoworker.titleShort>
+  <OE_Nanoworker.description>[PAWN_nameDef](은)는 옵시디아 나노 제조 구역에서 보이지 않을 정도로 작은 기계들과 수년을 보냈습니다. 가끔 사람과 대화하는 법을 잊어버리곤 합니다. 나노 머신에는 천재적이지만, 그 외의 모든 상황에서는 지독하게 서툽니다.</OE_Nanoworker.description>
+
+  <OE_ModuleCrafter.title>모듈 제작공</OE_ModuleCrafter.title>
+  <OE_ModuleCrafter.titleShort>모듈 제작공</OE_ModuleCrafter.titleShort>
+  <OE_ModuleCrafter.description>[PAWN_nameDef](은)는 무한히 교체 및 업그레이드가 가능하도록 설계된 옵시디아 시스템용 모듈형 부품을 전문적으로 제작했습니다. 동물은 그의 고려 대상이 아니었습니다.</OE_ModuleCrafter.description>
+
+  <OE_RegrowthSpecialist.title>재성장 전문가</OE_RegrowthSpecialist.title>
+  <OE_RegrowthSpecialist.titleShort>재성장 전문가</OE_RegrowthSpecialist.titleShort>
+  <OE_RegrowthSpecialist.description>[PAWN_nameDef](은)는 옵시디아 의료 프로그램에서 개발된 가속 재성장 기술을 사용하여 손상된 조직을 복구했습니다. 생체 시스템을 다루는 데는 탁월했지만, 그 배후에 숨겨진 과학적 원리에는 거의 의문을 갖지 않았습니다.</OE_RegrowthSpecialist.description>
+
+  <OE_CryostasisMedic.title>동면실 의무병</OE_CryostasisMedic.title>
+  <OE_CryostasisMedic.titleShort>동면 의무병</OE_CryostasisMedic.titleShort>
+  <OE_CryostasisMedic.description>[PAWN_nameDef](은)는 삶과 죽음의 경계에 놓인 신체들을 감시하며 옵시디아 동면 병동을 관리했습니다. 보존 기술은 뛰어났으나, 때때로 깨어난 이들이 드러내는 진실 앞에서는 불안함을 느꼈습니다.</OE_CryostasisMedic.description>
+
+  <OE_NaniteHealer.title>나노 치유사</OE_NaniteHealer.title>
+  <OE_NaniteHealer.titleShort>나노 치유사</OE_NaniteHealer.titleShort>
+  <OE_NaniteHealer.description>[PAWN_nameDef](은)는 의료용 나노 머신을 투입하여 신체 내부를 복구했습니다. 치유는 그의 본업이었으나, 폭력은 아니었습니다.</OE_NaniteHealer.description>
+
+  <OE_AsteroidDriller.title>소행성 채굴공</OE_AsteroidDriller.title>
+  <OE_AsteroidDriller.titleShort>채굴공</OE_AsteroidDriller.titleShort>
+  <OE_AsteroidDriller.description>[PAWN_nameDef](은)는 옵시디아 산업망을 위해 떠다니는 암석에서 자원을 추출했습니다. 지하와 진공 환경에는 익숙하지만 농사일에는 서툽니다.</OE_AsteroidDriller.description>
+
+  <OE_SubsurfaceOperator.title>지하 굴착공</OE_SubsurfaceOperator.title>
+  <OE_SubsurfaceOperator.titleShort>굴착공</OE_SubsurfaceOperator.titleShort>
+  <OE_SubsurfaceOperator.description>[PAWN_nameDef](은)는 밀폐된 옵시디아 식민지 아래에서 심층 추출 기계를 가동했습니다. 사람보다는 기계와 함께일 때 능률이 가장 좋았습니다.</OE_SubsurfaceOperator.description>
+
+  <OE_StonephaseWorker.title>지층 분쇄공</OE_StonephaseWorker.title>
+  <OE_StonephaseWorker.titleShort>분쇄공</OE_StonephaseWorker.titleShort>
+  <OE_StonephaseWorker.description>[PAWN_nameDef](은)는 옵시디아 건설 작업을 위해 불안정한 광물층을 파쇄하는 일을 전문으로 했습니다. 강인한 손과 빈약한 호기심이 그의 업무 스타일을 정의했습니다.</OE_StonephaseWorker.description>
+
+  <OE_VoidTheorist.title>공허 이론가</OE_VoidTheorist.title>
+  <OE_VoidTheorist.titleShort>공허 이론가</OE_VoidTheorist.titleShort>
+  <OE_VoidTheorist.description>[PAWN_nameDef](은)는 옵시디아 연구계 내에서 우주 붕괴에 관한 금지된 모델을 연구했습니다. 그 결론은 정밀하고 우아하면서도, 깊이 불쾌한 내용을 담고 있었습니다.</OE_VoidTheorist.description>
+
+  <OE_SyntheriusResearcher.title>합성 연구원</OE_SyntheriusResearcher.title>
+  <OE_SyntheriusResearcher.titleShort>연구원</OE_SyntheriusResearcher.titleShort>
+  <OE_SyntheriusResearcher.description>[PAWN_nameDef](은)는 옵시디아 연구 프로그램에서 합성의 구조와 행동, 예측 불가능한 반응을 분석했습니다. 데이터와 샘플 처리에는 능숙했지만 사회적인 상호작용은 피했습니다.</OE_SyntheriusResearcher.description>
+
+  <OE_SignalAnalyst.title>신호 분석가</OE_SignalAnalyst.title>
+  <OE_SignalAnalyst.titleShort>분석가</OE_SignalAnalyst.titleShort>
+  <OE_SignalAnalyst.description>[PAWN_nameDef](은)는 옵시디아 중계망을 가로지르는 송신을 해독하며 거대한 거리 너머의 소음 속에서 의미를 걸러냈습니다. 메시지는 잘 이해했지만 정작 하드웨어를 직접 제작하는 것은 선호하지 않았습니다.</OE_SignalAnalyst.description>
+
+  <OE_RootSystemsTech.title>뿌리 계통 기술자</OE_RootSystemsTech.title>
+  <OE_RootSystemsTech.titleShort>뿌리 기술자</OE_RootSystemsTech.titleShort>
+  <OE_RootSystemsTech.description>[PAWN_nameDef](은)는 밀폐된 옵시디아 환경을 위해 지하 재배 네트워크를 최적화했습니다. 식물과 동물은 잘 알았지만 요리는 전혀 즐기지 않았습니다.</OE_RootSystemsTech.description>
+
+  <OE_BiofloraEngineer.title>생체 식물공학자</OE_BiofloraEngineer.title>
+  <OE_BiofloraEngineer.titleShort>식물공학자</OE_BiofloraEngineer.titleShort>
+  <OE_BiofloraEngineer.description>[PAWN_nameDef](은)는 적대적인 행성으로 확장하는 옵시디아를 위해 회복력이 강한 식물을 설계했습니다. 분쟁보다는 창조가 더 중요했습니다.</OE_BiofloraEngineer.description>
+
+  <OE_AlgaeHarvester.title>조류 수확공</OE_AlgaeHarvester.title>
+  <OE_AlgaeHarvester.titleShort>수확공</OE_AlgaeHarvester.titleShort>
+  <OE_AlgaeHarvester.description>[PAWN_nameDef](은)는 옵시디아의 식량과 연료 공급을 담당하는 대규모 조류 배양 탱크를 관리했습니다. 실무적이고 반복적인 업무에 집중했으며 이론에는 거의 관심이 없었습니다.</OE_AlgaeHarvester.description>
+
+  <OE_ReputationManager.title>평판 관리자</OE_ReputationManager.title>
+  <OE_ReputationManager.titleShort>평판 관리자</OE_ReputationManager.titleShort>
+  <OE_ReputationManager.description>[PAWN_nameDef](은)는 옵시디아 파벌들의 대외 이미지와 여론을 관리했습니다. 사람들의 인식은 잘 다루었지만 그들을 직접 돌보는 일은 잘하지 못했습니다.</OE_ReputationManager.description>
+
+  <OE_SocialEngineer.title>사회 공학자</OE_SocialEngineer.title>
+  <OE_SocialEngineer.titleShort>사회 공학자</OE_SocialEngineer.titleShort>
+  <OE_SocialEngineer.description>[PAWN_nameDef](은)는 옵시디아에서 설계한 시스템과 보상, 압박을 통해 집단 행동을 형성했습니다. 동물보다는 체계적인 구조를 선호했습니다.</OE_SocialEngineer.description>
+
+  <OE_ChatModerator.title>채팅 관리자</OE_ChatModerator.title>
+  <OE_ChatModerator.titleShort>관리자</OE_ChatModerator.titleShort>
+  <OE_ChatModerator.description>[PAWN_nameDef](은)는 옵시디아 통신망 전반의 질서를 집행하며, 상상 가능한 모든 종류의 사람과 생물들을 침착하게 상대했습니다. 채팅창을 떠나지 않고도 인간이든 동물이든 누구든 다루는 법을 익혔습니다.</OE_ChatModerator.description>
+
+  <OE_Soldier_Melee.title>옵시디아 전사</OE_Soldier_Melee.title>
+  <OE_Soldier_Melee.titleShort>전사</OE_Soldier_Melee.titleShort>
+  <OE_Soldier_Melee.description>[PAWN_nameDef](은)는 옵시디아 전사 전투 과정을 마쳤습니다. 근접 전투뿐만 아니라 전우들의 건강을 지키기 위한 의학 지식도 갖추고 있습니다.</OE_Soldier_Melee.description>
+
+  <OE_Soldier_Ranged.title>옵시디아 사수</OE_Soldier_Ranged.title>
+  <OE_Soldier_Ranged.titleShort>사수</OE_Soldier_Ranged.titleShort>
+  <OE_Soldier_Ranged.description>[PAWN_nameDef](은)는 옵시디아 사수 전투 과정을 마쳤습니다. 원거리 전투 훈련을 받았으며, 차량과 건물을 유지 보수하기 위한 건설 기술도 보유하고 있습니다.</OE_Soldier_Ranged.description>
+
+  <OE_BreachOperative.title>돌파 요원</OE_BreachOperative.title>
+  <OE_BreachOperative.titleShort>돌파 요원</OE_BreachOperative.titleShort>
+  <OE_BreachOperative.description>[PAWN_nameDef](은)는 규율 잡힌 사격보다는 임기응변, 시각적 계획, 비전형적 침투 방식을 통해 옵시디아의 돌파 작전을 수행했습니다. 창의적인 실행력과 근접 적응력이 그의 업무를 정의했으며, 옵시디아의 원거리 전투 프로토콜은 보조적인 도구로만 취급되었습니다.</OE_BreachOperative.description>
+
+  <OE_OrbitalGunner.title>궤도 포수</OE_OrbitalGunner.title>
+  <OE_OrbitalGunner.titleShort>궤도 포수</OE_OrbitalGunner.titleShort>
+  <OE_OrbitalGunner.description>[PAWN_nameDef](은)는 옵시디아 궤도 화력 통제 부대에서 복무하며 타격 시점, 탄도, 부수적 피해 임계값을 학문적인 정밀함으로 계산했습니다. 그에게 전투는 숫자와 타이밍의 지적 연습이었습니다. 개인 사격 기술은 거의 요구되지 않았기에 훈련 상태도 엉망이었습니다.</OE_OrbitalGunner.description>
+
+  <OE_CombatTheorist.title>전투 이론가</OE_CombatTheorist.title>
+  <OE_CombatTheorist.titleShort>전투 이론가</OE_CombatTheorist.titleShort>
+  <OE_CombatTheorist.description>[PAWN_nameDef](은)는 옵시디아의 전투 교리를 개발 및 적용하며 지휘력, 사기 압박, 전장 조율을 통해 교전을 이끌었습니다. 원거리 부대를 지휘하고 결과를 조율하는 데는 유능했으나, 직접적인 근접 전투에는 적합하지 않았습니다.</OE_CombatTheorist.description>
+
+  <OE_BattleSystemsTech.title>전투 시스템 기술자</OE_BattleSystemsTech.title>
+  <OE_BattleSystemsTech.titleShort>전투 기술자</OE_BattleSystemsTech.titleShort>
+  <OE_BattleSystemsTech.description>[PAWN_nameDef](은)는 실제 전투 상황에서 무기, 조준 장치, 야전 플랫폼을 통합하며 옵시디아 전투 시스템을 조립하고 유지했습니다. 제작 숙련도와 원거리 지원이 중요했으며, 육탄전은 그의 작전 설계 범위를 벗어난 일이었습니다.</OE_BattleSystemsTech.description>
+
+  <OE_WebGardenAcolyte.title>거미줄 정원 복사</OE_WebGardenAcolyte.title>
+  <OE_WebGardenAcolyte.titleShort>복사</OE_WebGardenAcolyte.titleShort>
+  <OE_WebGardenAcolyte.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교 내에서 자라며 신성한 동물들과 생체 공양물들을 돌보았습니다. 삶은 관찰, 인내, 그리고 의식용 시설 관리 위주로 돌아갔습니다.</OE_WebGardenAcolyte.description>
+
+  <OE_CrimsonHandler.title>진홍색 조련사</OE_CrimsonHandler.title>
+  <OE_CrimsonHandler.titleShort>조련사</OE_CrimsonHandler.titleShort>
+  <OE_CrimsonHandler.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교 내에서 의식용 맹수들을 돌보고 필요할 때 규율을 집행하며 복종과 통제를 배웠습니다.</OE_CrimsonHandler.description>
+
+  <OE_CrimsonIconPainter.title>진홍색 성화가</OE_CrimsonIconPainter.title>
+  <OE_CrimsonIconPainter.titleShort>성화가</OE_CrimsonIconPainter.titleShort>
+  <OE_CrimsonIconPainter.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교를 위해 상징, 벽화, 의식용 표식들을 제작하며 예술이 어떻게 신념과 복종을 형성하는지 익혔습니다.</OE_CrimsonIconPainter.description>
+
+  <OE_ShrineFrameworkChild.title>성소 골격 조립아</OE_ShrineFrameworkChild.title>
+  <OE_ShrineFrameworkChild.titleShort>성소 조립아</OE_ShrineFrameworkChild.titleShort>
+  <OE_ShrineFrameworkChild.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교의 성소와 제단을 조립하는 일을 도우며 형태, 균형, 그리고 침묵 속의 순응을 배웠습니다.</OE_ShrineFrameworkChild.description>
+
+  <OE_RaiderDeckborn.title>약탈선 출생</OE_RaiderDeckborn.title>
+  <OE_RaiderDeckborn.titleShort>약탈선 출생</OE_RaiderDeckborn.titleShort>
+  <OE_RaiderDeckborn.description>[PAWN_nameDef](은)는 폭력과 속도가 곧 생존을 의미하는 옵시디아 외곽 항로의 약탈선 함상에서 자랐습니다.</OE_RaiderDeckborn.description>
+
+  <OE_SalvageHoldChild.title>인양선 창고 아이</OE_SalvageHoldChild.title>
+  <OE_SalvageHoldChild.titleShort>인양선 아이</OE_SalvageHoldChild.titleShort>
+  <OE_SalvageHoldChild.description>[PAWN_nameDef](은)는 옵시디아 무역로를 노리는 해적 함대 내에서 훔친 기술품들을 분류하고 수리하며 재조립했습니다.</OE_SalvageHoldChild.description>
+
+  <OE_ChainboundYouth.title>쇠사슬에 묶인 청년</OE_ChainboundYouth.title>
+  <OE_ChainboundYouth.titleShort>속박된 청년</OE_ChainboundYouth.titleShort>
+  <OE_ChainboundYouth.description>[PAWN_nameDef](은)는 옵시디아 약탈자들 밑에서 강제 노동을 하며 어린 시절을 보냈고, 인내와 공포, 그리고 가혹한 복종을 배웠습니다.</OE_ChainboundYouth.description>
+
+  <OE_GunhandApprentice.title>총잡이 견습생</OE_GunhandApprentice.title>
+  <OE_GunhandApprentice.titleShort>총잡이 견습생</OE_GunhandApprentice.titleShort>
+  <OE_GunhandApprentice.description>[PAWN_nameDef](은)는 옵시디아 전초기지들을 노리는 약탈선에서 총기를 유지 관리하고 조작하는 훈련을 받았습니다.</OE_GunhandApprentice.description>
+
+  <OE_AshTrailHerdling.title>잿빛 길의 양치기</OE_AshTrailHerdling.title>
+  <OE_AshTrailHerdling.titleShort>양치기</OE_AshTrailHerdling.titleShort>
+  <OE_AshTrailHerdling.description>[PAWN_nameDef](은)는 옵시디아 외곽 지역에서 이주하는 동물들을 따라다니며 이동과 보살핌을 통한 생존법을 배웠습니다.</OE_AshTrailHerdling.description>
+
+  <OE_DustrootChild.title>먼지뿌리 아이</OE_DustrootChild.title>
+  <OE_DustrootChild.titleShort>먼지뿌리 아이</OE_DustrootChild.titleShort>
+  <OE_DustrootChild.description>[PAWN_nameDef](은)는 실패가 곧 굶주림을 의미하는 옵시디아 도시 너머의 척박한 땅에서 식물을 키우는 법을 배웠습니다.</OE_DustrootChild.description>
+
+  <OE_ScrapNomad.title>고철 유목민</OE_ScrapNomad.title>
+  <OE_ScrapNomad.titleShort>고철 유목민</OE_ScrapNomad.titleShort>
+  <OE_ScrapNomad.description>[PAWN_nameDef](은)는 변방 항로에 흩어진 버려진 옵시디아 기술품들로 고장 난 도구들을 다시 만드는 법을 배웠습니다.</OE_ScrapNomad.description>
+
+  <OE_WaystationBuilder.title>간이역 건설자</OE_WaystationBuilder.title>
+  <OE_WaystationBuilder.titleShort>건설자</OE_WaystationBuilder.titleShort>
+  <OE_WaystationBuilder.description>[PAWN_nameDef](은)는 옵시디아 외곽 영토를 횡단하는 여행자들을 위한 쉼터와 표식을 세우는 일을 도왔습니다.</OE_WaystationBuilder.description>
+
+<OE_DrifterFieldMedic.title>유랑지 야전 의무병</OE_DrifterFieldMedic.title>
+  <OE_DrifterFieldMedic.titleShort>야전 의무병</OE_DrifterFieldMedic.titleShort>
+  <OE_DrifterFieldMedic.description>[PAWN_nameDef](은)는 옵시디아 경계 부근을 여행하는 유목 집단 사이에서 부상자 치료를 도왔습니다.</OE_DrifterFieldMedic.description>
+
+  <OE_IsolatedGrower.title>고립된 재배자</OE_IsolatedGrower.title>
+  <OE_IsolatedGrower.titleShort>고립된 재배자</OE_IsolatedGrower.titleShort>
+  <OE_IsolatedGrower.description>[PAWN_nameDef](은)는 옵시디아의 보호 구역에서 멀리 떨어진 곳에서 성장이 더딘 작물들을 돌보며, 무엇보다도 인내심을 배웠습니다.</OE_IsolatedGrower.description>
+
+  <OE_DeepRockChild.title>심층 암반 아이</OE_DeepRockChild.title>
+  <OE_DeepRockChild.titleShort>심층 암반 아이</OE_DeepRockChild.titleShort>
+  <OE_DeepRockChild.description>[PAWN_nameDef](은)는 옵시디아의 척박한 지역 아래, 바위를 직접 깎아 은신처를 만들며 자랐습니다.</OE_DeepRockChild.description>
+
+  <OE_SignalListener.title>신호 청취자</OE_SignalListener.title>
+  <OE_SignalListener.titleShort>신호 청취자</OE_SignalListener.titleShort>
+  <OE_SignalListener.description>[PAWN_nameDef](은)는 옵시디아의 손길이 닿지 않는 곳을 떠도는 가로채기 방송과 인양된 매뉴얼을 통해 지식을 익혔습니다.</OE_SignalListener.description>
+
+  <OE_BorderWatchYouth.title>국경 파수꾼 청년</OE_BorderWatchYouth.title>
+  <OE_BorderWatchYouth.titleShort>국경 청년</OE_BorderWatchYouth.titleShort>
+  <OE_BorderWatchYouth.description>[PAWN_nameDef](은)는 옵시디아의 불안정한 변방 항로를 따라 캠프를 방어하는 법을 배웠습니다.</OE_BorderWatchYouth.description>
+
+  <OE_CaravanSpeaker.title>상단 대변인</OE_CaravanSpeaker.title>
+  <OE_CaravanSpeaker.titleShort>상단 대변인</OE_CaravanSpeaker.titleShort>
+  <OE_CaravanSpeaker.description>[PAWN_nameDef](은)는 옵시디아 우주 근처에서 활동하는 여행 집단 간의 협상과 분쟁 조율을 담당했습니다.</OE_CaravanSpeaker.description>
+
+  <OE_BannerLegacyChild.title>깃발의 후예</OE_BannerLegacyChild.title>
+  <OE_BannerLegacyChild.titleShort>깃발의 후예</OE_BannerLegacyChild.titleShort>
+  <OE_BannerLegacyChild.description>[PAWN_nameDef](은)는 옵시디아의 생존을 일궈낸 베테랑들에게 둘러싸여 희생과 방어의 이야기 속에서 자랐습니다. 그에게 의무는 유년기보다 앞선 것이었습니다.</OE_BannerLegacyChild.description>
+
+  <OE_CommandWard.title>지휘부 피보호자</OE_CommandWard.title>
+  <OE_CommandWard.titleShort>지휘부 아이</OE_CommandWard.titleShort>
+  <OE_CommandWard.description>[PAWN_nameDef](은)는 옵시디아 장교들의 감독 아래 자라며 훈육, 리더십, 그리고 지휘의 무게를 일찍이 배웠습니다.</OE_CommandWard.description>
+
+  <OE_ForgebornHeir.title>제련소의 후계자</OE_ForgebornHeir.title>
+  <OE_ForgebornHeir.titleShort>제련소 후계자</OE_ForgebornHeir.titleShort>
+  <OE_ForgebornHeir.description>[PAWN_nameDef](은)는 무기와 갑옷을 의무의 신성한 연장선으로 여기는 옵시디아의 군사 주조 공장 근처에서 자랐습니다.</OE_ForgebornHeir.description>
+
+  <OE_FrontlineShelterChild.title>최전선 방공호 아이</OE_FrontlineShelterChild.title>
+  <OE_FrontlineShelterChild.titleShort>방공호 아이</OE_FrontlineShelterChild.titleShort>
+  <OE_FrontlineShelterChild.description>[PAWN_nameDef](은)는 옵시디아의 요새화된 구역에서 어린 시절을 보내며, 포화 속에서도 침착함을 유지하고 훈련된 목적에 따라 움직이는 법을 배웠습니다.</OE_FrontlineShelterChild.description>
+
+  <OE_IndustrialYardChild.title>공업 단지 아이</OE_IndustrialYardChild.title>
+  <OE_IndustrialYardChild.titleShort>공업 단지 아이</OE_IndustrialYardChild.titleShort>
+  <OE_IndustrialYardChild.description>[PAWN_nameDef](은)는 옵시디아 노동 지구의 노동 현장과 기계들에 둘러싸여 자랐습니다.</OE_IndustrialYardChild.description>
+
+  <OE_QuarryBlockYouth.title>채석장 청년</OE_QuarryBlockYouth.title>
+  <OE_QuarryBlockYouth.titleShort>채석장 청년</OE_QuarryBlockYouth.titleShort>
+  <OE_QuarryBlockYouth.description>[PAWN_nameDef](은)는 옵시디아 확장에 필요한 석재 추출 작업을 도왔습니다.</OE_QuarryBlockYouth.description>
+
+  <OE_ClinicRunner.title>진료소 심부름꾼</OE_ClinicRunner.title>
+  <OE_ClinicRunner.titleShort>진료소 심부름꾼</OE_ClinicRunner.titleShort>
+  <OE_ClinicRunner.description>[PAWN_nameDef](은)는 옵시디아의 과밀한 진료소에서 물자를 나르고 가능한 모든 일을 도왔습니다.</OE_ClinicRunner.description>
+
+  <OE_StreetKitchenChild.title>거리 주방 아이</OE_StreetKitchenChild.title>
+  <OE_StreetKitchenChild.titleShort>거리 주방 아이</OE_StreetKitchenChild.titleShort>
+  <OE_StreetKitchenChild.description>[PAWN_nameDef](은)는 옵시디아 하층 구역에서 적은 식재료로 많은 사람을 먹이는 법을 배웠습니다.</OE_StreetKitchenChild.description>
+
+  <OE_ShelterOrganizer.title>거처 정리가</OE_ShelterOrganizer.title>
+  <OE_ShelterOrganizer.titleShort>거처 정리가</OE_ShelterOrganizer.titleShort>
+  <OE_ShelterOrganizer.description>[PAWN_nameDef](은)는 옵시디아 공동 주거 구역의 질서를 유지하는 일을 도왔습니다.</OE_ShelterOrganizer.description>
+
+  <OE_RepairAlleyHelper.title>수리 골목 조수</OE_RepairAlleyHelper.title>
+  <OE_RepairAlleyHelper.titleShort>수리 조수</OE_RepairAlleyHelper.titleShort>
+  <OE_RepairAlleyHelper.description>[PAWN_nameDef](은)는 옵시디아 유지 보수 지구에서 남들이 버린 것들을 수리했습니다.</OE_RepairAlleyHelper.description>
+
+  <OE_YardGuardChild.title>구역 경비 보조아</OE_YardGuardChild.title>
+  <OE_YardGuardChild.titleShort>경비 보조아</OE_YardGuardChild.titleShort>
+  <OE_YardGuardChild.description>[PAWN_nameDef](은)는 옵시디아 내부 블록을 보호하는 지역 순찰대를 도왔습니다.</OE_YardGuardChild.description>
+
+  <OE_GreenblockHelper.title>녹색 구역 조수</OE_GreenblockHelper.title>
+  <OE_GreenblockHelper.titleShort>녹색 구역 조수</OE_GreenblockHelper.titleShort>
+  <OE_GreenblockHelper.description>[PAWN_nameDef](은)는 옵시디아 내부의 제한된 식량 생산 구역을 관리하는 일을 도왔습니다.</OE_GreenblockHelper.description>
+
+  <OE_MessageCourier.title>서신 전령</OE_MessageCourier.title>
+  <OE_MessageCourier.titleShort>전령</OE_MessageCourier.titleShort>
+  <OE_MessageCourier.description>[PAWN_nameDef](은)는 옵시디아의 밀집된 구역 전역에 지시 사항과 보고서를 전달했습니다.</OE_MessageCourier.description>
+
+  <OE_WorkshopErrandChild.title>작업장 심부름꾼 아이</OE_WorkshopErrandChild.title>
+  <OE_WorkshopErrandChild.titleShort>작업장 아이</OE_WorkshopErrandChild.titleShort>
+  <OE_WorkshopErrandChild.description>[PAWN_nameDef](은)는 옵시디아의 산업 작업장에서 어깨너머로 일을 배웠습니다.</OE_WorkshopErrandChild.description>
+
+  <OE_DocksideYouth.title>부두의 청년</OE_DocksideYouth.title>
+  <OE_DocksideYouth.titleShort>부두 청년</OE_DocksideYouth.titleShort>
+  <OE_DocksideYouth.description>[PAWN_nameDef](은)는 옵시디아 항구의 화물, 동물, 그리고 끊임없는 움직임 속에서 자랐습니다.</OE_DocksideYouth.description>
+
+  <OE_CommunalGrower.title>공동 재배자</OE_CommunalGrower.title>
+  <OE_CommunalGrower.titleShort>공동 재배자</OE_CommunalGrower.titleShort>
+  <OE_CommunalGrower.description>[PAWN_nameDef](은)는 옵시디아 하층 지구를 지원하는 공동 식료 재배지에서 일했습니다.</OE_CommunalGrower.description>
+
+  <OE_BackstreetMedic.title>뒷골목 의무병</OE_BackstreetMedic.title>
+  <OE_BackstreetMedic.titleShort>뒷골목 의무병</OE_BackstreetMedic.titleShort>
+  <OE_BackstreetMedic.description>[PAWN_nameDef](은)는 옵시디아의 소외된 지역에서 임시 의료 활동을 도왔습니다.</OE_BackstreetMedic.description>
+
+  <OE_TunnelWatchChild.title>터널 감시 아이</OE_TunnelWatchChild.title>
+  <OE_TunnelWatchChild.titleShort>터널 감시 아이</OE_TunnelWatchChild.titleShort>
+  <OE_TunnelWatchChild.description>[PAWN_nameDef](은)는 옵시디아 기반 시설 아래의 지하 통로를 감시했습니다.</OE_TunnelWatchChild.description>
+
+  <OE_PlazaPerformer.title>광장 공연가</OE_PlazaPerformer.title>
+  <OE_PlazaPerformer.titleShort>공연가</OE_PlazaPerformer.titleShort>
+  <OE_PlazaPerformer.description>[PAWN_nameDef](은)는 옵시디아의 북적이는 광장에서 살아남기 위해 관중들을 즐겁게 했습니다.</OE_PlazaPerformer.description>
+
+  <OE_MaintenanceRunner.title>유지 보수 전령</OE_MaintenanceRunner.title>
+  <OE_MaintenanceRunner.titleShort>보수 전령</OE_MaintenanceRunner.titleShort>
+  <OE_MaintenanceRunner.description>[PAWN_nameDef](은)는 노후화된 옵시디아 시스템 전반의 수리 작업을 지원했습니다.</OE_MaintenanceRunner.description>
+
+  <OE_MessHallHelper.title>식당 보조원</OE_MessHallHelper.title>
+  <OE_MessHallHelper.titleShort>식당 보조원</OE_MessHallHelper.titleShort>
+  <OE_MessHallHelper.description>[PAWN_nameDef](은)는 옵시디아의 대규모 식사 준비를 도왔습니다.</OE_MessHallHelper.description>
+
+  <OE_SparringYardKid.title>연무장 아이</OE_SparringYardKid.title>
+  <OE_SparringYardKid.titleShort>연무장 아이</OE_SparringYardKid.titleShort>
+  <OE_SparringYardKid.description>[PAWN_nameDef](은)는 옵시디아의 연무장에서 반복 훈련을 통해 단련되었습니다.</OE_SparringYardKid.description>
+
+  <OE_RangeAssistant.title>사격장 조수</OE_RangeAssistant.title>
+  <OE_RangeAssistant.titleShort>사격장 조수</OE_RangeAssistant.titleShort>
+  <OE_RangeAssistant.description>[PAWN_nameDef](은)는 옵시디아 내부의 사격 훈련장 유지 관리를 도왔습니다.</OE_RangeAssistant.description>
+
+  <OE_ToolCageChild.title>공구함 관리 아이</OE_ToolCageChild.title>
+  <OE_ToolCageChild.titleShort>공구함 아이</OE_ToolCageChild.titleShort>
+  <OE_ToolCageChild.description>[PAWN_nameDef](은)는 옵시디아 시설 전역의 도구들을 정리하고 수리했습니다.</OE_ToolCageChild.description>
+
+  <OE_EstateGalleryChild.title>저택 갤러리 아이</OE_EstateGalleryChild.title>
+  <OE_EstateGalleryChild.titleShort>갤러리 아이</OE_EstateGalleryChild.titleShort>
+  <OE_EstateGalleryChild.description>[PAWN_nameDef](은)는 옵시디아 상류층 저택에서 엄선된 예술품과 정규 교육에 둘러싸여 자랐습니다.</OE_EstateGalleryChild.description>
+
+  <OE_StructuralHeir.title>구조 설계의 후계자</OE_StructuralHeir.title>
+  <OE_StructuralHeir.titleShort>설계 후계자</OE_StructuralHeir.titleShort>
+  <OE_StructuralHeir.description>[PAWN_nameDef](은)는 옵시디아 고위 지구의 건설 현장을 참관하며 계획 및 감독 업무를 배웠습니다.</OE_StructuralHeir.description>
+
+  <OE_DiplomaticWard.title>외교적 피보호자</OE_DiplomaticWard.title>
+  <OE_DiplomaticWard.titleShort>외교부 아이</OE_DiplomaticWard.titleShort>
+  <OE_DiplomaticWard.description>[PAWN_nameDef](은)는 옵시디아 지배 계층 내에서 예법, 설득력, 그리고 절제된 공감 능력을 훈련받았습니다.</OE_DiplomaticWard.description>
+
+  <OE_ArchiveProdigy.title>아카이브 영재</OE_ArchiveProdigy.title>
+  <OE_ArchiveProdigy.titleShort>아카이브 영재</OE_ArchiveProdigy.titleShort>
+  <OE_ArchiveProdigy.description>[PAWN_nameDef](은)는 옵시디아의 제한 구역 보관소에서 어린 시절을 보내며 미래의 행정관들을 위한 지식을 흡수했습니다.</OE_ArchiveProdigy.description>
+
+  <OE_CulinaryAttendant.title>고급 요리 시종</OE_CulinaryAttendant.title>
+  <OE_CulinaryAttendant.titleShort>요리 시종</OE_CulinaryAttendant.titleShort>
+  <OE_CulinaryAttendant.description>[PAWN_nameDef](은)는 옵시디아 상류층 가문의 의례로서 정제된 요리 준비법을 배웠습니다.</OE_CulinaryAttendant.description>
+
+  <OE_PrivateGardenWard.title>비밀 정원 관리아</OE_PrivateGardenWard.title>
+  <OE_PrivateGardenWard.titleShort>비밀 정원 아이</OE_PrivateGardenWard.titleShort>
+  <OE_PrivateGardenWard.description>[PAWN_nameDef](은)는 생존이 아닌 지위 과시를 위해 설계된 옵시디아의 통제된 생태계를 돌보았습니다.</OE_PrivateGardenWard.description>
+
+  <OE_DuelInstructionWard.title>결투 지도 피보호자</OE_DuelInstructionWard.title>
+  <OE_DuelInstructionWard.titleShort>결투 지도 아이</OE_DuelInstructionWard.titleShort>
+  <OE_DuelInstructionWard.description>[PAWN_nameDef](은)는 옵시디아 상류층의 전통에 따라 절제된 결투술을 훈련받았습니다.</OE_DuelInstructionWard.description>
+
+  <OE_ArmoryOversightChild.title>무기고 감독 아이</OE_ArmoryOversightChild.title>
+  <OE_ArmoryOversightChild.titleShort>무기고 아이</OE_ArmoryOversightChild.titleShort>
+  <OE_ArmoryOversightChild.description>[PAWN_nameDef](은)는 옵시디아 귀족 저택 내부에서 직접적인 전투 없이 무기 유지 관리법을 익혔습니다.</OE_ArmoryOversightChild.description>
+
+  <OE_HouseholdPhysicianWard.title>가문의 주치의 피보호자</OE_HouseholdPhysicianWard.title>
+  <OE_HouseholdPhysicianWard.titleShort>가문 의술 아이</OE_HouseholdPhysicianWard.titleShort>
+  <OE_HouseholdPhysicianWard.description>[PAWN_nameDef](은)는 옵시디아 엘리트 가문 내에서 혈통 보존을 위한 의료 행위를 참관하며 자랐습니다.</OE_HouseholdPhysicianWard.description>
+
+  <OE_ArtisanPatronChild.title>장인 후원자 자녀</OE_ArtisanPatronChild.title>
+  <OE_ArtisanPatronChild.titleShort>장인 후원아</OE_ArtisanPatronChild.titleShort>
+  <OE_ArtisanPatronChild.description>[PAWN_nameDef](은)는 옵시디아 상류 사회에서 일을 직접 수행하기보다는 작품을 의뢰하는 법을 배우며 자랐습니다.</OE_ArtisanPatronChild.description>
+
+  <OE_GiftedProdigy.title>천부적인 영재</OE_GiftedProdigy.title>
+  <OE_GiftedProdigy.titleShort>영재</OE_GiftedProdigy.titleShort>
+  <OE_GiftedProdigy.description>[PAWN_nameDef](은)는 옵시디아에서 어린 시절부터 탁월한 적응력을 보였으며, 또래보다 빠르게 업무를 파악해 항상 주목받았습니다.</OE_GiftedProdigy.description>
+
+  <OE_TalentlessYouth.title>재능 없는 청년</OE_TalentlessYouth.title>
+  <OE_TalentlessYouth.titleShort>재능 없는 청년</OE_TalentlessYouth.titleShort>
+  <OE_TalentlessYouth.description>[PAWN_nameDef](은)는 옵시디아에서 자라는 동안 무엇 하나 특출난 것 없이 고군분투했습니다. 능력보다는 노력에 의존했으나, 끈기에도 불구하고 종종 뒤처지곤 했습니다.</OE_TalentlessYouth.description>
+
+  <OE_Psy.title>옵시디아 초능력자</OE_Psy.title>
+  <OE_Psy.titleShort>초능력자</OE_Psy.titleShort>
+  <OE_Psy.description>[PAWN_nameDef](은)는 옵시디아의 고대 혈통 중 하나를 대표하는 인물입니다. 권력을 향한 정치적 충돌에 가담하는 대신 새로운 영토를 정복하는 길을 택했습니다. 탁월한 지적 능력과 미적 감각을 지니고 있습니다.</OE_Psy.description>
+
+  <OE_Mindseeker.title>옵시디아 정신탐구자</OE_Mindseeker.title>
+  <OE_Mindseeker.titleShort>정신탐구자</OE_Mindseeker.titleShort>
+  <OE_Mindseeker.description>[PAWN_nameDef](은)는 옵시디아 정신 세계를 대표하는 인물입니다. 내면의 조화와 치유, 그리고 보이지 않는 것을 이해하는 데 평생을 바쳤습니다. 화술과 의술에 천부적인 재능이 있습니다.</OE_Mindseeker.description>
+
+  <OE_Soldier_MeleePsy.title>옵시디아 전쟁사제</OE_Soldier_MeleePsy.title>
+  <OE_Soldier_MeleePsy.titleShort>전쟁사제</OE_Soldier_MeleePsy.titleShort>
+  <OE_Soldier_MeleePsy.description>[PAWN_nameDef](은)는 옵시디아 종교 재판소 아래에서 강도 높은 전투 및 초능력 훈련을 받았습니다. 아군을 고취하고 신성한 분노로 적을 섬멸하도록 훈련받았습니다. 근접 전투와 사회적 영향력 행사에 능숙합니다.</OE_Soldier_MeleePsy.description>
+
+  <OE_Soldier_RangedPsy.title>옵시디아 리버</OE_Soldier_RangedPsy.title>
+  <OE_Soldier_RangedPsy.titleShort>리버</OE_Soldier_RangedPsy.titleShort>
+  <OE_Soldier_RangedPsy.description>[PAWN_nameDef](은)는 사이코-워리어의 길을 선택한 옵시디아 귀족의 후손입니다. 정밀 사격과 전술적 우위에 집중된 특수 군사 훈련을 마쳤습니다. 원거리 전투와 지적 탐구에 매우 능숙합니다.</OE_Soldier_RangedPsy.description>
+
+  <OE_Herald.title>전령관</OE_Herald.title>
+  <OE_Herald.titleShort>전령관</OE_Herald.titleShort>
+  <OE_Herald.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교의 목소리로서 환영, 의례적인 연설, 그리고 속삭이는 계시를 통해 변방 세계에 성스러운 교리를 전했습니다. 그의 말은 헌신과 공포를 동시에 심어줍니다.</OE_Herald.description>
+
+  <OE_Datasplicer.title>옵시디아 제국 데이터 스플라이서</OE_Datasplicer.title>
+  <OE_Datasplicer.titleShort>데이터 스플라이서</OE_Datasplicer.titleShort>
+  <OE_Datasplicer.description>[PAWN_nameDef](은)는 한때 옵시디아의 봉인된 데이터 금고를 뚫고 내부에서 지휘 체계를 재작성했습니다. 이제 그는 유령처럼 방화벽 사이를 떠돕니다.</OE_Datasplicer.description>
+
+  <OE_Mechanitor.title>옵시디아 메카나이터</OE_Mechanitor.title>
+  <OE_Mechanitor.titleShort>메카나이터</OE_Mechanitor.titleShort>
+  <OE_Mechanitor.description>[PAWN_nameDef](은)는 가장 인기 있는 옵시디아 메카 매니아 클럽 중 하나의 대표입니다. 정식 메카나이터가 됨으로써 숨겨진 잠재력을 드러낼 수 있게 되었습니다. 뛰어난 창의력을 지니고 있습니다.</OE_Mechanitor.description>
+
+  <OE_Mecharchitect.title>옵시디아 메카 설계사</OE_Mecharchitect.title>
+  <OE_Mecharchitect.titleShort>메카 설계사</OE_Mecharchitect.titleShort>
+  <OE_Mecharchitect.description>[PAWN_nameDef](은)는 옵시디아 로봇 주조 공장의 전직 직원입니다. 섀시 설계와 자율 시스템을 전문으로 했습니다. 뛰어난 예술적 재능을 보유하고 있습니다.</OE_Mecharchitect.description>
+
+  <OE_Zealot.title>광신도</OE_Zealot.title>
+  <OE_Zealot.titleShort>광신도</OE_Zealot.titleShort>
+  <OE_Zealot.description>[PAWN_nameDef](은)는 진홍색 아라크나 이교의 이름으로 피비린내 나는 의식을 이끌었습니다. 흔들리지 않는 신념에 따라 찬송, 불꽃, 그리고 희생을 통해 경외감과 공포를 불러일으켰습니다.</OE_Zealot.description>
+</LanguageData>

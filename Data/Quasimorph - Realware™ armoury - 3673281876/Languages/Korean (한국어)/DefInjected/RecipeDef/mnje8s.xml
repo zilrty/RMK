@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=make 5.58x42mm Realware Cartridge (FMJ) cartridge x100-->
+  <MakeQM_Ammo_42RW_FMJ.label>5.58x42mm 리얼웨어 (일반탄) 100발 제작</MakeQM_Ammo_42RW_FMJ.label>
+  <!--Original=Craft 100 5.58x42mm Realware Cartridge (FMJ) cartridges.-->
+  <MakeQM_Ammo_42RW_FMJ.description>5.58x42mm 리얼웨어 (일반탄) 100발을 제작합니다.</MakeQM_Ammo_42RW_FMJ.description>
+  <!--Original=Making 5.58x42mm Realware Cartridge (FMJ) cartridges.-->
+  <MakeQM_Ammo_42RW_FMJ.jobString>5.58x42mm 리얼웨어 (일반탄) 제작 중</MakeQM_Ammo_42RW_FMJ.jobString>
+  <!--Original=make 5.58x42mm Realware Cartridge (RB) cartridge x100-->
+  <MakeQM_Ammo_42RW_RB.label>5.58x42mm 리얼웨어 (경화고무탄) 100발 제작</MakeQM_Ammo_42RW_RB.label>
+  <!--Original=Craft 100 5.58x42mm Realware Cartridge (RB) cartridges.-->
+  <MakeQM_Ammo_42RW_RB.description>5.58x42mm 리얼웨어 (경화고무탄) 100발을 제작합니다.</MakeQM_Ammo_42RW_RB.description>
+  <!--Original=Making 5.58x42mm Realware Cartridge (RB) cartridges.-->
+  <MakeQM_Ammo_42RW_RB.jobString>5.58x42mm 리얼웨어 (경화고무탄) 제작 중</MakeQM_Ammo_42RW_RB.jobString>
+  <!--Original=make 5.58x42mm Realware Cartridge (Cryo) cartridge x100-->
+  <MakeQM_Ammo_42RW_CRYO.label>5.58x42mm 리얼웨어 (냉동탄) 100발 제작</MakeQM_Ammo_42RW_CRYO.label>
+  <!--Original=Craft 100 5.58x42mm Realware Cartridge (Cryo) cartridges.-->
+  <MakeQM_Ammo_42RW_CRYO.description>5.58x42mm 리얼웨어 (냉동탄) 100발을 제작합니다.</MakeQM_Ammo_42RW_CRYO.description>
+  <!--Original=Making 5.58x42mm Realware Cartridge (Cryo) cartridges.-->
+  <MakeQM_Ammo_42RW_CRYO.jobString>5.58x42mm 리얼웨어 (냉동탄) 제작 중</MakeQM_Ammo_42RW_CRYO.jobString>
+  <!--Original=make 7.97mm Realware (FMJ) cartridge x100-->
+  <MakeQM_Ammo_797RW_FMJ.label>7.97mm 리얼웨어 (일반탄) 100발 제작</MakeQM_Ammo_797RW_FMJ.label>
+  <!--Original=Craft 100 7.97mm Realware (FMJ) cartridges.-->
+  <MakeQM_Ammo_797RW_FMJ.description>7.97mm 리얼웨어 (일반탄) 100발을 제작합니다.</MakeQM_Ammo_797RW_FMJ.description>
+  <!--Original=Making 7.97mm Realware (FMJ) cartridges.-->
+  <MakeQM_Ammo_797RW_FMJ.jobString>7.97mm 리얼웨어 (일반탄) 제작 중</MakeQM_Ammo_797RW_FMJ.jobString>
+  <!--Original=make 7.97mm Realware (AP) cartridge x100-->
+  <MakeQM_Ammo_797RW_AP.label>7.97mm 리얼웨어 (철갑탄) 100발 제작</MakeQM_Ammo_797RW_AP.label>
+  <!--Original=Craft 100 7.97mm Realware (AP) cartridges.-->
+  <MakeQM_Ammo_797RW_AP.description>7.97mm 리얼웨어 (철갑탄) 100발을 제작합니다.</MakeQM_Ammo_797RW_AP.description>
+  <!--Original=Making 7.97mm Realware (AP) cartridges.-->
+  <MakeQM_Ammo_797RW_AP.jobString>7.97mm 리얼웨어 (철갑탄) 제작 중</MakeQM_Ammo_797RW_AP.jobString>
+  <!--Original=make 7.97mm Corpo (APーI) cartridge x100-->
+  <MakeQM_Ammo_797RW_API.label>7.97mm 리얼웨어 (철갑소이탄) 100발 제작</MakeQM_Ammo_797RW_API.label>
+  <!--Original=Craft 100 7.97mm Corpo (APーI) cartridges.-->
+  <MakeQM_Ammo_797RW_API.description>7.97mm 리얼웨어 (철갑소이탄) 100발을 제작합니다.</MakeQM_Ammo_797RW_API.description>
+  <!--Original=Making 7.97mm Corpo (APーI) cartridges.-->
+  <MakeQM_Ammo_797RW_API.jobString>7.97mm 리얼웨어 (철갑소이탄) 제작 중</MakeQM_Ammo_797RW_API.jobString>
+  <!--Original=make 9mm Realware (FMJ) cartridge x250-->
+  <MakeQM_Ammo_9mmRW_FMJ.label>9mm 리얼웨어 (일반탄) 250발 제작</MakeQM_Ammo_9mmRW_FMJ.label>
+  <!--Original=Craft 250 9mm Realware (FMJ) cartridges.-->
+  <MakeQM_Ammo_9mmRW_FMJ.description>9mm 리얼웨어 (일반탄) 250발을 제작합니다.</MakeQM_Ammo_9mmRW_FMJ.description>
+  <!--Original=Making 9mm Realware (FMJ) cartridges.-->
+  <MakeQM_Ammo_9mmRW_FMJ.jobString>9mm 리얼웨어 (일반탄) 제작 중</MakeQM_Ammo_9mmRW_FMJ.jobString>
+  <!--Original=make 9mm Realware (AP) cartridge x250-->
+  <MakeQM_Ammo_9mmRW_AP.label>9mm 리얼웨어 (철갑탄) 250발 제작</MakeQM_Ammo_9mmRW_AP.label>
+  <!--Original=Craft 250 9mm Realware (AP) cartridges.-->
+  <MakeQM_Ammo_9mmRW_AP.description>9mm 리얼웨어 (철갑탄) 250발을 제작합니다.</MakeQM_Ammo_9mmRW_AP.description>
+  <!--Original=Making 9mm Realware (AP) cartridges.-->
+  <MakeQM_Ammo_9mmRW_AP.jobString>9mm 리얼웨어 (철갑탄) 제작 중</MakeQM_Ammo_9mmRW_AP.jobString>
+  <!--Original=make 9mm Realware (Burst) cartridge x250-->
+  <MakeQM_Ammo_9mmRW_HE.label>9mm 리얼웨어 (폭발탄) 250발 제작</MakeQM_Ammo_9mmRW_HE.label>
+  <!--Original=Craft 500 9mm Realware (Burst) cartridges.-->
+  <MakeQM_Ammo_9mmRW_HE.description>9mm 리얼웨어 (폭발탄) 250발을 제작합니다.</MakeQM_Ammo_9mmRW_HE.description>
+  <!--Original=Making 9mm Realware (Burst) cartridges.-->
+  <MakeQM_Ammo_9mmRW_HE.jobString>9mm 리얼웨어 (폭발탄) 제작 중</MakeQM_Ammo_9mmRW_HE.jobString>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_PsychicContempt.stages.0.label>경멸 초능력</SLP_PsychicContempt.stages.0.label>
+  <SLP_PsychicCalm.stages.0.label>안정 초능력</SLP_PsychicCalm.stages.0.label>
+  <SLP_PsychicCalm.stages.0.description>몸이 따뜻하고 만족스러우며 행복한 기분이 들지만, 지금 하고 있는 일에 전혀 방해가 되지 않습니다.</SLP_PsychicCalm.stages.0.description>
+  <SLP_PsychicFriendship.stages.0.label>우정 초능력</SLP_PsychicFriendship.stages.0.label>
+</LanguageData>

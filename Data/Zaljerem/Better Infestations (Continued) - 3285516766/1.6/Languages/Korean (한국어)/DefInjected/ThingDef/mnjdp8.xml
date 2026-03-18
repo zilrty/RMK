@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BI_Queen.label>여왕</BI_Queen.label>
+  <BI_Queen.description>곤충 군단의 어머니입니다. 보통 군락 깊숙한 곳에 은신해 있습니다. 매우 위험한 존재이며, 군락의 구성원들은 무슨 수를 써서라도 그녀를 지킬 것입니다.</BI_Queen.description>
+  <BI_Queen.tools.0.label>머리 발톱</BI_Queen.tools.0.label>
+  <BI_Queen.tools.1.label>머리</BI_Queen.tools.1.label>
+  <BI_Queen.tools.2.label>턱</BI_Queen.tools.2.label>
+
+  <BI_Hive.label>군락</BI_Hive.label>
+  <BI_Hive.description>거대 곤충들의 군락입니다. 활성화되면 시간이 지남에 따라 추가적인 곤충과 군락을 생성하며, 값비싼 곤충 젤리도 생산합니다.</BI_Hive.description>
+  <BI_TunnelHiveSpawner.label>땅굴</BI_TunnelHiveSpawner.label>
+</LanguageData>

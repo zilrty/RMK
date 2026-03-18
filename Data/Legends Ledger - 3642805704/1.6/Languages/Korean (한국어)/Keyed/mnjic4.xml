@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LL_Arrival_Fallback_Details>최초의 정착민들이 {1}, {2} 인근에 {0}(을)를 세웠습니다.</LL_Arrival_Fallback_Details>
+  <LL_Arrival_Fallback_Title>{0} 건국</LL_Arrival_Fallback_Title>
+  <LL_Article_A>한</LL_Article_A>
+  <LL_Article_A_Cap>한</LL_Article_A_Cap>
+  <LL_Article_An>한</LL_Article_An>
+  <LL_Article_An_Cap>한</LL_Article_An_Cap>
+  <LL_Article_The>그</LL_Article_The>
+
+  <LL_Artifact_Epithet_Extreme>세계의 종말|왕의 파멸|해체자|최후의 목격자</LL_Artifact_Epithet_Extreme>
+  <LL_Artifact_Epithet_High>파멸의 인도자|죽음의 노래|뼈 파괴자|사형 집행인</LL_Artifact_Epithet_High>
+  <LL_Artifact_Epithet_Mid>살육자|사신|도살자|피로 물든 손</LL_Artifact_Epithet_Mid>
+  <LL_Artifact_Epithet_Low>낙인찍힌 자|피를 본 자|흉터 입은 자|잔혹한 자</LL_Artifact_Epithet_Low>
+
+  <LL_Event_Birth_Details_WithParentInfo>{0}(이)가 태어났습니다. {1}. 출생지는 {2}(으)로 기록되었습니다.</LL_Event_Birth_Details_WithParentInfo>
+  <LL_Event_Birth_ParentInfo>{0}의 자녀</LL_Event_Birth_ParentInfo>
+  <LL_Event_Rename_Fallback_Title>{0}의 명칭이 {1}(으)로 변경됨</LL_Event_Rename_Fallback_Title>
+  <LL_Event_XenotypeTransformation_Details_Prefix>한때 {1}이었던 {0}(은)는 {2} {3}(으)로 변했습니다.</LL_Event_XenotypeTransformation_Details_Prefix>
+  <LL_Event_XenotypeTransformation_Details_Suffix>이 변화는 전설에 기록되었습니다.</LL_Event_XenotypeTransformation_Details_Suffix>
+
+  <LL_FactionNaming_Initial_Details>{0}년에 {1}(은)는 {2}에서 처음 알려졌으며 {3}(이)가 되었습니다.</LL_FactionNaming_Initial_Details>
+  <LL_FactionNaming_Initial_Title>{0} 결성</LL_FactionNaming_Initial_Title>
+  <LL_FactionNaming_Mythic_Details>{2}경, {1}에서 전해오는 이야기들이 {3}(을)를 '{0}'이라는 신화적인 이름으로 재탄생시켰습니다.</LL_FactionNaming_Mythic_Details>
+  <LL_FactionNaming_Mythic_Title>신화적 명명: {0}</LL_FactionNaming_Mythic_Title>
+
+  <LL_Fallback_AChild>아이</LL_Fallback_AChild>
+  <LL_Fallback_AFaction>세력</LL_Fallback_AFaction>
+  <LL_Fallback_AFigure>인물</LL_Fallback_AFigure>
+  <LL_Fallback_AColonist>정착민</LL_Fallback_AColonist>
+  <LL_Fallback_Creature>생물</LL_Fallback_Creature>
+  <LL_Fallback_Colony>정착지</LL_Fallback_Colony>
+  <LL_Fallback_Ideology>사상</LL_Fallback_Ideology>
+  <LL_Fallback_Leader>지도자</LL_Fallback_Leader>
+  <LL_Fallback_Role>역할</LL_Fallback_Role>
+  <LL_Fallback_Settlement>정착지</LL_Fallback_Settlement>
+  <LL_Fallback_SettlementOfFaction>{1}의 {0}</LL_Fallback_SettlementOfFaction>
+  <LL_Fallback_TheExpedition>원정대</LL_Fallback_TheExpedition>
+  <LL_Fallback_ThePursuers>추격자들</LL_Fallback_ThePursuers>
+  <LL_Fallback_TheX>그 {0}</LL_Fallback_TheX>
+  <LL_Fallback_TheChosenColonists>선택받은 정착민들</LL_Fallback_TheChosenColonists>
+  <LL_Fallback_UnknownFactionLower>알 수 없는 세력</LL_Fallback_UnknownFactionLower>
+  <LL_Fallback_MechanoidsLower>메카노이드</LL_Fallback_MechanoidsLower>
+  <LL_Fallback_InsectoidsLower>곤충 군락</LL_Fallback_InsectoidsLower>
+
+  <LL_Quadrum_Aprim>1분기</LL_Quadrum_Aprim>
+  <LL_Quadrum_Jugust>2분기</LL_Quadrum_Jugust>
+  <LL_Quadrum_Septober>3분기</LL_Quadrum_Septober>
+  <LL_Quadrum_Decembary>4분기</LL_Quadrum_Decembary>
+  <LL_Date_YearDay>{0}년 {1}일</LL_Date_YearDay>
+
+  <LL_Artifact_CreationStory_Relic>{0}(은)는 {1}의 성유물이며, 그 추종자들의 숭배를 받습니다.</LL_Artifact_CreationStory_Relic>
+  <LL_Artifact_CreationStory_Generic>{0}(은)는 장인 {1}의 손에서 탄생한 비범한 명작입니다. |{1}(이)가 전설이 될 운명을 지닌 {0}(을)를 제작했습니다. |{1}의 손을 거쳐 걸작인 {0}(이)가 세상에 나왔습니다. |{0}(은)는 {1}(이)가 제작했습니다. |{1}(이)가 {0}(을)를 완성하며 전설의 시작을 알렸습니다.</LL_Artifact_CreationStory_Generic>
+  <LL_Artifact_CreationStory_Prehistory>{0}(은)는 고대 전쟁의 불길 속에서 벼려졌습니다. |{0}(은)는 잊혀진 문명의 작업장에서 출현했습니다. |전설에 따르면 {0}(은)는 기억조차 나지 않는 아주 먼 옛날에 만들어졌다고 합니다. |{0}(은)는 구세계의 혹독한 시련 속에서 태어났습니다. |{0}의 기원은 신화 속에 가려져 있습니다.</LL_Artifact_CreationStory_Prehistory>
+  <LL_Artifact_Destroyed_Story>{0}(이)가 파괴되어 그 전설이 막을 내렸습니다. |{0}(이)가 산산조각 나 다시는 휘두를 수 없게 되었습니다. |{0}(이)가 불길에 휩싸여 영원히 소실되었습니다. |{0}(은)는 파괴되었고, 그 정수는 바람 속으로 흩어졌습니다.</LL_Artifact_Destroyed_Story>
+
+  <LL_RelationNeutral_Parent>부모</LL_RelationNeutral_Parent>
+  <LL_RelationNeutral_Child>자녀</LL_RelationNeutral_Child>
+  <LL_RelationNeutral_Sibling>형제자매</LL_RelationNeutral_Sibling>
+  <LL_RelationNeutral_Grandparent>조부모</LL_RelationNeutral_Grandparent>
+  <LL_RelationNeutral_Spouse>배우자</LL_RelationNeutral_Spouse>
+  <LL_RelationNeutral_Partner>연인</LL_RelationNeutral_Partner>
+
+  <LL_Origin_Player_Crashlanded_Title>{0}, 추락에서 생존함</LL_Origin_Player_Crashlanded_Title>
+  <LL_Origin_Player_Crashlanded_Details>{0}(은)는 {1} 추락 사고의 생존자 중 한 명이었습니다.</LL_Origin_Player_Crashlanded_Details>
+  <LL_Origin_Player_LostTribe_Title>{0}, 부족에 합류함</LL_Origin_Player_LostTribe_Title>
+  <LL_Origin_Player_Mechanitor_Title>{0}, 메카나이터로 각성함</LL_Origin_Player_Mechanitor_Title>
+  <LL_Origin_Player_Sanguophage_Title>{0}, 깊은 잠에서 깨어남</LL_Origin_Player_Sanguophage_Title>
+  <LL_Origin_Player_Odyssey_Title>{0}, 추격자들로부터 도망침</LL_Origin_Player_Odyssey_Title>
+
+  <LL_FigurePopup_AgePart>, 나이 {0}세</LL_FigurePopup_AgePart>
+  <LL_FigurePopup_Gender>성별: {0}</LL_FigurePopup_Gender>
+  <LL_FigurePopup_Race>종족: {0}</LL_FigurePopup_Race>
+  <LL_FigurePopup_Xenotype>제노타입: {0}</LL_FigurePopup_Xenotype>
+  <LL_FigurePopup_HasKilled>{0} 명의 {1}(을)를 처치함</LL_FigurePopup_HasKilled>
+  <LL_FigurePopup_KilledBy>{0}에게 살해당함</LL_FigurePopup_KilledBy>
+
+  <LL_Hilliness_Flatlands>평지</LL_Hilliness_Flatlands>
+  <LL_Hilliness_RollingHills>소형 언덕</LL_Hilliness_RollingHills>
+  <LL_Hilliness_RoughCountry>대형 언덕</LL_Hilliness_RoughCountry>
+  <LL_Hilliness_MountainSlopes>산지</LL_Hilliness_MountainSlopes>
+  <LL_Category_War>전쟁</LL_Category_War>
+  <LL_Category_Diplomacy>외교</LL_Category_Diplomacy>
+  <LL_Category_Trade>무역</LL_Category_Trade>
+  <LL_Category_Science>과학</LL_Category_Science>
+
+  <LL_Quality_Normal>보통</LL_Quality_Normal>
+  <LL_Quality_Excellent>상급</LL_Quality_Excellent>
+  <LL_Quality_Masterwork>완벽</LL_Quality_Masterwork>
+  <LL_Quality_Legendary>전설</LL_Quality_Legendary>
+  <LL_TechLevel_Neolithic>원시 시대</LL_TechLevel_Neolithic>
+  <LL_TechLevel_Industrial>산업 시대</LL_TechLevel_Industrial>
+  <LL_TechLevel_Spacer>우주세기</LL_TechLevel_Spacer>
+  <LL_TechLevel_Archotech>초월공학</LL_TechLevel_Archotech>
+
+  <LL_VE_Trade_MarketImpact_VeryHigh_Positive>변방계 전역의 가격이 폭등했습니다. |시장이 구매 광풍에 휩싸여 가격이 천정부지로 치솟았습니다. |가격이 폭발적으로 상승하자 상인들이 물자 비축에 나섰습니다.</LL_VE_Trade_MarketImpact_VeryHigh_Positive>
+  <LL_VE_Trade_MarketImpact_VeryHigh_Negative>시장이 처참하게 붕괴되었습니다. |공포 매수세가 무역망을 휩쓸며 가격이 급락했습니다. |파괴적인 시장 붕괴로 인해 해당 구역의 가치가 소멸되었습니다.</LL_VE_Trade_MarketImpact_VeryHigh_Negative>
+  <LL_VE_Trade_MarketClosing_High>이 경제적 여파는 앞으로 몇 분기 동안 지속될 것입니다. |무역로가 이전 상태를 완전히 회복하지 못할 수도 있습니다. |이 사건은 변방계 경제의 전환점으로 기억될 것입니다.</LL_VE_Trade_MarketClosing_High>
+</LanguageData>

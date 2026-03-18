@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_Psycast_Guidance.label>초능력 학습</SLP_Psycast_Guidance.label>
+  <SLP_Psycast_Guidance.description>학습을 위한 초능력</SLP_Psycast_Guidance.description>
+  <SLP_Psycast_EtherealBeauty.label>천상의 아름다움</SLP_Psycast_EtherealBeauty.label>
+  <SLP_Psycast_EtherealBeauty.description>초능력으로 유도된 시각적 아름다움.</SLP_Psycast_EtherealBeauty.description>
+  <SLP_Psycast_Command.label>초능력 명령</SLP_Psycast_Command.label>
+  <SLP_Psycast_Command.description>초능력으로 저하된 조작 능력.</SLP_Psycast_Command.description>
+  <SLP_Psycast_HealingBloom.label>초능력 치유의 꽃</SLP_Psycast_HealingBloom.label>
+  <SLP_Psycast_HealingBloom.description>초능력으로 유도된 회복 및 면역 체계 증폭</SLP_Psycast_HealingBloom.description>
+  <SLP_Psycast_ResonanceCaster.label>초능력 공명</SLP_Psycast_ResonanceCaster.label>
+  <SLP_Psycast_ResonanceCaster.description>초능력 수치 기부</SLP_Psycast_ResonanceCaster.description>
+  <SLP_Psycast_ResonanceTarget.label>초능력 공명</SLP_Psycast_ResonanceTarget.label>
+  <SLP_Psycast_ResonanceTarget.description>공명된 초능력 증폭</SLP_Psycast_ResonanceTarget.description>
+  <SLP_Psycast_CleanStride.label>청결한 발걸음</SLP_Psycast_CleanStride.label>
+  <SLP_Psycast_CleanStride.description>대상의 발밑에 연결된 도약문이 오물을 퍼뜨리기 전에 제거합니다.</SLP_Psycast_CleanStride.description>
+</LanguageData>

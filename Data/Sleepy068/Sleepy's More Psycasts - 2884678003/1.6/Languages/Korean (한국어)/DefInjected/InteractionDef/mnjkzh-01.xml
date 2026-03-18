@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_WordOfContempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef](이)가  [RECIPIENT_nameDef]에게 새로운 경쟁심을 느껴야 한다고 초능력으로 암시를 걸었습니다.</li>
+  </SLP_WordOfContempt.logRulesInitiator.rulesStrings>
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_PSY_Guidance.label>학습 인도</SLP_PSY_Guidance.label>
+  <SLP_PSY_Guidance.description>대상의 업무와 일상을 지도하고 조언을 건넵니다. 이를 통해 대상의 기술 습득 속도를 향상시킵니다.</SLP_PSY_Guidance.description>
+  <SLP_PSY_Resonance.label>공명</SLP_PSY_Resonance.label>
+  <SLP_PSY_Resonance.description>다른 초능력자와 정신적으로 연결되어 시전자의 초능력을 크게 약화시키는 대신 대상의 초능력을 대폭 증폭시킵니다.</SLP_PSY_Resonance.description>
+  <SLP_PSY_Extinguish.label>소화</SLP_PSY_Extinguish.label>
+  <SLP_PSY_Extinguish.description>대상 지역을 소방 거품으로 뒤덮어 불을 끄고 사람에게 붙은 불길도 제압합니다.</SLP_PSY_Extinguish.description>
+  <SLP_PSY_Command.label>무장해제</SLP_PSY_Command.label>
+  <SLP_PSY_Command.description>인간형 또는 메카노이드의 조작 능력을 마비시켜 무기를 떨어뜨리고 제대로 싸울 수 없게 강제합니다.</SLP_PSY_Command.description>
+  <SLP_PSY_EtherealBeauty.label>천상의 매력</SLP_PSY_EtherealBeauty.label>
+  <SLP_PSY_EtherealBeauty.description>초능력을 이용해 타인의 외형을 매우 아름답게 변화시킵니다. 이 변화는 며칠 뒤 사라집니다. 이미 뛰어난 외모를 가졌거나 외모에 관심이 없는 이들에게는 효과가 없습니다.</SLP_PSY_EtherealBeauty.description>
+  <SLP_PSY_HealingBloom.label>치유의 꽃</SLP_PSY_HealingBloom.label>
+  <SLP_PSY_HealingBloom.description>범위 내 모든 생명체의 몸 안에 공명 에너지장을 생성하여 신체의 손상 복구 능력과 감염 저항력을 높여줍니다.</SLP_PSY_HealingBloom.description>
+  <SLP_PSY_CleanStride.label>청결한 발걸음</SLP_PSY_CleanStride.label>
+  <SLP_PSY_CleanStride.description>대상의 발바닥이나 하부 구조에 소형 도약문을 연결하여 먼지와 이물질이 다른 표면에 퍼지기 전에 제거합니다. 이를 통해 대상이 평소보다 훨씬 적은 오물을 배출하게 합니다.</SLP_PSY_CleanStride.description>
+  <SLP_PSY_BeastBond.label>야수 결속</SLP_PSY_BeastBond.label>
+  <SLP_PSY_BeastBond.description>근처의 동물을 매혹하여 자신의 편에서 싸우도록 만듭니다.</SLP_PSY_BeastBond.description>
+  <SLP_PSY_GasPop.label>가스 분출</SLP_PSY_GasPop.label>
+  <SLP_PSY_GasPop.description>지면 아래의 독성 입자를 소환하여 자욱한 가스 구름을 만듭니다. 가스에 노출된 적은 눈과 폐에 화상을 입어 일시적으로 시력이 감소하고 호흡 곤란을 겪습니다.</SLP_PSY_GasPop.description>
+</LanguageData>

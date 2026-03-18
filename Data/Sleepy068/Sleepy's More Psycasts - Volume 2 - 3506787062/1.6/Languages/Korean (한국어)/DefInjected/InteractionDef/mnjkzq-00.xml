@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_INT_Guidance.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef](이)가  [RECIPIENT_nameDef]의 일상을 지도하고 조언하기 위한 초능력을 사용하였습니다.</li>
+  </SLP_INT_Guidance.logRulesInitiator.rulesStrings>
+</LanguageData>

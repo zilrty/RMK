@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BT_KindWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 다정한 말을 건넸습니다.</li>
+  </BT_KindWords.logRulesInitiator.rulesStrings>
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LevelUp.LevelUpActionsLabel>레벨업 효과</LevelUp.LevelUpActionsLabel>
+  <LevelUp.LevelDownActionsLabel>레벨다운 효과</LevelUp.LevelDownActionsLabel>
+  
+  <LevelUp.LevelUpActionHeaderDescription>활성화 시, 정착민의 기술 레벨이 오를 때 실행될 효과 목록입니다.</LevelUp.LevelUpActionHeaderDescription>
+  <LevelUp.LevelDownActionHeaderDescription>활성화 시, 정착민의 기술 레벨이 낮아질 때 실행될 효과 목록입니다.</LevelUp.LevelDownActionHeaderDescription>
+  
+  <LevelUp.HistoricalLabel>기록 보존</LevelUp.HistoricalLabel>
+  <LevelUp.HistoricalDescription>메시지를 기록 탭에 저장할지 여부를 결정합니다.</LevelUp.HistoricalDescription>
+  
+  <LevelUp.InjectableValuesLabel>삽입 가능한 값</LevelUp.InjectableValuesLabel>
+  <LevelUp.FormattingLabel>서식</LevelUp.FormattingLabel>
+  <LevelUp.FormattingBoldLabel>굵게</LevelUp.FormattingBoldLabel>
+  <LevelUp.FormattingItalicLabel>기울임꼴</LevelUp.FormattingItalicLabel>
+  <LevelUp.FormattingColorLabel>색상</LevelUp.FormattingColorLabel>
+  
+  <LevelUp.DefaultLevelUpMessage>&lt;color=orange&gt;{PAWN}&lt;/color&gt;의 {SKILL} 레벨이 {LEVEL}에 도달했습니다!</LevelUp.DefaultLevelUpMessage>
+  <LevelUp.DefaultLevelDownMessage>&lt;color=orange&gt;{PAWN}&lt;/color&gt;의 {SKILL} 레벨이 {LEVEL}(으)로 떨어졌습니다.</LevelUp.DefaultLevelDownMessage>
+  <LevelUp.DefaultLevelUpOverheadMessage>{SKILL}\n레벨 {LEVEL}</LevelUp.DefaultLevelUpOverheadMessage>
+  <LevelUp.DefaultLevelDownOverheadMessage>{SKILL}\n레벨 {LEVEL}</LevelUp.DefaultLevelDownOverheadMessage>
+</LanguageData>

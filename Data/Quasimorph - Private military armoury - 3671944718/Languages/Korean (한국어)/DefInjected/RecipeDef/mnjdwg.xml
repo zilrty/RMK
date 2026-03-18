@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=Make RGDー20 (Frag) grenades x10-->
+  <Make_QM_GR_RGD-20_Throwable.label>RGD-20 수류탄 (파쇄) 10개 제작</Make_QM_GR_RGD-20_Throwable.label>
+  <!--Original=Craft 10 RGDー20 grenades.-->
+  <Make_QM_GR_RGD-20_Throwable.description>RGD-20 수류탄 10개를 제작합니다.</Make_QM_GR_RGD-20_Throwable.description>
+  <!--Original=Crafting RGDー20-->
+  <Make_QM_GR_RGD-20_Throwable.jobString>RGD-20 수류탄 제작 중</Make_QM_GR_RGD-20_Throwable.jobString>
+  <!--Original=Make SSTー2 (Flashbang) grenades x10-->
+  <Make_QM_GR_SST-2_Throwable.label>SST-2 수류탄 (섬광) 10개 제작</Make_QM_GR_SST-2_Throwable.label>
+  <!--Original=Craft 10 SSTー2 grenades.-->
+  <Make_QM_GR_SST-2_Throwable.description>SST-2 수류탄 10개를 제작합니다.</Make_QM_GR_SST-2_Throwable.description>
+  <!--Original=Crafting SSTー2-->
+  <Make_QM_GR_SST-2_Throwable.jobString>SST-2 수류탄 제작 중</Make_QM_GR_SST-2_Throwable.jobString>
+  <!--Original=Make Mー24 (Incendiary) grenades x10-->
+  <Make_QM_GR_M-24_Throwable.label>M-24 수류탄 (소이) 10개 제작</Make_QM_GR_M-24_Throwable.label>
+  <!--Original=Craft 10 Mー24 grenades.-->
+  <Make_QM_GR_M-24_Throwable.description>M-24 수류탄 10개를 제작합니다.</Make_QM_GR_M-24_Throwable.description>
+  <!--Original=Crafting Mー24-->
+  <Make_QM_GR_M-24_Throwable.jobString>M-24 수류탄 제작 중</Make_QM_GR_M-24_Throwable.jobString>
+</LanguageData>

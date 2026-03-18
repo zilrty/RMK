@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_PSY_ArcticPinhole.label>북극구</SLP_PSY_ArcticPinhole.label>
+  <SLP_PSY_ArcticPinhole.description>북극의 혹한과 연결된 작은 구체가 주위의 열기를 빠른 속도로 빨아들여 주변 온도를 떨어뜨립니다.</SLP_PSY_ArcticPinhole.description>
+  <SLP_PSY_ImmunityBoost.label>면역력 증폭</SLP_PSY_ImmunityBoost.label>
+  <SLP_PSY_ImmunityBoost.description>체내의 항체 생성 속도를 높여 질병이나 독소로부터 더 빠르게 회복합니다.</SLP_PSY_ImmunityBoost.description>
+  <SLP_PSY_HealingBoost.label>회복력 증폭</SLP_PSY_HealingBoost.label>
+  <SLP_PSY_HealingBoost.description>신체 재생력을 가속하여 부상 회복 속도를 향상시킵니다.</SLP_PSY_HealingBoost.description>
+  <SLP_PSY_RegenMajor.label>신체 수복</SLP_PSY_RegenMajor.label>
+  <SLP_PSY_RegenMajor.description>정신 에너지로 신체 결손 및 약물 중독을 완벽히 수복합니다. 단 부위 한 곳만 수복하며 시술 후에는 후유증이 남습니다.</SLP_PSY_RegenMajor.description>
+  <SLP_PSY_FlashHeal.label>초가속 회복</SLP_PSY_FlashHeal.label>
+  <SLP_PSY_FlashHeal.description>부상 회복 속도를 한계치까지 높여 모든 상처를 순식간에 치유합니다.</SLP_PSY_FlashHeal.description>
+  <SLP_PSY_RegenMinor.label>흉터 말소</SLP_PSY_RegenMinor.label>
+  <SLP_PSY_RegenMinor.description>흉터 회복 속도를 가속하여 고통이 심한 흉터 한 부위를 천천히 회복시킵니다. 시술 후에는 후유증이 남습니다.</SLP_PSY_RegenMinor.description>
+  <SLP_PSY_Resurrect.label>부활</SLP_PSY_Resurrect.label>
+  <SLP_PSY_Resurrect.description>죽음에 이른 생명체를 부활시킬 만큼 강력한 정신 에너지를 투사합니다. 시전 시 막대한 반동이 뒤따릅니다.</SLP_PSY_Resurrect.description>
+  <SLP_PSY_CleanSkip.label>청소</SLP_PSY_CleanSkip.label>
+  <SLP_PSY_CleanSkip.description>지정한 구역의 모든 오물을 인근 항성의 핵으로 전송하여 즉각 소멸시킵니다.</SLP_PSY_CleanSkip.description>
+  <SLP_PSY_FertilitySkip.label>토양 개간</SLP_PSY_FertilitySkip.label>
+  <SLP_PSY_FertilitySkip.description>지면을 식물 재배가 가능한 토양으로 변환합니다. 반복 시전 시 토양 비옥도가 최대치까지 상승하며 물이나 인공 바닥에는 사용할 수 없습니다.</SLP_PSY_FertilitySkip.description>
+  <SLP_PSY_Haemostasis.label>지혈</SLP_PSY_Haemostasis.label>
+  <SLP_PSY_Haemostasis.description>출혈을 즉시 억제합니다. 단시간 동안 유지되는 응급 지혈 효과를 제공합니다.</SLP_PSY_Haemostasis.description>
+  <SLP_PSY_Ignite.label>점화</SLP_PSY_Ignite.label>
+  <SLP_PSY_Ignite.description>즉각적인 화재를 일으킵니다. 살아있는 사람이나 동물은 대상으로 지정할 수 없습니다.</SLP_PSY_Ignite.description>
+  <SLP_PSY_Recondition.label>수리</SLP_PSY_Recondition.label>
+  <SLP_PSY_Recondition.description>파손된 물체를 수리합니다. 물건을 완벽한 상태로 수리할 수는 없습니다.</SLP_PSY_Recondition.description>
+  <SLP_PSY_Interdiction.label>포획</SLP_PSY_Interdiction.label>
+  <SLP_PSY_Interdiction.description>대상을 시전자 옆으로 즉시 소환합니다. 거대 질량의 물체는 도약시킬 수 없습니다.</SLP_PSY_Interdiction.description>
+  <SLP_PSY_WordOfSleep.label>수면의 단어</SLP_PSY_WordOfSleep.label>
+  <SLP_PSY_WordOfSleep.description>상대에게 수면을 유도합니다. 대상의 피로도가 높을 경우 즉시 깊은 잠에 빠질 수 있습니다.</SLP_PSY_WordOfSleep.description>
+  <SLP_PSY_WordOfVigor.label>활력의 단어</SLP_PSY_WordOfVigor.label>
+  <SLP_PSY_WordOfVigor.description>상대에게 활력을 불어 넣습니다. 수면욕구가 채워집니다.</SLP_PSY_WordOfVigor.description>
+  <SLP_PSY_Skipscreen.label>고각 보호막</SLP_PSY_Skipscreen.label>
+  <SLP_PSY_Skipscreen.description>박격포탄과 같은 고각 투사체를 공중 폭파시키는 보호막을 생성합니다. 생명체는 영향을 받지 않습니다.</SLP_PSY_Skipscreen.description>
+  <SLP_PSY_PotentialUnleashed.label>잠재력 폭발</SLP_PSY_PotentialUnleashed.label>
+  <SLP_PSY_PotentialUnleashed.description>잠재력을 폭발시켜 초인적 괴력과 통증 내성을 부여합니다. 효과 종료 후 대상의 신체는 심각한 손상을 입습니다.</SLP_PSY_PotentialUnleashed.description>
+  <SLP_PSY_Dash.label>질주</SLP_PSY_Dash.label>
+  <SLP_PSY_Dash.description>일시적으로 이동속도를 향상시킵니다.</SLP_PSY_Dash.description>
+  <SLP_PSY_WordOfContempt.label>경멸의 단어</SLP_PSY_WordOfContempt.label>
+  <SLP_PSY_WordOfContempt.description>정신적 암시로 타인에 대한 혐오와 적개심을 심습니다. 시전자 자신을 증오하게 만드는 용도로도 사용 가능합니다.</SLP_PSY_WordOfContempt.description>
+  <SLP_PSY_Calm.label>안정의 단어</SLP_PSY_Calm.label>
+  <SLP_PSY_Calm.description>대상의 안정을 유도합니다. 지적 능력 저하 없이 기분을 개선하지만 시전자 자신에게는 효과가 없습니다.</SLP_PSY_Calm.description>
+  <SLP_PSY_MassBeckon.label>광역 유도</SLP_PSY_MassBeckon.label>
+  <SLP_PSY_MassBeckon.description>영역 내의 모든 대상을 시전자에게 유도합니다.</SLP_PSY_MassBeckon.description>
+  <SLP_PSY_MassBurden.label>광역 둔화</SLP_PSY_MassBurden.label>
+  <SLP_PSY_MassBurden.description>뇌의 운동 중추 기능을 일시적으로 억제하여, 좁은 범위 내에 있는 모든 대상의 움직임을 둔화시킵니다.</SLP_PSY_MassBurden.description>
+  <SLP_PSY_StunPulse.label>쇼크</SLP_PSY_StunPulse.label>
+  <SLP_PSY_StunPulse.description>범위 내 대상들의 뇌 신경을 순간적으로 차단하여 일시적으로 기절시킵니다.</SLP_PSY_StunPulse.description>
+  <SLP_PSY_Flashstep.label>순간도약</SLP_PSY_Flashstep.label>
+  <SLP_PSY_Flashstep.description>엄청난 속도로 순간이동 합니다. 추격이나 도주에 최적화되어 있으며 시전자 본인만 지정할 수 있습니다.</SLP_PSY_Flashstep.description>
+  <SLP_PSY_Skipstep.label>섬광도약</SLP_PSY_Skipstep.label>
+  <SLP_PSY_Skipstep.description>엄청난 속도로 순간이동 합니다. 순간도약 초능력 보다 더 먼거리를 이동할 수 있으며, 시전자 본인만 지정할 수 있습니다.</SLP_PSY_Skipstep.description>
+  <SLP_PSY_ComfortShield.label>열 보호막</SLP_PSY_ComfortShield.label>
+  <SLP_PSY_ComfortShield.description>대상에게 열 보호막을 형성하여 극한의 고온 및 저온 환경을 극복할 수 있게 해줍니다.</SLP_PSY_ComfortShield.description>
+  <SLP_PSY_Engulf.label>소각</SLP_PSY_Engulf.label>
+  <SLP_PSY_Engulf.description>별의 중심부 에너지를 전송하여 목표 지점에 투사합니다. 폭발적인 열기가 발생합니다.</SLP_PSY_Engulf.description>
+  <SLP_PSY_Dart.label>궤도 유도</SLP_PSY_Dart.label>
+  <SLP_PSY_Dart.description>우주 물체의 궤도를 수정하여 지정된 위치에 낙하시킵니다. 정밀한 충돌 유도와 하강 제어를 통해 함선 잔해나 운석을 안전하게 수급할 수 있지만 긴 영창 시간이 필요합니다.</SLP_PSY_Dart.description>
+  <SLP_PSY_EndoPinhole.label>흡열구</SLP_PSY_EndoPinhole.label>
+  <SLP_PSY_EndoPinhole.description>주변 열기를 흡수하는 흡열 구체를 생성합니다. 해당 구역을 극한으로 냉각시킵니다.</SLP_PSY_EndoPinhole.description>
+  <SLP_SupernovaPinhole.label>거대태양구</SLP_SupernovaPinhole.label>
+  <SLP_SupernovaPinhole.description>태양열의 에너지를 끌어오는 구체를 생성합니다. 지속적인 빛과 열을 공급하여 식물 성장을 돕고 주변 기온을 상승시킵니다.</SLP_SupernovaPinhole.description>
+  <SLP_PSY_WordOfFriendship.label>우정의 단어</SLP_PSY_WordOfFriendship.label>
+  <SLP_PSY_WordOfFriendship.description>타인에 대한 신뢰와 이해심을 주입합니다. 관계 개선 및 유대 형성을 비약적으로 촉진하며 시전자 자신에게도 적용 가능합니다.</SLP_PSY_WordOfFriendship.description>
+  <SLP_PSY_Brickgate.label>벽돌가공</SLP_PSY_Brickgate.label>
+  <SLP_PSY_Brickgate.description>바위를 벽돌로 가공합니다. 가공 과정에서 재료 손실이 발생하여 수확량이 떨어집니다.</SLP_PSY_Brickgate.description>
+  <SLP_PSY_Chemskip.label>화학연료가공</SLP_PSY_Chemskip.label>
+  <SLP_PSY_Chemskip.description>시체를 화학 연료로 변환합니다. 시체의 보존 상태가 좋을수록 더 많은 연료를 얻을 수 있습니다.</SLP_PSY_Chemskip.description>
+  <SLP_PSY_StaticBurst.label>전기 폭발</SLP_PSY_StaticBurst.label>
+  <SLP_PSY_StaticBurst.description>강력한 전기 폭발을 일으킵니다. 기계 장치를 일시 무력화하고 모든 EMP 보호막을 즉시 고갈시킵니다.</SLP_PSY_StaticBurst.description>
+  <SLP_PSY_Superskip.label>초월도약</SLP_PSY_Superskip.label>
+  <SLP_PSY_Superskip.description>시야와 구조물의 제약을 무시하고 순간이동 합니다. 범위 내 구역에 어디든지 도약시킬 수 있습니다.</SLP_PSY_Superskip.description>
+  <SLP_PSY_Revitalise.label>신체 재생</SLP_PSY_Revitalise.label>
+  <SLP_PSY_Revitalise.description>신체 내부에서 서서히 방출되는 재생 에너지가 결손 부위와 흉터를 완벽히 수복합니다. 질병과 중독은 치료할 수 없으며 가동 시간이 길어질수록 극심한 피로와 누적된 거부 반응이 뒤따릅니다.</SLP_PSY_Revitalise.description>
+  <SLP_PSY_Energise.label>기계 충전</SLP_PSY_Energise.label>
+  <SLP_PSY_Energise.description>정신력을 고밀도 전류로 치환하여 메카노이드의 배터리를 즉시 수급합니다. 전장의 기계 병기들을 다시 가동시키는 초능력 발전기 역할을 수행합니다.</SLP_PSY_Energise.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_EngulfCast.label>소각</SLP_EngulfCast.label>
+  <SLP_StaticBurstCast.label>전기 폭발</SLP_StaticBurstCast.label>
+  <SLP_ETH_ArcticPinhole.label>북극구</SLP_ETH_ArcticPinhole.label>
+  <SLP_ETH_EndothermicPinhole.label>흡열구</SLP_ETH_EndothermicPinhole.label>
+  <SLP_ETH_SupernovaPinhole.label>거대태양구</SLP_ETH_SupernovaPinhole.label>
+  <SLP_MortarShieldPsychic.label>고각 보호막</SLP_MortarShieldPsychic.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SenseOfBelonging>소속감</SenseOfBelonging>
+  
+  <PainShockScale>고통 한계 계수: {0}</PainShockScale>
+  <WorkSpeedScale>전역 작업 속도 계수: {0}</WorkSpeedScale>
+  <MentalBreakScale>정신 붕괴 임계치 계수: {0}</MentalBreakScale>
+  <MoveSpeedScale>이동 속도 계수: {0}</MoveSpeedScale>
+  <MoodEffectScale>기분 영향 계수: {0}</MoodEffectScale>
+  
+  <PrisonersAndSlavesAffectColonists>죄수 및 노예가 정착민에게 영향 미침</PrisonersAndSlavesAffectColonists>
+  <ResetToDefaultValue>기본값으로 초기화</ResetToDefaultValue>
+</LanguageData>

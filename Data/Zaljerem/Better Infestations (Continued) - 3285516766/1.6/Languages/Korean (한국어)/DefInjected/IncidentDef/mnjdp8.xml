@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BI_SwarmingHorde.label>몰려드는 군단</BI_SwarmingHorde.label>
+  <BI_SwarmingHorde.letterLabel>몰려드는 군단</BI_SwarmingHorde.letterLabel>
+  <BI_SwarmingHorde.letterText>이 지역의 곤충 번식이 통제 불능 상태에 빠졌습니다! 곤충들이 압도적인 세력으로 정착지를 향해 몰려오고 있습니다. 공격에 대비하십시오!\n\n곤충들의 적대감이 한계를 돌파했습니다. 마치 스위치가 켜진 것만 같습니다. 아마도 군락이 일정 규모 이상 커지면 활성화되도록 유전적으로 설계된 것일지도 모릅니다. 이유가 무엇이든, 이제 생존을 건 사투가 시작됩니다.</BI_SwarmingHorde.letterText>
+
+  <BI_WorldInfestation.label>범세계적 곤충 발생</BI_WorldInfestation.label>
+  <BI_WorldInfestation.letterLabel>범세계적 곤충 발생</BI_WorldInfestation.letterLabel>
+  <BI_WorldInfestation.letterText>거대한 곤충 군락지가 발견되었습니다!\n\n이 곤충들은 계속해서 자라나는 위협이며, 언젠가는 반드시 처리해야만 합니다.</BI_WorldInfestation.letterText>
+
+  <BI_InsectRaid.label>곤충 습격</BI_InsectRaid.label>
+</LanguageData>

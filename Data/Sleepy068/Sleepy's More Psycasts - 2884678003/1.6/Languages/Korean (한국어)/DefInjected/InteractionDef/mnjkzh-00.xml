@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_WordOfSleep.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef](이)가 사이킥으로 [RECIPIENT_nameDef](을)를 진정시켜 따뜻하고 나른하며 당장이라도 잠들 준비가 된 편안한 상태로 만들었습니다.</li>
+  </SLP_WordOfSleep.logRulesInitiator.rulesStrings>
+</LanguageData>

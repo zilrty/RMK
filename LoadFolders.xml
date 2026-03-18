@@ -71,6 +71,7 @@
     <li IfModActive="Andromeda.NiceBillTab">Data/Andromeda/Nice Bill Tab - 3520130671</li>
     <li IfModActive="Andromeda.NiceHealthTab">Data/Andromeda/Nice Health Tab - 3328729902</li>
     <li IfModActive="Andromeda.NiceInventoryTab">Data/Andromeda/Nice Inventory Tab - 3609897594/1.6</li>
+    <li IfModActive="Andromeda.NicePlantsMenu">Data/Andromeda/Nice Plants Menu - 3685058533/1.6</li>
     <li IfModActive="Andromeda.PackableContainers">Data/Andromeda/Packable Containers - 3079237715</li>
     <li IfModActive="Andromeda.PawnQuickInfo">Data/Andromeda/Pawn quick info - 3078081326</li>
     <li IfModActive="Andromeda.StackGap">Data/Andromeda/Stack gap - 3071298014/1.4</li>
@@ -112,6 +113,7 @@
     <li IfModActive="Aoba.DeadManSwitch.Core">Data/AOBA/DMS/The Dead Man's Switch - 3121742525/1.5</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
+    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="Aoba.DeadManSwitch.MobileDragoon">Data/AOBA/DMS/The Dead Man's Switch - MobileDragoon - 3377130226/1.5</li>
@@ -949,6 +951,9 @@
     <li IfModActive="SirMashedPotato.Tortie">Data/SirMashedPotato/No Gimmicks, Just Tortie - 2716588602</li>
     <li IfModActive="SirMashedPotato.QuestingMeme">Data/SirMashedPotato/Questing Meme - 2826539854/1.3</li>
     <li IfModActive="SirMashedPotato.BlackPlague">Data/SirMashedPotato/RimWorld - Black Plague - 2798827353</li>
+    <li IfModActive="sleepy068.morepsycasts">Data/Sleepy068/Sleepy's More Psycasts - 2884678003/1.6</li>
+    <li IfModActive="sleepy068.morepsycastsvol2">Data/Sleepy068/Sleepy's More Psycasts - Volume 2 - 3506787062/1.6</li>
+    <li IfModActive="sleepy068.morepsycastsvol3">Data/Sleepy068/Sleepy's More Psycasts - Volume 3 - 3506798060/1.6</li>
     <li IfModActive="Sov.VisanderHedge">Data/Sovereign/Blooming hedges - 3146921182</li>
     <li IfModActive="Sovereign.Burger">Data/Sovereign/BurgerBaron - 3382704766</li>
     <li IfModActive="sovereign.fishhuman">Data/Sovereign/Fishhumans - 2810086136</li>
@@ -1054,6 +1059,7 @@
     <li IfModActive="VanillaExpanded.VFECore">Data/Vanilla Expanded/Vanilla Furniture Expanded - 1718190143</li>
     <li IfModActive="VanillaExpanded.VFEArchitect">Data/Vanilla Expanded/Vanilla Furniture Expanded - Architect - 2608762624</li>
     <li IfModActive="VanillaExpanded.VFEArt">Data/Vanilla Expanded/Vanilla Furniture Expanded - Art - 1968134023</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Data/Vanilla Expanded/Vanilla Furniture Expanded - Factory - 3686924415/1.6</li>
     <li IfModActive="VanillaExpanded.VFEFarming">Data/Vanilla Expanded/Vanilla Furniture Expanded - Farming - 1957158779</li>
     <li IfModActive="VanillaExpanded.VFEMedical">Data/Vanilla Expanded/Vanilla Furniture Expanded - Medical Module - 1718191613</li>
     <li IfModActive="VanillaExpanded.VFEPower">Data/Vanilla Expanded/Vanilla Furniture Expanded - Power - 2062943477</li>
@@ -1103,7 +1109,7 @@
     <li IfModActive="VanillaExpanded.Recycling">Data/Vanilla Expanded/Vanilla Recycling Expanded - 3155781848</li>
     <li IfModActive="vanillaexpanded.skills">Data/Vanilla Expanded/Vanilla Skills Expanded - 2854967442</li>
     <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Data/Vanilla Expanded/Vanilla Social Interactions Expanded - 2439736083</li>
-    <li IfModActive="vanillastorytellersexpanded.winstonwaves">Data/Vanilla Expanded/Vanilla Storytellers Expanded - Winston Waves - 2734032569</li>
+    <li IfModActive="vanillastorytellersexpanded.winstonwaves">Data/Vanilla Expanded/Vanilla Storytellers Expanded - Winston Waves - 2734032569/1.4</li>
     <li IfModActive="VanillaExpanded.Temperature">Data/Vanilla Expanded/Vanilla Temperature Expanded - 3202046258</li>
     <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Data/Vanilla Expanded/Vanilla Trading Expanded - 2785616901</li>
     <li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Data/Vanilla Expanded/Vanilla Traits Expanded - 2296404655</li>
@@ -1180,6 +1186,7 @@
     <li IfModActive="zal.AbMoCa">Data/Zaljerem/Absolutely More Cannons (Continued) - 2936756351</li>
     <li IfModActive="zal.advancedelectricstove">Data/Zaljerem/Advanced Electric Stove (Continued) - 3028378705</li>
     <li IfModActive="zal.archotechweaponry">Data/Zaljerem/Archotech Weaponry (Continued) - 3312021019</li>
+    <li IfModActive="zal.betterinfestations">Data/Zaljerem/Better Infestations (Continued) - 3285516766/1.6</li>
     <li IfModActive="zal.blood2hemogen">Data/Zaljerem/Blood to Hemogen - 2975285830</li>
     <li IfModActive="zal.clones">Data/Zaljerem/Clones (Continued) - 3345952961/1.6</li>
     <li IfModActive="zal.cruisemissiles">Data/Zaljerem/Cruise Missiles (Continued) - 2888776971</li>
@@ -1272,6 +1279,7 @@
     <li IfModActive="mingtuwuxiang.FishingDecorative">Data/[MUS]捕鱼装饰 FishingDecorative - 2981211719</li>
     <li IfModActive="Oganesson.Shield_Core_Expanded">Data/[Og]Shield Core Expanded - 2919831549</li>
     <li IfModActive="Pisutatio.AnimaTreePet">Data/[Pisutatio]Anima Tree Pet - 3415778517/1.6</li>
+    <li IfModActive="Pisutatio.ArcheanTreePet">Data/[Pisutatio]Archean Tree Pet - 3587985535/1.6</li>
     <li IfModActive="tradingpost.programmerlily.com">Data/[PL] Trading Spot - 3507108484</li>
     <li IfModActive="QW.ColoredRoomStats">Data/[QW] Colored Room Stats - 3079295527</li>
     <li IfModActive="qw.archotechimplantsexpanded">Data/[QW]超凡仿生体扩展 - 2897859020</li>
@@ -1449,6 +1457,7 @@
     <li IfModActive="Mavis.bandwidthimplant">Data/Bandwidth Implant - 3023457818</li>
     <li IfModActive="TheSpyPie.BarbedWire">Data/Barbed Wire - 1552418917</li>
     <li IfModActive="iluvsilicon.basicmedicine2">Data/Basic Medicine - 2495501601</li>
+    <li IfModActive="Stefanlog.BasicTraits">Data/Basic Traits - 3600443734/1.6</li>
     <li IfModActive="Scurvyez.Bastyon">Data/Bastyon - 2479431577</li>
     <li IfModActive="HellRevenger.BatchInstall">Data/Batch Install - 3248501544</li>
     <li IfModActive="BattIeBear.BattIePatch.SilenceIsGolden">Data/BattIePatch Psychic Silence Is Golden - 3513365232</li>
@@ -1917,10 +1926,12 @@
     <li IfModActive="erok.lanterns">Data/Lanterns - 2711383738</li>
     <li IfModActive="cucumpear.animalbeds">Data/Large Animal Beds - 1111387020</li>
     <li IfModActive="Keshash.LayeredWallDestruction">Data/Layered Wall Destruction - 3024527775</li>
+    <li IfModActive="RockPaperRemote.LegendsLedger">Data/Legends Ledger - 3642805704/1.6</li>
     <li IfModActive="Archaon.Primarch">Data/Legiones Astartes Primarch - 2112351467</li>
     <li IfModActive="BulletMagnet.PSSLessLethalDefenceSystem">Data/Less-Lethal Defence System - 2383958584</li>
     <li IfModActive="akairo.letshaveacat">Data/Let's Have a Cat! - 1629060163</li>
     <li IfModActive="zhrocks11.letstrade_copy">Data/Let's Trade! - 2373633407</li>
+    <li IfModActive="Krafs.LevelUp">Data/Level Up! - 1701592470/1.6</li>
     <li IfModActive="GhostData.lifelessons">Data/Life Lessons - 2920678419/1.4</li>
     <li IfModActive="GhostData.lifelessons.medicalmishaps">Data/Life Lessons Medical Mishaps - 3234804958</li>
     <li IfModActive="goudaquiche.lighterthanfast">Data/Lighter Than Fast - 1240656304</li>
@@ -2216,6 +2227,9 @@
     <li IfModActive="tr.qualcolor">Data/Quality Colors 1.5 - Forked - 3224462440</li>
     <li IfModActive="telardo.QualityOverlay">Data/Quality Overlay - 2568283376</li>
     <li IfModActive="hatti.qualitybuilder">Data/QualityBuilder - 754637870</li>
+    <li IfModActive="SGG1.QM">Data/Quasimorph - Main - 3223161787/1.6</li>
+    <li IfModActive="SGG1.QPMA">Data/Quasimorph - Private military armoury - 3671944718/1.6</li>
+    <li IfModActive="SGG1.QRA.V2">Data/Quasimorph - Realware™ armoury - 3673281876/1.6</li>
     <li IfModActive="Mario.QEE">Data/Questionable Ethics Enhanced - 2566962342</li>
     <li IfModActive="longwater.smartstockpilecreation">Data/Quick Stockpile Creation - 1742151109/1.6</li>
     <li IfModActive="seos.m.r.racef">Data/Race - Faifox - 2885739717</li>
@@ -2364,6 +2378,7 @@
     <li IfModActive="fxz.selectsimilar">Data/Select Similar - 3349675904</li>
     <li IfModActive="FlashPoint55.Selfreloadingtraps">Data/Self reloading traps - 1820959221</li>
     <li IfModActive="CaptainMuscles.SemiRandomResearch.unofficial">Data/Semi Random Research (Unofficial) - 2879094186</li>
+    <li IfModActive="JL.SenseOfBelonging">Data/Sense of belonging - 3617633070/1.6</li>
     <li IfModActive="sicefe.senseofdepth">Data/Sense Of Depth For Tall Buildings - 3246956515</li>
     <li IfModActive="Artemiish.ServiceWeapon">Data/Service Weapon - 3241019541</li>
     <li IfModActive="syrchalis.setupcamp">Data/Set Up Camp - 3234938357</li>
@@ -2678,6 +2693,7 @@
     <li IfModActive="Andromeda.NiceBillTab">Data/Andromeda/Nice Bill Tab - 3520130671</li>
     <li IfModActive="Andromeda.NiceHealthTab">Data/Andromeda/Nice Health Tab - 3328729902</li>
     <li IfModActive="Andromeda.NiceInventoryTab">Data/Andromeda/Nice Inventory Tab - 3609897594/1.6</li>
+    <li IfModActive="Andromeda.NicePlantsMenu">Data/Andromeda/Nice Plants Menu - 3685058533/1.6</li>
     <li IfModActive="Andromeda.PackableContainers">Data/Andromeda/Packable Containers - 3079237715</li>
     <li IfModActive="Andromeda.PawnQuickInfo">Data/Andromeda/Pawn quick info - 3078081326</li>
     <li IfModActive="Andromeda.StackGap">Data/Andromeda/Stack gap - 3071298014/1.4</li>
@@ -2719,6 +2735,7 @@
     <li IfModActive="Aoba.DeadManSwitch.Core">Data/AOBA/DMS/The Dead Man's Switch - 3121742525/1.5</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
+    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="Aoba.DeadManSwitch.MobileDragoon">Data/AOBA/DMS/The Dead Man's Switch - MobileDragoon - 3377130226/1.5</li>
@@ -3556,6 +3573,9 @@
     <li IfModActive="SirMashedPotato.Tortie">Data/SirMashedPotato/No Gimmicks, Just Tortie - 2716588602</li>
     <li IfModActive="SirMashedPotato.QuestingMeme">Data/SirMashedPotato/Questing Meme - 2826539854/1.3</li>
     <li IfModActive="SirMashedPotato.BlackPlague">Data/SirMashedPotato/RimWorld - Black Plague - 2798827353</li>
+    <li IfModActive="sleepy068.morepsycasts">Data/Sleepy068/Sleepy's More Psycasts - 2884678003/1.6</li>
+    <li IfModActive="sleepy068.morepsycastsvol2">Data/Sleepy068/Sleepy's More Psycasts - Volume 2 - 3506787062/1.6</li>
+    <li IfModActive="sleepy068.morepsycastsvol3">Data/Sleepy068/Sleepy's More Psycasts - Volume 3 - 3506798060/1.6</li>
     <li IfModActive="Sov.VisanderHedge">Data/Sovereign/Blooming hedges - 3146921182</li>
     <li IfModActive="Sovereign.Burger">Data/Sovereign/BurgerBaron - 3382704766</li>
     <li IfModActive="sovereign.fishhuman">Data/Sovereign/Fishhumans - 2810086136</li>
@@ -3661,6 +3681,7 @@
     <li IfModActive="VanillaExpanded.VFECore">Data/Vanilla Expanded/Vanilla Furniture Expanded - 1718190143</li>
     <li IfModActive="VanillaExpanded.VFEArchitect">Data/Vanilla Expanded/Vanilla Furniture Expanded - Architect - 2608762624</li>
     <li IfModActive="VanillaExpanded.VFEArt">Data/Vanilla Expanded/Vanilla Furniture Expanded - Art - 1968134023</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Data/Vanilla Expanded/Vanilla Furniture Expanded - Factory - 3686924415/1.6</li>
     <li IfModActive="VanillaExpanded.VFEFarming">Data/Vanilla Expanded/Vanilla Furniture Expanded - Farming - 1957158779</li>
     <li IfModActive="VanillaExpanded.VFEMedical">Data/Vanilla Expanded/Vanilla Furniture Expanded - Medical Module - 1718191613</li>
     <li IfModActive="VanillaExpanded.VFEPower">Data/Vanilla Expanded/Vanilla Furniture Expanded - Power - 2062943477</li>
@@ -3710,7 +3731,7 @@
     <li IfModActive="VanillaExpanded.Recycling">Data/Vanilla Expanded/Vanilla Recycling Expanded - 3155781848</li>
     <li IfModActive="vanillaexpanded.skills">Data/Vanilla Expanded/Vanilla Skills Expanded - 2854967442</li>
     <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Data/Vanilla Expanded/Vanilla Social Interactions Expanded - 2439736083</li>
-    <li IfModActive="vanillastorytellersexpanded.winstonwaves">Data/Vanilla Expanded/Vanilla Storytellers Expanded - Winston Waves - 2734032569</li>
+    <li IfModActive="vanillastorytellersexpanded.winstonwaves">Data/Vanilla Expanded/Vanilla Storytellers Expanded - Winston Waves - 2734032569/1.4</li>
     <li IfModActive="VanillaExpanded.Temperature">Data/Vanilla Expanded/Vanilla Temperature Expanded - 3202046258</li>
     <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Data/Vanilla Expanded/Vanilla Trading Expanded - 2785616901</li>
     <li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Data/Vanilla Expanded/Vanilla Traits Expanded - 2296404655</li>
@@ -3787,6 +3808,7 @@
     <li IfModActive="zal.AbMoCa">Data/Zaljerem/Absolutely More Cannons (Continued) - 2936756351</li>
     <li IfModActive="zal.advancedelectricstove">Data/Zaljerem/Advanced Electric Stove (Continued) - 3028378705</li>
     <li IfModActive="zal.archotechweaponry">Data/Zaljerem/Archotech Weaponry (Continued) - 3312021019</li>
+    <li IfModActive="zal.betterinfestations">Data/Zaljerem/Better Infestations (Continued) - 3285516766/1.6</li>
     <li IfModActive="zal.blood2hemogen">Data/Zaljerem/Blood to Hemogen - 2975285830</li>
     <li IfModActive="zal.clones">Data/Zaljerem/Clones (Continued) - 3345952961/1.6</li>
     <li IfModActive="zal.cruisemissiles">Data/Zaljerem/Cruise Missiles (Continued) - 2888776971</li>
@@ -3879,6 +3901,7 @@
     <li IfModActive="mingtuwuxiang.FishingDecorative">Data/[MUS]捕鱼装饰 FishingDecorative - 2981211719</li>
     <li IfModActive="Oganesson.Shield_Core_Expanded">Data/[Og]Shield Core Expanded - 2919831549</li>
     <li IfModActive="Pisutatio.AnimaTreePet">Data/[Pisutatio]Anima Tree Pet - 3415778517/1.6</li>
+    <li IfModActive="Pisutatio.ArcheanTreePet">Data/[Pisutatio]Archean Tree Pet - 3587985535/1.6</li>
     <li IfModActive="tradingpost.programmerlily.com">Data/[PL] Trading Spot - 3507108484</li>
     <li IfModActive="QW.ColoredRoomStats">Data/[QW] Colored Room Stats - 3079295527</li>
     <li IfModActive="qw.archotechimplantsexpanded">Data/[QW]超凡仿生体扩展 - 2897859020</li>
@@ -4056,6 +4079,7 @@
     <li IfModActive="Mavis.bandwidthimplant">Data/Bandwidth Implant - 3023457818</li>
     <li IfModActive="TheSpyPie.BarbedWire">Data/Barbed Wire - 1552418917</li>
     <li IfModActive="iluvsilicon.basicmedicine2">Data/Basic Medicine - 2495501601</li>
+    <li IfModActive="Stefanlog.BasicTraits">Data/Basic Traits - 3600443734/1.6</li>
     <li IfModActive="Scurvyez.Bastyon">Data/Bastyon - 2479431577</li>
     <li IfModActive="HellRevenger.BatchInstall">Data/Batch Install - 3248501544</li>
     <li IfModActive="BattIeBear.BattIePatch.SilenceIsGolden">Data/BattIePatch Psychic Silence Is Golden - 3513365232</li>
@@ -4523,10 +4547,12 @@
     <li IfModActive="erok.lanterns">Data/Lanterns - 2711383738</li>
     <li IfModActive="cucumpear.animalbeds">Data/Large Animal Beds - 1111387020</li>
     <li IfModActive="Keshash.LayeredWallDestruction">Data/Layered Wall Destruction - 3024527775</li>
+    <li IfModActive="RockPaperRemote.LegendsLedger">Data/Legends Ledger - 3642805704/1.6</li>
     <li IfModActive="Archaon.Primarch">Data/Legiones Astartes Primarch - 2112351467</li>
     <li IfModActive="BulletMagnet.PSSLessLethalDefenceSystem">Data/Less-Lethal Defence System - 2383958584</li>
     <li IfModActive="akairo.letshaveacat">Data/Let's Have a Cat! - 1629060163</li>
     <li IfModActive="zhrocks11.letstrade_copy">Data/Let's Trade! - 2373633407</li>
+    <li IfModActive="Krafs.LevelUp">Data/Level Up! - 1701592470/1.6</li>
     <li IfModActive="GhostData.lifelessons">Data/Life Lessons - 2920678419/1.4</li>
     <li IfModActive="GhostData.lifelessons.medicalmishaps">Data/Life Lessons Medical Mishaps - 3234804958</li>
     <li IfModActive="goudaquiche.lighterthanfast">Data/Lighter Than Fast - 1240656304</li>
@@ -4823,6 +4849,9 @@
     <li IfModActive="tr.qualcolor">Data/Quality Colors 1.5 - Forked - 3224462440</li>
     <li IfModActive="telardo.QualityOverlay">Data/Quality Overlay - 2568283376</li>
     <li IfModActive="hatti.qualitybuilder">Data/QualityBuilder - 754637870</li>
+    <li IfModActive="SGG1.QM">Data/Quasimorph - Main - 3223161787/1.6</li>
+    <li IfModActive="SGG1.QPMA">Data/Quasimorph - Private military armoury - 3671944718/1.6</li>
+    <li IfModActive="SGG1.QRA.V2">Data/Quasimorph - Realware™ armoury - 3673281876/1.6</li>
     <li IfModActive="Mario.QEE">Data/Questionable Ethics Enhanced - 2566962342</li>
     <li IfModActive="longwater.smartstockpilecreation">Data/Quick Stockpile Creation - 1742151109/1.6</li>
     <li IfModActive="seos.m.r.racef">Data/Race - Faifox - 2885739717</li>
@@ -4971,6 +5000,7 @@
     <li IfModActive="fxz.selectsimilar">Data/Select Similar - 3349675904</li>
     <li IfModActive="FlashPoint55.Selfreloadingtraps">Data/Self reloading traps - 1820959221</li>
     <li IfModActive="CaptainMuscles.SemiRandomResearch.unofficial">Data/Semi Random Research (Unofficial) - 2879094186</li>
+    <li IfModActive="JL.SenseOfBelonging">Data/Sense of belonging - 3617633070/1.6</li>
     <li IfModActive="sicefe.senseofdepth">Data/Sense Of Depth For Tall Buildings - 3246956515</li>
     <li IfModActive="Artemiish.ServiceWeapon">Data/Service Weapon - 3241019541</li>
     <li IfModActive="syrchalis.setupcamp">Data/Set Up Camp - 3234938357</li>
@@ -5285,6 +5315,7 @@
     <li IfModActive="Andromeda.NiceBillTab">Data/Andromeda/Nice Bill Tab - 3520130671</li>
     <li IfModActive="Andromeda.NiceHealthTab">Data/Andromeda/Nice Health Tab - 3328729902</li>
     <li IfModActive="Andromeda.NiceInventoryTab">Data/Andromeda/Nice Inventory Tab - 3609897594/1.6</li>
+    <li IfModActive="Andromeda.NicePlantsMenu">Data/Andromeda/Nice Plants Menu - 3685058533/1.6</li>
     <li IfModActive="Andromeda.PackableContainers">Data/Andromeda/Packable Containers - 3079237715</li>
     <li IfModActive="Andromeda.PawnQuickInfo">Data/Andromeda/Pawn quick info - 3078081326</li>
     <li IfModActive="Andromeda.StackGap">Data/Andromeda/Stack gap - 3071298014/1.5</li>
@@ -5326,6 +5357,7 @@
     <li IfModActive="Aoba.DeadManSwitch.Core">Data/AOBA/DMS/The Dead Man's Switch - 3121742525/1.5</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
+    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="Aoba.DeadManSwitch.MobileDragoon">Data/AOBA/DMS/The Dead Man's Switch - MobileDragoon - 3377130226/1.5</li>
@@ -6163,6 +6195,9 @@
     <li IfModActive="SirMashedPotato.Tortie">Data/SirMashedPotato/No Gimmicks, Just Tortie - 2716588602</li>
     <li IfModActive="SirMashedPotato.QuestingMeme">Data/SirMashedPotato/Questing Meme - 2826539854/1.3</li>
     <li IfModActive="SirMashedPotato.BlackPlague">Data/SirMashedPotato/RimWorld - Black Plague - 2798827353</li>
+    <li IfModActive="sleepy068.morepsycasts">Data/Sleepy068/Sleepy's More Psycasts - 2884678003/1.6</li>
+    <li IfModActive="sleepy068.morepsycastsvol2">Data/Sleepy068/Sleepy's More Psycasts - Volume 2 - 3506787062/1.6</li>
+    <li IfModActive="sleepy068.morepsycastsvol3">Data/Sleepy068/Sleepy's More Psycasts - Volume 3 - 3506798060/1.6</li>
     <li IfModActive="Sov.VisanderHedge">Data/Sovereign/Blooming hedges - 3146921182</li>
     <li IfModActive="Sovereign.Burger">Data/Sovereign/BurgerBaron - 3382704766</li>
     <li IfModActive="sovereign.fishhuman">Data/Sovereign/Fishhumans - 2810086136</li>
@@ -6268,6 +6303,7 @@
     <li IfModActive="VanillaExpanded.VFECore">Data/Vanilla Expanded/Vanilla Furniture Expanded - 1718190143</li>
     <li IfModActive="VanillaExpanded.VFEArchitect">Data/Vanilla Expanded/Vanilla Furniture Expanded - Architect - 2608762624</li>
     <li IfModActive="VanillaExpanded.VFEArt">Data/Vanilla Expanded/Vanilla Furniture Expanded - Art - 1968134023</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Data/Vanilla Expanded/Vanilla Furniture Expanded - Factory - 3686924415/1.6</li>
     <li IfModActive="VanillaExpanded.VFEFarming">Data/Vanilla Expanded/Vanilla Furniture Expanded - Farming - 1957158779</li>
     <li IfModActive="VanillaExpanded.VFEMedical">Data/Vanilla Expanded/Vanilla Furniture Expanded - Medical Module - 1718191613</li>
     <li IfModActive="VanillaExpanded.VFEPower">Data/Vanilla Expanded/Vanilla Furniture Expanded - Power - 2062943477</li>
@@ -6317,7 +6353,7 @@
     <li IfModActive="VanillaExpanded.Recycling">Data/Vanilla Expanded/Vanilla Recycling Expanded - 3155781848</li>
     <li IfModActive="vanillaexpanded.skills">Data/Vanilla Expanded/Vanilla Skills Expanded - 2854967442</li>
     <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Data/Vanilla Expanded/Vanilla Social Interactions Expanded - 2439736083</li>
-    <li IfModActive="vanillastorytellersexpanded.winstonwaves">Data/Vanilla Expanded/Vanilla Storytellers Expanded - Winston Waves - 2734032569</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Data/Vanilla Expanded/Vanilla Storytellers Expanded - Winston Waves - 3215569151/1.6</li>
     <li IfModActive="VanillaExpanded.Temperature">Data/Vanilla Expanded/Vanilla Temperature Expanded - 3202046258</li>
     <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Data/Vanilla Expanded/Vanilla Trading Expanded - 2785616901</li>
     <li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Data/Vanilla Expanded/Vanilla Traits Expanded - 2296404655</li>
@@ -6394,6 +6430,7 @@
     <li IfModActive="zal.AbMoCa">Data/Zaljerem/Absolutely More Cannons (Continued) - 2936756351</li>
     <li IfModActive="zal.advancedelectricstove">Data/Zaljerem/Advanced Electric Stove (Continued) - 3028378705</li>
     <li IfModActive="zal.archotechweaponry">Data/Zaljerem/Archotech Weaponry (Continued) - 3312021019</li>
+    <li IfModActive="zal.betterinfestations">Data/Zaljerem/Better Infestations (Continued) - 3285516766/1.6</li>
     <li IfModActive="zal.blood2hemogen">Data/Zaljerem/Blood to Hemogen - 2975285830</li>
     <li IfModActive="zal.clones">Data/Zaljerem/Clones (Continued) - 3345952961/1.6</li>
     <li IfModActive="zal.cruisemissiles">Data/Zaljerem/Cruise Missiles (Continued) - 2888776971</li>
@@ -6486,6 +6523,7 @@
     <li IfModActive="mingtuwuxiang.FishingDecorative">Data/[MUS]捕鱼装饰 FishingDecorative - 2981211719</li>
     <li IfModActive="Oganesson.Shield_Core_Expanded">Data/[Og]Shield Core Expanded - 2919831549</li>
     <li IfModActive="Pisutatio.AnimaTreePet">Data/[Pisutatio]Anima Tree Pet - 3415778517/1.6</li>
+    <li IfModActive="Pisutatio.ArcheanTreePet">Data/[Pisutatio]Archean Tree Pet - 3587985535/1.6</li>
     <li IfModActive="tradingpost.programmerlily.com">Data/[PL] Trading Spot - 3507108484</li>
     <li IfModActive="QW.ColoredRoomStats">Data/[QW] Colored Room Stats - 3079295527</li>
     <li IfModActive="qw.archotechimplantsexpanded">Data/[QW]超凡仿生体扩展 - 2897859020</li>
@@ -6663,6 +6701,7 @@
     <li IfModActive="Mavis.bandwidthimplant">Data/Bandwidth Implant - 3023457818</li>
     <li IfModActive="TheSpyPie.BarbedWire">Data/Barbed Wire - 1552418917</li>
     <li IfModActive="iluvsilicon.basicmedicine2">Data/Basic Medicine - 2495501601</li>
+    <li IfModActive="Stefanlog.BasicTraits">Data/Basic Traits - 3600443734/1.6</li>
     <li IfModActive="Scurvyez.Bastyon">Data/Bastyon - 2479431577</li>
     <li IfModActive="HellRevenger.BatchInstall">Data/Batch Install - 3248501544</li>
     <li IfModActive="BattIeBear.BattIePatch.SilenceIsGolden">Data/BattIePatch Psychic Silence Is Golden - 3513365232</li>
@@ -7131,10 +7170,12 @@
     <li IfModActive="erok.lanterns">Data/Lanterns - 2711383738</li>
     <li IfModActive="cucumpear.animalbeds">Data/Large Animal Beds - 1111387020</li>
     <li IfModActive="Keshash.LayeredWallDestruction">Data/Layered Wall Destruction - 3024527775</li>
+    <li IfModActive="RockPaperRemote.LegendsLedger">Data/Legends Ledger - 3642805704/1.6</li>
     <li IfModActive="Archaon.Primarch">Data/Legiones Astartes Primarch - 2112351467</li>
     <li IfModActive="BulletMagnet.PSSLessLethalDefenceSystem">Data/Less-Lethal Defence System - 2383958584</li>
     <li IfModActive="akairo.letshaveacat">Data/Let's Have a Cat! - 1629060163</li>
     <li IfModActive="zhrocks11.letstrade_copy">Data/Let's Trade! - 2373633407</li>
+    <li IfModActive="Krafs.LevelUp">Data/Level Up! - 1701592470/1.6</li>
     <li IfModActive="GhostData.lifelessons">Data/Life Lessons - 2920678419/1.5</li>
     <li IfModActive="GhostData.lifelessons.medicalmishaps">Data/Life Lessons Medical Mishaps - 3234804958</li>
     <li IfModActive="goudaquiche.lighterthanfast">Data/Lighter Than Fast - 1240656304</li>
@@ -7431,6 +7472,9 @@
     <li IfModActive="tr.qualcolor">Data/Quality Colors 1.5 - Forked - 3224462440</li>
     <li IfModActive="telardo.QualityOverlay">Data/Quality Overlay - 2568283376</li>
     <li IfModActive="hatti.qualitybuilder">Data/QualityBuilder - 754637870</li>
+    <li IfModActive="SGG1.QM">Data/Quasimorph - Main - 3223161787/1.6</li>
+    <li IfModActive="SGG1.QPMA">Data/Quasimorph - Private military armoury - 3671944718/1.6</li>
+    <li IfModActive="SGG1.QRA.V2">Data/Quasimorph - Realware™ armoury - 3673281876/1.6</li>
     <li IfModActive="Mario.QEE">Data/Questionable Ethics Enhanced - 2566962342</li>
     <li IfModActive="longwater.smartstockpilecreation">Data/Quick Stockpile Creation - 1742151109/1.6</li>
     <li IfModActive="seos.m.r.racef">Data/Race - Faifox - 2885739717</li>
@@ -7579,6 +7623,7 @@
     <li IfModActive="fxz.selectsimilar">Data/Select Similar - 3349675904</li>
     <li IfModActive="FlashPoint55.Selfreloadingtraps">Data/Self reloading traps - 1820959221</li>
     <li IfModActive="CaptainMuscles.SemiRandomResearch.unofficial">Data/Semi Random Research (Unofficial) - 2879094186</li>
+    <li IfModActive="JL.SenseOfBelonging">Data/Sense of belonging - 3617633070/1.6</li>
     <li IfModActive="sicefe.senseofdepth">Data/Sense Of Depth For Tall Buildings - 3246956515</li>
     <li IfModActive="Artemiish.ServiceWeapon">Data/Service Weapon - 3241019541</li>
     <li IfModActive="syrchalis.setupcamp">Data/Set Up Camp - 3234938357</li>
@@ -7893,6 +7938,7 @@
     <li IfModActive="Andromeda.NiceBillTab">Data/Andromeda/Nice Bill Tab - 3520130671</li>
     <li IfModActive="Andromeda.NiceHealthTab">Data/Andromeda/Nice Health Tab - 3328729902</li>
     <li IfModActive="Andromeda.NiceInventoryTab">Data/Andromeda/Nice Inventory Tab - 3609897594/1.6</li>
+    <li IfModActive="Andromeda.NicePlantsMenu">Data/Andromeda/Nice Plants Menu - 3685058533/1.6</li>
     <li IfModActive="Andromeda.PackableContainers">Data/Andromeda/Packable Containers - 3079237715</li>
     <li IfModActive="Andromeda.PawnQuickInfo">Data/Andromeda/Pawn quick info - 3078081326</li>
     <li IfModActive="Andromeda.StackGap">Data/Andromeda/Stack gap - 3071298014/1.5</li>
@@ -7934,6 +7980,7 @@
     <li IfModActive="Aoba.DeadManSwitch.Core">Data/AOBA/DMS/The Dead Man's Switch - 3121742525/1.6</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.6</li>
+    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="Aoba.DeadManSwitch.MobileDragoon">Data/AOBA/DMS/The Dead Man's Switch - MobileDragoon - 3377130226/1.6</li>
@@ -8771,6 +8818,9 @@
     <li IfModActive="SirMashedPotato.Tortie">Data/SirMashedPotato/No Gimmicks, Just Tortie - 2716588602</li>
     <li IfModActive="SirMashedPotato.QuestingMeme">Data/SirMashedPotato/Questing Meme - 2826539854/1.6</li>
     <li IfModActive="SirMashedPotato.BlackPlague">Data/SirMashedPotato/RimWorld - Black Plague - 2798827353</li>
+    <li IfModActive="sleepy068.morepsycasts">Data/Sleepy068/Sleepy's More Psycasts - 2884678003/1.6</li>
+    <li IfModActive="sleepy068.morepsycastsvol2">Data/Sleepy068/Sleepy's More Psycasts - Volume 2 - 3506787062/1.6</li>
+    <li IfModActive="sleepy068.morepsycastsvol3">Data/Sleepy068/Sleepy's More Psycasts - Volume 3 - 3506798060/1.6</li>
     <li IfModActive="Sov.VisanderHedge">Data/Sovereign/Blooming hedges - 3146921182</li>
     <li IfModActive="Sovereign.Burger">Data/Sovereign/BurgerBaron - 3382704766</li>
     <li IfModActive="sovereign.fishhuman">Data/Sovereign/Fishhumans - 2810086136</li>
@@ -8876,6 +8926,7 @@
     <li IfModActive="VanillaExpanded.VFECore">Data/Vanilla Expanded/Vanilla Furniture Expanded - 1718190143</li>
     <li IfModActive="VanillaExpanded.VFEArchitect">Data/Vanilla Expanded/Vanilla Furniture Expanded - Architect - 2608762624</li>
     <li IfModActive="VanillaExpanded.VFEArt">Data/Vanilla Expanded/Vanilla Furniture Expanded - Art - 1968134023</li>
+    <li IfModActive="VanillaExpanded.VFEFactory">Data/Vanilla Expanded/Vanilla Furniture Expanded - Factory - 3686924415/1.6</li>
     <li IfModActive="VanillaExpanded.VFEFarming">Data/Vanilla Expanded/Vanilla Furniture Expanded - Farming - 1957158779</li>
     <li IfModActive="VanillaExpanded.VFEMedical">Data/Vanilla Expanded/Vanilla Furniture Expanded - Medical Module - 1718191613</li>
     <li IfModActive="VanillaExpanded.VFEPower">Data/Vanilla Expanded/Vanilla Furniture Expanded - Power - 2062943477</li>
@@ -8925,7 +8976,7 @@
     <li IfModActive="VanillaExpanded.Recycling">Data/Vanilla Expanded/Vanilla Recycling Expanded - 3155781848</li>
     <li IfModActive="vanillaexpanded.skills">Data/Vanilla Expanded/Vanilla Skills Expanded - 2854967442</li>
     <li IfModActive="VanillaExpanded.VanillaSocialInteractionsExpanded">Data/Vanilla Expanded/Vanilla Social Interactions Expanded - 2439736083</li>
-    <li IfModActive="vanillastorytellersexpanded.winstonwaves">Data/Vanilla Expanded/Vanilla Storytellers Expanded - Winston Waves - 2734032569</li>
+    <li IfModActive="VanillaStorytellersExpanded.WinstonWave">Data/Vanilla Expanded/Vanilla Storytellers Expanded - Winston Waves - 3215569151/1.6</li>
     <li IfModActive="VanillaExpanded.Temperature">Data/Vanilla Expanded/Vanilla Temperature Expanded - 3202046258</li>
     <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Data/Vanilla Expanded/Vanilla Trading Expanded - 2785616901</li>
     <li IfModActive="VanillaExpanded.VanillaTraitsExpanded">Data/Vanilla Expanded/Vanilla Traits Expanded - 2296404655</li>
@@ -9002,6 +9053,7 @@
     <li IfModActive="zal.AbMoCa">Data/Zaljerem/Absolutely More Cannons (Continued) - 2936756351</li>
     <li IfModActive="zal.advancedelectricstove">Data/Zaljerem/Advanced Electric Stove (Continued) - 3028378705</li>
     <li IfModActive="zal.archotechweaponry">Data/Zaljerem/Archotech Weaponry (Continued) - 3312021019</li>
+    <li IfModActive="zal.betterinfestations">Data/Zaljerem/Better Infestations (Continued) - 3285516766/1.6</li>
     <li IfModActive="zal.blood2hemogen">Data/Zaljerem/Blood to Hemogen - 2975285830</li>
     <li IfModActive="zal.clones">Data/Zaljerem/Clones (Continued) - 3345952961/1.6</li>
     <li IfModActive="zal.cruisemissiles">Data/Zaljerem/Cruise Missiles (Continued) - 2888776971</li>
@@ -9094,6 +9146,7 @@
     <li IfModActive="mingtuwuxiang.FishingDecorative">Data/[MUS]捕鱼装饰 FishingDecorative - 2981211719</li>
     <li IfModActive="Oganesson.Shield_Core_Expanded">Data/[Og]Shield Core Expanded - 2919831549</li>
     <li IfModActive="Pisutatio.AnimaTreePet">Data/[Pisutatio]Anima Tree Pet - 3415778517/1.6</li>
+    <li IfModActive="Pisutatio.ArcheanTreePet">Data/[Pisutatio]Archean Tree Pet - 3587985535/1.6</li>
     <li IfModActive="tradingpost.programmerlily.com">Data/[PL] Trading Spot - 3507108484</li>
     <li IfModActive="QW.ColoredRoomStats">Data/[QW] Colored Room Stats - 3079295527</li>
     <li IfModActive="qw.archotechimplantsexpanded">Data/[QW]超凡仿生体扩展 - 2897859020</li>
@@ -9271,6 +9324,7 @@
     <li IfModActive="Mavis.bandwidthimplant">Data/Bandwidth Implant - 3023457818</li>
     <li IfModActive="TheSpyPie.BarbedWire">Data/Barbed Wire - 1552418917</li>
     <li IfModActive="iluvsilicon.basicmedicine2">Data/Basic Medicine - 2495501601</li>
+    <li IfModActive="Stefanlog.BasicTraits">Data/Basic Traits - 3600443734/1.6</li>
     <li IfModActive="Scurvyez.Bastyon">Data/Bastyon - 2479431577</li>
     <li IfModActive="HellRevenger.BatchInstall">Data/Batch Install - 3248501544</li>
     <li IfModActive="BattIeBear.BattIePatch.SilenceIsGolden">Data/BattIePatch Psychic Silence Is Golden - 3513365232</li>
@@ -9739,10 +9793,12 @@
     <li IfModActive="erok.lanterns">Data/Lanterns - 2711383738</li>
     <li IfModActive="cucumpear.animalbeds">Data/Large Animal Beds - 1111387020</li>
     <li IfModActive="Keshash.LayeredWallDestruction">Data/Layered Wall Destruction - 3024527775</li>
+    <li IfModActive="RockPaperRemote.LegendsLedger">Data/Legends Ledger - 3642805704/1.6</li>
     <li IfModActive="Archaon.Primarch">Data/Legiones Astartes Primarch - 2112351467</li>
     <li IfModActive="BulletMagnet.PSSLessLethalDefenceSystem">Data/Less-Lethal Defence System - 2383958584</li>
     <li IfModActive="akairo.letshaveacat">Data/Let's Have a Cat! - 1629060163</li>
     <li IfModActive="zhrocks11.letstrade_copy">Data/Let's Trade! - 2373633407</li>
+    <li IfModActive="Krafs.LevelUp">Data/Level Up! - 1701592470/1.6</li>
     <li IfModActive="GhostData.lifelessons">Data/Life Lessons - 2920678419/1.5</li>
     <li IfModActive="GhostData.lifelessons.medicalmishaps">Data/Life Lessons Medical Mishaps - 3234804958</li>
     <li IfModActive="goudaquiche.lighterthanfast">Data/Lighter Than Fast - 1240656304</li>
@@ -10039,6 +10095,9 @@
     <li IfModActive="tr.qualcolor">Data/Quality Colors 1.5 - Forked - 3224462440</li>
     <li IfModActive="telardo.QualityOverlay">Data/Quality Overlay - 2568283376</li>
     <li IfModActive="hatti.qualitybuilder">Data/QualityBuilder - 754637870</li>
+    <li IfModActive="SGG1.QM">Data/Quasimorph - Main - 3223161787/1.6</li>
+    <li IfModActive="SGG1.QPMA">Data/Quasimorph - Private military armoury - 3671944718/1.6</li>
+    <li IfModActive="SGG1.QRA.V2">Data/Quasimorph - Realware™ armoury - 3673281876/1.6</li>
     <li IfModActive="Mario.QEE">Data/Questionable Ethics Enhanced - 2566962342</li>
     <li IfModActive="longwater.smartstockpilecreation">Data/Quick Stockpile Creation - 1742151109/1.6</li>
     <li IfModActive="seos.m.r.racef">Data/Race - Faifox - 2885739717</li>
@@ -10187,6 +10246,7 @@
     <li IfModActive="fxz.selectsimilar">Data/Select Similar - 3349675904</li>
     <li IfModActive="FlashPoint55.Selfreloadingtraps">Data/Self reloading traps - 1820959221</li>
     <li IfModActive="CaptainMuscles.SemiRandomResearch.unofficial">Data/Semi Random Research (Unofficial) - 2879094186</li>
+    <li IfModActive="JL.SenseOfBelonging">Data/Sense of belonging - 3617633070/1.6</li>
     <li IfModActive="sicefe.senseofdepth">Data/Sense Of Depth For Tall Buildings - 3246956515</li>
     <li IfModActive="Artemiish.ServiceWeapon">Data/Service Weapon - 3241019541</li>
     <li IfModActive="syrchalis.setupcamp">Data/Set Up Camp - 3234938357</li>

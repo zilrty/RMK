@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLP_Calm.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef](이)가 초능력을 사용하여 [RECIPIENT_nameDef]의 감정을 차분하게 진정시켰습니다.</li>
+  </SLP_Calm.logRulesInitiator.rulesStrings>
+</LanguageData>
