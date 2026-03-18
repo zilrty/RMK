@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PYF_RelationshipBuff.label>관계의 영향</PYF_RelationshipBuff.label>
+  <PYF_RelationshipBuff.description>이 정착민은 현재 맵에 있는 구성원들과의 관계에 영향을 받습니다. 관계에 따라 작업에 더 성실해지거나 게을러지기도 하며, 전투에서 더 용감해지거나 비겁해지기도 합니다.</PYF_RelationshipBuff.description>
+
+  <PYF_RelationshipBuff.stages.0.label>증오</PYF_RelationshipBuff.stages.0.label>
+  <PYF_RelationshipBuff.stages.1.label>혐오</PYF_RelationshipBuff.stages.1.label>
+  <PYF_RelationshipBuff.stages.2.label>의심</PYF_RelationshipBuff.stages.2.label>
+  <PYF_RelationshipBuff.stages.3.label>경계</PYF_RelationshipBuff.stages.3.label>
+  <PYF_RelationshipBuff.stages.4.label>무관심</PYF_RelationshipBuff.stages.4.label>
+  <PYF_RelationshipBuff.stages.5.label>호감</PYF_RelationshipBuff.stages.5.label>
+  <PYF_RelationshipBuff.stages.6.label>신뢰</PYF_RelationshipBuff.stages.6.label>
+  <PYF_RelationshipBuff.stages.7.label>책임감</PYF_RelationshipBuff.stages.7.label>
+  <PYF_RelationshipBuff.stages.8.label>헌신</PYF_RelationshipBuff.stages.8.label>
+</LanguageData>
