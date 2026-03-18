@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=Public Domain designs-->
+  <QM_PDDWeaponMan.label>자유 이용 설계도</QM_PDDWeaponMan.label>
+  <!--Original=Public Domain Designs sometimes referred as Public Design Dumps are compilations of common, obsolete, and occasionally unfunctional weapon blueprints freely accessible through comm console. Most of the research time is spent separating functioning blueprints from junk data. Only primitive revolver designs are discernible without prerequisite weapons research. Most recipes demand plasteel, making them difficult to produce in a remote regions.-->
+  <QM_PDDWeaponMan.description>자유 이용 쓰레기라고도 불리는 자유 이용 설계도는 통신기를 통해 자유롭게 접근할 수 있는 흔하고 구식이며, 때로는 작동하지 않는 무기 청사진들의 모음집입니다. 연구 시간의 대부분은 쓰레기 데이터에서 작동하는 청사진을 분리하는 데 소비됩니다. 선행 무기 연구 없이는 원시적인 리볼버 설계도만 식별할 수 있습니다. 대부분의 제작법은 플라스틸을 요구하므로 외딴 지역에서는 만들기 어렵습니다.</QM_PDDWeaponMan.description>
+  <!--Original=PMC weapon manufacturing-->
+  <QM_PMCWeaponMan.label>PMC 무기 제작</QM_PMCWeaponMan.label>
+  <!--Original=Private military designs that are proven to be reliable for military usage. These designs exceeds the basic civilian and old gun designs, and even includes militarized versions of civilian guns. Once extracted from the blueprint chip, the designs are fully readable and require no prior weapons research. Only needing resources and more components than alternatives.-->
+  <QM_PMCWeaponMan.description>군사적 용도로 신뢰성이 입증된 민간 군사 설계도입니다. 이 설계도들은 기본적인 민간용 및 구식 화기 설계도보다 뛰어나며, 민간용 총기를 군용으로 개조한 버전도 포함됩니다. 청사진 칩에서 추출한 설계도는 모든 내용을 완벽하게 판독할 수 있으며 별도의 선행 무기 연구가 필요하지 않습니다. 다만 다른 대안들보다 더 많은 자원과 부품이 필요할 뿐입니다.</QM_PMCWeaponMan.description>
+  <!--Original=PMC Elite weapon manufacturing-->
+  <QM_PMCEliteWeaponMan.label>PMC 정예 무기 제작</QM_PMCEliteWeaponMan.label>
+  <!--Original=PMC elite weapon designs. These designs once considered to be top tier equipments. Though nowdays the respective megaーcorporations has already moved onto different weapon platforms, selling the old surplus equipment to the trusted PMC groups and even occasionally handing out the blueprint chip as incentives for eliminating upstart competition. Manufacturing them outside the corporate fabricator is demanding, requiring skilled craftsmen along with a surplus of components.-->
+  <QM_PMCEliteWeaponMan.description>PMC 정예 무기 설계도입니다. 한때 최상위 수준의 장비로 간주되었던 설계도들입니다. 하지만 현재 각 거대 기업들은 이미 다른 무기 체계로 갈아타면서, 기존의 잉여 장비를 신뢰할 수 있는 민간 군사 기업 그룹에 판매하거나 때로는 신생 경쟁 기업을 제거한 보상으로 청사진 칩을 제공하기도 합니다. 기업 소유의 제조 시설 밖에서 이 무기들을 만드는 것은 쉽지 않은 일로, 숙련된 장인과 충분한 양의 부품이 필요합니다.</QM_PMCEliteWeaponMan.description>
+  <!--Original=Cadet military aramid armor manufacturing-->
+  <QM_CadetArmorMan.label>카데트 군용 아라미드 갑옷 제작</QM_CadetArmorMan.label>
+  <!--Original=Mobile version of a Legend pattern. Stripped of its vacuumーrated seals and heavy plating, the Cadet pattern is optimized for patrol and garrison duty in settled, planetary environments. It provides essential protection for squads policing contested zones.-->
+  <QM_CadetArmorMan.description>레전드 패턴 갑옷의 기동성 버전입니다. 진공용 밀폐 장치와 중장갑판을 제거한 카데트 패턴은 정착된 행성 환경에서의 순찰 및 주둔 임무에 최적화되어 있습니다. 분쟁 지역을 순찰하는 분대에게 필수적인 보호를 제공합니다.</QM_CadetArmorMan.description>
+  <!--Original=Legend pattern aramid armor manufacturing-->
+  <QM_LegendsArmorMan.label>레전드 패턴 아라미드 갑옷 제작</QM_LegendsArmorMan.label>
+  <!--Original=Sealed aramid combat armor. Armor preーdating the megacorporations all the way to the colonization of mars when Realware Industries™ was a minor military equipment corporation. \n\n Historical records from the [REDACTED] incident on Mars remain classified, but leaked camera footage still exists in the datasphere&apos;s underbelly. It shows a lone marine in an early Legend pattern fighting off the [REDACTED] with a anger that seems almost impossible.-->
+  <QM_LegendsArmorMan.description>밀폐형 아라미드 전투 갑옷입니다. 거대 기업들이 등장하기 전, 리얼웨어 인더스트리™가 작은 군사 장비 기업이었던 화성 식민지화 시절까지 거슬러 올라가는 갑옷입니다.\n\n화성에서 발생한 [편집됨] 사건에 대한 역사적 기록은 기밀로 분류되어 있지만, 유출된 카메라 영상은 데이터스피어의 어두운 곳에 여전히 존재합니다. 영상 속에는 초기형 레전드 패턴 갑옷을 입은 한 명의 해병이 불가능해 보일 정도의 분노로 [편집됨]에 맞서 싸우는 모습이 담겨 있습니다.</QM_LegendsArmorMan.description>
+  <!--Original=Frame pattern chobham armor fabrication-->
+  <QM_FrameArmorMan.label>프레임 패턴 초밤 갑옷 제작</QM_FrameArmorMan.label>
+  <!--Original=Heavy powered armor. Heavyーduty specialized combat armor which primarily protects the wearer from most infantry small arms fire. It’s considered a legacy pattern and only used by minor mega corporations who couldn’t afford or care to invest into heavy armor development.-->
+  <QM_FrameArmorMan.description>중형 동력 갑옷입니다. 대부분의 보병 소화기 사격으로부터 착용자를 보호하는 특수 고성능 전투 갑옷입니다. 이는 레거시 패턴으로 간주되며, 중형 갑옷 개발에 투자할 여력이 없거나 관심이 없는 소규모 거대 기업들만이 사용합니다.</QM_FrameArmorMan.description>
+</LanguageData>

@@ -2219,6 +2219,7 @@
     <li IfModActive="telardo.QualityOverlay">Data/Quality Overlay - 2568283376</li>
     <li IfModActive="hatti.qualitybuilder">Data/QualityBuilder - 754637870</li>
     <li IfModActive="SGG1.QM">Data/Quasimorph - Main - 3223161787/1.6</li>
+    <li IfModActive="SGG1.QPMA">Data/Quasimorph - Private military armoury - 3671944718/1.6</li>
     <li IfModActive="Mario.QEE">Data/Questionable Ethics Enhanced - 2566962342</li>
     <li IfModActive="longwater.smartstockpilecreation">Data/Quick Stockpile Creation - 1742151109/1.6</li>
     <li IfModActive="seos.m.r.racef">Data/Race - Faifox - 2885739717</li>
@@ -4829,6 +4830,7 @@
     <li IfModActive="telardo.QualityOverlay">Data/Quality Overlay - 2568283376</li>
     <li IfModActive="hatti.qualitybuilder">Data/QualityBuilder - 754637870</li>
     <li IfModActive="SGG1.QM">Data/Quasimorph - Main - 3223161787/1.6</li>
+    <li IfModActive="SGG1.QPMA">Data/Quasimorph - Private military armoury - 3671944718/1.6</li>
     <li IfModActive="Mario.QEE">Data/Questionable Ethics Enhanced - 2566962342</li>
     <li IfModActive="longwater.smartstockpilecreation">Data/Quick Stockpile Creation - 1742151109/1.6</li>
     <li IfModActive="seos.m.r.racef">Data/Race - Faifox - 2885739717</li>
@@ -7440,6 +7442,7 @@
     <li IfModActive="telardo.QualityOverlay">Data/Quality Overlay - 2568283376</li>
     <li IfModActive="hatti.qualitybuilder">Data/QualityBuilder - 754637870</li>
     <li IfModActive="SGG1.QM">Data/Quasimorph - Main - 3223161787/1.6</li>
+    <li IfModActive="SGG1.QPMA">Data/Quasimorph - Private military armoury - 3671944718/1.6</li>
     <li IfModActive="Mario.QEE">Data/Questionable Ethics Enhanced - 2566962342</li>
     <li IfModActive="longwater.smartstockpilecreation">Data/Quick Stockpile Creation - 1742151109/1.6</li>
     <li IfModActive="seos.m.r.racef">Data/Race - Faifox - 2885739717</li>
@@ -10051,6 +10054,7 @@
     <li IfModActive="telardo.QualityOverlay">Data/Quality Overlay - 2568283376</li>
     <li IfModActive="hatti.qualitybuilder">Data/QualityBuilder - 754637870</li>
     <li IfModActive="SGG1.QM">Data/Quasimorph - Main - 3223161787/1.6</li>
+    <li IfModActive="SGG1.QPMA">Data/Quasimorph - Private military armoury - 3671944718/1.6</li>
     <li IfModActive="Mario.QEE">Data/Questionable Ethics Enhanced - 2566962342</li>
     <li IfModActive="longwater.smartstockpilecreation">Data/Quick Stockpile Creation - 1742151109/1.6</li>
     <li IfModActive="seos.m.r.racef">Data/Race - Faifox - 2885739717</li>

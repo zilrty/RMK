@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Original=flashbang-->
+  <QM_Stungrenade.label>섬광탄</QM_Stungrenade.label>
+  <!--Original=Stun-->
+  <QM_Stungrenade.labelShort>섬광탄</QM_Stungrenade.labelShort>
+  <!--Original=Stun grenade or flashbang grenade upon detonation, a stun grenade produces a blinding flash of light and an extremely loud explosion.-->
+  <QM_Stungrenade.description>섬광탄 또는 기절 수류탄입니다. 폭발 시 눈을 멀게 하는 강렬한 섬광과 극도로 큰 폭발음을 발생시킵니다.</QM_Stungrenade.description>
+</LanguageData>
