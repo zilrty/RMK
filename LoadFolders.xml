@@ -679,6 +679,7 @@
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
     <li IfModActive="MortStrudel.MortIdeologySpecWork">Data/Mort Strudel/Menagerist - Mort's Ideologies Memes and Precepts - 3514363516/1.6</li>
+    <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -2486,7 +2487,6 @@
     <li IfModActive="blackmarket420.taofc">Data/The Army Of Fetid Corpses - 3046752480</li>
     <li IfModActive="conit.thebirdsandthebees">Data/The Birds and the Bees - 2821429175</li>
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
-    <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="The.Gods.Are.Angry">Data/The Gods Are Angry - 3028895348</li>
     <li IfModActive="Create.AncientCelestial">Data/The Heaven Forged Celestial - 3122537632</li>
     <li IfModActive="Spencer7w.TheInquisition">Data/The Inquisition (Warhammer 40k) Unofficial 1.4 - 2887115091</li>
@@ -3306,6 +3306,7 @@
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
     <li IfModActive="MortStrudel.MortIdeologySpecWork">Data/Mort Strudel/Menagerist - Mort's Ideologies Memes and Precepts - 3514363516/1.6</li>
+    <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -5113,7 +5114,6 @@
     <li IfModActive="blackmarket420.taofc">Data/The Army Of Fetid Corpses - 3046752480</li>
     <li IfModActive="conit.thebirdsandthebees">Data/The Birds and the Bees - 2821429175</li>
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
-    <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="The.Gods.Are.Angry">Data/The Gods Are Angry - 3028895348</li>
     <li IfModActive="Create.AncientCelestial">Data/The Heaven Forged Celestial - 3122537632</li>
     <li IfModActive="Spencer7w.TheInquisition">Data/The Inquisition (Warhammer 40k) Unofficial 1.4 - 2887115091</li>
@@ -5933,6 +5933,7 @@
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
     <li IfModActive="MortStrudel.MortIdeologySpecWork">Data/Mort Strudel/Menagerist - Mort's Ideologies Memes and Precepts - 3514363516/1.6</li>
+    <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -7741,7 +7742,6 @@
     <li IfModActive="blackmarket420.taofc">Data/The Army Of Fetid Corpses - 3046752480</li>
     <li IfModActive="conit.thebirdsandthebees">Data/The Birds and the Bees - 2821429175</li>
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
-    <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="The.Gods.Are.Angry">Data/The Gods Are Angry - 3028895348</li>
     <li IfModActive="Create.AncientCelestial">Data/The Heaven Forged Celestial - 3122537632</li>
     <li IfModActive="Spencer7w.TheInquisition">Data/The Inquisition (Warhammer 40k) Unofficial 1.4 - 2887115091</li>
@@ -8561,6 +8561,7 @@
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
     <li IfModActive="MortStrudel.MortIdeologySpecWork">Data/Mort Strudel/Menagerist - Mort's Ideologies Memes and Precepts - 3514363516/1.6</li>
+    <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -10369,7 +10370,6 @@
     <li IfModActive="blackmarket420.taofc">Data/The Army Of Fetid Corpses - 3046752480</li>
     <li IfModActive="conit.thebirdsandthebees">Data/The Birds and the Bees - 2821429175</li>
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
-    <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="The.Gods.Are.Angry">Data/The Gods Are Angry - 3028895348</li>
     <li IfModActive="Create.AncientCelestial">Data/The Heaven Forged Celestial - 3122537632</li>
     <li IfModActive="Spencer7w.TheInquisition">Data/The Inquisition (Warhammer 40k) Unofficial 1.4 - 2887115091</li>
