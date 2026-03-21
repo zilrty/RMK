@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RKCS_ControlSpine.label>제어 척추</RKCS_ControlSpine.label>
+  <RKCS_ControlSpine.labelNoun>제어 척추</RKCS_ControlSpine.labelNoun>
+  <RKCS_ControlSpine.description>이 신체 부착형 척추 외골격은 이식받은 개체가 장치에 미리 설정된 명령에 거의 아무런 저항 없이 절대적으로 복종하게 만들며, 신체 능력도 어느 정도 향상시켜 줍니다. 하지만 의식에 가해지는 고도의 통제로 인해 학습 능력은 거의 상실됩니다.</RKCS_ControlSpine.description>
+
+  <Nibelung_Invisible.label>프로토타입 초정신 어댑터 (은닉형)</Nibelung_Invisible.label>
+  <Nibelung_Invisible.description>이 장치는 초창기에 봉인되었던 비공개 기술을 사용합니다. 확장이 불가능하며, 정신력 증폭을 위험하게 모방하는 일시적 활성화 방식을 채택하고 있습니다. 사용자는 미리 설정된 초능력을 구사할 수 있으며, 후기형 사이오닉 활성화 장치들과 달리 신경열을 생성하지 않고 초집중도 소모하지 않습니다. 
+
+하지만 이 기술은 극도로 위험합니다. 장치를 활발히 사용하지 않을 때조차 인간의 뇌와 의식에 막대한 부하를 가하며, 심한 경우 사망에 이를 수도 있습니다. 이것이 바로 이 기술이 역사 속으로 봉인되었던 결정적인 이유입니다.</Nibelung_Invisible.description>
+</LanguageData>

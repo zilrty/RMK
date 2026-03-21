@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RKCS_NanoBlade.label>나노 절삭 블레이드</RKCS_NanoBlade.label>
+  <RKCS_NanoBlade.description>오토마트로이드 마테체를 기반으로 제작된 이 무기는, '디스오더(Disorder)'로부터 불분명한 경로로 입수한 나노 기술을 적용하여 크기를 키우고 여러 차례 재련 과정을 거친 중형 오토마트론 전용 병기입니다. 설계 단계부터 제어 척추와 연결된 장치를 통한 사용 인증을 요구합니다. 무지막지한 무게 때문에 유해 자극에 둔감한 임플란트 시술자라 할지라도 파워 프레임이나 모바일 드라군 같은 근력 보조 장비 없이는 다루기 어렵습니다. 또한 오토마트론 규격 장비로 분류됨에도 불구하고, 성능 극대화 과정에서 범용성이 크게 훼손되어 일반적인 오토마트론은 사실상 사용이 불가능합니다.</RKCS_NanoBlade.description>
+  <RKCS_NanoBlade.tools.0.label>자루</RKCS_NanoBlade.tools.0.label>
+  <RKCS_NanoBlade.tools.1.label>칼끝</RKCS_NanoBlade.tools.1.label>
+  <RKCS_NanoBlade.tools.2.label>칼날</RKCS_NanoBlade.tools.2.label>
+
+  <RKCS_ControlSpine.label>제어 척추</RKCS_ControlSpine.label>
+  <RKCS_ControlSpine.description>이 척추 외골격을 이식하면 대상의 인격이 불안정해질 뿐만 아니라, 장치에 미리 설정된 명령에 절대적으로 복종하게 되어 사실상 노예나 다름없는 상태가 됩니다. 외골격 자체는 신체 능력을 어느 정도 향상시켜 주지만, 의식에 대한 과도한 통제로 인해 학습 능력은 거의 소실됩니다. 이 기술의 일부는 변방계의 특정 행성에서 발생한 기괴한 사건들에 기원을 두고 있습니다.</RKCS_ControlSpine.description>
+
+  <Polarisbloc_NibelungStandardArmor.label>니벨룽 표준 갑옷</Polarisbloc_NibelungStandardArmor.label>
+  <Polarisbloc_NibelungStandardArmor.description>디스오더 분파 산하의 한 기업이 전장에서 회수한 '시그너스 갑옷'을 식민지 함대 기술을 동원해 역설계한 장비입니다. 핵심 기술의 부재로 인해 일부 구성 요소는 오토마트로이드 기술로 조잡하게 보충되었습니다. 한편, 식민지 함대 고유의 외골격 기술을 활용하여 적재 공간을 확장하고 하중 지지 능력을 크게 향상시켰습니다. 원형보다 성능은 강력하지만 정신적으로 안정된 개체가 착용할 경우 극심한 불쾌감을 유발합니다. 매뉴얼에는 본 시리즈의 장비를 엄격히 관리해야 하며, 정보가 없는 인원의 사용을 금지한다고 명시되어 있습니다. 이를 어길 시 심각한 결과를 초래할 수 있습니다.</Polarisbloc_NibelungStandardArmor.description>
+
+  <Polarisbloc_NibelungStandardTights.label>니벨룽 표준 타이츠</Polarisbloc_NibelungStandardTights.label>
+  <Polarisbloc_NibelungStandardTights.description>디스오더 시스템하의 모 기업이 회수된 시그너스 바디슈트를 기반으로 역설계한 의복입니다. 핵심 기술 부족으로 시그너스 젤의 치료 효과를 재현하는 데는 실패했습니다. 게다가 회수된 부품들의 손상이 심해 전술적 요구치를 충족하고자 신경접착제 기술을 도입했습니다. 그러나 대부분의 착용자는 슈트 내부에서 느껴지는 신경접착제 특유의 축축하고 끈적거리는 감촉을 견디기 힘들어합니다.</Polarisbloc_NibelungStandardTights.description>
+
+  <Polarisbloc_NibelungTacticalGoggles.label>니벨룽 전술 고글</Polarisbloc_NibelungTacticalGoggles.label>
+  <Polarisbloc_NibelungTacticalGoggles.description>전장에서 회수한 '투반 전술 고글'의 표본을 역설계하여 제작된 고글입니다. 전술 슈트와는 달리, 기존 고글이 제어 척추가 이식된 유닛의 전술적 요구사항을 전혀 충족하지 못했기에 인간의 안전 임계치를 넘어서는 기술이 적용되었습니다. 뇌의 연산 능력을 강제로 끌어다 써서 보호막을 활성화하므로, 일반 전투 부대가 사용할 경우 뇌에 가해지는 압도적인 과부하로 인해 치명적인 결과를 초래할 수 있습니다.</Polarisbloc_NibelungTacticalGoggles.description>
+</LanguageData>
