@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimScent_Anosmic.degreeDatas.0.label>후각상실</RimScent_Anosmic.degreeDatas.0.label>
+  <RimScent_Anosmic.degreeDatas.0.description>{PAWN_nameDef}(은)는 후각이 전혀 없습니다. 좋은 향기를 즐길 수는 없지만, 악취나 연기, 생화학적인 고약한 냄새로부터는 완전히 면역입니다.</RimScent_Anosmic.degreeDatas.0.description>
+
+  <RimScent_KeenNose.degreeDatas.0.label>예민한 코</RimScent_KeenNose.degreeDatas.0.label>
+  <RimScent_KeenNose.degreeDatas.0.description>{PAWN_nameDef}(은)는 비정상적으로 날카로운 후각을 가지고 있습니다. 모든 종류의 냄새에 두 배나 더 민감하게 반응합니다.</RimScent_KeenNose.degreeDatas.0.description>
+
+  <RimScent_Dysosmic.degreeDatas.0.label>이상 후각</RimScent_Dysosmic.degreeDatas.0.label>
+  <RimScent_Dysosmic.degreeDatas.0.description>{PAWN_nameDef}의 후각 체계는 일반인과는 정반대로 구성되어 있습니다. 부패한 냄새나 오물, 연기 냄새에는 기묘한 매력을 느끼는 반면, 갓 내린 빗줄기나 깨끗한 공기에는 불안감을 느낍니다.</RimScent_Dysosmic.degreeDatas.0.description>
+</LanguageData>

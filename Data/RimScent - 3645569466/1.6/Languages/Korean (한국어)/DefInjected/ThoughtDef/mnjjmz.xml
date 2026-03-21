@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimScent_VomitScent.stages.0.label>토사물 냄새</RimScent_VomitScent.stages.0.label>
+  <RimScent_VomitScent.stages.0.description>반쯤 소화된 음식물의 시큼하고 역한 냄새가 나서 속이 뒤집힐 것 같아.</RimScent_VomitScent.stages.0.description>
+
+  <RimScent_BloodScent.stages.0.label>피 냄새</RimScent_BloodScent.stages.0.label>
+  <RimScent_BloodScent.stages.0.description>신선한 피 특유의 무겁고 비린 쇠 냄새가 나. 폭력의 흔적이 느껴지는 향이야.</RimScent_BloodScent.stages.0.description>
+
+  <RimScent_TrashScent.stages.0.label>쓰레기 악취</RimScent_TrashScent.stages.0.label>
+  <RimScent_TrashScent.stages.0.description>부패한 찌꺼기와 오래된 오물의 냄새가 나. 누군가 치워야 할 것 같아.</RimScent_TrashScent.stages.0.description>
+
+  <RimScent_AshScent.stages.0.label>퀴퀴한 재 냄새</RimScent_AshScent.stages.0.label>
+  <RimScent_AshScent.stages.0.description>탄 잔해와 그을음의 건조한 냄새네.</RimScent_AshScent.stages.0.description>
+
+  <RimScent_FuelScent.stages.0.label>연료 증기</RimScent_FuelScent.stages.0.label>
+  <RimScent_FuelScent.stages.0.description>화학연료와 기름 증기의 날카로운 냄새가 코를 찔러. 가벼운 두통이 느껴질 정도야.</RimScent_FuelScent.stages.0.description>
+
+  <RimScent_DirtScent.stages.0.label>탁한 공기</RimScent_DirtScent.stages.0.label>
+  <RimScent_DirtScent.stages.0.description>그저 흙과 먼지, 때의 냄새. 아주 따분해.</RimScent_DirtScent.stages.0.description>
+
+  <RimScent_ExplosionScent.stages.0.label>유황과 오존</RimScent_ExplosionScent.stages.0.label>
+  <RimScent_ExplosionScent.stages.0.description>방금 일어난 폭발의 날카롭고 매캐한 냄새야. 화약 냄새와 위험의 향취가 진동해.</RimScent_ExplosionScent.stages.0.description>
+
+  <RimScent_FireScent.stages.0.label>불타는 냄새</RimScent_FireScent.stages.0.label>
+  <RimScent_FireScent.stages.0.description>통제되지 않는 화마의 지독한 냄새야. 기분이 좋지 않은걸.</RimScent_FireScent.stages.0.description>
+
+  <RimScent_GeneratorScent.stages.0.label>발전기 매연</RimScent_GeneratorScent.stages.0.label>
+  <RimScent_GeneratorScent.stages.0.description>가동 중인 발전기의 냄새야. 마스크 없이는 너무 오래 머물지 않는 게 좋겠어.</RimScent_GeneratorScent.stages.0.description>
+
+  <RimScent_FirefoamScent.stages.0.label>화학 거품의 무취</RimScent_FirefoamScent.stages.0.label>
+  <RimScent_FirefoamScent.stages.0.description>이 화재 진압용 거품은 밋밋하고 분말 같은 인공적인 냄새가 나.</RimScent_FirefoamScent.stages.0.description>
+
+  <RimScent_CampfireScent.stages.0.label>포근한 모닥불 향기</RimScent_CampfireScent.stages.0.label>
+  <RimScent_CampfireScent.stages.0.description>타오르는 모닥불 특유의 향수 어린 나무 냄새... 집과 같은 안정감이 느껴져.</RimScent_CampfireScent.stages.0.description>
+
+  <RimScent_PetrichorScent.stages.0.label>페트리코</RimScent_PetrichorScent.stages.0.label>
+  <RimScent_PetrichorScent.stages.0.description>비 온 뒤에 나는 상쾌한 흙냄새야. 깨끗하고 활력이 솟으면서 평화로운 기분이 들어.</RimScent_PetrichorScent.stages.0.description>
+
+  <RimScent_BileScent.stages.0.label>불쾌한 부패액 냄새</RimScent_BileScent.stages.0.label>
+  <RimScent_BileScent.stages.0.description>체액과 썩은내가 섞인 쏘는 듯한 고약한 악취야. 목구멍 뒤편에 냄새가 계속 맴돌아!</RimScent_BileScent.stages.0.description>
+
+  <RimScent_ToxicScent.stages.0.label>따가운 독성 냄새</RimScent_ToxicScent.stages.0.label>
+  <RimScent_ToxicScent.stages.0.description>눈물이 날 정도로 따갑고 쏘는 듯한 화학 물질의 냄새야.</RimScent_ToxicScent.stages.0.description>
+
+  <RimScent_SmokeleafSmoke.stages.0.label>연초 연기</RimScent_SmokeleafSmoke.stages.0.label>
+  <RimScent_SmokeleafSmoke.stages.0.description>타오르는 연초의 지독한 연기가 공중에 감돌아. 짜증이 나네.</RimScent_SmokeleafSmoke.stages.0.description>
+  <RimScent_SmokeleafOdor.stages.0.label>연초 냄새</RimScent_SmokeleafOdor.stages.0.label>
+  <RimScent_SmokeleafOdor.stages.0.description>선명한 연초 냄새가 공중에 남아있어. 집중을 방해하고 그다지 유쾌하지 않네.</RimScent_SmokeleafOdor.stages.0.description>
+
+  <RimScent_FloweryScent.stages.0.label>꽃향기</RimScent_FloweryScent.stages.0.label>
+  <RimScent_FloweryScent.stages.0.description>근처 꽃에서 풍겨오는 신선하고 은은한 흙내음 섞인 향기야.</RimScent_FloweryScent.stages.0.description>
+
+  <RimScent_TwistedFleshScent.stages.0.label>뒤틀린 살점의 악취</RimScent_TwistedFleshScent.stages.0.label>
+  <RimScent_TwistedFleshScent.stages.0.description>날고기와 비정상적이고 급격한 성장이 섞인 메스꺼운 냄새야. 무언가 잘못된 것 같아.</RimScent_TwistedFleshScent.stages.0.description>
+  <RimScent_GrayFleshScent.stages.0.label>회색 살점의 악취</RimScent_GrayFleshScent.stages.0.label>
+  <RimScent_GrayFleshScent.stages.0.description>오래된 구리와 탄 머리카락 같은 냄새가 나. 존재해서는 안 될 부자연적이고 불쾌한 냄새야...</RimScent_GrayFleshScent.stages.0.description>
+
+  <RimScent_BadHygiene.stages.0.label>악취 나는 인물</RimScent_BadHygiene.stages.0.label>
+  <RimScent_BadHygiene.stages.0.description>주변의 누군가에게 지독한 냄새가 나. 좀 씻어야 할 것 같아.</RimScent_BadHygiene.stages.0.description>
+  <RimScent_Feces.stages.0.label>대변 악취</RimScent_Feces.stages.0.label>
+  <RimScent_Feces.stages.0.description>여긴 완전히 구역질 나는 오물 냄새가 진동해.</RimScent_Feces.stages.0.description>
+  <RimScent_Urine.stages.0.label>소변 악취</RimScent_Urine.stages.0.label>
+  <RimScent_Urine.stages.0.description>톡 쏘고 불쾌한, 선명한 소변 지린내가 진동해.</RimScent_Urine.stages.0.description>
+
+  <RimScent_DeepchemScent.stages.0.label>심층 화학연료 매연</RimScent_DeepchemScent.stages.0.label>
+  <RimScent_DeepchemScent.stages.0.description>심층 화학연료와 기름의 날카롭고 강렬한 매연이야. 머리가 아파.</RimScent_DeepchemScent.stages.0.description>
+  <RimScent_ReclaimedBiopackScent.stages.0.label>생물질 악취</RimScent_ReclaimedBiopackScent.stages.0.label>
+  <RimScent_ReclaimedBiopackScent.stages.0.description>생물질 특유의 짙은 흙냄새가 나. 불쾌해.</RimScent_ReclaimedBiopackScent.stages.0.description>
+  <RimScent_ReactiveChempackScent.stages.0.label>화학적 악취</RimScent_ReactiveChempackScent.stages.0.label>
+  <RimScent_ReactiveChempackScent.stages.0.description>타는 듯한 화학 물질의 악취야.</RimScent_ReactiveChempackScent.stages.0.description>
+  <RimScent_BlackpowderOdor.stages.0.label>흑색화약 냄새</RimScent_BlackpowderOdor.stages.0.label>
+  <RimScent_BlackpowderOdor.stages.0.description>유황과 연기가 섞인 흑색화약 냄새입니다. 조금은 향수를 불러일으키네.</RimScent_BlackpowderOdor.stages.0.description>
+</LanguageData>
