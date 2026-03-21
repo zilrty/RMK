@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_InstructionManual_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[contentOverview][intro]. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>desc-&gt;[contentOverview][intro]. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>intro-&gt;에 대해 알려주겠다는 [writingQualityAdjective] [manualType]입니다</li>
+    <li>intro-&gt;(을)를 단순히 설명할 수 있도록 만들어진 [writingQualityAdjective] [manualType]입니다</li>
+    <li>intro-&gt;(을)를 설명하고자 하는 [writingQualityAdjective] 글입니다</li>
+    <li>intro-&gt;에 관한 복잡한 지침이 빼곡히 적힌 [writingQualityAdjective] 걸작입니다</li>
+    <li>contentOverview-&gt;모듈형 가구의 조립 과정</li>
+    <li>contentOverview-&gt;새로 구입한 제품을 조립하는 당혹스러운 과정</li>
+    <li>contentOverview-&gt;모든 너트, 볼트, 그리고 정체 모를 부속품들</li>
+    <li>contentOverview-&gt;나무 더미와 나사를 사용할 수 있는 물건으로 바꾸는 법</li>
+    <li>contentOverview-&gt;결국에는 가구와 비슷해질 무언가를 만드는 법</li>
+    <li>quirkStatement-&gt;당황스럽게도, 항상 적어도 하나의 부품은 남기 마련입니다</li>
+    <li>quirkStatement-&gt;어느 부품의 라벨이 잘못 붙었는지 논쟁할 준비를 하세요</li>
+    <li>quirkStatement-&gt;상형문자 전공 학위가 필요해 보이는 난해한 도표가 포함되어 있습니다</li>
+    <li>quirkStatement-&gt;당신에게 확실히 없을 도구들만을 위해 할애된 페이지가 있습니다</li>
+    <li>quirkStatement-&gt;단계 절반이 의문에 싸인 채 누락되었지만, 그것도 조립의 묘미입니다</li>
+    <li>quirkStatement-&gt;결과물이 사진과 다를 수 있지만, 어쨌든 형태는 유지될 겁니다 (아마도요)</li>
+    <li>quirkStatement-&gt;어떻게든 모든 부품이 들어맞긴 합니다... 딱 하나만 빼고요</li>
+    <li>qualityStatement(quality==6)-&gt;명확함과 재치가 돋보이는 역작으로, 동종 설명서 중 단연 최고입니다.</li>
+    <li>qualityStatement(quality==5)-&gt;약간의 아쉬움은 있지만, 전반적으로 탄탄하고 잘 구성된 가이드입니다.</li>
+    <li>qualityStatement(quality==4)-&gt;기능적인 설명서이긴 하나, 가끔 고개를 갸우뚱하게 만들 수도 있습니다.</li>
+    <li>qualityStatement(quality==3)-&gt;나쁘지 않은 시도지만, 이따금씩 모호한 설명 때문에 진행이 더뎌질 것입니다.</li>
+    <li>qualityStatement(quality==2)-&gt;답답할 정도로 모호하며, 많은 부분을 시행착오에 맡겨야 합니다.</li>
+    <li>qualityStatement(quality==1)-&gt;혼란스럽고 불완전하지만, 그래도 아주 약간은 도움이 됩니다.</li>
+    <li>qualityStatement(quality==0)-&gt;완전히 엉망진창으로, 무작위로 섞인 사진들보다도 도움이 안 됩니다.</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭하게 다듬어진</li>
+    <li>writingQualityAdjective(quality==5)-&gt;심사숙고하여 작성된</li>
+    <li>writingQualityAdjective(quality==4)-&gt;능숙하게 만들어진</li>
+    <li>writingQualityAdjective(quality==3)-&gt;사용하기에 적절한</li>
+    <li>writingQualityAdjective(quality==2)-&gt;마무리가 거친</li>
+    <li>writingQualityAdjective(quality==1)-&gt;문장이 어색한</li>
+    <li>writingQualityAdjective(quality==0)-&gt;거의 갈피를 잡을 수 없는</li>
+    <li>manualType-&gt;조립 설명서</li>
+    <li>manualType-&gt;사용 설명서</li>
+    <li>manualType-&gt;DIY 책자</li>
+    <li>manualType-&gt;실습 매뉴얼</li>
+    <li>ending-&gt;\n\n이 설명서를 다 읽으면 간단한 가구의 제작 속도가 향상됩니다. 그 후 설명서는 헐거운 나사들로 분해되어 부서질 것입니다.</li>
+  </ABooks_InstructionManual_Description.rulePack.rulesStrings>
+</LanguageData>

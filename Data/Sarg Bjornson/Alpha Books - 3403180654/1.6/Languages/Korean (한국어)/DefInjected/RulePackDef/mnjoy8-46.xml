@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_ReligiousText_Namer.rulePack.rulesStrings>
+    <li>title(p=4)-&gt;[religiousTextNameBasic]</li>
+    <li>title(p=2)-&gt;[religiousTextNameGrandiose]</li>
+    <li>title-&gt;[religiousTextNameSimple]</li>
+    <li>title-&gt;[religiousTextNameAuthored]</li>
+    <li>religiousTextNameBasic(p=6)-&gt;[altStructureNameBasic]의 길</li>
+    <li>religiousTextNameBasic(p=6)-&gt;[altStructureNameBasic]의 규율</li>
+    <li>religiousTextNameBasic(p=6)-&gt;[altStructureNameBasic]의 가르침</li>
+    <li>religiousTextNameBasic(p=6)-&gt;[altStructureNameBasic]의 기록</li>
+    <li>religiousTextNameBasic-&gt;[altStructureNameBasic]의 성전</li>
+    <li>religiousTextNameBasic-&gt;[altStructureNameBasic]의 교리</li>
+    <li>religiousTextNameBasic-&gt;[altStructureNameBasic]의 경전</li>
+    <li>religiousTextNameBasic-&gt;[altStructureNameBasic]의 찬송</li>
+    <li>religiousTextNameBasic-&gt;[altStructureNameBasic]의 계시</li>
+    <li>religiousTextNameBasic-&gt;[altStructureNameBasic]의 성언</li>
+    <li>religiousTextNameGrandiose(p=6)-&gt;[altStructureNameBasic]의 영원한 지혜</li>
+    <li>religiousTextNameGrandiose(p=6)-&gt;[altStructureNameBasic]의 드러난 진리</li>
+    <li>religiousTextNameGrandiose-&gt;[altStructureNameBasic]의 천상 복음</li>
+    <li>religiousTextNameGrandiose-&gt;[altStructureNameBasic]의 신성한 위임</li>
+    <li>religiousTextNameGrandiose-&gt;[altStructureNameBasic] 연대기</li>
+    <li>religiousTextNameGrandiose-&gt;[altStructureNameBasic]의 영원한 가르침</li>
+    <li>religiousTextNameGrandiose-&gt;[altStructureNameBasic]의 예언</li>
+    <li>religiousTextNameGrandiose-&gt;[altStructureNameBasic]의 불변법</li>
+    <li>religiousTextNameGrandiose-&gt;[altStructureNameBasic]의 성칙</li>
+    <li>religiousTextNameGrandiose-&gt;[altStructureNameBasic]의 성약</li>
+    <li>religiousTextNameSimple(p=6)-&gt;[altStructureNameBasic]의 서</li>
+    <li>religiousTextNameSimple(p=6)-&gt;[altStructureNameBasic]에 대한 고찰</li>
+    <li>religiousTextNameSimple-&gt;[altStructureNameBasic]의 길</li>
+    <li>religiousTextNameSimple-&gt;[altStructureNameBasic] 명상록</li>
+    <li>religiousTextNameSimple-&gt;[altStructureNameBasic]의 경전</li>
+    <li>religiousTextNameSimple-&gt;[altStructureNameBasic]의 말씀</li>
+    <li>religiousTextNameSimple-&gt;[altStructureNameBasic]의 지혜</li>
+    <li>religiousTextNameSimple-&gt;[altStructureNameBasic]의 구절</li>
+    <li>religiousTextNameSimple-&gt;[altStructureNameBasic] 성서</li>
+    <li>religiousTextNameSimple-&gt;[altStructureNameBasic]의 율법</li>
+    <li>religiousTextNameAuthored(p=6)-&gt;[altStructureNameBasic]에 관한 [ANYPAWN_nameIndef]의 계시</li>
+    <li>religiousTextNameAuthored(p=6)-&gt;[ANYPAWN_nameIndef]의 [altStructureNameBasic] 연대기</li>
+    <li>religiousTextNameAuthored-&gt;[altStructureNameBasic]에 대한 [ANYPAWN_nameIndef]의 증언</li>
+    <li>religiousTextNameAuthored-&gt;[altStructureNameBasic]에 관한 [ANYPAWN_nameIndef]의 성찰</li>
+    <li>religiousTextNameAuthored-&gt;[ANYPAWN_nameIndef](이)가 본 [altStructureNameBasic]의 환상</li>
+    <li>religiousTextNameAuthored-&gt;[ANYPAWN_nameIndef]의 [altStructureNameBasic] 찬가</li>
+    <li>religiousTextNameAuthored-&gt;[altStructureNameBasic]에 관한 [ANYPAWN_nameIndef]의 철학</li>
+    <li>religiousTextNameAuthored-&gt;[altStructureNameBasic]에 관한 [ANYPAWN_nameIndef]의 성문</li>
+    <li>religiousTextNameAuthored-&gt;[altStructureNameBasic]에 관한 [ANYPAWN_nameIndef]의 예언</li>
+    <li>religiousTextNameAuthored-&gt;[altStructureNameBasic]에 대한 [ANYPAWN_nameIndef]의 신성한 통찰</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 체계</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 강령</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 교의</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 질서</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 도식</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 조직</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 본체</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 제도</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 망</li>
+    <li>altStructureNameBasic-&gt;[subject_primary] 위계</li>
+  </ABooks_ReligiousText_Namer.rulePack.rulesStrings>
+</LanguageData>

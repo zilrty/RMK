@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_SurvivalGuide_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro]. [advice]. [warning]. [quirk]. [conclusion]\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc-&gt;[intro]. [advice]. [quirk]. [warning]. [conclusion]\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc-&gt;[intro]. [advice]. [warning]."\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc-&gt;[intro]. [advice]. [quirk]."\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc-&gt;[intro]. [advice]."\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>intro-&gt;"[subject_primary](을)를 헤쳐 나가는 것은 결코 쉬운 일이 아닙니다</li>
+    <li>intro-&gt;"[subject_primary]에서 살아남기 위해서는 지식과 투지가 필요합니다</li>
+    <li>intro-&gt;"[subject_primary](은)는 안식처인 동시에 위험한 곳이 될 수 있습니다</li>
+    <li>intro-&gt;"[subject_primary]에서 성공하려면 먼저 그곳을 존중해야 합니다</li>
+    <li>intro-&gt;"[subject_primary](은)는 아름다운 만큼이나 자비가 없는 곳입니다</li>
+    <li>advice-&gt;생존하려면 필수적으로 [key_survival_topic](을)를 완벽히 알아둬야 합니다</li>
+    <li>advice-&gt;현지 야생동물의 패턴을 이해하는 것이 매우 중요합니다</li>
+    <li>advice-&gt;[key_resource](을)를 찾아내고 보존하는 것을 최우선으로 두십시오</li>
+    <li>advice-&gt;신속하게 은신처를 마련하는 것이 생존의 열쇠입니다</li>
+    <li>advice-&gt;날씨를 예의주시하십시오. 생각보다 더 빠르게 변할 수 있습니다</li>
+    <li>advice-&gt;과도한 체력 소모를 피하고 가능한 한 에너지를 아끼십시오</li>
+    <li>key_survival_topic-&gt;험난한 지형을 통과하는 법</li>
+    <li>key_survival_topic-&gt;식수를 찾아 정수하는 법</li>
+    <li>key_survival_topic-&gt;효과적인 은신처를 구축하는 일</li>
+    <li>key_survival_topic-&gt;장기 식품 저장량을 관리하는 법</li>
+    <li>key_survival_topic-&gt;포식자를 피하고 방어하는 법</li>
+    <li>key_survival_topic-&gt;안전한 식물을 식별하는 법</li>
+    <li>key_resource-&gt;깨끗한 물</li>
+    <li>key_resource-&gt;충분한 식량</li>
+    <li>key_resource-&gt;거처용 자재</li>
+    <li>key_resource-&gt;장작 또는 기타 연료</li>
+    <li>key_resource-&gt;방어용 도구</li>
+    <li>key_resource-&gt;의약품이나 치료 용품</li>
+    <li>warning-&gt;준비에 소홀하다면 [subject_primary]의 자연이 당신을 즉각 응징할 것입니다</li>
+    <li>warning-&gt;이곳의 밤은 당신이 상상하는 것보다 더 춥고 치명적입니다</li>
+    <li>warning-&gt;계획이 불충분하면 포식자들의 자비에 생사를 맡기게 될 수 있습니다</li>
+    <li>warning-&gt;자만심을 경계하십시오. 노련한 탐험가조차 이곳에서는 희생양이 됩니다</li>
+    <li>warning-&gt;환경을 오판하는 것은 곧 확실한 파멸을 의미합니다</li>
+    <li>warning-&gt;[subject_primary](은)는 그 어떠한 실수도 용납하지 않는 곳입니다</li>
+    <li>quirk-&gt;흥미롭게도 [subject_primary]에는 묘하게 [quirky_flavor] 맛이 나는 식용 식물들이 자생합니다</li>
+    <li>quirk-&gt;전설에 따르면 [subject_primary] 깊은 곳 가장 황량한 지대에는 보물이 숨겨져 있다고 합니다</li>
+    <li>quirk-&gt;이곳에서는 곤충들조차 연구할 가치가 있는 생존 전략을 지닌 듯 보입니다</li>
+    <li>quirk-&gt;[subject_primary](은)는 기괴하면서도 마치 선율 같은 바람 소리로 유명합니다</li>
+    <li>quirk-&gt;묘한 이야기지만, [subject_primary]에서는 생애 가장 선명하고 강렬한 노을을 감상할 수 있습니다</li>
+    <li>quirky_flavor-&gt;박하</li>
+    <li>quirky_flavor-&gt;레몬그라스</li>
+    <li>quirky_flavor-&gt;블루베리</li>
+    <li>quirky_flavor-&gt;흙내음 나는 버섯</li>
+    <li>quirky_flavor-&gt;양념된 꿀</li>
+    <li>conclusion-&gt;[subject_primary]에 대한 존중과 경계심을 가진 자세로 임한다면, 당신은 살아남을 수 있을지도 모릅니다."</li>
+    <li>conclusion-&gt;오직 준비된 자와 자원이 풍부한 자만이 이 환경에서 진정으로 번창할 수 있습니다."</li>
+    <li>conclusion-&gt;그곳은 가혹한 교훈의 장소이지만, 동시에 놀라운 보상이 기다리는 곳이기도 합니다."</li>
+    <li>conclusion-&gt;명심하십시오. 이곳에서의 생존은 단순한 기술이 아니라 하나의 예술입니다."</li>
+    <li>conclusion-&gt;[subject_primary](은)는 자비롭지 않으나, 끝내 정복될 수 있는 대상입니다."</li>
+    <li>writingQualitySentence-&gt;이 [writingQualityAdjective] [bookType](은)는 독자들에게 생존의 위험 요소와 전략에 대한 통찰을 제공합니다.</li>
+    <li>writingQualitySentence-&gt;[writingQualityAdjective] 문체로 쓰인 이 [bookType](은)는 신중한 여행자를 위한 풍부한 지식을 담고 있습니다.</li>
+    <li>writingQualitySentence-&gt;이 [bookType](은)는 [writingQualityAdjective] 자료로서 각종 충고들과 [subject_primary]의 풍경 묘사를 조화롭게 엮어냅니다.</li>
+    <li>bookType-&gt;생존 지침서</li>
+    <li>bookType-&gt;매뉴얼</li>
+    <li>bookType-&gt;핸드북</li>
+    <li>bookType-&gt;대백과</li>
+    <li>bookType-&gt;현장 가이드</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 필력이 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;정교하고 상세한</li>
+    <li>writingQualityAdjective(quality==4)-&gt;심사숙고의 흔적이 드러나는</li>
+    <li>writingQualityAdjective(quality==3)-&gt;능숙하게 쓰인</li>
+    <li>writingQualityAdjective(quality==2)-&gt;다소 투박한</li>
+    <li>writingQualityAdjective(quality==1)-&gt;구성이 엉성한</li>
+    <li>writingQualityAdjective(quality==0)-&gt;엉망진창으로 버무려진</li>
+    <li>ending-&gt;끝까지 읽으면 이 책은 흔적도 없이 사라지며, 유일하게 남겨지는 것은 독자의 머리 속 지식뿐입니다.</li>
+    <li>ending-&gt;내용을 완독하는 즉시 이 안내서는 자폭하며, 오직 한 명의 독자만이 비밀을 간직할 수 있도록 보장합니다.</li>
+    <li>ending-&gt;지혜를 흡수하고 나면 책은 잃겠지만, 생존 노하우를 얻게 될 것입니다.</li>
+    <li>ending-&gt;전부 읽으면 책은 사라지고, 당신의 기억에 새겨진 교훈만이 남습니다.</li>
+  </ABooks_SurvivalGuide_Description.rulePack.rulesStrings>
+</LanguageData>

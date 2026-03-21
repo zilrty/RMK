@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_PsycasterGuide_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthored]</li>
+    <li>titleBasic(p=6)-&gt;[randAdjective] [subject_primary] 초능력자 가이드</li>
+    <li>titleBasic(p=6)-&gt;[randNoun] 그리고 [subject_primary] 시전 기법</li>
+    <li>titleBasic-&gt;초능력자 핸드북: [subject_primary] 마스터하기</li>
+    <li>titleBasic-&gt;[subject_primary](을)를 위한 필수 기술</li>
+    <li>titleBasic-&gt;초보자를 위한 [subject_primary] 초능력 가이드</li>
+    <li>titleBasic-&gt;심화 초능력 과정: [subject_primary]</li>
+    <li>titleBasic-&gt;초월공학 정신 활용하기: [subject_primary]</li>
+    <li>titleBasic-&gt;초능력 정복하기: [subject_primary]의 기술</li>
+    <li>titleBasic-&gt;잠재력 해방: [subject_primary] 시전</li>
+    <li>titleBasic-&gt;초보에서 전문가까지: [subject_primary]의 시전 기법</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 초능력 가이드</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 초능력자 기술 매뉴얼: [subject_primary]</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 연구</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 초능력 핸드북: [subject_primary]</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 고급 [subject_primary]에 관한 기록</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 초능력 가르침</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 숙련을 위한 통찰</li>
+  </ABooks_PsycasterGuide_Namer.rulePack.rulesStrings>
+</LanguageData>

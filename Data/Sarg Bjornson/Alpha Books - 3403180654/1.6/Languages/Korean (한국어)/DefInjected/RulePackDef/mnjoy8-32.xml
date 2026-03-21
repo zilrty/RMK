@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_BookOfCondiments_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthored]</li>
+    <li>titleBasic-&gt;[subject_primary]의 연금술</li>
+    <li>titleBasic-&gt;[subject_primary]: 요리 연대기</li>
+    <li>titleBasic-&gt;[subject_primary]의 기술을 터득하는 법</li>
+    <li>titleBasic-&gt;[subject_primary]의 숨겨진 힘</li>
+    <li>titleBasic-&gt;[subject_primary]에 대해서</li>
+    <li>titleBasic-&gt;[subject_primary]의 비밀</li>
+    <li>titleBasic-&gt;[subject_primary]: 미식가를 위한 지침서</li>
+    <li>titleBasic-&gt;[subject_primary]의 신비 파고들기</li>
+    <li>titleBasic-&gt;[subject_primary]의 미스터리</li>
+    <li>titleBasic-&gt;[subject_primary]: 맛의 비법서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 [subject_primary] 개론</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 [subject_primary] 탐구</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 [subject_primary] 관련 의견</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 [subject_primary] 지침서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 [subject_primary] 연구</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 [subject_primary]의 정수</li>
+  </ABooks_BookOfCondiments_Namer.rulePack.rulesStrings>
+</LanguageData>

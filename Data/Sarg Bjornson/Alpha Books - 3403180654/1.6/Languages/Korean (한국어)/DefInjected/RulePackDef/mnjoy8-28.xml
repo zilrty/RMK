@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_ZoologicalCompendium_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[context] [excerpt]\n\n[writingQualitySentence] [ending]</li>
+    <li>excerpt-&gt;자연의 경이인 [creatureAdjective] [creatureName](와)과 같은 생물들을 보십시오. 이들은 [notableTrait] 덕분에 알려진 모든 동물군 사이에서 [traitImpact](으)로 손꼽힙니다."</li>
+    <li>excerpt-&gt;이곳에 분류된 수많은 생물 중에서도 [creatureAdjective] [creatureName](은)는 단연 돋보입니다. [notableTrait](으)로 잘 알려진 이 생물은 [reaction]의 원천이었습니다."</li>
+    <li>excerpt-&gt;이 모든 생물 중에서도 [notableTrait](을)를 지닌 [creatureAdjective] [creatureName]만큼 감탄을 불러일으키는 존재는 드뭅니다. 해당 영역에서 [traitImpact]인 이 존재는 분류하기 매우 까다롭습니다."</li>
+    <li>excerpt-&gt;[creatureAdjective] [creatureName]은 [notableTrait](이)라는 특성을 지녔습니다. 이 생물은 [reaction]의 일부가 되어왔으며, 동물학 역사의 한 켠에 그 자리를 굳건히 했습니다."</li>
+    <li>context-&gt;"수십 년간의 탐험 끝에 얻은 결실인 이 도감은 수많은 놀라운 발견들을 담고 있습니다.</li>
+    <li>context-&gt;"세심한 관찰을 바탕으로 집필된 이 책을 통해 변경계의 다양한 동물들을 기록에 남기고자 합니다.</li>
+    <li>context-&gt;"이번 권에서는 과학적 시각과 경이로움을 통해 인류가 만들어낸 생물의 다양성을 연대기순으로 기록하고 있습니다.</li>
+    <li>context-&gt;"호기심과 경외심으로 빚어낸 이 저작은 변경계 동물을 탐구하며 보낸 수십 년의 세월을 응축하고 있습니다.</li>
+    <li>writingQualitySentence(quality==6)-&gt;매우 뛰어난 수준의 동물학 학술 연구를 담은 저작이며, 어떤 귀중한 장서 목록에 올라도 손색이 없습니다.</li>
+    <li>writingQualitySentence(quality==5)-&gt;주의를 기울여 상세히 기록된 연대기이며, 독자에게 새로운 지식을 불어넣어 줄 것이 분명합니다.</li>
+    <li>writingQualitySentence(quality==4)-&gt;준수한 연구 결과물로서, 동물의 세계에 대한 가치 있는 통찰을 제공합니다.</li>
+    <li>writingQualitySentence(quality==3)-&gt;기능적으로는 충실하나 특별할 것 없는 책으로, 표준적인 관찰 내용들을 담고 있습니다.</li>
+    <li>writingQualitySentence(quality==2)-&gt;결함이 있는 저작입니다. 오류가 많지만 가끔 흥미로운 대목이 엿보이기도 합니다.</li>
+    <li>writingQualitySentence(quality==1)-&gt;엄밀함이 부족하고 실수로 점철된, 마구잡이로 쓰여진 글입니다.</li>
+    <li>writingQualitySentence(quality==0)-&gt;어처구니없는 실패작이며, 오류가 너무 많아 읽을 만한 가치가 없습니다.</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 동물과 관련된 다양한 보너스를 받으며, 그 과정에서 책은 사라집니다.</li>
+    <li>creatureAdjective-&gt;강력한</li>
+    <li>creatureAdjective-&gt;수수께끼 같은</li>
+    <li>creatureAdjective-&gt;우아한</li>
+    <li>creatureAdjective-&gt;포착하기 어려운</li>
+    <li>creatureAdjective-&gt;흉포한</li>
+    <li>creatureAdjective-&gt;신비로운</li>
+    <li>creatureAdjective-&gt;이국적인</li>
+    <li>creatureName-&gt;트럼보</li>
+    <li>creatureName-&gt;거대늘보</li>
+    <li>creatureName-&gt;머팔로</li>
+    <li>creatureName-&gt;폭탄사슴</li>
+    <li>creatureName-&gt;와르그</li>
+    <li>creatureName-&gt;메가스파이더</li>
+    <li>creatureName-&gt;호박말벌</li>
+    <li>creatureName-&gt;선인장뿔쥐</li>
+    <li>creatureName-&gt;어둠짐승</li>
+    <li>creatureName-&gt;불사 부엉묘</li>
+    <li>creatureName-&gt;에어로플릿</li>
+    <li>creatureName-&gt;아크투란 하늘장어</li>
+    <li>creatureName-&gt;갈라트로스</li>
+    <li>creatureName-&gt;극지사자</li>
+    <li>creatureName-&gt;카멜레온 야크</li>
+    <li>creatureName-&gt;신더리스크</li>
+    <li>creatureName-&gt;수정카라칼</li>
+    <li>creatureName-&gt;기간텔로프</li>
+    <li>creatureName-&gt;매머드웜</li>
+    <li>notableTrait-&gt;눈부신 털</li>
+    <li>notableTrait-&gt;거대한 크기</li>
+    <li>notableTrait-&gt;인상적인 자세</li>
+    <li>notableTrait-&gt;타고난 흉포함</li>
+    <li>notableTrait-&gt;독특한 짝짓기 습성</li>
+    <li>notableTrait-&gt;극한 환경에서의 생존 능력</li>
+    <li>traitImpact-&gt;핵심종</li>
+    <li>traitImpact-&gt;무시무시한 포식자</li>
+    <li>traitImpact-&gt;끝없는 매혹의 원천</li>
+    <li>traitImpact-&gt;인내의 상징</li>
+    <li>traitImpact-&gt;자연에서 보기 어려운 유형의 종</li>
+    <li>reaction-&gt;다양한 문화권의 음악과 신화</li>
+    <li>reaction-&gt;수많은 학자들의 연구</li>
+    <li>reaction-&gt;경외심과 두려움 양쪽 모두</li>
+    <li>reaction-&gt;사냥꾼들 사이의 값진 전유물</li>
+    <li>reaction-&gt;박물학자들의 호기심</li>
+  </ABooks_ZoologicalCompendium_Description.rulePack.rulesStrings>
+</LanguageData>

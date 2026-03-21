@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_PsychologyBook_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[concept][prefix]</li>
+    <li>title-&gt;[concept]: [subtitle]</li>
+    <li>title-&gt;[concept] 그리고 [phenomenon]</li>
+    <li>title-&gt;[phenomenon][emotionalVerb]</li>
+    <li>title-&gt;[phenomenon]의 [concept]</li>
+    <li>title-&gt;[context] 속의 [phenomenon]</li>
+    <li>prefix-&gt;의 기술</li>
+    <li>prefix-&gt;의 과학</li>
+    <li>prefix-&gt;의 힘</li>
+    <li>prefix-&gt;의 신비</li>
+    <li>prefix-&gt;의 한계를 넘기</li>
+    <li>prefix-&gt; 탐구하기</li>
+    <li>prefix-&gt; 발견하기</li>
+    <li>prefix-&gt; 마스터하기</li>
+    <li>prefix-&gt;의 비결</li>
+    <li>concept-&gt;마음챙김</li>
+    <li>concept-&gt;회복 탄력성</li>
+    <li>concept-&gt;행복</li>
+    <li>concept-&gt;정서 지능</li>
+    <li>concept-&gt;공감</li>
+    <li>concept-&gt;자기 인식</li>
+    <li>concept-&gt;정체성</li>
+    <li>concept-&gt;행동 패턴</li>
+    <li>concept-&gt;인간의 잠재력</li>
+    <li>concept-&gt;개인적 성장</li>
+    <li>concept-&gt;잠재의식</li>
+    <li>concept-&gt;애착</li>
+    <li>concept-&gt;트라우마</li>
+    <li>concept-&gt;인지 편향</li>
+    <li>concept-&gt;의사결정</li>
+    <li>concept-&gt;사회적 연결</li>
+    <li>subtitle-&gt;나를 이해하는 여정</li>
+    <li>subtitle-&gt;우리는 왜 그렇게 생각하고 행동하는가</li>
+    <li>subtitle-&gt;명료한 정신을 얻는 열쇠</li>
+    <li>subtitle-&gt;더 나은 관계를 만드는 법</li>
+    <li>subtitle-&gt;인간 마음의 비밀을 풀다</li>
+    <li>subtitle-&gt;우리의 삶을 결정짓는 숨은 힘</li>
+    <li>subtitle-&gt;변화를 위한 실천 가이드</li>
+    <li>subtitle-&gt;부정적 사고의 고리를 끊는 법</li>
+    <li>subtitle-&gt;뇌과학과 심리학이 주는 교훈</li>
+    <li>subtitle-&gt;정서적 안녕을 위한 전략</li>
+    <li>phenomenon-&gt;스트레스</li>
+    <li>phenomenon-&gt;불안</li>
+    <li>phenomenon-&gt;번아웃</li>
+    <li>phenomenon-&gt;자존감과 확신</li>
+    <li>phenomenon-&gt;인간관계</li>
+    <li>phenomenon-&gt;동기 부여</li>
+    <li>phenomenon-&gt;습관</li>
+    <li>phenomenon-&gt;변화</li>
+    <li>phenomenon-&gt;두려움</li>
+    <li>phenomenon-&gt;외로움</li>
+    <li>phenomenon-&gt;불확실성</li>
+    <li>phenomenon-&gt;창의성</li>
+    <li>phenomenon-&gt;리더십</li>
+    <li>phenomenon-&gt;결정 피로</li>
+    <li>emotionalVerb-&gt; 극복하기</li>
+    <li>emotionalVerb-&gt; 받아들이기</li>
+    <li>emotionalVerb-&gt; 변화시키기</li>
+    <li>emotionalVerb-&gt; 헤쳐나가기</li>
+    <li>emotionalVerb-&gt; 정복하기</li>
+    <li>emotionalVerb-&gt; 재구성하기</li>
+    <li>emotionalVerb-&gt;에서 벗어나기</li>
+    <li>emotionalVerb-&gt; 이해하기</li>
+    <li>emotionalVerb-&gt; 재정의하기</li>
+    <li>emotionalVerb-&gt; 다스리기</li>
+    <li>context-&gt;변경계</li>
+    <li>context-&gt;직장 생활</li>
+    <li>context-&gt;우주 시대</li>
+    <li>context-&gt;일상생활</li>
+    <li>context-&gt;인간의 경험</li>
+    <li>context-&gt;탈희소성 시대</li>
+    <li>context-&gt;가족 역학</li>
+    <li>context-&gt;대인 관계</li>
+    <li>context-&gt;소셜 미디어</li>
+    <li>context-&gt;지도자 역할</li>
+  </ABooks_PsychologyBook_Namer.rulePack.rulesStrings>
+</LanguageData>

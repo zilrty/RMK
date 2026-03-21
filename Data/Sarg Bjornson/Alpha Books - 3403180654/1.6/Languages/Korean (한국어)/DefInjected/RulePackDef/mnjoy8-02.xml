@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_AberrantGrimoire_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[conceptExploration][intro]. [writingQualitySentence]. [ending]</li>
+    <li>desc-&gt;[conceptExploration][intro]. [impactStatement]. [writingQualitySentence]. [ending]</li>
+    <li>desc-&gt;[introWithContext] [conceptExploration]에 대한 내용입니다. [writingQualitySentence]. [ending]</li>
+    <li>ending-&gt;\n\n이 마도서는 크립조이너와 같은 공허의 종복들에게만 허락된 능력을 개방해 금지된 기술과 통찰을 선사하지만, 단 한 번만 읽을 수 있습니다.</li>
+    <li>intro-&gt;의 느낌을 풍기며 묘한 기운을 내뿜는 [writingQualityAdjective] 마도서입니다</li>
+    <li>intro-&gt;에 싸여 있는 [writingQualityAdjective] 유물입니다</li>
+    <li>intro-&gt;에 관한 지식들을 집대성하여 담고 있는 [writingQualityAdjective] 서적입니다</li>
+    <li>intro-&gt;에 대해 비밀스럽게 속삭이는, [writingQualityAdjective] 책입니다</li>
+    <li>intro-&gt;에 대한 내용을 담은, 비밀과 의혹으로 가득한 [writingQualityAdjective] 마도서입니다</li>
+    <li>introWithContext-&gt;모호하고 이해할 수 없는 문자로 쓰인 이 [writingQualityAdjective] 마법서에 적힌 것은</li>
+    <li>introWithContext-&gt;초자연적인 힘을 이끌어내어 이 [writingQualityAdjective] 유물이 설명하고자 하는 건</li>
+    <li>introWithContext-&gt;보이지 않는 손에 의해 휘갈겨 쓰인 이 [writingQualityAdjective] 마도서가 전달하고자 한 것은</li>
+    <li>introWithContext-&gt;스스로의 의지가 깃든 이 [writingQualityAdjective] 저서에 쓰인 글은</li>
+    <li>conceptExploration-&gt;크립조이너들이 수용한 어둠의 기술</li>
+    <li>conceptExploration-&gt;미지의 존재를 섬기는 자들의 사악한 관습</li>
+    <li>conceptExploration-&gt;변이된 자들 중에서도 가장 경건한 이들에게만 속삭여지는 난해한 의식</li>
+    <li>conceptExploration-&gt;필멸자의 정신을 불안하게 만드는 부자연적인 지혜</li>
+    <li>conceptExploration-&gt;손대지 않는 것이 나은 영역들에 대한 불경한 지식</li>
+    <li>impactStatement-&gt;그 영향력은 오랫동안 남아 감히 이를 이해하려는 자의 영혼을 뒤틉니다</li>
+    <li>impactStatement-&gt;이것을 읽은 이들 중 그 계시로부터 상처 없이 벗어나는 이는 거의 없습니다</li>
+    <li>impactStatement-&gt;그 페이지들은 힘을 약속하지만, 거기에는 헤아릴 수 없는 대가가 따릅니다</li>
+    <li>impactStatement-&gt;이 책이 봉인한 능력은 감히 사용하려는 자도 드물고, 얻는다 해도 끝내 목숨을 잃는 경우가 태반입니다</li>
+    <li>impactStatement-&gt;이 지식은 선물이자 저주이며, 독자를 그 비밀 속에 불가분하게 결속시킵니다</li>
+    <li>writingQualityAdjective(quality==6)-&gt;비할 데 없이 경외로운</li>
+    <li>writingQualityAdjective(quality==5)-&gt;잊을 수 없을 만큼 심오한</li>
+    <li>writingQualityAdjective(quality==4)-&gt;불안하면서도 조리 있는</li>
+    <li>writingQualityAdjective(quality==3)-&gt;난해하지만 읽을 수 있는</li>
+    <li>writingQualityAdjective(quality==2)-&gt;지리멸렬하고 섬뜩한</li>
+    <li>writingQualityAdjective(quality==1)-&gt;파편화된 혼돈의</li>
+    <li>writingQualityAdjective(quality==0)-&gt;미쳐버린 문장의 나열뿐인</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;그 품질은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;그 품질은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;그 품질은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;금지된 지식을 전달함에 있어 비할 데가 없으며</li>
+    <li>excellentDesc-&gt;신비로운 가르침을 담은 걸작이자</li>
+    <li>excellentDesc-&gt;이계의 지혜가 지닌 깊이의 증거이며</li>
+    <li>excellentExtra-&gt;독자에게 지워지지 않는 흔적을 남깁니다</li>
+    <li>excellentExtra-&gt;필멸자의 이해를 초월합니다</li>
+    <li>excellentExtra-&gt;크립조이너의 능력의 정수를 추출해냅니다</li>
+    <li>decentDesc-&gt;글의 어두운 의도를 상세히 기술하기에 적절하며</li>
+    <li>decentDesc-&gt;적당한 수준이지만 의도한 만큼의 중압감은 부족하고</li>
+    <li>decentDesc-&gt;신비로운 진리를 전달하기에는 충분하지만</li>
+    <li>decentExtra-&gt;완전한 이해에 필요한 명확함이 부족합니다</li>
+    <li>decentExtra-&gt;마땅히 일으켜야 할 공포를 자아내는 데는 실패했습니다</li>
+    <li>decentExtra-&gt;그 구조가 완벽함에는 다소 미치지 못합니다</li>
+    <li>awfulDesc-&gt;의미 없는 기호들이 뒤섞인 앞뒤 안 맞는 불협화음이며</li>
+    <li>awfulDesc-&gt;광기에 휩싸인 이들조차 거의 이해할 수 없을 정도로 난해하고</li>
+    <li>awfulDesc-&gt;깨달음을 주기보다는 혼란만 가중시키며</li>
+    <li>awfulExtra-&gt;결코 필멸자가 이해하기에 적합하지 않습니다</li>
+    <li>awfulExtra-&gt;보상도 없이 정신 건강만 해치는 위험한 물건입니다</li>
+    <li>awfulExtra-&gt;불길한 기운 외에는 그 어떤 가치도 찾아볼 수 없습니다</li>
+  </ABooks_AberrantGrimoire_Description.rulePack.rulesStrings>
+</LanguageData>

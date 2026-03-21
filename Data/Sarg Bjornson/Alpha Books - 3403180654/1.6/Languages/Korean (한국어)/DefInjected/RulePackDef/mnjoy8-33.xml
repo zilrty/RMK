@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_BookOfPortents_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthored]</li>
+    <li>titleBasic(p=5)-&gt;[randAdjective] 전조의 서</li>
+    <li>titleBasic(p=5)-&gt;[randAdjective] 하늘 연대기</li>
+    <li>titleBasic(p=5)-&gt;천상의 고서</li>
+    <li>titleBasic(p=5)-&gt;[randAdjective] 천상의 예언</li>
+    <li>titleBasic(p=5)-&gt;[randAstronomicalPhenomenon]의 징조</li>
+    <li>titleBasic-&gt;신비로운 연대기</li>
+    <li>titleBasic-&gt;징조와 전조</li>
+    <li>titleBasic-&gt;천문학자의 계시</li>
+    <li>titleBasic-&gt;공허에서 온 신호</li>
+    <li>titleBasic-&gt;예언하는 하늘</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 천상 안내서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 예언 개요서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 징조의 고서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 신비로운 별의 마법서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 전조의 역서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 천상의 전조 안내서</li>
+    <li>randAdjective-&gt;아름다운</li>
+    <li>randAdjective-&gt;비전의</li>
+    <li>randAdjective-&gt;신비로운</li>
+    <li>randAdjective-&gt;운명적인</li>
+    <li>randAdjective-&gt;고대의</li>
+    <li>randAdjective-&gt;보이지 않는</li>
+    <li>randAdjective-&gt;숨겨진</li>
+    <li>randAdjective-&gt;이계의</li>
+    <li>randAdjective-&gt;수수께끼의</li>
+    <li>randAdjective-&gt;불길한</li>
+    <li>randAstronomicalPhenomenon-&gt;일식</li>
+    <li>randAstronomicalPhenomenon-&gt;오로라</li>
+    <li>randAstronomicalPhenomenon-&gt;유성우</li>
+    <li>randAstronomicalPhenomenon-&gt;흑점 폭발</li>
+    <li>randAstronomicalPhenomenon-&gt;별빛</li>
+    <li>randAstronomicalPhenomenon-&gt;혜성</li>
+    <li>randAstronomicalPhenomenon-&gt;핏빛 달</li>
+    <li>randAstronomicalPhenomenon-&gt;공허폭풍</li>
+    <li>randAstronomicalPhenomenon-&gt;초신성</li>
+    <li>randAstronomicalPhenomenon-&gt;유성</li>
+  </ABooks_BookOfPortents_Namer.rulePack.rulesStrings>
+</LanguageData>

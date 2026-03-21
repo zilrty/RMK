@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_BookOfCondiments_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro](으)로, [contextStatement] [conceptExploration]에 대해 다룹니다. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[intro](으)로, [conceptExploration](을)를 다룹니다. [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[contextStatement] [conceptExploration]에 대해 다루는 내용입니다. [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro-&gt;[subject_primary]의 비결을 깊이 있게 파고드는 [writingQualityAdjective] 백과</li>
+    <li>intro-&gt;[subject_primary]의 잠재력을 발굴해 내는 [writingQualityAdjective] 논문</li>
+    <li>intro-&gt;[subject_primary]의 예술과 과학을 탐구하는 특별한 해설서</li>
+    <li>intro-&gt;세월에 따른 요리의 변화에서 [subject_primary]의 역할을 기록한 시대를 초월한 저작</li>
+    <li>intro-&gt;[subject_primary](을)를 완벽히 다루는 데 있어 독보적인 통찰을 제공하는 [writingQualityAdjective] 지침서</li>
+    <li>conceptExploration-&gt;[subject_primary]의 기원, 준비 과정 및 활용법</li>
+    <li>conceptExploration-&gt;[subject_primary]의 문화적 의미와 요리에서의 쓰임새</li>
+    <li>conceptExploration-&gt;[subject_primary](이)가 아주 단순한 요리까지 탈바꿈시키는 법</li>
+    <li>conceptExploration-&gt;[subject_primary]의 풍미 뒤에 숨겨진 화학과 예술성</li>
+    <li>conceptExploration-&gt;[subject_primary]의 정수를 끌어내는 정교한 기술들</li>
+    <li>conceptExploration-&gt;[subject_primary]가 미식 요리의 핵심 요소인 이유</li>
+    <li>contextStatement-&gt;수 세기 동안 내려온 요리 전통을 기반으로</li>
+    <li>contextStatement-&gt;유명 요리사들과 연금술사들의 기록에서 영감을 받아</li>
+    <li>contextStatement-&gt;수많은 지역 요리의 사례를 들어</li>
+    <li>contextStatement-&gt;그 존재가 풍미와 식사 의례에 미치는 영향을 조명하며</li>
+    <li>contextStatement-&gt;오랫동안 실전되었던 그 활용법을 재발굴함과 동시에</li>
+    <li>contextStatement-&gt;철저한 실험적 검증과 고대의 지혜를 결합해</li>
+    <li>impactStatement-&gt;[subject_primary]에 대한 인식을 완전히 바꿔놓을 통찰이 담겼습니다</li>
+    <li>impactStatement-&gt;모든 식사를 걸작 요리로 바꿔놓을 만한 가르침을 담고 있습니다</li>
+    <li>impactStatement-&gt;미식에서의 조미료의 중요성을 새롭게 정의하는 작품입니다</li>
+    <li>impactStatement-&gt;독자에게 [subject_primary](을)를 다루는 데 있어 독보적인 전문성을 불어넣습니다</li>
+    <li>impactStatement-&gt;요리 애호가와 새로운 맛을 찾는 이들 모두에게 보물과 같은 지식을 선사합니다</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 필력이 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;전문적으로 작성된</li>
+    <li>writingQualityAdjective(quality==4)-&gt;통찰력 있고 매력적인</li>
+    <li>writingQualityAdjective(quality==3)-&gt;실용적이지만 평범한</li>
+    <li>writingQualityAdjective(quality==2)-&gt;조잡하고 고르지 못한</li>
+    <li>writingQualityAdjective(quality==1)-&gt;거의 알아보기 힘든</li>
+    <li>writingQualityAdjective(quality==0)-&gt;이해할 수 없을 정도로 엉망인</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;이 책은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;이 책은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 책은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;요리의 미학을 정교하게 파고들며</li>
+    <li>excellentDesc-&gt;요리 정점에 도달하기 위한 권위 있는 지침서이며</li>
+    <li>excellentDesc-&gt;맛과 기법에 관한 지혜가 가득 담긴 보물창고로서</li>
+    <li>excellentDesc-&gt;치밀한 연구 끝에 집필된 품격 있는 요리 논문으로</li>
+    <li>excellentExtra-&gt;모든 독자에게 창조적인 영감을 불어넣습니다</li>
+    <li>excellentExtra-&gt;[subject_primary]의 진정한 잠재력을 이끌어냅니다</li>
+    <li>decentDesc-&gt;조미료에 대한 제법 유용한 탐구이며</li>
+    <li>decentDesc-&gt;유익한 정보와 지엽적인 내용이 섞여 있으나</li>
+    <li>decentDesc-&gt;적절한 수준이긴 해도 깊이나 독창성은 다소 부족하며</li>
+    <li>decentDesc-&gt;유익하긴 하지만 내용 전개가 다소 매끄럽지 못하며</li>
+    <li>decentExtra-&gt;첫걸음을 내딛으려는 요리 애호가들에게는 도움이 될 수 있습니다</li>
+    <li>decentExtra-&gt;야심 찬 기획에 비하면 다소 아쉬운 결과물입니다</li>
+    <li>awfulDesc-&gt;요리 상식들을 어설프게 모아놓은 것에 불과하며</li>
+    <li>awfulDesc-&gt;오류와 지루한 이야기들로 가득 차 있고</li>
+    <li>awfulDesc-&gt;조잡하게 쓰여 사실상 아무런 쓸모가 없으며</li>
+    <li>awfulDesc-&gt;답답할 정도로 모호하고 도움이 되지 않는 글로서</li>
+    <li>awfulExtra-&gt;진지하게 몰입하려는 자들에겐 시간 낭비일 뿐입니다</li>
+    <li>awfulExtra-&gt;요리사를 꿈꾸는 이들에게 어떤 가치도 제공하지 못합니다</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 책은 [date_form]에 출간되었습니다.</li>
+    <li>maybe_date-&gt;이 저작물은 [date_form]에 완성되었습니다.</li>
+    <li>maybe_date-&gt;많은 요리 전통이 그렇듯, 그 기원을 추적하기는 어렵습니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;수십년 전</li>
+    <li>date_form-&gt;과거의 요리 부흥기 때</li>
+    <li>date_form-&gt;[date]</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 잠시 동안 [subject_primary] 사용에 통달하게 되지만, 그 과정에서 책은 사라집니다.</li>
+  </ABooks_BookOfCondiments_Description.rulePack.rulesStrings>
+</LanguageData>

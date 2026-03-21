@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_OfficeBinder_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro] [contextStatement]. [directAddress] [maybe_date][ending][finalEnding]</li>
+    <li>desc-&gt;[directAddress]. [maybe_date][ending][finalEnding]</li>
+    <li>desc-&gt;[intro] [conceptExploration](이)가 중요한 상황입니다. [directAddress] [maybe_date][ending][finalEnding]</li>
+    <li>finalEnding-&gt;\n\n이 보기만 해도 머리가 지끈거리는 서류 모음집을 읽으면 즉시 3일 동안 사교 능력에 보너스를 받으며, 그 후 서류들은 사라집니다.</li>
+    <li>intro-&gt;아시다시피, 경쟁 우위를 점하기 위해서는 시너지 효과를 극대화하고 자산을 효율적으로 활용하는 것이 필수적입니다.</li>
+    <li>intro-&gt;경쟁력 유지를 위해 틀에서 벗어난 사고와 유연한 전략 수정이 필요하다는 점은 재차 강조할 필요가 없을 것입니다. 그러나</li>
+    <li>intro-&gt;팀원 여러분, 신속한 규모 확장과 효율적인 자원 투입이 이루어지지 않는다면 시장 점유율이 떨어질 것입니다.</li>
+    <li>intro-&gt;현 KPI 상황은 인지하고 계시겠지만, 요약하자면 시장 요구에 맞춘 전략 재조정이 시급합니다.</li>
+    <li>intro-&gt;생산량이 전 분기 대비 4.56% 감소했습니다. 이는 용납하기 어려운 결과이며,</li>
+    <li>contextStatement-&gt;현재 생산 파이프라인이 정체되어 있기에, 경쟁력 약화를 방지하기 위해 해당 병목 현상을 반드시 해결해야 합니다</li>
+    <li>contextStatement-&gt;우리는 확장성 측면에서 잠재적 위기에 직면해 있으므로, 효율성 유지를 위한 워크플로우 최적화가 시급합니다</li>
+    <li>contextStatement-&gt;데이터 분석 결과 운영 처리량이 12.34% 감소한 것으로 나타나, 핵심 산출물에 대한 전면적인 재검토가 필요합니다</li>
+    <li>contextStatement-&gt;현재는 시장 교란 위험이 높은 상황이며, 이에 대응하기 위한 혁신적인 사고 전환이 필요한 시점입니다</li>
+    <li>contextStatement-&gt;전략적 정체기에 진입함에 따라 시장 트렌드를 앞서나가기 위해 E2E 프로세스를 강화해야 합니다</li>
+    <li>directAddress-&gt;모두 효율성 제고를 위한 패러다임 전환에 역량을 집중해 주시기 바랍니다.</li>
+    <li>directAddress-&gt;개개인의 역량을 최대한 발휘하여 성과물 최적화에 만전을 기해 주십시오.</li>
+    <li>directAddress-&gt;시간적 효율이 중요한 만큼, 전력을 다해 조속히 성과를 개선해 주십시오.</li>
+    <li>directAddress-&gt;신규 워크플로우를 반드시 준수하십시오. KPI 미달성 사례가 발생해서는 안 됩니다.</li>
+    <li>directAddress-&gt;각자 업무 프로세스를 간소화하고 구체적인 피드백을 제출하십시오. 예외는 없습니다.</li>
+    <li>conceptExploration-&gt;운영 전략 "혁신" 및 수익 극대화를 위한 향후의 "파괴적" 조직 개편안</li>
+    <li>conceptExploration-&gt;부서 간 협업 최적화를 통한 확장성 확보 목적의 "총체적" 접근법</li>
+    <li>conceptExploration-&gt;업계 표준 재정립 및 지속 가능한 미래 확보를 위한 "혁신적" 피벗 전략</li>
+    <li>conceptExploration-&gt;"가치 중심"의 시너지 구현 및 "협력적 생태계 역학" 구축의 시급성</li>
+    <li>conceptExploration-&gt;"기업 가치"에 부합하며 시장 우위를 점하기 위한 "확장 가능한" 업무 프로세스</li>
+    <li>maybe_date-&gt;회의는 내일 오후 3시 정각에 진행되며, 이어서 4시 30분부터 후속 조치 논의를 위한 세션이 예정되어 있습니다.</li>
+    <li>maybe_date-&gt;분기 말까지 해당 변경 사항을 이행해야 하며, 그렇지 않을 경우 일정이 지연될 우려가 있습니다.</li>
+    <li>maybe_date-&gt;다음 주까지 새로운 "혁신적" 워크플로우 도입을 목표로 하고 있으니, 신속한 업무 처리가 가능하도록 준비해 주시기 바랍니다.</li>
+    <li>maybe_date-&gt;팀별 실행 계획은 금요일 차기 이사회 전까지 수립 완료하시기 바랍니다.</li>
+    <li>ending-&gt;지체할 시간이 없습니다. 우리의 역량을 결집하여 시장을 선도해 나갑시다. 적극적인 참여를 기대합니다.</li>
+    <li>ending-&gt;여러분의 리더십을 발휘할 기회입니다. 빠짐없는 실행력으로 목표 실적을 반드시 달성합시다.</li>
+    <li>ending-&gt;주요 변경 사항 이행에 만전을 기해 주십시오. 실패는 고려 대상이 아닙니다. 함께 목표를 완수합시다.</li>
+    <li>ending-&gt;지금은 매우 중대한 시점입니다. 각자의 핵심 역량을 발휘하여 성과를 만들어 냅시다.</li>
+  </ABooks_OfficeBinder_Description.rulePack.rulesStrings>
+</LanguageData>

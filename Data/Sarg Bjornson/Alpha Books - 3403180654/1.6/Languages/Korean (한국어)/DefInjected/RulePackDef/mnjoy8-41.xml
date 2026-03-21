@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_MidasTome_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthored]</li>
+    <li>titleBasic(p=6)-&gt;마이더스의 서</li>
+    <li>titleBasic(p=6)-&gt;황금의 초월공학적 비밀</li>
+    <li>titleBasic-&gt;변환술의 정수: 마이더스의 손길</li>
+    <li>titleBasic-&gt;황금의 연금술: 초월공학 가이드</li>
+    <li>titleBasic-&gt;황금의 손길: 초월공학의 서</li>
+    <li>titleBasic-&gt;황금의 제작술: 마이더스의 서</li>
+    <li>titleBasic-&gt;초월공학 마이더스 코덱스</li>
+    <li>titleBasic-&gt;부의 제련: 마이더스의 서의 비밀</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 마이더스의 손 가이드</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 황금 초월공학 저서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 마이더스의 서에 관한 기록</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 황금 변환 지침서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 황금의 손길 연구</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 초월공학 연금술의 비밀</li>
+  </ABooks_MidasTome_Namer.rulePack.rulesStrings>
+</LanguageData>

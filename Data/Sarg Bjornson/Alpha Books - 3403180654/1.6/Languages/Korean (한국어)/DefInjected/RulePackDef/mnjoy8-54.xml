@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_ZoologicalCompendium_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthored]</li>
+    <li>titleBasic(p=6)-&gt;[randAdjective] 동물 대백과</li>
+    <li>titleBasic(p=6)-&gt;[randAdjective] 생물들: 연구 보고서</li>
+    <li>titleBasic-&gt;[randAdjective] 야수들에 관한 연구</li>
+    <li>titleBasic-&gt;[randAdjective] 환상 동물 사전</li>
+    <li>titleBasic-&gt;놀라운 생물 가이드</li>
+    <li>titleBasic-&gt;동물 왕국의 신비</li>
+    <li>titleBasic-&gt;[randAdjective] 동물들: 야수 연대기</li>
+    <li>titleBasic-&gt;[randAdjective] 동물 관찰 기록</li>
+    <li>titleBasic-&gt;경이로운 야수 목록</li>
+    <li>titleBasic-&gt;야생 생명체들에 대한 현장 기록</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 야수 대백과</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 생태 관찰기</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 생물 도감</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 [randAdjective] 생물 연대기</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 동물군 가이드</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameDef]의 [randAdjective] 야생 기록</li>
+    <li>randAdjective-&gt;이국적인</li>
+    <li>randAdjective-&gt;수수께끼 같은</li>
+    <li>randAdjective-&gt;경이로운</li>
+    <li>randAdjective-&gt;야생의</li>
+    <li>randAdjective-&gt;거친</li>
+    <li>randAdjective-&gt;길들여지지 않은</li>
+    <li>randAdjective-&gt;신비로운</li>
+    <li>randAdjective-&gt;희귀한</li>
+    <li>randAdjective-&gt;장엄한</li>
+    <li>randAdjective-&gt;고대</li>
+  </ABooks_ZoologicalCompendium_Namer.rulePack.rulesStrings>
+</LanguageData>

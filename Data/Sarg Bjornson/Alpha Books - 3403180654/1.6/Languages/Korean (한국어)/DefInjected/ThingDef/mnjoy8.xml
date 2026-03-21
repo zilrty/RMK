@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_AdventuringLogs.label>모험 일지</ABooks_AdventuringLogs.label>
+  <ABooks_AdventuringLogs.description>오래 전 잊힌 모험가의 여정을 기록한 모험 일지입니다.</ABooks_AdventuringLogs.description>
+  <ABooks_ArmyManual.label>군사 교범</ABooks_ArmyManual.label>
+  <ABooks_ArmyManual.description>여러 전투 관련 주제를 상세히 다루는 군사 교범입니다.</ABooks_ArmyManual.description>
+  <ABooks_BookOfPortents.label>전조의 서</ABooks_BookOfPortents.label>
+  <ABooks_BookOfPortents.description>점성술과 신비학의 주제를 아우르는, 기이한 초월공학 지식으로 점철된 책입니다.</ABooks_BookOfPortents.description>
+  <ABooks_BotanicalCompendium.label>식물 도감</ABooks_BotanicalCompendium.label>
+  <ABooks_BotanicalCompendium.description>가깝고 먼 지역에 서식하는 여러 식물에 대한 많은 정보와 사진이 실린 식물 도감입니다.</ABooks_BotanicalCompendium.description>
+  <ABooks_TheChickenBook.label>닭의 책</ABooks_TheChickenBook.label>
+  <ABooks_TheChickenBook.description>말 그대로 닭의 책입니다. 읽을 수도 없는 미스터리한 책이죠. 이게 대체 뭘까요? 미쳐버린 초월공학의 짓궃은 장난일까요?</ABooks_TheChickenBook.description>
+  <ABooks_DurathreadTechniques.label>강화원단 기술 자료집</ABooks_DurathreadTechniques.label>
+  <ABooks_DurathreadTechniques.description>제작에 강화원단을 사용하는 방법을 설명하는 그림이 든 자료집입니다.</ABooks_DurathreadTechniques.description>
+  <ABooks_InstructionManual.label>조립 설명서</ABooks_InstructionManual.label>
+  <ABooks_InstructionManual.description>가구를 조립하기 위한 설명서입니다. 당신은 100퍼센트 확률로 깜빡하고 완성 후에 깜빡하고 안 쓴 볼트가 있다는 걸 깨닫겠죠.</ABooks_InstructionManual.description>
+  <ABooks_LustySauridMaid.label>음란한 사우리드 메이드</ABooks_LustySauridMaid.label>
+  <ABooks_LustySauridMaid.description>열심히 일하는 사우리드 메이드와 그녀의 귀족 고용주가 등장하는, 후끈후끈하고 뭔가 수상한 연극입니다.</ABooks_LustySauridMaid.description>
+  <ABooks_MedicalJournal.label>의학 학술지</ABooks_MedicalJournal.label>
+  <ABooks_MedicalJournal.description>새로 개발된 수술법과 그 요령을 자세히 실은 의학 학술지입니다.</ABooks_MedicalJournal.description>
+  <ABooks_MidasTome.label>마이더스의 서</ABooks_MidasTome.label>
+  <ABooks_MidasTome.description>기이한 제작 능력을 간직한 신비한 초월공학 마법서입니다.</ABooks_MidasTome.description>
+  <ABooks_OfficeBinder.label>업무용 바인더</ABooks_OfficeBinder.label>
+  <ABooks_OfficeBinder.description>쓸데없는 메모지가 가득 든 업무용 바인더입니다. 내용물 대부분은 쓸모가 없습니다.</ABooks_OfficeBinder.description>
+  <ABooks_PoliticalPamphlet.label>정치 팸플릿</ABooks_PoliticalPamphlet.label>
+  <ABooks_PoliticalPamphlet.description>세상만사 모든 것을 싸잡아 비난하는 정치 팸플릿입니다. 품격이라고는 찾아볼 수가 없는 글입니다.</ABooks_PoliticalPamphlet.description>
+  <ABooks_PsychologyBook.label>심리학 서적</ABooks_PsychologyBook.label>
+  <ABooks_PsychologyBook.description>인간 심리의 복잡한 면을 다루는 심리학 서적입니다.</ABooks_PsychologyBook.description>
+  <ABooks_RestaurantGuide.label>레스토랑 가이드</ABooks_RestaurantGuide.label>
+  <ABooks_RestaurantGuide.description>여러 호화 레스토랑과 소문난 고급 식당에 대한 추천이 담긴 저명한 레스토랑 가이드입니다.</ABooks_RestaurantGuide.description>
+  <ABooks_RuinedBook.label>손상된 책</ABooks_RuinedBook.label>
+  <ABooks_RuinedBook.description>손상된 책입니다. 너덜너덜해져 겨우 형태를 유지하는 수준으로, 아무짝에도 쓸모없습니다.</ABooks_RuinedBook.description>
+  <ABooks_BurnedBook.label>불탄 책</ABooks_BurnedBook.label>
+  <ABooks_BurnedBook.description>불탄 책입니다. 너덜너덜해져 겨우 형태를 유지하는 수준으로, 아무짝에도 쓸모없습니다.</ABooks_BurnedBook.description>
+  <ABooks_SelfHelpBook.label>자기계발서</ABooks_SelfHelpBook.label>
+  <ABooks_SelfHelpBook.description>실속없는 말과 진부한 내용으로 가득 찬 자기계발서입니다.</ABooks_SelfHelpBook.description>
+  <ABooks_SurvivalGuide.label>생존 가이드</ABooks_SurvivalGuide.label>
+  <ABooks_SurvivalGuide.description>특정한 생물군계에서 살아남기 위한 유용한 팁을 담은 방대한 가이드입니다.</ABooks_SurvivalGuide.description>
+  <ABooks_TomeOfFire.label>불의 마법서</ABooks_TomeOfFire.label>
+  <ABooks_TomeOfFire.description>초능력이 깃든 초월공학 마법서로, 초능력의 재능이 없어도 강력한 화염 능력을 쓸 수 있게 해 줍니다.</ABooks_TomeOfFire.description>
+  <ABooks_TrainingManual.label>훈련 교본</ABooks_TrainingManual.label>
+  <ABooks_TrainingManual.description>한 가지 기술에 대한 전문 지식을 담은 훈련 교본입니다.</ABooks_TrainingManual.description>
+  <ABooks_TreatiseOfStainlessSteel.label>스테인리스강 연구서</ABooks_TreatiseOfStainlessSteel.label>
+  <ABooks_TreatiseOfStainlessSteel.description>제작에 스테인리스강이 다양하게 사용되는 법에 대한 연구서입니다.</ABooks_TreatiseOfStainlessSteel.description>
+  <ABooks_TynansBook.label>타이난의 책</ABooks_TynansBook.label>
+  <ABooks_TynansBook.description>게임의 메커니즘과 상호작용을 설계하고, 이를 통해 플레이어의 경험을 구축하는 게임 기획 방법론에 관한 책입니다.</ABooks_TynansBook.description>
+  <ABooks_ZoologicalCompendium.label>동물 도감</ABooks_ZoologicalCompendium.label>
+  <ABooks_ZoologicalCompendium.description>희귀 생물에 대한 많은 정보와 사진이 실린 동물 도감입니다.</ABooks_ZoologicalCompendium.description>
+  <ABooks_BookPlinth.label>책 전시대</ABooks_BookPlinth.label>
+  <ABooks_BookPlinth.description>단 한 권의 책을 펼쳐 전시할 수 있는 작은 전시대입니다. 여기에 보관된 책은 근처에서 이루어지는 연구를 향상시키고, 전시대의 미관을 높여줍니다. 보관된 책은 절대 손상되지 않습니다. 전시된 책의 미관은 기존의 10배가 됩니다.</ABooks_BookPlinth.description>
+  <ABooks_RuinedBookcase.label>손상된 책장</ABooks_RuinedBookcase.label>
+  <ABooks_RuinedBookcase.description>최대 10권의 책을 보관하고 전시할 수 있는 넓은 책장입니다. 여기에 보관된 책은 근처에서 이루어지는 연구를 향상시키고, 책장의 미관을 높여줍니다. 보관된 책은 절대 손상되지 않습니다.</ABooks_RuinedBookcase.description>
+  <ABooks_RuinedBookcase_Small.label>손상된 작은 책장</ABooks_RuinedBookcase_Small.label>
+  <ABooks_RuinedBookcase_Small.description>최대 5권의 책을 보관하고 전시할 수 있는 작은 책장입니다. 여기에 보관된 책은 근처에서 이루어지는 연구를 향상시키고, 책장의 미관을 높여줍니다. 보관된 책은 절대 손상되지 않습니다.</ABooks_RuinedBookcase_Small.description>
+  <ABooks_RuinedBookcase_Filled.label>채워진 손상된 책장</ABooks_RuinedBookcase_Filled.label>
+  <ABooks_RuinedBookcase_Filled.description>최대 10권의 책을 보관하고 전시할 수 있는 넓은 책장입니다. 여기에 보관된 책은 근처에서 이루어지는 연구를 향상시키고, 책장의 미관을 높여줍니다. 보관된 책은 절대 손상되지 않습니다.</ABooks_RuinedBookcase_Filled.description>
+  <ABooks_RuinedBookcase_Small_Filled.label>채워진 손상된 작은 책장</ABooks_RuinedBookcase_Small_Filled.label>
+  <ABooks_RuinedBookcase_Small_Filled.description>최대 5권의 책을 보관하고 전시할 수 있는 작은 책장입니다. 여기에 보관된 책은 근처에서 이루어지는 연구를 향상시키고, 책장의 미관을 높여줍니다. 보관된 책은 절대 손상되지 않습니다.</ABooks_RuinedBookcase_Small_Filled.description>
+  <ABooks_BookPlinth_ruins.label>책 전시대</ABooks_BookPlinth_ruins.label>
+  <ABooks_BookPlinth_ruins.description>단 한 권의 책을 펼쳐 전시할 수 있는 작은 전시대입니다. 여기에 보관된 책은 근처에서 이루어지는 연구를 향상시키고, 전시대의 미관을 높여줍니다. 보관된 책은 절대 손상되지 않습니다. 전시된 책의 미관은 기존의 10배가 됩니다.</ABooks_BookPlinth_ruins.description>
+  <ABooks_BookPile.label>책 더미</ABooks_BookPile.label>
+  <ABooks_BookPile.description>못쓰게 된 책이 쌓인 더미입니다.</ABooks_BookPile.description>
+  <ABooks_Filth_Paper.label>버려진 종이</ABooks_Filth_Paper.label>
+  <ABooks_RuinedWall.label>손상된 나무 벽</ABooks_RuinedWall.label>
+  <ABooks_RuinedWall.description>지나갈 수 없는 벽입니다. 지붕을 지탱할 수 있습니다.</ABooks_RuinedWall.description>
+  <ABooks_BoardedDoor.label>판자로 막힌 문</ABooks_BoardedDoor.label>
+  <ABooks_BoardedDoor.description>통과할 수 없는 판자로 막힌 문입니다.</ABooks_BoardedDoor.description>
+  <ABooks_RuinedChair.label>손상된 의자</ABooks_RuinedChair.label>
+  <ABooks_RuinedChair.description>이 의자는 한때 더 좋은 상태였습니다.</ABooks_RuinedChair.description>
+  <ABooks_RuinedTable.label>손상된 책상</ABooks_RuinedTable.label>
+  <ABooks_RuinedTable.description>이 책상은 한때 더 좋은 상태였습니다.</ABooks_RuinedTable.description>
+  <ABooks_RuinedSign.label>손상된 표지판</ABooks_RuinedSign.label>
+  <ABooks_RuinedSign.description>이 표지판은 한때 더 좋은 상태였습니다.</ABooks_RuinedSign.description>
+  <ABooks_RaidSpawner.label>손상된 무선 신호기</ABooks_RaidSpawner.label>
+  <ABooks_RaidSpawner.description>이 장치는 약한 전파를 내보내고 있는 것 같습니다.</ABooks_RaidSpawner.description>
+  <ABooks_StainlessSteel.label>스테인리스강</ABooks_StainlessSteel.label>
+  <ABooks_StainlessSteel.description>내구성이 뛰어나고 부식에 강하며 강도와 내화성까지 갖춘 합금으로, 가혹한 환경에서 일반 강철을 대체할 귀중한 상위호환 재료입니다.</ABooks_StainlessSteel.description>
+  <ABooks_Durathread.label>강화원단 천</ABooks_Durathread.label>
+  <ABooks_Durathread.description>기존의 천보다 강하고 복원력이 뛰어난 고급 직물로, 여전히 높은 활용도를 자랑하면서도 제작 시 향상된 내구성을 제공합니다.</ABooks_Durathread.description>
+  <ABooks_HermeticMysteries.label>봉인술의 신비</ABooks_HermeticMysteries.label>
+  <ABooks_HermeticMysteries.description>봉인술의 신비에 관한 자료집입니다. 내용이 매우 모호해 겉보기에는 터무니없어 보입니다.</ABooks_HermeticMysteries.description>
+  <ABooks_ReligiousText.label>종교 경전</ABooks_ReligiousText.label>
+  <ABooks_ReligiousText.description>특정 이념 구조의 가르침과 교리를 자세히 설명하는 경전입니다.</ABooks_ReligiousText.description>
+  <ABooks_PsycasterGuide.label>초능력자 지침서</ABooks_PsycasterGuide.label>
+  <ABooks_PsycasterGuide.description>특정 초능력의 운용법과 더불어, 여러 정신적 현상을 체계적으로 정리한 지침서입니다.</ABooks_PsycasterGuide.description>
+  <ABooks_AberrantGrimoire.label>변이된 마도서</ABooks_AberrantGrimoire.label>
+  <ABooks_AberrantGrimoire.description>비자연적인 지식들이 봉인된 변이된 마도서입니다.</ABooks_AberrantGrimoire.description>
+  <ABooks_BookOfCondiments.label>조미료 비전서</ABooks_BookOfCondiments.label>
+  <ABooks_BookOfCondiments.description>단 한 종류의 조미료에 관하여 아주 세부적이고 전문적인 지식을 담아낸 책입니다.</ABooks_BookOfCondiments.description>
+  <ABooks_BookOfPortents.comps.2.doers.1.text>ABooks_RandomAstronomicalIncident</ABooks_BookOfPortents.comps.2.doers.1.text>
+  <ABooks_TheChickenBook.comps.2.doers.0.text>ABooks_Nonsense</ABooks_TheChickenBook.comps.2.doers.0.text>
+  <ABooks_DurathreadTechniques.comps.2.doers.0.text>ABooks_DurathreadTechniques</ABooks_DurathreadTechniques.comps.2.doers.0.text>
+  <ABooks_RuinedBook.comps.2.doers.0.text>ABooks_Nothing</ABooks_RuinedBook.comps.2.doers.0.text>
+  <ABooks_BurnedBook.comps.2.doers.0.text>ABooks_Nothing</ABooks_BurnedBook.comps.2.doers.0.text>
+  <ABooks_TreatiseOfStainlessSteel.comps.2.doers.0.text>ABooks_StainlessSteel</ABooks_TreatiseOfStainlessSteel.comps.2.doers.0.text>
+  <ABooks_Ability_Mote.label>Mote</ABooks_Ability_Mote.label>
+  <ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.0>+2.5% 정신 감응력, +2.5% 신경열 한계, +2.5% 신경열 회복속도</ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.0>
+  <ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.1>+5% 정신 감응력, +5% 신경열 한계, +5% 신경열 회복속도</ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.1>
+  <ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.2>+10% 정신 감응력, +10% 신경열 한계, +10% 신경열 회복속도</ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.2>
+  <ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.3>+20% 정신 감응력, +20% 신경열 한계, +20% 신경열 회복속도</ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.3>
+  <ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.4>+50% 정신 감응력, +50% 신경열 한계, +50% 신경열 회복속도, +10% 집중명상 획득</ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.4>
+  <ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.5>+75% 정신 감응력, +75% 신경열 한계, +100% 신경열 회복속도, +15% 집중명상 획득</ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.5>
+  <ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.6>+100% 정신 감응력, +100% 신경열 한계, +200% 신경열 회복속도, +25% 집중명상 획득</ABooks_PsycasterGuide.comps.2.doers.1.descriptionForStages.6>
+  <ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.0>밀폐 보관기에서 획득하는 물품 증가, 지속시간 12시간</ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.1>밀폐 보관기에서 획득하는 물품 증가, 지속시간 18시간</ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.2>밀폐 보관기에서 획득하는 물품 증가, 지속시간 1일</ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.3>밀폐 보관기에서 획득하는 물품 증가, 지속시간 1.25일</ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.4>밀폐 보관기에서 획득하는 물품 증가, 지속시간 1.5일</ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.5>밀폐 보관기에서 획득하는 물품 증가, 지속시간 1.83일</ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.6>밀폐 보관기에서 획득하는 물품 증가, 지속시간 2일</ABooks_HermeticMysteries.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.0>-1% 정신이상 임계치</ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.1>-5% 정신이상 임계치</ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.2>-10% 정신이상 임계치, 10% 생각 무효화</ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.3>-15% 정신이상 임계치, 15% 생각 무효화</ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.4>-20% 정신이상 임계치, 25% 생각 무효화</ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.5>-25% 정신이상 임계치, 35% 생각 무효화, 5% 기본 기분 덮어쓰기, 정신이상 방지</ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.6>-25% 정신이상 임계치, 50% 생각 무효화, 10% 기본 기분 덮어쓰기, 정신이상 방지</ABooks_PsychologyBook.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.0>-1% 원거리 재사용 대기시간 배수, +1% 사격 정확도, -1% 조준 지연, -1% 박격포 오사 반경 계수</ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.0>
+  <ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.1>-5% 원거리 재사용 대기시간 배수, +3% 사격 정확도, -5% 조준 지연, -10% 박격포 오사 반경 계수</ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.1>
+  <ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.2>-10% 원거리 재사용 대기시간 배수, +5% 사격 정확도, -10% 조준 지연, -20% 박격포 오사 반경 계수</ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.2>
+  <ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.3>-12% 원거리 재사용 대기시간 배수, +10% 사격 정확도, -10% 조준 지연, -30% 박격포 오사 반경 계수
+</ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.3>
+  <ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.4>-20% 원거리 재사용 대기시간 배수, +15% 사격 정확도, -15% 조준 지연, -40% 박격포 오사 반경 계수, -10% 받는 피해량 계수</ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.4>
+  <ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.5>-25% 원거리 재사용 대기시간 배수, +20% 사격 정확도, -20% 조준 지연, -50% 박격포 오사 반경 계수, -15% 받는 피해량 계수</ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.5>
+  <ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.6>-25% 원거리 재사용 대기시간 배수, +25% 사격 정확도, -25% 조준 지연, -75% 박격포 오사 반경 계수, -20% 받는 피해량 계수</ABooks_ArmyManual.comps.2.doers.1.descriptionForStages.6>
+  <ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.0>+1% 재배 속도, +1% 재배 수확량, +1% 약용 작물 수확량</ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.0>
+  <ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.1>+2% 재배 속도, +2% 재배 수확량, +2% 약용 작물 수확량</ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.1>
+  <ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.2>+5% 재배 속도, +5% 재배 수확량, +5% 약용 작물 수확량</ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.2>
+  <ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.3>+15% 재배 속도, +15% 재배 수확량, +15% 약용 작물 수확량</ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.3>
+  <ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.4>+30% 재배 속도, +30% 재배 수확량, +30% 약용 작물 수확량</ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.4>
+  <ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.5>+40% 재배 속도, +40% 재배 수확량, +40% 약용 작물 수확량</ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.5>
+  <ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.6>+50% 재배 속도, +50% 재배 수확량, +50% 약용 작물 수확량</ABooks_BotanicalCompendium.comps.2.doers.1.descriptionForStages.6>
+  <ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.0>제작하는 물품의 품질이 1 상승, 지속시간 6시간</ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.1>제작하는 물품의 품질이 1 상승, 지속시간 12시간</ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.2>제작하는 물품의 품질이 1 상승, 지속시간 1일</ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.3>제작하는 물품의 품질이 1 상승, 지속시간 1.5일</ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.4>제작하는 물품의 품질이 1 상승, 지속시간 2일</ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.5>제작하는 물품의 품질이 1 상승, 지속시간 2.5일</ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.6>제작하는 물품의 품질이 1 상승, 지속시간 3일</ABooks_InstructionManual.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.0>95% 부정적 생각 지속 계수, 105% 긍정적 생각 지속 계수, 95% 사랑나누기 주기 계수</ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.1>90% 부정적 생각 지속 계수, 110% 긍정적 생각 지속 계수, 90% 사랑나누기 주기 계수</ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.2>80% 부정적 생각 지속 계수, 120% 긍정적 생각 지속 계수, 80% 사랑나누기 주기 계수</ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.3>70% 부정적 생각 지속 계수, 130% 긍정적 생각 지속 계수, 70% 사랑나누기 주기 계수</ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.4>60% 부정적 생각 지속 계수, 140% 긍정적 생각 지속 계수, 50% 사랑나누기 주기 계수</ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.5>50% 부정적 생각 지속 계수, 150% 긍정적 생각 지속 계수, 30% 사랑나누기 주기 계수</ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.6>40% 부정적 생각 지속 계수, 160% 긍정적 생각 지속 계수, 10% 사랑나누기 주기 계수</ABooks_LustySauridMaid.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.0>+25% 치료 속도, -25% 치료 품질, +25% 의료 작업 속도, -25% 수술 성공 확률</ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.1>+10% 치료 속도, -15% 치료 품질, +10% 의료 작업 속도, -10% 수술 성공 확률</ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.2>+5% 치료 속도, +5% 치료 품질, +5% 의료 작업 속도</ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.3>+10% 치료 속도, +5% 치료 품질, +10% 의료 작업 속도, +5% 수술 성공 확률</ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.4>+20% 치료 속도, +15% 치료 품질, +20% 의료 작업 속도, +15% 수술 성공 확률</ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.5>+35% 치료 속도, +20% 치료 품질, +35% 의료 작업 속도, +20% 수술 성공 확률</ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.6>+50% 치료 속도, +25% 치료 품질, +50% 의료 작업 속도, +25% 수술 성공 확률</ABooks_MedicalJournal.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_MidasTome.comps.2.doers.0.descriptionForStages.0>완성하는 모든 제작품과 구조물이 금으로 변환, 지속시간 1시간</ABooks_MidasTome.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_MidasTome.comps.2.doers.0.descriptionForStages.1>완성하는 모든 제작품과 구조물이 금으로 변환, 지속시간 2시간</ABooks_MidasTome.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_MidasTome.comps.2.doers.0.descriptionForStages.2>완성하는 모든 제작품과 구조물이 금으로 변환, 지속시간 4시간</ABooks_MidasTome.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_MidasTome.comps.2.doers.0.descriptionForStages.3>완성하는 모든 제작품과 구조물이 금으로 변환, 지속시간 5시간</ABooks_MidasTome.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_MidasTome.comps.2.doers.0.descriptionForStages.4>완성하는 모든 제작품과 구조물이 금으로 변환, 지속시간 7.5시간</ABooks_MidasTome.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_MidasTome.comps.2.doers.0.descriptionForStages.5>완성하는 모든 제작품과 구조물이 금으로 변환, 지속시간 10시간</ABooks_MidasTome.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_MidasTome.comps.2.doers.0.descriptionForStages.6>완성하는 모든 제작품과 구조물이 금으로 변환, 지속시간 1일</ABooks_MidasTome.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.0>지끈거리는 두통</ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.1>지끈거리는 두통</ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.2>지끈거리는 두통</ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.3>지끈거리는 두통</ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.4>지끈거리는 두통</ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.5>지끈거리는 두통</ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.6>지끈거리는 두통</ABooks_OfficeBinder.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.0>+5% 외교 영향력, +5% 체포 성공확률, +1% 거래 가격 개선, +5% 사회적 영향력</ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.0>
+  <ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.1>+8% 외교 영향력, +8% 체포 성공확률, +5% 거래 가격 개선, +8% 사회적 영향력</ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.1>
+  <ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.2>+10% 외교 영향력, +10% 체포 성공확률, +10% 거래 가격 개선, +10% 사회적 영향력</ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.2>
+  <ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.3>+20% 외교 영향력, +20% 체포 성공확률, +20% 거래 가격 개선, +20% 사회적 영향력</ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.3>
+  <ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.4>+30% 외교 영향력, +30% 체포 성공확률, +30% 거래 가격 개선, +30% 사회적 영향력</ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.4>
+  <ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.5>+40% 외교 영향력, +40% 체포 성공확률, +40% 거래 가격 개선, +40% 사회적 영향력</ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.5>
+  <ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.6>+50% 외교 영향력, +50% 체포 성공확률, +50% 거래 가격 개선, +50% 사회적 영향력</ABooks_OfficeBinder.comps.2.doers.1.descriptionForStages.6>
+  <ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.0>조리하는 식사의 수준 상승 (예: 간단한 식사 → 좋은 식사), 지속시간 6시간</ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.1>조리하는 식사의 수준 상승 (예: 간단한 식사 → 좋은 식사), 지속시간 12시간</ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.2>조리하는 식사의 수준 상승 (예: 간단한 식사 → 좋은 식사), 지속시간 1일</ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.3>조리하는 식사의 수준 상승 (예: 간단한 식사 → 좋은 식사), 지속시간 1.5일</ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.4>조리하는 식사의 수준 상승 (예: 간단한 식사 → 좋은 식사), 지속시간 2일</ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.5>조리하는 식사의 수준 상승 (예: 간단한 식사 → 좋은 식사), 지속시간 2.5일</ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.6>조리하는 식사의 수준 상승 (예: 간단한 식사 → 좋은 식사), 지속시간 3일</ABooks_RestaurantGuide.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.0>+2% 야생동물 조련 확률, +2% 동물 훈련 확률, +5% 동물 채집 속도, +5% 동물 채집량</ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.0>
+  <ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.1>+5% 야생동물 조련 확률, +5% 동물 훈련 확률, +10% 동물 채집 속도, +10% 동물 채집량</ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.1>
+  <ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.2>+15% 야생동물 조련 확률, +15% 동물 훈련 확률, +15% 동물 채집 속도, +15% 동물 채집량</ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.2>
+  <ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.3>+20% 야생동물 조련 확률, +20% 동물 훈련 확률, +20% 동물 채집 속도, +25% 동물 채집량, +10% 사냥 은폐</ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.3>
+  <ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.4>+30% 야생동물 조련 확률, +30% 동물 훈련 확률, +50% 동물 채집 속도, +40% 동물 채집량, +25% 사냥 은폐, +25% 유대 확률</ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.4>
+  <ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.5>+40% 야생동물 조련 확률, +40% 동물 훈련 확률, +75% 동물 채집 속도, +50% 동물 채집량, +35% 사냥 은폐, +50% 유대 확률</ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.5>
+  <ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.6>+50% 야생동물 조련 확률, +50% 동물 훈련 확률, +100% 동물 채집 속도, +75% 동물 채집량, +50% 사냥 은폐, +75% 유대 확률</ABooks_ZoologicalCompendium.comps.2.doers.0.descriptionForStages.6>
+  <ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.0>-1% 전역 믿음 감소 계수, +5% 사상 전파 확률, +1% 교화력</ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.0>
+  <ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.0>-10% 전역 믿음 감소 계수, +20% 사상 전파 확률, +5% 교화력</ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.0>
+  <ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.2>-20% 전역 믿음 감소 계수, +40% 사상 전파 확률, +10% 교화력</ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.2>
+  <ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.3>-35% 전역 믿음 감소 계수, +60% 사상 전파 확률, +20% 교화력</ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.3>
+  <ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.4>-50% 전역 믿음 감소 계수, +75% 사상 전파 확률, +30% 교화력</ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.4>
+  <ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.5>-60% 전역 믿음 감소 계수, +100% 사상 전파 확률, +40% 교화력</ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.5>
+  <ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.6>-75% 전역 믿음 감소 계수, +200% 사상 전파 확률, +50% 교화력</ABooks_ReligiousText.comps.2.doers.2.descriptionForStages.6>
+</LanguageData>

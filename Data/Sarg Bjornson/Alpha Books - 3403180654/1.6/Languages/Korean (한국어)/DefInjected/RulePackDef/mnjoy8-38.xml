@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_InstructionManual_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[manualAdjective] [manualType]</li>
+    <li>manualAdjective-&gt;단순한</li>
+    <li>manualAdjective-&gt;효율적인</li>
+    <li>manualAdjective-&gt;핵심만 담은</li>
+    <li>manualAdjective-&gt;사용자 친화적인</li>
+    <li>manualAdjective-&gt;간단한</li>
+    <li>manualAdjective-&gt;퀵 스타트</li>
+    <li>manualAdjective-&gt;과하게 복잡한</li>
+    <li>manualAdjective-&gt;직관적인</li>
+    <li>manualType-&gt;사용 설명서</li>
+    <li>manualType-&gt;조립 가이드</li>
+    <li>manualType-&gt;셋업 시트</li>
+    <li>manualType-&gt;DIY 팸플릿</li>
+    <li>manualType-&gt;방법 안내서</li>
+    <li>manualType-&gt;단계별 가이드</li>
+    <li>manualType-&gt;DIY 매뉴얼</li>
+  </ABooks_InstructionManual_Namer.rulePack.rulesStrings>
+</LanguageData>

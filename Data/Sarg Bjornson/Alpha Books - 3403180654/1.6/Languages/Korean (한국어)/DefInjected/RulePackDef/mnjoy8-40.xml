@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_MedicalJournal_Namer.rulePack.rulesStrings>
+    <li>title(p=3)-&gt;[titleNaked]</li>
+    <li>title-&gt;[ANYPAWN_nameIndef]의 [titleNaked]</li>
+    <li>title-&gt;[Character]의 [medicalStory]</li>
+    <li>title-&gt;[Character]의 [objectMedical]</li>
+    <li>title-&gt;[place] [linkagePlace] [Character]</li>
+    <li>title-&gt;[adjective] [objectMedical]</li>
+    <li>titleNaked-&gt;[ConceptMedical]</li>
+    <li>titleNaked-&gt;[adjective] [ConceptMedical]</li>
+    <li>titleNaked-&gt;[ConceptMedical][linkage] [ConceptMedical]</li>
+    <li>titleNaked-&gt;[ConceptMedical] [linkagePlace] [place]</li>
+    <li>titleNaked-&gt;[objectMedical][linkage] [ConceptMedical]</li>
+    <li>objectMedical-&gt;수술</li>
+    <li>objectMedical-&gt;보철</li>
+    <li>objectMedical-&gt;의약품</li>
+    <li>objectMedical-&gt;치료</li>
+    <li>objectMedical-&gt;해부학</li>
+    <li>objectMedical-&gt;진단</li>
+    <li>objectMedical-&gt;요법</li>
+    <li>objectMedical-&gt;백신</li>
+    <li>objectMedical-&gt;병리학</li>
+    <li>objectMedical-&gt;약리학</li>
+    <li>ConceptMedical-&gt;건강</li>
+    <li>ConceptMedical-&gt;감염</li>
+    <li>ConceptMedical-&gt;회복</li>
+    <li>ConceptMedical-&gt;질환</li>
+    <li>ConceptMedical-&gt;외상</li>
+    <li>ConceptMedical-&gt;안녕</li>
+    <li>ConceptMedical-&gt;사망률</li>
+    <li>ConceptMedical-&gt;면역</li>
+    <li>ConceptMedical-&gt;돌봄</li>
+    <li>ConceptMedical-&gt;활력</li>
+    <li>linkage-&gt;의</li>
+    <li>linkage-&gt;에 의한</li>
+    <li>linkage-&gt;(을)를 위한</li>
+    <li>linkage-&gt; 없는</li>
+    <li>linkage-&gt; 그리고</li>
+    <li>linkagePlace-&gt;안의</li>
+    <li>linkagePlace-&gt;옆의</li>
+    <li>linkagePlace-&gt;위의</li>
+    <li>linkagePlace-&gt;곁의</li>
+    <li>adjective-&gt;필수적인</li>
+    <li>adjective-&gt;고급</li>
+    <li>adjective-&gt;포괄적</li>
+    <li>adjective-&gt;선구적</li>
+    <li>adjective-&gt;중요한</li>
+    <li>adjective-&gt;생명을 구하는</li>
+    <li>adjective-&gt;실험적</li>
+    <li>adjective-&gt;실용적</li>
+    <li>adjective-&gt;흥미로운</li>
+    <li>adjective-&gt;전례 없는</li>
+    <li>place(p=25)-&gt;[TerrainFeature]</li>
+    <li>place-&gt;병원</li>
+    <li>place-&gt;진료소</li>
+    <li>place-&gt;수술실</li>
+    <li>place-&gt;회복 병동</li>
+    <li>place-&gt;실험실</li>
+    <li>place-&gt;연구 센터</li>
+    <li>place-&gt;현장 기지</li>
+    <li>place-&gt;응급실</li>
+    <li>place-&gt;의료 전초기지</li>
+    <li>place-&gt;성소</li>
+    <li>place-&gt;요양원</li>
+  </ABooks_MedicalJournal_Namer.rulePack.rulesStrings>
+</LanguageData>

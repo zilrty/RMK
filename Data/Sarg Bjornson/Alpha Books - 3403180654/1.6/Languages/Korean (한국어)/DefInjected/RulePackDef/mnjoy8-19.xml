@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_ReligiousText_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[subject_primary] 구조의 이 성서는 [adherents]에게 [spiritualInsightAdjective] [guidance](을)를 제시합니다. [lessonSummary] [writingQualitySentence][ending]</li>
+    <li>desc-&gt;[subject_primary] 구조를 다룬 이 [spiritualInsightAdjective] 경전에는, [prophetTitle](이)가 [divineMessage](을)를 탐구해 나가는 내용이 담겨 있습니다. [writingQualitySentence][ending]</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 특별한 능력과 보너스를 얻게 되며, 그 후 책은 소멸합니다. 설명 중 불경하게 느껴질 수 있는 표현은 의도된 것이 아닙니다.</li>
+    <li>guidance-&gt;심오한 지혜</li>
+    <li>guidance-&gt;영적 인도</li>
+    <li>guidance-&gt;도덕적 가르침</li>
+    <li>guidance-&gt;신성한 계명</li>
+    <li>guidance-&gt;깨달음으로 향하는 신성한 길</li>
+    <li>lessonSummary-&gt;글은 [adherents]에게 [virtueAction] 그리고 [aspireToVirtue](을)를 당부합니다.</li>
+    <li>lessonSummary-&gt;글은 [virtueNoun](와)과 [spiritualPractice]의 중요성을 강조합니다.</li>
+    <li>lessonSummary-&gt;글은 [adherents]에게 살아가며 [moralCallToAction](을)를 촉구합니다.</li>
+    <li>adherents-&gt;[subject_primary](을)를 따르는 자들</li>
+    <li>adherents-&gt;[subject_primary]의 제도에 헌신하는 자들</li>
+    <li>adherents-&gt;[subject_primary] 신자들</li>
+    <li>virtueAction-&gt;겸손해질 것</li>
+    <li>virtueAction-&gt;신의 지혜를 구할 것</li>
+    <li>virtueAction-&gt;조화롭게 살아갈 것</li>
+    <li>virtueAction-&gt;어려운 이를 도울 것</li>
+    <li>virtueAction-&gt;무아를 실천할 것</li>
+    <li>aspireToVirtue-&gt;내면을 평온하게 할 것</li>
+    <li>aspireToVirtue-&gt;신성함에 한 걸음 더 다가갈 것</li>
+    <li>aspireToVirtue-&gt;선한 삶을 영위할 것</li>
+    <li>aspireToVirtue-&gt;[subject_primary] 단체의 가르침을 따를 것</li>
+    <li>virtueNoun-&gt;신념</li>
+    <li>virtueNoun-&gt;자선</li>
+    <li>virtueNoun-&gt;연민</li>
+    <li>virtueNoun-&gt;정의</li>
+    <li>virtueNoun-&gt;인내</li>
+    <li>spiritualPractice-&gt;기도</li>
+    <li>spiritualPractice-&gt;명상</li>
+    <li>spiritualPractice-&gt;예배</li>
+    <li>spiritualPractice-&gt;금식</li>
+    <li>spiritualPractice-&gt;성지 순례</li>
+    <li>divineMessage-&gt;[subject_primary] 체계의 영원한 진리</li>
+    <li>divineMessage-&gt;구원을 향한 길</li>
+    <li>divineMessage-&gt;신과 인류 사이의 신성한 언약</li>
+    <li>divineMessage-&gt;창조의 신비</li>
+    <li>divineMessage-&gt;의로운 삶을 향한 부름</li>
+    <li>prophetTitle-&gt;예언자</li>
+    <li>prophetTitle-&gt;현자</li>
+    <li>prophetTitle-&gt;전령</li>
+    <li>prophetTitle-&gt;선지자</li>
+    <li>prophetTitle-&gt;서기</li>
+    <li>moralCallToAction-&gt;용서를 실천할 것</li>
+    <li>moralCallToAction-&gt;구원을 위해 노력할 것</li>
+    <li>moralCallToAction-&gt;모두에게 친절을 베풀 것</li>
+    <li>moralCallToAction-&gt;약자를 보호할 것</li>
+    <li>moralCallToAction-&gt;조상을 공경할 것</li>
+    <li>spiritualInsightAdjective-&gt;심오한</li>
+    <li>spiritualInsightAdjective-&gt;계몽적인</li>
+    <li>spiritualInsightAdjective-&gt;신성한 계시에 따르는</li>
+    <li>spiritualInsightAdjective-&gt;영혼을 울리는</li>
+    <li>spiritualInsightAdjective-&gt;신성한</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;이 책은 [sacredPraise](으)로 여겨지며 높이 평가되고 있습니다.</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]2)-&gt;글은 [thoughtfulDesc] [spiritualGuidance](을)를 줍니다.</li>
+    <li>writingQualitySentence(quality[less_than]3,quality[greater_than]0)-&gt;글은 [spiritualStruggle] [sacredSignificance].</li>
+    <li>writingQualitySentence(quality[less_than]1)-&gt;이 책의 내용은 [spiritualShit].</li>
+    <li>spiritualShit-&gt;읽기조차 힘든 폐기물 수준입니다</li>
+    <li>spiritualShit-&gt;종교적 헛소리로, 건질 만한 내용이 거의 없습니다.</li>
+    <li>spiritualShit-&gt;불행히도 순전한 헛소리일 뿐입니다</li>
+    <li>spiritualShit-&gt;마치 어린애가 쓴 것 같이 도저히 읽을 수가 없습니다. 그렇지만 어딘가의 누군가는 아마 이를 위해 목숨을 바쳤을 테죠</li>
+    <li>sacredPraise-&gt;진정한 신앙의 영원한 초석</li>
+    <li>sacredPraise-&gt;영적 통찰을 담은 걸작</li>
+    <li>sacredPraise-&gt;신성에 닿고자 하는 모든 이를 위한 숭고한 가르침</li>
+    <li>spiritualGuidance-&gt;신성한 진리의 일면</li>
+    <li>spiritualGuidance-&gt;구절을 통한 도덕적 교훈</li>
+    <li>spiritualGuidance-&gt;인간의 조건에 대한 깊은 성찰</li>
+    <li>thoughtfulDesc-&gt;체계적이고 사색적인 방식으로</li>
+    <li>thoughtfulDesc-&gt;다층적인 의미를 담아</li>
+    <li>thoughtfulDesc-&gt;풍부한 우화적 표현으로</li>
+    <li>thoughtfulDesc-&gt;단순하고 간결한 방식으로</li>
+    <li>spiritualStruggle-&gt;해석하기 매우 어렵고 난해하지만</li>
+    <li>spiritualStruggle-&gt;쓸데없이 복잡하게 쓰였지만</li>
+    <li>spiritualStruggle-&gt;밀도 높고 빽빽한 문체로 작성되었으나</li>
+    <li>sacredSignificance-&gt;[subject_primary] 조직의 핵심 가치로 남아 있습니다</li>
+    <li>sacredSignificance-&gt;신도들에게는 어느 정도 의미를 가지는 내용입니다</li>
+    <li>sacredSignificance-&gt;그 결점에도 불구하고 지혜를 주는 내용입니다</li>
+  </ABooks_ReligiousText_Description.rulePack.rulesStrings>
+</LanguageData>

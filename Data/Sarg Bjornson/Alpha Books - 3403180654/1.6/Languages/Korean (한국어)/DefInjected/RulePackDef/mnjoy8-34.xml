@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_BotanicalCompendium_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[subject_primary][prefix]</li>
+    <li>title-&gt;[subject_primary]: [core]</li>
+    <li>title-&gt;[subject_primary][prefix]: [core]</li>
+    <li>title-&gt;[subject_primary]: [suffix]</li>
+    <li>title-&gt;[subject_primary]: [core]</li>
+    <li>prefix-&gt;에 관한 연구</li>
+    <li>prefix-&gt;의 비밀</li>
+    <li>prefix-&gt; 가이드</li>
+    <li>prefix-&gt;의 미스터리</li>
+    <li>prefix-&gt;의 생애 주기</li>
+    <li>prefix-&gt; 탐구하기</li>
+    <li>core-&gt;식물학적 관점</li>
+    <li>core-&gt;이례적 현상</li>
+    <li>core-&gt;용도와 전승</li>
+    <li>core-&gt;생존 전문가의 지침서</li>
+    <li>core-&gt;의학 및 영양학적 통찰</li>
+    <li>core-&gt;변경계 관찰기</li>
+    <li>core-&gt;예기치 못한 성장</li>
+    <li>core-&gt;개척자를 위한 가이드</li>
+    <li>suffix-&gt;가장 가혹한 생물군계에서</li>
+    <li>suffix-&gt;변경계의 모습</li>
+    <li>suffix-&gt;야생의 풍경 속</li>
+    <li>suffix-&gt;그 중요성</li>
+    <li>suffix-&gt;정착민 관점에서 바라보기</li>
+  </ABooks_BotanicalCompendium_Namer.rulePack.rulesStrings>
+</LanguageData>

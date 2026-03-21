@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_TomeOfFire_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[intro] [coreConcept]</li>
+    <li>title-&gt;[suffix] [coreConcept]</li>
+    <li>intro-&gt;초월공학</li>
+    <li>intro-&gt;이그니스</li>
+    <li>intro-&gt;화염</li>
+    <li>intro-&gt;지옥불의</li>
+    <li>intro-&gt;영겁의</li>
+    <li>intro-&gt;화마의</li>
+    <li>intro-&gt;프로메테우스의</li>
+    <li>intro-&gt;용암</li>
+    <li>intro-&gt;태양의</li>
+    <li>intro-&gt;불카누스의</li>
+    <li>coreConcept-&gt;고문서</li>
+    <li>coreConcept-&gt;마도서</li>
+    <li>coreConcept-&gt;지침</li>
+    <li>coreConcept-&gt;암호문</li>
+    <li>coreConcept-&gt;규약</li>
+    <li>coreConcept-&gt;알고리즘</li>
+    <li>coreConcept-&gt;아카이브</li>
+    <li>coreConcept-&gt;대백과</li>
+    <li>coreConcept-&gt;기록</li>
+    <li>coreConcept-&gt;설계도</li>
+    <li>coreConcept-&gt;선언문</li>
+    <li>coreConcept-&gt;매트릭스</li>
+    <li>suffix-&gt;장작더미의</li>
+    <li>suffix-&gt;영원한 불꽃의</li>
+    <li>suffix-&gt;점화의</li>
+    <li>suffix-&gt;불씨의 민족의</li>
+    <li>suffix-&gt;태양의 분노의</li>
+    <li>suffix-&gt;불꽃연결의</li>
+    <li>suffix-&gt;지옥법의</li>
+    <li>suffix-&gt;빛나는 불꽃의</li>
+    <li>suffix-&gt;지배하는 화염의</li>
+    <li>suffix-&gt;화산의 힘의</li>
+    <li>suffix-&gt;재탄생의</li>
+    <li>suffix-&gt;플라스마 논리</li>
+    <li>suffix-&gt;양자 화염</li>
+    <li>suffix-&gt;불씨 프로토콜</li>
+  </ABooks_TomeOfFire_Namer.rulePack.rulesStrings>
+</LanguageData>

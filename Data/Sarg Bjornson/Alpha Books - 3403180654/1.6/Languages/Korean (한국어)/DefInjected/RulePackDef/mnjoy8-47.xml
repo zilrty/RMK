@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_RestaurantGuide_Namer.rulePack.rulesStrings>
+    <li>title-&gt;미쉐린 가이드 - [year] 에디션: [subtitle]</li>
+    <li>subtitle-&gt;최고의 레스토랑</li>
+    <li>subtitle-&gt;최고의 다이닝 장소</li>
+    <li>subtitle-&gt;식사할 곳</li>
+    <li>subtitle-&gt;3성급 인증</li>
+    <li>subtitle-&gt;변경계 전역의 파인 다이닝</li>
+    <li>subtitle-&gt;최고의 미식 성지</li>
+    <li>subtitle-&gt;별점 높은 식당 리뷰</li>
+    <li>subtitle-&gt;변경계 요리 지침</li>
+    <li>subtitle-&gt;변경에서 잘 먹는 법</li>
+    <li>subtitle-&gt;정착민들이 뽑은 맛집</li>
+    <li>year-&gt;5500</li>
+    <li>year-&gt;5499</li>
+    <li>year-&gt;5498</li>
+    <li>year-&gt;5497</li>
+    <li>year-&gt;5496</li>
+  </ABooks_RestaurantGuide_Namer.rulePack.rulesStrings>
+</LanguageData>

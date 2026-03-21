@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_SkillLearnFactor>다음 기술의 학습 속도</ABooks_SkillLearnFactor>
+  <ABooks_NotTallied> (집계되지 않음) </ABooks_NotTallied>
+  <ABooks_ForADay>, 지속시간 1일</ABooks_ForADay>
+  <ABooks_ForXDays>, 지속시간 {0}일</ABooks_ForXDays>
+  <ABooks_RandomInspiration>무작위 영감을 받습니다.</ABooks_RandomInspiration>
+  <ABooks_ExtraMood>{1} 동안 기분 보정 {0}(을)를 받습니다.</ABooks_ExtraMood>
+  <ABooks_Ability>{0} 능력을 사용할 수 있게 됩니다.</ABooks_Ability>
+  <ABooks_Ability_Charges>{0} 능력을 {1}회 사용할 수 있게 됩니다.</ABooks_Ability_Charges>
+  <ABooks_Ability_Several>다음 중 하나의 능력을 사용할 수 있게 됩니다: {0}.</ABooks_Ability_Several>
+  <ABooks_Ability_Several_Charges>다음 중 하나의 능력을 {1}회 사용할 수 있게 됩니다: {0}</ABooks_Ability_Several_Charges>
+  <ABooks_ReligiousMoodImpact>책의 주제와 같은 구조를 지닌 사상을 믿는지에 따라 기분에 보너스 또는 페널티를 받습니다.</ABooks_ReligiousMoodImpact>
+  <ABooks_Hediff>{1} 동안 다음 효과를 얻습니다: {0}</ABooks_Hediff>
+  <ABooks_HediffNoTime>다음 효과를 얻습니다: {0}</ABooks_HediffNoTime>
+  <ABooks_Nothing>이 손상된 책은 약간의 재미를 제외하면 아무런 이득도 주지 않으며, 한 번 읽은 후에는 먼지가 되어 흩어질 것입니다.</ABooks_Nothing>
+  <ABooks_NewMapLocations>이 책을 읽으면 세계 지도에서 {0}개의 새로운 지역을 발견할 수 있습니다.</ABooks_NewMapLocations>
+  <ABooks_SkillTrainer>이 책을 읽으면 열정 보유 여부와 관계없이 무작위 기술 경험치 {0}(을)를 얻습니다.</ABooks_SkillTrainer>
+  <ABooks_UnlockPsycast>이 책을 읽으면 {1}단계 초능력 {0}(을)를 배우게 됩니다.</ABooks_UnlockPsycast>
+  <ABooks_Biome>이 책을 읽으면 {0} 생물군계에서 생존에 유리한 효과를 얻습니다.</ABooks_Biome>
+  <ABooks_StatsReport_TempMinByBiome>{0} 생물군계에서: -20 ºC</ABooks_StatsReport_TempMinByBiome>
+  <ABooks_StatsReport_TempMaxByBiome>{0} 생물군계에서: +20 ºC</ABooks_StatsReport_TempMaxByBiome>
+  <ABooks_StatsReport_MultiplierByBiome>{0} 생물군계에서: +20 %</ABooks_StatsReport_MultiplierByBiome>
+  <ABooks_CallRaids>이 책을 읽으면 적대 세력에게 매우… 창의적인 모욕을 할 수 있게 되며, 이로 인해 적들은 평소보다 {0}배 더 강력한 규모로 정착지를 습격할 것입니다.</ABooks_CallRaids>
+  <ABooks_RandomAstronomicalIncident>이 책을 읽으면 무슨 원리인지는 몰라도 무작위 천문 현상이 일어납니다.</ABooks_RandomAstronomicalIncident>
+  <ABooks_Nonsense>전혀 말이 되지 않는 내용만이 나열되어 있습니다. 책을 읽으면 무슨 일이 일어날지는 아무도 모릅니다.</ABooks_Nonsense>
+  <ABooks_StainlessSteel>이 책을 읽으면 스테인리스강을 다룰 수 있게 되어 이를 활용한 제작 및 건설이 가능해집니다. 이제부터 제작하는 모든 강철 재질의 물품은 더 뛰어난 성능을 가졌고 불에 타지 않는 스테인리스강을 대신 사용해 제작됩니다.</ABooks_StainlessSteel>
+  <ABooks_DurathreadTechniques>이 책을 읽으면 강화원단을 다룰 수 있게 되어 이를 활용한 제작 및 건설이 가능해집니다. 이제부터 제작하는 모든 천 재질의 물품은 더 뛰어난 성능을 가진 강화원단을 대신 사용해 제작됩니다.</ABooks_DurathreadTechniques>
+  <Abooks_ReadDurathreadTechniques>{0}(은)는 강화원단 장인이 되었으며, 앞으로는 천 대신 강화원단 천을 사용하게 됩니다.</Abooks_ReadDurathreadTechniques>
+  <Abooks_ReadStainlessSteel>{0}(은)는 스테인리스강 장인이 되었으며, 앞으로는 강철 대신 스테인리스강을 사용하게 됩니다.</Abooks_ReadStainlessSteel>
+  <ABooks_ReadMidas>{0}(은)는 마이더스의 손을 얻어 앞으로 제작 또는 건설하는 모든 것을 금으로 바꿀 것입니다.</ABooks_ReadMidas>
+  <ABooks_DisableQuests>파괴된 도서관 임무 비활성화</ABooks_DisableQuests>
+  <ABooks_DisableQuests_Description>파괴된 도서관 임무가 발생하지 않도록 합니다. 이 임무는 습격, 인간사냥 동물 무리 등 다른 임무나 이야기꾼이 발생시키는 사건과는 별개인 점을 유의하세요.</ABooks_DisableQuests_Description>
+  <ABooks_QuestRate>파괴된 도서관 임무 계수 (낮을수록 임무가 더 자주 발생)</ABooks_QuestRate>
+  <ABooks_QuestRateTooltip>파괴된 도서관 임무가 발생하는 빈도에 곱해지는 수치입니다. (이 배수가 1일 때, 임무는 15-30일마다 한 번씩 발생합니다). 이 숫자가 1보다 작으면 임무 발생에 걸리는 시간이 줄어들고, 크면 시간이 늘어납니다. 이 임무는 일반적인 임무 "대신" 발생하는 것이 아니라 별도로 작동하는 점을 유의하세요.</ABooks_QuestRateTooltip>
+  <ABooks_UsefulBookMultiplier>파괴된 도서관의 "제대로 된" 책 수 계수 (작을수록 더 드물게 발견)</ABooks_UsefulBookMultiplier>
+  <ABooks_UsefulBookMultiplierTooltip>도서관 임무에서 등장하는 불타거나 손상되지 않고 "제대로 된" 책의 수에 곱해지는 수치입니다. 0.1로 설정하면 제대로 된 책이 10배 더 희귀해지고, 10으로 설정하면 손상된 책이 아예 나타나지 않습니다.</ABooks_UsefulBookMultiplierTooltip>
+  <ABooks_DisableReadRuinedBooks>손상된 책 자동 읽기 비활성화</ABooks_DisableReadRuinedBooks>
+  <ABooks_DisableReadRuinedBooksTooltip>기본 설정상 정착민들은 손상된 책을 자동으로 읽어 소모시킵니다. 이 설정을 켜면 연구 보너스 등을 위해 손상된 책을 계속해서 보관할 수 있습니다.</ABooks_DisableReadRuinedBooksTooltip>
+  <ABooks_Reset>초기화</ABooks_Reset>
+</LanguageData>
