@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MX_Neiyu_WarpFeather.label>도약의 깃털</MX_Neiyu_WarpFeather.label>
+  <MX_Neiyu_WarpFeather.description>잠시 힘을 모은 뒤 발아래에서 섬광을 일으키며 '밀리라의 깃털'을 즉시 생성합니다.</MX_Neiyu_WarpFeather.description>
+
+  <MX_Neiyu_ThunderMarkedStorm.label>뇌쇄인역</MX_Neiyu_ThunderMarkedStorm.label>
+  <MX_Neiyu_ThunderMarkedStorm.description>반경 3타일 내의 구역을 지정하여 적들을 표식으로 낙인찍습니다. 몇 초 후, 표식이 새겨진 각 대상에게 3~5회의 강력한 낙뢰가 떨어지며 EMP 피해를 추가로 입힙니다.</MX_Neiyu_ThunderMarkedStorm.description>
+
+  <MX_Neiyu_Bow_ArrowBarrage.label>유우열계</MX_Neiyu_Bow_ArrowBarrage.label>
+  <MX_Neiyu_Bow_ArrowBarrage.description>활의 형상 장착 시에만 사용 가능합니다. 5초간 집중한 뒤, 목표 방향으로 64발의 깃털 화살을 연속으로 퍼부어 전방의 모든 구역을 초토화합니다.</MX_Neiyu_Bow_ArrowBarrage.description>
+
+  <MX_Neiyu_Flower_BlessingField.label>화진 - 기생</MX_Neiyu_Flower_BlessingField.label>
+  <MX_Neiyu_Flower_BlessingField.description>꽃의 형상 장착 시에만 사용 가능합니다. 목표 구역에 광역 강화 효과를 부여합니다. 범위 내 아군은 기분, 이동 속도, 면역력 증가 속도가 상승하고 받는 피해는 감소합니다. 또한 부상 부위가 있다면 즉시 완전히 치유합니다.</MX_Neiyu_Flower_BlessingField.description>
+
+  <MX_Neiyu_Flower_ToxinGarden.label>화진 - 장정</MX_Neiyu_Flower_ToxinGarden.label>
+  <MX_Neiyu_Flower_ToxinGarden.description>꽃의 형상 장착 시에만 사용 가능합니다. 넓은 범위의 목표 구역에 적대적 효과를 부여합니다. 범위 내 적들은 강제로 심각한 식중독에 걸리며, 10%의 확률로 광란 상태에 빠집니다.</MX_Neiyu_Flower_ToxinGarden.description>
+
+  <MX_Neiyu_Sword_Skyfall.label>검세 - 천추</MX_Neiyu_Sword_Skyfall.label>
+  <MX_Neiyu_Sword_Skyfall.description>검의 형상 장착 시에만 사용 가능합니다. 시전 시 제자리에서 수직으로 급상승한 뒤 목표 지점에 낙하 예고를 생성합니다. 이후 해당 구역으로 고속 추락하여 막대한 범위 피해를 입히고 적들을 취약 상태로 만듭니다.</MX_Neiyu_Sword_Skyfall.description>
+
+  <MX_Neiyu_Sword_ExecuteHead.label>검세 - 단수</MX_Neiyu_Sword_ExecuteHead.label>
+  <MX_Neiyu_Sword_ExecuteHead.description>검의 형상 장착 시에만 사용 가능합니다. 단일 대상을 지정하면 뒤로 살짝 물러난 뒤, 극도로 높은 속도로 돌진하여 대상의 목을 벱니다.</MX_Neiyu_Sword_ExecuteHead.description>
+</LanguageData>

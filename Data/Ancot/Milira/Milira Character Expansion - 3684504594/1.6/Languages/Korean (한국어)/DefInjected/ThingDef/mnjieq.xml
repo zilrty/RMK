@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MiliraXian_NeiyuNormal.label>니우의 평상복</MiliraXian_NeiyuNormal.label>
+  <MiliraXian_NeiyuNormal.description>니우가 가장 즐겨 입는 평상복입니다. 그녀는 이 옷을 무척 아껴왔으며, 오랜 여정 속에서 희귀하고 정교한 재료들을 끊임없이 덧대어 왔습니다. 현재 이 세계에 현신한 모습이 비록 투영체일 뿐일지라도, 이 의상은 여전히 가벼운 외형과 뛰어난 방어력을 동시에 갖추고 있습니다.</MiliraXian_NeiyuNormal.description>
+
+  <MX_Apparel_EarringsZhenzhu.label>니우의 진주 장식</MX_Apparel_EarringsZhenzhu.label>
+  <MX_Apparel_EarringsZhenzhu.description>니우가 평소 착용하는 한 쌍의 진주 장식입니다. 가볍고 소박한 디자인이지만 그녀의 전체적인 차림새 및 분위기와 완벽하게 어우러지며, 투영체 상태에서도 가장 안정적으로 유지되는 장식 중 하나입니다.</MX_Apparel_EarringsZhenzhu.description>
+
+  <MX_Neiyu_Form_Flower.label>니우의 무장: 꽃의 형상</MX_Neiyu_Form_Flower.label>
+  <MX_Neiyu_Form_Flower.description>니우가 평소 손에 들고 다니는 꽃 형태의 병장기입니다. 부드럽고 가벼워 보이지만, 실상 이 세계에 투영된 세 가지 무장 형태 중 하나입니다. 꽃잎 사이로 흐르는 광휘는 요란하지 않으나, 언제나 부드럽고 안정적인 힘을 품고 있습니다.</MX_Neiyu_Form_Flower.description>
+  <MX_Neiyu_Form_Flower.tools.0.label>꽃치기</MX_Neiyu_Form_Flower.tools.0.label>
+
+  <MX_Neiyu_Form_Weapon.label>니우의 무장: 검의 형상</MX_Neiyu_Form_Weapon.label>
+  <MX_Neiyu_Form_Weapon.description>꽃의 형태에서 변화한 검 형태의 병장기입니다. 응축된 예기와 날카로운 기세가 특징이며, 니우가 정면 참격과 고속 돌진을 감행할 때 가장 위협적인 모습을 보여주는 형태입니다.</MX_Neiyu_Form_Weapon.description>
+  <MX_Neiyu_Form_Weapon.tools.0.label>무지개 칼날</MX_Neiyu_Form_Weapon.tools.0.label>
+
+  <MX_Neiyu_Form_Bow.label>니우의 무장: 활의 형상</MX_Neiyu_Form_Bow.label>
+  <MX_Neiyu_Form_Bow.description>꽃의 형태에서 변화한 활 형태의 병장기입니다. 깃털의 휘광을 현으로 삼아 화살을 비처럼 쏟아내며, 중원거리에서 화려하고 지속적인 압박을 가하는 데 특화되어 있습니다.</MX_Neiyu_Form_Bow.description>
+  <MX_Neiyu_Form_Bow.verbs.Verb_Shoot.label>니우의 무장: 활의 형상</MX_Neiyu_Form_Bow.verbs.Verb_Shoot.label>
+
+  <MX_Bullet_BigSplitArrow.label>니우: 분열하는 깃털 화살</MX_Bullet_BigSplitArrow.label>
+  <MX_Bullet_HomingShard.label>니우: 추적하는 깃털 파편</MX_Bullet_HomingShard.label>
+  <MX_Bullet_BarrageArrow.label>니우: 쏟아지는 깃털 화살</MX_Bullet_BarrageArrow.label>
+
+  <MX_Neiyu_SwordSkyfallAscendFlyer.label>니우: 천추 상승체</MX_Neiyu_SwordSkyfallAscendFlyer.label>
+  <MX_Neiyu_SwordSkyfallFlyer.label>니우: 천추 낙하체</MX_Neiyu_SwordSkyfallFlyer.label>
+  <MX_Neiyu_SwordDashFlyer.label>니우: 돌진 비행체</MX_Neiyu_SwordDashFlyer.label>
+</LanguageData>

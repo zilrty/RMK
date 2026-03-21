@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MX_Neiyu_FlowerBlessed.label>꽃의 축복</MX_Neiyu_FlowerBlessed.label>
+  <MX_Neiyu_FlowerBlessed.description>꽃의 형상으로 인해 부여된 축복 상태입니다.</MX_Neiyu_FlowerBlessed.description>
+  <MX_Neiyu_FlowerBlessed.stages.0.label>꽃의 축복</MX_Neiyu_FlowerBlessed.stages.0.label>
+
+  <MX_Neiyu_SwordVulnerability.label>검의 취약점</MX_Neiyu_SwordVulnerability.label>
+  <MX_Neiyu_SwordVulnerability.description>검의 형상인 '천추'의 충격으로 인해 받는 피해가 증폭된 상태입니다.</MX_Neiyu_SwordVulnerability.description>
+  <MX_Neiyu_SwordVulnerability.stages.0.label>취약함</MX_Neiyu_SwordVulnerability.stages.0.label>
+
+  <MXNL_NeiyuShield.label>호신</MXNL_NeiyuShield.label>
+  <MXNL_NeiyuShield.description>니우의 3단 횟수제 보호막입니다.</MXNL_NeiyuShield.description>
+
+  <MX_Neiyu_ThunderMark.label>뇌쇄의 표식</MX_Neiyu_ThunderMark.label>
+  <MX_Neiyu_ThunderMark.description>뇌쇄인역에 표기되었습니다. 짧은 시간 동안 지속적으로 번개 피해를 입습니다.</MX_Neiyu_ThunderMark.description>
+  <MX_Neiyu_ThunderMark.stages.0.label>뇌쇄의 표식</MX_Neiyu_ThunderMark.stages.0.label>
+</LanguageData>
