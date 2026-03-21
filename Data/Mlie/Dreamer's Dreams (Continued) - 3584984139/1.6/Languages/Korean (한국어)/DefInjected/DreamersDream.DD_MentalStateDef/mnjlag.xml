@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Sleepwalk.recoveryMessage>{0}(이)가 더 이상 잠결에 돌아다니지 않습니다.</Sleepwalk.recoveryMessage>
+  <Sleepwalk.baseInspectLine>몽유병 상태...</Sleepwalk.baseInspectLine>
+  <Sleepwalk.label>몽유병</Sleepwalk.label>
+
+  <SleepwalkBerserk.recoveryMessage>{0}(이)가 더 이상 잠결에 공격적으로 행동하지 않습니다.</SleepwalkBerserk.recoveryMessage>
+  <SleepwalkBerserk.baseInspectLine>몽유병 상태(광란)...</SleepwalkBerserk.baseInspectLine>
+  <SleepwalkBerserk.label>몽유병: 광란</SleepwalkBerserk.label>
+
+  <SleepwalkSafe.recoveryMessage>{0}(이)가 더 이상 잠결에 돌아다니지 않습니다.</SleepwalkSafe.recoveryMessage>
+  <SleepwalkSafe.baseInspectLine>몽유병 상태...</SleepwalkSafe.baseInspectLine>
+  <SleepwalkSafe.label>몽유병</SleepwalkSafe.label>
+
+  <SleepwalkTantrum.recoveryMessage>{0}(이)가 더 이상 잠결에 물건을 부수지 않습니다.</SleepwalkTantrum.recoveryMessage>
+  <SleepwalkTantrum.baseInspectLine>몽유병 상태(울화)...</SleepwalkTantrum.baseInspectLine>
+  <SleepwalkTantrum.label>몽유병: 울화</SleepwalkTantrum.label>
+
+  <SleepwalkOwnRoom.recoveryMessage>{0}(이)가 더 이상 방 안에서 서성거리지 않습니다.</SleepwalkOwnRoom.recoveryMessage>
+  <SleepwalkOwnRoom.baseInspectLine>방 안에서 몽유병 중...</SleepwalkOwnRoom.baseInspectLine>
+  <SleepwalkOwnRoom.label>방 안에서 몽유병</SleepwalkOwnRoom.label>
+
+  <SleepwalkBingingFood.recoveryMessage>{0}(이)가 더 이상 잠결에 음식을 먹어치우지 않습니다.</SleepwalkBingingFood.recoveryMessage>
+  <SleepwalkBingingFood.baseInspectLine>몽유병 상태(폭식)...</SleepwalkBingingFood.baseInspectLine>
+  <SleepwalkBingingFood.label>몽유병: 폭식</SleepwalkBingingFood.label>
+</LanguageData>
