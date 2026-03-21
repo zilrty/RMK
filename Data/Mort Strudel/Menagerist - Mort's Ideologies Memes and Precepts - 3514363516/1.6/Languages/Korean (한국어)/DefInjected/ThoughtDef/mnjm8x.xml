@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.0.label>부족한 동물</MI_PlayerAnimalsOnMapOrCaravan.stages.0.label>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.0.description>우리 인구수에 비해 길들인 동물이 너무 적어.</MI_PlayerAnimalsOnMapOrCaravan.stages.0.description>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.1.label>작은 동물원</MI_PlayerAnimalsOnMapOrCaravan.stages.1.label>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.1.description>우리 인구수에 비해 길들인 동물이 조금 부족한 것 같아.</MI_PlayerAnimalsOnMapOrCaravan.stages.1.description>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.2.label>적당한 동물원</MI_PlayerAnimalsOnMapOrCaravan.stages.2.label>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.2.description>우리 인구수에 맞춰서 적당한 수의 동물을 기르고 있어.</MI_PlayerAnimalsOnMapOrCaravan.stages.2.description>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.3.label>거대한 동물원</MI_PlayerAnimalsOnMapOrCaravan.stages.3.label>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.3.description>우리 인구수에 비해서 아주 많은 동물을 기르고 있어. 정말 좋아!</MI_PlayerAnimalsOnMapOrCaravan.stages.3.description>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.4.label>압도적인 동물원</MI_PlayerAnimalsOnMapOrCaravan.stages.4.label>
+  <MI_PlayerAnimalsOnMapOrCaravan.stages.4.description>정말 엄청나게 많은 동물을 기르고 있어! 우리 동물원은 진정 경이로운 광경이야!</MI_PlayerAnimalsOnMapOrCaravan.stages.4.description>
+
+  <MI_AnimalVariety_Required_Thought.stages.0.label>동물 종 없음</MI_AnimalVariety_Required_Thought.stages.0.label>
+  <MI_AnimalVariety_Required_Thought.stages.0.description>우리 보살핌 아래에 있는 동물이 단 한 종류도 없다니!</MI_AnimalVariety_Required_Thought.stages.0.description>
+  <MI_AnimalVariety_Required_Thought.stages.1.label>매우 적은 동물 종</MI_AnimalVariety_Required_Thought.stages.1.label>
+  <MI_AnimalVariety_Required_Thought.stages.1.description>우리 보살핌 아래에 있는 동물의 종류가 너무 적어.</MI_AnimalVariety_Required_Thought.stages.1.description>
+  <MI_AnimalVariety_Required_Thought.stages.2.label>적은 동물 종</MI_AnimalVariety_Required_Thought.stages.2.label>
+  <MI_AnimalVariety_Required_Thought.stages.2.description>우리 보살핌 아래에 몇 가지 종류의 동물이 있어.</MI_AnimalVariety_Required_Thought.stages.2.description>
+  <MI_AnimalVariety_Required_Thought.stages.3.label>여러 가지 동물 종</MI_AnimalVariety_Required_Thought.stages.3.label>
+  <MI_AnimalVariety_Required_Thought.stages.3.description>우리 보살핌 아래에 여러 종류의 동물들이 있어.</MI_AnimalVariety_Required_Thought.stages.3.description>
+  <MI_AnimalVariety_Required_Thought.stages.4.label>많은 동물 종</MI_AnimalVariety_Required_Thought.stages.4.label>
+  <MI_AnimalVariety_Required_Thought.stages.4.description>우리 보살핌 아래에 꽤 많은 종류의 동물들이 있어.</MI_AnimalVariety_Required_Thought.stages.4.description>
+  <MI_AnimalVariety_Required_Thought.stages.5.label>거대한 생물 다양성</MI_AnimalVariety_Required_Thought.stages.5.label>
+  <MI_AnimalVariety_Required_Thought.stages.5.description>우리 보살핌 아래에 정말 다양한 종류의 동물들이 있어!</MI_AnimalVariety_Required_Thought.stages.5.description>
+  <MI_AnimalVariety_Required_Thought.stages.6.label>엄청난 생물 다양성</MI_AnimalVariety_Required_Thought.stages.6.label>
+  <MI_AnimalVariety_Required_Thought.stages.6.description>우리 보살핌 아래에 엄청나게 다양한 종류의 동물들이 있어! 정말 대단해.</MI_AnimalVariety_Required_Thought.stages.6.description>
+  <MI_AnimalVariety_Required_Thought.stages.7.label>완성된 동물 표본실</MI_AnimalVariety_Required_Thought.stages.7.label>
+  <MI_AnimalVariety_Required_Thought.stages.7.description>우리 동물원은 이 행성에 존재하는 거의 모든 종을 품고 있어! 세상이 보지 못한 최고의 동물원을 우리가 완성했어!</MI_AnimalVariety_Required_Thought.stages.7.description>
+</LanguageData>

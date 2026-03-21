@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MI_Menagerist.label>동물 수집가</MI_Menagerist.label>
+  <MI_Menagerist.description>동물을 보살피는 것은 매우 보람찬 일입니다. 사람들은 동물을 수용하기 위해 크고 다양한 우리를 유지해야 합니다.</MI_Menagerist.description>
+
+  <MI_Menagerist.symbolPacks.0.ideoName>수집주의</MI_Menagerist.symbolPacks.0.ideoName>
+  <MI_Menagerist.symbolPacks.0.theme>동물 수집</MI_Menagerist.symbolPacks.0.theme>
+  <MI_Menagerist.symbolPacks.0.adjective>수집주의적</MI_Menagerist.symbolPacks.0.adjective>
+  <MI_Menagerist.symbolPacks.0.member>수집가</MI_Menagerist.symbolPacks.0.member>
+
+  <MI_Menagerist.symbolPacks.1.ideoName>동물학주의</MI_Menagerist.symbolPacks.1.ideoName>
+  <MI_Menagerist.symbolPacks.1.theme>동물학</MI_Menagerist.symbolPacks.1.theme>
+  <MI_Menagerist.symbolPacks.1.adjective>동물학적</MI_Menagerist.symbolPacks.1.adjective>
+  <MI_Menagerist.symbolPacks.1.member>동물학자</MI_Menagerist.symbolPacks.1.member>
+
+  <MI_Menagerist.symbolPacks.2.ideoName>사육주의</MI_Menagerist.symbolPacks.2.ideoName>
+  <MI_Menagerist.symbolPacks.2.theme>사육</MI_Menagerist.symbolPacks.2.theme>
+  <MI_Menagerist.symbolPacks.2.adjective>사육의</MI_Menagerist.symbolPacks.2.adjective>
+  <MI_Menagerist.symbolPacks.2.member>조련사</MI_Menagerist.symbolPacks.2.member>
+</LanguageData>

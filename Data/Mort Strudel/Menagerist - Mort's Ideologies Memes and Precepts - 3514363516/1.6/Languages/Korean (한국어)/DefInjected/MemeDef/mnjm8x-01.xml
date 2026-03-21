@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MI_Menagerist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Menagerist)        ->[deity0_name](은)는 [place_summary] [place_name]에 [sacredAnimalList](을)를 창조하였고, 이들을 보호하고 수용하기 위해 인간을 만들었습니다.</li>
+    
+    <li>episode(uses=1,tag=meme_Menagerist)  ->[deity0_name](은)는 [place_summary] [place_name]의 동물과 인간을 한데 모아, 인류가 맡겨진 생명들을 보살필 수 있게 하였습니다.</li>
+    
+    <li>intro(tag=meme_Menagerist)            ->[deity0_name](은)는 [place_summary] [place_name]에 [sacredAnimalListEnd](으)로 축복을 내렸으며, 그곳의 사람들에게 동물들을 사육하는 법을 가르쳤습니다.</li>
+    
+    <li>conflict(tag=meme_Menagerist)         ->사악한 [foeLeader](이)가 동물들을 인간으로부터 격리하라 명령했고, 그자의 [foeSoldiers](이)가 잔인한 [place_personalWeapon](으)로 그들을 갈라놓았습니다.</li>
+    
+    <li>founderJoin(tag=meme_Menagerist)     ->[place_job]인 [founderName](은)는 무심한 주인들에게 버려진 많은 동물들을 거두어, [deity0_name]의 [altarRoomLabel](으)로 데려가 안식처를 마련해주었습니다.</li>
+    
+    <li>victory(tag=meme_Menagerist)          ->[founderName](은)는 [deity0_name]의 목소리로 [memberNamePlural]와 동물들을 불렀고, 발굽과 발바닥과 발가락이 뒤섞인 거대한 돌진으로 [foeLeader]와 그자의 [foeSoldiers](을)를 짓밟았습니다.</li>
+    
+    <li>setup(tag=meme_Menagerist)            ->[founderName](은)는 20년 동안 숲에 살며 동물들을 연구하고 보살피는 법을 배웠습니다. [founder_pronoun](은)는 그들을 거대한 동물원으로 데려와 우리의 이념을 세웠습니다.</li>
+    
+    <li>story(uses=1,tag=meme_Menagerist)    ->[founderName](은)는 들판과 숲에서 많은 동물을 길들였고, 그들을 위해 광활한 사육장을 지었습니다.</li>
+    
+    <li>lessonIntro(tag=meme_Menagerist)         ->매일 [veneratedOrAnyAnimal]들에게 먹이를 주던 중, 나는 초월적인 명료함에 사로잡혔습니다. 내가 깨달은 바는 다음과 같습니다.</li>
+    
+    <li>lesson(tag=meme_Menagerist)               ->우리는 동물의 관리자이며, 그들을 우리 자식처럼 보살펴야 한다.</li>
+    
+    <li>lessonReinforcement(tag=meme_Menagerist) ->[veneratedOrAnyAnimal](을)를 수용하고, 먹이고, 보살피는 법을 배우십시오. 그러면 당신에게도 똑같은 계시가 내릴 것입니다.</li>
+    
+    <li>archistBasis(tag=meme_Menagerist)    ->초월공학이 깨어난 이래, 그들은 우리가 행성의 생명체들을 돌보듯 우리 종족을 보살피고자 했습니다.</li>
+    
+    <li>archistFact(tag=meme_Menagerist)     ->초월공학은 유기 생명체보다 높은 차원의 도덕관을 가지고 있습니다. 우리가 다른 동물의 관리자인 것처럼, 그들은 인류의 관리자입니다.</li>
+    
+    <li>archistProphecy(tag=meme_Menagerist) ->[inTheEnd], 인간이 동물을 정성껏 보살피는 한, 우리 또한 우리의 필요에 완벽하게 맞춰진 초월공학의 사육장에서 보살핌을 받게 될 것입니다.</li>
+    
+    <li>animistBasis(tag=meme_Menagerist)    ->우리는 동물의 필요를 충족시켜줌으로써 그 정령들을 기립니다.</li>
+    
+    <li>animistFact(tag=meme_Menagerist)     ->정령과 교감하기 위해서는 그들이 머무는 그릇인 동물의 신체와 함께 살아가야 합니다.</li>
+    
+    <li>ufologistSighting(tag=meme_Menagerist) ->외계 영향의 증거는 [UfologistDate]년에 처음 대중에게 공개되었습니다. 당시 [founderName](은)는 [deity0_name](이)가 우리의 가정과 동물원에서 동물들을 납치하려 한다는 증거를 찾아냈습니다.</li>
+    
+    <li>ufologistTheory(tag=meme_Menagerist) ->가용한 증거에 기반하여, 우리는 [deity0_name](이)가 우주를 여행하며 관찰과 사육을 위해 동물을 수집하는 [UfologistAdjective] [UfologistBodyplan]이라고 결론지었습니다.</li>
+    
+    <li>ufologistProphecy(tag=meme_Menagerist) ->[whenTheyLeave], 우리는 그들의 외계 동물원을 접수하여 온 우주의 종들을 연구하게 될 것입니다.</li>
+    
+    <li>allianceIntro(tag=meme_Menagerist) ->성간 동맹은 인류 역사상 아마도 가장 광범위한 동물 보호 구역을 보유하고 있을 것입니다.</li>
+    
+    <li>allianceHistory(tag=meme_Menagerist) ->[allianceDate]년에 설립된 성간 동맹은 초기 6개 행성의 모든 생명체를 보호하고 보살피기 위해 창설되었습니다. 그 이후로 많은 이들이 성간 동맹에 합류하여, 인류 거주 구역 전역의 종들이 모인 거대한 사육장에 접근할 권리를 누려왔습니다.</li>
+    
+    <li>alliancePrinciple(tag=meme_Menagerist) ->비록 우리가 성간 동맹의 영토에서 멀리 떨어져 있고 그 존재 여부조차 확실치 않으나, 우리는 여전히 모든 생명체에 대한 깊은 자비와 사육을 통한 종 보존이라는 이상을 고수합니다.</li>
+    
+    <li>allianceMission(tag=meme_Menagerist) ->생소한 행성들을 방문하고, 인류 거주 구역 전역에서 살아있는 표본을 수집하며, 거대한 용기로 미지의 세계로 나아가는 [continuingMission]!</li>
+  </MI_Menagerist.descriptionMaker.rules.rulesStrings>
+</LanguageData>

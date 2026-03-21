@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MI_Menagerist.generalRules.rulesStrings>
+    <li>memeAdjective->동물의</li>
+    <li>memeAdjective->사육의</li>
+    <li>memeAdjective->동물학적</li>
+    <li>memeAdjective->동물의</li>
+    <li>memeAdjective->수집가적</li>
+    
+    <li>memeLeaderNoun->관리소장</li>
+    <li>memeLeaderNoun->동물원장</li>
+    
+    <li>memeMoralist->동물 홍보대사</li>
+    
+    <li>memeConcept->수집주의</li>
+    <li>memeConcept->사육</li>
+  </MI_Menagerist.generalRules.rulesStrings>
+</LanguageData>

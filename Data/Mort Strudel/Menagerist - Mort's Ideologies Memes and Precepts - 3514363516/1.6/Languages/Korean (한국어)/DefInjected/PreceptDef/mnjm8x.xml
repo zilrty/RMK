@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MI_Zookeeping_Required.label>필수</MI_Zookeeping_Required.label>
+  <MI_Zookeeping_Required.description>우리는 가능한 한 많은 길들인 동물을 보살펴야 합니다.</MI_Zookeeping_Required.description>
+  <MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.0>부족한 동물원</MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.0>
+  <MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.1>작은 동물원</MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.1>
+  <MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.2>적당한 동물원</MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.2>
+  <MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.3>거대한 동물원</MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.3>
+  <MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.4>압도적인 동물원</MI_Zookeeping_Required.comps.0.thoughtStageDescriptions.4>
+
+  <MI_AnimalVariety_Required.label>필수</MI_AnimalVariety_Required.label>
+  <MI_AnimalVariety_Required.description>우리는 가능한 한 많은 종류의 동물을 길들여야 합니다.</MI_AnimalVariety_Required.description>
+  <MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.0>동물 종 없음</MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.0>
+  <MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.1>매우 적은 동물 종</MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.1>
+  <MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.2>적은 동물 종</MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.2>
+  <MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.3>여러 가지 동물 종</MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.3>
+  <MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.4>많은 동물 종</MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.4>
+  <MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.5>거대한 생물 다양성</MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.5>
+  <MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.6>엄청난 생물 다양성</MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.6>
+  <MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.7>완성된 동물 표본실</MI_AnimalVariety_Required.comps.0.thoughtStageDescriptions.7>
+</LanguageData>
