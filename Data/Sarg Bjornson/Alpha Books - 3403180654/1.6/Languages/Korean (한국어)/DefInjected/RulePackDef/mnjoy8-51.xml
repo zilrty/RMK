@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_TrainingManual_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthored]</li>
+    <li>titleBasic(p=6)-&gt;[randAdjective] [subject_primary] 훈련용 교본</li>
+    <li>titleBasic(p=6)-&gt;[randNoun] 및 [subject_primary] 기술 훈련</li>
+    <li>titleBasic-&gt;[subject_primary] 기술 훈련하기</li>
+    <li>titleBasic-&gt;필수적인 [subject_primary] 훈련 기법</li>
+    <li>titleBasic-&gt;초보자를 위한 [subject_primary] 훈련 가이드</li>
+    <li>titleBasic-&gt;[subject_primary] 심화 훈련 과정</li>
+    <li>titleBasic-&gt;전문가로 가는 훈련: [subject_primary]</li>
+    <li>titleBasic-&gt;생존을 위한 훈련: [subject_primary]</li>
+    <li>titleBasic-&gt;[subject_primary] 숙련도 마스터하기</li>
+    <li>titleBasic-&gt;연습이 완벽을 만든다: [subject_primary] 훈련</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 훈련용 교본</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 훈련 가이드</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 훈련서: [subject_primary]</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 훈련 핸드북</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 훈련 강의</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 훈련 노트</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 [subject_primary] 훈련 전략</li>
+  </ABooks_TrainingManual_Namer.rulePack.rulesStrings>
+</LanguageData>

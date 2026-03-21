@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_BotanicalCompendium_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro](으)로, [conceptExploration](을)를 다룹니다. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[intro]입니다. [conceptExploration][contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro-&gt;[subject_primary]의 매혹적인 세계를 탐구하는 [writingQualityAdjective] 핸드북</li>
+    <li>intro-&gt;[subject_primary]의 특이점을 상세히 기록한 필수적인 [bookType]</li>
+    <li>intro-&gt;[subject_primary]의 수수께끼를 풀어내는 [writingQualityAdjective] 도감</li>
+    <li>intro-&gt;[subject_primary](을)를 이해하기 위한 헌신적인 노력을 담은 시대를 초월한 [bookType]</li>
+    <li>intro-&gt;[subject_primary]의 생애 주기를 다룬 [writingQualityAdjective] 탐구서</li>
+    <li>intro-&gt;[subject_primary]의 중요성에 초점을 맞춘 통찰력 있는 [bookType]</li>
+    <li>conceptExploration-&gt;생물학적 특성과 적응 방식</li>
+    <li>conceptExploration-&gt;의료계 및 생존 상황에서의 활용법</li>
+    <li>conceptExploration-&gt;변경계 생태계에서의 수수께끼 같은 역할</li>
+    <li>conceptExploration-&gt;정착민과 야생 동물에게 미치는 중요성</li>
+    <li>conceptExploration-&gt;성장과 쓰임새에 얽힌 설화</li>
+    <li>conceptExploration-&gt;가혹한 환경에서도 번성할 수 있는 잠재력</li>
+    <li>conceptExploration-&gt;변경계의 필수 자원으로서의 역할</li>
+    <li>contextStatement-&gt;(이)가 직접 관찰 기록을 바탕으로 [bookType] 곳곳에 조명되어 있습니다</li>
+    <li>contextStatement-&gt;(을)를 흩어져 있던 현장 기록을 엮어 드러냅니다</li>
+    <li>contextStatement-&gt;에 관한 내용이 변경계 탐사 기록을 토대로 쓰여 있습니다</li>
+    <li>contextStatement-&gt;에 대해 깊이 파고드는 이 글은 고대 기록과 최근의 발견에 영감을 얻었습니다</li>
+    <li>contextStatement-&gt;에 관한 탐구가 담겼으며, 직접 경험해 얻은 증거와 철저한 연구를 결합한 것이라 합니다</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 필력이 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;철저한 조사를 바탕으로 한</li>
+    <li>writingQualityAdjective(quality==4)-&gt;매력적이고 상세한</li>
+    <li>writingQualityAdjective(quality==3)-&gt;쓸만하지만 기초적인 수준의</li>
+    <li>writingQualityAdjective(quality==2)-&gt;구성이 엉망인</li>
+    <li>writingQualityAdjective(quality==1)-&gt;답답할 정도로 모호한</li>
+    <li>writingQualityAdjective(quality==0)-&gt;미칠 듯이 엉망진창인</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;이 책은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;이 책은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 책은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;식물학 연구에 있어 엄청난 위업이며</li>
+    <li>excellentDesc-&gt;[subject_primary] 이해를 위한 필수적인 안내서로서</li>
+    <li>excellentDesc-&gt;식물 애호가들에게 매우 귀중한 자산이며</li>
+    <li>excellentExtra-&gt;통찰력 있는 내용으로 독자를 사로잡습니다</li>
+    <li>excellentExtra-&gt;영감과 실용적인 지식을 동시에 선사합니다</li>
+    <li>decentDesc-&gt;구색은 갖췄지만 [subject_primary]에 대한 탐구로서는 아쉬움이 남으며</li>
+    <li>decentDesc-&gt;초보 식물학자들을 위한 괜찮은 가이드이지만</li>
+    <li>decentDesc-&gt;[subject_primary]에 관한 군더더기 없이 유용한 자료지만</li>
+    <li>decentExtra-&gt;세부 사항에 다소 공백이 있습니다</li>
+    <li>decentExtra-&gt;추가적인 연구가 필요해 보입니다</li>
+    <li>awfulDesc-&gt;[subject_primary](을)를 다루려 했지만 도통 이해가 가지 않는 내용이며</li>
+    <li>awfulDesc-&gt;[subject_primary]에 대한 연구라기엔 서투르고 비효율적이며</li>
+    <li>awfulDesc-&gt;[subject_primary](을)를 답답할 정도로 모호하게 다루고 있어</li>
+    <li>awfulExtra-&gt;독자 입장에서는 읽을 가치가 없습니다</li>
+    <li>awfulExtra-&gt;눈에 띄는 오류와 누락된 내용이 가득합니다</li>
+    <li>maybe_date-&gt;이 작품은 [date_form]에 편집되었습니다.</li>
+    <li>maybe_date-&gt;[date_form]에 출판된 이 서적은 오늘날까지도 유용한 정보를 담고 있습니다.</li>
+    <li>maybe_date-&gt;이것의 기원은 [date_form]까지 거슬러 올라갑니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;잊힌 시대</li>
+    <li>date_form-&gt;변경계</li>
+    <li>date_form-&gt;개척 초기 시대</li>
+    <li>bookType(p=3)-&gt;도감</li>
+    <li>bookType(p=2)-&gt;해설서</li>
+    <li>bookType(p=1)-&gt;핸드북</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 3일 동안 식물 관련 기술이 향상됩니다. 그 후 책은 사라집니다.</li>
+  </ABooks_BotanicalCompendium_Description.rulePack.rulesStrings>
+</LanguageData>

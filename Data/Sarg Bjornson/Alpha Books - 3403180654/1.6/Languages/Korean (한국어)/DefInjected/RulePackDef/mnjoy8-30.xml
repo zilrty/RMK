@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_AdventuringLogs_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[location]에서의 [adjective] [subject]</li>
+    <li>title-&gt;[event]의 [adjective] [subject]</li>
+    <li>title-&gt;[adjective] [location]에서의 [subject]</li>
+    <li>title-&gt;[location]의 [subject]</li>
+    <li>title-&gt;[subject]: [event] 연대기</li>
+    <li>title-&gt;[adjective] [subject]</li>
+    <li>adjective-&gt;위험천만한</li>
+    <li>adjective-&gt;미지의</li>
+    <li>adjective-&gt;전설적인</li>
+    <li>adjective-&gt;잊힌</li>
+    <li>adjective-&gt;경이로운</li>
+    <li>adjective-&gt;저주받은</li>
+    <li>adjective-&gt;타오르는</li>
+    <li>adjective-&gt;잃어버린</li>
+    <li>adjective-&gt;영웅적인</li>
+    <li>adjective-&gt;끔찍한</li>
+    <li>subject-&gt;여정</li>
+    <li>subject-&gt;여행</li>
+    <li>subject-&gt;모험</li>
+    <li>subject-&gt;원정</li>
+    <li>subject-&gt;기록</li>
+    <li>subject-&gt;이야기</li>
+    <li>subject-&gt;탐험</li>
+    <li>location-&gt;변경</li>
+    <li>location-&gt;미지의 영역</li>
+    <li>location-&gt;황무지</li>
+    <li>location-&gt;외곽 지역</li>
+    <li>location-&gt;타오르는 사막</li>
+    <li>location-&gt;얼어붙은 툰드라</li>
+    <li>location-&gt;잊힌 정글</li>
+    <li>location-&gt;심연</li>
+    <li>location-&gt;초월공학 유적</li>
+    <li>location-&gt;산산조각난 봉우리</li>
+    <li>event-&gt;발견</li>
+    <li>event-&gt;생존</li>
+    <li>event-&gt;심판</li>
+    <li>event-&gt;의혹</li>
+    <li>event-&gt;정복</li>
+    <li>event-&gt;각성</li>
+    <li>event-&gt;전설</li>
+    <li>event-&gt;어리석음</li>
+    <li>event-&gt;승리</li>
+    <li>event-&gt;파멸</li>
+  </ABooks_AdventuringLogs_Namer.rulePack.rulesStrings>
+</LanguageData>

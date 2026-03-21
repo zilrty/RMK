@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_DurathreadTechniques_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[conceptExploration][intro]. [writingQualitySentence] [ending]</li>
+    <li>intro-&gt;의 비결을 담은 [writingQualityAdjective] 기법 모음집입니다</li>
+    <li>intro-&gt;의 비밀을 밝히는 혁신적인 [bookType]입니다</li>
+    <li>intro-&gt;에 통달하기 위한 [writingQualityAdjective] 가이드입니다</li>
+    <li>intro-&gt;만을 위해 세심히 만들어진 모음집입니다</li>
+    <li>intro-&gt;(을)를 활용하고자 하는 이들을 위한 필수적인 자료입니다</li>
+    <li>conceptExploration-&gt;강화원단의 비할 데 없는 내구성</li>
+    <li>conceptExploration-&gt;그 어떤 천보다 질긴 직물의 제작</li>
+    <li>conceptExploration-&gt;한땀 한땀 강도와 탄성을 불어넣는 직조법</li>
+    <li>conceptExploration-&gt;강화원단의 최첨단 섬유 공학</li>
+    <li>conceptExploration-&gt;이 특별한 소재의 독특한 특성</li>
+    <li>writingQualityAdjective-&gt;뛰어난 솜씨로 선별된</li>
+    <li>writingQualityAdjective-&gt;훌륭할 정도로 자세한</li>
+    <li>writingQualityAdjective-&gt;잘 구성된</li>
+    <li>writingQualityAdjective-&gt;기능적인</li>
+    <li>writingQualityAdjective-&gt;평범한</li>
+    <li>writingQualitySentence-&gt;이 책은 내용이 간결하고 명확하여 [excellentDesc].</li>
+    <li>writingQualitySentence-&gt;그 내용은 [decentDesc].</li>
+    <li>excellentDesc-&gt;섬유 공학 교재의 기준으로 삼을 만합니다</li>
+    <li>excellentDesc-&gt;고급 재료 활용 실력을 완성하는 데 크게 도움이 되는 자료입니다</li>
+    <li>excellentDesc-&gt;공예 기록의 모범입니다</li>
+    <li>decentDesc-&gt;실용적이지만 독창성이 부족합니다</li>
+    <li>decentDesc-&gt;활용할 수는 있으나 범위가 제한적입니다</li>
+    <li>decentDesc-&gt;봐줄 만하지만 깊이가 느껴지지 않습니다</li>
+    <li>ending-&gt;\n\n이 책의 품질은 항상 평범 등급이며, 읽고 난 후에는 사라집니다.</li>
+    <li>bookType(p=4)-&gt;매뉴얼</li>
+    <li>bookType(p=3)-&gt;핸드북</li>
+    <li>bookType(p=2)-&gt;해설서</li>
+    <li>bookType(p=1)-&gt;연구서</li>
+  </ABooks_DurathreadTechniques_Description.rulePack.rulesStrings>
+</LanguageData>

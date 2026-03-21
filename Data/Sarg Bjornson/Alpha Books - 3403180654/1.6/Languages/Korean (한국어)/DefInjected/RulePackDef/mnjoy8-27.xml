@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_TynansBook_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[conceptExploration][intro]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[conceptExploration](을)를 중점적으로 다루고 있으며, [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending-&gt;\n\n이 책에 담긴 교훈은 심오하지만, 당신의 이해도에 따라 그 내용을 온전히 파악하기 어려울 수도 있습니다.</li>
+    <li>intro-&gt;(을)를 다루며 사고를 자극하는 [writingQualityAdjective] 안내서입니다</li>
+    <li>intro-&gt;에 대한 내용을 흥미롭게 탐구하는 [writingQualityAdjective] 탐구서입니다</li>
+    <li>intro-&gt;의 섬세한 균형을 상세히 설명하며 독자에게 영감을 주는 [writingQualityAdjective] 지침서입니다</li>
+    <li>conceptExploration-&gt;도저히 작동하지 않을 것 같으면서도 어떻게든 돌아가는 게임 디자인의 기본 원리</li>
+    <li>conceptExploration-&gt;플레이어의 자유도와 엄격한 메커니즘 사이에서 균형을 맞추는 복잡함</li>
+    <li>conceptExploration-&gt;인터랙티브 디자인에서 불가능해 보이는 일을 수월해 보이게 만드는 법</li>
+    <li>conceptExploration-&gt;평범한 시스템 속에서도 플레이어의 흥미를 유지하는 법</li>
+    <li>conceptExploration-&gt;플레이어의 행동은 왜 예측 불가능한지, 그리고 왜 그래도 괜찮은지 이해하는 과정</li>
+    <li>conceptExploration-&gt;순전한 의지만으로 혼돈을 받아들이고 그것을 즐거움으로 승화시키는 방법</li>
+    <li>contextStatement-&gt;게임 개발 현장에서의 수년간의 경험을 통해 얻은 통찰을 담은 이 책은</li>
+    <li>contextStatement-&gt;게임 디자인의 성공과 실패 사례를 모두 엮어낸 이 가이드는</li>
+    <li>contextStatement-&gt;실제 개발 과정의 고충을 바탕으로 하여</li>
+    <li>contextStatement-&gt;무엇이 옳았고 무엇이 잘못되었는지에 대한 솔직한 성찰을 제공하는 이 가이드는</li>
+    <li>contextStatement-&gt;전문가의 식견이 가득 담긴 이 책은</li>
+    <li>impactStatement-&gt;이 책의 지혜는 좌절스럽지만 보람찬 게임 제작의 세계로 당신을 안내할 것입니다</li>
+    <li>impactStatement-&gt;게임 개발이라는 혼란스러운 과정을 생산적 경험으로 바꾸는 통찰력을 제시합니다</li>
+    <li>impactStatement-&gt;개발 도중 좌초되지 않는 게임을 만들고자 하는 모든 이들의 필수 지침서입니다</li>
+    <li>impactStatement-&gt;이 책은 당신이 미처 알지 못했던 방식으로 디자인을 생각하게 해줄 것입니다</li>
+    <li>impactStatement-&gt;여기에 담긴 조언들은 아무리 복잡한 게임 시스템이라도 정복할 수 있도록 도와줄 것입니다</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 솜씨가 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;놀라운 통찰력을 담은</li>
+    <li>writingQualityAdjective(quality==4)-&gt;정밀한</li>
+    <li>writingQualityAdjective(quality==3)-&gt;실용적인</li>
+    <li>writingQualityAdjective(quality==2)-&gt;논란의 여지가 있는 복제본</li>
+    <li>writingQualityAdjective(quality==1)-&gt;형편없이 만들어진 복제본</li>
+    <li>writingQualityAdjective(quality==0)-&gt;원본을 터무니없을 정도로 망쳐놓은 번역본</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;이 책은 [excellentDesc](으)로서 조밀한 복잡함 속에서도 명확한 통찰을 제공합니다</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;다소 다듬어지지 않은 면이 있긴 하지만, [decentDesc](으)로서 주제에 대한 상당한 이해도를 전달합니다</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;[awfulDesc] 뛰어난 명작이었던 원판의 의미 대부분이 소실되었습니다</li>
+    <li>excellentDesc-&gt;지혜로운 게임 기획법을 모아놓은 훌륭한 요약서</li>
+    <li>excellentDesc-&gt;게임 제작자 지망생들에게 매우 귀중한 자료</li>
+    <li>excellentDesc-&gt;통찰력이 풍부하고 사려 깊게 구성된 가이드</li>
+    <li>excellentDesc-&gt;참으로 식견이 있고 다각도로 분석된 탐구서</li>
+    <li>excellentDesc-&gt;디자인 이론의 정수를 보여주는 걸작</li>
+    <li>decentDesc-&gt;게임 기획의 기초를 다지는 탄탄한 입문서</li>
+    <li>decentDesc-&gt;유익한 내용이 담긴 완전한 안내서</li>
+    <li>awfulDesc-&gt;매우 형편없는 번역본이기 때문에</li>
+    <li>awfulDesc-&gt;열 번이나 손을 거치며 엉망으로 관리된 탓에</li>
+    <li>awfulDesc-&gt;세 개의 언어로 중역을 거친 결과물이기 때문에</li>
+    <li>awfulDesc-&gt;원문에 익숙하지 않은 이가 만든 질 나쁜 사본인 탓에</li>
+    <li>awfulDesc-&gt;원본에는 없던 수많은 주관적인 의견이 개입된 조잡한 개정판이기 때문에</li>
+    <li>maybe_date-&gt;이 책은 [date_form]에 마지막으로 개정되었습니다.</li>
+    <li>maybe_date-&gt;본래 [date_form]에 집필되었으나, 오늘날 보기에도 유용한 내용을 담고 있습니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;수년 전</li>
+    <li>date_form-&gt;게임 기획 실험이 정점에 달했던 시기</li>
+    <li>date_form-&gt;게임 개발 이론의 초창기 시절</li>
+  </ABooks_TynansBook_Description.rulePack.rulesStrings>
+</LanguageData>

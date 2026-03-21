@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_PoliticalPamphlet_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro]. [contentOverview]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc-&gt;[intro]. [contextStatement]. [contentOverview]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc-&gt;[intro]. [contentOverview]. [quirky_flavor]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc-&gt;[intro]. [contextStatement]. [contentOverview]. [quirky_flavor]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>intro-&gt;이 [bookType](은)는 사고의 혁명을 추구하지만, 실상은 분노를 유발하는 데 목적이 있습니다</li>
+    <li>intro-&gt;[issue]에 신물이 나 비난을 퍼부을 준비가 된 모든 이를 위한 격렬한 행동 촉구서입니다</li>
+    <li>intro-&gt;정의로운 어조 아래에 가차 없는 비난을 숨기고 있는 열정적인 선언문입니다</li>
+    <li>intro-&gt;이 [writingQualityAdjective] 팸플릿은 [ideal](을)를 위해 싸운다고 주장하지만, 진흙탕 싸움을 즐기는 어투가 묻어나옵니다</li>
+    <li>intro-&gt;[problem](을)를 향해 던지는 직설적인 선언문, 또는 핑계를 대고 남을 비난하기 위한 욕망이 묻어나오는 글입니다</li>
+    <li>contextStatement-&gt;격렬한 논쟁과 상당한 수준의 독설 속에서 탄생했습니다</li>
+    <li>contextStatement-&gt;[subject_primary]의 끊임없는 내분으로부터 태어났습니다</li>
+    <li>contextStatement-&gt;[issue]에 대한 좌절감, 그리고 어쩌면 과도한 카페인 섭취에서 동력을 얻었습니다</li>
+    <li>contextStatement-&gt;정치적 분노, 그리고 아마도 약간의 악의라는 불꽃 속에서 만들어졌습니다</li>
+    <li>contextStatement-&gt;[ideal](이)라는 이상에 이끌렸으나, 상당한 양의 사적인 복수심도 섞여 있습니다</li>
+    <li>contentOverview-&gt;이 팸플릿은 [ideal](을)를 향한 대담한 비전을 설명하고 있습니다</li>
+    <li>contentOverview-&gt;[problem]에 대한 해결책을 제안하고 있으나, 상대에 대한 비방에 가려져 빛을 잃었습니다</li>
+    <li>contentOverview-&gt;각 페이지에는 [issue]에 대한 비판이 상세히 서술되어 있으며, 곳곳에 모욕적인 언사가 섞여 있습니다</li>
+    <li>contentOverview-&gt;수사적 표현들은 [topic](을)를 다루는 데 목적을 두고 있지만, 자주 인신공격으로 치우치곤 합니다</li>
+    <li>contentOverview-&gt;개혁안들이 논의되고는 있지만, 대부분 선동적인 문구들에 묻혀버린 상태입니다</li>
+    <li>quirky_flavor-&gt;정치적 반대파들을 향한 창의적이고 새로운 모욕 일람이 포함되어 있습니다</li>
+    <li>quirky_flavor-&gt;누군가의 헤어스타일에 대해 놀라울 정도로 집착하며 서술합니다</li>
+    <li>quirky_flavor-&gt;반대 세력 전단의 문법을 조롱하는 데에만 지면 전체를 쓰고 있습니다</li>
+    <li>quirky_flavor-&gt;차마 입에 담기 힘든 수준의 무례한 [subject_primary] 관련 풍자시가 실려 있습니다</li>
+    <li>quirky_flavor-&gt;도를 넘은 모욕적인 표현들 때문에 의도치 않게 실소를 자아냅니다</li>
+    <li>reveal-&gt;[issue](을)를 해결하겠다고 주장하지만, 실제로는 인신공격에 더 많은 분량을 할애하고 있습니다</li>
+    <li>reveal-&gt;어떠한 실질적인 논거도 끊임없이 이어지는 진흙탕 싸움에 묻혀 보이지 않습니다</li>
+    <li>reveal-&gt;화려한 수사 뒤에 숨겨진 실상은 그저 사소한 불만들을 길게 늘어놓은 목록일 뿐입니다</li>
+    <li>reveal-&gt;정치적 선언보다는 길고 분노에 찬 폭언에 가깝게 읽힙니다</li>
+    <li>reveal-&gt;정치적 주장의 탈을 쓰려 했지만, 그 속에 담긴 독설과 모욕이 적나라하게 드러납니다</li>
+    <li>writingQualitySentence(quality==6)-&gt;우아하게 구성된 통렬한 비판문으로, 세련미와 재치를 곁들여 날카로운 일침을 가합니다.</li>
+    <li>writingQualitySentence(quality==5)-&gt;문체가 날카로우며, 특유의 어조에도 불구하고 가시 돋친 비판이 정확하게 파고듭니다.</li>
+    <li>writingQualitySentence(quality==4)-&gt;짜임새 있게 구성되었으나, 가끔은 논거보다 모욕적인 언사가 더 두드러져 보입니다.</li>
+    <li>writingQualitySentence(quality==3)-&gt;쓸만한 수준이지만, 논리와 비방 사이의 균형을 잡는 능력이 다소 서투릅니다.</li>
+    <li>writingQualitySentence(quality==2)-&gt;구성이 엉성하고 투박한 장문의 비난으로, 일침을 시도하지만 크게 엇나갑니다.</li>
+    <li>writingQualitySentence(quality==1)-&gt;앞뒤가 맞지 않는 주장과 유치한 욕설이 뒤섞인 혼란스러운 결과물입니다.</li>
+    <li>writingQualitySentence(quality==0)-&gt;악의와 치졸한 비방을 숨기려는 노력조차 보이지 않는 최악의 배설물 같은 글입니다.</li>
+    <li>ending-&gt;\n\n다 읽고 나면 이 팸플릿은 투덜대며 사라지겠지만, 마음 한구석에는 가시지 않는 분노를 남길 것입니다.</li>
+  </ABooks_PoliticalPamphlet_Description.rulePack.rulesStrings>
+</LanguageData>

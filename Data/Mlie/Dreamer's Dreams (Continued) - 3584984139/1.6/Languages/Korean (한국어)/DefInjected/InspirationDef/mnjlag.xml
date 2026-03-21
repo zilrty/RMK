@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Dream_Frenzy_Work.label>작업 열망</Dream_Frenzy_Work.label>
+  <Dream_Frenzy_Work.beginLetter>[PAWN_pronoun](은)는 아주 특별한 꿈을 꾸었습니다. [PAWN_pronoun](은)는 앞으로 2일 동안 작업 속도가 빨라집니다.</Dream_Frenzy_Work.beginLetter>
+  <Dream_Frenzy_Work.endMessage>{0}(이)가 더 이상 영감을 받지 않습니다 (작업 열망).</Dream_Frenzy_Work.endMessage>
+  <Dream_Frenzy_Work.baseInspectLine>꿈: 작업 열망</Dream_Frenzy_Work.baseInspectLine>
+
+  <Dream_Inspired_Trade.label>거래 영감</Dream_Inspired_Trade.label>
+  <Dream_Inspired_Trade.beginLetter>[PAWN_pronoun](은)는 아주 특별한 꿈을 꾸었습니다. [PAWN_pronoun](은)는 다음 거래를 성사시킬 때 상당한 가격 보너스를 받게 됩니다.\n\n영감은 2일이 지나거나 거래가 완료되면 사라집니다.</Dream_Inspired_Trade.beginLetter>
+  <Dream_Inspired_Trade.endMessage>{0}(이)가 더 이상 영감을 받지 않습니다 (거래 영감).</Dream_Inspired_Trade.endMessage>
+  <Dream_Inspired_Trade.baseInspectLine>꿈: 거래 영감</Dream_Inspired_Trade.baseInspectLine>
+
+  <Dream_Inspired_Creativity.label>예술 영감</Dream_Inspired_Creativity.label>
+  <Dream_Inspired_Creativity.beginLetter>[PAWN_pronoun](이)가 다음에 제작할 아이템, 예술품, 혹은 가구는 평소보다 품질 등급이 두 단계 더 높아집니다. 이 영감을 통해 전설 등급의 아이템을 제작할 수도 있습니다.\n\n영감은 2일이 지나거나 제작이 완료되면 사라집니다.</Dream_Inspired_Creativity.beginLetter>
+  <Dream_Inspired_Creativity.endMessage>{0}(이)가 더 이상 영감을 받지 않습니다 (예술 영감).</Dream_Inspired_Creativity.endMessage>
+  <Dream_Inspired_Creativity.baseInspectLine>꿈: 예술 영감</Dream_Inspired_Creativity.baseInspectLine>
+</LanguageData>

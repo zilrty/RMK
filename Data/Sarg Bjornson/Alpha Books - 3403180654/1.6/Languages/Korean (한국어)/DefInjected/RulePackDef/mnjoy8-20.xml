@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_RestaurantGuide_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro] [contentOverview](을)를 다룹니다. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc-&gt;[intro] [contentOverview](을)를 다루고 있으며, [quirkStatement]. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc-&gt;[intro] [contextStatement] [contentOverview](을)를 다룹니다. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc-&gt;[intro] [contentOverview](을)를 다룹니다. [quirkStatement]. [qualityStatement] [maybe_date][ending]</li>
+    <li>intro-&gt;이 [writingQualityAdjective] [bookType](은)는 여러 성계를 아우르며</li>
+    <li>intro-&gt;이 [writingQualityAdjective] 뛰어난 변방 요리에 대한 가이드는</li>
+    <li>intro-&gt;최고의 식사 경험을 모아둔 이 [writingQualityAdjective] 컬렉션은</li>
+    <li>intro-&gt;이 [writingQualityAdjective] [bookType](은)는</li>
+    <li>intro-&gt;여러 경이로운 미식에 대한 이 [writingQualityAdjective] 탐구서는</li>
+    <li>contentOverview-&gt;거주 가능 행성에 있는 최고의 식당들</li>
+    <li>contentOverview-&gt;외딴 성계에 숨겨진 숨겨진 미식들</li>
+    <li>contentOverview-&gt;기대 이상의 정찬을 맛볼 수 있는 전초기지들</li>
+    <li>contentOverview-&gt;퓨전 요리로 명성 높은 은하계 중심지</li>
+    <li>contentOverview-&gt;희귀 식재료와 혁신적인 조리법</li>
+    <li>contentOverview-&gt;개척민과 정착민들의 진화하는 입맛</li>
+    <li>contentOverview-&gt;우주적 대재앙 속에서도 살아남아 번창한 식당들</li>
+    <li>quirkStatement-&gt;중력과 논리를 거스르는 요리들에 대한 평을 포함하고 있습니다</li>
+    <li>quirkStatement-&gt;변경계 셰프들의 기묘하면서도 즐거운 별미를 소개합니다</li>
+    <li>quirkStatement-&gt;일부 외계 식재료의 잠재적 독성에 대해 경고합니다</li>
+    <li>quirkStatement-&gt;논란의 여지가 있는 수경재배 식재료 랭킹이 들어있습니다</li>
+    <li>quirkStatement-&gt;메카노이드 호스트를 대할 때 지켜야 할 식사 예절이 설명되어 있습니다</li>
+    <li>quirkStatement-&gt;소행성 채굴장 식당에 대한 이례적으로 혹독한 비평이 눈에 띕니다</li>
+    <li>contextStatement-&gt;수십 년 동안의 요리에 대한 고찰을 담은 가이드이며</li>
+    <li>contextStatement-&gt;수많은 선구적인 미식가들의 경험을 토대로</li>
+    <li>contextStatement-&gt;변경계 전역에서 실시한 철저한 조사와 시식 테스트 결과가 담겨 있으며</li>
+    <li>contextStatement-&gt;수 세기 동안의 변방 외식 트렌드를 조명하며</li>
+    <li>contextStatement-&gt;요리 인류학의 유물에 대해 정리하며</li>
+    <li>qualityStatement(quality==6)-&gt;[excellentDesc], 전문가들 사이에서 널리 찬사를 받습니다.</li>
+    <li>qualityStatement(quality==5)-&gt;[decentDesc], 음식 비평의 정수를 보여줍니다.</li>
+    <li>qualityStatement(quality==4)-&gt;[decentDesc], 이색 음식 마니아들에게 제법 유용한 정보를 담고 있습니다.</li>
+    <li>qualityStatement(quality==3)-&gt;[functionalDesc], 신뢰할 만하지만 어딘가 심심한 내용뿐입니다.</li>
+    <li>qualityStatement(quality==2)-&gt;[mediocreDesc], 아쉬운 점이 있으나 유용한 팁도 일부 포함합니다.</li>
+    <li>qualityStatement(quality==1)-&gt;[poorDesc], 오류가 많지만 읽을 수는 있는 수준입니다.</li>
+    <li>qualityStatement(quality==0)-&gt;[terribleDesc], 도움보다는 혼란만을 줄 뿐입니다.</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 필력이 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;정교하게 다듬어진</li>
+    <li>writingQualityAdjective(quality==4)-&gt;사려 깊고 매력적인</li>
+    <li>writingQualityAdjective(quality==3)-&gt;사용하기에 적절한</li>
+    <li>writingQualityAdjective(quality==2)-&gt;다듬어지지 않은</li>
+    <li>writingQualityAdjective(quality==1)-&gt;마구잡이로 짜깁기된</li>
+    <li>writingQualityAdjective(quality==0)-&gt;엉망으로 구성된</li>
+    <li>excellentDesc-&gt;요리 저널리즘의 걸작이라 할 만하며</li>
+    <li>excellentDesc-&gt;음식 애호가라면 필수적으로 참고해야 할 자료이며</li>
+    <li>excellentDesc-&gt;미식 문학의 빛나는 전형을 보여주며</li>
+    <li>excellentDesc-&gt;식당 추천의 정수를 보여주고 있으며</li>
+    <li>decentDesc-&gt;훌륭한 요리 비평 시도를 선보이며</li>
+    <li>decentDesc-&gt;다소 부족한 점은 있으나 유익한 정보를 전하며</li>
+    <li>decentDesc-&gt;우주 여행자들에게 유용한 가이드가 되어줄 수 있으며</li>
+    <li>decentDesc-&gt;미식가의 서재에 들어가도 손색이 없을 수준에</li>
+    <li>functionalDesc-&gt;배고픈 우주 여행자를 위한 유용한 참고서가 되며</li>
+    <li>functionalDesc-&gt;기본에 충실하고 실용적인 가이드를 제공하며</li>
+    <li>functionalDesc-&gt;먹거리 탐험을 위한 무난한 핸드북 역할을 하며</li>
+    <li>mediocreDesc-&gt;요리 평론으로서는 실망스러운 수준이며</li>
+    <li>mediocreDesc-&gt;평범한 의견을 모아놓은 단순한 편집본이며</li>
+    <li>mediocreDesc-&gt;전 우주적 음식 비평이라기엔 기대에 미치지 못하며</li>
+    <li>poorDesc-&gt;어설프게 만들어져 읽기조차 힘들며</li>
+    <li>poorDesc-&gt;답답할 정도로 불완전한 리뷰 모음집이며</li>
+    <li>poorDesc-&gt;요리 비평으로서 인상적인 점이 전혀 없었으며</li>
+    <li>terribleDesc-&gt;가이드라고 할 수 없는 이해 불가능한 재앙이며</li>
+    <li>terribleDesc-&gt;터무니없고 결함이 깊은 문서이며</li>
+    <li>terribleDesc-&gt;당혹스러울 정도로 도움 안 되는 헛소리에 불과하며</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 출판물은 [date_form]에 처음 발행되었습니다.</li>
+    <li>maybe_date-&gt;이 가이드의 기원은 [date_form]으로 거슬러 올라갑니다.</li>
+    <li>maybe_date-&gt;이 내용은 [date_season] 중에 처음 나타났습니다.</li>
+    <li>date_form-&gt;5500년</li>
+    <li>date_form-&gt;몇 년 전</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 식사의 수준을 한 단계 높일 수 있는 (예: 간단한 식사 → 좋은 식사) 능력을 얻으며, 그 후 책은 사라집니다.</li>
+  </ABooks_RestaurantGuide_Description.rulePack.rulesStrings>
+</LanguageData>

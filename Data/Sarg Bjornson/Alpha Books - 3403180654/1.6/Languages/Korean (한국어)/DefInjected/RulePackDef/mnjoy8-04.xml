@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_ArmyManual_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[conceptExploration][intro]. [writingQualitySentence]. [impactStatement].[ending]</li>
+    <li>ending-&gt;\n\n이 교범은 정착지의 전력을 기르는 데 귀중한 통찰을 제공하지만, 한 번 읽으면 사라지게 됩니다.</li>
+    <li>intro-&gt;(을)를 다루는 [writingQualityAdjective] [bookType]입니다</li>
+    <li>intro-&gt;에 대해 깊이있게 탐구하는 [writingQualityAdjective] 자료 모음입니다</li>
+    <li>intro-&gt;에 관한 [writingQualityAdjective] 분석입니다</li>
+    <li>intro-&gt;(을)를 중심으로 전문가가 엄선한 [bookType]입니다</li>
+    <li>conceptExploration-&gt;조직적 전투와 생존의 기초</li>
+    <li>conceptExploration-&gt;어떤 적이든 압도하고 살아남기 위한 전략</li>
+    <li>conceptExploration-&gt;필수적인 교전 기법 및 실전 적용 방법</li>
+    <li>conceptExploration-&gt;조직적인 방어와 공격의 복잡한 기술</li>
+    <li>conceptExploration-&gt;전장 생존 및 리더십 원칙</li>
+    <li>conceptExploration-&gt;전술 및 작전 계획의 심화 원칙</li>
+    <li>impactStatement(quality[greater_than]1)-&gt;지도자에게 혼돈을 승리로 바꿀 수 있는 방법을 가르치는 내용입니다</li>
+    <li>impactStatement(quality[greater_than]1)-&gt;어느 정착지에도 적용할 수 있는 방어 및 공격 능력을 강화하는 데 도움이 될 가르침입니다</li>
+    <li>impactStatement(quality[greater_than]1)-&gt;이 매뉴얼은 가장 무질서한 민병대라도 전략적인 군대로 변모시킵니다</li>
+    <li>impactStatement(quality[greater_than]1)-&gt;전장에서의 생존과 지배를 위한 핵심적인 지침이 담겨있습니다.</li>
+    <li>impactStatement(quality[greater_than]1)-&gt;이 지식과 함께라면, 정착지는 가장 강력한 적들에 맞설 준비가 되어있을 것입니다</li>
+    <li>impactStatement(quality[less_than]2)-&gt;뒤섞인 지침들은 야심에 찬 지도자들을 돕기보다 오히려 혼란에 빠뜨릴 수 있습니다</li>
+    <li>impactStatement(quality[less_than]2)-&gt;전략을 어설프게 논하려 시도한 이 매뉴얼은 실제 전장에서 쓰기엔 아쉬운 점이 많습니다</li>
+    <li>impactStatement(quality[less_than]2)-&gt;일부 유용한 조언이 포함되어 있긴 하지만, 그보다 수없이 많은 모순이 있습니다</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 솜씨가 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;놀라울 정도로 통찰력 있는</li>
+    <li>writingQualityAdjective(quality==4)-&gt;시사하는 바가 크고 정교한</li>
+    <li>writingQualityAdjective(quality==3)-&gt;말은 되지만 새로울 것 없는</li>
+    <li>writingQualityAdjective(quality==2)-&gt;그저 그런</li>
+    <li>writingQualityAdjective(quality==1)-&gt;거의 이해하기 힘든</li>
+    <li>writingQualityAdjective(quality==0)-&gt;앞뒤가 맞지 않고 횡설수설하는듯한</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;이 책은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;이 책은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 책은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;군사 전술과 생존을 위한 결정적인 지침서이며</li>
+    <li>excellentDesc-&gt;적대적인 위협에 직면한 정착지에 매우 귀중한 자원이자</li>
+    <li>excellentDesc-&gt;전략 및 전술 계획에 대한 포괄적인 연구로서</li>
+    <li>excellentExtra-&gt;어떤 지도자에게도 명확하고 실질적인 통찰력을 제공합니다</li>
+    <li>excellentExtra-&gt;가장 절망적인 상황에서도 자신감을 불러일으킵니다</li>
+    <li>decentDesc-&gt;전장의 기초에 관해 그럭저럭 잘 가르치며</li>
+    <li>decentDesc-&gt;전략에 관한 설명이 유익하지만 다소 고르지 못하고</li>
+    <li>decentDesc-&gt;고급 전투 전술에 대한 설명이 평범한 수준인 데다</li>
+    <li>decentExtra-&gt;중요한 부분에서 깊이가 부족합니다</li>
+    <li>decentExtra-&gt;예시가 가끔 모호한 면이 있습니다</li>
+    <li>awfulDesc-&gt;구식이고 비현실적인 조언들이 혼란스럽게 섞여 있으며</li>
+    <li>awfulDesc-&gt;군사 전술을 논하려 했으나 조잡하게 쓰여졌고</li>
+    <li>awfulDesc-&gt;모호한 아이디어와 상충하는 전략들이 무질서하게 뒤섞여 있어</li>
+    <li>awfulExtra-&gt;실제 전투 대비에는 전혀 쓸모가 없습니다</li>
+    <li>awfulExtra-&gt;어떤 교전에서든 도움보다는 해가 될 가능성이 높습니다</li>
+    <li>bookType(p=3)-&gt;군사 논문</li>
+    <li>bookType(p=3)-&gt;군사 교범</li>
+    <li>bookType(p=2)-&gt;전술 지침서</li>
+    <li>bookType(p=1)-&gt;전투 가이드</li>
+  </ABooks_ArmyManual_Description.rulePack.rulesStrings>
+</LanguageData>

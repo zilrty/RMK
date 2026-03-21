@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_PoliticalPamphlet_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[mainTitle]: [subtitle]</li>
+    <li>title-&gt;[mainTitle]!</li>
+    <li>title-&gt;[mainTitle]: [topic]</li>
+    <li>title-&gt;[mainTitle], 그리고 [issue]</li>
+    <li>title-&gt;[mainTitle]: [action]하자</li>
+    <li>title-&gt;[mainTitle]: [ideal]의 정당성</li>
+    <li>title-&gt;[action]하라: [mainTitle]</li>
+    <li>mainTitle-&gt;민중의 소리</li>
+    <li>mainTitle-&gt;새로운 여명</li>
+    <li>mainTitle-&gt;지금 자유를 달라</li>
+    <li>mainTitle-&gt;혁명</li>
+    <li>mainTitle-&gt;진실</li>
+    <li>mainTitle-&gt;민중에게 권력을</li>
+    <li>mainTitle-&gt;정의를 위한 연대</li>
+    <li>mainTitle-&gt;사슬 끊어내기</li>
+    <li>mainTitle-&gt;공공의 이익을 위해</li>
+    <li>mainTitle-&gt;더 나은 내일</li>
+    <li>mainTitle-&gt;자유를 위한 투쟁</li>
+    <li>mainTitle-&gt;진보와 평등</li>
+    <li>mainTitle-&gt;우리의 미래를 되찾기</li>
+    <li>mainTitle-&gt;모두를 위한 평등</li>
+    <li>subtitle-&gt;[subject_primary]의 목소리</li>
+    <li>subtitle-&gt;[ideal](을)를 위한 선언문</li>
+    <li>subtitle-&gt;[change](으)로 향하는 법</li>
+    <li>subtitle-&gt;현상 유지를 거부하며</li>
+    <li>subtitle-&gt;[topic](을)를 위한 계획</li>
+    <li>subtitle-&gt;새로운 [ideal]</li>
+    <li>subtitle-&gt;[problem] 뿌리뽑기</li>
+    <li>subtitle-&gt;[action]하기 위한 청사진</li>
+    <li>subtitle-&gt;앞으로 나아가는 길</li>
+    <li>subtitle-&gt;[ideal](을)를 위한 변명</li>
+    <li>subtitle-&gt;[change](을)를 위한 촉구</li>
+    <li>subtitle-&gt;[issue] 끝내기</li>
+    <li>action-&gt;변화를 요구</li>
+    <li>action-&gt;봉기</li>
+    <li>action-&gt;행동</li>
+    <li>action-&gt;권력을 탈환</li>
+    <li>action-&gt;불의에 대적</li>
+    <li>action-&gt;단결</li>
+    <li>action-&gt;반격</li>
+    <li>action-&gt;강인하게 인내</li>
+    <li>action-&gt;억압에서 탈출</li>
+    <li>action-&gt;평등을 요구</li>
+    <li>action-&gt;정의를 구상</li>
+    <li>topic-&gt;정의와 자유</li>
+    <li>topic-&gt;경제적 평등</li>
+    <li>topic-&gt;사회 개혁</li>
+    <li>topic-&gt;노동권</li>
+    <li>topic-&gt;환경</li>
+    <li>topic-&gt;부패와의 투쟁</li>
+    <li>topic-&gt;시민적 자유</li>
+    <li>topic-&gt;모두를 위한 교육</li>
+    <li>topic-&gt;의료권</li>
+    <li>topic-&gt;공동체의 힘</li>
+    <li>topic-&gt;억압의 극복</li>
+    <li>problem-&gt;부패</li>
+    <li>problem-&gt;억압</li>
+    <li>problem-&gt;불평등</li>
+    <li>problem-&gt;독재</li>
+    <li>problem-&gt;탐욕</li>
+    <li>problem-&gt;빈곤</li>
+    <li>problem-&gt;환경 파괴</li>
+    <li>problem-&gt;착취</li>
+    <li>problem-&gt;무지</li>
+    <li>issue-&gt;구조적 불의</li>
+    <li>issue-&gt;불평등</li>
+    <li>issue-&gt;권력 남용</li>
+    <li>issue-&gt;환경 파괴</li>
+    <li>issue-&gt;경제적 격차</li>
+    <li>issue-&gt;사회적 분열</li>
+    <li>issue-&gt;무관심의 대가</li>
+    <li>issue-&gt;대중의 침묵</li>
+    <li>ideal-&gt;평등</li>
+    <li>ideal-&gt;자유</li>
+    <li>ideal-&gt;정의</li>
+    <li>ideal-&gt;연대</li>
+    <li>ideal-&gt;번영</li>
+    <li>ideal-&gt;지속가능성</li>
+    <li>ideal-&gt;권한 부여</li>
+    <li>ideal-&gt;통합</li>
+    <li>ideal-&gt;연민</li>
+    <li>change-&gt;개혁</li>
+    <li>change-&gt;혁명</li>
+    <li>change-&gt;평등</li>
+    <li>change-&gt;통합</li>
+    <li>change-&gt;자유</li>
+    <li>change-&gt;지속 가능성</li>
+    <li>change-&gt;번영</li>
+  </ABooks_PoliticalPamphlet_Namer.rulePack.rulesStrings>
+</LanguageData>

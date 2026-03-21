@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_MedicalJournal_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[conceptExploration][intro]입니다. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[conceptExploration](을)를 주제로 해 [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[contextStatement] [conceptExploration][intro]입니다. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending-&gt;\n\n이 학술지를 읽으면 3일 동안 의료 능력에 보너스를 받으며, 그 후 책은 사라집니다.</li>
+    <li>intro-&gt;에 관한 깊은 통찰을 시도하는 [writingQualityAdjective] [bookType]</li>
+    <li>intro-&gt;(을)를 설명하는 [writingQualityAdjective] 해설서</li>
+    <li>intro-&gt;의 발전을 기록한 시대를 넘나드는 [bookType]</li>
+    <li>intro-&gt;의 난제들을 다루는 [writingQualityAdjective] 기록</li>
+    <li>intro-&gt;(을)를 탐구하는 특별한 [bookType]</li>
+    <li>intro-&gt;에 대한 소름끼치게 생생한 탐구</li>
+    <li>conceptExploration-&gt;야전 의학의 복잡성</li>
+    <li>conceptExploration-&gt;면역 형성 및 치유의 정교한 과정</li>
+    <li>conceptExploration-&gt;변방계 치료 기법의 발전</li>
+    <li>conceptExploration-&gt;정착지가 의료 관습을 맞춤화하는 방식</li>
+    <li>conceptExploration-&gt;의학적 처치에 있어 자원 활용 능력의 중요성</li>
+    <li>conceptExploration-&gt;환자 간호와 생존 우선순위 사이의 균형</li>
+    <li>contextStatement-&gt;변경계 정착지의 사례를 통해</li>
+    <li>contextStatement-&gt;정착지에서 쌓은 수십 년간의 의료 경험을 바탕으로</li>
+    <li>contextStatement-&gt;고립된 의사들의 기록을 통해</li>
+    <li>contextStatement-&gt;개척자들의 실화를 바탕으로</li>
+    <li>contextStatement-&gt;응급 치료를 실행했던 개인적 경험담과 함께</li>
+    <li>impactStatement-&gt;극한 상황에서의 처치법에 대한 이해를 뒤바꿀 통찰을 담고 있습니다.</li>
+    <li>impactStatement-&gt;개척지 의사들에게 필수적인 지식을 제공합니다.</li>
+    <li>impactStatement-&gt;변경계 의료인들의 기발한 임기응변을 조명합니다.</li>
+    <li>impactStatement-&gt;가혹한 의료 난관에 직면한 이들에게 꼭 필요한 자원입니다.</li>
+    <li>impactStatement-&gt;자원이 부족한 환경에서의 생존을 위한 필수 지침을 담고 있습니다.</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 솜씨가 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;놀라울 정도로 통찰력 있는</li>
+    <li>writingQualityAdjective(quality==4)-&gt;시사하는 바가 크고 정교한</li>
+    <li>writingQualityAdjective(quality==3)-&gt;말은 되지만 새로울 것 없는</li>
+    <li>writingQualityAdjective(quality==2)-&gt;그저 그런</li>
+    <li>writingQualityAdjective(quality==1)-&gt;거의 이해하기 힘든</li>
+    <li>writingQualityAdjective(quality==0)-&gt;앞뒤가 맞지 않고 횡설수설하는듯한</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;이 글은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;이 글은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 글은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;실용적인 의료 조언을 담은 걸작이자</li>
+    <li>excellentDesc-&gt;응급 의학을 이해하는 데 있어 더할 나위 없이 소중한 자료이며</li>
+    <li>excellentDesc-&gt;의료적 생존을 위해 전문적으로 구성된 가이드로서</li>
+    <li>excellentDesc-&gt;변경계 의학에 대한 깊이 있고 독창적인 탐구이자</li>
+    <li>excellentDesc-&gt;실용적인 조언과 생생한 사례 연구가 풍부하여</li>
+    <li>excellentExtra-&gt;의료 종사자들의 회복 탄력성을 드러냅니다</li>
+    <li>excellentExtra-&gt;절망적인 상황에서도 독창적인 지혜를 불러일으킵니다</li>
+    <li>excellentExtra-&gt;독자들에게 필수적인 생존 지식을 각인시킵니다</li>
+    <li>decentDesc-&gt;야전 의학에 관한 그런대로 괜찮은 지침서이며</li>
+    <li>decentDesc-&gt;흥미롭지만 다듬어지지 않았고</li>
+    <li>decentDesc-&gt;일부 분야에서는 도움이 되나 깊이가 부족하며</li>
+    <li>decentDesc-&gt;몇 가지 좁은 범위의 의료 상황에만 집중하고 있고</li>
+    <li>decentDesc-&gt;가끔 통찰력이 엿보이지만 기복이 심하며</li>
+    <li>decentExtra-&gt;경험이 적은 의무병들에게는 유용할 수 있습니다</li>
+    <li>decentExtra-&gt;변방계 기초 의학의 큰 그림을 다루는 데는 한계가 있습니다</li>
+    <li>decentExtra-&gt;그 방법론이 일관되지 않을 때가 있습니다</li>
+    <li>awfulDesc-&gt;근거 없는 의학적 추측을 무계획적으로 모아놓은 데다</li>
+    <li>awfulDesc-&gt;시대에 뒤떨어진 기술들이 혼란스럽게 뒤섞인 채</li>
+    <li>awfulDesc-&gt;전혀 비실용적이고 연구조차 제대로 되지 않아</li>
+    <li>awfulDesc-&gt;무관한 일화와 군더더기 정보로 가득하며</li>
+    <li>awfulDesc-&gt;모순적인 치료법들이 무질서하게 엉망으로 섞여 있어</li>
+    <li>awfulExtra-&gt;변방계에서 환자를 치료하려는 이들에게는 전혀 쓸모가 없습니다</li>
+    <li>awfulExtra-&gt;실질적인 의학적 지침을 찾는 이들에게 오히려 해가 됩니다</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 학술지는 [date_form]에 발행되었습니다.</li>
+    <li>maybe_date-&gt;본문은 [date_form]에 처음 기록되었습니다.</li>
+    <li>maybe_date-&gt;변경계의 수많은 기록처럼 이 학술지의 기원 또한 세월에 묻혀 사라졌습니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;수 세대 전</li>
+    <li>date_form-&gt;[date]</li>
+    <li>date_form-&gt;[date_season] 중</li>
+    <li>bookType(p=4)-&gt;의학 학술지</li>
+    <li>bookType(p=3)-&gt;현장 가이드</li>
+    <li>bookType(p=2)-&gt;치료 매뉴얼</li>
+    <li>bookType(p=1)-&gt;생존 지침서</li>
+  </ABooks_MedicalJournal_Description.rulePack.rulesStrings>
+</LanguageData>

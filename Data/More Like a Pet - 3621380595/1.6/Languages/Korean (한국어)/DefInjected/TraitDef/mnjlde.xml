@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MLAP_Temperament_GoldenRetriever.label>골든 리트리버</MLAP_Temperament_GoldenRetriever.label>
+  <MLAP_Temperament_GoldenRetriever.description>따뜻하고 사랑스러우며, 곁에 있는 것만으로도 위로가 되는 성격입니다. 어쩐지 행복해 보일 때 훨씬 더 매력적으로 보입니다.</MLAP_Temperament_GoldenRetriever.description>
+  <MLAP_Temperament_GoldenRetriever.degreeDatas.0.label>골든 리트리버</MLAP_Temperament_GoldenRetriever.degreeDatas.0.label>
+  <MLAP_Temperament_GoldenRetriever.degreeDatas.0.description>따뜻하고 사랑스러우며, 주변 사람들을 편안하게 해줍니다.</MLAP_Temperament_GoldenRetriever.degreeDatas.0.description>
+
+  <MLAP_Temperament_BorderCollie.label>보더 콜리</MLAP_Temperament_BorderCollie.label>
+  <MLAP_Temperament_BorderCollie.description>엄청난 집중력을 가졌으며 일하는 것을 즐깁니다. 배우는 속도가 빠르고 반복적인 일상에서 보람을 느낍니다.</MLAP_Temperament_BorderCollie.description>
+  <MLAP_Temperament_BorderCollie.degreeDatas.0.label>보더 콜리</MLAP_Temperament_BorderCollie.degreeDatas.0.label>
+  <MLAP_Temperament_BorderCollie.degreeDatas.0.description>높은 집중력과 열정을 가진 영리한 성격입니다.</MLAP_Temperament_BorderCollie.degreeDatas.0.description>
+
+  <MLAP_Temperament_GermanShepherd.label>저먼 셰퍼드</MLAP_Temperament_GermanShepherd.label>
+  <MLAP_Temperament_GermanShepherd.description>충직하고 보호 본능이 강합니다. 근접 전투에서 더 강력한 위력을 발휘하며, 웬만한 고통은 다른 이들보다 잘 견뎌냅니다.</MLAP_Temperament_GermanShepherd.description>
+  <MLAP_Temperament_GermanShepherd.degreeDatas.0.label>저먼 셰퍼드</MLAP_Temperament_GermanShepherd.degreeDatas.0.label>
+  <MLAP_Temperament_GermanShepherd.degreeDatas.0.description>충성심이 깊고 보호 본능이 강합니다.</MLAP_Temperament_GermanShepherd.degreeDatas.0.description>
+
+  <MLAP_Temperament_GermanShorthairedPointer.label>저먼 쇼트헤어드 포인터</MLAP_Temperament_GermanShorthairedPointer.label>
+  <MLAP_Temperament_GermanShorthairedPointer.description>기민하고 빠르며 정확합니다. 움직임이 민첩하고 사격 실력 또한 뛰어납니다.</MLAP_Temperament_GermanShorthairedPointer.description>
+  <MLAP_Temperament_GermanShorthairedPointer.degreeDatas.0.label>저먼 쇼트헤어드 포인터</MLAP_Temperament_GermanShorthairedPointer.degreeDatas.0.label>
+  <MLAP_Temperament_GermanShorthairedPointer.degreeDatas.0.description>기민하고 신속하며 정확합니다.</MLAP_Temperament_GermanShorthairedPointer.degreeDatas.0.description>
+</LanguageData>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerPerson_DRM.rulePack.rulesStrings>
+    <li>r_name(p=4)-&gt;[AR_FirstNameM] [DR_LastName]</li>
+  </NamerPerson_DRM.rulePack.rulesStrings>
+</LanguageData>

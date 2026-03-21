@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_BookOfPortents_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[excerpt]\n\n[qualityStatement][ending]</li>
+    <li>desc-&gt;[excerpt]\n\n[writingQualitySentence][ending]</li>
+    <li>excerpt-&gt;"보라, 탐구자여. [astralSign](이)가 [mysticEvent]의 도래를 예고하는 저 하늘의 [randAstralDescriptor] 무도를."</li>
+    <li>excerpt-&gt;"이 신성한 책 안에는 [celestialBeing](이)가 운명의 실타래를 엮어내는 [randAstralDescriptor] 창공의 진실이 담겨 있노라."</li>
+    <li>excerpt-&gt;"기억하라. 오직 용기 있는 자만이 움켜쥘 비밀을 [celestialBeing](이)가 속삭일 때, [astralSign](이)가 떠오르리니."</li>
+    <li>excerpt-&gt;"[randMaterial] 위에 쓰여진 이 마법서는 [mysticEvent](을)를 불러내어, 빛과 그림자를 같은 무게로 드리우도다."</li>
+    <li>excerpt-&gt;"[randAstralDescriptor] 밤의 장막을 지나, [celestialPhenomenon](은)는 자격 있는 자를 깨달음과 [mysticEvent](으)로 인도하리라."</li>
+    <li>excerpt-&gt;"그대는 정녕 [astralSign]의 전조를 믿는가? [celestialPhenomenon](은)는 [randAstralDescriptor] 진실을 쫓는 자들에게 [mysticEvent]의 속삭임을 전하나니."</li>
+    <li>qualityStatement(quality==6)-&gt;이 책은 성스러운 통찰로 가득 차 있으며, 그 안에 깃든 예언은 거스를 수 없는 확신을 선사합니다.</li>
+    <li>qualityStatement(quality==5)-&gt;예언들은 비록 신비롭지만, 부인할 수 없는 힘과 지혜로 가득 차 있습니다.</li>
+    <li>qualityStatement(quality==4)-&gt;비록 신비한 수수께끼에 싸여 있지만, 이 책의 예언들은 묘한 매력이 있습니다.</li>
+    <li>qualityStatement(quality==3)-&gt;예언이 말하는 징조들은 기이하지만, 천상의 진리를 엿볼 수 있는 흥미로운 단서를 제공합니다.</li>
+    <li>qualityStatement(quality==2)-&gt;예언들은 횡설수설하며 통찰과 어리석음 사이를 왔다 갔다 합니다.</li>
+    <li>qualityStatement(quality==1)-&gt;황당무계한 내용이 가득하며, 책이 "징조"라 주장하는 것들은 독자의 혼란만 가중시킵니다.</li>
+    <li>qualityStatement(quality==0)-&gt;앞뒤가 맞지 않는 엉망진창으로, 소위 "징조"라는 것들이 우스꽝스러울 정도입니다.</li>
+    <li>writingQualitySentence(quality==6)-&gt;시적인 신비로움과 예언자적인 권위가 완벽하게 어우러진 걸작입니다.</li>
+    <li>writingQualitySentence(quality==5)-&gt;우주의 신비에 대한 매혹적인 탐구를 능숙하게 엮어냈습니다.</li>
+    <li>writingQualitySentence(quality==4)-&gt;천상의 지식에 관한 이야기로, 가끔 난해하게 들리지만 몰입감이 있습니다.</li>
+    <li>writingQualitySentence(quality==3)-&gt;하늘에 관한 생각들을 잘 모아두었으나, 다소 과하게 꾸며진 느낌이 있습니다.</li>
+    <li>writingQualitySentence(quality==2)-&gt;다듬어지지 않고 기복이 심하지만, 이따금 번뜩이는 통찰력이 엿보입니다.</li>
+    <li>writingQualitySentence(quality==1)-&gt;장황하고 혼란스러운 내용이 가득해 감동을 주기에는 부족합니다.</li>
+    <li>writingQualitySentence(quality==0)-&gt;천상의 지식이라기엔 터무니없고 이해할 수 없는 혼란스러운 비방글입니다.</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 무작위 천문 현상이 발생하고, 독자에게 경외감을 불러일으켜 책의 품질에 비례하는 정도의 기분을 고조시킵니다.</li>
+    <li>randAstralDescriptor-&gt;어른거리는</li>
+    <li>randAstralDescriptor-&gt;수수께끼 같은</li>
+    <li>randAstralDescriptor-&gt;천상의</li>
+    <li>randAstralDescriptor-&gt;고대의</li>
+    <li>randAstralDescriptor-&gt;빛나는</li>
+    <li>randAstralDescriptor-&gt;천체의</li>
+    <li>randAstralDescriptor-&gt;불가사의한</li>
+    <li>astralSign-&gt;황도대의 비룡</li>
+    <li>astralSign-&gt;별을 향한 뱀</li>
+    <li>astralSign-&gt;공허의 전령</li>
+    <li>astralSign-&gt;빛의 선구자</li>
+    <li>astralSign-&gt;운명의 혜성</li>
+    <li>mysticEvent-&gt;위대한 각성</li>
+    <li>mysticEvent-&gt;뒤섞인 혼돈과 질서</li>
+    <li>mysticEvent-&gt;진리의 조명</li>
+    <li>mysticEvent-&gt;우주적 변화의 전조</li>
+    <li>mysticEvent-&gt;필멸자의 이해를 넘어서는 계시</li>
+    <li>celestialBeing-&gt;별로 벼려진 선지자</li>
+    <li>celestialBeing-&gt;우주의 직공</li>
+    <li>celestialBeing-&gt;시대의 위인</li>
+    <li>celestialBeing-&gt;공허 감시자</li>
+    <li>celestialBeing-&gt;별의 사제</li>
+    <li>celestialPhenomenon-&gt;오로라</li>
+    <li>celestialPhenomenon-&gt;일식과 월식</li>
+    <li>celestialPhenomenon-&gt;유성우</li>
+    <li>celestialPhenomenon-&gt;흑점의 폭발</li>
+    <li>celestialPhenomenon-&gt;별똥별</li>
+    <li>randMaterial-&gt;별무리 잉크</li>
+    <li>randMaterial-&gt;수정 양피지</li>
+    <li>randMaterial-&gt;공허강철</li>
+    <li>randMaterial-&gt;황금 피지</li>
+    <li>randMaterial-&gt;달빛 제본</li>
+  </ABooks_BookOfPortents_Description.rulePack.rulesStrings>
+</LanguageData>

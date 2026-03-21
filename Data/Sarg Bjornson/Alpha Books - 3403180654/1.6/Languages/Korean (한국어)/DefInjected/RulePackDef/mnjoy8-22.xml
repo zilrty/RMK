@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_SelfHelp_Description.rulePack.rulesStrings>
+    <li>desc-&gt;이 [writingQualityAdjective] [bookType](은)는 [protag](을)를 주인공으로 삼아 [storyStruggles] [protagThey][follows]. [writingQualitySentence]. [maybe_date]\n\n이 책을 읽으면 무작위 영감을 받게 되며, 그 후 책은 사라집니다. 이미 영감을 받은 상태인 정착민에게는 아무 효과도 없습니다.</li>
+    <li>follows-&gt;의 여정을 탐구하는 내용입니다</li>
+    <li>follows-&gt;의 경험을 깊이 있게 다루는 내용입니다</li>
+    <li>follows-&gt;의 삶에 대한 통찰을 제공하는 내용입니다</li>
+    <li>follows-&gt;의 이야기를 말하는 내용입니다</li>
+    <li>follows-&gt;의 고난을 밝혀내는 내용입니다</li>
+    <li>protag-&gt;개인</li>
+    <li>protag-&gt;방랑자</li>
+    <li>protag-&gt;추구자</li>
+    <li>protag-&gt;선지자</li>
+    <li>protag-&gt;몽상가</li>
+    <li>protag-&gt;여행자</li>
+    <li>protag-&gt;낙천주의자</li>
+    <li>protag-&gt;개척자</li>
+    <li>protag-&gt;철학자</li>
+    <li>protag-&gt;이상주의자</li>
+    <li>protagThey-&gt;그</li>
+    <li>protagThey-&gt;그녀</li>
+    <li>storyStruggles-&gt;내면의 잠재력을 발견하려 분투하는</li>
+    <li>storyStruggles-&gt;자기 발견의 시련을 헤쳐 나가는</li>
+    <li>storyStruggles-&gt;자신의 강점과 약점을 수용하는 법을 배우는</li>
+    <li>storyStruggles-&gt;개인적 성장을 위한 여정에 나서는</li>
+    <li>storyStruggles-&gt;두려움에 맞서며 더욱 강해지는</li>
+    <li>storyStruggles-&gt;자기 수용의 아름다움을 깨닫는</li>
+    <li>storyStruggles-&gt;의구심을 극복하고 위대함을 성취하는</li>
+    <li>storyStruggles-&gt;예상치 못한 곳에서 영감을 찾는</li>
+    <li>storyStruggles-&gt;깨달음으로 향하는 길을 찾는</li>
+    <li>storyStruggles-&gt;숨겨진 재능을 일깨우는</li>
+    <li>writingQualityAdjective(quality==6)-&gt;놀랄 만큼 통찰력 있는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;시사하는 바가 크고 매력적인</li>
+    <li>writingQualityAdjective(quality==4)-&gt;통찰력 있고 고무적인</li>
+    <li>writingQualityAdjective(quality==3)-&gt;잘 쓰인</li>
+    <li>writingQualityAdjective(quality==2)-&gt;평범한</li>
+    <li>writingQualityAdjective(quality==1)-&gt;부실하게 작성된</li>
+    <li>writingQualityAdjective(quality==0)-&gt;거의 이해하기 힘든</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;이 책은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)-&gt;이 책은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 책은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;깊은 성찰을 담은 저작이며</li>
+    <li>excellentDesc-&gt;동기부여가 되는 일화들로 가득하고</li>
+    <li>excellentDesc-&gt;영감을 주는 생각들이 풍부하며</li>
+    <li>excellentDesc-&gt;개인의 잠재력에 대한 매혹적인 탐구이자</li>
+    <li>excellentDesc-&gt;놀라울 정도로 사기를 북돋우는 읽을거리로서</li>
+    <li>excellentExtra-&gt;그 문장들은 독자의 마음속에 깊은 울림을 줍니다</li>
+    <li>excellentExtra-&gt;심오한 통찰과 실질적인 조언을 제공합니다</li>
+    <li>excellentExtra-&gt;독자에게 더 많은 것을 성취하도록 영감을 줍니다</li>
+    <li>decentDesc-&gt;솔직하고 동기부여가 되는 가이드이지만</li>
+    <li>decentDesc-&gt;단순하면서도 효과적인 책이지만</li>
+    <li>decentDesc-&gt;유용한 아이디어가 담긴 읽기 쉬운 책이지만</li>
+    <li>decentDesc-&gt;적절하면서도 유용한 생각들의 모음집이지만</li>
+    <li>decentDesc-&gt;자기 계발에 대해 접근하기 쉬운 관점을 제시하지만</li>
+    <li>decentExtra-&gt;일부 영역에서 깊이가 부족합니다</li>
+    <li>decentExtra-&gt;아이디어들이 다소 반복되는 느낌이 있습니다</li>
+    <li>decentExtra-&gt;새로운 지평을 열어주지는 못합니다</li>
+    <li>decentExtra-&gt;한 주제를 집중적으로 다루는 데 있어 아쉬움이 있습니다</li>
+    <li>decentExtra-&gt;조언하는 내용은 지나치게 단순하게 느껴질 수 있습니다</li>
+    <li>awfulDesc-&gt;읽기 어렵고 문체가 산만하며</li>
+    <li>awfulDesc-&gt;끔찍하리만치 뻔한 말들로 가득 차 있고</li>
+    <li>awfulDesc-&gt;답답할 정도로 모호하고 무익하며</li>
+    <li>awfulDesc-&gt;전달하려는 메시지가 무엇인지 감을 잡기도 힘들며</li>
+    <li>awfulDesc-&gt;헐값에나 팔릴 법한 쓰레기 같은 수준이라</li>
+    <li>awfulExtra-&gt;실질적인 가치를 전혀 제공하지 못합니다</li>
+    <li>awfulExtra-&gt;계발서라기보다는 일기장에 가까운 느낌을 줍니다</li>
+    <li>awfulExtra-&gt;독자에게 해답보다 더 많은 의문만을 남깁니다</li>
+    <li>awfulExtra-&gt;상투적인 문구들로 점철되어 있습니다</li>
+    <li>awfulExtra-&gt;다단계 사기 수법 같은 인상을 풍깁니다</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 책은 [date_form]에 처음 출판되었습니다.</li>
+    <li>maybe_date-&gt;이 글은 [date_form]에 작성되었습니다.</li>
+    <li>maybe_date-&gt;이 책은 본래 자기계발에 대한 통찰과 유사 과학 이론을 기묘하게 결합하는 것으로 유명한 모 출판사에서 발행되었습니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;오래 전</li>
+    <li>date_form-&gt;[date]</li>
+    <li>date_form-&gt;[date_season]</li>
+    <li>bookType(p=4)-&gt;자기계발서</li>
+    <li>bookType(p=2)-&gt;가이드북</li>
+    <li>bookType-&gt;매뉴얼</li>
+    <li>bookType-&gt;참조서</li>
+    <li>bookType-&gt;모음집</li>
+  </ABooks_SelfHelp_Description.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_SharpshooterCommand.label>명사수 감독</ABooks_SharpshooterCommand.label>
+  <ABooks_SharpshooterCommand.description>예리한 군사 전략를 통해 주위 아군의 사기가 증진됩니다.</ABooks_SharpshooterCommand.description>
+  <ABooks_SharpshooterCommand_Buff.label>명사수 감독</ABooks_SharpshooterCommand_Buff.label>
+  <ABooks_SharpshooterCommand_Buff.description>예리한 군사 전략에 사기가 증진되었습니다.</ABooks_SharpshooterCommand_Buff.description>
+  <ABooks_ArmyManual.label>명사수 전문지식</ABooks_ArmyManual.label>
+  <ABooks_ArmyManual.description>군사 교범을 읽어 원거리 전투 능력이 향상되었습니다.</ABooks_ArmyManual.description>
+  <ABooks_ArmyManual.stages.0.label>끔찍</ABooks_ArmyManual.stages.0.label>
+  <ABooks_ArmyManual.stages.1.label>빈약</ABooks_ArmyManual.stages.1.label>
+  <ABooks_ArmyManual.stages.2.label>평범</ABooks_ArmyManual.stages.2.label>
+  <ABooks_ArmyManual.stages.3.label>상급</ABooks_ArmyManual.stages.3.label>
+  <ABooks_ArmyManual.stages.4.label>완벽</ABooks_ArmyManual.stages.4.label>
+  <ABooks_ArmyManual.stages.5.label>걸작</ABooks_ArmyManual.stages.5.label>
+  <ABooks_ArmyManual.stages.6.label>전설적</ABooks_ArmyManual.stages.6.label>
+  <ABooks_BotanicalCompendium.label>식물학 전문지식</ABooks_BotanicalCompendium.label>
+  <ABooks_BotanicalCompendium.description>식물 도감을 읽어 식물 관련 능력이 향상되었습니다.</ABooks_BotanicalCompendium.description>
+  <ABooks_BotanicalCompendium.stages.0.label>끔찍</ABooks_BotanicalCompendium.stages.0.label>
+  <ABooks_BotanicalCompendium.stages.1.label>빈약</ABooks_BotanicalCompendium.stages.1.label>
+  <ABooks_BotanicalCompendium.stages.2.label>평범</ABooks_BotanicalCompendium.stages.2.label>
+  <ABooks_BotanicalCompendium.stages.3.label>상급</ABooks_BotanicalCompendium.stages.3.label>
+  <ABooks_BotanicalCompendium.stages.4.label>완벽</ABooks_BotanicalCompendium.stages.4.label>
+  <ABooks_BotanicalCompendium.stages.5.label>걸작</ABooks_BotanicalCompendium.stages.5.label>
+  <ABooks_BotanicalCompendium.stages.6.label>전설적</ABooks_BotanicalCompendium.stages.6.label>
+  <ABooks_Condiment.label>조미료 통달</ABooks_Condiment.label>
+  <ABooks_Condiment.description>조미료 비전서를 읽어 특정 조미료의 사용법에 통달했습니다. 조리하는 모든 음식에 해당 조미료가 들어가게 되며, 이는 미식적인 식사가 아닌 요리를 만들 때에도 적용됩니다. 미식적인 식사를 만들 경우 두 종류의 조미료가 들어가게 되지만, 그 중 하나의 효과만 발휘됩니다.</ABooks_Condiment.description>
+  <ABooks_Condiment.stages.0.label>끔찍</ABooks_Condiment.stages.0.label>
+  <ABooks_Condiment.stages.1.label>빈약</ABooks_Condiment.stages.1.label>
+  <ABooks_Condiment.stages.2.label>평범</ABooks_Condiment.stages.2.label>
+  <ABooks_Condiment.stages.3.label>상급</ABooks_Condiment.stages.3.label>
+  <ABooks_Condiment.stages.4.label>완벽</ABooks_Condiment.stages.4.label>
+  <ABooks_Condiment.stages.5.label>걸작</ABooks_Condiment.stages.5.label>
+  <ABooks_Condiment.stages.6.label>전설적</ABooks_Condiment.stages.6.label>
+  <ABooks_DurathreadTechniques.label>강화원단 장인</ABooks_DurathreadTechniques.label>
+  <ABooks_DurathreadTechniques.description>강화원단 기술 자료집을 정독해 강화원단을 다룰 수 있게 되었으며, 이를 이용한 제작과 건설이 가능해졌습니다. 이제부터 제작하는 모든 천 재질의 물품은 더 뛰어난 성능을 가진 강화원단을 대신 사용해 제작됩니다.</ABooks_DurathreadTechniques.description>
+  <ABooks_Headache.label>지끈거리는 두통</ABooks_Headache.label>
+  <ABooks_Headache.description>쓸데없기 많기만 한 업무용 메모들! 대체 뭘 전하고 싶은 걸까요??</ABooks_Headache.description>
+  <ABooks_Headache.stages.0.label>끔찍</ABooks_Headache.stages.0.label>
+  <ABooks_Headache.stages.1.label>빈약</ABooks_Headache.stages.1.label>
+  <ABooks_Headache.stages.2.label>평범</ABooks_Headache.stages.2.label>
+  <ABooks_Headache.stages.3.label>상급</ABooks_Headache.stages.3.label>
+  <ABooks_Headache.stages.4.label>완벽</ABooks_Headache.stages.4.label>
+  <ABooks_Headache.stages.5.label>걸작</ABooks_Headache.stages.5.label>
+  <ABooks_Headache.stages.6.label>전설적</ABooks_Headache.stages.6.label>
+  <ABooks_HermeticMysteries.label>봉인술에 관한 통찰</ABooks_HermeticMysteries.label>
+  <ABooks_HermeticMysteries.description>봉인술의 신비에 관해 읽어 밀폐 보관기에서 획득하는 물품 증가할 수 있게 되었습니다.</ABooks_HermeticMysteries.description>
+  <ABooks_HermeticMysteries.stages.0.label>끔찍</ABooks_HermeticMysteries.stages.0.label>
+  <ABooks_HermeticMysteries.stages.1.label>빈약</ABooks_HermeticMysteries.stages.1.label>
+  <ABooks_HermeticMysteries.stages.2.label>평범</ABooks_HermeticMysteries.stages.2.label>
+  <ABooks_HermeticMysteries.stages.3.label>상급</ABooks_HermeticMysteries.stages.3.label>
+  <ABooks_HermeticMysteries.stages.4.label>완벽</ABooks_HermeticMysteries.stages.4.label>
+  <ABooks_HermeticMysteries.stages.5.label>걸작</ABooks_HermeticMysteries.stages.5.label>
+  <ABooks_HermeticMysteries.stages.6.label>전설적</ABooks_HermeticMysteries.stages.6.label>
+  <ABooks_InstructionManual.label>공학 전문지식</ABooks_InstructionManual.label>
+  <ABooks_InstructionManual.description>조립 설명서를 읽어 제작한 물건의 품질이 한 단계 높아지게 되었습니다. 이는 VE Memes 모드의 규율과 같이 품질을 높이는 다른 효과와 중첩됩니다.</ABooks_InstructionManual.description>
+  <ABooks_InstructionManual.stages.0.label>끔찍</ABooks_InstructionManual.stages.0.label>
+  <ABooks_InstructionManual.stages.1.label>빈약</ABooks_InstructionManual.stages.1.label>
+  <ABooks_InstructionManual.stages.2.label>평범</ABooks_InstructionManual.stages.2.label>
+  <ABooks_InstructionManual.stages.3.label>상급</ABooks_InstructionManual.stages.3.label>
+  <ABooks_InstructionManual.stages.4.label>완벽</ABooks_InstructionManual.stages.4.label>
+  <ABooks_InstructionManual.stages.5.label>걸작</ABooks_InstructionManual.stages.5.label>
+  <ABooks_InstructionManual.stages.6.label>전설적</ABooks_InstructionManual.stages.6.label>
+  <ABooks_LustySauridMaid.label>음란한 사우리드 메이드</ABooks_LustySauridMaid.label>
+  <ABooks_LustySauridMaid.description>음란한 사우리드 메이드를 읽어 기분을 관리하는 능력이 향상되었으며, 뭐랄까… 꽤나 욕망에 솔직해졌습니다.</ABooks_LustySauridMaid.description>
+  <ABooks_LustySauridMaid.stages.0.label>끔찍</ABooks_LustySauridMaid.stages.0.label>
+  <ABooks_LustySauridMaid.stages.1.label>빈약</ABooks_LustySauridMaid.stages.1.label>
+  <ABooks_LustySauridMaid.stages.2.label>평범</ABooks_LustySauridMaid.stages.2.label>
+  <ABooks_LustySauridMaid.stages.3.label>상급</ABooks_LustySauridMaid.stages.3.label>
+  <ABooks_LustySauridMaid.stages.4.label>완벽</ABooks_LustySauridMaid.stages.4.label>
+  <ABooks_LustySauridMaid.stages.5.label>걸작</ABooks_LustySauridMaid.stages.5.label>
+  <ABooks_LustySauridMaid.stages.6.label>전설적</ABooks_LustySauridMaid.stages.6.label>
+  <ABooks_MedicalJournal.label>의학 전문지식</ABooks_MedicalJournal.label>
+  <ABooks_MedicalJournal.description>의학 학술지를 읽어 치료 능력이 향상되었습니다.</ABooks_MedicalJournal.description>
+  <ABooks_MedicalJournal.stages.0.label>끔찍</ABooks_MedicalJournal.stages.0.label>
+  <ABooks_MedicalJournal.stages.1.label>빈약</ABooks_MedicalJournal.stages.1.label>
+  <ABooks_MedicalJournal.stages.2.label>평범</ABooks_MedicalJournal.stages.2.label>
+  <ABooks_MedicalJournal.stages.3.label>상급</ABooks_MedicalJournal.stages.3.label>
+  <ABooks_MedicalJournal.stages.4.label>완벽</ABooks_MedicalJournal.stages.4.label>
+  <ABooks_MedicalJournal.stages.5.label>걸작</ABooks_MedicalJournal.stages.5.label>
+  <ABooks_MedicalJournal.stages.6.label>전설적</ABooks_MedicalJournal.stages.6.label>
+  <ABooks_MidasTome.label>마이더스의 손</ABooks_MidasTome.label>
+  <ABooks_MidasTome.description>마이더스의 서를 읽어 모든 제작품과 구조물을 완성할 때 금으로 바꿀 수 있는 능력을 얻었습니다.</ABooks_MidasTome.description>
+  <ABooks_MidasTome.stages.0.label>끔찍</ABooks_MidasTome.stages.0.label>
+  <ABooks_MidasTome.stages.1.label>빈약</ABooks_MidasTome.stages.1.label>
+  <ABooks_MidasTome.stages.2.label>평범</ABooks_MidasTome.stages.2.label>
+  <ABooks_MidasTome.stages.3.label>상급</ABooks_MidasTome.stages.3.label>
+  <ABooks_MidasTome.stages.4.label>완벽</ABooks_MidasTome.stages.4.label>
+  <ABooks_MidasTome.stages.5.label>걸작</ABooks_MidasTome.stages.5.label>
+  <ABooks_MidasTome.stages.6.label>전설적</ABooks_MidasTome.stages.6.label>
+  <ABooks_OfficeBinder.label>기업의 명령</ABooks_OfficeBinder.label>
+  <ABooks_OfficeBinder.description>업무용 바인더 안의 메모들을 읽어 사교적 능력이 꽤나 향상되었습니다.</ABooks_OfficeBinder.description>
+  <ABooks_OfficeBinder.stages.0.label>끔찍</ABooks_OfficeBinder.stages.0.label>
+  <ABooks_OfficeBinder.stages.1.label>빈약</ABooks_OfficeBinder.stages.1.label>
+  <ABooks_OfficeBinder.stages.2.label>평범</ABooks_OfficeBinder.stages.2.label>
+  <ABooks_OfficeBinder.stages.3.label>상급</ABooks_OfficeBinder.stages.3.label>
+  <ABooks_OfficeBinder.stages.4.label>완벽</ABooks_OfficeBinder.stages.4.label>
+  <ABooks_OfficeBinder.stages.5.label>걸작</ABooks_OfficeBinder.stages.5.label>
+  <ABooks_OfficeBinder.stages.6.label>전설적</ABooks_OfficeBinder.stages.6.label>
+  <ABooks_PsychologicalInsights.label>심리학적 통찰</ABooks_PsychologicalInsights.label>
+  <ABooks_PsychologicalInsights.description>심리학 서적을 읽어 정신적으로 더 강해졌습니다. 평범 품질 이상부터는 생각 중 일부가 무효화됩니다. 걸작 품질 이상부터는 모든 정신이상을 방지합니다.</ABooks_PsychologicalInsights.description>
+  <ABooks_PsychologicalInsights.stages.0.label>끔찍</ABooks_PsychologicalInsights.stages.0.label>
+  <ABooks_PsychologicalInsights.stages.1.label>빈약</ABooks_PsychologicalInsights.stages.1.label>
+  <ABooks_PsychologicalInsights.stages.2.label>평범</ABooks_PsychologicalInsights.stages.2.label>
+  <ABooks_PsychologicalInsights.stages.3.label>상급</ABooks_PsychologicalInsights.stages.3.label>
+  <ABooks_PsychologicalInsights.stages.4.label>완벽</ABooks_PsychologicalInsights.stages.4.label>
+  <ABooks_PsychologicalInsights.stages.5.label>걸작</ABooks_PsychologicalInsights.stages.5.label>
+  <ABooks_PsychologicalInsights.stages.6.label>전설적</ABooks_PsychologicalInsights.stages.6.label>
+  <ABooks_RestaurantGuide.label>탁월한 요리 기술</ABooks_RestaurantGuide.label>
+  <ABooks_RestaurantGuide.description>레스토랑 가이드를 읽어 요리 실력이 비약적으로 상승했습니다. 이 효과를 받는 동안 조리한 모든 식사의 수준이 한 단계 올라갑니다 (예: 간단한 식사→좋은 식사, 좋은 식사→호화로운 식사).</ABooks_RestaurantGuide.description>
+  <ABooks_RestaurantGuide.stages.0.label>끔찍</ABooks_RestaurantGuide.stages.0.label>
+  <ABooks_RestaurantGuide.stages.1.label>빈약</ABooks_RestaurantGuide.stages.1.label>
+  <ABooks_RestaurantGuide.stages.2.label>평범</ABooks_RestaurantGuide.stages.2.label>
+  <ABooks_RestaurantGuide.stages.3.label>상급</ABooks_RestaurantGuide.stages.3.label>
+  <ABooks_RestaurantGuide.stages.4.label>완벽</ABooks_RestaurantGuide.stages.4.label>
+  <ABooks_RestaurantGuide.stages.5.label>걸작</ABooks_RestaurantGuide.stages.5.label>
+  <ABooks_RestaurantGuide.stages.6.label>전설적</ABooks_RestaurantGuide.stages.6.label>
+  <ABooks_TreatiseOfStainlessSteel.label>스테인리스강 장인</ABooks_TreatiseOfStainlessSteel.label>
+  <ABooks_TreatiseOfStainlessSteel.description>스테인리스강 연구서를 읽어 스테인리스강을 다룰 수 있게 되었으며, 이를 이용한 제작과 건설이 가능해졌습니다. 이제부터 제작하는 모든 강철 재질의 물품은 더 뛰어난 성능을 가졌고 불에 타지 않는 스테인리스강을 대신 사용해 제작됩니다.</ABooks_TreatiseOfStainlessSteel.description>
+  <ABooks_SurvivalGuide.label>생존 지식</ABooks_SurvivalGuide.label>
+  <ABooks_SurvivalGuide.description>생존 가이드를 읽어 특정 생물군계에서의 생존에 유리해졌습니다. 해당하는 생물군계에 있을 때 최소 적정 온도 -20ºC, 최대 적정 온도 +20ºC, 그리고 이동 속도, 전역 작업 속도, 사냥 은폐, 야생동물 조련 확률, 항체 생성 속도에 모두 +20%의 효과를 받습니다.</ABooks_SurvivalGuide.description>
+  <ABooks_SurvivalGuide.stages.0.label>끔찍</ABooks_SurvivalGuide.stages.0.label>
+  <ABooks_SurvivalGuide.stages.1.label>빈약</ABooks_SurvivalGuide.stages.1.label>
+  <ABooks_SurvivalGuide.stages.2.label>평범</ABooks_SurvivalGuide.stages.2.label>
+  <ABooks_SurvivalGuide.stages.3.label>상급</ABooks_SurvivalGuide.stages.3.label>
+  <ABooks_SurvivalGuide.stages.4.label>완벽</ABooks_SurvivalGuide.stages.4.label>
+  <ABooks_SurvivalGuide.stages.5.label>걸작</ABooks_SurvivalGuide.stages.5.label>
+  <ABooks_SurvivalGuide.stages.6.label>전설적</ABooks_SurvivalGuide.stages.6.label>
+  <ABooks_Training_Shooting.label>훈련 교본: 사격</ABooks_Training_Shooting.label>
+  <ABooks_Training_Shooting.description>사격 훈련 교본을 읽어 3일 동안 사격 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Shooting.description>
+  <ABooks_Training_Shooting.stages.0.label>끔찍</ABooks_Training_Shooting.stages.0.label>
+  <ABooks_Training_Shooting.stages.1.label>빈약</ABooks_Training_Shooting.stages.1.label>
+  <ABooks_Training_Shooting.stages.2.label>평범</ABooks_Training_Shooting.stages.2.label>
+  <ABooks_Training_Shooting.stages.3.label>상급</ABooks_Training_Shooting.stages.3.label>
+  <ABooks_Training_Shooting.stages.4.label>완벽</ABooks_Training_Shooting.stages.4.label>
+  <ABooks_Training_Shooting.stages.5.label>걸작</ABooks_Training_Shooting.stages.5.label>
+  <ABooks_Training_Shooting.stages.6.label>전설적</ABooks_Training_Shooting.stages.6.label>
+  <ABooks_Training_Melee.label>훈련 교본: 격투</ABooks_Training_Melee.label>
+  <ABooks_Training_Melee.description>격투 훈련 교본을 읽어 3일 동안 격투 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Melee.description>
+  <ABooks_Training_Melee.stages.0.label>끔찍</ABooks_Training_Melee.stages.0.label>
+  <ABooks_Training_Melee.stages.1.label>빈약</ABooks_Training_Melee.stages.1.label>
+  <ABooks_Training_Melee.stages.2.label>평범</ABooks_Training_Melee.stages.2.label>
+  <ABooks_Training_Melee.stages.3.label>상급</ABooks_Training_Melee.stages.3.label>
+  <ABooks_Training_Melee.stages.4.label>완벽</ABooks_Training_Melee.stages.4.label>
+  <ABooks_Training_Melee.stages.5.label>걸작</ABooks_Training_Melee.stages.5.label>
+  <ABooks_Training_Melee.stages.6.label>전설적</ABooks_Training_Melee.stages.6.label>
+  <ABooks_Training_Construction.label>훈련 교본: 건설</ABooks_Training_Construction.label>
+  <ABooks_Training_Construction.description>건설 훈련 교본을 읽어 3일 동안 건설 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Construction.description>
+  <ABooks_Training_Construction.stages.0.label>끔찍</ABooks_Training_Construction.stages.0.label>
+  <ABooks_Training_Construction.stages.1.label>빈약</ABooks_Training_Construction.stages.1.label>
+  <ABooks_Training_Construction.stages.2.label>평범</ABooks_Training_Construction.stages.2.label>
+  <ABooks_Training_Construction.stages.3.label>상급</ABooks_Training_Construction.stages.3.label>
+  <ABooks_Training_Construction.stages.4.label>완벽</ABooks_Training_Construction.stages.4.label>
+  <ABooks_Training_Construction.stages.5.label>걸작</ABooks_Training_Construction.stages.5.label>
+  <ABooks_Training_Construction.stages.6.label>전설적</ABooks_Training_Construction.stages.6.label>
+  <ABooks_Training_Mining.label>훈련 교본: 채굴</ABooks_Training_Mining.label>
+  <ABooks_Training_Mining.description>채굴 훈련 교본을 읽어 3일 동안 채굴 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Mining.description>
+  <ABooks_Training_Mining.stages.0.label>끔찍</ABooks_Training_Mining.stages.0.label>
+  <ABooks_Training_Mining.stages.1.label>빈약</ABooks_Training_Mining.stages.1.label>
+  <ABooks_Training_Mining.stages.2.label>평범</ABooks_Training_Mining.stages.2.label>
+  <ABooks_Training_Mining.stages.3.label>상급</ABooks_Training_Mining.stages.3.label>
+  <ABooks_Training_Mining.stages.4.label>완벽</ABooks_Training_Mining.stages.4.label>
+  <ABooks_Training_Mining.stages.5.label>걸작</ABooks_Training_Mining.stages.5.label>
+  <ABooks_Training_Mining.stages.6.label>전설적</ABooks_Training_Mining.stages.6.label>
+  <ABooks_Training_Cooking.label>훈련 교본: 조리</ABooks_Training_Cooking.label>
+  <ABooks_Training_Cooking.description>조리 훈련 교본을 읽어 3일 동안 조리 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Cooking.description>
+  <ABooks_Training_Cooking.stages.0.label>끔찍</ABooks_Training_Cooking.stages.0.label>
+  <ABooks_Training_Cooking.stages.1.label>빈약</ABooks_Training_Cooking.stages.1.label>
+  <ABooks_Training_Cooking.stages.2.label>평범</ABooks_Training_Cooking.stages.2.label>
+  <ABooks_Training_Cooking.stages.3.label>상급</ABooks_Training_Cooking.stages.3.label>
+  <ABooks_Training_Cooking.stages.4.label>완벽</ABooks_Training_Cooking.stages.4.label>
+  <ABooks_Training_Cooking.stages.5.label>걸작</ABooks_Training_Cooking.stages.5.label>
+  <ABooks_Training_Cooking.stages.6.label>전설적</ABooks_Training_Cooking.stages.6.label>
+  <ABooks_Training_Plants.label>훈련 교본: 원예</ABooks_Training_Plants.label>
+  <ABooks_Training_Plants.description>원예 훈련 교본을 읽어 3일 동안 조리 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Plants.description>
+  <ABooks_Training_Plants.stages.0.label>끔찍</ABooks_Training_Plants.stages.0.label>
+  <ABooks_Training_Plants.stages.1.label>빈약</ABooks_Training_Plants.stages.1.label>
+  <ABooks_Training_Plants.stages.2.label>평범</ABooks_Training_Plants.stages.2.label>
+  <ABooks_Training_Plants.stages.3.label>상급</ABooks_Training_Plants.stages.3.label>
+  <ABooks_Training_Plants.stages.4.label>완벽</ABooks_Training_Plants.stages.4.label>
+  <ABooks_Training_Plants.stages.5.label>걸작</ABooks_Training_Plants.stages.5.label>
+  <ABooks_Training_Plants.stages.6.label>전설적</ABooks_Training_Plants.stages.6.label>
+  <ABooks_Training_Animals.label>훈련 교본: 조련</ABooks_Training_Animals.label>
+  <ABooks_Training_Animals.description>조련 훈련 교본을 읽어 3일 동안 조련 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Animals.description>
+  <ABooks_Training_Animals.stages.0.label>끔찍</ABooks_Training_Animals.stages.0.label>
+  <ABooks_Training_Animals.stages.1.label>빈약</ABooks_Training_Animals.stages.1.label>
+  <ABooks_Training_Animals.stages.2.label>평범</ABooks_Training_Animals.stages.2.label>
+  <ABooks_Training_Animals.stages.3.label>상급</ABooks_Training_Animals.stages.3.label>
+  <ABooks_Training_Animals.stages.4.label>완벽</ABooks_Training_Animals.stages.4.label>
+  <ABooks_Training_Animals.stages.5.label>걸작</ABooks_Training_Animals.stages.5.label>
+  <ABooks_Training_Animals.stages.6.label>전설적</ABooks_Training_Animals.stages.6.label>
+  <ABooks_Training_Crafting.label>훈련 교본: 제작</ABooks_Training_Crafting.label>
+  <ABooks_Training_Crafting.description>제작 훈련 교본을 읽어 3일 동안 제작 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Crafting.description>
+  <ABooks_Training_Crafting.stages.0.label>끔찍</ABooks_Training_Crafting.stages.0.label>
+  <ABooks_Training_Crafting.stages.1.label>빈약</ABooks_Training_Crafting.stages.1.label>
+  <ABooks_Training_Crafting.stages.2.label>평범</ABooks_Training_Crafting.stages.2.label>
+  <ABooks_Training_Crafting.stages.3.label>상급</ABooks_Training_Crafting.stages.3.label>
+  <ABooks_Training_Crafting.stages.4.label>완벽</ABooks_Training_Crafting.stages.4.label>
+  <ABooks_Training_Crafting.stages.5.label>걸작</ABooks_Training_Crafting.stages.5.label>
+  <ABooks_Training_Crafting.stages.6.label>전설적</ABooks_Training_Crafting.stages.6.label>
+  <ABooks_Training_Artistic.label>훈련 교본: 예술</ABooks_Training_Artistic.label>
+  <ABooks_Training_Artistic.description>예술 훈련 교본을 읽어 3일 동안 예술 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Artistic.description>
+  <ABooks_Training_Artistic.stages.0.label>끔찍</ABooks_Training_Artistic.stages.0.label>
+  <ABooks_Training_Artistic.stages.1.label>빈약</ABooks_Training_Artistic.stages.1.label>
+  <ABooks_Training_Artistic.stages.2.label>평범</ABooks_Training_Artistic.stages.2.label>
+  <ABooks_Training_Artistic.stages.3.label>상급</ABooks_Training_Artistic.stages.3.label>
+  <ABooks_Training_Artistic.stages.4.label>완벽</ABooks_Training_Artistic.stages.4.label>
+  <ABooks_Training_Artistic.stages.5.label>걸작</ABooks_Training_Artistic.stages.5.label>
+  <ABooks_Training_Artistic.stages.6.label>전설적</ABooks_Training_Artistic.stages.6.label>
+  <ABooks_Training_Medicine.label>훈련 교본: 의학</ABooks_Training_Medicine.label>
+  <ABooks_Training_Medicine.description>의학 훈련 교본을 읽어 3일 동안 의학 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Medicine.description>
+  <ABooks_Training_Medicine.stages.0.label>끔찍</ABooks_Training_Medicine.stages.0.label>
+  <ABooks_Training_Medicine.stages.1.label>빈약</ABooks_Training_Medicine.stages.1.label>
+  <ABooks_Training_Medicine.stages.2.label>평범</ABooks_Training_Medicine.stages.2.label>
+  <ABooks_Training_Medicine.stages.3.label>상급</ABooks_Training_Medicine.stages.3.label>
+  <ABooks_Training_Medicine.stages.4.label>완벽</ABooks_Training_Medicine.stages.4.label>
+  <ABooks_Training_Medicine.stages.5.label>걸작</ABooks_Training_Medicine.stages.5.label>
+  <ABooks_Training_Medicine.stages.6.label>전설적</ABooks_Training_Medicine.stages.6.label>
+  <ABooks_Training_Social.label>훈련 교본: 사교</ABooks_Training_Social.label>
+  <ABooks_Training_Social.description>사교 훈련 교본을 읽어 3일 동안 사교 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Social.description>
+  <ABooks_Training_Social.stages.0.label>끔찍</ABooks_Training_Social.stages.0.label>
+  <ABooks_Training_Social.stages.1.label>빈약</ABooks_Training_Social.stages.1.label>
+  <ABooks_Training_Social.stages.2.label>평범</ABooks_Training_Social.stages.2.label>
+  <ABooks_Training_Social.stages.3.label>상급</ABooks_Training_Social.stages.3.label>
+  <ABooks_Training_Social.stages.4.label>완벽</ABooks_Training_Social.stages.4.label>
+  <ABooks_Training_Social.stages.5.label>걸작</ABooks_Training_Social.stages.5.label>
+  <ABooks_Training_Social.stages.6.label>전설적</ABooks_Training_Social.stages.6.label>
+  <ABooks_Training_Intellectual.label>훈련 교본: 연구</ABooks_Training_Intellectual.label>
+  <ABooks_Training_Intellectual.description>연구 훈련 교본을 읽어 3일 동안 연구 기술을 배우는 속도가 늘어났습니다.</ABooks_Training_Intellectual.description>
+  <ABooks_Training_Intellectual.stages.0.label>끔찍</ABooks_Training_Intellectual.stages.0.label>
+  <ABooks_Training_Intellectual.stages.1.label>빈약</ABooks_Training_Intellectual.stages.1.label>
+  <ABooks_Training_Intellectual.stages.2.label>평범</ABooks_Training_Intellectual.stages.2.label>
+  <ABooks_Training_Intellectual.stages.3.label>상급</ABooks_Training_Intellectual.stages.3.label>
+  <ABooks_Training_Intellectual.stages.4.label>완벽</ABooks_Training_Intellectual.stages.4.label>
+  <ABooks_Training_Intellectual.stages.5.label>걸작</ABooks_Training_Intellectual.stages.5.label>
+  <ABooks_Training_Intellectual.stages.6.label>전설적</ABooks_Training_Intellectual.stages.6.label>
+  <ABooks_ZoologicalCompendium.label>생물학 전문지식</ABooks_ZoologicalCompendium.label>
+  <ABooks_ZoologicalCompendium.description>동물 도감을 읽어 동물을 다루는 능력이 향상되었습니다.</ABooks_ZoologicalCompendium.description>
+  <ABooks_ZoologicalCompendium.stages.0.label>끔찍</ABooks_ZoologicalCompendium.stages.0.label>
+  <ABooks_ZoologicalCompendium.stages.1.label>빈약</ABooks_ZoologicalCompendium.stages.1.label>
+  <ABooks_ZoologicalCompendium.stages.2.label>평범</ABooks_ZoologicalCompendium.stages.2.label>
+  <ABooks_ZoologicalCompendium.stages.3.label>상급</ABooks_ZoologicalCompendium.stages.3.label>
+  <ABooks_ZoologicalCompendium.stages.4.label>완벽</ABooks_ZoologicalCompendium.stages.4.label>
+  <ABooks_ZoologicalCompendium.stages.5.label>걸작</ABooks_ZoologicalCompendium.stages.5.label>
+  <ABooks_ZoologicalCompendium.stages.6.label>전설적</ABooks_ZoologicalCompendium.stages.6.label>
+  <ABooks_ReligiousFervor.label>종교적 열의</ABooks_ReligiousFervor.label>
+  <ABooks_ReligiousFervor.description>종교 경전을 읽어 이념에 대한 믿음이 강해졌습니다.</ABooks_ReligiousFervor.description>
+  <ABooks_ReligiousFervor.stages.0.label>끔찍</ABooks_ReligiousFervor.stages.0.label>
+  <ABooks_ReligiousFervor.stages.1.label>빈약</ABooks_ReligiousFervor.stages.1.label>
+  <ABooks_ReligiousFervor.stages.2.label>평범</ABooks_ReligiousFervor.stages.2.label>
+  <ABooks_ReligiousFervor.stages.3.label>상급</ABooks_ReligiousFervor.stages.3.label>
+  <ABooks_ReligiousFervor.stages.4.label>완벽</ABooks_ReligiousFervor.stages.4.label>
+  <ABooks_ReligiousFervor.stages.5.label>걸작</ABooks_ReligiousFervor.stages.5.label>
+  <ABooks_ReligiousFervor.stages.6.label>전설적</ABooks_ReligiousFervor.stages.6.label>
+  <ABooks_PsycasterGuide.label>초능력 전문지식</ABooks_PsycasterGuide.label>
+  <ABooks_PsycasterGuide.description>초능력자 지침서를 읽어 초능력을 활용한 전투 능력이 향상되었습니다.</ABooks_PsycasterGuide.description>
+  <ABooks_PsycasterGuide.stages.0.label>끔찍</ABooks_PsycasterGuide.stages.0.label>
+  <ABooks_PsycasterGuide.stages.1.label>빈약</ABooks_PsycasterGuide.stages.1.label>
+  <ABooks_PsycasterGuide.stages.2.label>평범</ABooks_PsycasterGuide.stages.2.label>
+  <ABooks_PsycasterGuide.stages.3.label>상급</ABooks_PsycasterGuide.stages.3.label>
+  <ABooks_PsycasterGuide.stages.4.label>완벽</ABooks_PsycasterGuide.stages.4.label>
+  <ABooks_PsycasterGuide.stages.5.label>걸작</ABooks_PsycasterGuide.stages.5.label>
+  <ABooks_PsycasterGuide.stages.6.label>전설적</ABooks_PsycasterGuide.stages.6.label>
+</LanguageData>

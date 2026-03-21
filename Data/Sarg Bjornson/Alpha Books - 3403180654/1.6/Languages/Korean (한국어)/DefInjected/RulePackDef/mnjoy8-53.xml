@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_TynansBook_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[bookPrefix]: [subject]</li>
+    <li>title-&gt;[bookPrefix]: [funnySubject]</li>
+    <li>bookPrefix-&gt;게임 기획의 정석</li>
+    <li>subject-&gt;경험의 구축</li>
+    <li>subject-&gt;세계관 창조</li>
+    <li>subject-&gt;몰입의 완성</li>
+    <li>subject-&gt;기억에 남는 메커니즘</li>
+    <li>subject-&gt;재미의 공학</li>
+    <li>subject-&gt;서사의 큐레이션</li>
+    <li>subject-&gt;시스템 밸런싱</li>
+    <li>subject-&gt;플로우 최적화</li>
+    <li>subject-&gt;도전 과제 설계</li>
+    <li>subject-&gt;반복의 미학</li>
+    <li>subject-&gt;플레이어 중심 디자인</li>
+    <li>subject-&gt;몰입감의 구현</li>
+    <li>subject-&gt;경험의 설계</li>
+    <li>funnySubject-&gt;문자 Ñ의 사용</li>
+    <li>funnySubject-&gt;치명적 버그 예방론</li>
+    <li>funnySubject-&gt;합법적 꼼수 시스템</li>
+    <li>funnySubject-&gt;플레이어의 울화통</li>
+    <li>funnySubject-&gt;바닥에서의 식사</li>
+    <li>funnySubject-&gt;전쟁 범죄들</li>
+    <li>funnySubject-&gt;고의적 혼란 유발</li>
+  </ABooks_TynansBook_Namer.rulePack.rulesStrings>
+</LanguageData>

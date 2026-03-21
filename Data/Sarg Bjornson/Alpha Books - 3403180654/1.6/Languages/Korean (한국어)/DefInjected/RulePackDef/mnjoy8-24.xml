@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_TomeOfFire_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro] [conceptExploration]. [writingQuality][ending]</li>
+    <li>desc-&gt;이 책은 [conceptExploration]. [writingQuality] [useWarning][ending]</li>
+    <li>desc-&gt;[intro] [conceptExploration]. [writingQuality][ending]</li>
+    <li>desc-&gt;이 책은 [conceptExploration]. [useWarning][ending]</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 사용 횟수가 제한된 무작위 화염 능력을 얻게 됩니다. 그 후 책은 소멸합니다.</li>
+    <li>intro-&gt;경이로울 정도로 복잡한 초월공학 유물인 이 책은</li>
+    <li>intro-&gt;잊힌 초월공학 주조소의 불길 속에서 만들어진 이 고서는</li>
+    <li>intro-&gt;양자 화염 패턴을 수용하는 수정 인터페이스인 이 장치는</li>
+    <li>intro-&gt;특이점 너머 존재들의 언어로 암호화된 이 유물은</li>
+    <li>intro-&gt;전설적인 대화재의 근원이라고 속삭여지는 이 물체는</li>
+    <li>intro-&gt;불가능한 설계를 가졌던 파괴된 보관소에서 회수된 이 기록은</li>
+    <li>intro-&gt;필멸자의 지능으로는 이해 불가능하다고 간주되는 이 기록은</li>
+    <li>conceptExploration-&gt;신경 기계입자를 통해 제어된 플라즈마를 방출합니다</li>
+    <li>conceptExploration-&gt;국소적인 열 변칙 현상을 소환하는 능력을 개방합니다</li>
+    <li>conceptExploration-&gt;사용자에게 상급 화염 제어 능력을 선사합니다</li>
+    <li>conceptExploration-&gt;자가 유지되는 핵융합 잔불을 만들어냅니다</li>
+    <li>conceptExploration-&gt;플라즈마 결합 에너지장을 조작할 수 있게 해줍니다</li>
+    <li>conceptExploration-&gt;열역학 법칙을 왜곡하여 화염의 창조물을 투사합니다</li>
+    <li>conceptExploration-&gt;정착민의 뉴럴 링크에 파괴적인 화염 패턴을 각인합니다</li>
+    <li>writingQuality(quality==0)-&gt;손상되어 망가진 유물로, 불씨만 깜빡거리는 화염 기능은 그나마도 오작동할 위험이 있습니다.</li>
+    <li>writingQuality(quality==1)-&gt;미완성된 유물로, 제한적인 화염 제어 능력을 주지만 불안정합니다.</li>
+    <li>writingQuality(quality==2)-&gt;기초적이지만 작동은 하는 마법서로, 적당한 화염 조작 능력을 선사합니다.</li>
+    <li>writingQuality(quality==3)-&gt;위력과 제어력 사이의 균형을 잘 맞춘 화염 투사에 유능한 도구입니다.</li>
+    <li>writingQuality(quality==4)-&gt;강력하고 정밀한 화염 기술이 적용된 인상적인 유물입니다.</li>
+    <li>writingQuality(quality==5)-&gt;초월공학 설계의 걸작으로, 거의 완벽한 화염 제어력을 발산합니다.</li>
+    <li>writingQuality(quality==6)-&gt;초월공학의 기발한 창조물 중에서도 정점이라 할 정도로 완벽하며, 그 위력은 비할 데 없고 제어력은 절대적입니다.</li>
+    <li>useWarning-&gt;주의: 장기간 사용할 경우 신경 회로가 불안정해질 수 있습니다.</li>
+    <li>useWarning-&gt;적절한 사이버네틱 강화 없이 사용할 경우 결과를 예측할 수 없습니다.</li>
+    <li>useWarning-&gt;훈련되지 않은 자가 다룰 경우 파멸적인 결과를 초래할 수 있습니다.</li>
+    <li>useWarning-&gt;과도하게 사용할 경우 제어할 수 없는 열역학적 피드백 루프가 발생할 수 있습니다.</li>
+  </ABooks_TomeOfFire_Description.rulePack.rulesStrings>
+</LanguageData>

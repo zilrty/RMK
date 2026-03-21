@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Legendary.label>전설적인</Legendary.label>
+  <Epic.label>경이로운</Epic.label>
+  <Amazing.label>놀라운</Amazing.label>
+  <Exciting.label>흥미진진한</Exciting.label>
+  <Pleasant.label>즐거운</Pleasant.label>
+  <HellLike.label>지옥 같은</HellLike.label>
+  <Terrorising.label>공포스러운</Terrorising.label>
+  <Frightening.label>무시무시한</Frightening.label>
+  <Disturbing.label>불안한</Disturbing.label>
+  <Unpleasant.label>불쾌한</Unpleasant.label>
+  <Sleepwalk.label>몽유병</Sleepwalk.label>
+</LanguageData>

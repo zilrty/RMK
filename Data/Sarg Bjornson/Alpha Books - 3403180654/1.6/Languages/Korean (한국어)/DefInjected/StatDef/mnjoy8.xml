@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_LearningFactor_Shooting.label>사격 학습 계수</ABooks_LearningFactor_Shooting.label>
+  <ABooks_LearningFactor_Shooting.description>사격 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Shooting.description>
+  <ABooks_LearningFactor_Melee.label>격투 학습 계수</ABooks_LearningFactor_Melee.label>
+  <ABooks_LearningFactor_Melee.description>격투 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Melee.description>
+  <ABooks_LearningFactor_Construction.label>건설 학습 계수</ABooks_LearningFactor_Construction.label>
+  <ABooks_LearningFactor_Construction.description>건설 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Construction.description>
+  <ABooks_LearningFactor_Mining.label>채굴 학습 계수</ABooks_LearningFactor_Mining.label>
+  <ABooks_LearningFactor_Mining.description>채굴 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Mining.description>
+  <ABooks_LearningFactor_Cooking.label>조리 학습 계수</ABooks_LearningFactor_Cooking.label>
+  <ABooks_LearningFactor_Cooking.description>조리 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Cooking.description>
+  <ABooks_LearningFactor_Plants.label>원예 학습 계수</ABooks_LearningFactor_Plants.label>
+  <ABooks_LearningFactor_Plants.description>원예 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Plants.description>
+  <ABooks_LearningFactor_Crafting.label>제작 학습 계수</ABooks_LearningFactor_Crafting.label>
+  <ABooks_LearningFactor_Crafting.description>제작 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Crafting.description>
+  <ABooks_LearningFactor_Artistic.label>예술 학습 계수</ABooks_LearningFactor_Artistic.label>
+  <ABooks_LearningFactor_Artistic.description>예술 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Artistic.description>
+  <ABooks_LearningFactor_Medicine.label>의학 학습 계수</ABooks_LearningFactor_Medicine.label>
+  <ABooks_LearningFactor_Medicine.description>의학 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Medicine.description>
+  <ABooks_LearningFactor_Social.label>사교 학습 계수</ABooks_LearningFactor_Social.label>
+  <ABooks_LearningFactor_Social.description>사교 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Social.description>
+  <ABooks_LearningFactor_Intellectual.label>연구 학습 계수</ABooks_LearningFactor_Intellectual.label>
+  <ABooks_LearningFactor_Intellectual.description>연구 기술의 학습 속도에 적용되는 배수입니다.</ABooks_LearningFactor_Intellectual.description>
+</LanguageData>

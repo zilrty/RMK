@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PalNoLimbs.label>무정형 팰</PalNoLimbs.label>
+  <PalNoLimbs.corePart.parts.3.customLabel>왼쪽 어깨</PalNoLimbs.corePart.parts.3.customLabel>
+  <PalNoLimbs.corePart.parts.4.customLabel>오른쪽 어깨</PalNoLimbs.corePart.parts.4.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.0.customLabel>왼쪽 쇄골</PalNoLimbs.corePart.parts.3.parts.0.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.customLabel>왼팔</PalNoLimbs.corePart.parts.3.parts.1.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.0.customLabel>오른쪽 쇄골</PalNoLimbs.corePart.parts.4.parts.0.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.customLabel>오른팔</PalNoLimbs.corePart.parts.4.parts.1.customLabel>
+  <PalNoLimbs.corePart.parts.2.parts.0.parts.1.customLabel>왼쪽 눈</PalNoLimbs.corePart.parts.2.parts.0.parts.1.customLabel>
+  <PalNoLimbs.corePart.parts.2.parts.0.parts.2.customLabel>오른쪽 눈</PalNoLimbs.corePart.parts.2.parts.0.parts.2.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.parts.0.customLabel>왼쪽 상완골</PalNoLimbs.corePart.parts.3.parts.1.parts.0.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.parts.1.customLabel>왼쪽 요골</PalNoLimbs.corePart.parts.3.parts.1.parts.1.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.parts.2.customLabel>왼쪽 앞발</PalNoLimbs.corePart.parts.3.parts.1.parts.2.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.parts.0.customLabel>오른쪽 상완골</PalNoLimbs.corePart.parts.4.parts.1.parts.0.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.parts.1.customLabel>오른쪽 요골</PalNoLimbs.corePart.parts.4.parts.1.parts.1.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.parts.2.customLabel>오른쪽 앞발</PalNoLimbs.corePart.parts.4.parts.1.parts.2.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.0.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.1.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃손가락</PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.2.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.3.customLabel>왼쪽 검지손가락</PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.3.customLabel>
+  <PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지손가락</PalNoLimbs.corePart.parts.3.parts.1.parts.2.parts.4.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.0.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.1.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.2.customLabel>오른쪽 가운뎃손가락</PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.2.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.3.customLabel>오른쪽 검지손가락</PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.3.customLabel>
+  <PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지손가락</PalNoLimbs.corePart.parts.4.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidPalWithPawsNoTail.label>꼬리가 없는 인간형 팰</HumanoidPalWithPawsNoTail.label>
+  <HumanoidPalWithPawsNoTail.corePart.parts.3.customLabel>왼쪽 폐</HumanoidPalWithPawsNoTail.corePart.parts.3.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.4.customLabel>오른쪽 폐</HumanoidPalWithPawsNoTail.corePart.parts.4.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.5.customLabel>왼쪽 신장</HumanoidPalWithPawsNoTail.corePart.parts.5.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.6.customLabel>오른쪽 신장</HumanoidPalWithPawsNoTail.corePart.parts.6.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.customLabel>왼쪽 어깨</HumanoidPalWithPawsNoTail.corePart.parts.9.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.customLabel>오른쪽 어깨</HumanoidPalWithPawsNoTail.corePart.parts.10.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.customLabel>왼다리</HumanoidPalWithPawsNoTail.corePart.parts.12.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.customLabel>오른다리</HumanoidPalWithPawsNoTail.corePart.parts.13.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.0.customLabel>왼쪽 쇄골</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.customLabel>왼팔</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.0.customLabel>오른쪽 쇄골</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.customLabel>오른팔</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.parts.0.customLabel>왼쪽 대퇴골</HumanoidPalWithPawsNoTail.corePart.parts.12.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.parts.1.customLabel>왼쪽 경골</HumanoidPalWithPawsNoTail.corePart.parts.12.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.customLabel>왼발</HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.parts.0.customLabel>오른쪽 대퇴골</HumanoidPalWithPawsNoTail.corePart.parts.13.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.parts.1.customLabel>오른쪽 경골</HumanoidPalWithPawsNoTail.corePart.parts.13.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.customLabel>오른발</HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.8.parts.0.parts.1.customLabel>왼쪽 눈</HumanoidPalWithPawsNoTail.corePart.parts.8.parts.0.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.8.parts.0.parts.2.customLabel>오른쪽 눈</HumanoidPalWithPawsNoTail.corePart.parts.8.parts.0.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.8.parts.0.parts.3.customLabel>왼쪽 귀</HumanoidPalWithPawsNoTail.corePart.parts.8.parts.0.parts.3.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</HumanoidPalWithPawsNoTail.corePart.parts.8.parts.0.parts.4.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.0.customLabel>왼쪽 상완골</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.1.customLabel>왼쪽 요골</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.customLabel>왼쪽 앞발</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.0.customLabel>오른쪽 상완골</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.1.customLabel>오른쪽 요골</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.customLabel>오른쪽 앞발</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.0.customLabel>왼쪽 새끼발가락</HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.1.customLabel>왼쪽 넷째 발가락</HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.2.customLabel>왼쪽 가운뎃발가락</HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.3.customLabel>왼쪽 둘째 발가락</HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.3.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.4.customLabel>왼쪽 엄지발가락</HumanoidPalWithPawsNoTail.corePart.parts.12.parts.2.parts.4.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.0.customLabel>오른쪽 새끼발가락</HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.1.customLabel>오른쪽 넷째 발가락</HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.2.customLabel>오른쪽 가운뎃발가락</HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.3.customLabel>오른쪽 둘째 발가락</HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.3.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.4.customLabel>오른쪽 엄지발가락</HumanoidPalWithPawsNoTail.corePart.parts.13.parts.2.parts.4.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃손가락</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.3.customLabel>왼쪽 검지손가락</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지손가락</HumanoidPalWithPawsNoTail.corePart.parts.9.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.2.customLabel>오른쪽 가운뎃손가락</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.3.customLabel>오른쪽 검지손가락</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지손가락</HumanoidPalWithPawsNoTail.corePart.parts.10.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidPalWithHoovesNoTail.label>꼬리가 없는 인간형 팰</HumanoidPalWithHoovesNoTail.label>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.3.customLabel>왼쪽 폐</HumanoidPalWithHoovesNoTail.corePart.parts.3.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.4.customLabel>오른쪽 폐</HumanoidPalWithHoovesNoTail.corePart.parts.4.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.5.customLabel>왼쪽 신장</HumanoidPalWithHoovesNoTail.corePart.parts.5.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.6.customLabel>오른쪽 신장</HumanoidPalWithHoovesNoTail.corePart.parts.6.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.customLabel>왼쪽 어깨</HumanoidPalWithHoovesNoTail.corePart.parts.9.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.customLabel>오른쪽 어깨</HumanoidPalWithHoovesNoTail.corePart.parts.10.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.12.customLabel>왼다리</HumanoidPalWithHoovesNoTail.corePart.parts.12.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.13.customLabel>오른다리</HumanoidPalWithHoovesNoTail.corePart.parts.13.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.0.customLabel>왼쪽 쇄골</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.0.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.customLabel>왼팔</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.0.customLabel>오른쪽 쇄골</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.0.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.customLabel>오른팔</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.12.parts.0.customLabel>왼쪽 뒷발</HumanoidPalWithHoovesNoTail.corePart.parts.12.parts.0.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.13.parts.0.customLabel>오른쪽 뒷발</HumanoidPalWithHoovesNoTail.corePart.parts.13.parts.0.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.8.parts.0.parts.1.customLabel>왼쪽 눈</HumanoidPalWithHoovesNoTail.corePart.parts.8.parts.0.parts.1.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.8.parts.0.parts.2.customLabel>오른쪽 눈</HumanoidPalWithHoovesNoTail.corePart.parts.8.parts.0.parts.2.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.8.parts.0.parts.3.customLabel>왼쪽 귀</HumanoidPalWithHoovesNoTail.corePart.parts.8.parts.0.parts.3.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.8.parts.0.parts.4.customLabel>오른쪽 귀</HumanoidPalWithHoovesNoTail.corePart.parts.8.parts.0.parts.4.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.0.customLabel>왼쪽 상완골</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.0.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.1.customLabel>왼쪽 요골</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.1.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.customLabel>왼쪽 앞발</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.0.customLabel>오른쪽 상완골</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.0.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.1.customLabel>오른쪽 요골</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.1.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.customLabel>오른쪽 앞발</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃손가락</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.3.customLabel>왼쪽 검지손가락</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지손가락</HumanoidPalWithHoovesNoTail.corePart.parts.9.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.2.customLabel>오른쪽 가운뎃손가락</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.3.customLabel>오른쪽 검지손가락</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지손가락</HumanoidPalWithHoovesNoTail.corePart.parts.10.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidPalWithPawsAndTail.label>인간형 팰</HumanoidPalWithPawsAndTail.label>
+  <HumanoidPalWithPawsAndTail.corePart.parts.4.customLabel>왼쪽 폐</HumanoidPalWithPawsAndTail.corePart.parts.4.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.5.customLabel>오른쪽 폐</HumanoidPalWithPawsAndTail.corePart.parts.5.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.6.customLabel>왼쪽 신장</HumanoidPalWithPawsAndTail.corePart.parts.6.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.7.customLabel>오른쪽 신장</HumanoidPalWithPawsAndTail.corePart.parts.7.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.customLabel>왼쪽 어깨</HumanoidPalWithPawsAndTail.corePart.parts.10.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.customLabel>오른쪽 어깨</HumanoidPalWithPawsAndTail.corePart.parts.11.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.customLabel>왼다리</HumanoidPalWithPawsAndTail.corePart.parts.13.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.customLabel>오른다리</HumanoidPalWithPawsAndTail.corePart.parts.14.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>왼쪽 쇄골</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.customLabel>왼팔</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>오른쪽 쇄골</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.customLabel>오른팔</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>왼쪽 대퇴골</HumanoidPalWithPawsAndTail.corePart.parts.13.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.parts.1.customLabel>왼쪽 경골</HumanoidPalWithPawsAndTail.corePart.parts.13.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.customLabel>왼발</HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.parts.0.customLabel>오른쪽 대퇴골</HumanoidPalWithPawsAndTail.corePart.parts.14.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.parts.1.customLabel>오른쪽 경골</HumanoidPalWithPawsAndTail.corePart.parts.14.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.customLabel>오른발</HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</HumanoidPalWithPawsAndTail.corePart.parts.9.parts.0.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</HumanoidPalWithPawsAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</HumanoidPalWithPawsAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</HumanoidPalWithPawsAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.0.customLabel>왼쪽 상완골</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.1.customLabel>왼쪽 요골</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.customLabel>왼쪽 앞발</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.0.customLabel>오른쪽 상완골</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.1.customLabel>오른쪽 요골</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.customLabel>오른쪽 앞발</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.0.customLabel>왼쪽 새끼발가락</HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.1.customLabel>왼쪽 넷째 발가락</HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.2.customLabel>왼쪽 가운뎃발가락</HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.3.customLabel>왼쪽 둘째 발가락</HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.3.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.4.customLabel>왼쪽 엄지발가락</HumanoidPalWithPawsAndTail.corePart.parts.13.parts.2.parts.4.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.0.customLabel>오른쪽 새끼발가락</HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.1.customLabel>오른쪽 넷째 발가락</HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.2.customLabel>오른쪽 가운뎃발가락</HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.3.customLabel>오른쪽 둘째 발가락</HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.3.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.4.customLabel>오른쪽 엄지발가락</HumanoidPalWithPawsAndTail.corePart.parts.14.parts.2.parts.4.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃손가락</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.3.customLabel>왼쪽 검지손가락</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지손가락</HumanoidPalWithPawsAndTail.corePart.parts.10.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.2.customLabel>오른쪽 가운뎃손가락</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.3.customLabel>오른쪽 검지손가락</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지손가락</HumanoidPalWithPawsAndTail.corePart.parts.11.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidPalWithHoovesAndTail.label>인간형 팰</HumanoidPalWithHoovesAndTail.label>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.4.customLabel>왼쪽 폐</HumanoidPalWithHoovesAndTail.corePart.parts.4.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.5.customLabel>오른쪽 폐</HumanoidPalWithHoovesAndTail.corePart.parts.5.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.6.customLabel>왼쪽 신장</HumanoidPalWithHoovesAndTail.corePart.parts.6.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.7.customLabel>오른쪽 신장</HumanoidPalWithHoovesAndTail.corePart.parts.7.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.customLabel>왼쪽 어깨</HumanoidPalWithHoovesAndTail.corePart.parts.10.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.customLabel>오른쪽 어깨</HumanoidPalWithHoovesAndTail.corePart.parts.11.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.13.customLabel>왼다리</HumanoidPalWithHoovesAndTail.corePart.parts.13.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.14.customLabel>오른다리</HumanoidPalWithHoovesAndTail.corePart.parts.14.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.0.customLabel>왼쪽 쇄골</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.0.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.customLabel>왼팔</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.0.customLabel>오른쪽 쇄골</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.0.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.customLabel>오른팔</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.13.parts.0.customLabel>왼쪽 뒷발</HumanoidPalWithHoovesAndTail.corePart.parts.13.parts.0.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.14.parts.0.customLabel>오른쪽 뒷발</HumanoidPalWithHoovesAndTail.corePart.parts.14.parts.0.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.9.parts.0.parts.1.customLabel>왼쪽 눈</HumanoidPalWithHoovesAndTail.corePart.parts.9.parts.0.parts.1.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.9.parts.0.parts.2.customLabel>오른쪽 눈</HumanoidPalWithHoovesAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.9.parts.0.parts.3.customLabel>왼쪽 귀</HumanoidPalWithHoovesAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.9.parts.0.parts.4.customLabel>오른쪽 귀</HumanoidPalWithHoovesAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.0.customLabel>왼쪽 상완골</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.0.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.1.customLabel>왼쪽 요골</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.1.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.customLabel>왼쪽 앞발</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.0.customLabel>오른쪽 상완골</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.0.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.1.customLabel>오른쪽 요골</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.1.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.customLabel>오른쪽 앞발</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.0.customLabel>왼쪽 새끼손가락</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.1.customLabel>왼쪽 넷째 손가락</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.2.customLabel>왼쪽 가운뎃손가락</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.3.customLabel>왼쪽 검지손가락</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.4.customLabel>왼쪽 엄지손가락</HumanoidPalWithHoovesAndTail.corePart.parts.10.parts.1.parts.2.parts.4.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.0.customLabel>오른쪽 새끼손가락</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.0.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.1.customLabel>오른쪽 넷째 손가락</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.1.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.2.customLabel>오른쪽 가운뎃손가락</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.2.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.3.customLabel>오른쪽 검지손가락</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.3.customLabel>
+  <HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.4.customLabel>오른쪽 엄지손가락</HumanoidPalWithHoovesAndTail.corePart.parts.11.parts.1.parts.2.parts.4.customLabel>
+</LanguageData>

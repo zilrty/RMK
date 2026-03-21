@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_HugInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]ハグをしながら､[RECIPIENT_nameDef]に対して優しい言葉を囁いた。[RECIPIENT_nameDef]は穏やかな気持ちになった。</li>
+  </AR_HugInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

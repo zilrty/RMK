@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_HermeticMysteries_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[conceptExploration][intro]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[conceptExploration](이)가 주제로, [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[contextStatement] [conceptExploration][intro]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending-&gt;\n\n이 책의 저자는 신화적 존재가 현대 밀봉 기술과 진지하게 연관이 있다고 믿었던 모양이지만, 신기하게도 그 결과물은 어찌 잘 맞아떨어진 모양입니다… 한 번 읽으면 사라지게 되어 있는 것 같습니다.</li>
+    <li>intro-&gt;사이의 미묘한 상호작용을 드러내는 [writingQualityAdjective] [bookType]</li>
+    <li>intro-&gt;사이의 비밀스런 관계에 대한 [writingQualityAdjective] 탐구</li>
+    <li>intro-&gt;의 숨겨진 연결고리를 기록하는 시대를 초월한 [bookType]</li>
+    <li>intro-&gt;의 이중적 본질을 밝혀내는 [writingQualityAdjective] 연구</li>
+    <li>intro-&gt;의 난해함과 세속적 측면을 잇는 특별한 [bookType]</li>
+    <li>intro-&gt;(을)를 둘러싼 미스터리에 관한 무섭도록 생생한 탐구</li>
+    <li>conceptExploration-&gt;헤르메스의 신성한 영향력과 밀폐 용기의 원리</li>
+    <li>conceptExploration-&gt;봉인 속에 숨겨진 지혜</li>
+    <li>conceptExploration-&gt;잠긴 것을 해제하는 섬세한 기술</li>
+    <li>conceptExploration-&gt;봉인된 유물 속에 숨은 고대의 비밀</li>
+    <li>conceptExploration-&gt;잠금을 해제하는 과정에서 신성과 기계적 원리가 얽히는 방식</li>
+    <li>conceptExploration-&gt;봉인된 보물을 지배하는 신비로운 지식</li>
+    <li>contextStatement-&gt;헤르메스의 우화와 기술 도해를 통해</li>
+    <li>contextStatement-&gt;신화와 과학을 결합해</li>
+    <li>contextStatement-&gt;신성한 우화와 실용적 지식을 쌓아 나가며</li>
+    <li>contextStatement-&gt;신비로운 진실과 기계적 정밀함을 속삭이며</li>
+    <li>contextStatement-&gt;숨겨진 지침과 난해한 시를 통해</li>
+    <li>impactStatement-&gt;봉인된 것을 지배하려는 이들에게 힘을 실어주는 가르침을 담았습니다</li>
+    <li>impactStatement-&gt;봉인술을 연마하는 이들을 위한 독보적인 통찰이 들어있습니다</li>
+    <li>impactStatement-&gt;독자가 신성한 정밀함으로 상자에 접근할 수 있도록 준비시킵니다</li>
+    <li>impactStatement-&gt;정신과 물질 속에 숨겨진 것을 여는 열쇠가 되어줄 책입니다</li>
+    <li>impactStatement-&gt;봉인에 담긴 수수께끼를 풀 수 있는 방법을 제공합니다</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 솜씨가 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;놀라울 정도로 통찰력 있는</li>
+    <li>writingQualityAdjective(quality==4)-&gt;시사하는 바가 크고 정교한</li>
+    <li>writingQualityAdjective(quality==3)-&gt;말은 되지만 새로울 것 없는</li>
+    <li>writingQualityAdjective(quality==2)-&gt;그저 그런</li>
+    <li>writingQualityAdjective(quality==1)-&gt;거의 이해하기 힘든</li>
+    <li>writingQualityAdjective(quality==0)-&gt;앞뒤가 안 맞는 헛소리의 나열인</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;이 책은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;이 책은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 책은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;신비롭고 실용적인 지식의 정수를 담고 있으며</li>
+    <li>excellentDesc-&gt;봉인술의 신비에 관한 매우 귀중한 해설서이며</li>
+    <li>excellentDesc-&gt;신성하고 실용적인 지혜를 전문적으로 조합하고 있으며</li>
+    <li>excellentDesc-&gt;해제와 봉인에 관한 매우 독창적인 고찰을 다루고 있으며</li>
+    <li>excellentDesc-&gt;비전 지식과 실용적인 조언이 풍부하며</li>
+    <li>excellentExtra-&gt;신의 영역과 기계적 영역을 잇는 가교가 됩니다</li>
+    <li>excellentExtra-&gt;비술과 봉인을 연마하는 데 도움이 됩니다</li>
+    <li>excellentExtra-&gt;해제의 기술에 관한 깊은 통찰을 제공합니다</li>
+    <li>decentDesc-&gt;헤르메스학 이론에 관한 무난한 지침서이며</li>
+    <li>decentDesc-&gt;흥미롭지만 구성이 고르지 못하며</li>
+    <li>decentDesc-&gt;일부 측면에서는 도움이 되나 지나치게 난해하며</li>
+    <li>decentDesc-&gt;헤르메스적 기술에 대한 좁은 해석에만 치중하고 있으며</li>
+    <li>decentDesc-&gt;간혹 통찰력이 돋보이나 대체로 일관성이 없으며</li>
+    <li>decentExtra-&gt;기초 지식이 있는 이들에게는 도움이 될 수 있습니다</li>
+    <li>decentExtra-&gt;다만 그 적용법이 때때로 불분명합니다</li>
+    <li>decentExtra-&gt;가르침에 통일된 구조가 부족한 점이 아쉽습니다</li>
+    <li>awfulDesc-&gt;신화와 무의미한 지시가 혼란스럽게 뒤섞여 있으며</li>
+    <li>awfulDesc-&gt;실용적 가치가 전혀 없는 터무니없는 지침서이며</li>
+    <li>awfulDesc-&gt;모순적인 조언들이 혼란스럽게 얽혀 있으며</li>
+    <li>awfulDesc-&gt;난해한 인용문들이 어지럽게 늘어선 의미없는 내용뿐이며</li>
+    <li>awfulDesc-&gt;어떠한 지혜도 찾아볼 수 없을 정도로 구성이 엉망이며</li>
+    <li>awfulExtra-&gt;실질적인 도움을 원하는 이들에게는 전혀 쓸모가 없습니다</li>
+    <li>awfulExtra-&gt;명확한 지식을 주기는커녕 오히려 혼란만 가중합니다</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 저서는 [date_form]에 처음 제작되었습니다.</li>
+    <li>maybe_date-&gt;그 기원은 내용만큼이나 수수께끼에 싸여 있습니다.</li>
+    <li>date_form-&gt;고대 시대</li>
+    <li>date_form-&gt;[date]</li>
+    <li>date_form-&gt;[date_season] 중</li>
+    <li>bookType(p=4)-&gt;신비한 지침서</li>
+    <li>bookType(p=3)-&gt;수수께끼의 안내서</li>
+    <li>bookType(p=2)-&gt;봉인된 논문</li>
+    <li>bookType(p=1)-&gt;난해한 원고</li>
+  </ABooks_HermeticMysteries_Description.rulePack.rulesStrings>
+</LanguageData>

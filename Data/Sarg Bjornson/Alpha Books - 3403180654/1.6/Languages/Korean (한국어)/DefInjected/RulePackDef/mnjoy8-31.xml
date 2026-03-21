@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_ArmyManual_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[descriptor] [category]: [specialDetail]</li>
+    <li>title-&gt;[category]: [specialDetail]</li>
+    <li>title-&gt;[descriptor] [category]</li>
+    <li>descriptor-&gt;종합</li>
+    <li>descriptor-&gt;상급</li>
+    <li>descriptor-&gt;전술</li>
+    <li>descriptor-&gt;필수</li>
+    <li>descriptor-&gt;현장</li>
+    <li>descriptor-&gt;전략</li>
+    <li>descriptor-&gt;작전</li>
+    <li>category-&gt;군사 교범</li>
+    <li>category-&gt;야전 교범</li>
+    <li>category-&gt;군사 핸드북</li>
+    <li>category-&gt;전술 요약본</li>
+    <li>category-&gt;전쟁 교본</li>
+    <li>specialDetail-&gt;현대전</li>
+    <li>specialDetail-&gt;변경계의 전쟁</li>
+    <li>specialDetail-&gt;전장 전략</li>
+    <li>specialDetail-&gt;생존과 교전</li>
+    <li>specialDetail-&gt;제병연합</li>
+    <li>specialDetail-&gt;준비를 통한 승리</li>
+    <li>specialDetail-&gt;병법의 진수</li>
+  </ABooks_ArmyManual_Namer.rulePack.rulesStrings>
+</LanguageData>

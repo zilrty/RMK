@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_PsycasterGuide_Description.rulePack.rulesStrings>
+    <li>desc-&gt;이 [writingQualityAdjective] [bookType](은)는 [psycaster]의 [follows] [heOrShe]가 [storyStruggles]에 대해 서술합니다. [writingQualitySentence]. [maybe_date]\n\n이 책을 읽으면 초능력을 다루는 법을 더 깊게 이해하게 되고 [subject_primary](을)를 배우며, 그 후 책은 사라집니다.</li>
+    <li>follows-&gt;초정신적 비밀에 대해 이야기하며</li>
+    <li>follows-&gt;초능력 수련법을 강조하며</li>
+    <li>follows-&gt;정신 수양 과정을 기록하며</li>
+    <li>follows-&gt;기술을 탐구하며</li>
+    <li>follows-&gt;심리 상태를 깊이 분석하며</li>
+    <li>follows-&gt;경험을 기록하며</li>
+    <li>follows-&gt;숨겨진 비법을 알리며</li>
+    <li>follows-&gt;세계로 독자들을 안내하며</li>
+    <li>heOrShe-&gt;그</li>
+    <li>heOrShe-&gt;그녀</li>
+    <li>storyStruggles-&gt;[subject_primary]의 미세한 감각을 터득해 나가는 과정</li>
+    <li>storyStruggles-&gt;[subject_primary]의 신비를 밝혀내는 과정</li>
+    <li>storyStruggles-&gt;초능력을 다루는 데 따르는 고난과 그 보상을 설명하는 과정</li>
+    <li>storyStruggles-&gt;초능력 숙달을 위한 자신만의 고찰을 공유하는 것</li>
+    <li>storyStruggles-&gt;[subject_primary] 사용의 복잡함을 파헤치는 과정</li>
+    <li>storyStruggles-&gt;정신 에너지를 활용하기 위해 효과적인 전략을 세우는 여정</li>
+    <li>storyStruggles-&gt;규율과 집중의 중요성에 매진하는 과정</li>
+    <li>storyStruggles-&gt;[subject_primary](을)를 배우기 위한 인내의 가치를 강조하는 것</li>
+    <li>storyStruggles-&gt;초정신적 깨달음에 도달하는 과정</li>
+    <li>storyStruggles-&gt;초능력 통달의 기초 원리를 분석하는 과정</li>
+    <li>psycaster-&gt;스승</li>
+    <li>psycaster-&gt;선지자</li>
+    <li>psycaster-&gt;사이온</li>
+    <li>psycaster-&gt;숙련된 초능력자</li>
+    <li>psycaster-&gt;신비주의자</li>
+    <li>psycaster-&gt;초월능력자</li>
+    <li>psycaster-&gt;텔레패스</li>
+    <li>psycaster-&gt;멘탈리스트</li>
+    <li>psycaster-&gt;초능력의 대가</li>
+    <li>psycaster-&gt;환시가</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 솜씨가 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;지적이고 통찰력 있는</li>
+    <li>writingQualityAdjective(quality==4)-&gt;명료하고 사려 깊은</li>
+    <li>writingQualityAdjective(quality==3)-&gt;제법 준수하게 구성된</li>
+    <li>writingQualityAdjective(quality==2)-&gt;기껏해야 평범한 수준인</li>
+    <li>writingQualityAdjective(quality==1)-&gt;엉성하게 쓰여진</li>
+    <li>writingQualityAdjective(quality==0)-&gt;간신히 읽어낼 수 있는 수준의</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;이 책은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)-&gt;이 책은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 책은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;초능력에 대한 깊이 있는 탐구이며</li>
+    <li>excellentDesc-&gt;정신 에너지 활용에 대한 통찰력이 깊고</li>
+    <li>excellentDesc-&gt;치밀하게 쓰여 초능력의 지혜로 가득하며</li>
+    <li>excellentDesc-&gt;창의적이고 초능력에 통달하기 위한 영감을 주는 내용이며</li>
+    <li>excellentDesc-&gt;놀라울 정도로 독창적이고 잘 만들어진 안내서이며</li>
+    <li>excellentDesc-&gt;숙련된 초능력자들의 매력적인 사례들로 가득하며</li>
+    <li>excellentExtra-&gt;각 페이지는 [subject_primary] 숙달을 위한 복잡한 기술들을 담아냅니다</li>
+    <li>excellentExtra-&gt;심오한 정신적 성장을 불러일으키는 매력적인 읽을거리입니다</li>
+    <li>excellentExtra-&gt;그 통찰력은 매우 실용적이며 혁신적입니다</li>
+    <li>decentDesc-&gt;초능력의 기초를 다루는 탄탄한 안내서지만</li>
+    <li>decentDesc-&gt;흥미롭고 유익하며 실용적인 조언을 담고 있지만</li>
+    <li>decentDesc-&gt;[subject_primary]에 대한 이해에 집중하고 있지만</li>
+    <li>decentDesc-&gt;공감 가는 사례들로 때때로 영감을 주기도 하지만</li>
+    <li>decentDesc-&gt;초보 초능력자들에게는 매력적이지만</li>
+    <li>decentExtra-&gt;숙련된 수행자의 입장에서는 깊이가 다소 부족하게 보입니다</li>
+    <li>decentExtra-&gt;일부 기술들은 다소 구식처럼 느껴집니다</li>
+    <li>decentExtra-&gt;가끔 지침이 모호할 때가 있습니다</li>
+    <li>decentExtra-&gt;실습보다 이론에 너무 치중되어 있습니다</li>
+    <li>decentExtra-&gt;단순한 방법들을 종종 지나치게 복잡하게 설명합니다</li>
+    <li>awfulDesc-&gt;초능력에 대한 이해가 부족한 이가 저술하여</li>
+    <li>awfulDesc-&gt;무관하거나 터무니없는 일화로만 가득 차 있으며</li>
+    <li>awfulDesc-&gt;설명이 모호하고 일관성이 없는 데다</li>
+    <li>awfulDesc-&gt;명확하고 실행 가능한 초능력 기법은 찾아볼 수 없고</li>
+    <li>awfulDesc-&gt;모순되거나 터무니없는 조언들이 뒤섞여 있어</li>
+    <li>awfulExtra-&gt;여기 서술된 방법을 실행하면 역효과만 나게 됩니다</li>
+    <li>awfulExtra-&gt;초능력의 핵심 원리조차 제대로 다루지 못합니다</li>
+    <li>awfulExtra-&gt;황당하고 비현실적인 제안들만 늘어놓을 뿐입니다</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 책은 [date_form]에 출판되었습니다.</li>
+    <li>maybe_date-&gt;이 내용은 [date_form]에 처음 인쇄되었습니다.</li>
+    <li>maybe_date-&gt;이 책이 정확히 언제 쓰였는지는 불분명합니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;수 세기 전</li>
+    <li>date_form-&gt;[date]</li>
+    <li>date_form-&gt;[date_season]</li>
+    <li>bookType(p=4)-&gt;초능력자 가이드</li>
+    <li>bookType(p=2)-&gt;신비주의 매뉴얼</li>
+    <li>bookType-&gt;참고서</li>
+    <li>bookType-&gt;학습 자료</li>
+  </ABooks_PsycasterGuide_Description.rulePack.rulesStrings>
+</LanguageData>

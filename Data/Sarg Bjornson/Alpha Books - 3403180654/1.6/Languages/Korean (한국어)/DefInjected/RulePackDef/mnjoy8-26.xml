@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_TreatiseOfStainlessSteel_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro]에 대한 것입니다. [contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[intro](와)과 [conceptExploration]입니다. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro-&gt;[writingQualityAdjective] 이 논문이 심층 탐구하는 대상은 스테인리스강의 지속되는 영향력</li>
+    <li>intro-&gt;필수 자료로 취급받는 이 [bookType](이)가 다루는 주제는 스테인리스강의 특성과 응용 분야</li>
+    <li>intro-&gt;이 [writingQualityAdjective] 글의 주제는 스테인리스강의 탄생과 유용성</li>
+    <li>intro-&gt;시대를 초월한 [bookType](으)로, 그 주제는 스테인리스강 연구 </li>
+    <li>intro-&gt;이 [bookType](이)가 상세히 기술하고 있는 내용은 스테인리스강의 잠재력을 끌어내는 법</li>
+    <li>intro-&gt;이 [writingQualityAdjective] 저작은 스테인리스강 제작 뒤에 숨겨진 비결을 밝혀냅니다</li>
+    <li>conceptExploration-&gt;부식에 대한 저항력과 높은 실용적 활용도</li>
+    <li>conceptExploration-&gt;도구, 건축 및 기계류에서의 중요성</li>
+    <li>conceptExploration-&gt;가혹한 환경을 견뎌내는 독특한 능력</li>
+    <li>conceptExploration-&gt;제조 공정 뒤에 숨겨진 과학적 원리</li>
+    <li>conceptExploration-&gt;첨단 식민지에 미치는 변혁적인 영향</li>
+    <li>conceptExploration-&gt;신비로운 내구도와 적응성</li>
+    <li>conceptExploration-&gt;산업 및 생존에서의 응용</li>
+    <li>contextStatement-&gt;고대 제조 기록과 최신 발견을 엮어낸 이 [bookType](은)는 [conceptExploration](을)를 고찰합니다</li>
+    <li>contextStatement-&gt;글은 지구의 공학 전통에서 아이디어를 따와 [conceptExploration](을)를 조명합니다</li>
+    <li>contextStatement-&gt;글은 변경계의 제조술과 독창성에서 영감을 받아 [conceptExploration](을)를 탐구합니다</li>
+    <li>contextStatement-&gt;글은 과학적 엄밀함과 실용적인 통찰을 결합하여 [conceptExploration](을)를 밝혀냅니다</li>
+    <li>contextStatement-&gt;필요와 호기심에서 탄생한 이 저작은 [conceptExploration](을)를 설명합니다</li>
+    <li>writingQualityAdjective-&gt;매우 높은 수준의 상세함을 갖춘</li>
+    <li>writingQualityAdjective-&gt;철저한 조사를 바탕으로 쓰인</li>
+    <li>writingQualityAdjective-&gt;매력적이고 통찰력 있는</li>
+    <li>writingQualityAdjective-&gt;구색은 갖췄지만 기초적인 수준의</li>
+    <li>writingQualitySentence-&gt;[decentDesc] [decentExtra]</li>
+    <li>decentDesc-&gt;적절하지만 완성도가 부족한 가이드로서</li>
+    <li>decentDesc-&gt;초보 금속공학자를 위한 기초적인 개요를 담고 있어</li>
+    <li>decentDesc-&gt;스테인리스강에 대한 유용한 입문서이지만</li>
+    <li>decentExtra-&gt;개선의 여지가 남아 있습니다</li>
+    <li>decentExtra-&gt;세부 사항에 공백이 존재합니다</li>
+    <li>maybe_date-&gt;[date_form]에 출판된 이 책은 오늘날에도 여전히 유효한 지식을 전합니다.</li>
+    <li>maybe_date-&gt;이 책은 [date_form]에 편찬되었으며, 시대를 초월한 지식을 담고 있습니다.</li>
+    <li>maybe_date-&gt;이 책의 기원은 [date_form]까지 거슬러 올라갑니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;잊힌 시대</li>
+    <li>date_form-&gt;변방계</li>
+    <li>date_form-&gt;산업 확장의 전성기</li>
+    <li>bookType(p=3)-&gt;논문</li>
+    <li>bookType(p=2)-&gt;지침서</li>
+    <li>bookType(p=1)-&gt;안내서</li>
+    <li>ending-&gt;\n\n이 책의 품질은 항상 평범 등급이며, 읽고 난 후에는 사라집니다.</li>
+  </ABooks_TreatiseOfStainlessSteel_Description.rulePack.rulesStrings>
+</LanguageData>

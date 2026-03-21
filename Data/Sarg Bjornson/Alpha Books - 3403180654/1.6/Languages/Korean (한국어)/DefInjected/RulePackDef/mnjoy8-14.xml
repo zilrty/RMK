@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_MidasTome_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro] [contentOverview]입니다. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>intro-&gt;이 [writingQualityAdjective] [bookType](이)가 밝혀낸 초월공학 황금 연성의 비밀은 바로</li>
+    <li>intro-&gt;이 [writingQualityAdjective] 마법서가 상세히 다루는 주제는 물질을 금으로 변환하는 수수께끼 같은 과정, 즉</li>
+    <li>intro-&gt;초월공학 연금술에 관한 [writingQualityAdjective] 저작으로, 이 글이 탐구하는 현대판 현자의 돌이란</li>
+    <li>intro-&gt;이 [writingQualityAdjective] 문헌이 완벽히 다루게 해 주겠다 약속하는 전설 속 마이더스의 손이라는 능력이란</li>
+    <li>contentOverview-&gt;모든 완성된 공예품과 구조물을 순금으로 변환하는 방법</li>
+    <li>contentOverview-&gt;평범한 재료를 빛나는 부로 바꾸는 기술</li>
+    <li>contentOverview-&gt;초월공학의 힘을 통해 무한한 부를 얻기 위한 단계별 가이드</li>
+    <li>contentOverview-&gt;끝없는 금을 생성하기 위한 물질 조작의 비밀</li>
+    <li>quirkStatement-&gt;하지만 주의하십시오. 변환의 권능은 가장 단순한 도구조차 파멸을 부를 만큼 무거운 보물로 바꿀 수 있습니다</li>
+    <li>quirkStatement-&gt;사용자들은 모든 물건을 "미래의 황금"으로 보게 되는 불안한 경향을 보고합니다</li>
+    <li>quirkStatement-&gt;어떤 이들은 이 책이 변환 중의 과도한 탐욕에 대해 경고한다고 주장합니다</li>
+    <li>quirkStatement-&gt;이 책을 읽은 이들은 종종 정착지의 개를 포함해 모든 것을 금으로 도금하고 싶은 강력한 충동을 드러내고는 합니다</li>
+    <li>qualityStatement(quality==6)-&gt;이 책은 [excellentDesc], 초월공학 문헌 중에서도 걸작이라 할 만합니다.</li>
+    <li>qualityStatement(quality==5)-&gt;이 책은 [decentDesc], 변환술에 대한 깊은 통찰을 담고 있습니다.</li>
+    <li>qualityStatement(quality==4)-&gt;이 책은 [functionalDesc], 약간 비밀스러운 경향이 있긴 해도 실용적인 지침을 내려줍니다.</li>
+    <li>qualityStatement(quality==3)-&gt;이 책은 [mediocreDesc], 독자를 혼란스럽게 만드는 난해한 구절들로 가득합니다.</li>
+    <li>qualityStatement(quality==2)-&gt;이 책은 [poorDesc], 파편화된 이론과 미완성된 도표만이 가득합니다.</li>
+    <li>qualityStatement(quality==1)-&gt;이 책은 [terribleDesc], 의미 모를 기호와 헛소리가 뒤섞인 일관성 없는 글입니다.</li>
+    <li>qualityStatement(quality==0)-&gt;이 책은 [awfulDesc], 온통 이해 불능인 글이라 부르기에도 민망한 대참사입니다.</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭하게 구성된</li>
+    <li>writingQualityAdjective(quality==5)-&gt;탁월하게 작성된</li>
+    <li>writingQualityAdjective(quality==4)-&gt;짜임새 있게 정리된</li>
+    <li>writingQualityAdjective(quality==3)-&gt;간신히 맥락을 유지하는</li>
+    <li>writingQualityAdjective(quality==2)-&gt;답답할 정도로 지리멸렬한</li>
+    <li>writingQualityAdjective(quality==1)-&gt;웃길 정도로 형편없는</li>
+    <li>writingQualityAdjective(quality==0)-&gt;완전 엉망진창인</li>
+    <li>excellentDesc-&gt;초월공학으로부터 깨달음을 구하는 자들을 위한 영원한 지침서이며</li>
+    <li>excellentDesc-&gt;변환술에 관한 결정적인 저작이자</li>
+    <li>excellentDesc-&gt;비할 데 없는 연금술적 지혜의 원천이며</li>
+    <li>excellentDesc-&gt;초월공학의 독창성을 증명하는 특별한 기록으로서</li>
+    <li>decentDesc-&gt;고급 변환술에 대한 매혹적인 통찰을 제공하며</li>
+    <li>decentDesc-&gt;황금 변환에 관한 능숙한 설명을 담고 있으며</li>
+    <li>decentDesc-&gt;호기심 많은 자와 부유한 자 모두에게 식견을 넓혀주는 읽을거리이며</li>
+    <li>functionalDesc-&gt;연금술사 지망생들에게 충분한 도움이 되며</li>
+    <li>functionalDesc-&gt;실용적인 초월공학 활용을 위한 유용한 매뉴얼이며</li>
+    <li>functionalDesc-&gt;평범한 물건에 금을 입힐 때 쓰기 적당한 지침서이며</li>
+    <li>mediocreDesc-&gt;지혜와 수수께끼가 당혹스럽게 섞여 있으며</li>
+    <li>mediocreDesc-&gt;초월공학의 비밀을 전달하려는 의도가 무색한 시도이며</li>
+    <li>mediocreDesc-&gt;황금의 기술에 대한 고르지 못한 탐구이며</li>
+    <li>poorDesc-&gt;이해하기 어렵고 조잡하게 만들어진 서적이며</li>
+    <li>poorDesc-&gt;답답할 정도로 모호하고 불완전한 책이며</li>
+    <li>poorDesc-&gt;초월공학 문헌 중 화가 치밀 정도로 실패한 결과물이며</li>
+    <li>terribleDesc-&gt;기록이라고 하기엔 가당치도 않고 읽기조차 어려우며</li>
+    <li>terribleDesc-&gt;이상한 소리와 근거 모를 오만이 기괴하게 뒤섞여 있으며</li>
+    <li>terribleDesc-&gt;초월공학 지식을 한심할 정도로 서투르게 묘사하고 있으며</li>
+    <li>awfulDesc-&gt;초월공학 기록물이라기엔 수준이 처참해 문버팀쇠로 쓰기에나 적당하며</li>
+    <li>awfulDesc-&gt;야심찬 의도를 스스로 조롱하는 꼴밖에 되지 않았으며</li>
+    <li>awfulDesc-&gt;술 취한 머팔로가 끄적인 것이 분명한 의미 없는 낙서의 집합체이며</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 모든 건축물과 제작물을 황금으로 변환할 수 있는 권능이 깃들게 되며, 그 과정에서 책은 소멸합니다.</li>
+  </ABooks_MidasTome_Description.rulePack.rulesStrings>
+</LanguageData>

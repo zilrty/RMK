@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Abooks_OpportunitySite_RuinedLibrary.root.nodes.3.name>asker</Abooks_OpportunitySite_RuinedLibrary.root.nodes.3.name>
+  <Abooks_OpportunitySite_RuinedLibrary.root.nodes.3.elseNode.nodes.0.name>askerIsNull</Abooks_OpportunitySite_RuinedLibrary.root.nodes.3.elseNode.nodes.0.name>
+  <Abooks_OpportunitySite_RuinedLibrary.root.nodes.9.node.nodes.0.label>임무 만료: [resolvedQuestName]</Abooks_OpportunitySite_RuinedLibrary.root.nodes.9.node.nodes.0.label>
+  <Abooks_OpportunitySite_RuinedLibrary.root.nodes.9.node.nodes.0.text>가로챈 통신에 따르면 다른 이들이 이미 파괴된 도서관의 물품을 모두 가져간 것으로 파악됩니다. [resolvedQuestName] 임무가 만료되었습니다.</Abooks_OpportunitySite_RuinedLibrary.root.nodes.9.node.nodes.0.text>
+</LanguageData>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_KissInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef]は頬にキスをし､[RECIPIENT_nameDef]に対して優しい言葉を囁いた。[RECIPIENT_possessive]精神崩壊は収まった。</li>
+  </AR_KissInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>

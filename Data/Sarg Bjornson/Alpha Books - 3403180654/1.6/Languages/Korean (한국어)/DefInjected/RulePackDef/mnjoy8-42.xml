@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_OfficeBinder_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[intro]: [subject]</li>
+    <li>title-&gt;[subject][actionRequired]</li>
+    <li>title-&gt;[reminder]</li>
+    <li>title-&gt;[update]</li>
+    <li>title-&gt;[announcement]</li>
+    <li>intro-&gt;새 소식</li>
+    <li>intro-&gt;긴급</li>
+    <li>intro-&gt;중요</li>
+    <li>intro-&gt;즉시 확인 바람</li>
+    <li>intro-&gt;알림</li>
+    <li>intro-&gt;조치 필요</li>
+    <li>intro-&gt;예정됨</li>
+    <li>actionRequired-&gt;에 대한 조치 필요</li>
+    <li>actionRequired-&gt;에 대한 주의 요망</li>
+    <li>actionRequired-&gt;에 대해 모든 직원이 알아야 할 사항</li>
+    <li>actionRequired-&gt;에 대한 즉각적인 조치</li>
+    <li>actionRequired-&gt;(을)를 처리 바람</li>
+    <li>reminder-&gt;알림: [subject]</li>
+    <li>reminder-&gt;잊지 말고 [subject] 내용 검토 바람</li>
+    <li>reminder-&gt;마지막 알림: [subject]</li>
+    <li>reminder-&gt;[subject] 항목 완료 바람</li>
+    <li>update-&gt;중요 업데이트: [subject]</li>
+    <li>update-&gt;안내드립니다: [subject]</li>
+    <li>update-&gt;[subject]에 관한 최신 업데이트</li>
+    <li>update-&gt;알림: [subject]에 관한 새로운 업데이트</li>
+    <li>announcement-&gt;공식 발표: [subject]</li>
+    <li>announcement-&gt;[subject]에 관한 전사적 공지</li>
+    <li>announcement-&gt;중요 공지: [subject]</li>
+    <li>subject-&gt;사내 규정</li>
+    <li>subject-&gt;감사 일정</li>
+    <li>subject-&gt;직원 공지 사항</li>
+    <li>subject-&gt;분기별 검토</li>
+    <li>subject-&gt;휴무 시간 안내</li>
+    <li>subject-&gt;안전 수칙</li>
+    <li>subject-&gt;재택근무 가이드라인</li>
+    <li>subject-&gt;사무실 이전</li>
+    <li>subject-&gt;데이터 프라이버시 검토</li>
+    <li>subject-&gt;직원 포상 프로그램</li>
+    <li>subject-&gt;조달 계약</li>
+    <li>subject-&gt;출장비 정산 규정</li>
+    <li>subject-&gt;IT 시스템 유지보수</li>
+    <li>subject-&gt;연례 보고서 마감 기한</li>
+  </ABooks_OfficeBinder_Namer.rulePack.rulesStrings>
+</LanguageData>

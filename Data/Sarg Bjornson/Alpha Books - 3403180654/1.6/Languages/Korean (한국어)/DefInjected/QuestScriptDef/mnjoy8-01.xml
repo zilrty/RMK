@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Abooks_OpportunitySite_RuinedLibrary.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;버려진 무선 신호기가 위치 정보가 포함된 희미한 전파 신호를 내보내고 있는 것 같습니다. 이 신호를 해독한 결과, 발신지는 [map_definite]에서 멀지 않은 곳에 있는 파괴된 도서관으로 밝혀졌습니다. 희귀한 원고, 실전된 지식, 또는 귀중한 데이터 아카이브를 찾을 수 있는 도서관은 조사해 볼 가치가 있는 장소입니다.\n\n신호로 인해 도서관의 위치에 적대적인 세력의 관심이 쏠릴 수 있으므로 주의해서 진행해야 할 것입니다.</li>
+  </Abooks_OpportunitySite_RuinedLibrary.questDescriptionRules.rulesStrings>
+</LanguageData>

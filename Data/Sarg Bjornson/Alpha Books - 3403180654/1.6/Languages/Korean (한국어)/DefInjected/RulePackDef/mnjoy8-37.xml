@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_HermeticMysteries_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthored]</li>
+    <li>titleBasic-&gt;봉인된 헤르메티카의 비밀</li>
+    <li>titleBasic-&gt;숨겨진 지혜의 미스터리</li>
+    <li>titleBasic-&gt;헤르메스와 봉인의 기술</li>
+    <li>titleBasic-&gt;헤르메스의 봉인된 진실들</li>
+    <li>titleBasic-&gt;금고 속의 미스터리</li>
+    <li>titleBasic-&gt;암호화된 헤르메스의 계시</li>
+    <li>titleBasic-&gt;헤르메스적 지혜의 방</li>
+    <li>titleBasic-&gt;헤르메스의 숨겨진 자물쇠</li>
+    <li>titleBasic-&gt;봉인된 비밀의 열쇠</li>
+    <li>titleBasic-&gt;숨겨진 수수께끼 해독</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 밀폐 잠금에 관한 논문</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 헤르메스적 지혜의 서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 봉인된 신비의 비책</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 헤르메스학 개론</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 봉인된 방의 수수께끼</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 헤르메스학 숙달에 관한 계시</li>
+  </ABooks_HermeticMysteries_Namer.rulePack.rulesStrings>
+</LanguageData>

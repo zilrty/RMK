@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_TrainingManual_Description.rulePack.rulesStrings>
+    <li>desc-&gt;이 [writingQualityAdjective] [bookType](은)는 한 [trainer][follows] [heOrShe]의 [storyStruggles](을)를 담아냅니다. [writingQualitySentence]. [maybe_date]\n\n이 책을 읽으면 [subject_primary] 기술 학습 속도가 증가하며, 그 후 책은 사라집니다.</li>
+    <li>follows-&gt;의 방식을 알려주며</li>
+    <li>follows-&gt;의 가르침을 강조하며</li>
+    <li>follows-&gt;의 훈련 과정을 기록하며</li>
+    <li>follows-&gt;의 방법론을 탐구하며</li>
+    <li>heOrShe-&gt;그</li>
+    <li>heOrShe-&gt;그녀</li>
+    <li>storyStruggles-&gt;타인의 잠재력을 끌어내기 위한 노력</li>
+    <li>storyStruggles-&gt;기술 숙련을 향한 명확한 경로 제시</li>
+    <li>storyStruggles-&gt;[subject_primary](을)를 배우며 겪는 시련과 그 보상에 대한 설명</li>
+    <li>storyStruggles-&gt;훈련 기법에 대한 독창적인 통찰 공유</li>
+    <li>storyStruggles-&gt;[subject_primary] 학습의 복잡성에 대한 탐구</li>
+    <li>storyStruggles-&gt;기술 향상을 위한 효과적인 전략 개요</li>
+    <li>storyStruggles-&gt;연습과 인내의 중요성에 대한 집중</li>
+    <li>storyStruggles-&gt;규율과 헌신의 가치 강조</li>
+    <li>storyStruggles-&gt;[subject_primary] 실력 향상을 위한 실질적인 조언</li>
+    <li>storyStruggles-&gt;기술 숙달을 향한 여정의 기록</li>
+    <li>storyStruggles-&gt;능숙함에 도달하기 위한 단계별 분석</li>
+    <li>trainer-&gt;멘토</li>
+    <li>trainer-&gt;코치</li>
+    <li>trainer-&gt;가이드</li>
+    <li>trainer-&gt;강사</li>
+    <li>trainer-&gt;교사</li>
+    <li>trainer-&gt;전문가</li>
+    <li>trainer-&gt;선생</li>
+    <li>trainer-&gt;사범</li>
+    <li>trainer-&gt;전문가</li>
+    <li>trainer-&gt;실무자</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 솜씨가 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;지적이고 통찰력 있는</li>
+    <li>writingQualityAdjective(quality==4)-&gt;깔끔하고 신중함 있는</li>
+    <li>writingQualityAdjective(quality==3)-&gt;적절하게 구성된</li>
+    <li>writingQualityAdjective(quality==2)-&gt;기껏해야 평범한</li>
+    <li>writingQualityAdjective(quality==1)-&gt;형편없이 작성된</li>
+    <li>writingQualityAdjective(quality==0)-&gt;거의 읽기 힘든</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;이 글은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)-&gt;이 글은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 글은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;기술 구축에 대한 사려 깊은 탐구이며</li>
+    <li>excellentDesc-&gt;학습 과정에 대한 깊은 통찰력을 담고 있고</li>
+    <li>excellentDesc-&gt;군더더기 없는 문체와 실용적인 지혜로 가득하며</li>
+    <li>excellentDesc-&gt;창의적이고 영감을 주는 내용을 담았고</li>
+    <li>excellentDesc-&gt;놀라울 정도로 독창적이고 잘 만들어진 안내서이며</li>
+    <li>excellentDesc-&gt;숙련된 강사들의 매력적인 일화로 채워져 있으며</li>
+    <li>excellentExtra-&gt;각 부분이 논리적인 방식으로 이전 내용을 보완하며 전개됩니다</li>
+    <li>excellentExtra-&gt;끊임없는 발전을 향한 동기를 부여하는 매력적인 읽을거리입니다</li>
+    <li>excellentExtra-&gt;제시된 조언들은 쉽게 실천 가능하며 효과적입니다</li>
+    <li>decentDesc-&gt;준수한 훈련 가이드이지만</li>
+    <li>decentDesc-&gt;유익하고 흥미로운 조언들이 담겨 있으나</li>
+    <li>decentDesc-&gt;단 하나의 효과적인 훈련 기법에만 집중하고 있어</li>
+    <li>decentDesc-&gt;공감 가는 사례들로 가끔 몰입감을 주기도 하지만</li>
+    <li>decentDesc-&gt;기술을 연마하려는 이들에게 매력적일 수 있으나</li>
+    <li>decentExtra-&gt;고급 전략이 부족합니다</li>
+    <li>decentExtra-&gt;일부 사례가 시대에 뒤떨어진 느낌을 줍니다</li>
+    <li>decentExtra-&gt;설명된 방식이 가끔 불분명할 때가 있습니다</li>
+    <li>decentExtra-&gt;실습보다는 이론에 너무 치우쳐 있습니다</li>
+    <li>decentExtra-&gt;단순한 개념을 종종 과하도록 복잡하게 설명합니다</li>
+    <li>awfulDesc-&gt;훈련에 대한 이해가 거의 없는 사람에 의해 쓰였으며</li>
+    <li>awfulDesc-&gt;부적절한 개인적 일화로만 가득 차 있고</li>
+    <li>awfulDesc-&gt;모호하고 구조적이지 못하며</li>
+    <li>awfulDesc-&gt;명확하고 실천 가능한 조언을 주지 않으며</li>
+    <li>awfulDesc-&gt;모순되는 문장들로 점철되어 있어</li>
+    <li>awfulExtra-&gt;안에 담긴 조언은 자주 역효과를 낳습니다</li>
+    <li>awfulExtra-&gt;핵심적인 기술 습득 원리를 다루는 데 실패했습니다</li>
+    <li>awfulExtra-&gt;터무니없고 도움이 되지 않는 방법들만 알려줍니다</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 책은 [date_form]에 출간되었습니다.</li>
+    <li>maybe_date-&gt;이 글은 [date_form]에 처음 인쇄되었습니다.</li>
+    <li>maybe_date-&gt;이 책이 정확히 언제 쓰였는지는 불분명합니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;수 세기 전</li>
+    <li>date_form-&gt;[date]</li>
+    <li>date_form-&gt;[date_season]</li>
+    <li>bookType(p=4)-&gt;훈련 매뉴얼</li>
+    <li>bookType(p=2)-&gt;학습 가이드</li>
+    <li>bookType-&gt;참조서</li>
+    <li>bookType-&gt;교육 지침서</li>
+    <li>bookType-&gt;학습 자료</li>
+  </ABooks_TrainingManual_Description.rulePack.rulesStrings>
+</LanguageData>

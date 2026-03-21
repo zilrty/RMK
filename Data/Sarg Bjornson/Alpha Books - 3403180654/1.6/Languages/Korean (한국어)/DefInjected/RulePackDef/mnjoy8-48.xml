@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_SelfHelp_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthored]</li>
+    <li>titleBasic(p=6)-&gt;[randAdjective] 자기계발 안내서</li>
+    <li>titleBasic(p=6)-&gt;[randNoun] 그리고 자기계발</li>
+    <li>titleBasic-&gt;잠재력 깨우기</li>
+    <li>titleBasic-&gt;영감을 향해서</li>
+    <li>titleBasic-&gt;입문자를 위한 영감을 얻는 법</li>
+    <li>titleBasic-&gt;자기 개선을 위한 영감의 기술</li>
+    <li>titleBasic-&gt;자기 성찰을 통한 영감</li>
+    <li>titleBasic-&gt;생존, 영감 그리고 성장</li>
+    <li>titleBasic-&gt;영감을 찾아 떠나는 여정</li>
+    <li>titleBasic-&gt;연습이 완벽을 만든다: 영감으로의 길</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 영감 가이드</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 자기계발서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 영감 전서</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 영감을 주는 핸드북</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 영감 수업</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 영감 노트</li>
+    <li>titleAuthored-&gt;[ANYPAWN_nameIndef]의 영감 전략</li>
+  </ABooks_SelfHelp_Namer.rulePack.rulesStrings>
+</LanguageData>

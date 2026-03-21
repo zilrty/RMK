@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_RuinedBook_Description.rulePack.rulesStrings>
+    <li>desc-&gt;이 [writingQualityAdjective] [bookType](은)는 한 [trainer][follows] [heOrShe]의 [storyStruggles] 담아냅니다. [writingQualitySentence]. [maybe_date]</li>
+    <li>follows-&gt;의 _______려주며</li>
+    <li>follows-&gt;의 가르_______조하며</li>
+    <li>follows-&gt;의 훈_______을 기록하며</li>
+    <li>follows-&gt;의 방법론을 탐_______며</li>
+    <li>heOrShe-&gt;그</li>
+    <li>heOrShe-&gt;그녀</li>
+    <li>storyStruggles-&gt;___________</li>
+    <li>storyStruggles-&gt;_____________________</li>
+    <li>storyStruggles-&gt;_______</li>
+    <li>storyStruggles-&gt;_________________________________________</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;코치</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;강사</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;전문가</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;사범</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;실무자</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭_______ 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;지_______고 통_______ 있는</li>
+    <li>writingQualityAdjective(quality==4)-&gt;깔끔하고 _______는</li>
+    <li>writingQualityAdjective(quality==3)-&gt;적_______게 구성된</li>
+    <li>writingQualityAdjective(quality==2)-&gt;기껏해야 평_______한</li>
+    <li>writingQualityAdjective(quality==1)-&gt;형편없이 _______된</li>
+    <li>writingQualityAdjective(quality==0)-&gt;거의 _______기 힘든</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;이 글은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)-&gt;이 글은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 글은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;기술 구축에 대한 사려 _______이며</li>
+    <li>excellentDesc-&gt;학습 과정에 대한 깊_______력을 담고 있고</li>
+    <li>excellentDesc-&gt;군더더기 없는 문체와 실용적인 지혜_______며</li>
+    <li>excellentDesc-&gt;창의적이고 _______는 내용을 담았고</li>
+    <li>excellentDesc-&gt;놀라_______적이고 _______들어진 안내서이며</li>
+    <li>excellentDesc-&gt;_______된 강사들의 매력_______로 채워져 있으며</li>
+    <li>excellentExtra-&gt;각 부_______인 방식으로 이전 _______하며 전개됩니다</li>
+    <li>excellentExtra-&gt;끊임_______을 향한 동기를 부여하는 _______을거리입니다</li>
+    <li>excellentExtra-&gt;제_______언들은 _______능하며 효과적입니다</li>
+    <li>decentDesc-&gt;_______련 가이드이지만</li>
+    <li>decentDesc-&gt;_______하고 흥_______언들이 담겨 있으나</li>
+    <li>decentDesc-&gt;단 하_______인 훈_______만 집중하고 있어</li>
+    <li>decentDesc-&gt;공_______들로 가끔 몰_______도 하지만</li>
+    <li>decentDesc-&gt;기술을 _______는 이들에게 매_______ 있으나</li>
+    <li>decentExtra-&gt;_______략이 부족합니다</li>
+    <li>decentExtra-&gt;일_______가 시대에 _______낌을 줍니다</li>
+    <li>decentExtra-&gt;_______식이 가끔 _______ 때가 있습니다</li>
+    <li>decentExtra-&gt;실_______론에 너_______ 있습니다</li>
+    <li>decentExtra-&gt;_______한 개념을 종종 과_______게 설명합니다</li>
+    <li>awfulDesc-&gt;_______한 이해가 거의 _______ 의해 쓰였으며</li>
+    <li>awfulDesc-&gt;_______한 개인적 일_______ 차 있고</li>
+    <li>awfulDesc-&gt;모호_______이지 못하며</li>
+    <li>awfulDesc-&gt;명_______ 천 가능한 조언을 _______며</li>
+    <li>awfulDesc-&gt;_______장들로 _______ 있어</li>
+    <li>awfulExtra-&gt;_______언은 자주_______습니다</li>
+    <li>awfulExtra-&gt;핵심적_______득 원리를 다루는 데 _______했습니다</li>
+    <li>awfulExtra-&gt;_______고 도움_______는 방법들만 알려줍니다</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 책은 [date_form]에 _______니다.</li>
+    <li>maybe_date-&gt;이 글은 [date_form]에 처_______되었습니다.</li>
+    <li>maybe_date-&gt;이 책이 정_______였는지는 불_______니다.</li>
+    <li>date_form-&gt;최_______</li>
+    <li>date_form-&gt;_______기 전</li>
+    <li>date_form-&gt;[date]</li>
+    <li>date_form-&gt;[date_season]</li>
+    <li>bookType(p=4)-&gt;훈_______뉴얼</li>
+    <li>bookType(p=2)-&gt;학_______이드</li>
+    <li>bookType-&gt;참_______서</li>
+    <li>bookType-&gt;교_______침서</li>
+    <li>bookType-&gt;학_______료</li>
+  </ABooks_RuinedBook_Description.rulePack.rulesStrings>
+</LanguageData>

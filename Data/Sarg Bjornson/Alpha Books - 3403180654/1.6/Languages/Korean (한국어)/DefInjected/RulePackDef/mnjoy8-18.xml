@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_PsychologyBook_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[conceptExploration][intro]입니다. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[conceptExploration](을)를 주제로 [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[contextStatement][intro]로, [conceptExploration]에 대해 다루고 있습니다. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending-&gt;\n\n이 책을 읽으면 3일 동안 기분 관리 및 사교 능력에 보너스를 받으며, 그 후 책은 사라집니다.</li>
+    <li>intro-&gt;(을)를 깊이 있게 통찰하는 [writingQualityAdjective] [bookType]</li>
+    <li>intro-&gt;(을)를 헤쳐 나가는 법을 안내하는 [writingQualityAdjective] 가이드</li>
+    <li>intro-&gt;의 어려움을 극복해 나가는 과정을 기록한 시대를 초월한 [bookType]</li>
+    <li>intro-&gt; 속 생존의 순간을 기록한 [writingQualityAdjective] 기록물</li>
+    <li>intro-&gt;의 세계를 탐구하는 특별한 [bookType]</li>
+    <li>intro-&gt;에 대한 뇌리에 박힐 만큼 생생한 탐구</li>
+    <li>conceptExploration-&gt;공포와 리더십의 상호작용</li>
+    <li>conceptExploration-&gt;고독이 정신에 미치는 영향</li>
+    <li>conceptExploration-&gt;생사의 기로 속 선택의 윤리</li>
+    <li>conceptExploration-&gt;절박함이 관계를 형성하는 방식</li>
+    <li>conceptExploration-&gt;생존에 있어 신뢰의 역할</li>
+    <li>conceptExploration-&gt;변경계의 압도적인 고립에 적응하는 과정</li>
+    <li>conceptExploration-&gt;생존 본능과 도덕성 사이의 갈등</li>
+    <li>conceptExploration-&gt;희망과 절망 사이의 위태로운 균형</li>
+    <li>conceptExploration-&gt;공동의 투쟁이 공동체를 세우거나 파괴하는 방식</li>
+    <li>conceptExploration-&gt;가혹한 세상 속 노동의 심리학</li>
+    <li>contextStatement-&gt;변경계에서의 생생한 경험담</li>
+    <li>contextStatement-&gt;수십 년간의 정착지 생활</li>
+    <li>contextStatement-&gt;고립된 수많은 개척민의 기록</li>
+    <li>contextStatement-&gt;개척지에서 실제 일어났던 일들</li>
+    <li>contextStatement-&gt;변경계 선구자들의 고군분투</li>
+    <li>impactStatement-&gt;인간이 고난 속에서 행동하는 원리를 새롭게 이해할 고찰을 담았습니다</li>
+    <li>impactStatement-&gt;가혹한 변방을 헤쳐나가는 정착민에게 유용한 정보를 가르칩니다</li>
+    <li>impactStatement-&gt;인간 정신의 가장 어두운 부분을 낱낱히 밝힙니다</li>
+    <li>impactStatement-&gt;위기에 처한 지도자들에게 결정적인 도움을 줍니다</li>
+    <li>impactStatement-&gt;변경계에서 살아남기 위한 핵심적 가르침을 담았습니다</li>
+    <li>writingQualityAdjective(quality==6)-&gt;훌륭한 솜씨가 돋보이는</li>
+    <li>writingQualityAdjective(quality==5)-&gt;놀라울 정도로 깊이있는</li>
+    <li>writingQualityAdjective(quality==4)-&gt;시사하는 바가 크고 정교한</li>
+    <li>writingQualityAdjective(quality==3)-&gt;형식은 갖췄으나 새로울 것 없는</li>
+    <li>writingQualityAdjective(quality==2)-&gt;평범한</li>
+    <li>writingQualityAdjective(quality==1)-&gt;거의 이해하기 힘든</li>
+    <li>writingQualityAdjective(quality==0)-&gt;엉망진창으로 앞뒤가 안 맞는</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;이 책은 [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;이 책은 [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;이 책은 [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;심리학적 통찰이 담긴 걸작이며</li>
+    <li>excellentDesc-&gt;생존 심리학 이해를 위한 귀중한 자료이며</li>
+    <li>excellentDesc-&gt;정착지 지도자들을 위한 세련된 지침서이며</li>
+    <li>excellentDesc-&gt;변경계 생존 심리에 대한 독창적인 탐구이며</li>
+    <li>excellentDesc-&gt;실용적인 조언과 생생한 이야기가 풍부하며</li>
+    <li>excellentExtra-&gt;인간 심리의 진정한 본질을 드러냅니다</li>
+    <li>excellentExtra-&gt;가장 어두운 시기에도 버틸 수 있게 해 줍니다</li>
+    <li>excellentExtra-&gt;개척지 생활의 어려움에 대비할 수 있게 해줍니다</li>
+    <li>decentDesc-&gt;심리적 회복력에 관한 그럭저럭 괜찮은 지침서이며</li>
+    <li>decentDesc-&gt;흥미롭지만 다듬어지지 않았으며</li>
+    <li>decentDesc-&gt;일부 측면에선 도움이 되나 깊이가 부족하며</li>
+    <li>decentDesc-&gt;몇 가지 좁은 개념에만 집중되어 있으며</li>
+    <li>decentDesc-&gt;가끔 통찰력이 돋보이나 기복이 있으며</li>
+    <li>decentExtra-&gt;경험이 적은 독자들에게는 유용할 수 있습니다</li>
+    <li>decentExtra-&gt;생존이라는 큰 그림을 다루는 데는 실패했습니다</li>
+    <li>decentExtra-&gt;이론 중 일관적이지 않은 부분이 있습니다</li>
+    <li>awfulDesc-&gt;설익은 아이디어들을 되는 대로 모아놓은 것이며</li>
+    <li>awfulDesc-&gt;근거 없는 이론들이 뒤섞인 혼란스러운 결과물이며</li>
+    <li>awfulDesc-&gt;실용적 가치가 없고 연구가 미흡하며</li>
+    <li>awfulDesc-&gt;무관한 일화와 군더더기로 가득하며</li>
+    <li>awfulDesc-&gt;모순적인 이론들이 어지럽게 뒤섞여 있으며</li>
+    <li>awfulExtra-&gt;실제 심리적 문제에 직면한 이들에게 전혀 쓸모가 없습니다</li>
+    <li>awfulExtra-&gt;진지한 심리학적 통찰을 찾는 자들에게 해만 됩니다</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;이 책은 [date_form]에 출판되었습니다.</li>
+    <li>maybe_date-&gt;이 내용은 [date_form]에 처음 기록되었습니다.</li>
+    <li>maybe_date-&gt;이 책의 기원은 변경계의 수많은 존재들이 그랬듯 세월 속으로 사라졌습니다.</li>
+    <li>date_form-&gt;최근</li>
+    <li>date_form-&gt;수 세대 전</li>
+    <li>date_form-&gt;[date]</li>
+    <li>date_form-&gt;[date_season] 중</li>
+    <li>bookType(p=4)-&gt;심리 연구</li>
+    <li>bookType(p=3)-&gt;현장 가이드</li>
+    <li>bookType(p=2)-&gt;개척 지침서</li>
+    <li>bookType(p=1)-&gt;생존 논문</li>
+  </ABooks_PsychologyBook_Description.rulePack.rulesStrings>
+</LanguageData>

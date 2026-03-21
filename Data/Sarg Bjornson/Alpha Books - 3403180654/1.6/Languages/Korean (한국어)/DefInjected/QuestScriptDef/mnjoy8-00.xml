@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Abooks_OpportunitySite_RuinedLibrary.questNameRules.rulesStrings>
+    <li>questName(priority=1)-&gt;[library] [discovered]</li>
+    <li>library-&gt;파괴된 도서관</li>
+    <li>library-&gt;버려진 도서관</li>
+    <li>library-&gt;잃어버린 기록보관소</li>
+    <li>library-&gt;잊힌 도서관</li>
+    <li>library-&gt;고대 도서관</li>
+    <li>library-&gt;유기된 도서관</li>
+    <li>library-&gt;유령 씌인 도서관</li>
+    <li>library-&gt;손상된 기록보관소</li>
+    <li>discovered-&gt;발견</li>
+    <li>discovered-&gt;감지</li>
+    <li>discovered-&gt;위치 발견</li>
+    <li>discovered-&gt;존재 발견</li>
+    <li>discovered-&gt;추적 성공</li>
+    <li>discovered-&gt;발굴</li>
+    <li>discovered-&gt;포착</li>
+    <li>discovered-&gt;탐지</li>
+    <li>discovered-&gt;우연히 발견</li>
+    <li>discovered-&gt;위치 포착</li>
+  </Abooks_OpportunitySite_RuinedLibrary.questNameRules.rulesStrings>
+</LanguageData>

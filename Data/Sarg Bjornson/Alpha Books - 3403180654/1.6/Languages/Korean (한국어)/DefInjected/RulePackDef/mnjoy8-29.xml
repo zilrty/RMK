@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_AberrantGrimoire_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[adjective] [noun]</li>
+    <li>title-&gt;[mysticTheme]의 [noun]</li>
+    <li>title-&gt;[arcaneDescriptor] [grimoire]</li>
+    <li>title-&gt;[anomaly]의 [grimoire]</li>
+    <li>adjective-&gt;변이된</li>
+    <li>adjective-&gt;불가해한</li>
+    <li>adjective-&gt;뒤틀린</li>
+    <li>adjective-&gt;기괴한</li>
+    <li>adjective-&gt;타락한</li>
+    <li>adjective-&gt;이계의</li>
+    <li>adjective-&gt;조각난</li>
+    <li>adjective-&gt;불경한</li>
+    <li>noun-&gt;고문서</li>
+    <li>noun-&gt;마도서</li>
+    <li>noun-&gt;경전</li>
+    <li>noun-&gt;논문</li>
+    <li>noun-&gt;두루마리</li>
+    <li>noun-&gt;원장</li>
+    <li>noun-&gt;기록</li>
+    <li>noun-&gt;명령서</li>
+    <li>mysticTheme-&gt;금지된 지식</li>
+    <li>mysticTheme-&gt;의식의 비밀</li>
+    <li>mysticTheme-&gt;조각난 영역</li>
+    <li>mysticTheme-&gt;뒤틀린 영혼</li>
+    <li>mysticTheme-&gt;잃어버린 차원</li>
+    <li>mysticTheme-&gt;영원한 침묵</li>
+    <li>mysticTheme-&gt;균열난 이상현상</li>
+    <li>arcaneDescriptor-&gt;장막에 싸인</li>
+    <li>arcaneDescriptor-&gt;금지된</li>
+    <li>arcaneDescriptor-&gt;저주받은</li>
+    <li>arcaneDescriptor-&gt;그림자가 드리운</li>
+    <li>arcaneDescriptor-&gt;수수께끼의</li>
+    <li>arcaneDescriptor-&gt;베일에 싸인</li>
+    <li>arcaneDescriptor-&gt;보이지 않는</li>
+    <li>arcaneDescriptor-&gt;뒤틀린</li>
+    <li>grimoire-&gt;마법서</li>
+    <li>grimoire-&gt;원고</li>
+    <li>grimoire-&gt;개요서</li>
+    <li>grimoire-&gt;본문</li>
+    <li>grimoire-&gt;모음집</li>
+    <li>grimoire-&gt;연대기</li>
+    <li>grimoire-&gt;아카이브</li>
+    <li>anomaly-&gt;균열</li>
+    <li>anomaly-&gt;공허</li>
+    <li>anomaly-&gt;저편</li>
+    <li>anomaly-&gt;이차원 세계</li>
+    <li>anomaly-&gt;잊힌 차원</li>
+    <li>anomaly-&gt;끝없는 혼돈</li>
+    <li>anomaly-&gt;잊힌 황무지</li>
+  </ABooks_AberrantGrimoire_Namer.rulePack.rulesStrings>
+</LanguageData>

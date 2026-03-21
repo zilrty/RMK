@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DrDr.DreamBy>{0}의 꿈</DrDr.DreamBy>
+  <DrDr.ExperiencingDream>{0}(이)가 {1} 꿈을 꾸고 있습니다!</DrDr.ExperiencingDream>
+
+  <DrDr.WalkAround>{0}(이)가 {1} 침대에서 일어나 정처 없이 떠돌기 시작했습니다...</DrDr.WalkAround>
+  <DrDr.Rage>{0}(이)가 {1} 침대에서 일어나 살인적인 분노로 다른 이들을 공격하기 시작했습니다!</DrDr.Rage>
+  <DrDr.Eat>{0}(이)가 {1} 침대에서 일어나 무언가를 먹기 시작했습니다!</DrDr.Eat>
+  <DrDr.Break>{0}(이)가 {1} 침대에서 일어나 {1} 방에 있는 모든 것을 부수기 시작했습니다!</DrDr.Break>
+
+  <DrDr.ModActive>모드 활성화: {0}</DrDr.ModActive>
+  <DrDr.DefaultSettings>기본 설정: {0}</DrDr.DefaultSettings>
+  <DrDr.Reset>설정 초기화</DrDr.Reset>
+  <DrDr.SetNow>지금 적용</DrDr.SetNow>
+
+  <DrDr.SleepwalkingOff>몽유병 기능이 꺼져 있습니다.</DrDr.SleepwalkingOff>
+  <DrDr.SleepwalkingOccasional>드문 몽유병: 1년에 약 {0}회 발생합니다.</DrDr.SleepwalkingOccasional>
+  <DrDr.Sleepwalking>일반 몽유병: 1년에 약 {0}회 발생합니다.</DrDr.Sleepwalking>
+  <DrDr.SleepwalkingUsual>빈번한 몽유병: 1년에 약 {0}회 발생합니다.</DrDr.SleepwalkingUsual>
+
+  <DrDr.Tags>태그</DrDr.Tags>
+  <DrDr.Chance>확률</DrDr.Chance>
+  <DrDr.Notify>알림 여부</DrDr.Notify>
+</LanguageData>

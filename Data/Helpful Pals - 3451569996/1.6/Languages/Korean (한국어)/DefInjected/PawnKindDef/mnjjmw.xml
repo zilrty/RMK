@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HP_Cattiva.label>까부냥</HP_Cattiva.label>
+  <HP_Cattiva.lifeStages.0.label>아기 고양이</HP_Cattiva.lifeStages.0.label>
+
+  <HP_Flambelle.label>라비</HP_Flambelle.label>
+  <HP_Flambelle.lifeStages.0.label>아기</HP_Flambelle.lifeStages.0.label>
+
+  <HP_Gumoss.label>초롱이</HP_Gumoss.label>
+
+  <HP_Caprity.label>베리고트</HP_Caprity.label>
+  <HP_Caprity.lifeStages.0.label>새끼 염소</HP_Caprity.lifeStages.0.label>
+
+  <HP_Lamball.label>도로롱</HP_Lamball.label>
+  <HP_Lamball.lifeStages.0.label>어린 양</HP_Lamball.lifeStages.0.label>
+
+  <HP_Chikipi.label>꼬꼬닭</HP_Chikipi.label>
+  <HP_Chikipi.lifeStages.0.label>병아리</HP_Chikipi.lifeStages.0.label>
+
+  <HP_Mozzarina.label>밀카우</HP_Mozzarina.label>
+  <HP_Mozzarina.lifeStages.0.label>송아지</HP_Mozzarina.lifeStages.0.label>
+  <HP_Mozzarina.lifeStages.0.labelPlural>송아지들</HP_Mozzarina.lifeStages.0.labelPlural>
+
+  <HP_Wumpo.label>움포</HP_Wumpo.label>
+  <HP_WumpoBotan.label>트로피티</HP_WumpoBotan.label>
+
+  <HP_Dazzi.label>썬더 키드</HP_Dazzi.label>
+  <HP_Dazzi.lifeStages.0.label>아기</HP_Dazzi.lifeStages.0.label>
+</LanguageData>

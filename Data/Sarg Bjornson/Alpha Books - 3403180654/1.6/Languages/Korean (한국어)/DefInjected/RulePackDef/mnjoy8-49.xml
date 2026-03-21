@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_SurvivalGuide_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[subject_primary]의 [adjective] [guideType]</li>
+    <li>title-&gt;[subject_primary]: [adjective] [guideType]</li>
+    <li>title-&gt;[subject_primary]에서 살아남기: [guideType]</li>
+    <li>title-&gt;[subject_primary]에서 번창하기 위한 [adjective] 팁</li>
+    <li>adjective-&gt;필수</li>
+    <li>adjective-&gt;궁극의</li>
+    <li>adjective-&gt;포괄적인</li>
+    <li>adjective-&gt;핵심만 담은</li>
+    <li>adjective-&gt;전문가의</li>
+    <li>adjective-&gt;기초적인</li>
+    <li>adjective-&gt;매우 귀중한</li>
+    <li>adjective-&gt;초보자용</li>
+    <li>adjective-&gt;고급</li>
+    <li>adjective-&gt;미니멀리스트를 위한</li>
+    <li>guideType-&gt;생존 가이드</li>
+    <li>guideType-&gt;핸드북</li>
+    <li>guideType-&gt;군사 교범</li>
+    <li>guideType-&gt;지침서</li>
+    <li>guideType-&gt;플레이북</li>
+    <li>guideType-&gt;전술 가이드</li>
+    <li>guideType-&gt;탐험가 매뉴얼</li>
+    <li>guideType-&gt;생존자의 기록</li>
+  </ABooks_SurvivalGuide_Namer.rulePack.rulesStrings>
+</LanguageData>

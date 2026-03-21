@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <mmtmmlht_milkporridge_cook.label>밀크 빵죽 제작(1인분)</mmtmmlht_milkporridge_cook.label>
+  <mmtmmlht_milkporridge_cook.description>밀크 빵죽을 1인분 만듭니다.</mmtmmlht_milkporridge_cook.description>
+  <mmtmmlht_milkporridge_cook.jobString>밀크 빵죽 조리 중</mmtmmlht_milkporridge_cook.jobString>
+
+  <mmtmmlht_milkporridge_cook4.label>밀크 빵죽 제작(4인분)</mmtmmlht_milkporridge_cook4.label>
+  <mmtmmlht_milkporridge_cook4.description>밀크 빵죽을 4인분 만듭니다.</mmtmmlht_milkporridge_cook4.description>
+  <mmtmmlht_milkporridge_cook4.jobString>밀크 빵죽(x4) 조리 중</mmtmmlht_milkporridge_cook4.jobString>
+
+  <mmtmmlht_mlhtpan_cook.label>미루하토 빵 굽기(1인분)</mmtmmlht_mlhtpan_cook.label>
+  <mmtmmlht_mlhtpan_cook.description>미루하토 빵을 1인분 굽습니다.</mmtmmlht_mlhtpan_cook.description>
+  <mmtmmlht_mlhtpan_cook.jobString>미루하토 빵 굽는 중</mmtmmlht_mlhtpan_cook.jobString>
+
+  <mmtmmlht_mlhtpan_cook4.label>미루하토 빵 굽기(4인분)</mmtmmlht_mlhtpan_cook4.label>
+  <mmtmmlht_mlhtpan_cook4.description>미루하토 빵을 4인분 굽습니다.</mmtmmlht_mlhtpan_cook4.description>
+  <mmtmmlht_mlhtpan_cook4.jobString>미루하토 빵(x4) 굽는 중</mmtmmlht_mlhtpan_cook4.jobString>
+
+  <mmtmmlht_buttermilk_cook.label>버터밀크 비스킷 굽기(1인분)</mmtmmlht_buttermilk_cook.label>
+  <mmtmmlht_buttermilk_cook.description>버터밀크 비스킷을 1인분 굽습니다.</mmtmmlht_buttermilk_cook.description>
+  <mmtmmlht_buttermilk_cook.jobString>버터밀크 비스킷 굽는 중</mmtmmlht_buttermilk_cook.jobString>
+
+  <mmtmmlht_buttermilk_cook4.label>버터밀크 비스킷 굽기(4인분)</mmtmmlht_buttermilk_cook4.label>
+  <mmtmmlht_buttermilk_cook4.description>버터밀크 비스킷을 4인분 굽습니다.</mmtmmlht_buttermilk_cook4.description>
+  <mmtmmlht_buttermilk_cook4.jobString>버터밀크 비스킷(x4) 굽는 중</mmtmmlht_buttermilk_cook4.jobString>
+
+  <mmtmmlht_panna_cook.label>판나코타 제작(1개)</mmtmmlht_panna_cook.label>
+  <mmtmmlht_panna_cook.description>판나코타 1개를 만듭니다.</mmtmmlht_panna_cook.description>
+  <mmtmmlht_panna_cook.jobString>판나코타 조리 중</mmtmmlht_panna_cook.jobString>
+
+  <mmtmmlht_panna_cook4.label>판나코타 제작(4개)</mmtmmlht_panna_cook4.label>
+  <mmtmmlht_panna_cook4.description>판나코타 4개를 만듭니다.</mmtmmlht_panna_cook4.description>
+  <mmtmmlht_panna_cook4.jobString>판나코타(x4) 조리 중</mmtmmlht_panna_cook4.jobString>
+
+  <mmtmmlht_cornchowder_cook.label>옥수수 차우더 제작(1그릇)</mmtmmlht_cornchowder_cook.label>
+  <mmtmmlht_cornchowder_cook.description>옥수수 차우더 1그릇을 만듭니다.</mmtmmlht_cornchowder_cook.description>
+  <mmtmmlht_cornchowder_cook.jobString>옥수수 차우더 조리 중</mmtmmlht_cornchowder_cook.jobString>
+
+  <mmtmmlht_cornchowder_cook4.label>옥수수 차우더 제작(4그릇)</mmtmmlht_cornchowder_cook4.label>
+  <mmtmmlht_cornchowder_cook4.description>옥수수 차우더 4그릇을 만듭니다.</mmtmmlht_cornchowder_cook4.description>
+  <mmtmmlht_cornchowder_cook4.jobString>옥수수 차우더(x4) 조리 중</mmtmmlht_cornchowder_cook4.jobString>
+</LanguageData>

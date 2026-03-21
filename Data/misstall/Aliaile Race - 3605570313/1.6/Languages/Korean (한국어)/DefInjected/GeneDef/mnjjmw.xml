@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_Gene_Chevalier.label>슈발리에의 권능</AR_Gene_Chevalier.label>
+  <AR_Gene_Chevalier.labelShortAdj>슈발리에</AR_Gene_Chevalier.labelShortAdj>
+  <AR_Gene_Chevalier.description>이 유전자를 가진 자는 메카노이드나 아군을 강화하는 초능력을 사용할 수 있게 됩니다.</AR_Gene_Chevalier.description>
+
+  <AR_Gene_Troubadour.label>트루바두르의 권능</AR_Gene_Troubadour.label>
+  <AR_Gene_Troubadour.labelShortAdj>트루바두르</AR_Gene_Troubadour.labelShortAdj>
+  <AR_Gene_Troubadour.description>이 유전자를 가진 자는 정신 붕괴를 진정시키거나 기분을 돌보는 초능력을 사용할 수 있게 됩니다.</AR_Gene_Troubadour.description>
+
+  <AR_Gene_Noblesser.label>노블레스의 권능</AR_Gene_Noblesser.label>
+  <AR_Gene_Noblesser.labelShortAdj>노블레스</AR_Gene_Noblesser.labelShortAdj>
+  <AR_Gene_Noblesser.description>이 유전자를 가진 자는 피아 구분 없이 정신 감응력을 향상시키거나, 타인을 약화시키는 초능력을 사용할 수 있게 됩니다.</AR_Gene_Noblesser.description>
+
+  <AR_Gene_Sage.label>세이지의 권능</AR_Gene_Sage.label>
+  <AR_Gene_Sage.labelShortAdj>세이지</AR_Gene_Sage.labelShortAdj>
+  <AR_Gene_Sage.description>이 유전자를 가진 자는 부상 회복 및 면역 획득 속도를 높이거나, 타인을 잠재우는 초능력을 사용할 수 있게 됩니다.</AR_Gene_Sage.description>
+
+  <PsychicAbility_Tottemo.label>과잉된 정신 감응</PsychicAbility_Tottemo.label>
+  <PsychicAbility_Tottemo.labelShortAdj>지나치게 민감한 정신</PsychicAbility_Tottemo.labelShortAdj>
+  <PsychicAbility_Tottemo.description>이 유전자를 가진 자는 매우 뛰어난 정신 감응력을 보이지만, 너무 높은 감응으로 인해 현실감을 잃고 의식이 흐릿해집니다.</PsychicAbility_Tottemo.description>
+
+  <AR_WeakMeleeSpeed.label>느린 근접 공격</AR_WeakMeleeSpeed.label>
+  <AR_WeakMeleeSpeed.labelShortAdj>느린 근접</AR_WeakMeleeSpeed.labelShortAdj>
+  <AR_WeakMeleeSpeed.description>이 유전자를 가진 자는 무기를 빠르게 휘두르는 것에 서툽니다.</AR_WeakMeleeSpeed.description>
+
+  <AR_StrongMeleeSpeed.label>빠른 근접 공격</AR_StrongMeleeSpeed.label>
+  <AR_StrongMeleeSpeed.labelShortAdj>빠른 근접</AR_StrongMeleeSpeed.labelShortAdj>
+  <AR_StrongMeleeSpeed.description>이 유전자를 가진 자는 근접 전투 시 무기를 더 빠르게 휘두를 수 있습니다.</AR_StrongMeleeSpeed.description>
+
+  <AR_WeakShootingSpeed.label>느린 사격</AR_WeakShootingSpeed.label>
+  <AR_WeakShootingSpeed.labelShortAdj>느린 사격</AR_WeakShootingSpeed.labelShortAdj>
+  <AR_WeakShootingSpeed.description>이 유전자를 가진 자는 조준하거나, 사격 후 다시 사격 자세를 잡는 것에 서툽니다.</AR_WeakShootingSpeed.description>
+
+  <AR_StrongShootingSpeed.label>빠른 사격</AR_StrongShootingSpeed.label>
+  <AR_StrongShootingSpeed.labelShortAdj>빠른 사격</AR_StrongShootingSpeed.labelShortAdj>
+  <AR_StrongShootingSpeed.description>이 유전자를 가진 자는 빠르게 조준하여 사격하고, 다음 사격에 신속하게 대비할 수 있습니다.</AR_StrongShootingSpeed.description>
+
+  <AR_WeakWorkingSpeed.label>낮은 노동 의욕</AR_WeakWorkingSpeed.label>
+  <AR_WeakWorkingSpeed.labelShortAdj>월급루팡</AR_WeakWorkingSpeed.labelShortAdj>
+  <AR_WeakWorkingSpeed.description>이 유전자를 가진 자는 일반적인 노동 행위에 집중하지 못하며, 이로 인해 작업 속도가 매우 느립니다.</AR_WeakWorkingSpeed.description>
+
+  <AR_StrongWorkingSpeed.label>높은 노동 의욕</AR_StrongWorkingSpeed.label>
+  <AR_StrongWorkingSpeed.labelShortAdj>성실한 일꾼</AR_StrongWorkingSpeed.labelShortAdj>
+  <AR_StrongWorkingSpeed.description>이 유전자를 가진 자는 높은 노동 의식과 집중력을 갖추어 기본적인 작업을 빠르게 수행할 수 있습니다.</AR_StrongWorkingSpeed.description>
+
+  <AR_Gene_Base_A.label>알리아일</AR_Gene_Base_A.label>
+  <AR_Gene_Base_A.labelShortAdj>알리아일</AR_Gene_Base_A.labelShortAdj>
+  <AR_Gene_Base_A.description>알리아일은 학습 속도는 느리지만, 한번 익힌 지식이나 기술을 잘 잊어버리지 않습니다. 또한 많은 양의 수면과 오락을 필요로 합니다.</AR_Gene_Base_A.description>
+
+  <AR_Gene_Base_B.label>디미아일</AR_Gene_Base_B.label>
+  <AR_Gene_Base_B.labelShortAdj>디미아일</AR_Gene_Base_B.labelShortAdj>
+  <AR_Gene_Base_B.description>디미아일은 학습 속도가 다소 느리지만, 한번 익힌 지식이나 기술을 잘 잊어버리지 않습니다. 또한 다소 많은 양의 오락을 필요로 합니다.</AR_Gene_Base_B.description>
+</LanguageData>

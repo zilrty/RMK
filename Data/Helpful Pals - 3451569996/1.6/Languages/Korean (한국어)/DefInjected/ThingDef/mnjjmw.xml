@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HP_Cattiva.label>까부냥</HP_Cattiva.label>
+  <HP_Cattiva.description>언뜻 보기에는 자신만만해 보이지만, 사실은 매우 나약하고 겁이 많습니다. 까부냥에게 농락당하는 것은 여러 의미로 가장 큰 수치 중 하나입니다.</HP_Cattiva.description>
+  <HP_Cattiva.tools.0.label>왼쪽 발톱</HP_Cattiva.tools.0.label>
+  <HP_Cattiva.tools.1.label>오른쪽 발톱</HP_Cattiva.tools.1.label>
+  <HP_Cattiva.tools.3.label>머리</HP_Cattiva.tools.3.label>
+
+  <HP_Flambelle.label>라비</HP_Flambelle.label>
+  <HP_Flambelle.description>울기 시작하면 눈물 대신 마그마를 쏟아내는 팰입니다. 쏟아져 나온 마그마는 다시 몸으로 흡수되어 체온을 계속해서 높입니다. 많이 울수록 더욱 강력해집니다.</HP_Flambelle.description>
+  <HP_Flambelle.tools.0.label>머리</HP_Flambelle.tools.0.label>
+
+  <HP_Gumoss.label>초롱이</HP_Gumoss.label>
+  <HP_Gumoss.description>수액과 닮은 몸을 가진 기묘한 팰입니다. 몸을 덮을 무언가가 없으면 점차 기력을 잃으며, 결국 썩어버리고 맙니다.</HP_Gumoss.description>
+  <HP_Gumoss.tools.0.label>머리</HP_Gumoss.tools.0.label>
+
+  <HP_Caprity.label>베리고트</HP_Caprity.label>
+  <HP_Caprity.description>등에 난 관목은 먹이를 제대로 먹는 한 계속해서 열매를 맺습니다. 베리고트는 이 열매를 마음에 둔 짝에게 선물하며, 열매의 맛이 짝의 취향에 맞는다면 사랑이 싹트게 됩니다.</HP_Caprity.description>
+  <HP_Caprity.tools.0.label>머리</HP_Caprity.tools.0.label>
+  <HP_Caprity.tools.1.label>뿔</HP_Caprity.tools.1.label>
+  <HP_Caprity.tools.2.label>왼쪽 발굽</HP_Caprity.tools.2.label>
+  <HP_Caprity.tools.3.label>오른쪽 발굽</HP_Caprity.tools.3.label>
+
+  <HP_Lamball.label>도로롱</HP_Lamball.label>
+  <HP_Lamball.description>언덕을 오르다 보면 결국 굴러떨어지는 일이 잦습니다. 이때 어지러움을 느껴 움직이지 못하게 되는데, 이는 포획하거나 도축하기 매우 쉬운 상태가 됩니다. 그 결과, 도로롱은 먹이사슬의 가장 밑바닥까지 굴러떨어지고 말았습니다.</HP_Lamball.description>
+  <HP_Lamball.tools.0.label>왼쪽 주먹</HP_Lamball.tools.0.label>
+  <HP_Lamball.tools.1.label>오른쪽 주먹</HP_Lamball.tools.1.label>
+  <HP_Lamball.tools.3.label>머리</HP_Lamball.tools.3.label>
+
+  <HP_Chikipi.label>꼬꼬닭</HP_Chikipi.label>
+  <HP_Chikipi.description>극도로 약하며 너무나 맛있습니다. 도로롱과 함께 가장 약한 팰 중 하나로 꼽힙니다. 아무리 많이 사냥해도 계속해서 나타납니다.</HP_Chikipi.description>
+  <HP_Chikipi.tools.0.label>발톱</HP_Chikipi.tools.0.label>
+  <HP_Chikipi.tools.1.label>부리</HP_Chikipi.tools.1.label>
+  <HP_Chikipi.tools.2.label>머리</HP_Chikipi.tools.2.label>
+
+  <HP_Mozzarina.label>밀카우</HP_Mozzarina.label>
+  <HP_Mozzarina.description>성별에 관계없이 수도꼭지를 틀어놓은 듯 우유가 쏟아져 나옵니다. 진정한 생명의 신비이지만, 어떤 비밀은 파헤치지 않고 그대로 두는 편이 더 나을지도 모릅니다.</HP_Mozzarina.description>
+  <HP_Mozzarina.tools.0.label>머리</HP_Mozzarina.tools.0.label>
+  <HP_Mozzarina.tools.1.label>뿔</HP_Mozzarina.tools.1.label>
+  <HP_Mozzarina.tools.2.label>왼쪽 발굽</HP_Mozzarina.tools.2.label>
+  <HP_Mozzarina.tools.3.label>오른쪽 발굽</HP_Mozzarina.tools.3.label>
+
+  <HP_Wumpo.label>움포</HP_Wumpo.label>
+  <HP_Wumpo.description>연구자들이 본모습을 밝혀내기 위해 털을 밀어보려 한 적이 있습니다. 하지만 결국 털뭉치만 남았으며, 마치 처음부터 털뿐이었던 것처럼 아무것도 남지 않았습니다.</HP_Wumpo.description>
+  <HP_Wumpo.tools.0.label>머리</HP_Wumpo.tools.0.label>
+  <HP_Wumpo.tools.1.label>왼쪽 발톱</HP_Wumpo.tools.1.label>
+  <HP_Wumpo.tools.2.label>오른쪽 발톱</HP_Wumpo.tools.2.label>
+
+  <HP_WumpoBotan.label>트로피티</HP_WumpoBotan.label>
+  <HP_WumpoBotan.description>연구자들이 본모습을 밝혀내기 위해 몸의 풀을 베어내려 한 적이 있습니다. 하지만 결국 풀더미만 남았으며, 마치 처음부터 풀뿐이었던 것처럼 아무것도 남지 않았습니다.</HP_WumpoBotan.description>
+  <HP_WumpoBotan.tools.0.label>머리</HP_WumpoBotan.tools.0.label>
+  <HP_WumpoBotan.tools.1.label>왼쪽 발톱</HP_WumpoBotan.tools.1.label>
+  <HP_WumpoBotan.tools.2.label>오른쪽 발톱</HP_WumpoBotan.tools.2.label>
+
+  <HP_Dazzi.label>썬더 키드</HP_Dazzi.label>
+  <HP_Dazzi.description>외로운 팰들에게 친절을 베풀곤 합니다. 하지만 상대가 이를 진정한 우정으로 착각하는 순간, 그 틈을 놓치지 않고 벼락을 내리꽂습니다.</HP_Dazzi.description>
+  <HP_Dazzi.tools.0.label>머리</HP_Dazzi.tools.0.label>
+
+  <HP_WoolLamball.label>도로롱의 양털</HP_WoolLamball.label>
+  <HP_WoolLamball.description>도로롱에게서 얻은 양털입니다. 부드러워 천을 만드는 데 아주 좋습니다.</HP_WoolLamball.description>
+
+  <HP_ChikipiEggUnfertilized.label>꼬꼬닭의 알 (무정란)</HP_ChikipiEggUnfertilized.label>
+  <HP_ChikipiEggUnfertilized.description>수정되지 않은 꼬꼬닭의 알입니다. 잠깐, 어라...?</HP_ChikipiEggUnfertilized.description>
+
+  <HP_ChikipiEgg.label>꼬꼬닭의 알 (유정란)</HP_ChikipiEgg.label>
+  <HP_ChikipiEgg.description>수정된 꼬꼬닭의 알입니다. 왜 이건 모양이 다르죠...?</HP_ChikipiEgg.description>
+
+  <HP_CattivaEgg.label>까부냥의 알 (유정란)</HP_CattivaEgg.label>
+  <HP_CattivaEgg.description>수정된 까부냥의 알입니다. 순조롭게 진행된다면 아기 까부냥이 부화할 것입니다.</HP_CattivaEgg.description>
+
+  <HP_LamballEgg.label>도로롱의 알 (유정란)</HP_LamballEgg.label>
+  <HP_LamballEgg.description>수정된 도로롱의 알입니다. 순조롭게 진행된다면 아기 도로롱이 부화할 것입니다.</HP_LamballEgg.description>
+
+  <HP_GumossEgg.label>초롱이의 알 (유정란)</HP_GumossEgg.label>
+  <HP_GumossEgg.description>수정된 초롱이의 알입니다. 순조롭게 진행된다면 아기 초롱이가 부화할 것입니다.</HP_GumossEgg.description>
+
+  <HP_CaprityEgg.label>베리고트의 알 (유정란)</HP_CaprityEgg.label>
+  <HP_CaprityEgg.description>수정된 베리고트의 알입니다. 순조롭게 진행된다면 아기 베리고트가 부화할 것입니다.</HP_CaprityEgg.description>
+
+  <HP_FlambelleEgg.label>라비의 알 (유정란)</HP_FlambelleEgg.label>
+<HP_FlambelleEgg.description>수정된 라비의 알입니다. 순조롭게 진행된다면 아기 불꽃밤비가 부화할 것입니다.</HP_FlambelleEgg.description>
+
+  <HP_MozzarinaEgg.label>밀카우의 알 (유정란)</HP_MozzarinaEgg.label>
+  <HP_MozzarinaEgg.description>수정된 밀카우의 알입니다. 순조롭게 진행된다면 아기 밀카우가 부화할 것입니다.</HP_MozzarinaEgg.description>
+
+  <HP_WumpoEgg.label>움포의 알 (유정란)</HP_WumpoEgg.label>
+  <HP_WumpoEgg.description>수정된 둥실해치의 알입니다. 순조롭게 진행된다면 아기 둥실해치가 부화할 것입니다.</HP_WumpoEgg.description>
+
+  <HP_WumpoBotanEgg.label>트로피티의 알 (유정란)</HP_WumpoBotanEgg.label>
+  <HP_WumpoBotanEgg.description>수정된 초록해치의 알입니다. 순조롭게 진행된다면 아기 초록해치가 부화할 것입니다.</HP_WumpoBotanEgg.description>
+
+  <HP_DazziEgg.label>썬더 키드의 알 (유정란)</HP_DazziEgg.label>
+  <HP_DazziEgg.description>수정된 썬더 키드의 알입니다. 순조롭게 진행된다면 아기 썬더키드가 부화할 것입니다.</HP_DazziEgg.description>
+</LanguageData>

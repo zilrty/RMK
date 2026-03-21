@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ABooks_SelfHelpBookThought.stages.0.label>끔찍한 자기계발서</ABooks_SelfHelpBookThought.stages.0.label>
+  <ABooks_SelfHelpBookThought.stages.0.description>대체 이게 무슨 책이야? 말도 안 되는 소리뿐이네.</ABooks_SelfHelpBookThought.stages.0.description>
+  <ABooks_SelfHelpBookThought.stages.1.label>빈약한 자기계발서</ABooks_SelfHelpBookThought.stages.1.label>
+  <ABooks_SelfHelpBookThought.stages.1.description>음, 기대 이한데. 별로 도움이 될 것 같지 않아.</ABooks_SelfHelpBookThought.stages.1.description>
+  <ABooks_SelfHelpBookThought.stages.2.label>평범한 자기계발서</ABooks_SelfHelpBookThought.stages.2.label>
+  <ABooks_SelfHelpBookThought.stages.2.description>나름 유용한 팁들이 들어있는 책이었어.</ABooks_SelfHelpBookThought.stages.2.description>
+  <ABooks_SelfHelpBookThought.stages.3.label>상급 자기계발서</ABooks_SelfHelpBookThought.stages.3.label>
+  <ABooks_SelfHelpBookThought.stages.3.description>좋은 조언들이 꽤 있네. 나한테 진짜 도움이 될 것 같아.</ABooks_SelfHelpBookThought.stages.3.description>
+  <ABooks_SelfHelpBookThought.stages.4.label>완벽한 자기계발서</ABooks_SelfHelpBookThought.stages.4.label>
+  <ABooks_SelfHelpBookThought.stages.4.description>정말 통찰력 있는 내용이었어. 이제 삶을 바라보는 눈이 좀 달라진 기분이야.</ABooks_SelfHelpBookThought.stages.4.description>
+  <ABooks_SelfHelpBookThought.stages.5.label>걸작 자기계발서</ABooks_SelfHelpBookThought.stages.5.label>
+  <ABooks_SelfHelpBookThought.stages.5.description>세상의 비밀을 깨달은 기분이야. 이 책이 내 삶을 완전히 바꿔놨어!</ABooks_SelfHelpBookThought.stages.5.description>
+  <ABooks_SelfHelpBookThought.stages.6.label>전설적 자기계발서</ABooks_SelfHelpBookThought.stages.6.label>
+  <ABooks_SelfHelpBookThought.stages.6.description>이 책 덕분에 내 인생이 바뀌었어. 이제 모든 게 명확하게 보여!</ABooks_SelfHelpBookThought.stages.6.description>
+  <ABooks_BookOfPortentsThought.stages.0.label>끔찍한 전조의 서</ABooks_BookOfPortentsThought.stages.0.label>
+  <ABooks_BookOfPortentsThought.stages.0.description>이런 말도 안 되는 소리를 누가 믿어? 그냥 어쩌다 한 번 들어맞은 거겠지.</ABooks_BookOfPortentsThought.stages.0.description>
+  <ABooks_BookOfPortentsThought.stages.1.label>빈약한 전조의 서</ABooks_BookOfPortentsThought.stages.1.label>
+  <ABooks_BookOfPortentsThought.stages.1.description>순전히 우연이야. 점성술 같은 게 진짜일 리가 없잖아.</ABooks_BookOfPortentsThought.stages.1.description>
+  <ABooks_BookOfPortentsThought.stages.2.label>평범한 전조의 서</ABooks_BookOfPortentsThought.stages.2.label>
+  <ABooks_BookOfPortentsThought.stages.2.description>점성술 같은 거 딱히 안 믿긴 하는데, 읽어볼 만은 했어.</ABooks_BookOfPortentsThought.stages.2.description>
+  <ABooks_BookOfPortentsThought.stages.3.label>상급 전조의 서</ABooks_BookOfPortentsThought.stages.3.label>
+  <ABooks_BookOfPortentsThought.stages.3.description>점성술은 안 믿지만, 이 책엔 분명히 뭔가 범상치 않은 초월공학 장치가 숨겨져 있는 게 틀림없어.</ABooks_BookOfPortentsThought.stages.3.description>
+  <ABooks_BookOfPortentsThought.stages.4.label>완벽한 전조의 서</ABooks_BookOfPortentsThought.stages.4.label>
+  <ABooks_BookOfPortentsThought.stages.4.description>점성술이 가짜라는 건 다 알지. 근데 초월공학의 장난질은 진짜 있는 것 같아!</ABooks_BookOfPortentsThought.stages.4.description>
+  <ABooks_BookOfPortentsThought.stages.5.label>걸작 전조의 서</ABooks_BookOfPortentsThought.stages.5.label>
+  <ABooks_BookOfPortentsThought.stages.5.description>초월공학이 개입하니까 그냥 공상인 줄 알았던 게 진짜 현실이 되어버렸어!</ABooks_BookOfPortentsThought.stages.5.description>
+  <ABooks_BookOfPortentsThought.stages.6.label>전설적 전조의 서</ABooks_BookOfPortentsThought.stages.6.label>
+  <ABooks_BookOfPortentsThought.stages.6.description>인간의 논리로는 도저히 설명할 수 없는 초월공학의 기적이 숨어 있었어. 그게 지금 우리 눈앞에서 일어난 거야!</ABooks_BookOfPortentsThought.stages.6.description>
+  <ABooks_RaidedLibrary.stages.0.label>도서관을 습격함</ABooks_RaidedLibrary.stages.0.label>
+  <ABooks_RaidedLibrary.stages.0.description>모험은 역시 짜릿해.</ABooks_RaidedLibrary.stages.0.description>
+  <ABooks_ReligiousBookThought.stages.0.label>이단적인 생각</ABooks_ReligiousBookThought.stages.0.label>
+  <ABooks_ReligiousBookThought.stages.0.description>내가 믿는 모든 것과 정반대네. 읽을수록 기분 나쁘고 내 신념을 모욕하는 것 같아 불쾌해.</ABooks_ReligiousBookThought.stages.0.description>
+  <ABooks_ReligiousBookThought.stages.1.label>고귀한 가르침</ABooks_ReligiousBookThought.stages.1.label>
+  <ABooks_ReligiousBookThought.stages.1.description>역시 내 생각이 맞았어. 삶의 목적이 뚜렷해지는 기분이고, 정신적으로 더 단단해진 느낌이야.</ABooks_ReligiousBookThought.stages.1.description>
+</LanguageData>

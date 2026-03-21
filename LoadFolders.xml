@@ -63,6 +63,7 @@
     <li IfModActive="Valeries.miliraexpansion">Data/Ancot/Milira/瓦莱丽的米莉拉扩展包 - 3422615030</li>
     <li IfModActive="Aquin.BetterMiliraFallenAngel">Data/Ancot/Milira/BetterMiliraFallenAngel - 3582287125/1.6</li>
     <li IfModActive="rabiosus.funnelmilian">Data/Ancot/Milira/Milira Addon Fianchetto Variation - 3621922658/1.6</li>
+    <li IfModActive="HeChuanRiver.MiliraXian.NeiyuLaw">Data/Ancot/Milira/Milira Character Expansion - 3684504594/1.6</li>
     <li IfModActive="Pakerwot.MiliraEventandStortExpandTheTaleofMilira">Data/Ancot/Milira/Milira Event Story Expand The Tale of Milira - 3477405110</li>
     <li IfModActive="Ancot.MiliraRace">Data/Ancot/Milira/Milira Race - 3256974620/1.5</li>
     <li IfModActive="Ancot.MiliraRaceGenePatch">Data/Ancot/Milira/Milira Race Gene Patch - 3257000248</li>
@@ -113,6 +114,7 @@
     <li IfModActive="Aoba.DeadManSwitch.Core">Data/AOBA/DMS/The Dead Man's Switch - 3121742525/1.5</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
+    <li IfModActive="Riko.ControlSpine">Data/AOBA/DMS/The Dead Man's Switch - Control Spine - 3431511558/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
@@ -463,6 +465,7 @@
     <li IfModActive="Metalocif.GenelineVampire">Data/Metalocif/Meta's Genelines - Vampires - 3553355702</li>
     <li IfModActive="metalocif.morecreeps">Data/Metalocif/More Creepjoiners - 3434682604/1.5</li>
     <li IfModActive="metalocif.moreuniquetraits">Data/Metalocif/More Unique Traits - 3536778499/1.6</li>
+    <li IfModActive="misstalls.AliaileRace">Data/misstall/Aliaile Race - 3605570313/1.6</li>
     <li IfModActive="misstall.vgrenadelaunchergddedtoassaultriflez">Data/misstall/Grenade Launcher Added to Assault Rifle - 3243977991</li>
     <li IfModActive="misstall.nisstallsoutfitszzz">Data/misstall/Misstall's Armor and Uniforms - 3333852502</li>
     <li IfModActive="misstall.nisstallsarmoryz">Data/misstall/Misstall's Armory - 3250588215</li>
@@ -531,6 +534,7 @@
     <li IfModActive="mlie.dieforme">Data/Mlie/Die for me (Continued) - 2403695576</li>
     <li IfModActive="mlie.dismisstrader">Data/Mlie/Dismiss Trader (Continued) - 2078518511</li>
     <li IfModActive="Mlie.DisplayCases">Data/Mlie/Display Cases (Continued) - 2086054868</li>
+    <li IfModActive="Mlie.DreamersDreams">Data/Mlie/Dreamer's Dreams (Continued) - 3584984139/1.6</li>
     <li IfModActive="mlie.drugsplus">Data/Mlie/Drugs+ (Continued) - 2018224594</li>
     <li IfModActive="Mlie.EasyUpgrades">Data/Mlie/Easy Upgrades (Continued) - 2904429048</li>
     <li IfModActive="Mlie.EDLaserDrill">Data/Mlie/ED-Laser-Drill (Continued) - 2570228927</li>
@@ -676,6 +680,8 @@
     <li IfModActive="XMB.Giantimperialcannonturret.MO">Data/mo/Giant imperial turret - 3406932075</li>
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
+    <li IfModActive="MortStrudel.MortIdeologySpecWork">Data/Mort Strudel/Menagerist - Mort's Ideologies Memes and Precepts - 3514363516/1.6</li>
+    <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -903,6 +909,7 @@
     <li IfModActive="sarg.alphaarmoury">Data/Sarg Bjornson/Alpha Armoury - 3622294464/1.6</li>
     <li IfModActive="sarg.rimbees">Data/Sarg Bjornson/Alpha Bees - 1558161673</li>
     <li IfModActive="sarg.alphabiomes">Data/Sarg Bjornson/Alpha Biomes - 1841354677</li>
+    <li IfModActive="sarg.alphabooks">Data/Sarg Bjornson/Alpha Books - 3403180654/1.6</li>
     <li IfModActive="sarg.alphacrafts">Data/Sarg Bjornson/Alpha Crafts - 3382446150</li>
     <li IfModActive="sarg.alphagenes">Data/Sarg Bjornson/Alpha Genes - 2891845502/1.4</li>
     <li IfModActive="sarg.alphagenesvfei">Data/Sarg Bjornson/Alpha Genes - Insectoid Mutations - 2906193379</li>
@@ -1839,6 +1846,7 @@
     <li IfModActive="Baskerville.HellsingARMSUltimate">Data/Hellsing ARMS Ultimate - 2834801420</li>
     <li IfModActive="Lusty.HelltakerGenes">Data/Helltaker Cosmetic Genes - 2955062315</li>
     <li IfModActive="Saruman.HelltakerXenotypes">Data/Helltaker Xenotypes - 3395078682</li>
+    <li IfModActive="hamtastic.palworld">Data/Helpful Pals - 3451569996/1.6</li>
     <li IfModActive="bando.heyrathehorned">Data/Heyra the Horned - 2689852146</li>
     <li IfModActive="Foxed.HeyraTheHorned">Data/Heyra the Horned (Revived) - 3679943662/1.6</li>
     <li IfModActive="WhiteLight.HiddenEnemyBio">Data/Hidden Enemy Bio (Continued) - 1.6 temp - 3530295561/1.6</li>
@@ -2049,6 +2057,7 @@
     <li IfModActive="elf.miscrobots.worktab.support">Data/MiscRobots WorkTab support - 2271338001</li>
     <li IfModActive="nerdwonder.mixedblock">Data/Mixed Stone Blocks - 2076686656</li>
     <li IfModActive="dragon.MMDrumcan.MOD">Data/MMDrumcanMOD - 2100895553</li>
+    <li IfModActive="mmtm.mlht">Data/MMTM Pet Milhato - 3610207002/1.6</li>
     <li IfModActive="SC.modernbed">Data/Modern Bed - 2430249387</li>
     <li IfModActive="Bapador.ModestTrait">Data/Modest Trait - 3358291723/1.6</li>
     <li IfModActive="rwnodetree.modularizationvanillaweapon">Data/Modularization Vanilla Weapon - 2890560539</li>
@@ -2072,6 +2081,7 @@
     <li IfModActive="balexh.moreHexFloors">Data/More Hex Floors - 3365474107</li>
     <li IfModActive="Th3Fr3d.ExtendedInjuries">Data/More Injuries (Continued) - 3348840185</li>
     <li IfModActive="relaxedotter.moreinspirationtypes">Data/More Inspiration Types - 2019094541</li>
+    <li IfModActive="ADLTPG.morelikeapet">Data/More Like a Pet - 3621380595/1.6</li>
     <li IfModActive="4loris4.morelinkables">Data/More Linkables - 1103809207</li>
     <li IfModActive="Nalzurin.MoreMechanitorMechs20">Data/More Mechanitor Mechs 2.0 - 3296057117</li>
     <li IfModActive="Techmago.MoreMedications">Data/More Medications - Reborn - 1601812699</li>
@@ -2330,6 +2340,7 @@
     <li IfModActive="iluvsilicon.grodanrace">Data/RimRaces - Grodan Race - 2730190637</li>
     <li IfModActive="iluvsilicon.xotanrace">Data/RimRaces - Xotan Race - 2735884031</li>
     <li IfModActive="Maze.RimRecruit">Data/RimRecruit - 3571922261</li>
+    <li IfModActive="reo.RimScent">Data/RimScent - 3645569466/1.6</li>
     <li IfModActive="shakesthespeare.RimsecSecurity">Data/Rimsec Security - 2323762086</li>
     <li IfModActive="Bonible.rimsenalfactions">Data/Rimsenal Factions (Continued) - 3530301107</li>
     <li IfModActive="SomewhereOutInSpace.Spaceports">Data/Rimsential - Spaceports - 2663999215</li>
@@ -2466,6 +2477,7 @@
     <li IfModActive="Trickity.Samurai.Faction">Data/T's Samurai Faction - 2559958496</li>
     <li IfModActive="Trickity.Seal.Spirits">Data/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
+    <li IfModActive="RoltonsMods.FultonExtraction">Data/Tactical Fulton Extraction System - 3687327231/1.6</li>
     <li IfModActive="kikohi.TamingArtifact">Data/Taming Artifact - 1769917767</li>
     <li IfModActive="tremeloe.tankbeds">Data/Tank Bed - 2020858426</li>
     <li IfModActive="al9000.medievaleuropeanarmors">Data/Tastier Armory - Medieval European Armors - 3029073711</li>
@@ -2481,7 +2493,6 @@
     <li IfModActive="blackmarket420.taofc">Data/The Army Of Fetid Corpses - 3046752480</li>
     <li IfModActive="conit.thebirdsandthebees">Data/The Birds and the Bees - 2821429175</li>
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
-    <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="The.Gods.Are.Angry">Data/The Gods Are Angry - 3028895348</li>
     <li IfModActive="Create.AncientCelestial">Data/The Heaven Forged Celestial - 3122537632</li>
     <li IfModActive="Spencer7w.TheInquisition">Data/The Inquisition (Warhammer 40k) Unofficial 1.4 - 2887115091</li>
@@ -2685,6 +2696,7 @@
     <li IfModActive="Valeries.miliraexpansion">Data/Ancot/Milira/瓦莱丽的米莉拉扩展包 - 3422615030</li>
     <li IfModActive="Aquin.BetterMiliraFallenAngel">Data/Ancot/Milira/BetterMiliraFallenAngel - 3582287125/1.6</li>
     <li IfModActive="rabiosus.funnelmilian">Data/Ancot/Milira/Milira Addon Fianchetto Variation - 3621922658/1.6</li>
+    <li IfModActive="HeChuanRiver.MiliraXian.NeiyuLaw">Data/Ancot/Milira/Milira Character Expansion - 3684504594/1.6</li>
     <li IfModActive="Pakerwot.MiliraEventandStortExpandTheTaleofMilira">Data/Ancot/Milira/Milira Event Story Expand The Tale of Milira - 3477405110</li>
     <li IfModActive="Ancot.MiliraRace">Data/Ancot/Milira/Milira Race - 3256974620/1.5</li>
     <li IfModActive="Ancot.MiliraRaceGenePatch">Data/Ancot/Milira/Milira Race Gene Patch - 3257000248</li>
@@ -2735,6 +2747,7 @@
     <li IfModActive="Aoba.DeadManSwitch.Core">Data/AOBA/DMS/The Dead Man's Switch - 3121742525/1.5</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
+    <li IfModActive="Riko.ControlSpine">Data/AOBA/DMS/The Dead Man's Switch - Control Spine - 3431511558/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
@@ -3085,6 +3098,7 @@
     <li IfModActive="Metalocif.GenelineVampire">Data/Metalocif/Meta's Genelines - Vampires - 3553355702</li>
     <li IfModActive="metalocif.morecreeps">Data/Metalocif/More Creepjoiners - 3434682604/1.5</li>
     <li IfModActive="metalocif.moreuniquetraits">Data/Metalocif/More Unique Traits - 3536778499/1.6</li>
+    <li IfModActive="misstalls.AliaileRace">Data/misstall/Aliaile Race - 3605570313/1.6</li>
     <li IfModActive="misstall.vgrenadelaunchergddedtoassaultriflez">Data/misstall/Grenade Launcher Added to Assault Rifle - 3243977991</li>
     <li IfModActive="misstall.nisstallsoutfitszzz">Data/misstall/Misstall's Armor and Uniforms - 3333852502</li>
     <li IfModActive="misstall.nisstallsarmoryz">Data/misstall/Misstall's Armory - 3250588215</li>
@@ -3153,6 +3167,7 @@
     <li IfModActive="mlie.dieforme">Data/Mlie/Die for me (Continued) - 2403695576</li>
     <li IfModActive="mlie.dismisstrader">Data/Mlie/Dismiss Trader (Continued) - 2078518511</li>
     <li IfModActive="Mlie.DisplayCases">Data/Mlie/Display Cases (Continued) - 2086054868</li>
+    <li IfModActive="Mlie.DreamersDreams">Data/Mlie/Dreamer's Dreams (Continued) - 3584984139/1.6</li>
     <li IfModActive="mlie.drugsplus">Data/Mlie/Drugs+ (Continued) - 2018224594</li>
     <li IfModActive="Mlie.EasyUpgrades">Data/Mlie/Easy Upgrades (Continued) - 2904429048</li>
     <li IfModActive="Mlie.EDLaserDrill">Data/Mlie/ED-Laser-Drill (Continued) - 2570228927</li>
@@ -3298,6 +3313,8 @@
     <li IfModActive="XMB.Giantimperialcannonturret.MO">Data/mo/Giant imperial turret - 3406932075</li>
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
+    <li IfModActive="MortStrudel.MortIdeologySpecWork">Data/Mort Strudel/Menagerist - Mort's Ideologies Memes and Precepts - 3514363516/1.6</li>
+    <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -3525,6 +3542,7 @@
     <li IfModActive="sarg.alphaarmoury">Data/Sarg Bjornson/Alpha Armoury - 3622294464/1.6</li>
     <li IfModActive="sarg.rimbees">Data/Sarg Bjornson/Alpha Bees - 1558161673</li>
     <li IfModActive="sarg.alphabiomes">Data/Sarg Bjornson/Alpha Biomes - 1841354677</li>
+    <li IfModActive="sarg.alphabooks">Data/Sarg Bjornson/Alpha Books - 3403180654/1.6</li>
     <li IfModActive="sarg.alphacrafts">Data/Sarg Bjornson/Alpha Crafts - 3382446150</li>
     <li IfModActive="sarg.alphagenes">Data/Sarg Bjornson/Alpha Genes - 2891845502/1.4</li>
     <li IfModActive="sarg.alphagenesvfei">Data/Sarg Bjornson/Alpha Genes - Insectoid Mutations - 2906193379</li>
@@ -4461,6 +4479,7 @@
     <li IfModActive="Baskerville.HellsingARMSUltimate">Data/Hellsing ARMS Ultimate - 2834801420</li>
     <li IfModActive="Lusty.HelltakerGenes">Data/Helltaker Cosmetic Genes - 2955062315</li>
     <li IfModActive="Saruman.HelltakerXenotypes">Data/Helltaker Xenotypes - 3395078682</li>
+    <li IfModActive="hamtastic.palworld">Data/Helpful Pals - 3451569996/1.6</li>
     <li IfModActive="bando.heyrathehorned">Data/Heyra the Horned - 2689852146</li>
     <li IfModActive="Foxed.HeyraTheHorned">Data/Heyra the Horned (Revived) - 3679943662/1.6</li>
     <li IfModActive="WhiteLight.HiddenEnemyBio">Data/Hidden Enemy Bio (Continued) - 1.6 temp - 3530295561/1.6</li>
@@ -4670,6 +4689,7 @@
     <li IfModActive="elf.miscrobots.worktab.support">Data/MiscRobots WorkTab support - 2271338001</li>
     <li IfModActive="nerdwonder.mixedblock">Data/Mixed Stone Blocks - 2076686656</li>
     <li IfModActive="dragon.MMDrumcan.MOD">Data/MMDrumcanMOD - 2100895553</li>
+    <li IfModActive="mmtm.mlht">Data/MMTM Pet Milhato - 3610207002/1.6</li>
     <li IfModActive="SC.modernbed">Data/Modern Bed - 2430249387</li>
     <li IfModActive="Bapador.ModestTrait">Data/Modest Trait - 3358291723/1.6</li>
     <li IfModActive="rwnodetree.modularizationvanillaweapon">Data/Modularization Vanilla Weapon - 2890560539</li>
@@ -4693,6 +4713,7 @@
     <li IfModActive="balexh.moreHexFloors">Data/More Hex Floors - 3365474107</li>
     <li IfModActive="Th3Fr3d.ExtendedInjuries">Data/More Injuries (Continued) - 3348840185</li>
     <li IfModActive="relaxedotter.moreinspirationtypes">Data/More Inspiration Types - 2019094541</li>
+    <li IfModActive="ADLTPG.morelikeapet">Data/More Like a Pet - 3621380595/1.6</li>
     <li IfModActive="4loris4.morelinkables">Data/More Linkables - 1103809207</li>
     <li IfModActive="Nalzurin.MoreMechanitorMechs20">Data/More Mechanitor Mechs 2.0 - 3296057117</li>
     <li IfModActive="Techmago.MoreMedications">Data/More Medications - Reborn - 1601812699</li>
@@ -4952,6 +4973,7 @@
     <li IfModActive="iluvsilicon.grodanrace">Data/RimRaces - Grodan Race - 2730190637</li>
     <li IfModActive="iluvsilicon.xotanrace">Data/RimRaces - Xotan Race - 2735884031</li>
     <li IfModActive="Maze.RimRecruit">Data/RimRecruit - 3571922261</li>
+    <li IfModActive="reo.RimScent">Data/RimScent - 3645569466/1.6</li>
     <li IfModActive="shakesthespeare.RimsecSecurity">Data/Rimsec Security - 2323762086</li>
     <li IfModActive="Bonible.rimsenalfactions">Data/Rimsenal Factions (Continued) - 3530301107</li>
     <li IfModActive="SomewhereOutInSpace.Spaceports">Data/Rimsential - Spaceports - 2663999215</li>
@@ -5088,6 +5110,7 @@
     <li IfModActive="Trickity.Samurai.Faction">Data/T's Samurai Faction - 2559958496</li>
     <li IfModActive="Trickity.Seal.Spirits">Data/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
+    <li IfModActive="RoltonsMods.FultonExtraction">Data/Tactical Fulton Extraction System - 3687327231/1.6</li>
     <li IfModActive="kikohi.TamingArtifact">Data/Taming Artifact - 1769917767</li>
     <li IfModActive="tremeloe.tankbeds">Data/Tank Bed - 2020858426</li>
     <li IfModActive="al9000.medievaleuropeanarmors">Data/Tastier Armory - Medieval European Armors - 3029073711</li>
@@ -5103,7 +5126,6 @@
     <li IfModActive="blackmarket420.taofc">Data/The Army Of Fetid Corpses - 3046752480</li>
     <li IfModActive="conit.thebirdsandthebees">Data/The Birds and the Bees - 2821429175</li>
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
-    <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="The.Gods.Are.Angry">Data/The Gods Are Angry - 3028895348</li>
     <li IfModActive="Create.AncientCelestial">Data/The Heaven Forged Celestial - 3122537632</li>
     <li IfModActive="Spencer7w.TheInquisition">Data/The Inquisition (Warhammer 40k) Unofficial 1.4 - 2887115091</li>
@@ -5307,6 +5329,7 @@
     <li IfModActive="Valeries.miliraexpansion">Data/Ancot/Milira/瓦莱丽的米莉拉扩展包 - 3422615030</li>
     <li IfModActive="Aquin.BetterMiliraFallenAngel">Data/Ancot/Milira/BetterMiliraFallenAngel - 3582287125/1.6</li>
     <li IfModActive="rabiosus.funnelmilian">Data/Ancot/Milira/Milira Addon Fianchetto Variation - 3621922658/1.6</li>
+    <li IfModActive="HeChuanRiver.MiliraXian.NeiyuLaw">Data/Ancot/Milira/Milira Character Expansion - 3684504594/1.6</li>
     <li IfModActive="Pakerwot.MiliraEventandStortExpandTheTaleofMilira">Data/Ancot/Milira/Milira Event Story Expand The Tale of Milira - 3477405110</li>
     <li IfModActive="Ancot.MiliraRace">Data/Ancot/Milira/Milira Race - 3256974620/1.5</li>
     <li IfModActive="Ancot.MiliraRaceGenePatch">Data/Ancot/Milira/Milira Race Gene Patch - 3257000248</li>
@@ -5357,6 +5380,7 @@
     <li IfModActive="Aoba.DeadManSwitch.Core">Data/AOBA/DMS/The Dead Man's Switch - 3121742525/1.5</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
+    <li IfModActive="Riko.ControlSpine">Data/AOBA/DMS/The Dead Man's Switch - Control Spine - 3431511558/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
@@ -5707,6 +5731,7 @@
     <li IfModActive="Metalocif.GenelineVampire">Data/Metalocif/Meta's Genelines - Vampires - 3553355702</li>
     <li IfModActive="metalocif.morecreeps">Data/Metalocif/More Creepjoiners - 3434682604/1.5</li>
     <li IfModActive="metalocif.moreuniquetraits">Data/Metalocif/More Unique Traits - 3536778499/1.6</li>
+    <li IfModActive="misstalls.AliaileRace">Data/misstall/Aliaile Race - 3605570313/1.6</li>
     <li IfModActive="misstall.vgrenadelaunchergddedtoassaultriflez">Data/misstall/Grenade Launcher Added to Assault Rifle - 3243977991</li>
     <li IfModActive="misstall.nisstallsoutfitszzz">Data/misstall/Misstall's Armor and Uniforms - 3333852502</li>
     <li IfModActive="misstall.nisstallsarmoryz">Data/misstall/Misstall's Armory - 3250588215</li>
@@ -5775,6 +5800,7 @@
     <li IfModActive="mlie.dieforme">Data/Mlie/Die for me (Continued) - 2403695576</li>
     <li IfModActive="mlie.dismisstrader">Data/Mlie/Dismiss Trader (Continued) - 2078518511</li>
     <li IfModActive="Mlie.DisplayCases">Data/Mlie/Display Cases (Continued) - 2086054868</li>
+    <li IfModActive="Mlie.DreamersDreams">Data/Mlie/Dreamer's Dreams (Continued) - 3584984139/1.6</li>
     <li IfModActive="mlie.drugsplus">Data/Mlie/Drugs+ (Continued) - 2018224594</li>
     <li IfModActive="Mlie.EasyUpgrades">Data/Mlie/Easy Upgrades (Continued) - 2904429048</li>
     <li IfModActive="Mlie.EDLaserDrill">Data/Mlie/ED-Laser-Drill (Continued) - 2570228927</li>
@@ -5920,6 +5946,8 @@
     <li IfModActive="XMB.Giantimperialcannonturret.MO">Data/mo/Giant imperial turret - 3406932075</li>
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
+    <li IfModActive="MortStrudel.MortIdeologySpecWork">Data/Mort Strudel/Menagerist - Mort's Ideologies Memes and Precepts - 3514363516/1.6</li>
+    <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -6147,6 +6175,7 @@
     <li IfModActive="sarg.alphaarmoury">Data/Sarg Bjornson/Alpha Armoury - 3622294464/1.6</li>
     <li IfModActive="sarg.rimbees">Data/Sarg Bjornson/Alpha Bees - 1558161673</li>
     <li IfModActive="sarg.alphabiomes">Data/Sarg Bjornson/Alpha Biomes - 1841354677</li>
+    <li IfModActive="sarg.alphabooks">Data/Sarg Bjornson/Alpha Books - 3403180654/1.6</li>
     <li IfModActive="sarg.alphacrafts">Data/Sarg Bjornson/Alpha Crafts - 3382446150</li>
     <li IfModActive="sarg.alphagenes">Data/Sarg Bjornson/Alpha Genes - 2891845502/1.5</li>
     <li IfModActive="sarg.alphagenesvfei">Data/Sarg Bjornson/Alpha Genes - Insectoid Mutations - 2906193379</li>
@@ -7083,6 +7112,7 @@
     <li IfModActive="Baskerville.HellsingARMSUltimate">Data/Hellsing ARMS Ultimate - 2834801420</li>
     <li IfModActive="Lusty.HelltakerGenes">Data/Helltaker Cosmetic Genes - 2955062315</li>
     <li IfModActive="Saruman.HelltakerXenotypes">Data/Helltaker Xenotypes - 3395078682</li>
+    <li IfModActive="hamtastic.palworld">Data/Helpful Pals - 3451569996/1.6</li>
     <li IfModActive="bando.heyrathehorned">Data/Heyra the Horned - 2689852146</li>
     <li IfModActive="Foxed.HeyraTheHorned">Data/Heyra the Horned (Revived) - 3679943662/1.6</li>
     <li IfModActive="WhiteLight.HiddenEnemyBio">Data/Hidden Enemy Bio (Continued) - 1.6 temp - 3530295561/1.6</li>
@@ -7293,6 +7323,7 @@
     <li IfModActive="elf.miscrobots.worktab.support">Data/MiscRobots WorkTab support - 2271338001</li>
     <li IfModActive="nerdwonder.mixedblock">Data/Mixed Stone Blocks - 2076686656</li>
     <li IfModActive="dragon.MMDrumcan.MOD">Data/MMDrumcanMOD - 2100895553</li>
+    <li IfModActive="mmtm.mlht">Data/MMTM Pet Milhato - 3610207002/1.6</li>
     <li IfModActive="SC.modernbed">Data/Modern Bed - 2430249387</li>
     <li IfModActive="Bapador.ModestTrait">Data/Modest Trait - 3358291723/1.6</li>
     <li IfModActive="rwnodetree.modularizationvanillaweapon">Data/Modularization Vanilla Weapon - 2890560539</li>
@@ -7316,6 +7347,7 @@
     <li IfModActive="balexh.moreHexFloors">Data/More Hex Floors - 3365474107</li>
     <li IfModActive="Th3Fr3d.ExtendedInjuries">Data/More Injuries (Continued) - 3348840185</li>
     <li IfModActive="relaxedotter.moreinspirationtypes">Data/More Inspiration Types - 2019094541</li>
+    <li IfModActive="ADLTPG.morelikeapet">Data/More Like a Pet - 3621380595/1.6</li>
     <li IfModActive="4loris4.morelinkables">Data/More Linkables - 1103809207</li>
     <li IfModActive="Nalzurin.MoreMechanitorMechs20">Data/More Mechanitor Mechs 2.0 - 3296057117</li>
     <li IfModActive="Techmago.MoreMedications">Data/More Medications - Reborn - 1601812699</li>
@@ -7575,6 +7607,7 @@
     <li IfModActive="iluvsilicon.grodanrace">Data/RimRaces - Grodan Race - 2730190637</li>
     <li IfModActive="iluvsilicon.xotanrace">Data/RimRaces - Xotan Race - 2735884031</li>
     <li IfModActive="Maze.RimRecruit">Data/RimRecruit - 3571922261</li>
+    <li IfModActive="reo.RimScent">Data/RimScent - 3645569466/1.6</li>
     <li IfModActive="shakesthespeare.RimsecSecurity">Data/Rimsec Security - 2323762086</li>
     <li IfModActive="Bonible.rimsenalfactions">Data/Rimsenal Factions (Continued) - 3530301107</li>
     <li IfModActive="SomewhereOutInSpace.Spaceports">Data/Rimsential - Spaceports - 2663999215</li>
@@ -7711,6 +7744,7 @@
     <li IfModActive="Trickity.Samurai.Faction">Data/T's Samurai Faction - 2559958496</li>
     <li IfModActive="Trickity.Seal.Spirits">Data/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
+    <li IfModActive="RoltonsMods.FultonExtraction">Data/Tactical Fulton Extraction System - 3687327231/1.6</li>
     <li IfModActive="kikohi.TamingArtifact">Data/Taming Artifact - 1769917767</li>
     <li IfModActive="tremeloe.tankbeds">Data/Tank Bed - 2020858426</li>
     <li IfModActive="al9000.medievaleuropeanarmors">Data/Tastier Armory - Medieval European Armors - 3029073711</li>
@@ -7726,7 +7760,6 @@
     <li IfModActive="blackmarket420.taofc">Data/The Army Of Fetid Corpses - 3046752480</li>
     <li IfModActive="conit.thebirdsandthebees">Data/The Birds and the Bees - 2821429175</li>
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
-    <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="The.Gods.Are.Angry">Data/The Gods Are Angry - 3028895348</li>
     <li IfModActive="Create.AncientCelestial">Data/The Heaven Forged Celestial - 3122537632</li>
     <li IfModActive="Spencer7w.TheInquisition">Data/The Inquisition (Warhammer 40k) Unofficial 1.4 - 2887115091</li>
@@ -7930,6 +7963,7 @@
     <li IfModActive="Valeries.miliraexpansion">Data/Ancot/Milira/瓦莱丽的米莉拉扩展包 - 3422615030</li>
     <li IfModActive="Aquin.BetterMiliraFallenAngel">Data/Ancot/Milira/BetterMiliraFallenAngel - 3582287125/1.6</li>
     <li IfModActive="rabiosus.funnelmilian">Data/Ancot/Milira/Milira Addon Fianchetto Variation - 3621922658/1.6</li>
+    <li IfModActive="HeChuanRiver.MiliraXian.NeiyuLaw">Data/Ancot/Milira/Milira Character Expansion - 3684504594/1.6</li>
     <li IfModActive="Pakerwot.MiliraEventandStortExpandTheTaleofMilira">Data/Ancot/Milira/Milira Event Story Expand The Tale of Milira - 3477405110</li>
     <li IfModActive="Ancot.MiliraRace">Data/Ancot/Milira/Milira Race - 3256974620/1.6</li>
     <li IfModActive="Ancot.MiliraRaceGenePatch">Data/Ancot/Milira/Milira Race Gene Patch - 3257000248</li>
@@ -7980,6 +8014,7 @@
     <li IfModActive="Aoba.DeadManSwitch.Core">Data/AOBA/DMS/The Dead Man's Switch - 3121742525/1.6</li>
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.6</li>
+    <li IfModActive="Riko.ControlSpine">Data/AOBA/DMS/The Dead Man's Switch - Control Spine - 3431511558/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
@@ -8330,6 +8365,7 @@
     <li IfModActive="Metalocif.GenelineVampire">Data/Metalocif/Meta's Genelines - Vampires - 3553355702</li>
     <li IfModActive="metalocif.morecreeps">Data/Metalocif/More Creepjoiners - 3434682604/1.6</li>
     <li IfModActive="metalocif.moreuniquetraits">Data/Metalocif/More Unique Traits - 3536778499/1.6</li>
+    <li IfModActive="misstalls.AliaileRace">Data/misstall/Aliaile Race - 3605570313/1.6</li>
     <li IfModActive="misstall.vgrenadelaunchergddedtoassaultriflez">Data/misstall/Grenade Launcher Added to Assault Rifle - 3243977991</li>
     <li IfModActive="misstall.nisstallsoutfitszzz">Data/misstall/Misstall's Armor and Uniforms - 3333852502</li>
     <li IfModActive="misstall.nisstallsarmoryz">Data/misstall/Misstall's Armory - 3250588215</li>
@@ -8398,6 +8434,7 @@
     <li IfModActive="mlie.dieforme">Data/Mlie/Die for me (Continued) - 2403695576</li>
     <li IfModActive="mlie.dismisstrader">Data/Mlie/Dismiss Trader (Continued) - 2078518511</li>
     <li IfModActive="Mlie.DisplayCases">Data/Mlie/Display Cases (Continued) - 2086054868</li>
+    <li IfModActive="Mlie.DreamersDreams">Data/Mlie/Dreamer's Dreams (Continued) - 3584984139/1.6</li>
     <li IfModActive="mlie.drugsplus">Data/Mlie/Drugs+ (Continued) - 2018224594</li>
     <li IfModActive="Mlie.EasyUpgrades">Data/Mlie/Easy Upgrades (Continued) - 2904429048</li>
     <li IfModActive="Mlie.EDLaserDrill">Data/Mlie/ED-Laser-Drill (Continued) - 2570228927</li>
@@ -8543,6 +8580,8 @@
     <li IfModActive="XMB.Giantimperialcannonturret.MO">Data/mo/Giant imperial turret - 3406932075</li>
     <li IfModActive="Mo.MHScanner">Data/mo/Metalhorror Scanner - 3223107890</li>
     <li IfModActive="MO.TechnicalMapVehicles">Data/mo/Technical map Vehicles - 3438366909</li>
+    <li IfModActive="MortStrudel.MortIdeologySpecWork">Data/Mort Strudel/Menagerist - Mort's Ideologies Memes and Precepts - 3514363516/1.6</li>
+    <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -8770,6 +8809,7 @@
     <li IfModActive="sarg.alphaarmoury">Data/Sarg Bjornson/Alpha Armoury - 3622294464/1.6</li>
     <li IfModActive="sarg.rimbees">Data/Sarg Bjornson/Alpha Bees - 1558161673</li>
     <li IfModActive="sarg.alphabiomes">Data/Sarg Bjornson/Alpha Biomes - 1841354677</li>
+    <li IfModActive="sarg.alphabooks">Data/Sarg Bjornson/Alpha Books - 3403180654/1.6</li>
     <li IfModActive="sarg.alphacrafts">Data/Sarg Bjornson/Alpha Crafts - 3382446150</li>
     <li IfModActive="sarg.alphagenes">Data/Sarg Bjornson/Alpha Genes - 2891845502/1.5</li>
     <li IfModActive="sarg.alphagenesvfei">Data/Sarg Bjornson/Alpha Genes - Insectoid Mutations - 2906193379</li>
@@ -9706,6 +9746,7 @@
     <li IfModActive="Baskerville.HellsingARMSUltimate">Data/Hellsing ARMS Ultimate - 2834801420</li>
     <li IfModActive="Lusty.HelltakerGenes">Data/Helltaker Cosmetic Genes - 2955062315</li>
     <li IfModActive="Saruman.HelltakerXenotypes">Data/Helltaker Xenotypes - 3395078682</li>
+    <li IfModActive="hamtastic.palworld">Data/Helpful Pals - 3451569996/1.6</li>
     <li IfModActive="bando.heyrathehorned">Data/Heyra the Horned - 2689852146</li>
     <li IfModActive="Foxed.HeyraTheHorned">Data/Heyra the Horned (Revived) - 3679943662/1.6</li>
     <li IfModActive="WhiteLight.HiddenEnemyBio">Data/Hidden Enemy Bio (Continued) - 1.6 temp - 3530295561/1.6</li>
@@ -9916,6 +9957,7 @@
     <li IfModActive="elf.miscrobots.worktab.support">Data/MiscRobots WorkTab support - 2271338001</li>
     <li IfModActive="nerdwonder.mixedblock">Data/Mixed Stone Blocks - 2076686656</li>
     <li IfModActive="dragon.MMDrumcan.MOD">Data/MMDrumcanMOD - 2100895553</li>
+    <li IfModActive="mmtm.mlht">Data/MMTM Pet Milhato - 3610207002/1.6</li>
     <li IfModActive="SC.modernbed">Data/Modern Bed - 2430249387</li>
     <li IfModActive="Bapador.ModestTrait">Data/Modest Trait - 3358291723/1.6</li>
     <li IfModActive="rwnodetree.modularizationvanillaweapon">Data/Modularization Vanilla Weapon - 2890560539</li>
@@ -9939,6 +9981,7 @@
     <li IfModActive="balexh.moreHexFloors">Data/More Hex Floors - 3365474107</li>
     <li IfModActive="Th3Fr3d.ExtendedInjuries">Data/More Injuries (Continued) - 3348840185</li>
     <li IfModActive="relaxedotter.moreinspirationtypes">Data/More Inspiration Types - 2019094541</li>
+    <li IfModActive="ADLTPG.morelikeapet">Data/More Like a Pet - 3621380595/1.6</li>
     <li IfModActive="4loris4.morelinkables">Data/More Linkables - 1103809207</li>
     <li IfModActive="Nalzurin.MoreMechanitorMechs20">Data/More Mechanitor Mechs 2.0 - 3296057117</li>
     <li IfModActive="Techmago.MoreMedications">Data/More Medications - Reborn - 1601812699</li>
@@ -10198,6 +10241,7 @@
     <li IfModActive="iluvsilicon.grodanrace">Data/RimRaces - Grodan Race - 2730190637</li>
     <li IfModActive="iluvsilicon.xotanrace">Data/RimRaces - Xotan Race - 2735884031</li>
     <li IfModActive="Maze.RimRecruit">Data/RimRecruit - 3571922261</li>
+    <li IfModActive="reo.RimScent">Data/RimScent - 3645569466/1.6</li>
     <li IfModActive="shakesthespeare.RimsecSecurity">Data/Rimsec Security - 2323762086</li>
     <li IfModActive="Bonible.rimsenalfactions">Data/Rimsenal Factions (Continued) - 3530301107</li>
     <li IfModActive="SomewhereOutInSpace.Spaceports">Data/Rimsential - Spaceports - 2663999215</li>
@@ -10334,6 +10378,7 @@
     <li IfModActive="Trickity.Samurai.Faction">Data/T's Samurai Faction - 2559958496</li>
     <li IfModActive="Trickity.Seal.Spirits">Data/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
+    <li IfModActive="RoltonsMods.FultonExtraction">Data/Tactical Fulton Extraction System - 3687327231/1.6</li>
     <li IfModActive="kikohi.TamingArtifact">Data/Taming Artifact - 1769917767</li>
     <li IfModActive="tremeloe.tankbeds">Data/Tank Bed - 2020858426</li>
     <li IfModActive="al9000.medievaleuropeanarmors">Data/Tastier Armory - Medieval European Armors - 3029073711</li>
@@ -10349,7 +10394,6 @@
     <li IfModActive="blackmarket420.taofc">Data/The Army Of Fetid Corpses - 3046752480</li>
     <li IfModActive="conit.thebirdsandthebees">Data/The Birds and the Bees - 2821429175</li>
     <li IfModActive="altushka.BosCompendium">Data/The Brotherhood Compendium 1.6 - 3571412768/1.6</li>
-    <li IfModActive="MortStrudel.CorporationFaction">Data/The Corporation - Mort's Factions - 2974334010</li>
     <li IfModActive="The.Gods.Are.Angry">Data/The Gods Are Angry - 3028895348</li>
     <li IfModActive="Create.AncientCelestial">Data/The Heaven Forged Celestial - 3122537632</li>
     <li IfModActive="Spencer7w.TheInquisition">Data/The Inquisition (Warhammer 40k) Unofficial 1.4 - 2887115091</li>
