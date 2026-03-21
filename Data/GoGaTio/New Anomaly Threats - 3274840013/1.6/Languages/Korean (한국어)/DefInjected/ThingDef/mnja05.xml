@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <NAT_Proj_Bile.label>담즙</NAT_Proj_Bile.label>
-  <NAT_BileHeart.label>담즙 심장</NAT_BileHeart.label>
-  <NAT_BileHeart.description>구울이 담즙을 뿜어낼 수 있게 해주는 특수한 생체강 인공 신체입니다. 이 보철물은 뱀의 선 조직을 사용하여 담즙을 생성하며, 구울의 입을 통해 발사할 수 있습니다.\n\n이 인공물을 장착하는 과정은 극심한 고통을 수반하므로, 구울만이 이 강화를 견뎌낼 수 있습니다.</NAT_BileHeart.description>
+  <NAT_Proj_Bile.label>부패액</NAT_Proj_Bile.label>
+  <NAT_BileHeart.label>부패액 심장</NAT_BileHeart.label>
+  <NAT_BileHeart.description>구울이 부패액을 뿜어낼 수 있게 해주는 특수한 생체강 인공 신체입니다. 이 보철물은 뱀의 선 조직을 사용하여 부패액을 생성하며, 구울의 입을 통해 발사할 수 있습니다.\n\n이 인공물을 장착하는 과정은 극심한 고통을 수반하므로, 구울만이 이 강화를 견뎌낼 수 있습니다.</NAT_BileHeart.description>
 
   <NAT_CollectorLairEntrance.label>고대 바닥문</NAT_CollectorLairEntrance.label>
   <NAT_CollectorLairEntrance.description>버려진 지하 시설로 통하는 입구입니다. 아마 이곳에서 수집가의 은신처를 찾을 수 있을 것입니다.</NAT_CollectorLairEntrance.description>
@@ -96,8 +96,8 @@
   <NAT_RustedShell_Deadlife.description>응고된 고통의 파편입니다.</NAT_RustedShell_Deadlife.description>
   <NAT_PainQuenchSerum.label>고통 진정 혈청</NAT_PainQuenchSerum.label>
   <NAT_PainQuenchSerum.description>탁한 자두색 액체가 든 주사기입니다. 유발된 고통을 포함한 모든 통증을 완전히 억제합니다.\n\n효과는 일시적이며 중첩되지 않습니다.</NAT_PainQuenchSerum.description>
-  <NAT_BilePowerSerum.label>담즙 강화 혈청</NAT_BilePowerSerum.label>
-  <NAT_BilePowerSerum.description>담즙 뱀의 선 조직으로 만든 끈적한 액체 주사기입니다. 담즙으로 인한 감속 효과를 억제하고 산성 피해를 감소시킵니다.\n\n효과는 일시적이며 중첩되지 않습니다.</NAT_BilePowerSerum.description>
+  <NAT_BilePowerSerum.label>부패액 강화 혈청</NAT_BilePowerSerum.label>
+  <NAT_BilePowerSerum.description>부패의 뱀의 선 조직으로 만든 끈적한 액체 주사기입니다. 부패액으로 인한 감속 효과를 억제하고 산성 피해를 감소시킵니다.\n\n효과는 일시적이며 중첩되지 않습니다.</NAT_BilePowerSerum.description>
 
   <NAT_RustedActivator_Speed.label>부식 속도 활성기</NAT_RustedActivator_Speed.label>
   <NAT_RustedActivator_Speed.description>부식 속도를 높여주는 작은 장치입니다.</NAT_RustedActivator_Speed.description>
@@ -126,8 +126,8 @@
   <NAT_CollectorNotes.comps.2.studyNotes.1.label>수집가의 기록 연구 완료</NAT_CollectorNotes.comps.2.studyNotes.1.label>
   <NAT_CollectorNotes.comps.2.studyNotes.1.text>{PAWN_nameDef}(이)가 연구를 완료했습니다. {PAWN_pronoun}(은)는 기록을 해독할 방법을 찾아냈습니다. 누군가에게 내용을 정독하도록 명령하세요.</NAT_CollectorNotes.comps.2.studyNotes.1.text>
 
-  <NAT_BileGland.label>담즙샘</NAT_BileGland.label>
-  <NAT_BileGland.description>담즙 뱀이 적에게 담즙을 뿜기 전, 담즙을 생성하고 저장하는 작은 중공 기관입니다.</NAT_BileGland.description>
+  <NAT_BileGland.label>부패액샘</NAT_BileGland.label>
+  <NAT_BileGland.description>부패의 뱀이 적에게 부패액을 뿜기 전, 부패액을 생성하고 저장하는 작은 중공 기관입니다.</NAT_BileGland.description>
   <NAT_RustedCore.label>녹슨 코어</NAT_RustedCore.label>
   <NAT_RustedCore.description>금속 재질의 작은 정이십면체입니다. 표면에서 생체강이 서서히 자라납니다.</NAT_RustedCore.description>
   <NAT_RustedCore.comps.1.jobString>파괴</NAT_RustedCore.comps.1.jobString>
@@ -148,8 +148,8 @@
   <NAT_Apparel_PainLance.description>횟수 제한이 있는 초정신 영향 장치입니다. 대상과 그 주변 생명체에게 통증을 유발합니다.\n\n이 고통 창은 부서진 어둠의 초월공학 파편으로 제작되었습니다.</NAT_Apparel_PainLance.description>
   <NAT_Apparel_PainLance.verbs.Verb_CastTargetEffectPainLance.label>고통 창</NAT_Apparel_PainLance.verbs.Verb_CastTargetEffectPainLance.label>
 
-  <NAT_BileSerpent.label>담즙 뱀</NAT_BileSerpent.label>
-  <NAT_BileSerpent.description>적에게 담즙을 뱉는 거대한 포식성 뱀입니다. 이들이 내뱉는 담즙은 코끼리 같은 거대 동물조차 느려지게 할 정도로 끈적하고 걸쭉하지만, 다른 실체들에게는 영향을 주지 않습니다.</NAT_BileSerpent.description>
+  <NAT_BileSerpent.label>부패의 뱀</NAT_BileSerpent.label>
+  <NAT_BileSerpent.description>적에게 부패액을 뱉는 거대한 포식성 뱀입니다. 이들이 내뱉는 부패액은 코끼리 같은 거대 동물조차 느려지게 할 정도로 끈적하고 걸쭉하지만, 다른 실체들에게는 영향을 주지 않습니다.</NAT_BileSerpent.description>
   <NAT_BileSerpent.tools.0.label>송곳니</NAT_BileSerpent.tools.0.label>
   <NAT_BileSerpent.tools.1.label>머리</NAT_BileSerpent.tools.1.label>
   <NAT_BileSerpent.tools.2.label>꼬리</NAT_BileSerpent.tools.2.label>

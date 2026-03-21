@@ -6,11 +6,11 @@
   <NAT_ShapeRust.label>생체강 연성</NAT_ShapeRust.label>
   <NAT_ShapeRust.description>어둠의 초정신 능력을 사용하여 가장 가까운 100개의 생체강 조각을 살아있는 부식체로 연성합니다.</NAT_ShapeRust.description>
   
-  <NAT_BileSpit.label>담즙 뱉기</NAT_BileSpit.label>
-  <NAT_BileSpit.description>분비선을 사용하여 짧은 거리에 담즙을 내뱉습니다.</NAT_BileSpit.description>
+  <NAT_BileSpit.label>부패액 뱉기</NAT_BileSpit.label>
+  <NAT_BileSpit.description>분비선을 사용하여 짧은 거리에 부패액을 내뱉습니다.</NAT_BileSpit.description>
   
-  <NAT_BileSpray.label>담즙 분사</NAT_BileSpray.label>
-  <NAT_BileSpray.description>담즙 심장을 사용하여 짧은 거리에 담즙을 분사합니다. 심장이 수술로 이식된 관을 통해 담즙을 펌질하여, 구울이 입에서 빠른 속도로 담즙을 뿜어낼 수 있게 합니다.</NAT_BileSpray.description>
+  <NAT_BileSpray.label>부패액 분사</NAT_BileSpray.label>
+  <NAT_BileSpray.description>부패액 심장을 사용하여 짧은 거리에 부패액을 분사합니다. 심장이 수술로 이식된 관을 통해 부패액을 펌질하여, 구울이 입에서 빠른 속도로 부패액을 뿜어낼 수 있게 합니다.</NAT_BileSpray.description>
 
   <NAT_RustedCommand_Officer.label>장교의 지휘</NAT_RustedCommand_Officer.label>
   <NAT_RustedCommand_Officer.description>아군의 전투 능력을 향상시키는 장교의 지휘를 발동합니다.</NAT_RustedCommand_Officer.description>

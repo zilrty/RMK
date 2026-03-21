@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <NAT_BileHeart.label>담즙 심장</NAT_BileHeart.label>
-  <NAT_BileHeart.description>구울이 담즙을 뿜어낼 수 있도록 개조된 인간의 심장입니다.</NAT_BileHeart.description>
+  <NAT_BileHeart.label>부패액 심장</NAT_BileHeart.label>
+  <NAT_BileHeart.description>구울이 부패액을 뿜어낼 수 있도록 개조된 인간의 심장입니다.</NAT_BileHeart.description>
   
   <NAT_Subdued.label>굴복함</NAT_Subdued.label>
   <NAT_Subdued.description>멀리 떨어진 초월공학 구조물에 의해 의식이 굴복당한 상태입니다.</NAT_Subdued.description>
@@ -12,9 +12,9 @@
   <NAT_BannerBoost.label>전투 고양</NAT_BannerBoost.label>
   <NAT_BannerBoost.description>전투 함성의 영향을 받아 평소보다 더 잘 싸웁니다.</NAT_BannerBoost.description>
 
-  <NAT_SlowedByBile.label>담즙에 젖음</NAT_SlowedByBile.label>
-  <NAT_SlowedByBile.description>담즙이 온몸을 덮고 피부에 달라붙어 이동과 조작을 훨씬 어렵게 만듭니다. 뱀의 담즙은 불에 잘 타지 않으며 산성과 반응하여 심한 화상을 입힙니다.</NAT_SlowedByBile.description>
-  <NAT_SlowedByBile.battleStateLabel>담즙 감속</NAT_SlowedByBile.battleStateLabel>
+  <NAT_SlowedByBile.label>부패액에 젖음</NAT_SlowedByBile.label>
+  <NAT_SlowedByBile.description>부패액이 온몸을 덮고 피부에 달라붙어 이동과 조작을 훨씬 어렵게 만듭니다. 뱀의 부패액은 불에 잘 타지 않으며 산성과 반응하여 심한 화상을 입힙니다.</NAT_SlowedByBile.description>
+  <NAT_SlowedByBile.battleStateLabel>부패액 감속</NAT_SlowedByBile.battleStateLabel>
   <NAT_SlowedByBile.stages.0.label>약함</NAT_SlowedByBile.stages.0.label>
   <NAT_SlowedByBile.stages.1.label>보통</NAT_SlowedByBile.stages.1.label>
   <NAT_SlowedByBile.stages.2.label>심함</NAT_SlowedByBile.stages.2.label>
@@ -22,8 +22,8 @@
   <NAT_PainQuenchSerum.label>통증 억제 혈청</NAT_PainQuenchSerum.label>
   <NAT_PainQuenchSerum.description>혈류 내에 통증 억제 혈청이 흐르고 있습니다. 이 물질은 모든 종류의 통증에 완전한 내성을 갖게 하며, 추가로 유도된 통증까지 억제합니다.</NAT_PainQuenchSerum.description>
   
-  <NAT_BilePowerSerum.label>담즙 강화 혈청</NAT_BilePowerSerum.label>
-  <NAT_BilePowerSerum.description>혈류 내에 담즙 강화 혈청이 흐르고 있습니다. 이 물질은 담즙의 감속 효과에 저항력을 주며, 추가로 산성 피해를 감소시킵니다.</NAT_BilePowerSerum.description>
+  <NAT_BilePowerSerum.label>부패액 강화 혈청</NAT_BilePowerSerum.label>
+  <NAT_BilePowerSerum.description>혈류 내에 부패액 강화 혈청이 흐르고 있습니다. 이 물질은 부패액의 감속 효과에 저항력을 주며, 추가로 산성 피해를 감소시킵니다.</NAT_BilePowerSerum.description>
   
   <NAT_InducedPain.label>유도된 통증</NAT_InducedPain.label>
   <NAT_InducedPain.description>외견상 아무런 이유 없이 느껴지는 통증입니다.</NAT_InducedPain.description>
