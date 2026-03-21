@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_Noblesser.label>노블레스</AR_Noblesser.label>
+  <AR_Noblesser.description>사교와 초능력 분야에서 뛰어난 자질을 갖춘 알리아일입니다.</AR_Noblesser.description>
+
+  <AR_Sage.label>세이지</AR_Sage.label>
+  <AR_Sage.description>의학과 연구 분야에 특화된 알리아일입니다.</AR_Sage.description>
+
+  <AR_Chevalier.label>슈발리에</AR_Chevalier.label>
+  <AR_Chevalier.description>전투와 제작에 뛰어난 능력을 발휘하는 알리아일입니다.</AR_Chevalier.description>
+
+  <AR_Troubadour.label>트루바두르</AR_Troubadour.label>
+  <AR_Troubadour.description>사교와 예술을 전문으로 하는 알리아일입니다.</AR_Troubadour.description>
+
+  <AR_Ecuyer.label>에퀴에</AR_Ecuyer.label>
+  <AR_Ecuyer.description>신체적으로 강인한 디미아일입니다. 전시에는 백병전을 담당하며, 평시에는 육체노동 분야에서 그 특징을 발휘해 왔습니다.</AR_Ecuyer.description>
+
+  <AR_Metier.label>메티에</AR_Metier.label>
+  <AR_Metier.description>도시에서 노동자나 장인으로 활동하는 디미아일입니다. 전투에는 다소 서투르지만 제작, 건설 및 작업 속도가 우수합니다.</AR_Metier.description>
+
+  <AR_Rural.label>뤼럴</AR_Rural.label>
+  <AR_Rural.description>원예에 종사하는 디미아일입니다. 농경지와 가축을 지키기 위해 투척 무기를 자주 사용했기 때문에 사격 능력이 준수합니다.</AR_Rural.description>
+
+  <AR_Cuirassier.label>퀴레시어</AR_Cuirassier.label>
+  <AR_Cuirassier.description>전투에 특화된 디미아일입니다. 예술이나 지적인 활동은 서투르지만 전장에서 필요한 응급 처치나 기타 육체노동 등은 무리 없이 수행합니다.</AR_Cuirassier.description>
+</LanguageData>

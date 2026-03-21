@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_KissInteraction.label>신비로운 입맞춤</AR_KissInteraction.label>
+  <AR_KissInteraction.symbol>UI/Ability/AR_Heart</AR_KissInteraction.symbol>
+  
+  <AR_HugInteraction.label>신비로운 포옹</AR_HugInteraction.label>
+  <AR_HugInteraction.symbol>UI/Ability/AR_Hug</AR_HugInteraction.symbol>
+  
+  <AR_OseziInteraction.label>훌륭한 찬사</AR_OseziInteraction.label>
+  <AR_OseziInteraction.symbol>Things/Mote/SpeechSymbols/KindWords</AR_OseziInteraction.symbol>
+</LanguageData>

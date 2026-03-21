@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_NameUtility.rulePack.rulesStrings>
+    <li>AR_FirstNameF-&gt;[AR_FirstNameF]</li>
+    <li>AR_FirstNameM-&gt;[AR_FirstNameM]</li>
+    <li>AR_LastName-&gt;[AR_LastName]</li>
+    <li>DR_LastName-&gt;[DR_LastName]</li>
+    <li>AR_FactionName-&gt;[AR_FactionName]</li>
+    <li>AR_FactionName-&gt;[AR_SettlementName]</li>
+  </AR_NameUtility.rulePack.rulesStrings>
+</LanguageData>

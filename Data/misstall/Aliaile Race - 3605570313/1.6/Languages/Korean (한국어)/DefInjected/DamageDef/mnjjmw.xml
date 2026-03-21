@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_Stupefy_Damage.label>섬광</AR_Stupefy_Damage.label>
+  <AR_Stupefy_Damage.deathMessage>{0}(이)가 섬광에 휩쓸려 쓰러졌습니다.</AR_Stupefy_Damage.deathMessage>
+
+  <chargeBomb.label>채굴용 폭탄</chargeBomb.label>
+
+  <AR_Bullet.label>총알</AR_Bullet.label>
+  <AR_Bullet.deathMessage>{0}(이)가 총격에 맞아 사망했습니다.</AR_Bullet.deathMessage> <AR_BulletB.label>총알</AR_BulletB.label>
+  <AR_BulletB.deathMessage>{0}(이)가 총격에 맞아 사망했습니다.</AR_BulletB.deathMessage>
+
+  <AR_Bullet_Silver.label>은 탄환</AR_Bullet_Silver.label>
+  <AR_Bullet_Silver.deathMessage>{0}(이)가 은제 탄환에 찔려 사망했습니다.</AR_Bullet_Silver.deathMessage>
+
+  <AR_Stab_Silver.label>은제 찌르기</AR_Stab_Silver.label>
+  <AR_Stab_Silver.deathMessage>{0}(이)가 은제 무기에 찔려 사망했습니다.</AR_Stab_Silver.deathMessage>
+
+  <AR_Burn_Silver.label>은빛 화상</AR_Burn_Silver.label>
+  <AR_Burn_Silver.deathMessage>{0}(이)가 은빛 광선에 타버려 사망했습니다.</AR_Burn_Silver.deathMessage>
+
+  <AR_pellet.label>산탄</AR_pellet.label>
+  <AR_pellet.deathMessage>{0}(이)가 산탄에 맞아 사망했습니다.</AR_pellet.deathMessage>
+
+  <AR_Anestheticrifle_Bullet.label>마취 탄환</AR_Anestheticrifle_Bullet.label>
+  <AR_Anestheticrifle_Bullet.deathMessage>{0}(이)가 마취 탄환에 맞고 사망했습니다.</AR_Anestheticrifle_Bullet.deathMessage>
+</LanguageData>

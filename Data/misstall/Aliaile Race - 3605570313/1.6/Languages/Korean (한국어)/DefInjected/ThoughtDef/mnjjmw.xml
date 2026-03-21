@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_KissThought.stages.0.label>신비로운 입맞춤</AR_KissThought.stages.0.label>
+  <AR_HugThought.stages.0.label>신비로운 포옹</AR_HugThought.stages.0.label>
+  <AR_ThoughtDef_AngelsHug.stages.0.label>정신적인 포옹</AR_ThoughtDef_AngelsHug.stages.0.label>
+  <AR_ThoughtDef_AngelsHug.stages.0.description>따뜻한 포옹을 받으니 정신이 안정돼.</AR_ThoughtDef_AngelsHug.stages.0.description>
+  
+  <AR_F_PsychicHarmonization.stages.0.label>알리아일의 공명</AR_F_PsychicHarmonization.stages.0.label>
+  <AR_F_PsychicHarmonization.stages.0.description>근처에 알리아일이 있다.</AR_F_PsychicHarmonization.stages.0.description>
+  <AR_D_PsychicHarmonization.stages.0.label>알리아일의 공명</AR_D_PsychicHarmonization.stages.0.label>
+  <AR_D_PsychicHarmonization.stages.0.description>근처에 알리아일이 있다.</AR_D_PsychicHarmonization.stages.0.description>
+  <AR_PsychicHarmonization.stages.0.label>알리아일 공명: {HARMONIZER_labelShort}</AR_PsychicHarmonization.stages.0.label>
+  <AR_PsychicHarmonization.stages.0.description>알리아일의 감정이 주변 사람들에게 영향을 주고 있다.</AR_PsychicHarmonization.stages.0.description>
+
+  <MoodOffsetARhappyB.stages.0.label>장생종의 낙관주의</MoodOffsetARhappyB.stages.0.label>
+  <MoodOffsetARhappyB.stages.0.description>지금 상황이 어떻든, 결국 시간이 해결해 줄 거야.</MoodOffsetARhappyB.stages.0.description>
+  <MoodOffsetARhappy.stages.0.label>장수에서 비롯된 낙관주의</MoodOffsetARhappy.stages.0.label>
+  <MoodOffsetARhappy.stages.0.description>어떤 문제든 시간이 지나면 해결돼. 다행히 나에게는 앉아서 기다릴 수 있을 만큼 충분한 수명이 있지.</MoodOffsetARhappy.stages.0.description>
+
+  <AR_AteJam.stages.0.label>잼을 먹음</AR_AteJam.stages.0.label>
+  <AR_AteJam.stages.0.description>달콤하고 맛있는 잼을 먹었어. 행복한 기분이야.</AR_AteJam.stages.0.description>
+  <AR_AteRaisin.stages.0.label>건포도를 먹음</AR_AteRaisin.stages.0.label>
+  <AR_AteRaisin.stages.0.description>달콤하고 맛있는 건포도를 먹었어. 행복한 기분이야.</AR_AteRaisin.stages.0.description>
+  
+  <AR_ThoughtDef_AkaberryOkou.stages.0.label>레드베리 향기</AR_ThoughtDef_AkaberryOkou.stages.0.label>
+  <AR_ThoughtDef_AkaberryOkou.stages.0.description>어디선가 향을 피우고 있네. 정말 좋은 냄새야!</AR_ThoughtDef_AkaberryOkou.stages.0.description>
+  <AR_ThoughtDef_AkaberryOkou.stages.1.label>레드베리 향에 진정됨</AR_ThoughtDef_AkaberryOkou.stages.1.label>
+  <AR_ThoughtDef_AkaberryOkou.stages.2.label>레드베리 향에 크게 진정됨</AR_ThoughtDef_AkaberryOkou.stages.2.label>
+  <AR_ThoughtDef_AkaberryOkou.stages.3.label>레드베리 향에 깊이 진정됨</AR_ThoughtDef_AkaberryOkou.stages.3.label>
+
+  <AR_ThoughtDef_AR_angelWine.stages.0.label>신비로운 술을 마심!</AR_ThoughtDef_AR_angelWine.stages.0.label>
+  <AR_ThoughtDef_AR_angelWine.stages.0.description>천사의 이슬은 마시면 정말 행복해져.</AR_ThoughtDef_AR_angelWine.stages.0.description>
+  <AR_ThoughtDef_AR_Budou.stages.0.label>맛있는 포도주를 마심!</AR_ThoughtDef_AR_Budou.stages.0.label>
+  <AR_ThoughtDef_AR_Budou.stages.0.description>포도로 만든 와인은 정말 좋아아.</AR_ThoughtDef_AR_Budou.stages.0.description>
+
+  <AR_SleptInBedroom.stages.0.label>끔찍한 침실</AR_SleptInBedroom.stages.0.label>
+  <AR_SleptInBedroom.stages.2.label>평범한 침실</AR_SleptInBedroom.stages.2.label>
+  <AR_SleptInBedroom.stages.3.label>나쁘지 않은 침실</AR_SleptInBedroom.stages.3.label>
+  <AR_SleptInBedroom.stages.4.label>약간 호화로운 침실</AR_SleptInBedroom.stages.4.label>
+  <AR_SleptInBedroom.stages.5.label>호화로운 침실</AR_SleptInBedroom.stages.5.label>
+  <AR_SleptInBedroom.stages.6.label>매우 호화로운 침실</AR_SleptInBedroom.stages.6.label>
+  <AR_SleptInBedroom.stages.7.label>극도로 호화로운 침실</AR_SleptInBedroom.stages.7.label>
+  <AR_SleptInBedroom.stages.8.label>믿을 수 없을 만큼 호화로운 침실</AR_SleptInBedroom.stages.8.label>
+  <AR_SleptInBedroom.stages.9.label>경이로운 침실</AR_SleptInBedroom.stages.9.label>
+  <AR_SleptInBedroom.stages.9.description>천국 같은 침실에서 잠을 잤어. 정말 놀라워.</AR_SleptInBedroom.stages.9.description>
+
+  <AR_SleptInBarracks.stages.0.label>끔찍한 막사</AR_SleptInBarracks.stages.0.label>
+  <AR_SleptInBarracks.stages.2.label>평범한 막사</AR_SleptInBarracks.stages.2.label>
+  <AR_SleptInBarracks.stages.2.description>평범한 막사에서 잠을 잤어. 여러 명과 방을 공유하는 것에 크게 개의치 않아.</AR_SleptInBarracks.stages.2.description>
+  <AR_SleptInBarracks.stages.9.label>경이로운 막사</AR_SleptInBarracks.stages.9.label>
+
+  <AR_SoakingWet.stages.0.label>날개가 젖음!</AR_SoakingWet.stages.0.label>
+  <AR_SoakingWet.stages.0.description>날개가 흠뻑 젖어버렸어! 말리는 데 한참 걸린단 말이지. 젖는 건 정말 딱 질색이야!</AR_SoakingWet.stages.0.description>
+  
+  <AR_SleepDisturbed.stages.0.label>수면을 방해받음</AR_SleepDisturbed.stages.0.label>
+  <AR_SleepDisturbed.stages.0.description>내가 자는 동안 누군가 주변을 서성인 모양이야.</AR_SleepDisturbed.stages.0.description>
+
+  <AR_ThoughtDef_AkaTeaHigh.stages.0.label>레드베리 홍차를 마심</AR_ThoughtDef_AkaTeaHigh.stages.0.label>
+  <AR_ThoughtDef_AkaTeaHigh.stages.0.description>홍차를 마시니 마음이 편안해져. 이 느낌이 정말 좋아.</AR_ThoughtDef_AkaTeaHigh.stages.0.description>
+  <AR_ThoughtDef_AR_AkaTeaHigh.stages.0.label>레드베리 차의 놀라운 효능</AR_ThoughtDef_AR_AkaTeaHigh.stages.0.label>
+  <AR_ThoughtDef_AR_AkaTeaHigh.stages.0.description>레드베리는 나를 고양시키지.</AR_ThoughtDef_AR_AkaTeaHigh.stages.0.description>
+
+  <AR_ThoughtDef_OffensiveWine.stages.0.label>총공세 종료</AR_ThoughtDef_OffensiveWine.stages.0.label>
+  <AR_ThoughtDef_OffensiveWine.stages.1.label>총공세 흥분</AR_ThoughtDef_OffensiveWine.stages.1.label>
+  <AR_ThoughtDef_OffensiveWine.stages.1.description>최후의 와인 효능으로 인해 위험할 정도로 고양된 상태입니다.</AR_ThoughtDef_OffensiveWine.stages.1.description>
+  <AR_ThoughtDef_OffensiveWine.stages.2.label>최후의 와인 과다섭취</AR_ThoughtDef_OffensiveWine.stages.2.label>
+
+  <AR_OseziThought.stages.0.label>멋진 칭찬을 들음</AR_OseziThought.stages.0.label>
+  <AR_OseziThoughtMood.stages.0.label>칭찬</AR_OseziThoughtMood.stages.0.label>
+  <AR_OseziThoughtMood.stages.0.description>멋진 칭찬을 들었어. 칭찬받는 건 정말 좋아!</AR_OseziThoughtMood.stages.0.description>
+
+  <AR_ThoughtDef_AR_HusahusaWine.stages.0.label>날개가 부풀어 오름</AR_ThoughtDef_AR_HusahusaWine.stages.0.label>
+  <AR_ThoughtDef_AR_HusahusaWine.stages.0.description>섭취한 술의 효과로 날개가 푹신하고 풍성해졌어. 뭔가 기분이 뿌듯하네.</AR_ThoughtDef_AR_HusahusaWine.stages.0.description>
+
+  <AR_ThoughtDef_AR_angelsShare.stages.0.label>알리아일즈 셰어</AR_ThoughtDef_AR_angelsShare.stages.0.label>
+  <AR_ThoughtDef_AR_angelsShare.stages.0.description>최고급 와인을 마셨어. 환상적인 경험이었어!</AR_ThoughtDef_AR_angelsShare.stages.0.description>
+</LanguageData>
