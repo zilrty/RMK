@@ -60,15 +60,15 @@
   <RI_MakeSwordCharm.label>광검부 그리기</RI_MakeSwordCharm.label>
   <RI_MakeSwordCharm.description>영석을 사용해 그 힘을 종이에 새기고, 부적을 그립니다.</RI_MakeSwordCharm.description>
   <RI_MakeSwordCharm.jobString>광검부 그리기</RI_MakeSwordCharm.jobString>
-  <RI_MakeQuestCaller_AncientGrave_Talismaker.label>수련자 나침반-황총 제작</RI_MakeQuestCaller_AncientGrave_Talismaker.label>
-  <RI_MakeQuestCaller_AncientGrave_Talismaker.description>수련자 나침반-황총 제작</RI_MakeQuestCaller_AncientGrave_Talismaker.description>
-  <RI_MakeQuestCaller_AncientGrave_Talismaker.jobString>수련자 나침반-황총 제작 중</RI_MakeQuestCaller_AncientGrave_Talismaker.jobString>
-  <RI_MakeQuestCaller_AncientComplex_Talismaker.label>고대 수련자 나침반-유적 제작</RI_MakeQuestCaller_AncientComplex_Talismaker.label>
-  <RI_MakeQuestCaller_AncientComplex_Talismaker.description>고대 수련자 나침반-유적 제작</RI_MakeQuestCaller_AncientComplex_Talismaker.description>
-  <RI_MakeQuestCaller_AncientComplex_Talismaker.jobString>고대 수련자 나침반-유적 제작 중</RI_MakeQuestCaller_AncientComplex_Talismaker.jobString>
-  <RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.label>고대 수련자 나침반-심룡 제작</RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.label>
-  <RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.description>고대 수련자 나침반-심룡 제작</RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.description>
-  <RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.jobString>고대 수련자 나침반-심룡 제작 중</RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.jobString>
+  <RI_MakeQuestCaller_AncientGrave_Talismaker.label>수선자 나침반-황총 제작</RI_MakeQuestCaller_AncientGrave_Talismaker.label>
+  <RI_MakeQuestCaller_AncientGrave_Talismaker.description>수선자 나침반-황총 제작</RI_MakeQuestCaller_AncientGrave_Talismaker.description>
+  <RI_MakeQuestCaller_AncientGrave_Talismaker.jobString>수선자 나침반-황총 제작 중</RI_MakeQuestCaller_AncientGrave_Talismaker.jobString>
+  <RI_MakeQuestCaller_AncientComplex_Talismaker.label>고대 수선자 나침반-유적 제작</RI_MakeQuestCaller_AncientComplex_Talismaker.label>
+  <RI_MakeQuestCaller_AncientComplex_Talismaker.description>고대 수선자 나침반-유적 제작</RI_MakeQuestCaller_AncientComplex_Talismaker.description>
+  <RI_MakeQuestCaller_AncientComplex_Talismaker.jobString>고대 수선자 나침반-유적 제작 중</RI_MakeQuestCaller_AncientComplex_Talismaker.jobString>
+  <RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.label>고대 수선자 나침반-심룡 제작</RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.label>
+  <RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.description>고대 수선자 나침반-심룡 제작</RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.description>
+  <RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.jobString>고대 수선자 나침반-심룡 제작 중</RI_MakeQuestCaller_AncientComplexWithCasket_Talismaker.jobString>
   <Make_BlackSteelArm.label>흑강완 제작</Make_BlackSteelArm.label>
   <Make_BlackSteelArm.description>흑강완 제작</Make_BlackSteelArm.description>
   <Make_BlackSteelArm.jobString>흑강완 제작 중</Make_BlackSteelArm.jobString>

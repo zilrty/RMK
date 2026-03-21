@@ -3,9 +3,9 @@
   <RI_Backstory_AncientWarrior.title>고대 무인</RI_Backstory_AncientWarrior.title>
   <RI_Backstory_AncientWarrior.titleShort>무인</RI_Backstory_AncientWarrior.titleShort>
   <RI_Backstory_AncientWarrior.description>무술에 있어서 [PAWN_nameDef]의 자신감은 누구에게도 뒤지지 않습니다. [PAWN_pronoun](은)는 올곧은 마음을 지닌 순수한 무인이지만, [PAWN_pronoun](은)는 타인을 자신의 잣대로 평가하는 경향이 있습니다. [PAWN_objective] 중심으로 모인 이들 또한 자신에게 엄격해야 한다고 항상 생각합니다.</RI_Backstory_AncientWarrior.description>
-  <RI_Backstory_PowerfulAncientCultivator.title>강력한 고대 수련자</RI_Backstory_PowerfulAncientCultivator.title>
-  <RI_Backstory_PowerfulAncientCultivator.titleShort>고대 수련자</RI_Backstory_PowerfulAncientCultivator.titleShort>
-  <RI_Backstory_PowerfulAncientCultivator.description>[PAWN_nameDef]의 수련은 일정한 경지에 도달했지만 [PAWN_pronoun](은)는 그 자리에 막혀 있습니다. [PAWN_pronoun](은)는 무리 속에서 자부심을 가져왔지만, [PAWN_pronoun] (은)는 아직 더 성장할 기회가 있다고 생각했습니다. 하지만 대륙의 영기가 점점 희박해지고 느려지면서, [PAWN_pronoun](은)는 결국 잠시 동안 잠들 수밖에 없었습니다.</RI_Backstory_PowerfulAncientCultivator.description>
+  <RI_Backstory_PowerfulAncientCultivator.title>강력한 고대 수선자</RI_Backstory_PowerfulAncientCultivator.title>
+  <RI_Backstory_PowerfulAncientCultivator.titleShort>고대 수선자</RI_Backstory_PowerfulAncientCultivator.titleShort>
+  <RI_Backstory_PowerfulAncientCultivator.description>[PAWN_nameDef]의 수선은 일정한 경지에 도달했지만 [PAWN_pronoun](은)는 그 자리에 막혀 있습니다. [PAWN_pronoun](은)는 무리 속에서 자부심을 가져왔지만, [PAWN_pronoun] (은)는 아직 더 성장할 기회가 있다고 생각했습니다. 하지만 대륙의 영기가 점점 희박해지고 느려지면서, [PAWN_pronoun](은)는 결국 잠시 동안 잠들 수밖에 없었습니다.</RI_Backstory_PowerfulAncientCultivator.description>
   <RI_Backstory_AncientDoctor.title>고대 의사</RI_Backstory_AncientDoctor.title>
   <RI_Backstory_AncientDoctor.titleShort>의사</RI_Backstory_AncientDoctor.titleShort>
   <RI_Backstory_AncientDoctor.description>[PAWN_nameDef]의 의술은 평범한 사람들보다 훨씬 뛰어났습니다. 그래서 [PAWN_pronoun](은)는 이 지역에서 반선이라 불렸습니다. [PAWN_pronoun](은)는 의술에 능통했으며, 다양한 생존 수단도 익혔지만, [PAWN_pronoun](은)는 해가 갈수록 영기가 점점 희박해지고 있다는 사실을 예리하게 감지하고 있었습니다.</RI_Backstory_AncientDoctor.description>
@@ -26,5 +26,5 @@
   <RI_Backstory_AncientCultivatorChild2.description>[PAWN_nameDef](은)는 작은 문중에서 태어났습니다. [PAWN_pronoun](은)는 특별한 재능이나 두드러진 장점도 없었고, [PAWN_possessive] 어린 시절을 무난하게 보냈습니다.</RI_Backstory_AncientCultivatorChild2.description>
   <RI_Backstory_AncientCultivatorChild3.title>고대의 장난꾸러기</RI_Backstory_AncientCultivatorChild3.title>
   <RI_Backstory_AncientCultivatorChild3.titleShort>장난꾸러기</RI_Backstory_AncientCultivatorChild3.titleShort>
-  <RI_Backstory_AncientCultivatorChild3.description>[PAWN_nameDef](이)가 어릴 적, [PAWN_pronoun](이)가 수련자들과 충돌한 탓에, [PAWN_pronoun](은)는 수련자 문중에 하인으로 들어가 벌을 받았습니다. 그러나 몇 년 뒤, [PAWN_pronoun](은)는 [PAWN_possessive] 언변을 드러내며 문중 사람들에게 호감을 샀고, [PAWN_pronoun](은)는 하인의 신분에서 벗어나 문중의 일원이 되었습니다.</RI_Backstory_AncientCultivatorChild3.description>
+  <RI_Backstory_AncientCultivatorChild3.description>[PAWN_nameDef](이)가 어릴 적, [PAWN_pronoun](이)가 수선자들과 충돌한 탓에, [PAWN_pronoun](은)는 수선자 문중에 하인으로 들어가 벌을 받았습니다. 그러나 몇 년 뒤, [PAWN_pronoun](은)는 [PAWN_possessive] 언변을 드러내며 문중 사람들에게 호감을 샀고, [PAWN_pronoun](은)는 하인의 신분에서 벗어나 문중의 일원이 되었습니다.</RI_Backstory_AncientCultivatorChild3.description>
 </LanguageData>
