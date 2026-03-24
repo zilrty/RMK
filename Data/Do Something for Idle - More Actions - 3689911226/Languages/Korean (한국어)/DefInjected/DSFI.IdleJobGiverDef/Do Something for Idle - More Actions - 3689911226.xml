@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ASQMoreJob_IdleJobGiver_ReadBook.label>책 읽기</ASQMoreJob_IdleJobGiver_ReadBook.label>
+  <ASQMoreJob_IdleJobGiver_TakeANap.label>낮잠 자기</ASQMoreJob_IdleJobGiver_TakeANap.label>
+  <ASQMoreJob_IdleJobGiver_PlayPhone.label>폰 하기</ASQMoreJob_IdleJobGiver_PlayPhone.label>
+  <ASQMoreJob_IdleJobGiver_WatchTV.label>TV 보기</ASQMoreJob_IdleJobGiver_WatchTV.label>
+  <ASQMoreJob_IdleJobGiver_PlayComputer.label>컴퓨터 하는 중</ASQMoreJob_IdleJobGiver_PlayComputer.label>
+</LanguageData>
