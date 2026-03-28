@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Combat Extended</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="baier"]/tools/li[1]/label</xpath>
+          <value>
+            <label>곤충옥(왼손)</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="baier"]/tools/li[2]/label</xpath>
+          <value>
+            <label>머리</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="baier"]/tools/li[3]/label</xpath>
+          <value>
+            <label>곤충옥(오른손)</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="zhuer"]/tools/li[1]/label</xpath>
+          <value>
+            <label>곤충옥(왼손)</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="zhuer"]/tools/li[2]/label</xpath>
+          <value>
+            <label>머리</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="zhuer"]/tools/li[3]/label</xpath>
+          <value>
+            <label>곤충옥(오른손)</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="kuoer"]/tools/li[1]/label</xpath>
+          <value>
+            <label>덜 익은 암브로시아(왼손)</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="kuoer"]/tools/li[2]/label</xpath>
+          <value>
+            <label>덜 익은 암브로시아(오른손)</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="kuoer"]/tools/li[3]/label</xpath>
+          <value>
+            <label>머리</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="buer"]/tools/li[1]/label</xpath>
+          <value>
+            <label>왼손</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="buer"]/tools/li[2]/label</xpath>
+          <value>
+            <label>오른손</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="buer"]/tools/li[3]/label</xpath>
+          <value>
+            <label>머리</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="juer"]/tools/li[2]/label</xpath>
+          <value>
+            <label>머리</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="jiaer"]/tools/li[2]/label</xpath>
+          <value>
+            <label>머리</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/HediffDef[defName="IG_BionicTail"]/comps/li[1]/tools/li[1]/label</xpath>
+          <value>
+            <label>꼬리</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/HediffDef[defName="IG_BionicTail_E"]/comps/li[1]/tools/li[1]/label</xpath>
+          <value>
+            <label>꼬리</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/HediffDef[defName="IG_BionicTail_F"]/comps/li[1]/tools/li[1]/label</xpath>
+          <value>
+            <label>꼬리</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="IG_Meal_g"]/tools/li[2]/label</xpath>
+          <value>
+            <label>목</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="IG_Meal_b"]/tools/li[2]/label</xpath>
+          <value>
+            <label>목</label>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="Projectile_baierCE"]/label</xpath>
+          <value>
+            <label>곤충옥</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="Projectile_kuoerCE"]/label</xpath>
+          <value>
+            <label>암브로시아</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="Projectile_buerCE"]/label</xpath>
+          <value>
+            <label>나무토막</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/DamageDef[defName="Damage_buerCE"]/label</xpath>
+          <value>
+            <label>맥주</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/DamageDef[defName="Damage_buerCE"]/deathMessage</xpath>
+          <value>
+            <deathMessage>{0}(이)가 맥주병에 맞아 사망했습니다.</deathMessage>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="Projectile_juerCE"]/label</xpath>
+          <value>
+            <label>덩어리</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="Projectile_jiaerpCE"]/label</xpath>
+          <value>
+            <label>돌</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="Projectile_jiaerrCE"]/label</xpath>
+          <value>
+            <label>작은 돌</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="IG_Bullet_EMPLauncherCE"]/label</xpath>
+          <value>
+            <label>EMP 발사기 포탄</label>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Royalty</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/TerrainDef[defName="FineTileIJade"]/label</xpath>
+          <value>
+            <label>고급 곤충옥 타일</label>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

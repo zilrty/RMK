@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kzi_MessageInsectGirlSpawn>{0}(이)가 먹이를 찾기 위해 이 지역에 나타났습니다.</Kzi_MessageInsectGirlSpawn>
+  <Kzi_MessageInsectGirlReturn>{0}(이)가 긴 여정 끝에 마침내 돌아올 길을 찾아냈습니다.</Kzi_MessageInsectGirlReturn>
+  <Kzi_HasWildInsectGirlsInMap_Label>야생 곤충 소녀 발견</Kzi_HasWildInsectGirlsInMap_Label>
+  <Kzi_HasWildInsectGirlsInMap_Desc>맵에 길들일 수 있는 야생 곤충 소녀가 있습니다. 이 알림은 '모드 설정'에서 끌 수 있습니다.</Kzi_HasWildInsectGirlsInMap_Desc>
+  <Kzi_SettingsCategory_label>곤충 소녀 설정</Kzi_SettingsCategory_label>
+  <Kzi_SettingsContents_label>곤충 소녀</Kzi_SettingsContents_label>
+  <Kzi_SettingsContents_tip>(AI 번역본)</Kzi_SettingsContents_tip>
+  <Kzi_SettingsMainTab_Label>기본</Kzi_SettingsMainTab_Label>
+  <Kzi_enableInsectGirlCanAutoSpawn_label>자동 스폰 활성화</Kzi_enableInsectGirlCanAutoSpawn_label>
+  <Kzi_enableInsectGirlCanAutoSpawn_tip>▶: 5~15일마다 무작위 야생 곤충 소녀가 먹이를 찾아 플레이어 정착지에 나타납니다. 모든 종류가 스폰되면 자동으로 비활성화됩니다.\n\n▶: 개발자 모드에서 스폰 카운트다운을 확인하거나 타이머를 줄일 수 있습니다.</Kzi_enableInsectGirlCanAutoSpawn_tip>
+  <Kzi_enableInsectGirlCanWildSpawn_label>자연 스폰 활성화</Kzi_enableInsectGirlCanWildSpawn_label>
+  <Kzi_enableInsectGirlCanWildSpawn_tip>▶: 수량 제한 하에, 새로 생성된 맵에서 야생 동물이 스폰될 때 낮은 확률로 곤충 소녀가 함께 나타납니다.\n\n▶: 스폰 경로를 제어하고 시스템 슬롯을 차지하는 것을 방지하기 위해 기본값은 꺼짐입니다.</Kzi_enableInsectGirlCanWildSpawn_tip>
+  <Kzi_enableInsectGirlBanFactionSpawn_label>타 세력 곤충 소녀 비활성화</Kzi_enableInsectGirlBanFactionSpawn_label>
+  <Kzi_enableInsectGirlBanFactionSpawn_tip>▶: 타 세력 소속의 곤충 소녀가 맵에 진입할 때 자동으로 삭제되어 플레이어 슬롯을 차지하지 않도록 합니다.\n\n▶: 타 세력에서 스폰되는 경우는 드물기 때문에 오류 방지를 위해 기본값은 꺼짐입니다.</Kzi_enableInsectGirlBanFactionSpawn_tip>
+  <Kzi_enableInsectGirlCanReturn_label>미복귀 곤충 소녀 귀환 활성화</Kzi_enableInsectGirlCanReturn_label>
+  <Kzi_enableInsectGirlCanReturn_tip>▶: 상단, 납치 또는 맵 이벤트 등으로 인해 사라진 곤충 소녀가 정착지로 돌아올 수 있게 합니다. 14~15일마다 체크합니다.\n\n▶: 대부분의 경우 잘 작동하지만, 타이머 도중 시스템에 의해 데이터가 소거되면 실패할 수 있습니다.\n\n▶: 개발자 모드에서 귀환 카운트다운을 확인하거나 타이머를 줄일 수 있습니다.</Kzi_enableInsectGirlCanReturn_tip>
+  <Kzi_enableInsectGirlCanReturnResurrect_label>강제 귀환 활성화</Kzi_enableInsectGirlCanReturnResurrect_label>
+  <Kzi_enableInsectGirlCanReturnResurrect_tip>▶: 실종된 곤충 소녀가 출혈이나 질병으로 인해 귀환하지 못하는 경우를 대비해, 쓰러진 상태의 곤충 소녀도 귀환할 수 있게 합니다.\n\n▶: 부활한 곤충 소녀는 부활 후유증을 겪을 수 있습니다.</Kzi_enableInsectGirlCanReturnResurrect_tip>
+  <Kzi_enableInsectGirlCanReturnTakeGift_label>귀환 선물 활성화</Kzi_enableInsectGirlCanReturnTakeGift_label>
+  <Kzi_enableInsectGirlCanReturnTakeGift_tip>▶: 돌아오는 곤충 소녀가 모험의 기념품으로 수집한 아이템을 가지고 옵니다.\n\n▶: 시스템의 일반적인 보상 생성기를 사용하는 작은 이스터 에그이며, 기본값은 꺼짐입니다.</Kzi_enableInsectGirlCanReturnTakeGift_tip>
+  <Kzi_enableInsectGirlShouldExterminate_label>곤충 소녀 멸종 활성화</Kzi_enableInsectGirlShouldExterminate_label>
+  <Kzi_enableInsectGirlShouldExterminate_tip>▶: 야생 곤충 소녀를 포함합니다. 시신이 유실된 곤충 소녀는 멸종된 것으로 간주되어 다시 스폰되지 않습니다.\n\n▶: 기본값은 켜짐입니다. 버려진 곤충 소녀를 시스템이 정리할 때 멸종 목록을 갱신하여 해당 세이브에서 다시 스폰되는 것을 방지합니다.</Kzi_enableInsectGirlShouldExterminate_tip>
+  <Kzi_enableHasWildInsectGirlsAlert_label>야생 곤충 소녀 알림</Kzi_enableHasWildInsectGirlsAlert_label>
+  <Kzi_enableHasWildInsectGirlsAlert_tip>▶: 야생 곤충 소녀가 나타나면 알림을 띄웁니다. 알림을 클릭하면 위치로 이동합니다.\n\n▶: 비슷한 기능을 하는 다른 모드가 있을 수 있으므로 끌 수 있습니다. 곤충 소녀 전용 알림만 필요한 경우 이 기능이 성능 면에서 더 효율적입니다.</Kzi_enableHasWildInsectGirlsAlert_tip>
+  <Kzi_enableAutoDebugCurTimerLog_label>스폰 타이머 디버그 로그</Kzi_enableAutoDebugCurTimerLog_label>
+  <Kzi_enableAutoDebugCurTimerLog_tip>▶: 개발자 모드에서 게임 시간 7.2시간(18,000 틱)마다 곤충 소녀 스폰 타이머 로그를 출력합니다.\n\n▶: 기본값은 꺼짐이며, 디버깅을 원하는 숙련된 플레이어용입니다.</Kzi_enableAutoDebugCurTimerLog_tip>
+  <Kzi_SettingsHarPatchExplain_label>Harmony 디버깅</Kzi_SettingsHarPatchExplain_label>
+  <Kzi_SettingsHarPatchExplain_tip>▶: Harmony 패치 디버깅 기능이 점진적으로 개방됩니다. 오류나 충돌이 발생하면 쉽게 제외할 수 있습니다.</Kzi_SettingsHarPatchExplain_tip>
+  <Kzi_enableSleepBodyHarPatch_label>수면 자세 패치 활성화</Kzi_enableSleepBodyHarPatch_label>
+  <Kzi_enableSleepBodyHarPatch_tip>▶: 총 5개의 패치가 적용됩니다. 곤충 소녀가 잠을 자지 못하는 경우 이 기능을 꺼보세요.</Kzi_enableSleepBodyHarPatch_tip>
+  <Kzi_enableInfoCardHarPatch_label>정보창 배경 패치</Kzi_enableInfoCardHarPatch_label>
+  <Kzi_enableInfoCardHarPatch_tip>▶: 현재는 기능이 없으므로 꺼두셔도 무방합니다.</Kzi_enableInfoCardHarPatch_tip>
+  <Kzi_enableWildSpawnHarPatch_label>야생 동물 시스템 제어 패치</Kzi_enableWildSpawnHarPatch_label>
+  <Kzi_enableWildSpawnHarPatch_tip>▶: 시스템의 야생 동물 스폰 과정을 모니터링하여, 스폰 전 판단을 통해 빈번한 자동 삭제 및 중복 생성을 방지합니다.</Kzi_enableWildSpawnHarPatch_tip>
+  <Kzi_enableIlLegalInvisibilityHarPatch_label>비정상 스폰 투명화 패치</Kzi_enableIlLegalInvisibilityHarPatch_label>
+  <Kzi_enableIlLegalInvisibilityHarPatch_tip>▶: 중복 생성 억제 및 몰입감을 위해 바닐라의 투명화 메커니즘을 사용합니다. 비정상적으로 스폰된 곤충 소녀를 선택 불가 상태로 만들고 적의 타겟팅에서 제외합니다.</Kzi_enableIlLegalInvisibilityHarPatch_tip>
+  <Kzi_enableMonitorTheDiscardPawnHarPatch_label>개체수 정리 모니터링 패치</Kzi_enableMonitorTheDiscardPawnHarPatch_label>
+  <Kzi_enableMonitorTheDiscardPawnHarPatch_tip>▶: 시스템의 개체수 정리 및 삭제 루틴을 모니터링하여 곤충 소녀의 개체수를 계산합니다. 이는 중복 방지 기능의 기초가 됩니다.</Kzi_enableMonitorTheDiscardPawnHarPatch_tip>
+  <Kzi_SettingRestore_label>기본 설정으로 복구</Kzi_SettingRestore_label>
+  <Kzi_SettingRestore_tip>모든 옵션을 기본값으로 되돌립니다.</Kzi_SettingRestore_tip>
+</LanguageData>
