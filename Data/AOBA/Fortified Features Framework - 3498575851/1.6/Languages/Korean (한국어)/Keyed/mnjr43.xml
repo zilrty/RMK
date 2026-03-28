@@ -130,4 +130,9 @@
   <FFF_StructureGenerated>전개된 구조물: {0}</FFF_StructureGenerated>
   <FFF.Armor.CE>{0}mmRha 방어도</FFF.Armor.CE>
   <FFF.Armor.Vanilla>{0}% 방어도</FFF.Armor.Vanilla>
+  <FFF_NextRaidIn>다음 습격까지 예상 시간: {0}</FFF_NextRaidIn>
+  <FFF_NextStrikeIn>다음 공습까지 예상 시간: {0}</FFF_NextStrikeIn>
+  <FFF_NextStrikeStatus>항공 지원 상태: {0}</FFF_NextStrikeStatus>
+  <FFF_Status_Standby>대기 중 (표적 지정 대기)</FFF_Status_Standby>
+  <FFF_Site_LocalMonitoring>현지 감시 중 (오프라인)</FFF_Site_LocalMonitoring>
 </LanguageData>
