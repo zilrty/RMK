@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ASQMoreJob_IdleJob_Reading.reportString>TargetA 읽는 중</ASQMoreJob_IdleJob_Reading.reportString>
+  <ASQMoreJob_IdleJob_TakeANap.reportString>TargetA에서 낮잠 자는 중</ASQMoreJob_IdleJob_TakeANap.reportString>
+  <ASQMoreJob_IdleJob_PlayPhoneOnBed.reportString>TargetA에 누워서 폰 하는 중</ASQMoreJob_IdleJob_PlayPhoneOnBed.reportString>
+  <ASQMoreJob_IdleJob_WatchTV.reportString>TargetA 보는 중</ASQMoreJob_IdleJob_WatchTV.reportString>
+</LanguageData>
