@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LavenderDiffuser.label>라벤더 디퓨저</LavenderDiffuser.label>
+  <LavenderDiffuser.description>나무와 강철로 만든 리필식 장치입니다. 라벤더를 연료로 채우면 24시간 동안 마음을 진정시키는 향기를 내뿜습니다.</LavenderDiffuser.description>
+
+  <RawLavender.label>라벤더</RawLavender.label>
+  <RawLavender.description>향료를 만드는 데 사용되는 향기로운 보라색 꽃입니다.</RawLavender.description>
+
+  <Plant_Lavender.label>라벤더</Plant_Lavender.label>
+  <Plant_Lavender.description>마음을 진정시키는 향기로 잘 알려진 꽃식물입니다. 감자와 비슷한 속도로 자랍니다.</Plant_Lavender.description>
+</LanguageData>
