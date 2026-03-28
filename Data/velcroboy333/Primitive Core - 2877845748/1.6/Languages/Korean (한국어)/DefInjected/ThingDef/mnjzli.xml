@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBY_PrimitiveStoneCuttingSpot.label>원시 석재 절삭 장소</VBY_PrimitiveStoneCuttingSpot.label>
+  <VBY_PrimitiveStoneCuttingSpot.description>큰 바위를 부수어 더 작은 돌로 만드는 장소입니다.</VBY_PrimitiveStoneCuttingSpot.description>
+  <VBY_PrimitiveFlint.label>부싯돌</VBY_PrimitiveFlint.label>
+  <VBY_PrimitiveFlint.description>부싯돌은 석영 광물의 퇴적성 미세 결정 구조 형태입니다. 역사적으로 석기 제작과 불을 피우는 데 널리 사용되었습니다. 주로 백악암이나 석회암과 같은 퇴적암에서 덩어리 형태로 발견됩니다. 내부는 짙은 회색, 검정, 녹색, 흰색 또는 갈색을 띠며, 유리질 또는 왁스 같은 광택을 보입니다. 부싯돌은 날카로운 파편으로 잘 쪼개져 칼날과 절단 도구 제작에 적합합니다.</VBY_PrimitiveFlint.description>
+</LanguageData>
