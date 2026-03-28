@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fufu.ChangeSize>크기 및 위치 조정</Fufu.ChangeSize>
+  <Fufu.ChangeSizeDesc>푸푸의 크기와 표시 위치를 변경합니다.</Fufu.ChangeSizeDesc>
+  <Fufu.ChangeSizeTitle>크기 및 위치 조정</Fufu.ChangeSizeTitle>
+  <Fufu.ChangeSizeDescription>현재 푸푸 크기: {0}\n0.1에서 2.0 사이로 조절할 수 있습니다.</Fufu.ChangeSizeDescription>
+  <Fufu.ChangeOffset>현재 푸푸 세로 위치: {0}\n-1.0에서 1.0 사이로 조절할 수 있습니다.</Fufu.ChangeOffset>
+  <Fufu.ChangeXOffset>현재 푸푸 가로 위치: {0}\n-1.0에서 1.0 사이로 조절할 수 있습니다.</Fufu.ChangeXOffset>
+  <Fufu.ChangeLayer>현재 푸푸 출력 레이어</Fufu.ChangeLayer>
+  <Fufu.MaxMood>정착민이 푸푸로부터 얻을 수 있는 최대 무드 보너스:</Fufu.MaxMood>
+  <Fufu.MustTailorBench>재봉 작업대 위에 배치해야 합니다.</Fufu.MustTailorBench>
+  <Fufu.MustSameRot>재봉 작업대와 같은 방향을 바라보도록 배치해야 합니다.</Fufu.MustSameRot>
+  <Fufu.MustPlaceEdge>재봉 작업대 가장자리의 특정 위치에 배치해야 합니다.</Fufu.MustPlaceEdge>
+  <Fufu.TreasureAppear>신비로운 상자</Fufu.TreasureAppear>
+  <Fufu.TreasureAppearDesc>근처에 반짝이는 다이아몬드 상자가 나타났습니다! 이 지역에 푸푸가 가득한 것에 이끌린 누군가가 특별히 보낸 보물상자인 것 같습니다. 안에 무엇이 들어 있는지 확인해 볼까요?</Fufu.TreasureAppearDesc>
+  <Fufu.SelectTitle>푸푸 모드의 제작자는 누구인가요?</Fufu.SelectTitle>
+  <Fufu.SelectDesc>번호 자물쇠가 채워진 것 같습니다. 상자를 열려면 올바른 항목을 선택하세요.</Fufu.SelectDesc>
+  <Fufu.Check>확인</Fufu.Check>
+  <Fufu.Treasure>재봉틀 획득</Fufu.Treasure>
+  <Fufu.TreasureDesc>보물상자 안에는 우리가 직접 푸푸를 만들 수 있도록 정교하게 설계된 재봉틀이 들어 있습니다. \n\n푸푸는 정확히 무엇으로 만들어졌을까요? 바로 정성과 인내, 그리고 사랑입니다.</Fufu.TreasureDesc>
+</LanguageData>
