@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Auraeyl_PlayerColony.label>아우레일 정착지</Auraeyl_PlayerColony.label>
+  <Auraeyl_PlayerColony.description>당신의 거주지.</Auraeyl_PlayerColony.description>
+  <Auraeyl_PlayerColony.pawnsPlural>정착민</Auraeyl_PlayerColony.pawnsPlural>
+  <Auraeyl_PlayerColony.pawnSingular>구성원</Auraeyl_PlayerColony.pawnSingular>
+  <Auraeyl_PlayerColony.leaderTitle>리더</Auraeyl_PlayerColony.leaderTitle>
+  <ERN_AuraeylFaction.label>아우레일 거주지</ERN_AuraeylFaction.label>
+  <ERN_AuraeylFaction.description>이들은 이곳에 오래 살지는 않았지만, 좋은 관계를 맺기 위해 왔습니다. 다른 집단에 비해 상대적으로 첨단 기술을 보유한 아우레일족은 사람들의 신뢰를 얻어 새로운 보금자리를 마련하고자 합니다.</ERN_AuraeylFaction.description>
+  <ERN_AuraeylFaction.leaderTitle>최고급 복실이</ERN_AuraeylFaction.leaderTitle>
+  <ERN_AuraeylFaction.pawnSingular>구성원</ERN_AuraeylFaction.pawnSingular>
+  <ERN_AuraeylFaction.pawnsPlural>구성원들</ERN_AuraeylFaction.pawnsPlural>
+</LanguageData>

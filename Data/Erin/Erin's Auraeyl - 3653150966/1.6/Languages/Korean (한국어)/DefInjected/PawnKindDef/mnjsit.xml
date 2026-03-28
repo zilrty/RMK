@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ERN_Frystelk.label>프라이스텔</ERN_Frystelk.label>
+  <ERN_Frystelk.lifeStages.0.label>프라이스텔 새끼</ERN_Frystelk.lifeStages.0.label>
+  <ERN_Frystelk.lifeStages.0.labelPlural>프라이스텔 새끼들</ERN_Frystelk.lifeStages.0.labelPlural>
+  <ERN_GreaterFrystelk.label>상위 프라이스텔</ERN_GreaterFrystelk.label>
+  <ERN_GreaterFrystelk.lifeStages.0.label>프라이스텔 새끼</ERN_GreaterFrystelk.lifeStages.0.label>
+  <ERN_GreaterFrystelk.lifeStages.0.labelPlural>프라이스텔 새끼들</ERN_GreaterFrystelk.lifeStages.0.labelPlural>
+  <ERN_Caelys.label>케일리스</ERN_Caelys.label>
+  <ERN_Caelys.lifeStages.0.label>케일리스 새기</ERN_Caelys.lifeStages.0.label>
+  <ERN_Tolvyr.label>톨비르</ERN_Tolvyr.label>
+  <ERN_AuraeylPlayer.label>아우레일</ERN_AuraeylPlayer.label>
+  <Auraeyl_Villager.label>마을 주민</Auraeyl_Villager.label>
+  <Auraeyl_Town_Guard.label>경비병</Auraeyl_Town_Guard.label>
+  <Auraeyl_Town_Trader.label>상인</Auraeyl_Town_Trader.label>
+  <Auraeyl_Town_Councilman.label>위원회</Auraeyl_Town_Councilman.label>
+  <Auraeyl_Town_Councilman.labelPlural>위원회</Auraeyl_Town_Councilman.labelPlural>
+  <Auraeyl_Merc.label>용병</Auraeyl_Merc.label>
+</LanguageData>
