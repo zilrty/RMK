@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Interaction_KiiroCuddle.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 코끝을 살짝 톡 건드려 보았습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 머리를 쓰다듬자, [RECIPIENT_nameDef]의 귀가 기분 좋은 듯 씰룩거렸습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 귀를 만져주자, [RECIPIENT_nameDef](이)가 간지러운 듯 웃음을 터뜨렸습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 깃털 날개로 [RECIPIENT_nameDef]을 포근하게 감싸 안아주었습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 턱을 긁어주자, [RECIPIENT_nameDef](이)가 골골거리는 소리를 냈습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 자신의 깃털로 만든 강아지풀로 [RECIPIENT_nameDef]을(를) 이리저리 뛰어다니게 하며 놀아주었습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]을 꼬옥 껴안고 깊이 숨을 들이켰습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 품에 안겨 몇 분 동안 잠을 청했습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 곁에 딱 붙어 서로 몸을 기댔습니다.</li>
+  </Interaction_KiiroCuddle.logRulesInitiator.rulesStrings>
+</LanguageData>

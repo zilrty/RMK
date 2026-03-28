@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Interaction_KiiroCuddle_Bunny.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 작은 코를 쫑긋거리며 [RECIPIENT_nameDef]의 냄새를 킁킁 맡았습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 귀를 살짝 만지자, [RECIPIENT_nameDef](이)가 [INITIATOR_nameDef]의 코를 톡 건드렸습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef]의 긴 귀가 [RECIPIENT_nameDef] 앞에서 살랑거리자, [RECIPIENT_nameDef](이)가 덥석 붙잡았습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 귓가에 대고 속삭이자, [RECIPIENT_nameDef]의 얼굴이 목까지 빨개졌습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef](이)가 서로 몸을 부딪치며 장난스럽게 산책했습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 고양이 꼬리를 입에 넣자, [RECIPIENT_nameDef]도 지지 않고 [INITIATOR_nameDef]의 토끼 꼬리를 앙 물었습니다.</li>
+  </Interaction_KiiroCuddle_Bunny.logRulesInitiator.rulesStrings>
+</LanguageData>

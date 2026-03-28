@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MiliraKiiroCuddle.Mod>밀리라 키이로 쓰다듬기</MiliraKiiroCuddle.Mod>
+  <MiliraKiiroCuddle.Settings.MaxCuddleDistance>최대 쓰다듬기 거리: </MiliraKiiroCuddle.Settings.MaxCuddleDistance>
+  <MiliraKiiroCuddle.Settings.MaxCuddleDistance.Tooltip>정착민이 키이로를 쓰다듬으려 할 때, 이 수치보다 멀리 떨어진 키이로는 대상으로 고려하지 않습니다. 기본값: 50</MiliraKiiroCuddle.Settings.MaxCuddleDistance.Tooltip>
+  <MiliraKiiroCuddle.Settings.MoodGainKiiro>쓰다듬을 받았을 때 키이로의 무드 보너스: </MiliraKiiroCuddle.Settings.MoodGainKiiro>
+  <MiliraKiiroCuddle.Settings.MoodGainKiiro.Tooltip>키이로가 쓰다듬을 받을 때마다 획득하는 무드 보너스 수치입니다. 기본값: 5</MiliraKiiroCuddle.Settings.MoodGainKiiro.Tooltip>
+  <MiliraKiiroCuddle.Settings.MoodGainMilira>키이로를 쓰다듬었을 때 밀리라의 무드 보너스: </MiliraKiiroCuddle.Settings.MoodGainMilira>
+  <MiliraKiiroCuddle.Settings.MoodGainMilira.Tooltip>밀리라가 키이로를 쓰다듬을 때마다 획득하는 무드 보너스 수치입니다. 기본값: 8</MiliraKiiroCuddle.Settings.MoodGainMilira.Tooltip>
+  <MiliraKiiroCuddle.Settings.MaxJoyGain>회당 최대 재미 획득량 (%): </MiliraKiiroCuddle.Settings.MaxJoyGain>
+  <MiliraKiiroCuddle.Settings.MaxJoyGain.Tooltip>상호작용 시 밀리라와 키이로의 재미 수치 상승량입니다. 기본값: 10%</MiliraKiiroCuddle.Settings.MaxJoyGain.Tooltip>
+  <MiliraKiiroCuddle.Settings.DisableRaceLimit>종족 제한 비활성화. 모든 종족이 키이로를 쓰다듬을 수 있게 허용합니다. (주의: 상호작용 로그 텍스트가 어색해질 수 있어 몰입감을 해칠 수 있습니다!)</MiliraKiiroCuddle.Settings.DisableRaceLimit>
+  <MiliraKiiroCuddle.Settings.CuddlingChance>쓰다듬기 우선순위: </MiliraKiiroCuddle.Settings.CuddlingChance>
+  <MiliraKiiroCuddle.Settings.CuddlingChance.Tooltip>다른 오락 활동과 비교했을 때 키이로를 쓰다듬으러 갈 확률(우선순위)입니다. 기본값: 2.5</MiliraKiiroCuddle.Settings.CuddlingChance.Tooltip>
+</LanguageData>

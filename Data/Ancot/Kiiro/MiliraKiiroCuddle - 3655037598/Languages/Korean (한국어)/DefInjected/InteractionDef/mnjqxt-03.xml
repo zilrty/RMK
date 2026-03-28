@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Interaction_KiiroCuddle_Kiiro.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef](이)가 서로에게 기대어 따스한 햇볕을 쬐었습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef](이)가 바닥에서 뒹굴며 장난을 쳤습니다. 흩날리는 털들이 햇빛을 받아 따스하게 빛납니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef]의 고양이 꼬리가 서로 얽혀 하트 모양을 그렸습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 위에 엎드려 깜빡 낮잠을 잤습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef](이)가 서로의 털을 정성스럽게 골라주었습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef](이)가 서로를 꼬옥 껴안았습니다. 세상에 이보다 더 따뜻한 풍경은 없을 거예요.</li>
+  </Interaction_KiiroCuddle_Kiiro.logRulesInitiator.rulesStrings>
+</LanguageData>

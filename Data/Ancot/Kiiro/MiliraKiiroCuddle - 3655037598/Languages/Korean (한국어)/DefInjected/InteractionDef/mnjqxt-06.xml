@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Interaction_KiiroCuddle_Common.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 머리를 쓰다듬자, [RECIPIENT_nameDef]의 귀가 기분 좋은 듯 씰룩거렸습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 턱을 긁어주려 했으나, [RECIPIENT_nameDef](이)가 부끄러운 듯 손을 쳐냈습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 고양이 낚싯대로 [RECIPIENT_nameDef]을(를) 이리저리 뛰어다니게 하며 놀아주었습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 레이저 포인터로 [RECIPIENT_nameDef]을(를) 위아래로 폴짝폴짝 뛰게 만들었습니다.</li>
+  </Interaction_KiiroCuddle_Common.logRulesInitiator.rulesStrings>
+</LanguageData>
