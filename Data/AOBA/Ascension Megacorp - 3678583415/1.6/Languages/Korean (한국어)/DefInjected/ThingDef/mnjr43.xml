@@ -184,4 +184,8 @@
   <USAC_Ammo_338Lapua_DU.description>.338 라푸아 매그넘 (8.6×70mm 또는 8.58×70mm)은 군용 장거리 저격소총에 쓰이는 탄환입니다.</USAC_Ammo_338Lapua_DU.description>
   <USAC_Ammo_20x102mmNATO_DU.description>오토캐논에 사용되는 대구경 탄약입니다.</USAC_Ammo_20x102mmNATO_DU.description>
   <USAC_Ammo_35x228mmNATO_DU.description>오토캐논에 사용되는 대구경 탄약입니다.</USAC_Ammo_35x228mmNATO_DU.description>
+  <USAC_Bullet_CASAC_EMP.label>EMP 포탄</USAC_Bullet_CASAC_EMP.label>
+  <USAC_CorpseStorage.label>USAC 표준 시신 보관 솔루션</USAC_CorpseStorage.label>
+  <USAC_CorpseStorage.description>현재 USAC가 승인한 유일한 인도주의적 시신 보관 용기로, 더 적은 공간에 여러 구의 시신을 보관할 수 있습니다. 이 고급형 시신 가방은 전력이 공급되면 내부 냉장 기능을 제공하여 습식 자산을 장기간 보존할 수 있도록 해줍니다. 재사용 가능하며 내구성도 뛰어납니다.</USAC_CorpseStorage.description>
+  <USAC_TransportIncoming.label>궤도 수송선(도착 중)</USAC_TransportIncoming.label>
 </LanguageData>
