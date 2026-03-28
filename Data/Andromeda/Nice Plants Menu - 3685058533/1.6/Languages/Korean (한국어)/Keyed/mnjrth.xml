@@ -32,16 +32,15 @@
   <NPM_ShouldBeRoofed>햇빛에 노출된 칸이 있음</NPM_ShouldBeRoofed>
   <NPM_MarketValueShort>시장 가치</NPM_MarketValueShort>
   <NPM_OptimalTemperature>최적</NPM_OptimalTemperature>
-  <NPM_FoodForHumanTip>작물을 모두 수확한 후 간단한 식사로 만들면, {0}명의 사람을 먹일 수 있습니다</NPM_FoodForHumanTip>
   <NPM_CalculatedForAnimals>동물 기준으로 계산:</NPM_CalculatedForAnimals>
   <NPM_DateCalcTip>예상 성장 기간 {0}일\n\n평균 토질 {1}\n성장 시간 {2}</NPM_DateCalcTip>
   <NPM_DateCalcTip_Sun>햇빛</NPM_DateCalcTip_Sun>
   <NPM_DateCalcTip_Lamp>인공 빛</NPM_DateCalcTip_Lamp>
   <NPM_DateCalcTip_Darkness>어둠</NPM_DateCalcTip_Darkness>
   <NPM_Filter_Category_Food>식용</NPM_Filter_Category_Food>
-  <NPM_Filter_Category_Animals>사료</NPM_Filter_Category_Animals>
-  <NPM_Filter_Category_Medicine>약용</NPM_Filter_Category_Medicine>
-  <NPM_Filter_Category_Drug>기호품</NPM_Filter_Category_Drug>
+  <NPM_Filter_Category_Animals>동물 사료</NPM_Filter_Category_Animals>
+  <NPM_Filter_Category_Medicine>의약품</NPM_Filter_Category_Medicine>
+  <NPM_Filter_Category_Drug>약용</NPM_Filter_Category_Drug>
   <NPM_Filter_Category_Misc>기타</NPM_Filter_Category_Misc>
   <NPM_Filter_Category_Tree>나무</NPM_Filter_Category_Tree>
   <NPM_Filter_Category_Pollution>오염된 토양</NPM_Filter_Category_Pollution>
@@ -50,4 +49,10 @@
   <NPM_Settings_CountInRow>한 줄에 표시할 식물 수</NPM_Settings_CountInRow>
   <NPM_Settings_SplitByCategories>카테고리별로 식물 분류</NPM_Settings_SplitByCategories>
   <NPM_Settings_ShowCategoryIcons>카테고리 아이콘 표시</NPM_Settings_ShowCategoryIcons>
+  <NPM_TotalNutrition>총 열량</NPM_TotalNutrition>
+  <NPM_FeedHumanTip>수확물을 모두 가공하면 이 재배지가 먹일 수 있는 수</NPM_FeedHumanTip>
+  <NPM_Filter_Category_Houseplant>실내</NPM_Filter_Category_Houseplant>
+  <NPM_Settings_AlwaysShowLightRequirement>항상 빛 필요량 표시</NPM_Settings_AlwaysShowLightRequirement>
+  <NPM_Settings_AllowResizeWindow>창 크기 변경 허용</NPM_Settings_AllowResizeWindow>
+  <NPM_Settings_ReopenWindow>변경사항을 적용하려면 창을 닫고 다시 여세요</NPM_Settings_ReopenWindow>
 </LanguageData>
