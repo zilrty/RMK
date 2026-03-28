@@ -7,4 +7,7 @@
   <MF_FlightRange.label>비행거리</MF_FlightRange.label>
   <MF_FlightRange.description>최대 비행 사거리</MF_FlightRange.description>
   <MF_FlightRange.formatString>{0}</MF_FlightRange.formatString>
+  <ExosuitMoveSpeed.label>엑소슈트 이동 속도</ExosuitMoveSpeed.label>
+  <ExosuitMoveSpeed.description>엑소슈트 모듈이 제공하는 이동 속도입니다.</ExosuitMoveSpeed.description>
+  <ExosuitMoveSpeed.formatString>{0}칸 / 초</ExosuitMoveSpeed.formatString>
 </LanguageData>

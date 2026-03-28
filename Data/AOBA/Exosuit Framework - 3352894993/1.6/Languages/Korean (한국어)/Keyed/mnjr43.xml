@@ -166,4 +166,17 @@
   <WG_TurretAmmo_NoAmmo>장전된 탄약 없음</WG_TurretAmmo_NoAmmo>
   <WG_TurretAmmo_Status>{0}: {1}/{2}</WG_TurretAmmo_Status>
   <WG_TurretAmmo_BackpackEnabled>배낭 급탄: 활성화됨</WG_TurretAmmo_BackpackEnabled>
+  <WG_WeaponModule>무장</WG_WeaponModule>
+  <WG_WeaponModule_Desc>이 모듈이 제공하는 무장입니다. 엑소슈트가 활성화된 상태에서 전환할 수 있습니다.</WG_WeaponModule_Desc>
+  <WG_FuelCell_FuelPercent>연료량</WG_FuelCell_FuelPercent>
+  <WG_FuelCell_FuelPercent_Desc>모듈에 현재 남아 있는 연료 비율입니다.</WG_FuelCell_FuelPercent_Desc>
+  <WG_FuelCell_FuelCapacity>연료 용량</WG_FuelCell_FuelCapacity>
+  <WG_FuelCell_FuelCapacity_Desc>모듈에 저장할 수 있는 최대 연료량입니다.</WG_FuelCell_FuelCapacity_Desc>
+  <WG_FuelCell_FuelPerUnit>단위당 재충전량</WG_FuelCell_FuelPerUnit>
+  <WG_FuelCell_FuelPerUnit_Desc>연료 1개당 재충전되는 연료량입니다.</WG_FuelCell_FuelPerUnit_Desc>
+  <WG_FuelCell_FuelConsumptionPerDay>일일 연료 소모량</WG_FuelCell_FuelConsumptionPerDay>
+  <WG_FuelCell_FuelConsumptionPerDay_Desc>작동 중 하루에 소모되는 연료량입니다.</WG_FuelCell_FuelConsumptionPerDay_Desc>
+  <WG_FuelCell_MoveSpeedOffset_Desc>연료가 충분할 때 이 엑소슈트 모듈이 제공하는 이동 속도 보너스입니다.</WG_FuelCell_MoveSpeedOffset_Desc>
+  <WG_FuelCell_Hediff>상태 효과</WG_FuelCell_Hediff>
+  <WG_FuelCell_Hediff_Desc>이 모듈이 활성화되면 적용되는 헤디프입니다.</WG_FuelCell_Hediff_Desc>
 </LanguageData>
