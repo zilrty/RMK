@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bloodwyrm.label>블러드부름</Bloodwyrm.label>
+  <Bloodwyrm.lifeStages.0.label>블러드부름 새끼</Bloodwyrm.lifeStages.0.label>
+  <Bloodwyrm.lifeStages.0.labelPlural>블러드부름 새끼들</Bloodwyrm.lifeStages.0.labelPlural>
+  <Bloodwyrm.lifeStages.1.label>블러드부름 아성체</Bloodwyrm.lifeStages.1.label>
+  <Bloodwyrm.lifeStages.1.labelPlural>블러드부름 아성체들</Bloodwyrm.lifeStages.1.labelPlural>
+  <Bloodwyrm.lifeStages.2.label>블러드부름</Bloodwyrm.lifeStages.2.label>
+  <Bloodwyrm.lifeStages.2.labelPlural>블러드부름들</Bloodwyrm.lifeStages.2.labelPlural>
+  <Bloodwyrm.lifeStages.3.label>고위 블러드부름</Bloodwyrm.lifeStages.3.label>
+  <Bloodwyrm.lifeStages.3.labelPlural>고위 블러드부름들</Bloodwyrm.lifeStages.3.labelPlural>
+  <Bloodwyrm.lifeStages.4.label>고대 불러드부름</Bloodwyrm.lifeStages.4.label>
+  <Bloodwyrm.lifeStages.4.labelPlural>고대 불러드부름들</Bloodwyrm.lifeStages.4.labelPlural>
+  <GoliathZaldrizes.label>태산 드래곤</GoliathZaldrizes.label>
+  <GoliathZaldrizes.lifeStages.0.label>태산 드래곤 새끼</GoliathZaldrizes.lifeStages.0.label>
+  <GoliathZaldrizes.lifeStages.0.labelPlural>태산 드래곤 새끼들</GoliathZaldrizes.lifeStages.0.labelPlural>
+  <GoliathZaldrizes.lifeStages.1.label>태산 드래곤 아성체</GoliathZaldrizes.lifeStages.1.label>
+  <GoliathZaldrizes.lifeStages.1.labelPlural>태산 드래곤 아성체들</GoliathZaldrizes.lifeStages.1.labelPlural>
+  <GoliathZaldrizes.lifeStages.2.label>태산 드래곤</GoliathZaldrizes.lifeStages.2.label>
+  <GoliathZaldrizes.lifeStages.2.labelPlural>태산 드래곤들</GoliathZaldrizes.lifeStages.2.labelPlural>
+  <GoliathZaldrizes.lifeStages.3.label>고위 태산 드래곤</GoliathZaldrizes.lifeStages.3.label>
+  <GoliathZaldrizes.lifeStages.3.labelPlural>고위 태산 드래곤들</GoliathZaldrizes.lifeStages.3.labelPlural>
+  <GoliathZaldrizes.lifeStages.4.label>고대 태산 드래곤</GoliathZaldrizes.lifeStages.4.label>
+  <GoliathZaldrizes.lifeStages.4.labelPlural>고대 태산 드래곤들</GoliathZaldrizes.lifeStages.4.labelPlural>
+  <TopazZaldrizes.label>황옥 드래곤</TopazZaldrizes.label>
+  <TopazZaldrizes.lifeStages.0.label>황옥 드래곤 새끼</TopazZaldrizes.lifeStages.0.label>
+  <TopazZaldrizes.lifeStages.0.labelPlural>황옥 드래곤 새끼들</TopazZaldrizes.lifeStages.0.labelPlural>
+  <TopazZaldrizes.lifeStages.1.label>황옥 드래곤 아성체</TopazZaldrizes.lifeStages.1.label>
+  <TopazZaldrizes.lifeStages.1.labelPlural>황옥 드래곤 아성체들</TopazZaldrizes.lifeStages.1.labelPlural>
+  <TopazZaldrizes.lifeStages.2.label>황옥 드래곤</TopazZaldrizes.lifeStages.2.label>
+  <TopazZaldrizes.lifeStages.2.labelPlural>황옥 드래곤들</TopazZaldrizes.lifeStages.2.labelPlural>
+  <TopazZaldrizes.lifeStages.3.label>고위 황옥 드래곤</TopazZaldrizes.lifeStages.3.label>
+  <TopazZaldrizes.lifeStages.3.labelPlural>고위 황옥 드래곤들</TopazZaldrizes.lifeStages.3.labelPlural>
+  <TopazZaldrizes.lifeStages.4.label>고대 황옥 드래곤</TopazZaldrizes.lifeStages.4.label>
+  <TopazZaldrizes.lifeStages.4.labelPlural>고대 황옥 드래곤들</TopazZaldrizes.lifeStages.4.labelPlural>
+  <IvoryZaldrizes.label>상아 드래곤</IvoryZaldrizes.label>
+  <IvoryZaldrizes.lifeStages.0.label>상아 드래곤 새끼</IvoryZaldrizes.lifeStages.0.label>
+  <IvoryZaldrizes.lifeStages.0.labelPlural>상아 드래곤 새끼들</IvoryZaldrizes.lifeStages.0.labelPlural>
+  <IvoryZaldrizes.lifeStages.1.label>상아 드래곤 아성체</IvoryZaldrizes.lifeStages.1.label>
+  <IvoryZaldrizes.lifeStages.1.labelPlural>상아 드래곤 아성체들</IvoryZaldrizes.lifeStages.1.labelPlural>
+  <IvoryZaldrizes.lifeStages.2.label>상아 드래곤</IvoryZaldrizes.lifeStages.2.label>
+  <IvoryZaldrizes.lifeStages.2.labelPlural>상아 드래곤들</IvoryZaldrizes.lifeStages.2.labelPlural>
+  <IvoryZaldrizes.lifeStages.3.label>고위 상아 드래곤</IvoryZaldrizes.lifeStages.3.label>
+  <IvoryZaldrizes.lifeStages.3.labelPlural>고위 상아 드래곤들</IvoryZaldrizes.lifeStages.3.labelPlural>
+  <IvoryZaldrizes.lifeStages.4.label>고대 상아 드래곤</IvoryZaldrizes.lifeStages.4.label>
+  <IvoryZaldrizes.lifeStages.4.labelPlural>고대 상아 드래곤들</IvoryZaldrizes.lifeStages.4.labelPlural>
+  <VerdantZaldrizes.label>신록 드래곤</VerdantZaldrizes.label>
+  <VerdantZaldrizes.lifeStages.0.label>신록 드래곤 새끼</VerdantZaldrizes.lifeStages.0.label>
+  <VerdantZaldrizes.lifeStages.0.labelPlural>신록 드래곤 새끼들</VerdantZaldrizes.lifeStages.0.labelPlural>
+  <VerdantZaldrizes.lifeStages.1.label>신록 드래곤 아성체</VerdantZaldrizes.lifeStages.1.label>
+  <VerdantZaldrizes.lifeStages.1.labelPlural>신록 드래곤 아성체들</VerdantZaldrizes.lifeStages.1.labelPlural>
+  <VerdantZaldrizes.lifeStages.2.label>신록 드래곤</VerdantZaldrizes.lifeStages.2.label>
+  <VerdantZaldrizes.lifeStages.2.labelPlural>신록 드래곤들</VerdantZaldrizes.lifeStages.2.labelPlural>
+  <VerdantZaldrizes.lifeStages.3.label>고위 신록 드래곤</VerdantZaldrizes.lifeStages.3.label>
+  <VerdantZaldrizes.lifeStages.3.labelPlural>고위 신록 드래곤들</VerdantZaldrizes.lifeStages.3.labelPlural>
+  <VerdantZaldrizes.lifeStages.4.label>고대 신록 드래곤</VerdantZaldrizes.lifeStages.4.label>
+  <VerdantZaldrizes.lifeStages.4.labelPlural>고대 신록 드래곤들</VerdantZaldrizes.lifeStages.4.labelPlural>
+  <KunziteZaldrizes.label>휘석 드래곤</KunziteZaldrizes.label>
+  <KunziteZaldrizes.lifeStages.0.label>휘석 드래곤 새끼</KunziteZaldrizes.lifeStages.0.label>
+  <KunziteZaldrizes.lifeStages.0.labelPlural>휘석 드래곤 새끼들</KunziteZaldrizes.lifeStages.0.labelPlural>
+  <KunziteZaldrizes.lifeStages.1.label>휘석 드래곤 아성체</KunziteZaldrizes.lifeStages.1.label>
+  <KunziteZaldrizes.lifeStages.1.labelPlural>휘석 드래곤 아성체들</KunziteZaldrizes.lifeStages.1.labelPlural>
+  <KunziteZaldrizes.lifeStages.2.label>휘석 드래곤</KunziteZaldrizes.lifeStages.2.label>
+  <KunziteZaldrizes.lifeStages.2.labelPlural>휘석 드래곤들</KunziteZaldrizes.lifeStages.2.labelPlural>
+  <KunziteZaldrizes.lifeStages.3.label>고위 휘석 드래곤</KunziteZaldrizes.lifeStages.3.label>
+  <KunziteZaldrizes.lifeStages.3.labelPlural>고위 휘석 드래곤들</KunziteZaldrizes.lifeStages.3.labelPlural>
+  <KunziteZaldrizes.lifeStages.4.label>고대 휘석 드래곤</KunziteZaldrizes.lifeStages.4.label>
+  <KunziteZaldrizes.lifeStages.4.labelPlural>고대 휘석 드래곤들</KunziteZaldrizes.lifeStages.4.labelPlural>
+  <BloodstoneZaldrizes.label>혈석 드래곤</BloodstoneZaldrizes.label>
+  <BloodstoneZaldrizes.lifeStages.0.label>혈석 드래곤 새끼</BloodstoneZaldrizes.lifeStages.0.label>
+  <BloodstoneZaldrizes.lifeStages.0.labelPlural>혈석 드래곤 새끼들</BloodstoneZaldrizes.lifeStages.0.labelPlural>
+  <BloodstoneZaldrizes.lifeStages.1.label>혈석 드래곤 아성체</BloodstoneZaldrizes.lifeStages.1.label>
+  <BloodstoneZaldrizes.lifeStages.1.labelPlural>혈석 드래곤 아성체들</BloodstoneZaldrizes.lifeStages.1.labelPlural>
+  <BloodstoneZaldrizes.lifeStages.2.label>혈석 드래곤</BloodstoneZaldrizes.lifeStages.2.label>
+  <BloodstoneZaldrizes.lifeStages.2.labelPlural>혈석 드래곤들</BloodstoneZaldrizes.lifeStages.2.labelPlural>
+  <BloodstoneZaldrizes.lifeStages.3.label>고위 혈석 드래곤</BloodstoneZaldrizes.lifeStages.3.label>
+  <BloodstoneZaldrizes.lifeStages.3.labelPlural>고위 혈석 드래곤들</BloodstoneZaldrizes.lifeStages.3.labelPlural>
+  <BloodstoneZaldrizes.lifeStages.4.label>고대 혈석 드래곤</BloodstoneZaldrizes.lifeStages.4.label>
+  <BloodstoneZaldrizes.lifeStages.4.labelPlural>고대 혈석 드래곤들</BloodstoneZaldrizes.lifeStages.4.labelPlural>
+  <AuricZaldrizes.label>황금 드래곤</AuricZaldrizes.label>
+  <AuricZaldrizes.lifeStages.0.label>황금 드래곤 새끼</AuricZaldrizes.lifeStages.0.label>
+  <AuricZaldrizes.lifeStages.0.labelPlural>황금 드래곤 새끼들</AuricZaldrizes.lifeStages.0.labelPlural>
+  <AuricZaldrizes.lifeStages.1.label>황금 드래곤 아성체</AuricZaldrizes.lifeStages.1.label>
+  <AuricZaldrizes.lifeStages.1.labelPlural>황금 드래곤 아성체들</AuricZaldrizes.lifeStages.1.labelPlural>
+  <AuricZaldrizes.lifeStages.2.label>황금 드래곤</AuricZaldrizes.lifeStages.2.label>
+  <AuricZaldrizes.lifeStages.2.labelPlural>황금 드래곤들</AuricZaldrizes.lifeStages.2.labelPlural>
+  <AuricZaldrizes.lifeStages.3.label>고위 황금 드래곤</AuricZaldrizes.lifeStages.3.label>
+  <AuricZaldrizes.lifeStages.3.labelPlural>고위 황금 드래곤들</AuricZaldrizes.lifeStages.3.labelPlural>
+  <AuricZaldrizes.lifeStages.4.label>고대 황금 드래곤</AuricZaldrizes.lifeStages.4.label>
+  <AuricZaldrizes.lifeStages.4.labelPlural>고대 황금 드래곤들</AuricZaldrizes.lifeStages.4.labelPlural>
+  <RubyZaldrizes.label>홍옥 드래곤</RubyZaldrizes.label>
+  <RubyZaldrizes.lifeStages.0.label>홍옥 드래곤 새끼</RubyZaldrizes.lifeStages.0.label>
+  <RubyZaldrizes.lifeStages.0.labelPlural>홍옥 드래곤 새끼들</RubyZaldrizes.lifeStages.0.labelPlural>
+  <RubyZaldrizes.lifeStages.1.label>홍옥 드래곤 아성체</RubyZaldrizes.lifeStages.1.label>
+  <RubyZaldrizes.lifeStages.1.labelPlural>홍옥 드래곤 아성체들</RubyZaldrizes.lifeStages.1.labelPlural>
+  <RubyZaldrizes.lifeStages.2.label>홍옥 드래곤</RubyZaldrizes.lifeStages.2.label>
+  <RubyZaldrizes.lifeStages.2.labelPlural>홍옥 드래곤들</RubyZaldrizes.lifeStages.2.labelPlural>
+  <RubyZaldrizes.lifeStages.3.label>고위 홍옥 드래곤</RubyZaldrizes.lifeStages.3.label>
+  <RubyZaldrizes.lifeStages.3.labelPlural>고위 홍옥 드래곤들</RubyZaldrizes.lifeStages.3.labelPlural>
+  <RubyZaldrizes.lifeStages.4.label>고대 홍옥 드래곤</RubyZaldrizes.lifeStages.4.label>
+  <RubyZaldrizes.lifeStages.4.labelPlural>고대 홍옥 드래곤들</RubyZaldrizes.lifeStages.4.labelPlural>
+  <AgateZaldrizes.label>마노 드래곤</AgateZaldrizes.label>
+  <AgateZaldrizes.lifeStages.0.label>마노 드래곤 새끼</AgateZaldrizes.lifeStages.0.label>
+  <AgateZaldrizes.lifeStages.0.labelPlural>마노 드래곤 새끼들</AgateZaldrizes.lifeStages.0.labelPlural>
+  <AgateZaldrizes.lifeStages.1.label>마노 드래곤 아성체</AgateZaldrizes.lifeStages.1.label>
+  <AgateZaldrizes.lifeStages.1.labelPlural>마노 드래곤 아성체들</AgateZaldrizes.lifeStages.1.labelPlural>
+  <AgateZaldrizes.lifeStages.2.label>마노 드래곤</AgateZaldrizes.lifeStages.2.label>
+  <AgateZaldrizes.lifeStages.2.labelPlural>마노 드래곤들</AgateZaldrizes.lifeStages.2.labelPlural>
+  <AgateZaldrizes.lifeStages.3.label>고위 마노 드래곤</AgateZaldrizes.lifeStages.3.label>
+  <AgateZaldrizes.lifeStages.3.labelPlural>고위 마노 드래곤들</AgateZaldrizes.lifeStages.3.labelPlural>
+  <AgateZaldrizes.lifeStages.4.label>고대 마노 드래곤</AgateZaldrizes.lifeStages.4.label>
+  <AgateZaldrizes.lifeStages.4.labelPlural>고대 마노 드래곤들</AgateZaldrizes.lifeStages.4.labelPlural>
+  <LapisZaldrizes.label>청금 드래곤</LapisZaldrizes.label>
+  <LapisZaldrizes.lifeStages.0.label>청금 드래곤 새끼</LapisZaldrizes.lifeStages.0.label>
+  <LapisZaldrizes.lifeStages.0.labelPlural>청금 드래곤 새끼들</LapisZaldrizes.lifeStages.0.labelPlural>
+  <LapisZaldrizes.lifeStages.1.label>청금 드래곤 아성체</LapisZaldrizes.lifeStages.1.label>
+  <LapisZaldrizes.lifeStages.1.labelPlural>청금 드래곤 아성체들</LapisZaldrizes.lifeStages.1.labelPlural>
+  <LapisZaldrizes.lifeStages.2.label>청금 드래곤</LapisZaldrizes.lifeStages.2.label>
+  <LapisZaldrizes.lifeStages.2.labelPlural>청금 드래곤들</LapisZaldrizes.lifeStages.2.labelPlural>
+  <LapisZaldrizes.lifeStages.3.label>고위 청금 드래곤</LapisZaldrizes.lifeStages.3.label>
+  <LapisZaldrizes.lifeStages.3.labelPlural>고위 청금 드래곤들</LapisZaldrizes.lifeStages.3.labelPlural>
+  <LapisZaldrizes.lifeStages.4.label>고대 청금 드래곤</LapisZaldrizes.lifeStages.4.label>
+  <LapisZaldrizes.lifeStages.4.labelPlural>고대 청금 드래곤들</LapisZaldrizes.lifeStages.4.labelPlural>
+  <BronzeZaldrizes.label>청동 드래곤</BronzeZaldrizes.label>
+  <BronzeZaldrizes.lifeStages.0.label>청동 드래곤 새끼</BronzeZaldrizes.lifeStages.0.label>
+  <BronzeZaldrizes.lifeStages.0.labelPlural>청동 드래곤 새끼들</BronzeZaldrizes.lifeStages.0.labelPlural>
+  <BronzeZaldrizes.lifeStages.1.label>청동 드래곤 아성체</BronzeZaldrizes.lifeStages.1.label>
+  <BronzeZaldrizes.lifeStages.1.labelPlural>청동 드래곤 아성체들</BronzeZaldrizes.lifeStages.1.labelPlural>
+  <BronzeZaldrizes.lifeStages.2.label>청동 드래곤</BronzeZaldrizes.lifeStages.2.label>
+  <BronzeZaldrizes.lifeStages.2.labelPlural>청동 드래곤들</BronzeZaldrizes.lifeStages.2.labelPlural>
+  <BronzeZaldrizes.lifeStages.3.label>고위 청동 드래곤</BronzeZaldrizes.lifeStages.3.label>
+  <BronzeZaldrizes.lifeStages.3.labelPlural>고위 청동 드래곤들</BronzeZaldrizes.lifeStages.3.labelPlural>
+  <BronzeZaldrizes.lifeStages.4.label>고대 청동 드래곤</BronzeZaldrizes.lifeStages.4.label>
+  <BronzeZaldrizes.lifeStages.4.labelPlural>고대 청동 드래곤들</BronzeZaldrizes.lifeStages.4.labelPlural>
+  <ArgentumZaldrizes.label>백은 드래곤</ArgentumZaldrizes.label>
+  <ArgentumZaldrizes.lifeStages.0.label>백은 드래곤 새끼</ArgentumZaldrizes.lifeStages.0.label>
+  <ArgentumZaldrizes.lifeStages.0.labelPlural>백은 드래곤 새끼들</ArgentumZaldrizes.lifeStages.0.labelPlural>
+  <ArgentumZaldrizes.lifeStages.1.label>백은 드래곤 아성체</ArgentumZaldrizes.lifeStages.1.label>
+  <ArgentumZaldrizes.lifeStages.1.labelPlural>백은 드래곤 아성체들</ArgentumZaldrizes.lifeStages.1.labelPlural>
+  <ArgentumZaldrizes.lifeStages.2.label>백은 드래곤</ArgentumZaldrizes.lifeStages.2.label>
+  <ArgentumZaldrizes.lifeStages.2.labelPlural>백은 드래곤들</ArgentumZaldrizes.lifeStages.2.labelPlural>
+  <ArgentumZaldrizes.lifeStages.3.label>고위 백은 드래곤</ArgentumZaldrizes.lifeStages.3.label>
+  <ArgentumZaldrizes.lifeStages.3.labelPlural>고위 백은 드래곤들</ArgentumZaldrizes.lifeStages.3.labelPlural>
+  <ArgentumZaldrizes.lifeStages.4.label>고대 백은 드래곤</ArgentumZaldrizes.lifeStages.4.label>
+  <ArgentumZaldrizes.lifeStages.4.labelPlural>고대 백은 드래곤들</ArgentumZaldrizes.lifeStages.4.labelPlural>
+  <DawnZaldrizes.label>여명 드래곤</DawnZaldrizes.label>
+  <DawnZaldrizes.lifeStages.0.label>여명 드래곤 새끼</DawnZaldrizes.lifeStages.0.label>
+  <DawnZaldrizes.lifeStages.0.labelPlural>여명 드래곤 새끼들</DawnZaldrizes.lifeStages.0.labelPlural>
+  <DawnZaldrizes.lifeStages.1.label>여명 드래곤 아성체</DawnZaldrizes.lifeStages.1.label>
+  <DawnZaldrizes.lifeStages.1.labelPlural>여명 드래곤 아성체들</DawnZaldrizes.lifeStages.1.labelPlural>
+  <DawnZaldrizes.lifeStages.2.label>여명 드래곤</DawnZaldrizes.lifeStages.2.label>
+  <DawnZaldrizes.lifeStages.2.labelPlural>여명 드래곤들</DawnZaldrizes.lifeStages.2.labelPlural>
+  <DawnZaldrizes.lifeStages.3.label>고위 여명 드래곤</DawnZaldrizes.lifeStages.3.label>
+  <DawnZaldrizes.lifeStages.3.labelPlural>고위 여명 드래곤들</DawnZaldrizes.lifeStages.3.labelPlural>
+  <DawnZaldrizes.lifeStages.4.label>고대 여명 드래곤</DawnZaldrizes.lifeStages.4.label>
+  <DawnZaldrizes.lifeStages.4.labelPlural>고대 여명 드래곤들</DawnZaldrizes.lifeStages.4.labelPlural>
+  <CopperZaldrizes.label>적동 드래곤</CopperZaldrizes.label>
+  <CopperZaldrizes.lifeStages.0.label>적동 드래곤 새끼</CopperZaldrizes.lifeStages.0.label>
+  <CopperZaldrizes.lifeStages.0.labelPlural>적동 드래곤 새끼들</CopperZaldrizes.lifeStages.0.labelPlural>
+  <CopperZaldrizes.lifeStages.1.label>적동 드래곤 아성체</CopperZaldrizes.lifeStages.1.label>
+  <CopperZaldrizes.lifeStages.1.labelPlural>적동 드래곤 아성체들</CopperZaldrizes.lifeStages.1.labelPlural>
+  <CopperZaldrizes.lifeStages.2.label>적동 드래곤</CopperZaldrizes.lifeStages.2.label>
+  <CopperZaldrizes.lifeStages.2.labelPlural>적동 드래곤들</CopperZaldrizes.lifeStages.2.labelPlural>
+  <CopperZaldrizes.lifeStages.3.label>고위 적동 드래곤</CopperZaldrizes.lifeStages.3.label>
+  <CopperZaldrizes.lifeStages.3.labelPlural>고위 적동 드래곤들</CopperZaldrizes.lifeStages.3.labelPlural>
+  <CopperZaldrizes.lifeStages.4.label>고대 적동 드래곤</CopperZaldrizes.lifeStages.4.label>
+  <CopperZaldrizes.lifeStages.4.labelPlural>고대 적동 드래곤들</CopperZaldrizes.lifeStages.4.labelPlural>
+  <PyriteZaldrizes.label>황철 드래곤</PyriteZaldrizes.label>
+  <PyriteZaldrizes.lifeStages.0.label>황철 드래곤 새끼</PyriteZaldrizes.lifeStages.0.label>
+  <PyriteZaldrizes.lifeStages.0.labelPlural>황철 드래곤 새끼들</PyriteZaldrizes.lifeStages.0.labelPlural>
+  <PyriteZaldrizes.lifeStages.1.label>황철 드래곤 아성체</PyriteZaldrizes.lifeStages.1.label>
+  <PyriteZaldrizes.lifeStages.1.labelPlural>황철 드래곤 아성체들</PyriteZaldrizes.lifeStages.1.labelPlural>
+  <PyriteZaldrizes.lifeStages.2.label>황철 드래곤</PyriteZaldrizes.lifeStages.2.label>
+  <PyriteZaldrizes.lifeStages.2.labelPlural>황철 드래곤들</PyriteZaldrizes.lifeStages.2.labelPlural>
+  <PyriteZaldrizes.lifeStages.3.label>고위 황철 드래곤</PyriteZaldrizes.lifeStages.3.label>
+  <PyriteZaldrizes.lifeStages.3.labelPlural>고위 황철 드래곤들</PyriteZaldrizes.lifeStages.3.labelPlural>
+  <PyriteZaldrizes.lifeStages.4.label>고대 황철 드래곤</PyriteZaldrizes.lifeStages.4.label>
+  <PyriteZaldrizes.lifeStages.4.labelPlural>고대 황철 드래곤들</PyriteZaldrizes.lifeStages.4.labelPlural>
+  <RegalZaldrizes.label>제왕 드래곤</RegalZaldrizes.label>
+  <RegalZaldrizes.lifeStages.0.label>제왕 드래곤 새끼</RegalZaldrizes.lifeStages.0.label>
+  <RegalZaldrizes.lifeStages.0.labelPlural>제왕 드래곤 새끼들</RegalZaldrizes.lifeStages.0.labelPlural>
+  <RegalZaldrizes.lifeStages.1.label>제왕 드래곤 아성체</RegalZaldrizes.lifeStages.1.label>
+  <RegalZaldrizes.lifeStages.1.labelPlural>제왕 드래곤 아성체들</RegalZaldrizes.lifeStages.1.labelPlural>
+  <RegalZaldrizes.lifeStages.2.label>제왕 드래곤</RegalZaldrizes.lifeStages.2.label>
+  <RegalZaldrizes.lifeStages.2.labelPlural>제왕 드래곤들</RegalZaldrizes.lifeStages.2.labelPlural>
+  <RegalZaldrizes.lifeStages.3.label>고위 제왕 드래곤</RegalZaldrizes.lifeStages.3.label>
+  <RegalZaldrizes.lifeStages.3.labelPlural>고위 제왕 드래곤들</RegalZaldrizes.lifeStages.3.labelPlural>
+  <RegalZaldrizes.lifeStages.4.label>고대 제왕 드래곤</RegalZaldrizes.lifeStages.4.label>
+  <RegalZaldrizes.lifeStages.4.labelPlural>고대 제왕 드래곤들</RegalZaldrizes.lifeStages.4.labelPlural>
+  <MistZaldrizes.label>해무 드래곤</MistZaldrizes.label>
+  <MistZaldrizes.lifeStages.0.label>해무 드래곤 새끼</MistZaldrizes.lifeStages.0.label>
+  <MistZaldrizes.lifeStages.0.labelPlural>해무 드래곤 새끼들</MistZaldrizes.lifeStages.0.labelPlural>
+  <MistZaldrizes.lifeStages.1.label>해무 드래곤 아성체</MistZaldrizes.lifeStages.1.label>
+  <MistZaldrizes.lifeStages.1.labelPlural>해무 드래곤 아성체들</MistZaldrizes.lifeStages.1.labelPlural>
+  <MistZaldrizes.lifeStages.2.label>해무 드래곤</MistZaldrizes.lifeStages.2.label>
+  <MistZaldrizes.lifeStages.2.labelPlural>해무 드래곤들</MistZaldrizes.lifeStages.2.labelPlural>
+  <MistZaldrizes.lifeStages.3.label>고위 해무 드래곤</MistZaldrizes.lifeStages.3.label>
+  <MistZaldrizes.lifeStages.3.labelPlural>고위 해무 드래곤들</MistZaldrizes.lifeStages.3.labelPlural>
+  <MistZaldrizes.lifeStages.4.label>고대 해무 드래곤</MistZaldrizes.lifeStages.4.label>
+  <MistZaldrizes.lifeStages.4.labelPlural>고대 해무 드래곤들</MistZaldrizes.lifeStages.4.labelPlural>
+  <JadeZaldrizes.label>비취 드래곤</JadeZaldrizes.label>
+  <JadeZaldrizes.lifeStages.0.label>비취 드래곤 새끼</JadeZaldrizes.lifeStages.0.label>
+  <JadeZaldrizes.lifeStages.0.labelPlural>비취 드래곤 새끼들</JadeZaldrizes.lifeStages.0.labelPlural>
+  <JadeZaldrizes.lifeStages.1.label>비취 드래곤 아성체</JadeZaldrizes.lifeStages.1.label>
+  <JadeZaldrizes.lifeStages.1.labelPlural>비취 드래곤 아성체들</JadeZaldrizes.lifeStages.1.labelPlural>
+  <JadeZaldrizes.lifeStages.2.label>비취 드래곤</JadeZaldrizes.lifeStages.2.label>
+  <JadeZaldrizes.lifeStages.2.labelPlural>비취 드래곤들</JadeZaldrizes.lifeStages.2.labelPlural>
+  <JadeZaldrizes.lifeStages.3.label>고위 비취 드래곤</JadeZaldrizes.lifeStages.3.label>
+  <JadeZaldrizes.lifeStages.3.labelPlural>고위 비취 드래곤들</JadeZaldrizes.lifeStages.3.labelPlural>
+  <JadeZaldrizes.lifeStages.4.label>고대 비취 드래곤</JadeZaldrizes.lifeStages.4.label>
+  <JadeZaldrizes.lifeStages.4.labelPlural>고대 비취 드래곤들</JadeZaldrizes.lifeStages.4.labelPlural>
+  <BrassZaldrizes.label>황동 드래곤</BrassZaldrizes.label>
+  <BrassZaldrizes.lifeStages.0.label>황동 드래곤 새끼</BrassZaldrizes.lifeStages.0.label>
+  <BrassZaldrizes.lifeStages.0.labelPlural>황동 드래곤 새끼들</BrassZaldrizes.lifeStages.0.labelPlural>
+  <BrassZaldrizes.lifeStages.1.label>황동 드래곤 아성체</BrassZaldrizes.lifeStages.1.label>
+  <BrassZaldrizes.lifeStages.1.labelPlural>황동 드래곤 아성체들</BrassZaldrizes.lifeStages.1.labelPlural>
+  <BrassZaldrizes.lifeStages.2.label>황동 드래곤</BrassZaldrizes.lifeStages.2.label>
+  <BrassZaldrizes.lifeStages.2.labelPlural>황동 드래곤들</BrassZaldrizes.lifeStages.2.labelPlural>
+  <BrassZaldrizes.lifeStages.3.label>고위 황동 드래곤</BrassZaldrizes.lifeStages.3.label>
+  <BrassZaldrizes.lifeStages.3.labelPlural>고위 황동 드래곤들</BrassZaldrizes.lifeStages.3.labelPlural>
+  <BrassZaldrizes.lifeStages.4.label>고대 황동 드래곤</BrassZaldrizes.lifeStages.4.label>
+  <BrassZaldrizes.lifeStages.4.labelPlural>고대 황동 드래곤들</BrassZaldrizes.lifeStages.4.labelPlural>
+  <EbonZaldrizes.label>흑단 드래곤</EbonZaldrizes.label>
+  <EbonZaldrizes.lifeStages.0.label>흑단 드래곤 새끼</EbonZaldrizes.lifeStages.0.label>
+  <EbonZaldrizes.lifeStages.0.labelPlural>흑단 드래곤 새끼들</EbonZaldrizes.lifeStages.0.labelPlural>
+  <EbonZaldrizes.lifeStages.1.label>흑단 드래곤 아성체</EbonZaldrizes.lifeStages.1.label>
+  <EbonZaldrizes.lifeStages.1.labelPlural>흑단 드래곤 아성체들</EbonZaldrizes.lifeStages.1.labelPlural>
+  <EbonZaldrizes.lifeStages.2.label>흑단 드래곤</EbonZaldrizes.lifeStages.2.label>
+  <EbonZaldrizes.lifeStages.2.labelPlural>흑단 드래곤들</EbonZaldrizes.lifeStages.2.labelPlural>
+  <EbonZaldrizes.lifeStages.3.label>고위 흑단 드래곤</EbonZaldrizes.lifeStages.3.label>
+  <EbonZaldrizes.lifeStages.3.labelPlural>고위 흑단 드래곤들</EbonZaldrizes.lifeStages.3.labelPlural>
+  <EbonZaldrizes.lifeStages.4.label>고대 흑단 드래곤</EbonZaldrizes.lifeStages.4.label>
+  <EbonZaldrizes.lifeStages.4.labelPlural>고대 흑단 드래곤들</EbonZaldrizes.lifeStages.4.labelPlural>
+  <MountainZaldrizes.label>거산 드래곤</MountainZaldrizes.label>
+  <MountainZaldrizes.lifeStages.0.label>거산 드래곤 새끼</MountainZaldrizes.lifeStages.0.label>
+  <MountainZaldrizes.lifeStages.0.labelPlural>거산 드래곤 새끼들</MountainZaldrizes.lifeStages.0.labelPlural>
+  <MountainZaldrizes.lifeStages.1.label>거산 드래곤 아성체</MountainZaldrizes.lifeStages.1.label>
+  <MountainZaldrizes.lifeStages.1.labelPlural>거산 드래곤 아성체들</MountainZaldrizes.lifeStages.1.labelPlural>
+  <MountainZaldrizes.lifeStages.2.label>거산 드래곤</MountainZaldrizes.lifeStages.2.label>
+  <MountainZaldrizes.lifeStages.2.labelPlural>거산 드래곤들</MountainZaldrizes.lifeStages.2.labelPlural>
+  <MountainZaldrizes.lifeStages.3.label>고위 거산 드래곤</MountainZaldrizes.lifeStages.3.label>
+  <MountainZaldrizes.lifeStages.3.labelPlural>고위 거산 드래곤들</MountainZaldrizes.lifeStages.3.labelPlural>
+  <MountainZaldrizes.lifeStages.4.label>고대 거산 드래곤</MountainZaldrizes.lifeStages.4.label>
+  <MountainZaldrizes.lifeStages.4.labelPlural>고대 거산 드래곤들</MountainZaldrizes.lifeStages.4.labelPlural>
+</LanguageData>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EggDragonUnfertilized.label>드래곤 알 (무수정)</EggDragonUnfertilized.label>
+  <EggDragonUnfertilized.description>수정되지 않은 상태로 놓인 드래곤 알입니다. 날것으로도 먹을 수 있지만, 조리해 먹는 편이 두말할 것도 없이 낫습니다.</EggDragonUnfertilized.description>
+  <EggBloodWyrmFertilized.label>블러드부름 알 (수정됨)</EggBloodWyrmFertilized.label>
+  <EggBloodWyrmFertilized.description>블러드부름의 알입니다.</EggBloodWyrmFertilized.description>
+  <EggGoliathZaldrizesFertilized.label>태산 드래곤 알 (수정됨)</EggGoliathZaldrizesFertilized.label>
+  <EggGoliathZaldrizesFertilized.description>태산 드래곤의 알입니다.</EggGoliathZaldrizesFertilized.description>
+  <EggTopazZaldrizesFertilized.label>황옥 드래곤 알 (수정됨)</EggTopazZaldrizesFertilized.label>
+  <EggTopazZaldrizesFertilized.description>황옥 드래곤의 알입니다.</EggTopazZaldrizesFertilized.description>
+  <EggIvoryZaldrizesFertilized.label>상아 드래곤 알 (수정됨)</EggIvoryZaldrizesFertilized.label>
+  <EggIvoryZaldrizesFertilized.description>진주처럼 윤이 나는 아주 매끄러운 상앗빛 알입니다.</EggIvoryZaldrizesFertilized.description>
+  <EggVerdantZaldrizesFertilized.label>신록 드래곤 알 (수정됨)</EggVerdantZaldrizesFertilized.label>
+  <EggVerdantZaldrizesFertilized.description>선명한 녹색의 알로서, 우거진 숲속에 잘 숨겨져 있어 발견하기 매우 어렵습니다. 사납다고 알려진 신록 드래곤에게서 나옵니다.</EggVerdantZaldrizesFertilized.description>
+  <EggKunziteZaldrizesFertilized.label>휘석 드래곤 알 (수정됨)</EggKunziteZaldrizesFertilized.label>
+  <EggKunziteZaldrizesFertilized.description>휘석처럼 은은하게 빛나며 연한 청색과 분홍빛이 감도는 선명한 알입니다.</EggKunziteZaldrizesFertilized.description>
+  <EggBloodstoneZaldrizesFertilized.label>혈석 드래곤 알 (수정됨)</EggBloodstoneZaldrizesFertilized.label>
+  <EggBloodstoneZaldrizesFertilized.description>매끄럽게 다듬어진 어둠 위에 진홍빛 반점이 흩뿌려진 듯한 알입니다.</EggBloodstoneZaldrizesFertilized.description>
+  <EggAuricZaldrizesFertilized.label>황금 드래곤 알 (수정됨)</EggAuricZaldrizesFertilized.label>
+  <EggAuricZaldrizesFertilized.description>황금 드래곤의 알입니다.</EggAuricZaldrizesFertilized.description>
+  <EggRubyZaldrizesFertilized.label>홍옥 드래곤 알 (수정됨)</EggRubyZaldrizesFertilized.label>
+  <EggRubyZaldrizesFertilized.description>홍옥 드래곤의 알입니다.</EggRubyZaldrizesFertilized.description>
+  <EggAgateZaldrizesFertilized.label>마노 드래곤 알 (수정됨)</EggAgateZaldrizesFertilized.label>
+  <EggAgateZaldrizesFertilized.description>유백색 바탕에 선명한 주황색 줄무늬가 흐름결을 이루는 알입니다. 해안가에서만 발견됩니다.</EggAgateZaldrizesFertilized.description>
+  <EggLapisZaldrizesFertilized.label>청금 드래곤 알 (수정됨)</EggLapisZaldrizesFertilized.label>
+  <EggLapisZaldrizesFertilized.description>짙은 청색과 청동빛 줄무늬가 어우러진 알로서, 잘 다듬어진 청금석과도 유사한 모양새입니다.</EggLapisZaldrizesFertilized.description>
+  <EggBronzeZaldrizesFertilized.label>청동 드래곤 알 (수정됨)</EggBronzeZaldrizesFertilized.label>
+  <EggBronzeZaldrizesFertilized.description>청동 드래곤의 알입니다.</EggBronzeZaldrizesFertilized.description>
+  <EggArgentumZaldrizesFertilized.label>백은 드래곤 알 (수정됨)</EggArgentumZaldrizesFertilized.label>
+  <EggArgentumZaldrizesFertilized.description>은처럼 빛나 아름답고 매끄러운 자태의 알입니다.</EggArgentumZaldrizesFertilized.description>
+  <EggDawnZaldrizesFertilized.label>여명 드래곤 알 (수정됨)</EggDawnZaldrizesFertilized.label>
+  <EggDawnZaldrizesFertilized.description>밝아오는 새벽빛처럼 어슴푸레 반짝이는 알입니다.</EggDawnZaldrizesFertilized.description>
+  <EggCopperZaldrizesFertilized.label>적동 드래곤 알 (수정됨)</EggCopperZaldrizesFertilized.label>
+  <EggCopperZaldrizesFertilized.description>구리처럼 맥동하는 핏줄이 박인 듯한 홍옥 빛의 알입니다.</EggCopperZaldrizesFertilized.description>
+  <EggPyriteZaldrizesFertilized.label>황철 드래곤 알 (수정됨)</EggPyriteZaldrizesFertilized.label>
+  <EggPyriteZaldrizesFertilized.description>금박이 입혀진 듯한 무늬가 있는 엷고 누르스름한 알입니다.</EggPyriteZaldrizesFertilized.description>
+  <EggRegalZaldrizesFertilized.label>제왕 드래곤 알 (수정됨)</EggRegalZaldrizesFertilized.label>
+  <EggRegalZaldrizesFertilized.description>석영과도 같은 은백색으로 어른거리는 알입니다.</EggRegalZaldrizesFertilized.description>
+  <EggMistZaldrizesFertilized.label>해무 드래곤 알 (수정됨)</EggMistZaldrizesFertilized.label>
+  <EggMistZaldrizesFertilized.description>햇볕에 물든 듯한 부드러운 무늬가 연기처럼 피어오르는 것만 같은 옅은 빛깔의 알입니다.</EggMistZaldrizesFertilized.description>
+  <EggJadeZaldrizesFertilized.label>비취 드래곤 알 (수정됨)</EggJadeZaldrizesFertilized.label>
+  <EggJadeZaldrizesFertilized.description>순옥이 새겨진 듯한 매끄러운 알입니다.</EggJadeZaldrizesFertilized.description>
+  <Bloodwyrm.label>블러드부름</Bloodwyrm.label>
+  <Bloodwyrm.description>유연하고 사나운 블러드부름은 학살을 즐기는 성향을 지녔습니다.</Bloodwyrm.description>
+  <Bloodwyrm.tools.0.label>왼 발톱</Bloodwyrm.tools.0.label>
+  <Bloodwyrm.tools.1.label>오른 발톱</Bloodwyrm.tools.1.label>
+  <Bloodwyrm.tools.2.label>화염 이빨</Bloodwyrm.tools.2.label>
+  <Bloodwyrm.tools.3.label>뿔</Bloodwyrm.tools.3.label>
+  <Bloodwyrm.tools.4.label>꼬리 채찍</Bloodwyrm.tools.4.label>
+  <Bloodwyrm.tools.5.label>타격 반동</Bloodwyrm.tools.5.label>
+  <GoliathZaldrizes.label>태산 드래곤</GoliathZaldrizes.label>
+  <GoliathZaldrizes.description>거대한 체구에서 유래한 이름의 태산 드래곤종은 발리리아 드래곤 중에서도 가장 크고 강력한 축에 속합니다.</GoliathZaldrizes.description>
+  <GoliathZaldrizes.tools.0.label>왼 발톱</GoliathZaldrizes.tools.0.label>
+  <GoliathZaldrizes.tools.1.label>오른 발톱</GoliathZaldrizes.tools.1.label>
+  <GoliathZaldrizes.tools.2.label>독성 이빨</GoliathZaldrizes.tools.2.label>
+  <GoliathZaldrizes.tools.3.label>꼬리 채찍</GoliathZaldrizes.tools.3.label>
+  <GoliathZaldrizes.tools.4.label>뿔</GoliathZaldrizes.tools.4.label>
+  <GoliathZaldrizes.tools.5.label>타격 반동</GoliathZaldrizes.tools.5.label>
+  <TopazZaldrizes.label>황옥 드래곤</TopazZaldrizes.label>
+  <TopazZaldrizes.description>황옥 드래곤종은 노르무레한 비늘에서 이름이 유래했으며, 자부심과 충성심이 강한 괴수입니다.</TopazZaldrizes.description>
+  <TopazZaldrizes.tools.0.label>왼 발톱</TopazZaldrizes.tools.0.label>
+  <TopazZaldrizes.tools.1.label>오른 발톱</TopazZaldrizes.tools.1.label>
+  <TopazZaldrizes.tools.2.label>두개골 강타</TopazZaldrizes.tools.2.label>
+  <TopazZaldrizes.tools.3.label>꼬리 채찍</TopazZaldrizes.tools.3.label>
+  <TopazZaldrizes.tools.4.label>뿔</TopazZaldrizes.tools.4.label>
+  <TopazZaldrizes.tools.5.label>타격 반동</TopazZaldrizes.tools.5.label>
+  <IvoryZaldrizes.label>상아 드래곤</IvoryZaldrizes.label>
+  <IvoryZaldrizes.description>상아 드래곤종은 좀처럼 모습을 드러내지 않지만서도 충직하고 날랜 동료가 되어 줄 수 있습니다.</IvoryZaldrizes.description>
+  <IvoryZaldrizes.tools.0.label>왼 발톱</IvoryZaldrizes.tools.0.label>
+  <IvoryZaldrizes.tools.1.label>오른 발톱</IvoryZaldrizes.tools.1.label>
+  <IvoryZaldrizes.tools.2.label>이빨</IvoryZaldrizes.tools.2.label>
+  <IvoryZaldrizes.tools.3.label>서리 이빨</IvoryZaldrizes.tools.3.label>
+  <IvoryZaldrizes.tools.4.label>두개골 강타</IvoryZaldrizes.tools.4.label>
+  <IvoryZaldrizes.tools.5.label>꼬리 채찍</IvoryZaldrizes.tools.5.label>
+  <IvoryZaldrizes.tools.6.label>뿔</IvoryZaldrizes.tools.6.label>
+  <IvoryZaldrizes.tools.7.label>타격 반동</IvoryZaldrizes.tools.7.label>
+  <VerdantZaldrizes.label>신록 드래곤</VerdantZaldrizes.label>
+  <VerdantZaldrizes.description>외피의 색에서 이름이 유래한 신록 드래곤종은 특유의 사나운 성격으로 명성이 자자합니다.</VerdantZaldrizes.description>
+  <VerdantZaldrizes.tools.0.label>왼 발톱</VerdantZaldrizes.tools.0.label>
+  <VerdantZaldrizes.tools.1.label>오른 발톱</VerdantZaldrizes.tools.1.label>
+  <VerdantZaldrizes.tools.2.label>꼬리 채찍</VerdantZaldrizes.tools.2.label>
+  <VerdantZaldrizes.tools.3.label>뿔</VerdantZaldrizes.tools.3.label>
+  <VerdantZaldrizes.tools.4.label>독성 이빨</VerdantZaldrizes.tools.4.label>
+  <VerdantZaldrizes.tools.5.label>타격 반동</VerdantZaldrizes.tools.5.label>
+  <KunziteZaldrizes.label>휘석 드래곤</KunziteZaldrizes.label>
+  <KunziteZaldrizes.description>은은하게 빛나는 탁색 계열 푸른빛과 연홍빛 비늘에서 이름이 유래한 드래곤종입니다.</KunziteZaldrizes.description>
+  <KunziteZaldrizes.tools.0.label>왼 발톱</KunziteZaldrizes.tools.0.label>
+  <KunziteZaldrizes.tools.1.label>오른 발톱</KunziteZaldrizes.tools.1.label>
+  <KunziteZaldrizes.tools.2.label>서리 이빨</KunziteZaldrizes.tools.2.label>
+  <KunziteZaldrizes.tools.3.label>두개골 강타</KunziteZaldrizes.tools.3.label>
+  <KunziteZaldrizes.tools.4.label>꼬리 채찍</KunziteZaldrizes.tools.4.label>
+  <KunziteZaldrizes.tools.5.label>뿔</KunziteZaldrizes.tools.5.label>
+  <KunziteZaldrizes.tools.6.label>타격 반동</KunziteZaldrizes.tools.6.label>
+  <BloodstoneZaldrizes.label>혈석 드래곤</BloodstoneZaldrizes.label>
+  <BloodstoneZaldrizes.description>불로서 육신으로 거듭난 종입니다.</BloodstoneZaldrizes.description>
+  <BloodstoneZaldrizes.tools.0.label>왼 발톱</BloodstoneZaldrizes.tools.0.label>
+  <BloodstoneZaldrizes.tools.1.label>오른 발톱</BloodstoneZaldrizes.tools.1.label>
+  <BloodstoneZaldrizes.tools.2.label>이빨</BloodstoneZaldrizes.tools.2.label>
+  <BloodstoneZaldrizes.tools.3.label>파열</BloodstoneZaldrizes.tools.3.label>
+  <BloodstoneZaldrizes.tools.4.label>두개골 강타</BloodstoneZaldrizes.tools.4.label>
+  <BloodstoneZaldrizes.tools.5.label>꼬리 채찍</BloodstoneZaldrizes.tools.5.label>
+  <BloodstoneZaldrizes.tools.6.label>뿔</BloodstoneZaldrizes.tools.6.label>
+  <BloodstoneZaldrizes.tools.7.label>타격 반동</BloodstoneZaldrizes.tools.7.label>
+  <AuricZaldrizes.label>황금 드래곤</AuricZaldrizes.label>
+  <AuricZaldrizes.description>황금 드래곤종은 금빛 비늘을 지닌 강력한 괴수로서, 많은 이들로부터 추앙받습니다.</AuricZaldrizes.description>
+  <AuricZaldrizes.tools.0.label>왼 발톱</AuricZaldrizes.tools.0.label>
+  <AuricZaldrizes.tools.1.label>오른 발톱</AuricZaldrizes.tools.1.label>
+  <AuricZaldrizes.tools.2.label>이빨</AuricZaldrizes.tools.2.label>
+  <AuricZaldrizes.tools.3.label>두개골 강타</AuricZaldrizes.tools.3.label>
+  <AuricZaldrizes.tools.4.label>꼬리 채찍</AuricZaldrizes.tools.4.label>
+  <AuricZaldrizes.tools.5.label>뿔</AuricZaldrizes.tools.5.label>
+  <AuricZaldrizes.tools.6.label>타격 반동</AuricZaldrizes.tools.6.label>
+  <RubyZaldrizes.label>홍옥 드래곤</RubyZaldrizes.label>
+  <RubyZaldrizes.description>고귀하고 날쌘 홍옥 드래곤은 결코 만만히 볼 수 없는 존재입니다.</RubyZaldrizes.description>
+  <RubyZaldrizes.tools.0.label>왼 발톱</RubyZaldrizes.tools.0.label>
+  <RubyZaldrizes.tools.1.label>오른 발톱</RubyZaldrizes.tools.1.label>
+  <RubyZaldrizes.tools.2.label>이빨</RubyZaldrizes.tools.2.label>
+  <RubyZaldrizes.tools.3.label>화염 이빨</RubyZaldrizes.tools.3.label>
+  <RubyZaldrizes.tools.4.label>꼬리 채찍</RubyZaldrizes.tools.4.label>
+  <RubyZaldrizes.tools.5.label>뿔</RubyZaldrizes.tools.5.label>
+  <RubyZaldrizes.tools.6.label>타격 반동</RubyZaldrizes.tools.6.label>
+  <AgateZaldrizes.label>마노 드래곤</AgateZaldrizes.label>
+  <AgateZaldrizes.description>마노 드래곤종은 해안가에 서식하며, 흐릿한 회빛과 선명한 주황빛이 어우러진 외형을 지녔습니다.</AgateZaldrizes.description>
+  <AgateZaldrizes.tools.0.label>왼 발톱</AgateZaldrizes.tools.0.label>
+  <AgateZaldrizes.tools.1.label>오른 발톱</AgateZaldrizes.tools.1.label>
+  <AgateZaldrizes.tools.2.label>서리 이빨</AgateZaldrizes.tools.2.label>
+  <AgateZaldrizes.tools.3.label>두개골 강타</AgateZaldrizes.tools.3.label>
+  <AgateZaldrizes.tools.4.label>꼬리 채찍</AgateZaldrizes.tools.4.label>
+  <AgateZaldrizes.tools.5.label>뿔</AgateZaldrizes.tools.5.label>
+  <AgateZaldrizes.tools.6.label>타격 반동</AgateZaldrizes.tools.6.label>
+  <LapisZaldrizes.label>청금 드래곤</LapisZaldrizes.label>
+  <LapisZaldrizes.description>짙은 하늘빛과 금동빛 비늘에서 이름을 따온 드래곤종입니다.</LapisZaldrizes.description>
+  <LapisZaldrizes.tools.0.label>왼 발톱</LapisZaldrizes.tools.0.label>
+  <LapisZaldrizes.tools.1.label>오른 발톱</LapisZaldrizes.tools.1.label>
+  <LapisZaldrizes.tools.2.label>이빨</LapisZaldrizes.tools.2.label>
+  <LapisZaldrizes.tools.3.label>서리 이빨</LapisZaldrizes.tools.3.label>
+  <LapisZaldrizes.tools.4.label>꼬리 채찍</LapisZaldrizes.tools.4.label>
+  <LapisZaldrizes.tools.5.label>뿔</LapisZaldrizes.tools.5.label>
+  <LapisZaldrizes.tools.6.label>타격 반동</LapisZaldrizes.tools.6.label>
+  <BronzeZaldrizes.label>청동 드래곤</BronzeZaldrizes.label>
+  <BronzeZaldrizes.description>청동 드래곤종은 그 이름대로 청동과 같은 비늘을 지닌 강력하고 위력적인 괴수입니다.</BronzeZaldrizes.description>
+  <BronzeZaldrizes.tools.0.label>왼 발톱</BronzeZaldrizes.tools.0.label>
+  <BronzeZaldrizes.tools.1.label>오른 발톱</BronzeZaldrizes.tools.1.label>
+  <BronzeZaldrizes.tools.2.label>이빨</BronzeZaldrizes.tools.2.label>
+  <BronzeZaldrizes.tools.3.label>꼬리 채찍</BronzeZaldrizes.tools.3.label>
+  <BronzeZaldrizes.tools.4.label>뿔</BronzeZaldrizes.tools.4.label>
+  <BronzeZaldrizes.tools.5.label>타격 반동</BronzeZaldrizes.tools.5.label>
+  <ArgentumZaldrizes.label>백은 드래곤</ArgentumZaldrizes.label>
+  <ArgentumZaldrizes.description>고산 지대에 서식하는 백은 드래곤종은 은빛 비늘에서 이름이 유래했습니다.</ArgentumZaldrizes.description>
+  <ArgentumZaldrizes.tools.0.label>왼 발톱</ArgentumZaldrizes.tools.0.label>
+  <ArgentumZaldrizes.tools.1.label>오른 발톱</ArgentumZaldrizes.tools.1.label>
+  <ArgentumZaldrizes.tools.2.label>이빨</ArgentumZaldrizes.tools.2.label>
+  <ArgentumZaldrizes.tools.3.label>서리 이빨</ArgentumZaldrizes.tools.3.label>
+  <ArgentumZaldrizes.tools.4.label>두개골 강타</ArgentumZaldrizes.tools.4.label>
+  <ArgentumZaldrizes.tools.5.label>꼬리 채찍</ArgentumZaldrizes.tools.5.label>
+  <ArgentumZaldrizes.tools.6.label>뿔</ArgentumZaldrizes.tools.6.label>
+  <ArgentumZaldrizes.tools.7.label>타격 반동</ArgentumZaldrizes.tools.7.label>
+  <DawnZaldrizes.label>여명 드래곤</DawnZaldrizes.label>
+  <DawnZaldrizes.description>비늘 위에 드리운 새벽 하늘의 빛깔에서 이름이 유래한 드래곤종입니다.</DawnZaldrizes.description>
+  <DawnZaldrizes.tools.0.label>왼 발톱</DawnZaldrizes.tools.0.label>
+  <DawnZaldrizes.tools.1.label>오른 발톱</DawnZaldrizes.tools.1.label>
+  <DawnZaldrizes.tools.2.label>이빨</DawnZaldrizes.tools.2.label>
+  <DawnZaldrizes.tools.3.label>두개골 강타</DawnZaldrizes.tools.3.label>
+  <DawnZaldrizes.tools.4.label>꼬리 채찍</DawnZaldrizes.tools.4.label>
+  <DawnZaldrizes.tools.5.label>뿔</DawnZaldrizes.tools.5.label>
+  <DawnZaldrizes.tools.6.label>타격 반동</DawnZaldrizes.tools.6.label>
+  <CopperZaldrizes.label>적동 드래곤</CopperZaldrizes.label>
+  <CopperZaldrizes.description>이 드래곤의 비늘에는 구리빛, 녹빛, 청동빛이 한데 어우러져 있습니다.</CopperZaldrizes.description>
+  <CopperZaldrizes.tools.0.label>왼 발톱</CopperZaldrizes.tools.0.label>
+  <CopperZaldrizes.tools.1.label>오른 발톱</CopperZaldrizes.tools.1.label>
+  <CopperZaldrizes.tools.2.label>이빨</CopperZaldrizes.tools.2.label>
+  <CopperZaldrizes.tools.3.label>파열</CopperZaldrizes.tools.3.label>
+  <CopperZaldrizes.tools.4.label>두개골 강타</CopperZaldrizes.tools.4.label>
+  <CopperZaldrizes.tools.5.label>꼬리 채찍</CopperZaldrizes.tools.5.label>
+  <CopperZaldrizes.tools.6.label>뿔</CopperZaldrizes.tools.6.label>
+  <CopperZaldrizes.tools.7.label>타격 반동</CopperZaldrizes.tools.7.label>
+  <PyriteZaldrizes.label>황철 드래곤</PyriteZaldrizes.label>
+  <PyriteZaldrizes.description>타고나기를 호기심 많고 영리한 황철 드래곤종은 누르스름한 빛깔과 금색 비늘에서 이름을 따왔다고 전해집니다.</PyriteZaldrizes.description>
+  <PyriteZaldrizes.tools.0.label>왼 발톱</PyriteZaldrizes.tools.0.label>
+  <PyriteZaldrizes.tools.1.label>오른 발톱</PyriteZaldrizes.tools.1.label>
+  <PyriteZaldrizes.tools.2.label>이빨</PyriteZaldrizes.tools.2.label>
+  <PyriteZaldrizes.tools.3.label>두개골 강타</PyriteZaldrizes.tools.3.label>
+  <PyriteZaldrizes.tools.4.label>꼬리 채찍</PyriteZaldrizes.tools.4.label>
+  <PyriteZaldrizes.tools.5.label>뿔</PyriteZaldrizes.tools.5.label>
+  <PyriteZaldrizes.tools.6.label>타격 반동</PyriteZaldrizes.tools.6.label>
+  <RegalZaldrizes.label>제왕 드래곤</RegalZaldrizes.label>
+  <RegalZaldrizes.description>이 고귀한 드래곤의 매끈한 비늘은 잘 다듬어진 금속과 석영처럼 빛을 발합니다.</RegalZaldrizes.description>
+  <RegalZaldrizes.tools.0.label>왼 발톱</RegalZaldrizes.tools.0.label>
+  <RegalZaldrizes.tools.1.label>오른 발톱</RegalZaldrizes.tools.1.label>
+  <RegalZaldrizes.tools.2.label>이빨</RegalZaldrizes.tools.2.label>
+  <RegalZaldrizes.tools.3.label>서리 이빨</RegalZaldrizes.tools.3.label>
+  <RegalZaldrizes.tools.4.label>두개골 강타</RegalZaldrizes.tools.4.label>
+  <RegalZaldrizes.tools.5.label>꼬리 채찍</RegalZaldrizes.tools.5.label>
+  <RegalZaldrizes.tools.6.label>뿔</RegalZaldrizes.tools.6.label>
+  <RegalZaldrizes.tools.7.label>타격 반동</RegalZaldrizes.tools.7.label>
+  <MistZaldrizes.label>해무 드래곤</MistZaldrizes.label>
+  <MistZaldrizes.description>이 드래곤종은 서늘한 아침마다 해안 절벽을 누비는 모습이 자주 목격되며, 부드러운 햇살이 그들의 날개 위에서 은은히 빛나는 것처럼 보일 정도로 아름답습니다.</MistZaldrizes.description>
+  <MistZaldrizes.tools.0.label>왼 발톱</MistZaldrizes.tools.0.label>
+  <MistZaldrizes.tools.1.label>오른 발톱</MistZaldrizes.tools.1.label>
+  <MistZaldrizes.tools.2.label>서리 이빨</MistZaldrizes.tools.2.label>
+  <MistZaldrizes.tools.3.label>두개골 강타</MistZaldrizes.tools.3.label>
+  <MistZaldrizes.tools.4.label>꼬리 채찍</MistZaldrizes.tools.4.label>
+  <MistZaldrizes.tools.5.label>뿔</MistZaldrizes.tools.5.label>
+  <MistZaldrizes.tools.6.label>타격 반동</MistZaldrizes.tools.6.label>
+  <JadeZaldrizes.label>비취 드래곤</JadeZaldrizes.label>
+  <JadeZaldrizes.description>이 드래곤의 옥빛 비늘 위로 어두운 줄무늬가 길게 흐르고 있습니다.</JadeZaldrizes.description>
+  <JadeZaldrizes.tools.0.label>왼 발톱</JadeZaldrizes.tools.0.label>
+  <JadeZaldrizes.tools.1.label>오른 발톱</JadeZaldrizes.tools.1.label>
+  <JadeZaldrizes.tools.2.label>이빨</JadeZaldrizes.tools.2.label>
+  <JadeZaldrizes.tools.3.label>파열</JadeZaldrizes.tools.3.label>
+  <JadeZaldrizes.tools.4.label>두개골 강타</JadeZaldrizes.tools.4.label>
+  <JadeZaldrizes.tools.5.label>꼬리 채찍</JadeZaldrizes.tools.5.label>
+  <JadeZaldrizes.tools.6.label>뿔</JadeZaldrizes.tools.6.label>
+  <JadeZaldrizes.tools.7.label>타격 반동</JadeZaldrizes.tools.7.label>
+  <EggBrassZaldrizesFertilized.label>황동 드래곤 알 (수정됨)</EggBrassZaldrizesFertilized.label>
+  <EggBrassZaldrizesFertilized.description>황동 드래곤의 알입니다.</EggBrassZaldrizesFertilized.description>
+  <EggEbonZaldrizesFertilized.label>흑단 드래곤 알 (수정됨)</EggEbonZaldrizesFertilized.label>
+  <EggEbonZaldrizesFertilized.description>흑요석처럼 빛나는 짙고 어두운 알입니다.</EggEbonZaldrizesFertilized.description>
+  <EggMountainZaldrizesFertilized.label>거산 드래곤 알 (수정됨)</EggMountainZaldrizesFertilized.label>
+  <EggMountainZaldrizesFertilized.description>고산 지대 동굴에서 발견된 바랜 갈빛의 알입니다.</EggMountainZaldrizesFertilized.description>
+  <BrassZaldrizes.label>황동 드래곤</BrassZaldrizes.label>
+  <BrassZaldrizes.description>황동 드래곤들은 날렵하고 민첩하며, 영특하기도 한 드래곤종입니다.</BrassZaldrizes.description>
+  <BrassZaldrizes.tools.0.label>왼 발톱</BrassZaldrizes.tools.0.label>
+  <BrassZaldrizes.tools.1.label>오른 발톱</BrassZaldrizes.tools.1.label>
+  <BrassZaldrizes.tools.2.label>두개골 강타</BrassZaldrizes.tools.2.label>
+  <BrassZaldrizes.tools.3.label>꼬리 채찍</BrassZaldrizes.tools.3.label>
+  <BrassZaldrizes.tools.4.label>뿔</BrassZaldrizes.tools.4.label>
+  <BrassZaldrizes.tools.5.label>타격 반동</BrassZaldrizes.tools.5.label>
+  <EbonZaldrizes.label>흑단 드래곤</EbonZaldrizes.label>
+  <EbonZaldrizes.description>같은 드래곤들조차 두려워하는 흑단 드래곤은 극도로 공격적인 성향과 동족의 살을 탐하는 본능으로 악명이 자자합니다.</EbonZaldrizes.description>
+  <EbonZaldrizes.tools.0.label>왼 발톱</EbonZaldrizes.tools.0.label>
+  <EbonZaldrizes.tools.1.label>오른 발톱</EbonZaldrizes.tools.1.label>
+  <EbonZaldrizes.tools.2.label>이빨</EbonZaldrizes.tools.2.label>
+  <EbonZaldrizes.tools.3.label>파열</EbonZaldrizes.tools.3.label>
+  <EbonZaldrizes.tools.4.label>두개골 강타</EbonZaldrizes.tools.4.label>
+  <EbonZaldrizes.tools.5.label>꼬리 채찍</EbonZaldrizes.tools.5.label>
+  <EbonZaldrizes.tools.6.label>뿔</EbonZaldrizes.tools.6.label>
+  <EbonZaldrizes.tools.7.label>타격 반동</EbonZaldrizes.tools.7.label>
+  <MountainZaldrizes.label>거산 드래곤</MountainZaldrizes.label>
+  <MountainZaldrizes.description>인간들과 야수들로부터 숨어 지내는 독립적 성향의 거산 드래곤종입니다. 먹이와 사냥감에 영역 의식과 포악한 성미가 두드러지는 것으로 알려져 있습니다.</MountainZaldrizes.description>
+  <MountainZaldrizes.tools.0.label>왼 발톱</MountainZaldrizes.tools.0.label>
+  <MountainZaldrizes.tools.1.label>오른 발톱</MountainZaldrizes.tools.1.label>
+  <MountainZaldrizes.tools.2.label>이빨</MountainZaldrizes.tools.2.label>
+  <MountainZaldrizes.tools.3.label>파열</MountainZaldrizes.tools.3.label>
+  <MountainZaldrizes.tools.4.label>두개골 강타</MountainZaldrizes.tools.4.label>
+  <MountainZaldrizes.tools.5.label>꼬리 채찍</MountainZaldrizes.tools.5.label>
+  <MountainZaldrizes.tools.6.label>뿔</MountainZaldrizes.tools.6.label>
+  <MountainZaldrizes.tools.7.label>타격 반동</MountainZaldrizes.tools.7.label>
+</LanguageData>
