@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ammo_Firelance_Napalm.description>화염 분사기의 연료입니다.</Ammo_Firelance_Napalm.description>
+  <Ammo_Firelance_Napalm.label>점성 타르</Ammo_Firelance_Napalm.label>
+  <Bullet_Flamethrower_Napalm.label>점성 화학연료 분사류</Bullet_Flamethrower_Napalm.label>
+  <Bullet_Incinerator_Burst_Napalm.label>점성 타르 분사류</Bullet_Incinerator_Burst_Napalm.label>
+  <Bullet_Incinerator_Burst_Prometheum.label>점성 프로메튬 분사류</Bullet_Incinerator_Burst_Prometheum.label>
+  <Bullet_Incinerator_Burst_Bioferrite.label>주입된 화학연료 분사류</Bullet_Incinerator_Burst_Bioferrite.label>
+  <Gun_Firelance.label>화염 분사기</Gun_Firelance.label>
+  <Gun_Firelance.description>적에게 화염을 분사하는 휴대용 화염 분사기입니다. 화염은 강력하지만 예측하기 어렵기 때문에 부주의하게 사용하면 아군까지 쉽게 해칠 수 있습니다.</Gun_Firelance.description>
+  <Gun_Firelance.comps.0.chargeNoun>장전</Gun_Firelance.comps.0.chargeNoun>
+  <Gun_Firelance.tools.0.label>개머리판</Gun_Firelance.tools.0.label>
+  <Gun_Firelance.tools.1.label>총신</Gun_Firelance.tools.1.label>
+</LanguageData>
