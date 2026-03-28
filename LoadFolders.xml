@@ -115,7 +115,7 @@
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
     <li IfModActive="Riko.ControlSpine">Data/AOBA/DMS/The Dead Man's Switch - Control Spine - 3431511558/1.6</li>
-    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
+    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - 3689879335/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="Aoba.DeadManSwitch.MobileDragoon">Data/AOBA/DMS/The Dead Man's Switch - MobileDragoon - 3377130226/1.5</li>
@@ -2749,7 +2749,7 @@
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
     <li IfModActive="Riko.ControlSpine">Data/AOBA/DMS/The Dead Man's Switch - Control Spine - 3431511558/1.6</li>
-    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
+    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - 3689879335/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="Aoba.DeadManSwitch.MobileDragoon">Data/AOBA/DMS/The Dead Man's Switch - MobileDragoon - 3377130226/1.5</li>
@@ -5383,7 +5383,7 @@
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.5</li>
     <li IfModActive="Riko.ControlSpine">Data/AOBA/DMS/The Dead Man's Switch - Control Spine - 3431511558/1.6</li>
-    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
+    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - 3689879335/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="Aoba.DeadManSwitch.MobileDragoon">Data/AOBA/DMS/The Dead Man's Switch - MobileDragoon - 3377130226/1.5</li>
@@ -8018,7 +8018,7 @@
     <li IfModActive="WSP.deadmanswitch.upgrades">Data/AOBA/DMS/The Dead Man's Switch - Additional Upgrades - 3310569544/1.6</li>
     <li IfModActive="Aoba.DeadManSwitch.AncientCorps">Data/AOBA/DMS/The Dead Man's Switch - AncientCorps - 3469398006/1.6</li>
     <li IfModActive="Riko.ControlSpine">Data/AOBA/DMS/The Dead Man's Switch - Control Spine - 3431511558/1.6</li>
-    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - NS6006380/1.6</li>
+    <li IfModActive="Aoba.DeadManSwitch.Expedition">Data/AOBA/DMS/The Dead Man's Switch - Expedition - 3689879335/1.6</li>
     <li IfModActive="Srxf.DeadManSwitch.Legion">Data/AOBA/DMS/The Dead Man's Switch - Legion - 3666117000/1.6</li>
     <li IfModActive="PolandBall.DeadManSwitch.MCMPAC">Data/AOBA/DMS/The Dead Man's Switch - MC-MPAC Program - 3461990389</li>
     <li IfModActive="Aoba.DeadManSwitch.MobileDragoon">Data/AOBA/DMS/The Dead Man's Switch - MobileDragoon - 3377130226/1.6</li>
