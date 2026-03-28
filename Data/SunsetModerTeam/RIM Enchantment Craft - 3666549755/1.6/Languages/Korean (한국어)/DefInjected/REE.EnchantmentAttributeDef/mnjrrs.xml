@@ -96,4 +96,10 @@
   <REE_WeakCurse.label>약한 저주</REE_WeakCurse.label>
   <REE_WeakCurse.description>발사체와 근접 무기의 피해량을 50% 감소시킵니다.
 \n\n이 마법은 "위력 증가" 분류에 속합니다.</REE_WeakCurse.description>
+  <REE_VoidReload.label>공허 장전</REE_VoidReload.label>
+  <REE_VoidReload.description>정해진 간격마다 이 건물에 일정량의 연료가 자동으로 채워지거나, 포신 내구도가 회복됩니다.
+\n\n이 마법은 "장전" 분류에 속합니다.</REE_VoidReload.description>
+  <REE_ExperienceRepair.label>경험치 수선</REE_ExperienceRepair.label>
+  <REE_ExperienceRepair.description>장비가 손상되었을 때 착용자의 가장 높은 기술 경험치를 소모해 내구도를 회복합니다.
+\n\n이 마법은 "수리" 분류에 속합니다.</REE_ExperienceRepair.description>
 </LanguageData>

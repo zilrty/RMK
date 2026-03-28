@@ -125,4 +125,65 @@
   <REE_DontRenderHandheldEnchantDesc>활성화하면 손에 든 무기에 마법 부여 이펙트를 표시하지 않습니다. 렌더링 오류가 난다면 이 옵션을 활성화하세요.</REE_DontRenderHandheldEnchantDesc>
   <REE_NonColonistsCanHoldChance>정착민 외 폰의 마법 부여된 무기 소지 확률</REE_NonColonistsCanHoldChance>
   <REE_NonColonistsCanHoldChanceDesc>정착민 외 폰이 마법이 부여된 무기를 가진 채로 생성될 확률입니다. 수치가 높을수록 마법이 부여된 무기를 가진 적을 조우할 확률이 높아집니다.</REE_NonColonistsCanHoldChanceDesc>
+  <REE_ItemDamaged_ConsumeExperience>경험치 소모</REE_ItemDamaged_ConsumeExperience>
+  <REE_Tick_TenSecond>10초마다 발동</REE_Tick_TenSecond>
+  <REE_ItemDamaged_RestorePoint>내구도 회복: {0}</REE_ItemDamaged_RestorePoint>
+  <REE_ItemDamaged_RestoreFuelPercentage>일정 비율의 연료 재충전: {0}</REE_ItemDamaged_RestoreFuelPercentage>
+  <REE_ItemDamaged_RestoreFuel>일정량의 연료 재충전: {0}</REE_ItemDamaged_RestoreFuel>
+  <REE_GlowEffectEdit>글로우 효과 편집기</REE_GlowEffectEdit>
+  <REE_GlowTypeSelection>효과 유형 선택</REE_GlowTypeSelection>
+  <REE_GlowData>글로우 데이터</REE_GlowData>
+  <REE_Preview>미리보기</REE_Preview>
+  <REE_SelectGlowTypeTip>클릭해서 글로우 유형을 선택하세요</REE_SelectGlowTypeTip>
+  <REE_ClassicGlow>클래식 인챈트</REE_ClassicGlow>
+  <REE_ElectricCurrent>전류</REE_ElectricCurrent>
+  <REE_FlameEffect>화염 효과</REE_FlameEffect>
+  <REE_ColorA>색상 A</REE_ColorA>
+  <REE_ColorB>색상 B</REE_ColorB>
+  <REE_ResetToDefault>초기화</REE_ResetToDefault>
+  <REE_Param1>파라미터 1</REE_Param1>
+  <REE_Param2>파라미터 2</REE_Param2>
+  <REE_Param3>파라미터 3</REE_Param3>
+  <REE_Param4>파라미터 4</REE_Param4>
+  <REE_Param5>파라미터 5</REE_Param5>
+  <REE_Param6>파라미터 6</REE_Param6>
+  <REE_Param7>파라미터 7</REE_Param7>
+  <REE_Param8>파라미터 8</REE_Param8>
+  <REE_GlowIntensity>발광 강도</REE_GlowIntensity>
+  <REE_StreamDensity>스트림 밀도</REE_StreamDensity>
+  <REE_StreamScale>스트림 크기</REE_StreamScale>
+  <REE_StreamContrast>스트림 대비</REE_StreamContrast>
+  <REE_FlowSpeed>흐름 속도</REE_FlowSpeed>
+  <REE_FlowDirection>흐름 방향</REE_FlowDirection>
+  <REE_Intensity>강도</REE_Intensity>
+  <REE_EdgeWidth>외곽선 두께</REE_EdgeWidth>
+  <REE_NoiseScale>노이즈 크기</REE_NoiseScale>
+  <REE_NoiseSpeed>노이즈 속도</REE_NoiseSpeed>
+  <REE_CurrentDensity>전류 밀도</REE_CurrentDensity>
+  <REE_CurrentWidth>전류 간격</REE_CurrentWidth>
+  <REE_GlowRange>발광 범위</REE_GlowRange>
+  <REE_GlowFalloff>발광 감쇄</REE_GlowFalloff>
+  <REE_FlameIntensity>화염 범위</REE_FlameIntensity>
+  <REE_FlameDetail>화염 상세도</REE_FlameDetail>
+  <REE_ColorNoiseScale>색상 노이즈 크기</REE_ColorNoiseScale>
+  <REE_SelectEquipmentForPreview>장비를 먼저 선택하세요</REE_SelectEquipmentForPreview>
+  <REE_PreviewGlowEffect>글로우 효과 미리보기</REE_PreviewGlowEffect>
+  <REE_GlowEffectApplied>글로우 효과가 적용되었습니다</REE_GlowEffectApplied>
+  <REE_ForceOverwrite>대상의 기존 이펙트를 덮어씁니까?</REE_ForceOverwrite>
+  <REE_ForceOverwrite_true>덮어쓰기</REE_ForceOverwrite_true>
+  <REE_ForceOverwrite_false>원본 유지</REE_ForceOverwrite_false>
+  <REE_Copy>설정 복사</REE_Copy>
+  <REE_Paste>설정 붙여넣기</REE_Paste>
+  <REE_MeteorShower>유성우</REE_MeteorShower>
+  <REE_MeteorCount>유성 개수</REE_MeteorCount>
+  <REE_MeteorSize>유성 크기</REE_MeteorSize>
+  <REE_BaseSpeed>기본 속도</REE_BaseSpeed>
+  <REE_SpeedVariation>속도 편차</REE_SpeedVariation>
+  <REE_BaseDirection>기본 방향</REE_BaseDirection>
+  <REE_DirectionVariation>방향 편차</REE_DirectionVariation>
+  <REE_TrailLength>꼬리 길이</REE_TrailLength>
+  <REE_Brightness>밝기</REE_Brightness>
+  <REE_Falloff>감쇄</REE_Falloff>
+  <REE_BookshelfCount>{0}/{1}개의 책장 연결됨</REE_BookshelfCount>
+  <REE_BookshelfMissing>최대 레벨 제한 도달까지 책장 {0}개 필요</REE_BookshelfMissing>
 </LanguageData>
