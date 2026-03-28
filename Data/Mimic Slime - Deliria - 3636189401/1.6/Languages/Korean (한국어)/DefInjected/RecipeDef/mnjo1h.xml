@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SqueezeSlimeEssence.label>핵에서 슬라임 정수 짜내기</SqueezeSlimeEssence.label>
+  <SqueezeSlimeEssence.description>슬라임 핵에서 슬라임 정수를 추출합니다.</SqueezeSlimeEssence.description>
+  <SqueezeSlimeEssence.jobString>슬라임 핵에서 슬라임 정수 추출 중.</SqueezeSlimeEssence.jobString>
+  <SqueezeSlimeEssence.ingredients.0.filter.customSummary>원료</SqueezeSlimeEssence.ingredients.0.filter.customSummary>
+
+  <Make_StoneBlocksSlime.label>슬라임 블럭 제작</Make_StoneBlocksSlime.label>
+  <Make_StoneBlocksSlime.description>슬라임 블럭을 제작합니다.</Make_StoneBlocksSlime.description>
+  <Make_StoneBlocksSlime.jobString>슬라임 블럭 제작 중.</Make_StoneBlocksSlime.jobString>
+</LanguageData>

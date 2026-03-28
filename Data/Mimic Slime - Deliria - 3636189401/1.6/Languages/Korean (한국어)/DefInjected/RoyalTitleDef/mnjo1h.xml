@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NFCTitle_JuniorAssociate.label>초급 조직원</NFCTitle_JuniorAssociate.label>
+  <NFCTitle_JuniorAssociate.description>기초 인증을 완료한 신입 사원입니다.\n\n주로 현장 사무소에서 물류, 보안 호송 또는 데이터 입력 업무를 담당합니다.</NFCTitle_JuniorAssociate.description>
+
+  <NFCTitle_SeniorAssociate.label>상급 조직원</NFCTitle_SeniorAssociate.label>
+  <NFCTitle_SeniorAssociate.description>운영 능력을 증명하여 소규모 지휘권이 부여된 사원입니다.\n\n작은 팀을 이끌거나 상점을 관리하며, 단일 계약 건을 감독하기도 합니다.</NFCTitle_SeniorAssociate.description>
+
+  <NFCTitle_ExecutivePartner.label>경영 동업자</NFCTitle_ExecutivePartner.label>
+  <NFCTitle_ExecutivePartner.description>중간 수준의 권한을 가진 파트너로, 지정된 구역의 손익 결과를 책임집니다.\n\n시설을 지휘하거나 중간 단계의 계약을 협상하며, 여러 어소시에이트 팀을 감독합니다.</NFCTitle_ExecutivePartner.description>
+
+  <NFCTitle_PartnerDirector.label>파트너 디렉터</NFCTitle_PartnerDirector.label>
+  <NFCTitle_PartnerDirector.description>자회사나 부서의 이사회에 속해 있는 직급입니다.\n\n예산을 통제하고 프로젝트를 승인하며, 기업 소유지의 보안군을 지휘할 수 있습니다.</NFCTitle_PartnerDirector.description>
+
+  <NFCTitle_RegionalDirector.label>지역 본부장</NFCTitle_RegionalDirector.label>
+  <NFCTitle_RegionalDirector.description>대륙이나 궤도 구역에 걸친 여러 시설을 관리합니다.\n\n자원 흐름을 조정하고 정책을 집행하며, 인사 재배치 권한을 가집니다.</NFCTitle_RegionalDirector.description>
+
+  <NFCTitle_ExecutiveDirector.label>상임 이사</NFCTitle_ExecutiveDirector.label>
+  <NFCTitle_ExecutiveDirector.description>전체 부서 또는 행성 규모의 운영을 감독합니다.\n\n전략적 목표를 설정하고 자본 지출을 승인하며, 기업 본부에 직접 보고합니다.</NFCTitle_ExecutiveDirector.description>
+
+  <NFCTitle_GlobalDirector.label>글로벌 디렉터</NFCTitle_GlobalDirector.label>
+  <NFCTitle_GlobalDirector.description>행성 전체나 여러 궤도 거주지에 걸친 기업의 이익을 관리합니다.\n\n행성 예산을 통제하고 군사 계약을 허가하며, 행성 정부와 소통합니다.</NFCTitle_GlobalDirector.description>
+
+  <NFCTitle_GalacticDirector.label>은하 디렉터</NFCTitle_GalacticDirector.label>
+  <NFCTitle_GalacticDirector.description>여러 성간에 걸친 운영을 조정합니다.\n\n성간 공급망을 관리하고 성계 당국과 협상하며, 함대 물류를 감독합니다.</NFCTitle_GalacticDirector.description>
+
+  <NFCTitle_GroupDirector.label>그룹 디렉터</NFCTitle_GroupDirector.label>
+  <NFCTitle_GroupDirector.description>여러 자회사의 지배 지분을 보유한 직급입니다.\n\n대표이사를 임명하고 부서를 합병하거나 해산하며, 성간 투자 흐름을 제어합니다.</NFCTitle_GroupDirector.description>
+
+  <NFCTitle_CEO.label>대표이사</NFCTitle_CEO.label>
+  <NFCTitle_CEO.description>기업의 최고 경영자입니다.\n\n기업 전략을 설정하고 오직 이사회에만 책임을 지며, 기업 함대나 행성 자산을 지휘할 수 있습니다.</NFCTitle_CEO.description>
+
+  <NFCTitle_Chairman.label>의장</NFCTitle_Chairman.label>
+  <NFCTitle_Chairman.description>이사회를 이끌며 기업의 최종 권위를 상징합니다.\n\n합병을 승인하고 배당금을 선언하며, 다른 모든 임원의 결정을 번복할 수 있습니다.</NFCTitle_Chairman.description>
+</LanguageData>

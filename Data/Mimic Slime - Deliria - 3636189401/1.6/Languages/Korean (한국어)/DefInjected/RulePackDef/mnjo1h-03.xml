@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Maneuver_SlimeAcid.rulePack.rulesStrings>
+    <li>damaged_inf(p=4)->용해</li>
+    <li>damaged_inf->부식</li>
+    <li>damaged_inf->녹음</li>
+    <li>damaged_inf->그을림</li>
+    <li>damaged_inf(deflected!=True)->파먹힘</li>
+
+    <li>damaged_past(p=4)->용해됨</li>
+    <li>damaged_past->부식됨</li>
+    <li>damaged_past->녹아내림</li>
+    <li>damaged_past->그을림</li>
+    <li>damaged_past(deflected!=True)->파먹힘</li>
+
+    <li>damaged_present->용해</li>
+    <li>damaged_present->부식</li>
+    <li>damaged_present->녹음는</li>
+    <li>damaged_present->그을림</li>
+    <li>damaged_present(deflected!=True)->파먹힘</li>
+
+    <li>woundname->병변</li>
+    <li>woundname->화상</li>
+    <li>woundname->움푹 패인 구멍</li>
+    <li>woundname->구멍</li>
+
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->부글거리는 [woundname](을)를 남겼습니다</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->피부 아래를 지글지글 태웠습니다</li>
+    <li>flavortext_consequence(RECIPIENT_flesh==Mechanoid)->내부 회로를 갉아먹었습니다</li>
+    <li>flavortext_consequence->산성 점액이 뚝뚝 떨어졌습니다</li>
+
+    <li>destroyed_past->용해됨</li>
+    <li>destroyed_past->녹아없어짐</li>
+    <li>destroyed_past->완전히 부식됨</li>
+    <li>destroyed_past->깨끗하게 뚫림</li>
+
+    <li>destroyed_present->용해</li>
+    <li>destroyed_present->녹음</li>
+    <li>destroyed_present->부식</li>
+    <li>destroyed_present->뚫림</li>
+
+    <li>destroyed_suffix->질척이는 덩어리로</li>
+    <li>destroyed_suffix->찌꺼기로</li>
+    <li>destroyed_suffix(RECIPIENT_flesh!=Mechanoid)->지글거리는 그루터기로</li>
+    <li>destroyed_suffix(RECIPIENT_flesh==Mechanoid)->불꽃을 튀기는 고철로</li>
+  </Maneuver_SlimeAcid.rulePack.rulesStrings>
+</LanguageData>
