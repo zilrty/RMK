@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBY_DoBillsMakeMeleeWeapons.label>근접 무기 제작</VBY_DoBillsMakeMeleeWeapons.label>
+  <VBY_DoBillsMakeMeleeWeapons.verb>조립</VBY_DoBillsMakeMeleeWeapons.verb>
+  <VBY_DoBillsMakeMeleeWeapons.gerund>에서 무기 조립하기</VBY_DoBillsMakeMeleeWeapons.gerund>
+  <VBY_DoBillsMakeRangedWeapons.label>원거리 무기 제작</VBY_DoBillsMakeRangedWeapons.label>
+  <VBY_DoBillsMakeRangedWeapons.verb>조립</VBY_DoBillsMakeRangedWeapons.verb>
+  <VBY_DoBillsMakeRangedWeapons.gerund>에서 무기 조립하기</VBY_DoBillsMakeRangedWeapons.gerund>
+  <VBY_DoBillsPottery.label>가마에서 도자기 굽기</VBY_DoBillsPottery.label>
+  <VBY_DoBillsPottery.verb>도자기 제작</VBY_DoBillsPottery.verb>
+  <VBY_DoBillsPottery.gerund>에서 도자기 굽기</VBY_DoBillsPottery.gerund>
+  <VBY_DoBillsUseCraftingTable.label>작업대에서 제작하기</VBY_DoBillsUseCraftingTable.label>
+  <VBY_DoBillsUseCraftingTable.verb>제작</VBY_DoBillsUseCraftingTable.verb>
+  <VBY_DoBillsUseCraftingTable.gerund>에서 제작하기</VBY_DoBillsUseCraftingTable.gerund>
+  <VBY_DoBillsBrewTea.label>약초 작업대에서 제조하기</VBY_DoBillsBrewTea.label>
+  <VBY_DoBillsBrewTea.verb>제조</VBY_DoBillsBrewTea.verb>
+  <VBY_DoBillsBrewTea.gerund>에서 제조하기</VBY_DoBillsBrewTea.gerund>
+  <DoBillsPrimitiveLoom.label>베틀에서 직물 짜기</DoBillsPrimitiveLoom.label>
+  <DoBillsPrimitiveLoom.verb>직물 제작</DoBillsPrimitiveLoom.verb>
+  <DoBillsPrimitiveLoom.gerund>로 베 짜기</DoBillsPrimitiveLoom.gerund>
+</LanguageData>

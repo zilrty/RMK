@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBY_PrimitiveStonecutting.label>원시 석재 절삭</VBY_PrimitiveStonecutting.label>
+  <VBY_PrimitiveStonecutting.description>암석을 가공해 석재로 만드는 기초 기술을 깨우칩니다.</VBY_PrimitiveStonecutting.description>
+  <VBY_PrimitiveSmithing.label>원시 야금술</VBY_PrimitiveSmithing.label>
+  <VBY_PrimitiveSmithing.description>열과 타격으로 금속을 가공하는 기초 기술을 깨우칩니다.</VBY_PrimitiveSmithing.description>
+  <VBY_PrimitiveProductionAdvanced.label>원시 발전 과도기</VBY_PrimitiveProductionAdvanced.label>
+  <VBY_PrimitiveProductionAdvanced.description>중세 기술의 이해로 나아가는 다음 단계를 밟습니다.</VBY_PrimitiveProductionAdvanced.description>
+  <VBY_MedievalAdvancement.label>중세 진입</VBY_MedievalAdvancement.label>
+  <VBY_MedievalAdvancement.description>세상을 한 단계 더 이해하게 만드는 깨달음을 얻었습니다.</VBY_MedievalAdvancement.description>
+</LanguageData>
