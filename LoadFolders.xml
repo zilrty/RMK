@@ -622,6 +622,7 @@
     <li IfModActive="Mlie.ReclaimReuseRecycle">Data/Mlie/Reclaim, Reuse, Recycle (Continued) - 2567364887</li>
     <li IfModActive="Mlie.ReconAndDiscovery">Data/Mlie/Recon And Discovery (Continued) - 2035131107</li>
     <li IfModActive="Mlie.RecycleThis">Data/Mlie/Recycle This (Continued) - 3253550009</li>
+    <li IfModActive="Mlie.ReGrowthExtinctAnimals">Data/Mlie/ReGrowth Extinct Animals (Continued) - 3602926791/1.6</li>
     <li IfModActive="Mlie.RelevantStatsInDescription">Data/Mlie/Relevant Stats In Description - 2692669482/1.6</li>
     <li IfModActive="mlie.remotedoors">Data/Mlie/Remote Doors Continued - 2243274070</li>
     <li IfModActive="mlie.removeindustrialstuff">Data/Mlie/Remove Industrial Stuff - 2294378964</li>
@@ -3266,6 +3267,7 @@
     <li IfModActive="Mlie.ReclaimReuseRecycle">Data/Mlie/Reclaim, Reuse, Recycle (Continued) - 2567364887</li>
     <li IfModActive="Mlie.ReconAndDiscovery">Data/Mlie/Recon And Discovery (Continued) - 2035131107</li>
     <li IfModActive="Mlie.RecycleThis">Data/Mlie/Recycle This (Continued) - 3253550009</li>
+    <li IfModActive="Mlie.ReGrowthExtinctAnimals">Data/Mlie/ReGrowth Extinct Animals (Continued) - 3602926791/1.6</li>
     <li IfModActive="Mlie.RelevantStatsInDescription">Data/Mlie/Relevant Stats In Description - 2692669482/1.6</li>
     <li IfModActive="mlie.remotedoors">Data/Mlie/Remote Doors Continued - 2243274070</li>
     <li IfModActive="mlie.removeindustrialstuff">Data/Mlie/Remove Industrial Stuff - 2294378964</li>
@@ -5910,6 +5912,7 @@
     <li IfModActive="Mlie.ReclaimReuseRecycle">Data/Mlie/Reclaim, Reuse, Recycle (Continued) - 2567364887</li>
     <li IfModActive="Mlie.ReconAndDiscovery">Data/Mlie/Recon And Discovery (Continued) - 2035131107</li>
     <li IfModActive="Mlie.RecycleThis">Data/Mlie/Recycle This (Continued) - 3253550009</li>
+    <li IfModActive="Mlie.ReGrowthExtinctAnimals">Data/Mlie/ReGrowth Extinct Animals (Continued) - 3602926791/1.6</li>
     <li IfModActive="Mlie.RelevantStatsInDescription">Data/Mlie/Relevant Stats In Description - 2692669482/1.6</li>
     <li IfModActive="mlie.remotedoors">Data/Mlie/Remote Doors Continued - 2243274070</li>
     <li IfModActive="mlie.removeindustrialstuff">Data/Mlie/Remove Industrial Stuff - 2294378964</li>
@@ -8555,6 +8558,7 @@
     <li IfModActive="Mlie.ReclaimReuseRecycle">Data/Mlie/Reclaim, Reuse, Recycle (Continued) - 2567364887</li>
     <li IfModActive="Mlie.ReconAndDiscovery">Data/Mlie/Recon And Discovery (Continued) - 2035131107</li>
     <li IfModActive="Mlie.RecycleThis">Data/Mlie/Recycle This (Continued) - 3253550009</li>
+    <li IfModActive="Mlie.ReGrowthExtinctAnimals">Data/Mlie/ReGrowth Extinct Animals (Continued) - 3602926791/1.6</li>
     <li IfModActive="Mlie.RelevantStatsInDescription">Data/Mlie/Relevant Stats In Description - 2692669482/1.6</li>
     <li IfModActive="mlie.remotedoors">Data/Mlie/Remote Doors Continued - 2243274070</li>
     <li IfModActive="mlie.removeindustrialstuff">Data/Mlie/Remove Industrial Stuff - 2294378964</li>

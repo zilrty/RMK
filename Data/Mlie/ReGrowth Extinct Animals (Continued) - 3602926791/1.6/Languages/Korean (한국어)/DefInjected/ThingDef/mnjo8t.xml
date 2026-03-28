@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RG_EggDodoEggUnfertilized.label>도도새 알 (무정란)</RG_EggDodoEggUnfertilized.label>
+  <RG_EggDodoEggUnfertilized.description>수정되지 않은 도도새의 알입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 것이 훨씬 더 맛있습니다.</RG_EggDodoEggUnfertilized.description>
+  <RG_EggDodoEggFertilized.label>도도새 알</RG_EggDodoEggFertilized.label>
+  <RG_EggDodoEggFertilized.description>수정된 도도새의 알입니다. 별다른 문제가 없다면 도도새로 부화할 것입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggDodoEggFertilized.description>
+  <RG_EggTerrorBirdFertilized.label>공포새 알</RG_EggTerrorBirdFertilized.label>
+  <RG_EggTerrorBirdFertilized.description>수정된 공포새의 알입니다. 별다른 문제가 없다면 새끼 공포새로 부화할 것입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggTerrorBirdFertilized.description>
+  <RG_EggTerrorBirdUnFertilized.label>공포새 알 (무정란)</RG_EggTerrorBirdUnFertilized.label>
+  <RG_EggTerrorBirdUnFertilized.description>수정되지 않은 공포새의 알입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggTerrorBirdUnFertilized.description>
+  <RG_EggThrinaxodonFertilized.label>트리낙소돈 알</RG_EggThrinaxodonFertilized.label>
+  <RG_EggThrinaxodonFertilized.description>수정된 트리낙소돈의 알입니다. 별다른 문제가 없다면 새끼 트리낙소돈으로 부화할 것입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggThrinaxodonFertilized.description>
+  <RG_EggThrinaxodonUnFertilized.label>트리낙소돈 알 (무정란)</RG_EggThrinaxodonUnFertilized.label>
+  <RG_EggThrinaxodonUnFertilized.description>수정되지 않은 트리낙소돈의 알입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggThrinaxodonUnFertilized.description>
+  <RG_EggWoollyStegosaurus.label>털스테고사우루스 알</RG_EggWoollyStegosaurus.label>
+  <RG_EggWoollyStegosaurus.description>수정된 털스테고사우루스의 알입니다. 별다른 문제가 없다면 새끼 털스테고사우루스로 부화할 것입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggWoollyStegosaurus.description>
+  <RG_EggWoollyStegosaurusUn.label>털스테고사우루스 알 (무정란)</RG_EggWoollyStegosaurusUn.label>
+  <RG_EggWoollyStegosaurusUn.description>수정되지 않은 털스테고사우루스의 알입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggWoollyStegosaurusUn.description>
+  <RG_EggArticDrakFertilized.label>북극 드락 알</RG_EggArticDrakFertilized.label>
+  <RG_EggArticDrakFertilized.description>수정된 북극 드락의 알입니다. 별다른 문제가 없다면 새끼 드락으로 부화할 것입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggArticDrakFertilized.description>
+  <RG_EggArticDrakUnFertilized.label>북극 드락 알 (무정란)</RG_EggArticDrakUnFertilized.label>
+  <RG_EggArticDrakUnFertilized.description>수정되지 않은 북극 드락의 알입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggArticDrakUnFertilized.description>
+  <RG_EggVelociraptorFertilized.label>벨로키랍토르 알</RG_EggVelociraptorFertilized.label>
+  <RG_EggVelociraptorFertilized.description>수정된 벨로키랍토르의 알입니다. 별다른 문제가 없다면 새끼 벨로키랍토르로 부화할 것입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggVelociraptorFertilized.description>
+  <RG_EggVelociraptorUnFertilized.label>벨로키랍토르 알 (무정란)</RG_EggVelociraptorUnFertilized.label>
+  <RG_EggVelociraptorUnFertilized.description>수정되지 않은 벨로키랍토르의 알입니다. 생으로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 좋습니다.</RG_EggVelociraptorUnFertilized.description>
+
+  <RG_DinosaursHideThin.label>얇은 공룡 가죽</RG_DinosaursHideThin.label>
+  <RG_DinosaursHideThin.description>작은 수각류나 용각류에서 얻은 가볍고 얇은 가죽입니다. 단열 성능은 그리 좋지 않습니다.</RG_DinosaursHideThin.description>
+  <RG_DinosaursHideMedium.label>보통 공룡 가죽</RG_DinosaursHideMedium.label>
+  <RG_DinosaursHideMedium.description>보통 크기의 수각류나 용각류에서 얻은 가죽입니다. 주로 천적에 대한 방어 수단이 적은 종들에게서 얻습니다.</RG_DinosaursHideMedium.description>
+  <RG_DinosaursHideHeavy.label>두꺼운 공룡 가죽</RG_DinosaursHideHeavy.label>
+  <RG_DinosaursHideHeavy.description>더 크고 강인한 수각류나 용각류에서 얻은 두꺼운 가죽입니다. 방호력이 꽤 뛰어난 편입니다.</RG_DinosaursHideHeavy.description>
+  <RG_WoolRhinoceros.label>털코뿔소 털</RG_WoolRhinoceros.label>
+  <RG_WoolRhinoceros.description>털코뿔소의 굵고 거친 털입니다. 상당히 따뜻합니다.</RG_WoolRhinoceros.description>
+  <RG_WoolStegosaurus.label>털스테고사우루스 털</RG_WoolStegosaurus.label>
+  <RG_WoolStegosaurus.description>털스테고사우루스의 굵고 거친 털입니다. 상당히 따뜻합니다.</RG_WoolStegosaurus.description>
+  <RG_MammothTusk.label>매머드 엄니</RG_MammothTusk.label>
+  <RG_MammothTusk.description>매머드의 엄니입니다. 은으로 거래할 수 있습니다.</RG_MammothTusk.description>
+  <RG_MammothTusk.tools.0.label>칼끝</RG_MammothTusk.tools.0.label>
+  <RG_MammothTusk.tools.1.label>손잡이</RG_MammothTusk.tools.1.label>
+
+  <RG_SabertoothTiger.label>스밀로돈</RG_SabertoothTiger.label>
+  <RG_SabertoothTiger.description>지구상에 존재했던 가장 위험한 대형 고양잇과 동물 중 하나인 스밀로돈은 두 개의 거대한 검치와 날카로운 이빨, 발톱을 가진 단독 사냥꾼입니다. 이들은 숨어서 먹잇감을 스토킹하다가 순식간에 덮칩니다.\n\n인간이 이들의 주된 먹이는 아니지만, 무방비한 상태의 인간을 먹이로 삼는 데 주저함은 없습니다.</RG_SabertoothTiger.description>
+  <RG_SabertoothTiger.tools.0.label>왼쪽 발톱</RG_SabertoothTiger.tools.0.label>
+  <RG_SabertoothTiger.tools.1.label>오른쪽 발톱</RG_SabertoothTiger.tools.1.label>
+  <RG_SabertoothTiger.tools.3.label>머리</RG_SabertoothTiger.tools.3.label>
+
+  <RG_Dodo.label>도도새</RG_Dodo.label>
+  <RG_Dodo.description>고대 인류의 손에 멸종된 날지 못하는 새입니다. 뚱뚱하고 서투른 생물로 묘사되곤 하지만, 실제로는 생태계에 매우 잘 적응한 동물이었습니다. 고립된 섬의 건조한 해안가 숲을 마지막 서식지로 삼았으며, 주로 모래주머니에 든 돌의 도움을 받아 과일을 소화하며 살아갔습니다.\n\n도도새는 테라에서 오로지 인간의 영향으로 인해 멸종한 최초의 동물 중 하나로 널리 알려져 있습니다. 수 세기 동안 포식자가 없는 환경에서 살았기 때문에 날 수 없게 되었고, 한 번에 단 하나의 알만 낳았습니다. 베리 덤불이 풍부하고 따뜻한 기후를 선호하며, 유일한 방어 수단은 상당히 큰 부리뿐입니다.</RG_Dodo.description>
+  <RG_Dodo.tools.0.label>발톱</RG_Dodo.tools.0.label>
+  <RG_Dodo.tools.1.label>부리</RG_Dodo.tools.1.label>
+  <RG_Dodo.tools.2.label>머리</RG_Dodo.tools.2.label>
+
+  <RG_TerrorBird.label>공포새</RG_TerrorBird.label>
+  <RG_TerrorBird.description>한때 멸종했던 거대한 육식성 조류입니다. 이들을 목격하는 것만으로도 창자가 뒤틀릴 듯한 공포를 느끼기 때문에 현지인들 사이에서는 "공포새"라는 훨씬 더 적절한 별명으로 불립니다.\n\n공포새는 크고 날카로운 부리와 강력한 목 근육을 가지고 있어 먹잇감의 뼈를 부수고 살점을 뜯어낼 정도로 강한 힘으로 쪼을 수 있습니다. 또한 다리에 달린 크고 날카로운 발톱으로 목표물을 빠르게 추격하고, 치명적인 발차기로 내장을 쏟아내거나 부리로 치명적인 장기를 타격할 수 있도록 먹잇감을 제압합니다.</RG_TerrorBird.description>
+  <RG_TerrorBird.tools.0.label>발톱</RG_TerrorBird.tools.0.label>
+  <RG_TerrorBird.tools.2.label>머리</RG_TerrorBird.tools.2.label>
+
+  <RG_Thrinaxodon.label>트리낙소돈</RG_Thrinaxodon.label>
+  <RG_Thrinaxodon.description>여우와 비슷한 크기의 작은 육식성 단궁류로, 주로 곤충이나 작은 초식 동물을 잡아먹습니다. 땅을 파는 습성 덕분에 과거 지구에서 발생했던 대멸종 사건 중 하나에서 살아남을 수 있었습니다.\n\n트리낙소돈은 툰드라와 아한대 림 지역에 자생하며, 모피와 땅을 파는 습성 덕분에 추위에서도 견딜 수 있습니다. 또한 사회적인 생물이어서 종종 무리를 지어 다니며, 사냥감이 부족해지면 무리의 힘을 합쳐 더 큰 먹잇감을 사냥하기도 합니다.</RG_Thrinaxodon.description>
+  <RG_Thrinaxodon.tools.0.label>왼쪽 발톱</RG_Thrinaxodon.tools.0.label>
+  <RG_Thrinaxodon.tools.1.label>오른쪽 발톱</RG_Thrinaxodon.tools.1.label>
+  <RG_Thrinaxodon.tools.3.label>머리</RG_Thrinaxodon.tools.3.label>
+
+  <RG_Synthetion.label>신테티온</RG_Synthetion.label>
+  <RG_Synthetion.description>사슴과의 대형 생물로, 인류가 나타나기 수백만 년 전부터 살았던 멸종 동물입니다. 질긴 풀이나 그와 비슷한 식물을 먹고 살며, 온대 지역의 숲과 평원을 선호합니다.\n\n이들은 꽤 민첩한 초식 동물이며 수컷에게는 특이한 점이 있습니다. 귀 근처에 일반적인 뿔이 있는 것과 동시에, 코 위에도 피부로 덮인 코 뿔이 있습니다. 밑부분이 합쳐져 있고 끝부분이 갈라진 이 뿔은 아마도 짝짓기를 위한 과시용이나 경쟁자들과 겨루기 위한 용도로 사용되었을 것입니다.</RG_Synthetion.description>
+  <RG_Synthetion.tools.0.label>왼쪽 발굽</RG_Synthetion.tools.0.label>
+  <RG_Synthetion.tools.1.label>오른쪽 발굽</RG_Synthetion.tools.1.label>
+  <RG_Synthetion.tools.3.label>머리</RG_Synthetion.tools.3.label>
+
+  <RG_WoollyMammoth.label>털매머드</RG_WoollyMammoth.label>
+  <RG_WoollyMammoth.description>아시아 코끼리와 가장 가까운 관계이며 한때 멸종했던 종입니다. 이들이 남긴 부산물은 과거 테라의 초기 인류 문명 발전에 큰 도움이 되었습니다. 특히 상아는 멸종한 이후에도 예술품, 도구, 주거지를 만드는 데 사용되었습니다.\n\n털매머드는 아프리카 코끼리와 비슷한 크기이며, 속털과 겉털이 모두 있어 북극의 겨울도 쉽게 견딜 수 있습니다. 코끼리와 마찬가지로 엄니와 코를 사용해 물건을 조종하거나 싸우고 먹이를 찾지만, 이들의 엄니는 코끼리보다 훨씬 길고 두꺼우며 앞으로 크게 굽어 있습니다.</RG_WoollyMammoth.description>
+  <RG_WoollyMammoth.race.meatLabel>매머드 고기</RG_WoollyMammoth.race.meatLabel>
+  <RG_WoollyMammoth.tools.0.label>엄니</RG_WoollyMammoth.tools.0.label>
+  <RG_WoollyMammoth.tools.1.label>왼발</RG_WoollyMammoth.tools.1.label>
+  <RG_WoollyMammoth.tools.2.label>오른발</RG_WoollyMammoth.tools.2.label>
+  <RG_WoollyMammoth.tools.3.label>머리</RG_WoollyMammoth.tools.3.label>
+
+  <RG_WoollyRhinoceros.label>털코뿔소</RG_WoollyRhinoceros.label>
+  <RG_WoollyRhinoceros.description>거대한 덩치와 커다란 뿔 덕분에, 한때 멸종했던 이 생물은 성체가 되었을 때 천적이 거의 없었습니다. 길고 두꺼운 털은 초목을 뜯어 먹으며 북극 지역에서도 쾌적하게 살 수 있게 해주었습니다.\n\n털코뿔소는 길고 날카로운 뿔을 사용해 얼어붙은 지면을 파헤쳐 아래에 깔린 뿌리를 먹습니다. 하지만 수컷들은 영역 의식이 매우 강하기 때문에 번식기에는 뿔을 전투용으로도 사용합니다. 이들의 영역이나 가족을 위협하지 않도록 주의하십시오. 전면 돌진은 장갑차는 물론이고 무장한 인간 정도는 가볍게 뒤엎어 버릴 수 있습니다.</RG_WoollyRhinoceros.description>
+  <RG_WoollyRhinoceros.tools.0.label>뿔</RG_WoollyRhinoceros.tools.0.label>
+  <RG_WoollyRhinoceros.tools.1.label>뿔</RG_WoollyRhinoceros.tools.1.label>
+  <RG_WoollyRhinoceros.tools.3.label>머리</RG_WoollyRhinoceros.tools.3.label>
+
+  <RG_WoollyStegosaurus.label>털스테고사우루스</RG_WoollyStegosaurus.label>
+  <RG_WoollyStegosaurus.description>흔히 알려진 "지붕 도마뱀"의 변종입니다. 체온 조절과 짝짓기 과시용으로 사용되는 등 위의 독특한 연 모양 골판이 특징인 초식 동물입니다.\n\n털스테고사우루스는 추운 바이옴에 서식하며, 짧은 목과 작은 머리 때문에 주로 지면에 낮게 깔린 초목을 먹습니다. 꼬리 끝에 달린 가시는 일반적인 스테고사우루스와 달리 직선이 아닌 곡선 형태입니다. 이로 인해 포식자에 대한 방어 능력은 다소 떨어지지만, 단단한 흙을 파헤쳐 영양가 있는 뿌리를 드러내게 하는 데는 훨씬 더 적합합니다.</RG_WoollyStegosaurus.description>
+  <RG_WoollyStegosaurus.race.meatLabel>스테고사우루스 고기</RG_WoollyStegosaurus.race.meatLabel>
+  <RG_WoollyStegosaurus.tools.0.label>머리</RG_WoollyStegosaurus.tools.0.label>
+  <RG_WoollyStegosaurus.tools.2.label>왼발</RG_WoollyStegosaurus.tools.2.label>
+  <RG_WoollyStegosaurus.tools.3.label>오른발</RG_WoollyStegosaurus.tools.3.label>
+  <RG_WoollyStegosaurus.tools.4.label>꼬리 가시</RG_WoollyStegosaurus.tools.4.label>
+
+  <RG_SabertoothSquirrel.label>검치 다람쥐</RG_SabertoothSquirrel.label>
+  <RG_SabertoothSquirrel.description>엄밀히 말해 멸종했던 종은 아닙니다. 검치 다람쥐는 보관된 데이터의 오류와, 과학의 한계를 시험하고 대중의 인식을 개선하고자 했던 열정 넘치는 연구원들의 합작품입니다.\n\n이 다람쥐들은 풍성한 꼬리와 밖으로 튀어나온 거대한 두 개의 앞니가 특징이며, 이 이빨을 사용해 단단한 흙을 파거나 각종 견과류의 딱딱한 껍질을 깹니다.</RG_SabertoothSquirrel.description>
+  <RG_SabertoothSquirrel.tools.0.label>왼쪽 발톱</RG_SabertoothSquirrel.tools.0.label>
+  <RG_SabertoothSquirrel.tools.1.label>오른쪽 발톱</RG_SabertoothSquirrel.tools.1.label>
+  <RG_SabertoothSquirrel.tools.3.label>머리</RG_SabertoothSquirrel.tools.3.label>
+
+  <RG_ArcticDrak.label>북극 드락</RG_ArcticDrak.label>
+  <RG_ArcticDrak.description>불완전한 데이터를 통해 멸종 동물을 복원하려다 태어난 기묘한 결과물로, 이 파충류와 조류의 혼합체는 실제로 존재했을 가능성이 매우 낮습니다. 그리 잘 달리는 편은 아니지만, 북극 환경에 매우 잘 적응해 있으며 먹잇감을 찾아 얼음장 같은 물속에서 먼 거리를 헤엄칠 수 있습니다.\n\n북극 드락은 주로 숨구멍으로 올라오는 먹잇감을 사냥하는 단독 생활 생물로, 북극곰과 비슷하게 속이 빈 가닥으로 이루어진 놀랍도록 효율적인 모피를 가지고 있습니다. 길고 강력한 팔 끝에는 물갈퀴가 달린 갈고리 발톱이 있으며, 수컷은 짝을 유혹하기 위해 머리 뒷부분에 깃털 장식이 달려 있습니다.</RG_ArcticDrak.description>
+  <RG_ArcticDrak.tools.0.label>왼쪽 발톱</RG_ArcticDrak.tools.0.label>
+  <RG_ArcticDrak.tools.1.label>오른쪽 발톱</RG_ArcticDrak.tools.1.label>
+  <RG_ArcticDrak.tools.2.label>이빨</RG_ArcticDrak.tools.2.label>
+  <RG_ArcticDrak.tools.3.label>꼬리</RG_ArcticDrak.tools.3.label>
+
+  <RG_Velociraptor.label>벨로키랍토르</RG_Velociraptor.label>
+  <RG_Velociraptor.description>"재빠른 약탈자"를 의미하는, 이 칠면조만한 크기의 포식자는 두려움이 없고 날지 못하며 깃털이 달린 작은 말썽꾸러기들입니다. 이들은 무리를 지어 자신들보다 두 배나 큰 생물도 사냥할 수 있습니다. 특히 주목할 만한 것은 뒷발에 달린 낫 모양의 거대한 발톱으로, 먹이를 베고 꿰뚫어 내장을 쏟아내게 합니다.\n\n벨로키랍토르는 일반적으로 사냥감을 공유하지 않기 위해 혼자 사냥하는 것을 선호하며, 맹금류와 비슷하게 작고 쉬운 표적에 달려들어 턱과 발톱으로 붙잡습니다. 먹잇감을 추적하는 데 뛰어난 청력을 가지고 있으며, 가뭄이나 기근, 혹은 건강이 좋지 않은 시기에는 사체를 파헤치는 매우 기회주의적인 생물입니다.\n\n과거 인젠의 유전자 패턴을 기반으로 복원되었기 때문에, 이 특정 벨로키랍토르들은 암컷만 존재합니다.</RG_Velociraptor.description>
+  <RG_Velociraptor.race.meatLabel>수각류 고기</RG_Velociraptor.race.meatLabel>
+  <RG_Velociraptor.tools.0.label>왼쪽 발톱</RG_Velociraptor.tools.0.label>
+  <RG_Velociraptor.tools.1.label>오른쪽 발톱</RG_Velociraptor.tools.1.label>
+  <RG_Velociraptor.tools.3.label>머리</RG_Velociraptor.tools.3.label>
+
+  <RG_Megalenhydris.label>메갈렌히드리스</RG_Megalenhydris.label>
+  <RG_Megalenhydris.description>반수생 포유류인 이 거대 수달은 주로 조개류, 갑각류 및 다양한 강인한 초목을 먹고 삽니다. 배가 고프면 약해진 큰 포유류를 잡아먹기도 하지만, 보통은 먹이가 더 풍부한 지역으로 이동합니다.\n\n메갈렌히드리스는 유연한 몸과 기름기가 있어 물을 밀어내는 모피 덕분에 환상적인 수영 실력을 자랑합니다. 긴 꼬리 끝에는 평평한 지느러미가 달려 있어 물속에서 높은 기동성을 제공할 뿐만 아니라, 포식자를 채찍처럼 내리쳐 방어 용도로도 사용할 수 있습니다.</RG_Megalenhydris.description>
+  <RG_Megalenhydris.tools.0.label>왼쪽 발톱</RG_Megalenhydris.tools.0.label>
+  <RG_Megalenhydris.tools.1.label>오른쪽 발톱</RG_Megalenhydris.tools.1.label>
+  <RG_Megalenhydris.tools.3.label>머리</RG_Megalenhydris.tools.3.label>
+  <RG_Megalenhydris.tools.4.label>꼬리</RG_Megalenhydris.tools.4.label>
+</LanguageData>
