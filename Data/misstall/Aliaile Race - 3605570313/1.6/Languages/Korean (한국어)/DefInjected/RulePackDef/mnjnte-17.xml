@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FactionName_AR.rulePack.rulesStrings>
+    <li>r_name(p=4)-&gt;[AR_FactionName] [ofThing]</li>
+    <li>ofThing-&gt;수도회</li>
+    <li>ofThing-&gt;기사단</li>
+    <li>ofThing-&gt;학회</li>
+    <li>ofThing-&gt;동맹</li>
+    <li>ofThing-&gt;연합</li>
+    <li>ofThing-&gt;의회</li>
+    <li>ofThing-&gt;학파</li>
+  </FactionName_AR.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SettlementName_AR.rulePack.rulesStrings>
+    <li>r_name(p=4)-&gt;[AR_SettlementName] [ofThingA]</li>
+    <li>r_name(p=4)-&gt;[ofThingA] '[AR_SettlementName]'</li>
+    <li>r_name(p=4)-&gt;[ofThingB] '[AR_SettlementName]'</li>
+    <li>r_name(p=4)-&gt;[AR_FirstNameF] [AR_LastName] [ofThingA]</li>
+    <li>r_name(p=4)-&gt;[AR_FirstNameM] [AR_LastName] [ofThingA]</li>
+    <li>r_name(p=4)-&gt;[ofThingA] '[AR_FirstNameF] [AR_LastName]'</li>
+    <li>r_name(p=4)-&gt;[ofThingB] '[AR_FirstNameM] [AR_LastName]'</li>
+    <li>ofThingA-&gt;포도원</li>
+    <li>ofThingA-&gt;장원</li>
+    <li>ofThingA-&gt;농원</li>
+    <li>ofThingB-&gt;영지</li>
+    <li>ofThingB-&gt;보양지</li>
+    <li>ofThingB-&gt;정원</li>
+    <li>ofThingB-&gt;별장</li>
+    <li>ofThingB-&gt;와이너리</li>
+  </SettlementName_AR.rulePack.rulesStrings>
+</LanguageData>

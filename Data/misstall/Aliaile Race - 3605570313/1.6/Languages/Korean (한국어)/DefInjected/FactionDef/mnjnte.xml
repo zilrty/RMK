@@ -5,7 +5,6 @@
   <AR_Faction_NPC.pawnSingular>알리아일</AR_Faction_NPC.pawnSingular>
   <AR_Faction_NPC.pawnsPlural>알리아일들</AR_Faction_NPC.pawnsPlural>
   <AR_Faction_NPC.leaderTitle>수석 의장</AR_Faction_NPC.leaderTitle>
-
   <PlayerAliailesOrder.label>알리아일회</PlayerAliailesOrder.label>
   <PlayerAliailesOrder.description>알리아일과 디미아일들이 모여 형성한 집단입니다.</PlayerAliailesOrder.description>
   <PlayerAliailesOrder.pawnSingular>회원</PlayerAliailesOrder.pawnSingular>
