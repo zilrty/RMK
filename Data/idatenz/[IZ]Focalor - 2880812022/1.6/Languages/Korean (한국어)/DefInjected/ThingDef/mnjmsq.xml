@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Leather_Focalor.label>부드러운 비단 깃털</Leather_Focalor.label>
+  <Leather_Focalor.description>비단처럼 매우 아름다운 깃털입니다. 촉감이 부드럽고 쾌적하여 일류 여관의 가구 제작에 사용됩니다. 보온성이 뛰어나 의류 소재로도 쓰입니다.</Leather_Focalor.description>
+
+  <Focalor.label>포칼로르</Focalor.label>
+  <Focalor.description>하늘을 나는 날개와 도약에 최적화된 역관절을 가진 조인입니다.\n전투에는 적합하지 않지만, 그녀가 생산하는 털의 아름다움은 독보적이며 주로 고급 가구에 사용됩니다.\n\n그녀는 조용하지만, 깃털 뒤편으로는 누군가에게 응석 부리고 싶어 합니다. 그녀를 사랑해 주세요.</Focalor.description>
+
+  <Focalor.tools.0.label>왼손</Focalor.tools.0.label>
+  <Focalor.tools.1.label>오른손</Focalor.tools.1.label>
+</LanguageData>
