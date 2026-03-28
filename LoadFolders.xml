@@ -1341,7 +1341,6 @@
     <li IfModActive="tbmr.wjxm">Data/无尽星芒 - 3251331071</li>
     <li IfModActive="HaiLuan.GravshipExpanded">Data/百里墨的逆重飞船拓展 - 3524562131</li>
     <li IfModActive="RKK.RatKnights.Core">Data/鼠族骑士团拓展 - 3394862242</li>
-    <li IfModActive="PuPa.InsectGirls">Data/虫娘 Insect Girls - 2451340446</li>
     <li IfModActive="sm.mimikko">Data/兽耳助手（Mimikko） - 2682319213</li>
     <li IfModActive="kb.battlecruiser">Data/环·战列巡航舰 Rim·Battlecruiser - 2822956166</li>
     <li IfModActive="spoonshortage.ADogSaidAnimalProsthetics">Data/A Dog Said... Animal Prosthetics - 746425621</li>
@@ -1901,6 +1900,7 @@
     <li IfModActive="EnderNyktos.InfiniteSynthReactors">Data/Infinite SynthReactors - 3248747282</li>
     <li IfModActive="notfood.Infused">Data/Infused - 731287727</li>
     <li IfModActive="sk.infusion">Data/Infusion 2 - Continued - 3536247747</li>
+    <li IfModActive="PuPa.InsectGirls">Data/Insect Girls - 2451340446/1.4</li>
     <li IfModActive="Who.VFEE.IsopodaGeneline">Data/Insectoids 2 - Isopoda geneline - 3357632382</li>
     <li IfModActive="catachat.inspirationtweaks">Data/Inspiration Tweaks - 2117570018</li>
     <li IfModActive="GrillMaster.integratedcreepjoiners">Data/Integrated Creep Joiners - 3233429182</li>
@@ -3989,7 +3989,6 @@
     <li IfModActive="tbmr.wjxm">Data/无尽星芒 - 3251331071</li>
     <li IfModActive="HaiLuan.GravshipExpanded">Data/百里墨的逆重飞船拓展 - 3524562131</li>
     <li IfModActive="RKK.RatKnights.Core">Data/鼠族骑士团拓展 - 3394862242</li>
-    <li IfModActive="PuPa.InsectGirls">Data/虫娘 Insect Girls - 2451340446</li>
     <li IfModActive="sm.mimikko">Data/兽耳助手（Mimikko） - 2682319213</li>
     <li IfModActive="kb.battlecruiser">Data/环·战列巡航舰 Rim·Battlecruiser - 2822956166</li>
     <li IfModActive="spoonshortage.ADogSaidAnimalProsthetics">Data/A Dog Said... Animal Prosthetics - 746425621</li>
@@ -4548,6 +4547,7 @@
     <li IfModActive="EnderNyktos.InfiniteSynthReactors">Data/Infinite SynthReactors - 3248747282</li>
     <li IfModActive="notfood.Infused">Data/Infused - 731287727</li>
     <li IfModActive="sk.infusion">Data/Infusion 2 - Continued - 3536247747</li>
+    <li IfModActive="PuPa.InsectGirls">Data/Insect Girls - 2451340446/1.4</li>
     <li IfModActive="Who.VFEE.IsopodaGeneline">Data/Insectoids 2 - Isopoda geneline - 3357632382</li>
     <li IfModActive="catachat.inspirationtweaks">Data/Inspiration Tweaks - 2117570018</li>
     <li IfModActive="GrillMaster.integratedcreepjoiners">Data/Integrated Creep Joiners - 3233429182</li>
@@ -6637,7 +6637,6 @@
     <li IfModActive="tbmr.wjxm">Data/无尽星芒 - 3251331071</li>
     <li IfModActive="HaiLuan.GravshipExpanded">Data/百里墨的逆重飞船拓展 - 3524562131</li>
     <li IfModActive="RKK.RatKnights.Core">Data/鼠族骑士团拓展 - 3394862242</li>
-    <li IfModActive="PuPa.InsectGirls">Data/虫娘 Insect Girls - 2451340446</li>
     <li IfModActive="sm.mimikko">Data/兽耳助手（Mimikko） - 2682319213</li>
     <li IfModActive="kb.battlecruiser">Data/环·战列巡航舰 Rim·Battlecruiser - 2822956166</li>
     <li IfModActive="spoonshortage.ADogSaidAnimalProsthetics">Data/A Dog Said... Animal Prosthetics - 746425621</li>
@@ -7197,6 +7196,7 @@
     <li IfModActive="EnderNyktos.InfiniteSynthReactors">Data/Infinite SynthReactors - 3248747282</li>
     <li IfModActive="notfood.Infused">Data/Infused - 731287727</li>
     <li IfModActive="sk.infusion">Data/Infusion 2 - Continued - 3536247747</li>
+    <li IfModActive="PuPa.InsectGirls">Data/Insect Girls - 2451340446/1.4</li>
     <li IfModActive="Who.VFEE.IsopodaGeneline">Data/Insectoids 2 - Isopoda geneline - 3357632382</li>
     <li IfModActive="catachat.inspirationtweaks">Data/Inspiration Tweaks - 2117570018</li>
     <li IfModActive="GrillMaster.integratedcreepjoiners">Data/Integrated Creep Joiners - 3233429182</li>
@@ -9286,7 +9286,6 @@
     <li IfModActive="tbmr.wjxm">Data/无尽星芒 - 3251331071</li>
     <li IfModActive="HaiLuan.GravshipExpanded">Data/百里墨的逆重飞船拓展 - 3524562131</li>
     <li IfModActive="RKK.RatKnights.Core">Data/鼠族骑士团拓展 - 3394862242</li>
-    <li IfModActive="PuPa.InsectGirls">Data/虫娘 Insect Girls - 2451340446</li>
     <li IfModActive="sm.mimikko">Data/兽耳助手（Mimikko） - 2682319213</li>
     <li IfModActive="kb.battlecruiser">Data/环·战列巡航舰 Rim·Battlecruiser - 2822956166</li>
     <li IfModActive="spoonshortage.ADogSaidAnimalProsthetics">Data/A Dog Said... Animal Prosthetics - 746425621</li>
@@ -9846,6 +9845,7 @@
     <li IfModActive="EnderNyktos.InfiniteSynthReactors">Data/Infinite SynthReactors - 3248747282</li>
     <li IfModActive="notfood.Infused">Data/Infused - 731287727</li>
     <li IfModActive="sk.infusion">Data/Infusion 2 - Continued - 3536247747</li>
+    <li IfModActive="PuPa.InsectGirls">Data/Insect Girls - 2451340446/1.4</li>
     <li IfModActive="Who.VFEE.IsopodaGeneline">Data/Insectoids 2 - Isopoda geneline - 3357632382</li>
     <li IfModActive="catachat.inspirationtweaks">Data/Inspiration Tweaks - 2117570018</li>
     <li IfModActive="GrillMaster.integratedcreepjoiners">Data/Integrated Creep Joiners - 3233429182</li>
