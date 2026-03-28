@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WD_Building_Mobile_Hauler.label>소형 운반 드론 스테이션</WD_Building_Mobile_Hauler.label>
+  <WD_Building_Mobile_Hauler.description>운반 드론 1기를 보관하고 재충전할 수 있는 이동식 스테이션입니다.</WD_Building_Mobile_Hauler.description>
+  <WD_Building_Station_Hauler.label>대형 운반 드론 스테이션</WD_Building_Station_Hauler.label>
+  <WD_Building_Station_Hauler.description>최대 4기의 운반 드론을 보관하고 재충전할 수 있는 고정식 스테이션입니다.</WD_Building_Station_Hauler.description>
+  <WD_Building_Mobile_Engineer.label>소형 건설 드론 스테이션</WD_Building_Mobile_Engineer.label>
+  <WD_Building_Mobile_Engineer.description>건설 드론 1기를 보관하고 재충전할 수 있는 이동식 스테이션입니다.</WD_Building_Mobile_Engineer.description>
+  <WD_Building_Station_Engineer.label>대형 건설 드론 스테이션</WD_Building_Station_Engineer.label>
+  <WD_Building_Station_Engineer.description>최대 3기의 건설 드론을 보관하고 재충전할 수 있는 고정식 스테이션입니다.</WD_Building_Station_Engineer.description>
+  <WD_Hauler_Hover.label>운반 드론</WD_Hauler_Hover.label>
+  <WD_Hauler_Hover.description>운반용 쿼드 드론입니다.</WD_Hauler_Hover.description>
+  <WD_Hauler_Hover.tools.0.label>머리</WD_Hauler_Hover.tools.0.label>
+  <WD_Engineer_Hover.label>건설 드론</WD_Engineer_Hover.label>
+  <WD_Engineer_Hover.description>건설용 쿼드 드론입니다.</WD_Engineer_Hover.description>
+  <WD_Engineer_Hover.tools.0.label>머리</WD_Engineer_Hover.tools.0.label>
+</LanguageData>

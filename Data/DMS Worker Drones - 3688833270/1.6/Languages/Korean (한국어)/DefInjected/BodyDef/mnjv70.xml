@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WD_Quard.label>쿼드 드론</WD_Quard.label>
+  <WD_Quard.corePart.customLabel>차대</WD_Quard.corePart.customLabel>
+  <WD_Quard.corePart.parts.1.customLabel>호버 시스템</WD_Quard.corePart.parts.1.customLabel>
+  <WD_Quard.corePart.parts.2.customLabel>장착부</WD_Quard.corePart.parts.2.customLabel>
+  <WD_Quard.corePart.parts.3.customLabel>메인 배터리</WD_Quard.corePart.parts.3.customLabel>
+</LanguageData>
