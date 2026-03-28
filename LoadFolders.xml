@@ -391,6 +391,7 @@
     <li IfModActive="Pal5k.HunterMechanoid">Data/hYPERION/Hunter Mechanoid - 3018267953/1.6</li>
     <li IfModActive="Pal5k.LogisticsMechanoid">Data/hYPERION/Logistics Mechanoid - 2885430743</li>
     <li IfModActive="pal5k.snowcrawler">Data/hYPERION/Snow Crawler - 3014617494</li>
+    <li IfModActive="idatenz.Valkyrie.advent">Data/idatenz/[IZ]Valkyrie BOSS - 3644733663/1.6</li>
     <li IfModActive="idatenz.abteam">Data/idatenz/AB Team - 2866946831</li>
     <li IfModActive="idatenz.frigil">Data/idatenz/Frigil - 2874380186</li>
     <li IfModActive="idatenz.tenko">Data/idatenz/Tenko - 2944827335</li>
@@ -3037,6 +3038,7 @@
     <li IfModActive="Pal5k.HunterMechanoid">Data/hYPERION/Hunter Mechanoid - 3018267953/1.6</li>
     <li IfModActive="Pal5k.LogisticsMechanoid">Data/hYPERION/Logistics Mechanoid - 2885430743</li>
     <li IfModActive="pal5k.snowcrawler">Data/hYPERION/Snow Crawler - 3014617494</li>
+    <li IfModActive="idatenz.Valkyrie.advent">Data/idatenz/[IZ]Valkyrie BOSS - 3644733663/1.6</li>
     <li IfModActive="idatenz.abteam">Data/idatenz/AB Team - 2866946831</li>
     <li IfModActive="idatenz.frigil">Data/idatenz/Frigil - 2874380186</li>
     <li IfModActive="idatenz.tenko">Data/idatenz/Tenko - 2944827335</li>
@@ -5683,6 +5685,7 @@
     <li IfModActive="Pal5k.HunterMechanoid">Data/hYPERION/Hunter Mechanoid - 3018267953/1.6</li>
     <li IfModActive="Pal5k.LogisticsMechanoid">Data/hYPERION/Logistics Mechanoid - 2885430743</li>
     <li IfModActive="pal5k.snowcrawler">Data/hYPERION/Snow Crawler - 3014617494</li>
+    <li IfModActive="idatenz.Valkyrie.advent">Data/idatenz/[IZ]Valkyrie BOSS - 3644733663/1.6</li>
     <li IfModActive="idatenz.abteam">Data/idatenz/AB Team - 2866946831</li>
     <li IfModActive="idatenz.frigil">Data/idatenz/Frigil - 2874380186</li>
     <li IfModActive="idatenz.tenko">Data/idatenz/Tenko - 2944827335</li>
@@ -8330,6 +8333,7 @@
     <li IfModActive="Pal5k.HunterMechanoid">Data/hYPERION/Hunter Mechanoid - 3018267953/1.6</li>
     <li IfModActive="Pal5k.LogisticsMechanoid">Data/hYPERION/Logistics Mechanoid - 2885430743</li>
     <li IfModActive="pal5k.snowcrawler">Data/hYPERION/Snow Crawler - 3014617494</li>
+    <li IfModActive="idatenz.Valkyrie.advent">Data/idatenz/[IZ]Valkyrie BOSS - 3644733663/1.6</li>
     <li IfModActive="idatenz.abteam">Data/idatenz/AB Team - 2866946831</li>
     <li IfModActive="idatenz.frigil">Data/idatenz/Frigil - 2874380186</li>
     <li IfModActive="idatenz.tenko">Data/idatenz/Tenko - 2944827335</li>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VK_SuperDebuff_A.label>회개</VK_SuperDebuff_A.label>
+  <VK_SuperDebuff_A.description>발키리의 심판의 검에 의해 새겨진 흉터입니다. 신에게 저항한 대가로 신체와 정신에 낙인이 찍혔으며, 정상적인 전투가 불가능한 상태가 됩니다. 후회가 깊어질수록 죄인은 스스로 목숨을 끊게 될 것입니다.</VK_SuperDebuff_A.description>
+  <VK_SuperDebuff_A.stages.0.label>후회</VK_SuperDebuff_A.stages.0.label>
+  <VK_SuperDebuff_A.stages.1.label>심판</VK_SuperDebuff_A.stages.1.label>
+
+  <VK_SuperDebuff_B.label>평등</VK_SuperDebuff_B.label>
+  <VK_SuperDebuff_B.description>발키리에 의해 부여된 일종의 자격입니다. 선인이든 죄인이든, 원죄를 가진 모든 자는 평등합니다.</VK_SuperDebuff_B.description>
+
+  <VK_SwordPanic.label>공포</VK_SwordPanic.label>
+  <VK_SwordPanic.description>하늘에서 정의의 눈길이 내려올 때 느끼는 본능적인 공포 상태입니다. 이들은 신에게 대적한 것을 후회하게 될 것입니다.</VK_SwordPanic.description>
+  <VK_SwordPanic.stages.0.label>전율</VK_SwordPanic.stages.0.label>
+  <VK_SwordPanic.stages.1.label>광기</VK_SwordPanic.stages.1.label>
+
+  <VK_BellBerserk.label>정의 집행</VK_BellBerserk.label>
+  <VK_BellBerserk.description>천상의 종소리를 듣고 발키리의 정의에 동화된 상태입니다. 이제 이들은 원죄를 가진 모든 존재에게 사적인 형벌을 내리려 할 것입니다.</VK_BellBerserk.description>
+
+  <VK_TimeBreak.label>심판</VK_TimeBreak.label>
+  <VK_TimeBreak.description>발키리가 직접 내린 판결입니다.\n육신이라는 감옥에서 해방된 영혼은 틈 없는 황금 사슬의 보호를 받으며, 영원히 빛나는 태양이 될 것입니다.</VK_TimeBreak.description>
+</LanguageData>
