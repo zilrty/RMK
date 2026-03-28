@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Perseverance.letterText>공동체의 인내심</Perseverance.letterText>
+  <GoodTimes.letterText>앞으로 다가올 좋은 날들</GoodTimes.letterText>
+  <Comradery.letterText>위험에 맞서는 동료애</Comradery.letterText>
+  <Serenity.letterText>평온에 대한 희망</Serenity.letterText>
+  <StillAlive.letterText>또 하루를 살아남음</StillAlive.letterText>
+  <Fallen.letterText>쓰러져간 이들의 삶</Fallen.letterText>
+  <CalmBeforeStorm.letterText>폭풍 전야의 고요</CalmBeforeStorm.letterText>
+  <AmbrosiaSprout.letterText>최근에 싹튼 암브로시아</AmbrosiaSprout.letterText>
+  <PsychicSoothe.letterText>공동체를 진정시키는 초월공학의 손길</PsychicSoothe.letterText>
+  <ThrumboPasses.letterText>야생 트럼보 목격</ThrumboPasses.letterText>
+  <GameEndedWanderersJoin.letterText>집이라 부를 곳을 찾음</GameEndedWanderersJoin.letterText>
+  <Eclipse.letterText>개기일식</Eclipse.letterText>
+  <Aurora.letterText>어느 날의 아름다운 오로라</Aurora.letterText>
+  <GiveQuest_EndGame_ShipEscape.letterText>이 행성을 탈출할 방법 발견</GiveQuest_EndGame_ShipEscape.letterText>
+
+  <TamedAnimal.letterText>{TARGET_labelShort}(이)가 {TARGET2_labelShort}(을)를 길들임</TamedAnimal.letterText>
+  <Recruited.letterText>{TARGET_labelShort}(이)가 {TARGET2_labelShort}(을)를 포섭함</Recruited.letterText>
+  <BondedWithAnimal.letterText>{TARGET_labelShort}(와)과 {TARGET2_labelShort}의 각별한 관계</BondedWithAnimal.letterText>
+  <BecameLover.letterText>{TARGET_labelShort}(와)과 {TARGET2_labelShort}의 사랑</BecameLover.letterText>
+  <DidSurgery.letterText>{TARGET_labelShort}(이)가 집도한 {TARGET2_labelShort}의 수술</DidSurgery.letterText>
+  <GaveBirth.letterText>{TARGET2_labelShort}의 탄생</GaveBirth.letterText>
+  <GaveBirthAnimal.letterText>{TARGET2_labelShort}의 탄생</GaveBirthAnimal.letterText>
+  <Breakup.letterText>{TARGET_labelShort}(와)과 {TARGET2_labelShort}의 결별</Breakup.letterText>
+  <SocialFight.letterText>{TARGET_labelShort}(와)과 {TARGET2_labelShort}의 난투</SocialFight.letterText>
+  <CollapseDodged.letterText>{TARGET_labelShort}의 낙하물 회피</CollapseDodged.letterText>
+  <CaravanAssaultSuccessful.letterText>성공적인 습격</CaravanAssaultSuccessful.letterText>
+  <GainedMasterSkillWithPassion.letterText>{TARGET_labelShort}의 숙련된 {TARGET2} 기술</GainedMasterSkillWithPassion.letterText>
+  <CompletedLongConstructionProject.letterText>{TARGET_labelShort}(이)가 완성한 {TARGET2_label}</CompletedLongConstructionProject.letterText>
+  <CompletedLongCraftingProject.letterText>{TARGET_labelShort}(이)가 완성한 {TARGET2_label}</CompletedLongCraftingProject.letterText>
+  <DefeatedHostileFactionLeader.letterText>{TARGET_labelShort}(이)가 {TARGET2_labelShort}(을)를 쓰러뜨림</DefeatedHostileFactionLeader.letterText>
+
+  <LaunchedShip.letterText>행성 탈출선 발사</LaunchedShip.letterText>
+  <ClosedTheVoid.letterText>공허를 닫음</ClosedTheVoid.letterText>
+  <EmbracedTheVoid.letterText>공허와 하나가 됨</EmbracedTheVoid.letterText>
+  <TileSettled.letterText>새로운 땅에 정착</TileSettled.letterText>
+  <BuiltSnowman.letterText>마법 같은 눈사람의 탄생</BuiltSnowman.letterText>
+  <StruckMineable.letterText>{TARGET_labelShort}(이)가 발견한 {TARGET2_label} 광맥</StruckMineable.letterText>
+  <FinishedResearchProject.letterText>{TARGET_labelShort}의 {TARGET2_label} 연구 완료</FinishedResearchProject.letterText>
+  <RaidEnemy.letterText>적의 습격에서 살아남음</RaidEnemy.letterText>
+  <Infestation.letterText>곤충 군락으로부터 살아남음</Infestation.letterText>
+  <ManhunterPack.letterText>식인 동물 무리로부터 살아남음</ManhunterPack.letterText>
+
+  <Birthday.letterText>{TARGET_labelShort}의 생일</Birthday.letterText>
+  <Resurrect.letterText>{TARGET_labelShort}의 부활</Resurrect.letterText>
+  <BabyShower.letterText>{TARGET_labelShort}(을)를 위한 베이비 샤워</BabyShower.letterText>
+  <BestowingCeremony.letterText>{TARGET_labelShort}에게 하사된 새로운 권능</BestowingCeremony.letterText>
+  <InstallImplant.letterText>{TARGET_labelShort}에게 {TARGET2_label} 이식 성공</InstallImplant.letterText>
+  <AbsorbXenogerm.letterText>{TARGET_labelShort}(이)가 {TARGET2_labelShort}의 유전자 복합체를 흡수함</AbsorbXenogerm.letterText>
+  <ActivateMonolith.letterText>모노리스 활성화</ActivateMonolith.letterText>
+  <BuildCubeStructure.letterText>아름다운 큐브 건설</BuildCubeStructure.letterText>
+  <CreateXenogerm.letterText>새로운 유전자 복합체 생성</CreateXenogerm.letterText>
+  <DevourerDigest.letterText>걸신에 의한 {TARGET_labelShort}의 소화</DevourerDigest.letterText>
+  <NociosphereDepart.letterText>고통구체의 떠남</NociosphereDepart.letterText>
+  <Nuzzle.letterText>{TARGET_labelShort}의 애교</Nuzzle.letterText>
+  
+  <Play_Hoopstone.letterText>{TARGET_labelShort}의 놀라운 고리 던지기</Play_Hoopstone.letterText>
+  <Play_Horseshoes.letterText>{TARGET_labelShort}의 놀라운 편자 던지기</Play_Horseshoes.letterText>
+  <Play_GameOfUr.letterText>{TARGET_labelShort}의 우르 게임 승리</Play_GameOfUr.letterText>
+  <Play_Chess.letterText>{TARGET_labelShort}의 체스 게임 승리</Play_Chess.letterText>
+  <Play_Billiards.letterText>{TARGET_labelShort}의 능숙한 당구 실력</Play_Billiards.letterText>
+  <Play_MusicalInstrument.letterText>{TARGET_labelShort}의 음악적 재능</Play_MusicalInstrument.letterText>
+  <Play_Poker.letterText>{TARGET_labelShort}의 로얄 플러시</Play_Poker.letterText>
+  <WatchTelevision.letterText>사랑받던 TV 시리즈의 완결</WatchTelevision.letterText>
+  <UseTelescope.letterText>{TARGET_labelShort}(이)가 망원경으로 발견한 새로운 행성</UseTelescope.letterText>
+  <ReleaseAnimalToWild.letterText>동물을 야생으로 방생함</ReleaseAnimalToWild.letterText>
+
+  <ActivateArchonexusCore.letterText>초월공학 핵 활성화</ActivateArchonexusCore.letterText>
+  <SlaveEmancipation.letterText>{TARGET2_labelShort}의 해방</SlaveEmancipation.letterText>
+  <ReleasePrisoner.letterText>{TARGET2_labelShort} 석방</ReleasePrisoner.letterText>
+  <Lessontaking.letterText>{TARGET_labelShort}의 성공적인 학교 수업</Lessontaking.letterText>
+
+  <Jealous.letterText>다른 이들보다 돋보이고 싶은 {TARGET_labelShort}의 욕구</Jealous.letterText>
+  <Masochist.letterText>고통을 즐기는 {TARGET_labelShort}</Masochist.letterText>
+  <Pyromaniac.letterText>불을 사랑하는 {TARGET_labelShort}</Pyromaniac.letterText>
+  <Nimble.letterText>전투 중 {TARGET_labelShort}의 민첩함</Nimble.letterText>
+  <Tough.letterText>{TARGET_labelShort}의 강인함</Tough.letterText>
+  <TooSmart.letterText>{TARGET_labelShort}의 빠른 눈썰미</TooSmart.letterText>
+  <Kind.letterText>{TARGET_labelShort}의 친절함</Kind.letterText>
+  <CreepyBreathing.letterText>{TARGET_labelShort}의 기분 나쁜 숨소리</CreepyBreathing.letterText>
+  <Pride.letterText>자신에 대한 {TARGET_labelShort}의 자부심</Pride.letterText>
+  <Industriousness.letterText>{TARGET_labelShort}의 근면성실한 태도</Industriousness.letterText>
+  <NaturalMood.letterText>{TARGET_labelShort}의 낙천적인 성격</NaturalMood.letterText>
+  <Nerves.letterText>{TARGET_labelShort}의 강철 같은 의지</Nerves.letterText>
+  <Beauty.letterText>{TARGET_labelShort}의 아름다움</Beauty.letterText>
+  <Joyous.letterText>{TARGET_labelShort}(이)가 모두에게 가져다주는 기쁨</Joyous.letterText>
+
+  <PsychicDrone.letterText>정신 파동 종료</PsychicDrone.letterText>
+  <ToxicFallout.letterText>유독성 낙진 종료</ToxicFallout.letterText>
+  <VolcanicWinter.letterText>화산 겨울 종료</VolcanicWinter.letterText>
+  <HeatWave.letterText>폭염 종료</HeatWave.letterText>
+  <ColdSnap.letterText>한파 종료</ColdSnap.letterText>
+  <DeathPall.letterText>시체들이 다시 잠듦</DeathPall.letterText>
+  <GrayPall.letterText>잿빛 안개 종료</GrayPall.letterText>
+  <UnnaturalDarkness.letterText>부자연적 어둠 종료</UnnaturalDarkness.letterText>
+  <NoxiousHaze.letterText>유독성 안개 종료</NoxiousHaze.letterText>
+
+  <Plague.letterText>{TARGET_labelShort}의 흑사병 회복</Plague.letterText>
+  <GutWorms.letterText>{TARGET_labelShort}의 기생충 회복</GutWorms.letterText>
+  <WoundInfection.letterText>{TARGET_labelShort}의 감염 회복</WoundInfection.letterText>
+  <Flu.letterText>{TARGET_labelShort}의 독감 회복</Flu.letterText>
+  <Malaria.letterText>{TARGET_labelShort}의 말라리아 회복</Malaria.letterText>
+  <SleepingSickness.letterText>{TARGET_labelShort}의 수면병 회복</SleepingSickness.letterText>
+  <Blindness.letterText>{TARGET_labelShort}의 실명 치료</Blindness.letterText>
+  <Dementia.letterText>{TARGET_labelShort}의 치매 치료</Dementia.letterText>
+  <Alzheimers.letterText>{TARGET_labelShort}의 알츠하이머 치료</Alzheimers.letterText>
+  <HeartArteryBlockage.letterText>{TARGET_labelShort}의 심근경색 치료</HeartArteryBlockage.letterText>
+
+  <AlcoholAddiction.letterText>{TARGET_labelShort}의 알코올 중독 치료</AlcoholAddiction.letterText>
+  <GoJuiceAddiction.letterText>{TARGET_labelShort}의 고주스 중독 치료</GoJuiceAddiction.letterText>
+  <PsychiteAddiction.letterText>{TARGET_labelShort}의 사이카이트 중독 치료</PsychiteAddiction.letterText>
+  <SmokeleafAddiction.letterText>{TARGET_labelShort}의 연초 중독 치료</SmokeleafAddiction.letterText>
+  <WakeUpAddiction.letterText>{TARGET_labelShort}의 웨이크업 중독 치료</WakeUpAddiction.letterText>
+
+  <AnimaTreeLinking.letterText>{TARGET_labelShort}(와)과 영혼 나무의 결속</AnimaTreeLinking.letterText>
+  <BlindingCeremony.letterText>{TARGET_labelShort}의 실명 의식</BlindingCeremony.letterText>
+  <ScarificationCeremony.letterText>{TARGET_labelShort}의 새로운 흉터</ScarificationCeremony.letterText>
+  <TreeConnection.letterText>{TARGET_labelShort}(와)과 요정 나무의 결속</TreeConnection.letterText>
+  <Conversion.letterText>{TARGET_labelShort} 개종</Conversion.letterText>
+  <GladiatorDuel.letterText>{TARGET_labelShort}(와)과 {TARGET2_labelShort}의 검투사 결투</GladiatorDuel.letterText>
+  <Execution.letterText>{TARGET_labelShort}(이)가 집행한 {TARGET2_labelShort}의 처형</Execution.letterText>
+  <SacrificePrisoner.letterText>{TARGET_labelShort}(이)가 {TARGET2_labelShort}(을)를 제물로 바침</SacrificePrisoner.letterText>
+  <RoleChange.letterText>공동체 내 {TARGET_labelShort}의 새로운 역할</RoleChange.letterText>
+  <Trial.letterText>{TARGET_labelShort}의 재판 결과</Trial.letterText>
+  <ThroneSpeech.letterText>{TARGET_labelShort}의 연설</ThroneSpeech.letterText>
+  <LeaderSpeech.letterText>{TARGET_labelShort}의 연설</LeaderSpeech.letterText>
+
+  <VEE_IceAge.letterText>빙하기 종료</VEE_IceAge.letterText>
+  <VEE_GlobalWarming.letterText>지구 온난화 종료</VEE_GlobalWarming.letterText>
+  <VEE_PsychicRain.letterText>초자연적인 비 종료</VEE_PsychicRain.letterText>
+  <VEE_LongNight.letterText>기나긴 밤 종료</VEE_LongNight.letterText>
+</LanguageData>

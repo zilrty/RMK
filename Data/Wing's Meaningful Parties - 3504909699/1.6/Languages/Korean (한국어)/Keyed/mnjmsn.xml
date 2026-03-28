@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Party_letterText>{ORGANIZER_labelShort}(이)가 {CELEBRATION}(을)를 기념하기 위해 파티를 엽니다! 참석하는 모든 정착민은 재미와 사교 욕구를 채우고, 오랫동안 지속되는 무드 보너스를 얻을 것입니다.</Party_letterText>
+
+  <VSIE_BingeParty_letterText>{ORGANIZER_labelShort}(이)가 {CELEBRATION}(을)를 기념하며 광란의 폭식 파티를 제안했습니다. 주의: 이 파티는 몇 시간 동안 지속될 수 있습니다. 정착민들은 파티가 끝날 때까지 음식과 약물을 닥치는 대로 섭취할 것입니다. 파티에 참여하지 않게 하려면 정착민을 소집하십시오.</VSIE_BingeParty_letterText>
+
+  <VSIE_OutdoorParty_letterText>{ORGANIZER_labelShort}(이)가 {CELEBRATION}(을)를 기념하며 야외 파티를 제안했습니다. 정착민들은 밖으로 나가 모닥불을 피우고, 그 주위에 둘러앉아 이야기를 나눌 것입니다.</VSIE_OutdoorParty_letterText>
+</LanguageData>
