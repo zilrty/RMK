@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Isekai_Protagonist.degreeDatas.0.label>주인공</Isekai_Protagonist.degreeDatas.0.label>
+  <Isekai_Protagonist.degreeDatas.0.description>{PAWN_nameDef}(은)는 운명으로 점지된 주인공입니다. 그 누구보다도 빠른 괄목할 만큼의 놀라운 속도로 성장합니다.\n\n• XP 획득량 x10\n• 레벨 업마다 능력치 보너스 +2\n• 충돌 특성: 대적자, 회귀자, 소환된 영웅</Isekai_Protagonist.degreeDatas.0.description>
+  <Isekai_Antagonist.degreeDatas.0.label>대적자</Isekai_Antagonist.degreeDatas.0.label>
+  <Isekai_Antagonist.degreeDatas.0.description>{PAWN_nameDef}(은)는 두려움의 대상으로 매도받는 대적자의 길을 걷고 있습니다. 대적을 통해 강인하게 성장하며 상당한 전투 보너스를 받지만, {PAWN_possessive} 존재만으로도 주변인들은 불안에 떱니다.\n\n• XP 획득량 x8\n• 근접 공격력 +25%\n• 이동 속도 +10%\n• 사회적 영향력 -25%\n• 모든 이들로부터 의견 -25\n• 충돌 특성: 주인공, 소환된 영웅</Isekai_Antagonist.degreeDatas.0.description>
+  <Isekai_Reincarnated.degreeDatas.0.label>환생자</Isekai_Reincarnated.degreeDatas.0.label>
+  <Isekai_Reincarnated.degreeDatas.0.description>{PAWN_nameDef}(은)는 환생하여 새로 태어났습니다. 옛 기억을 가진 채로 말이지요. 레벨과 능력치는 초기 상태로 돌아갔지만 별자리 진행도는 그대로 남아 있으며, 강력한 성장 보너스를 얻게 되었습니다.\n\n• 레벨 1 및 능력치 초기화 (새 게임 보너스)\n• XP 획득량 x5\n• 별자리 포인트 보너스+10\n• 매 3 레벨마다 별자리 포인트 +1 (기존의 5 레벨 대신 3 레벨) \n• 별자리 맵 진행도 유지\n• 충돌 특성: 주인공, 대적자, Hollow Core</Isekai_Reincarnated.degreeDatas.0.description>
+  <Isekai_Regressor.degreeDatas.0.label>회귀자</Isekai_Regressor.degreeDatas.0.label>
+  <Isekai_Regressor.degreeDatas.0.description>{PAWN_nameDef}(은)는 미래의 지식들을 가지고 과거로부터 회귀하였습니다. 레벨 성장이 빠르며 언제든 자유로이 별자리 할당이 가능합니다.\n\n• XP 획득량 x4\n• 별자리 재분배 비용 없음 (항상)\n• 충돌 특성: 주인공</Isekai_Regressor.degreeDatas.0.description>
+  <Isekai_SummonedHero.degreeDatas.0.label>소환된 영웅</Isekai_SummonedHero.degreeDatas.0.label>
+  <Isekai_SummonedHero.degreeDatas.0.description>{PAWN_nameDef}(은)는 이세계로부터 영웅으로서 소환되었습니다. 급속한 힘의 성장을 이루며 탄력성이 좋은 정신력의 소유자이지만, 본래의 세계로부터 떨어져 있다는 사실이 마음 한구석에서 {PAWN_objective} 짓누르고 있습니다.\n\n• XP 획득량 x3\n• 레벨당 능력치 보너스 +1\n• 정신 이상 회복 빠름\n• 사회적 영향력 +25%\n• 기분 변화 -8 고정 (이세계에 떨어짐)\n• 충돌 특성: 주인공, 대적자</Isekai_SummonedHero.degreeDatas.0.description>
+  <Isekai_NaturalTalent.degreeDatas.0.label>타고난 재능</Isekai_NaturalTalent.degreeDatas.0.label>
+  <Isekai_NaturalTalent.degreeDatas.0.description>{PAWN_nameDef}(은)는 놀라운 잠재력을 지니고 태어났습니다. 레벨 업과 함께 별자리 포인트 보너스를 받아 더 많은 별자리 노드 잠금 해제를 할 수 있습니다.\n\n• 5 레벨마다 별자리 포인트 보너스 +1 (기존의 2 포인트 대신 1 포인트)</Isekai_NaturalTalent.degreeDatas.0.description>
+  <Isekai_Prodigy.degreeDatas.0.label>신동</Isekai_Prodigy.degreeDatas.0.label>
+  <Isekai_Prodigy.degreeDatas.0.description>{PAWN_nameDef}(은)는 놀라울 만큼 지식을 흡수하는 천재입니다. {PAWN_pronoun}는 남들하곤 다른 차원의 정신 수준을 자랑합니다.\n\n• XP 획득량 x2\n• 연구 속도 +50%</Isekai_Prodigy.degreeDatas.0.description>
+  <Isekai_LateBloomer.degreeDatas.0.label>대기만성</Isekai_LateBloomer.degreeDatas.0.label>
+  <Isekai_LateBloomer.degreeDatas.0.description>{PAWN_nameDef}(은)는 느리게 시작하지만 그 누구도 막을 수 없을 존재로 거듭납니다. 레벨이 올라감에 따라 XP 획득량이 극적으로 상승하여 초기엔 약하지만 시간이 흐를수록 범접할 수 없는 존재로 탈바꿈합니다.\n\n• 레벨 1-10: XP 획득량 x0.5\n• 레벨 11-25: XP 획득량 x1.0\n• 레벨 26-50: XP 획득량 x1.5\n• 레벨 51-100: XP 획득량 x2.0\n• 레벨 101+: XP 획득량 x3.0</Isekai_LateBloomer.degreeDatas.0.description>
+  <Isekai_QuickLearner.degreeDatas.0.label>빠른 성장가</Isekai_QuickLearner.degreeDatas.0.label>
+  <Isekai_QuickLearner.degreeDatas.0.description>{PAWN_nameDef}(은)는 누구보다 빠르게 성장합니다. 어떤 상황에서도 흔들림 없이 힘이 되어 줍니다.\n\n• XP 획득량 x1.5</Isekai_QuickLearner.degreeDatas.0.description>
+  <Isekai_SlowGrind.degreeDatas.0.label>느린 성장가</Isekai_SlowGrind.degreeDatas.0.label>
+  <Isekai_SlowGrind.degreeDatas.0.description>{PAWN_nameDef}(은)는 매번 레벨이 오를 때마다 성장이 느리지만 최고의 잠재력을 지니고 있습니다. 양보다는 질이 중요합니다.\n\n• XP 획득량 x0.5\n• 레벨 업마다 능력치 보너스 +2</Isekai_SlowGrind.degreeDatas.0.description>
+  <Isekai_PowerSpike.degreeDatas.0.label>계단 성장가</Isekai_PowerSpike.degreeDatas.0.label>
+  <Isekai_PowerSpike.degreeDatas.0.description>{PAWN_nameDef}(은)는 일정 구간마다 폭발적인 힘을 얻으며, 특정 레벨에서 능력치가 크게 상승합니다.\n\n• 10 레벨 단위로 능력치 보너스 +5</Isekai_PowerSpike.degreeDatas.0.description>
+  <Isekai_AwakenedPotential.degreeDatas.0.label>깨어난 잠재력</Isekai_AwakenedPotential.degreeDatas.0.label>
+  <Isekai_AwakenedPotential.degreeDatas.0.description>{PAWN_nameDef}(은)는 레벨 25에 이르면 잠들어 있던 잠재력이 눈을 뜨며, 모든 능력치의 효율이 극적으로 향상됩니다. 각성 상태 이전에는 두드러진 활약을 보이지 않습니다.\n\n• 레벨 25 이전: 모든 능력치 -10%\n• 레벨 25 이상: 모든 능력치 효율 +50%</Isekai_AwakenedPotential.degreeDatas.0.description>
+  <Isekai_Genius.degreeDatas.0.label>천재</Isekai_Genius.degreeDatas.0.label>
+  <Isekai_Genius.degreeDatas.0.description>보잘것없는 육신에 눈부신 지능이 깃들었습니다. {PAWN_nameDef}의 정신 계열 능력치는 두 배로 성장하지만, 신체 계열 능력치는 절반 속도로 성장합니다.\n\n• 지능, 지혜 획득량 2배\n• 힘, 체력 획득량 절반</Isekai_Genius.degreeDatas.0.description>
+  <Isekai_BattleManiac.degreeDatas.0.label>전투광</Isekai_BattleManiac.degreeDatas.0.label>
+  <Isekai_BattleManiac.degreeDatas.0.description>{PAWN_nameDef}(은)는 오로지 전투를 위해서만 살아갑니다. 상당량 증배된 전투 XP를 획득하지만 보통의 일상 활동으로는 XP를 거의 얻지 못합니다.\n\n• 전투 XP 획득량 x3 (피해량, 사살 횟수)\n• 작업/사교 XP 획득량 x0.1\n• 근접 회피율 +15%</Isekai_BattleManiac.degreeDatas.0.description>
+  <Isekai_BerserkerBlood.degreeDatas.0.label>광전사의 피</Isekai_BerserkerBlood.degreeDatas.0.label>
+  <Isekai_BerserkerBlood.degreeDatas.0.description>상처를 입으면 태고의 분노가 {PAWN_nameDef}의 몸을 타고 물밀듯이 휘몰아칩니다. 피를 많이 흘릴수록 전투에 한껏 몰입합니다.\n\n• 체력 50% 이하: 근접 공격력 +30% / 이동 속도 +15%\n• 체력 25% 이하: 근접 공격력 +60% / 이동 속도 +30%\n• 정신 이상 임계치 -10%</Isekai_BerserkerBlood.degreeDatas.0.description>
+  <Isekai_IronWill.degreeDatas.0.label>불굴의 의지</Isekai_IronWill.degreeDatas.0.label>
+  <Isekai_IronWill.degreeDatas.0.description>{PAWN_nameDef}(은)는 난관으로 단련된 불굴의 정신력을 소유하고 있습니다. 정신 이상과 통증에 끄떡없지만, 그만큼 감정적으로도 많이 무딥니다.\n\n• 정신 이상 임계치 -25%\n• 통증으로 인한 기절 한계치 +30%\n• 사회적 영향력 -20%</Isekai_IronWill.degreeDatas.0.description>
+  <Isekai_GlassCannon.degreeDatas.0.label>유리 골렘</Isekai_GlassCannon.degreeDatas.0.label>
+  <Isekai_GlassCannon.degreeDatas.0.description>{PAWN_nameDef}(은)는 파괴적인 힘을 보여 주지만 동시에 위험할 정도로 취약합니다. 공격 하나하나는 엄청난 위력을 지녔으나, 맞으면 버티지 못합니다.\n\n• 근접 공격력 +50%\n• +30% 원거리 공격 효율\n• 체력 능력치 효율 절반</Isekai_GlassCannon.degreeDatas.0.description>
+  <Isekai_Fortress.degreeDatas.0.label>난공불락</Isekai_Fortress.degreeDatas.0.label>
+  <Isekai_Fortress.degreeDatas.0.description>{PAWN_nameDef}(은)는 부동의 성채와도 같습니다. 믿을 수 없을 정도로 강인하며 피해로부터 저항력도 상당하지만, 느리며 공격력이 다소 아쉽습니다.\n\n• 신체 방어력 +20% (모든 종류의 피해로부터)\n• 이동 속도 -25%\n• 근접 공격력 -20%</Isekai_Fortress.degreeDatas.0.description>
+  <Isekai_ShadowStep.degreeDatas.0.label>고요한 발</Isekai_ShadowStep.degreeDatas.0.label>
+  <Isekai_ShadowStep.degreeDatas.0.description>{PAWN_nameDef}(은)는 그림자처럼 움직이며, {PAWN_possessive} 위치를 가늠해 추적하기가 불가능에 가깝습니다. 놀라운 회피 능력과 속도를 자랑하지만, 타격을 버틸 만한 체력은 부족합니다.\n\n• 이동 속도 +25%\n• 근접 회피율 +20%\n• 근접 공격력 -10%</Isekai_ShadowStep.degreeDatas.0.description>
+  <Isekai_PredatorInstinct.degreeDatas.0.label>포식자의 본능</Isekai_PredatorInstinct.degreeDatas.0.label>
+  <Isekai_PredatorInstinct.degreeDatas.0.description>{PAWN_nameDef}(은)는 태고의 사냥 본능을 가지고 태어났습니다. 모든 전투 능력을 끌어올리는 교전과 위험에 타고난 감각의 소유자입니다.\n\n• 근접 명중률 +15%\n• 사격 명중률 +15%\n• 덫에 걸릴 확률 -15%</Isekai_PredatorInstinct.degreeDatas.0.description>
+  <Isekai_Undying.degreeDatas.0.label>불멸</Isekai_Undying.degreeDatas.0.label>
+  <Isekai_Undying.degreeDatas.0.description>운명이 {PAWN_nameDef}의 죽음을 거부합니다. 죽음의 그림자가 {PAWN_objective} 덮쳐도 기적적으로 살아납니다. 그럼에도 죽음의 경험이란 {PAWN_possessive} 뇌리에 깊은 흔적을 남깁니다.\n\n• 운명의 장난: 3일마다 한 번, 치명적인 피해에도 죽지 않음\n• 고통으로 인한 기절 한계치 +20%\n• 운명의 장난 발동 후 기분 변화 -5 고정 (죽음의 손길)</Isekai_Undying.degreeDatas.0.description>
+  <Isekai_Mighty.degreeDatas.0.label>강건한 육체</Isekai_Mighty.degreeDatas.0.label>
+  <Isekai_Mighty.degreeDatas.0.description>{PAWN_nameDef}(은)는 탁월한 신체 능력을 축복받았지만, 세밀함은 부족합니다.\n\n• 힘 능력치 효율 x1.5\n• 민첩 능력치 효율 x0.75</Isekai_Mighty.degreeDatas.0.description>
+  <Isekai_Agile.degreeDatas.0.label>민첩함</Isekai_Agile.degreeDatas.0.label>
+  <Isekai_Agile.degreeDatas.0.description>{PAWN_nameDef}(은)는 우아하고 빠른 움직임과 빼어난 반사 신경을 지녔지만, 신체적 기량은 약합니다.\n\n• 민첩 능력치 효율 x1.5\n• 힘 능력치 효율 x0.75</Isekai_Agile.degreeDatas.0.description>
+  <Isekai_Resilient.degreeDatas.0.label>타고난 회복력</Isekai_Resilient.degreeDatas.0.label>
+  <Isekai_Resilient.degreeDatas.0.description>{PAWN_nameDef}(은)는 타인을 쓰러뜨릴 충격도 견뎌 내는 타고난 체질의 소유자이지만, 정신적으로는 둔감합니다.\n\n• 체력 능력치 효율 x1.5\n• 지혜 능력치 효율 x0.75</Isekai_Resilient.degreeDatas.0.description>
+  <Isekai_Brilliant.degreeDatas.0.label>영특함</Isekai_Brilliant.degreeDatas.0.label>
+  <Isekai_Brilliant.degreeDatas.0.description>{PAWN_nameDef}(은)는 모든 걸 빠르게 처리하는 날카로운 분석력을 지녔지만, 사회성이 다소 아쉽습니다.\n\n• 지능 능력치 효율 x1.5\n• 매력 능력치 효율 x0.75</Isekai_Brilliant.degreeDatas.0.description>
+  <Isekai_Enlightened.degreeDatas.0.label>계몽자</Isekai_Enlightened.degreeDatas.0.label>
+  <Isekai_Enlightened.degreeDatas.0.description>{PAWN_nameDef}(은)는 깊은 통찰력과 정신적 감응력을 지녔습니다. 하지만 빼어난 지혜를 대가로 육체적 인내력을 놓아야만 했습니다.\n\n• 지혜 능력치 효율 x1.5\n• 체력 능력치 효율 x0.75</Isekai_Enlightened.degreeDatas.0.description>
+  <Isekai_SilverTongue.degreeDatas.0.label>타고난 언변</Isekai_SilverTongue.degreeDatas.0.label>
+  <Isekai_SilverTongue.degreeDatas.0.description>{PAWN_nameDef}(은)는 말에 울림이 있는 천부적인 지도자이자 외교가임에도 철두철미한 분석력이 다소 아쉽습니다.\n\n• 매력 능력치 효율 x1.5\n• 지능 능력치 효율 x0.75</Isekai_SilverTongue.degreeDatas.0.description>
+  <Isekai_MerchantEye.degreeDatas.0.label>상인의 눈</Isekai_MerchantEye.degreeDatas.0.label>
+  <Isekai_MerchantEye.degreeDatas.0.description>{PAWN_nameDef}(은)는 가치를 파악하는 눈썰미와 협상에 타고난 감각을 지녔습니다. 항상 유리한 거래를 이끌어냅니다.\n\n• 거래 가격 개선 +25%\n• 협상 능력 +20%</Isekai_MerchantEye.degreeDatas.0.description>
+  <Isekai_CraftsmanSoul.degreeDatas.0.label>장인의 혼</Isekai_CraftsmanSoul.degreeDatas.0.label>
+  <Isekai_CraftsmanSoul.degreeDatas.0.description>{PAWN_nameDef}(은)는 재료와 제작 분야에 본능적인 직관을 가진 타고난 장인입니다. {PAWN_pronoun}가 만든 작품은 언제나 한 수 위입니다.\n\n• 작업 속도 +25% (모든 작업)\n• 제작 품질 단계 상승 확률 +1</Isekai_CraftsmanSoul.degreeDatas.0.description>
+  <Isekai_BeastWhisperer.degreeDatas.0.label>야수 교감자</Isekai_BeastWhisperer.degreeDatas.0.label>
+  <Isekai_BeastWhisperer.degreeDatas.0.description>{PAWN_nameDef}(은)는 동물들과 기이하리만치 깊은 유대감을 지녔습니다. 다양한 생물들이 {PAWN_objective} 따르며, 길들이기와 훈련이 남들보다 훨씬 쉽습니다.\n\n• 동물 길들이기 성공률 +40%\n• 동물 훈련 성공률 +30%\n• 동물 자원 수확량 +25%\n• 선공하지 않는 한 동물에게 공격받지 않음</Isekai_BeastWhisperer.degreeDatas.0.description>
+  <Isekai_HealerTouch.degreeDatas.0.label>치유의 손</Isekai_HealerTouch.degreeDatas.0.label>
+  <Isekai_HealerTouch.degreeDatas.0.description>{PAWN_nameDef}(은)는 마치 마법처럼 치유의 기운이 손끝에서 흐릅니다. 단순 훈련으로는 설명할 수 없는 수준의 의학 능력을 지녔습니다.\n\n• 치료 품질 +30%\n• 수술 성공률 +25%\n• 면역 획득 속도 +20%</Isekai_HealerTouch.degreeDatas.0.description>
+  <Isekai_Lucky.degreeDatas.0.label>걸어 다니는 운</Isekai_Lucky.degreeDatas.0.label>
+  <Isekai_Lucky.degreeDatas.0.description>{PAWN_nameDef}에겐 행운이 끊임없이 따릅니다. 주변에서 좋은 일이 자연스럽게 일어납니다.\n\n• 수술 성공률 +15%\n• 사격 명중률 +10%\n• 거래 가격 +10%\n• 기분 변화 +5 고정 (좋은 느낌)</Isekai_Lucky.degreeDatas.0.description>
+  <Isekai_CursedLuck.degreeDatas.0.label>저주받은 운</Isekai_CursedLuck.degreeDatas.0.label>
+  <Isekai_CursedLuck.degreeDatas.0.description>{PAWN_nameDef}(은)는 끊임없는 불운에 시달리지만, 역경 속에서 더 강해집니다. 불운은 기묘한 방식으로 {PAWN_objective} 단련시킵니다.\n\n• XP 획득량 x2\n• 수술 성공률 -15%\n• 거래 가격 -10%\n• 근접 공격력 +20%\n• 기분 변화 -5 고정 (저주받은 운명)</Isekai_CursedLuck.degreeDatas.0.description>
+  <Isekai_SystemGlitch.degreeDatas.0.label>연산 착오자</Isekai_SystemGlitch.degreeDatas.0.label>
+  <Isekai_SystemGlitch.degreeDatas.0.description>{PAWN_nameDef}(은)는 레벨링 시스템과의 연결이 손상되었습니다. {PAWN_pronoun}는 XP를 빠르게 획득하지만, 능력치는 예측할 수가 없습니다.\n\n• XP 획득량 x2\n• 5일마다 능력치 무작위 재배치\n• 능력치 수동 분배 불가</Isekai_SystemGlitch.degreeDatas.0.description>
+  <Isekai_HollowCore.degreeDatas.0.label>공허한 심부</Isekai_HollowCore.degreeDatas.0.label>
+  <Isekai_HollowCore.degreeDatas.0.description>{PAWN_nameDef}(은)는 영적인 심부가 부서졌습니다. 원초적인 힘은 다룰 수 있으나 별자리 기술에 필요한 연결을 형성할 수가 없습니다.\n\n• XP 획득량 x3\n• 별자리 노드 해금 불가\n• 별자리 포인트 획득 불가</Isekai_HollowCore.degreeDatas.0.description>
+  <Isekai_FragileVessel.degreeDatas.0.label>파손 주의</Isekai_FragileVessel.degreeDatas.0.label>
+  <Isekai_FragileVessel.degreeDatas.0.description>{PAWN_nameDef}의 육신은 강대한 힘을 담기엔 역부족입니다. {PAWN_pronoun}는 빠르게 성정하지만 이러한 과부하로 인해 몸이 점점 붕괴됩니다.\n\n• XP 획득량 x2.5\n• 최대 체력 -50%\n• 체력 능력치 효율 절반</Isekai_FragileVessel.degreeDatas.0.description>
+  <Isekai_EchoOfDefeat.degreeDatas.0.label>패배의 메아리</Isekai_EchoOfDefeat.degreeDatas.0.label>
+  <Isekai_EchoOfDefeat.degreeDatas.0.description>{PAWN_nameDef}(은)는 좌절을 통해 더욱 강해집니다. 쓰러질 때마다 이를 원동력 삼아 더 나아지려는 의지가 불타오릅니다.\n\n• XP 획득 영구 보너스 +10%\n• 패배 이후 3일간 XP 획득량 x2\n• 근접 공격력 -5%</Isekai_EchoOfDefeat.degreeDatas.0.description>
+  <Isekai_SealedPower.degreeDatas.0.label>봉인된 힘</Isekai_SealedPower.degreeDatas.0.label>
+  <Isekai_SealedPower.degreeDatas.0.description>{PAWN_nameDef}에겐 촉발되기를 기다리는 막대한 힘이 봉인되어 있습니다. 25 레벨까지는 억눌려 있어 성장을 저해받아 약하지만, 봉인이 풀리는 순간 폭발적인 성장을 이룩합니다.\n\n• 레벨 25 이전: 모든 능력치 -30% / 별자리 포인트 없음\n• 레벨 25 달성 시: 봉인 해제!\n• 레벨 25 이후: 레벨당 능력치 획득량 2배(최대 보너스 +2) / 5 레벨마다 별자리 포인트 +2</Isekai_SealedPower.degreeDatas.0.description>
+  <Isekai_Rank_F.degreeDatas.0.label>F랭크</Isekai_Rank_F.degreeDatas.0.label>
+  <Isekai_Rank_F.degreeDatas.0.description>{PAWN_nameDef}(은)는 F랭크입니다.</Isekai_Rank_F.degreeDatas.0.description>
+  <Isekai_Rank_E.degreeDatas.0.label>E랭크</Isekai_Rank_E.degreeDatas.0.label>
+  <Isekai_Rank_E.degreeDatas.0.description>{PAWN_nameDef}(은)는 E랭크입니다.</Isekai_Rank_E.degreeDatas.0.description>
+  <Isekai_Rank_D.degreeDatas.0.label>D랭크</Isekai_Rank_D.degreeDatas.0.label>
+  <Isekai_Rank_D.degreeDatas.0.description>{PAWN_nameDef}(은)는 D랭크입니다.</Isekai_Rank_D.degreeDatas.0.description>
+  <Isekai_Rank_C.degreeDatas.0.label>C랭크</Isekai_Rank_C.degreeDatas.0.label>
+  <Isekai_Rank_C.degreeDatas.0.description>{PAWN_nameDef}(은)는 C랭크입니다.</Isekai_Rank_C.degreeDatas.0.description>
+  <Isekai_Rank_B.degreeDatas.0.label>B랭크</Isekai_Rank_B.degreeDatas.0.label>
+  <Isekai_Rank_B.degreeDatas.0.description>{PAWN_nameDef}(은)는 B랭크를 달성했습니다.</Isekai_Rank_B.degreeDatas.0.description>
+  <Isekai_Rank_A.degreeDatas.0.label>A랭크</Isekai_Rank_A.degreeDatas.0.label>
+  <Isekai_Rank_A.degreeDatas.0.description>{PAWN_nameDef}(은)는 A랭크 정예입니다.</Isekai_Rank_A.degreeDatas.0.description>
+  <Isekai_Rank_S.degreeDatas.0.label>S랭크</Isekai_Rank_S.degreeDatas.0.label>
+  <Isekai_Rank_S.degreeDatas.0.description>{PAWN_nameDef}(은)는 S랭크를 거머쥐었습니다.</Isekai_Rank_S.degreeDatas.0.description>
+  <Isekai_Rank_SS.degreeDatas.0.label>SS랭크</Isekai_Rank_SS.degreeDatas.0.label>
+  <Isekai_Rank_SS.degreeDatas.0.description>{PAWN_nameDef}(은)는 SS랭크로 초월하였습니다.</Isekai_Rank_SS.degreeDatas.0.description>
+  <Isekai_Rank_SSS.degreeDatas.0.label>SSS랭크</Isekai_Rank_SSS.degreeDatas.0.label>
+  <Isekai_Rank_SSS.degreeDatas.0.description>{PAWN_nameDef}(은)는 불가능이라 알려진 SSS랭크의 절대적인 경지로 해탈하였습니다.</Isekai_Rank_SSS.degreeDatas.0.description>
+</LanguageData>

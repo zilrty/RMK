@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Isekai_Berserk.label>광전사의 분노</Isekai_Berserk.label>
+  <Isekai_Berserk.description>광전사의 분노에 휩싸여 공격력이 증가하지만 방어력이 감소합니다.</Isekai_Berserk.description>
+  <Isekai_Berserk.stages.0.label>압도됨</Isekai_Berserk.stages.0.label>
+  <Isekai_Shield.label>아케인 실드</Isekai_Shield.label>
+  <Isekai_Shield.description>피해를 흡수하는 마법 장벽에 보호받습니다.</Isekai_Shield.description>
+  <Isekai_Shield.stages.0.label>차폐됨</Isekai_Shield.stages.0.label>
+  <Isekai_Regeneration.label>회복</Isekai_Regeneration.label>
+  <Isekai_Regeneration.description>상처를 빠르게 회복합니다.</Isekai_Regeneration.description>
+  <Isekai_Regeneration.stages.0.label>회복 중</Isekai_Regeneration.stages.0.label>
+  <Isekai_Haste.label>날렵한 발</Isekai_Haste.label>
+  <Isekai_Haste.description>초자연적 속도로 움직입니다.</Isekai_Haste.description>
+  <Isekai_Haste.stages.0.label>가속화됨</Isekai_Haste.stages.0.label>
+  <Isekai_Inspired.label>고취됨</Isekai_Inspired.label>
+  <Isekai_Inspired.description>고무적인 지도자의 영향으로 새로운 활력과 결의를 얻었습니다.</Isekai_Inspired.description>
+  <Isekai_Inspired.stages.0.label>고취됨</Isekai_Inspired.stages.0.label>
+  <Isekai_Awakening.label>이세카이 각성</Isekai_Awakening.label>
+  <Isekai_Awakening.description>해당 인물은 이세카이의 잠재력을 각성하여 경험을 통해 더욱 강해질 수 있게 되었습니다.</Isekai_Awakening.description>
+  <Isekai_Awakening.stages.0.label>각성됨</Isekai_Awakening.stages.0.label>
+  <Isekai_StoneSkin.label>암석 피부</Isekai_StoneSkin.label>
+  <Isekai_StoneSkin.description>피부가 돌과 같은 강도를 띠어 방어력이 크게 증가합니다.</Isekai_StoneSkin.description>
+  <Isekai_StoneSkin.stages.0.label>경화됨</Isekai_StoneSkin.stages.0.label>
+  <Isekai_EarthSense.label>대지의 교감</Isekai_EarthSense.label>
+  <Isekai_EarthSense.description>지면의 진동에 동조하여 주변의 움직임을 감지합니다.</Isekai_EarthSense.description>
+  <Isekai_EarthSense.stages.0.label>감지 중</Isekai_EarthSense.stages.0.label>
+  <Isekai_KnockedDown.label>쓰러짐</Isekai_KnockedDown.label>
+  <Isekai_KnockedDown.description>강력한 진동에 땅으로 곤두박질쳤습니다.</Isekai_KnockedDown.description>
+  <Isekai_KnockedDown.stages.0.label>넘어짐</Isekai_KnockedDown.stages.0.label>
+  <Isekai_MountainsEmbrace.label>산의 포옹</Isekai_MountainsEmbrace.label>
+  <Isekai_MountainsEmbrace.description>산의 정령에게 보호받아 막대한 내구력을 얻습니다.</Isekai_MountainsEmbrace.description>
+  <Isekai_MountainsEmbrace.stages.0.label>보호받음</Isekai_MountainsEmbrace.stages.0.label>
+  <Isekai_AvatarOfStone.label>암석 아바타</Isekai_AvatarOfStone.label>
+  <Isekai_AvatarOfStone.description>막대한 힘을 지닌 살아 있는 암석 아바타로 변모했습니다.</Isekai_AvatarOfStone.description>
+  <Isekai_AvatarOfStone.stages.0.label>아바타</Isekai_AvatarOfStone.stages.0.label>
+  <Isekai_GlacialArmor.label>빙하 갑옷</Isekai_GlacialArmor.label>
+  <Isekai_GlacialArmor.description>방어막 역할을 해 주는 빙하 갑옷이 둘러졌습니다.</Isekai_GlacialArmor.description>
+  <Isekai_GlacialArmor.stages.0.label>방어됨</Isekai_GlacialArmor.stages.0.label>
+  <Isekai_Chilled.label>저온 상태</Isekai_Chilled.label>
+  <Isekai_Chilled.description>체온이 낮아져 이동 속도가 감소합니다.</Isekai_Chilled.description>
+  <Isekai_Chilled.stages.0.label>냉각됨</Isekai_Chilled.stages.0.label>
+  <Isekai_Frostbitten.label>동상</Isekai_Frostbitten.label>
+  <Isekai_Frostbitten.description>마법 동상에 걸려 이동 속도가 크게 감소합니다.</Isekai_Frostbitten.description>
+  <Isekai_Frostbitten.stages.0.label>동상</Isekai_Frostbitten.stages.0.label>
+  <Isekai_IcePrison.label>빙식 감옥</Isekai_IcePrison.label>
+  <Isekai_IcePrison.description>얼음 감옥에 갇혀 움직일 수가 없습니다.</Isekai_IcePrison.description>
+  <Isekai_IcePrison.stages.0.label>포박됨</Isekai_IcePrison.stages.0.label>
+  <Isekai_DeepFreeze.label>차가운 살기</Isekai_DeepFreeze.label>
+  <Isekai_DeepFreeze.description>강력한 마법 냉기로 뼛속까지 얼어붙었습니다.</Isekai_DeepFreeze.description>
+  <Isekai_DeepFreeze.stages.0.label>얼어붙음</Isekai_DeepFreeze.stages.0.label>
+  <Isekai_IceShield.label>얼음 차폐</Isekai_IceShield.label>
+  <Isekai_IceShield.description>마법 얼음의 방어막으로 보호받고 있습니다.</Isekai_IceShield.description>
+  <Isekai_IceShield.stages.0.label>차폐됨</Isekai_IceShield.stages.0.label>
+  <Isekai_SoothingBreeze.label>차분한 바람</Isekai_SoothingBreeze.label>
+  <Isekai_SoothingBreeze.description>몸을 식히는 바람에 둘러싸여 회복과 활력을 얻습니다.</Isekai_SoothingBreeze.description>
+  <Isekai_SoothingBreeze.stages.0.label>환기됨</Isekai_SoothingBreeze.stages.0.label>
+  <Isekai_AbsoluteZero.label>절대 영도</Isekai_AbsoluteZero.label>
+  <Isekai_AbsoluteZero.description>절대 영도로 얼어붙어 전혀 움직일 수가 없습니다.</Isekai_AbsoluteZero.description>
+  <Isekai_AbsoluteZero.stages.0.label>냉기로 포박됨</Isekai_AbsoluteZero.stages.0.label>
+  <Isekai_InnerFire.label>내적 발화</Isekai_InnerFire.label>
+  <Isekai_InnerFire.description>전투 기량을 끌어올리는 내적 발화로 불타오릅니다.</Isekai_InnerFire.description>
+  <Isekai_InnerFire.stages.0.label>불타오름</Isekai_InnerFire.stages.0.label>
+  <Isekai_BurningInferno.label>화염 지옥</Isekai_BurningInferno.label>
+  <Isekai_BurningInferno.description>공격력을 끌어올리는 마법 불꽃에 휩싸였습니다.</Isekai_BurningInferno.description>
+  <Isekai_BurningInferno.stages.0.label>극악무도</Isekai_BurningInferno.stages.0.label>
+  <Isekai_FlameShield.label>불꽃 차폐</Isekai_FlameShield.label>
+  <Isekai_FlameShield.description>불꽃 방어막으로 둘러싸였습니다.</Isekai_FlameShield.description>
+  <Isekai_FlameShield.stages.0.label>차폐됨</Isekai_FlameShield.stages.0.label>
+  <Isekai_BlazingSpeed.label>맹렬한 속도</Isekai_BlazingSpeed.label>
+  <Isekai_BlazingSpeed.description>겉잡을 수 없이 타오르는 불꽃처럼 빠르게 움직입니다.</Isekai_BlazingSpeed.description>
+  <Isekai_BlazingSpeed.stages.0.label>맹렬히 타오름</Isekai_BlazingSpeed.stages.0.label>
+  <Isekai_PhoenixBlessing.label>불사조의 축복</Isekai_PhoenixBlessing.label>
+  <Isekai_PhoenixBlessing.description>불사조에게 축복받았습니다. 죽음은 부활로 무효화될 것입니다.</Isekai_PhoenixBlessing.description>
+  <Isekai_PhoenixBlessing.stages.0.label>축복받음</Isekai_PhoenixBlessing.stages.0.label>
+  <Isekai_Shocked.label>충격</Isekai_Shocked.label>
+  <Isekai_Shocked.description>전자기 충격으로 근육이 경련을 일으키고 있습니다.</Isekai_Shocked.description>
+  <Isekai_Shocked.stages.0.label>경련</Isekai_Shocked.stages.0.label>
+  <Isekai_AMP.label>증폭화</Isekai_AMP.label>
+  <Isekai_AMP.description>전자기 에너지가 몸을 타고 빠르게 흐르며 힘을 증폭시킵니다.</Isekai_AMP.description>
+  <Isekai_AMP.stages.0.label>증폭됨</Isekai_AMP.stages.0.label>
+  <Isekai_Electrified.label>전기화</Isekai_Electrified.label>
+  <Isekai_Electrified.description>전자기 에너지로 충전되었습니다.</Isekai_Electrified.description>
+  <Isekai_Electrified.stages.0.label>충전됨</Isekai_Electrified.stages.0.label>
+  <Isekai_Overcharged.label>과충전</Isekai_Overcharged.label>
+  <Isekai_Overcharged.description>전자기 에너지로 과충전되었습니다.</Isekai_Overcharged.description>
+  <Isekai_Overcharged.stages.0.label>과충전됨</Isekai_Overcharged.stages.0.label>
+  <Isekai_Stunned.label>기절함</Isekai_Stunned.label>
+  <Isekai_Stunned.description>강력한 충격으로 일시적인 무력화 상태가 되었습니다.</Isekai_Stunned.description>
+  <Isekai_Stunned.stages.0.label>무력화됨</Isekai_Stunned.stages.0.label>
+  <Isekai_ElectricField.label>전자기장</Isekai_ElectricField.label>
+  <Isekai_ElectricField.description>지직거리는 전자기장에 둘러싸였습니다.</Isekai_ElectricField.description>
+  <Isekai_ElectricField.stages.0.label>전기화됨</Isekai_ElectricField.stages.0.label>
+  <Isekai_StormAvatar.label>폭풍의 아바타</Isekai_StormAvatar.label>
+  <Isekai_StormAvatar.description>믿을 수 없는 힘과 휘몰아치는 폭풍으로 녹아들었습니다.</Isekai_StormAvatar.description>
+  <Isekai_StormAvatar.stages.0.label>아바타</Isekai_StormAvatar.stages.0.label>
+  <Isekai_Blessed.label>축성</Isekai_Blessed.label>
+  <Isekai_Blessed.description>신성한 광명에 축성을 받아, 방호력과 치유력이 향상됩니다.</Isekai_Blessed.description>
+  <Isekai_Blessed.stages.0.label>축성받음</Isekai_Blessed.stages.0.label>
+  <Isekai_ShieldOfLight.label>광명의 방패</Isekai_ShieldOfLight.label>
+  <Isekai_ShieldOfLight.description>신성한 광명의 빛나는 방패로 보호받습니다.</Isekai_ShieldOfLight.description>
+  <Isekai_ShieldOfLight.stages.0.label>차폐됨</Isekai_ShieldOfLight.stages.0.label>
+  <Isekai_DivineProtection.label>신성한 방어막</Isekai_DivineProtection.label>
+  <Isekai_DivineProtection.description>신성한 힘의 방어막 아래에 놓였습니다.</Isekai_DivineProtection.description>
+  <Isekai_DivineProtection.stages.0.label>보호됨</Isekai_DivineProtection.stages.0.label>
+  <Isekai_AvatarOfLight.label>광명의 아바타</Isekai_AvatarOfLight.label>
+  <Isekai_AvatarOfLight.description>신성한 광명의 빛나는 아바타로 녹아들었습니다.</Isekai_AvatarOfLight.description>
+  <Isekai_AvatarOfLight.stages.0.label>아바타</Isekai_AvatarOfLight.stages.0.label>
+  <Isekai_CloakedInShadows.label>그림자 휘장</Isekai_CloakedInShadows.label>
+  <Isekai_CloakedInShadows.description>그림자에 둘러싸여 감지되기 어렵습니다.</Isekai_CloakedInShadows.description>
+  <Isekai_CloakedInShadows.stages.0.label>둘러싸임</Isekai_CloakedInShadows.stages.0.label>
+  <Isekai_Cursed.label>저주받음</Isekai_Cursed.label>
+  <Isekai_Cursed.description>육체를 약화시키는 어둠의 저주에 걸렸습니다.</Isekai_Cursed.description>
+  <Isekai_Cursed.stages.0.label>저주받음</Isekai_Cursed.stages.0.label>
+  <Isekai_Nightshade.label>암영</Isekai_Nightshade.label>
+  <Isekai_Nightshade.description>은신 능력을 강화하는 어둠의 기운에 휩싸였습니다.</Isekai_Nightshade.description>
+  <Isekai_Nightshade.stages.0.label>은폐됨</Isekai_Nightshade.stages.0.label>
+  <Isekai_VeiledInShadows.label>그림자 은폐</Isekai_VeiledInShadows.label>
+  <Isekai_VeiledInShadows.description>그림자 속에 완전히 숨어 거의 보이지 않습니다.</Isekai_VeiledInShadows.description>
+  <Isekai_VeiledInShadows.stages.0.label>은신 상태</Isekai_VeiledInShadows.stages.0.label>
+  <Isekai_MarkedForDeath.label>죽음의 표식</Isekai_MarkedForDeath.label>
+  <Isekai_MarkedForDeath.description>어둠의 마법에 표식이 새겨져 받는 피해가 증가합니다.</Isekai_MarkedForDeath.description>
+  <Isekai_MarkedForDeath.stages.0.label>표식됨</Isekai_MarkedForDeath.stages.0.label>
+  <Isekai_AvatarOfShadow.label>그림자 아바타</Isekai_AvatarOfShadow.label>
+  <Isekai_AvatarOfShadow.description>끔찍한 힘의 살아 있는 그림자로 녹아들었습니다.</Isekai_AvatarOfShadow.description>
+  <Isekai_AvatarOfShadow.stages.0.label>아바타</Isekai_AvatarOfShadow.stages.0.label>
+</LanguageData>

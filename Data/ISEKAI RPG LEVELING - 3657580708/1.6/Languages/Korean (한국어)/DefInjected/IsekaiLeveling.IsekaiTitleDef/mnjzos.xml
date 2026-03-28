@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Title_Newcomer.label>신출내기</Title_Newcomer.label>
+  <Title_Adventurer.label>모험가</Title_Adventurer.label>
+  <Title_Veteran.label>베테랑</Title_Veteran.label>
+  <Title_Elite.label>정예</Title_Elite.label>
+  <Title_Champion.label>용사</Title_Champion.label>
+  <Title_Hero.label>영웅</Title_Hero.label>
+  <Title_WarriorInitiate.label>전사 수련생</Title_WarriorInitiate.label>
+  <Title_MageInitiate.label>마법사 수련생</Title_MageInitiate.label>
+  <Title_RangerInitiate.label>레인저 수련생</Title_RangerInitiate.label>
+  <Title_ArtisanInitiate.label>장인 수련생</Title_ArtisanInitiate.label>
+  <Title_LeaderInitiate.label>지도자 수련생</Title_LeaderInitiate.label>
+</LanguageData>

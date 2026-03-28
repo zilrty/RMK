@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Isekai_AntagonistPresence.stages.0.label>불편한 존재</Isekai_AntagonistPresence.stages.0.label>
+  <Isekai_AntagonistPresence.stages.0.description>{0}의 어딘지 석연찮은 구석이 나를 두렵게 해. 존재만으로도 적의를 내뿜고 있어.</Isekai_AntagonistPresence.stages.0.description>
+  <Isekai_SummonedHeroDisplacement.stages.0.label>이세계에 떨어짐</Isekai_SummonedHeroDisplacement.stages.0.label>
+  <Isekai_SummonedHeroDisplacement.stages.0.description>원래 세계에서 이상한 데로 떨어져 있는 마당에 이곳의 영웅이 되라니. 이런 건 바란 적도 없어.</Isekai_SummonedHeroDisplacement.stages.0.description>
+  <Isekai_LuckyMood.stages.0.label>좋은 느낌</Isekai_LuckyMood.stages.0.label>
+  <Isekai_LuckyMood.stages.0.description>오늘 왠지 느낌이 좋은걸. 모든 게 잘 풀리는 기분이야.</Isekai_LuckyMood.stages.0.description>
+  <Isekai_CursedMood.stages.0.label>저주받은 운명</Isekai_CursedMood.stages.0.label>
+  <Isekai_CursedMood.stages.0.description>불운이 어디든 나를 따라와. 끔찍한 일이 일어날 것만 같아.</Isekai_CursedMood.stages.0.description>
+  <Isekai_TouchedByDeath.stages.0.label>죽음의 손길</Isekai_TouchedByDeath.stages.0.label>
+  <Isekai_TouchedByDeath.stages.0.description>죽음이 나를 차갑게 감싸는 걸 느꼈어. 운명은 나를 죽게 두지 않아. 다만 기억이 이어질 뿐이지.</Isekai_TouchedByDeath.stages.0.description>
+</LanguageData>
