@@ -33,4 +33,5 @@
   <DMSE_NuclearOverloadA.label>자폭</DMSE_NuclearOverloadA.label>
   <DMSE_NuclearOverloadA.description>자폭합니다.</DMSE_NuclearOverloadA.description>
   <DMSE_NuclearOverloadA.verbProperties.label>핵분열 과부하</DMSE_NuclearOverloadA.verbProperties.label>
+  <DMSEW_BoosterJump.verbProperties.label>도약</DMSEW_BoosterJump.verbProperties.label>
 </LanguageData>

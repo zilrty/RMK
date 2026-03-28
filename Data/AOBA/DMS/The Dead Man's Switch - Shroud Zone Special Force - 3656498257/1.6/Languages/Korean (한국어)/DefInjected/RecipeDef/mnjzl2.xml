@@ -31,4 +31,12 @@
   <MakeAmmo_566x45mm_AP.label>5.66x45mm 화살촉(철갑탄) 탄약 x500 제작</MakeAmmo_566x45mm_AP.label>
   <MakeAmmo_566x45mm_AP.description>5.66x45mm 화살촉(철갑탄) 탄약 500개를 제작합니다.</MakeAmmo_566x45mm_AP.description>
   <MakeAmmo_566x45mm_AP.jobString>5.66x45mm 화살촉(철갑탄) 탄약 제작 중.</MakeAmmo_566x45mm_AP.jobString>
+  <DMS_Make_HorseshoeCrab.jobString>메카 배양 중</DMS_Make_HorseshoeCrab.jobString>
+  <DMS_Make_DireTiger.jobString>메카 배양 중</DMS_Make_DireTiger.jobString>
+  <DMS_Make_Viper.jobString>메카 배양 중</DMS_Make_Viper.jobString>
+  <DMS_Make_Cobra.jobString>메카 배양 중</DMS_Make_Cobra.jobString>
+  <DMS_Make_QianJi.jobString>메카 배양 중</DMS_Make_QianJi.jobString>
+  <DMS_Make_QianJi_Medic.jobString>메카 배양 중</DMS_Make_QianJi_Medic.jobString>
+  <DMS_Make_Diver.jobString>메카 배양 중</DMS_Make_Diver.jobString>
+  <DMS_Make_Avatar.jobString>메카 배양 중</DMS_Make_Avatar.jobString>
 </LanguageData>

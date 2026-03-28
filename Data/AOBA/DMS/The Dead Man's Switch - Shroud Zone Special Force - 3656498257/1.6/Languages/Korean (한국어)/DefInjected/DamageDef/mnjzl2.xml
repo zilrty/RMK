@@ -3,4 +3,5 @@
   <BulletAnesthesia.label>마취 탄환</BulletAnesthesia.label>
   <InvisibleBullet.label>레이저 사격</InvisibleBullet.label>
   <InvisibleBullet.deathMessage>{0}(이)가 레이저에 맞아 사망했습니다.</InvisibleBullet.deathMessage>
+  <BulletAnesthesia.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</BulletAnesthesia.deathMessage>
 </LanguageData>

@@ -27,13 +27,6 @@
   <DMSE_SignalReceiver.description>암호화된 신호를 수신하기 위한 신호 수신기입니다.</DMSE_SignalReceiver.description>
   <AmorphousHardDrive.label>무정형 저장 장치</AmorphousHardDrive.label>
   <AmorphousHardDrive.description>정체불명의 생체 신경 구조를 포함하고 있는 저장 장치로, 경이로운 양의 데이터를 보유하고 있습니다. 이 장치는 메카의 필수 부품이 아니며, 누군가 의도적으로 기체 내부에 배치한 것으로 보입니다.</AmorphousHardDrive.description>
-  <AmorphousHardDrive.comps.0.completedLetterLabel>무정형 저장 장치 분석 완료: {RESEARCH} 잠금 해제</AmorphousHardDrive.comps.0.completedLetterLabel>
-  <AmorphousHardDrive.comps.0.completedLetter>{STUDIER_labelShort}(이)가 {PARENT_label}을(를) 연구하여 {RESEARCH} 연구 프로젝트에 필요한 통찰을 얻었습니다. 이제 연구원들이 연구 작업대를 통해 해당 기술을 실제로 사용하는 방법을 연구할 수 있습니다.</AmorphousHardDrive.comps.0.completedLetter>
-  <AmorphousHardDrive.comps.0.activateLabelString>분석...</AmorphousHardDrive.comps.0.activateLabelString>
-  <AmorphousHardDrive.comps.0.activateDescString>무정형 저장 장치를 분석합니다</AmorphousHardDrive.comps.0.activateDescString>
-  <AmorphousHardDrive.comps.0.jobString>무정형 저장 장치를 분석합니다</AmorphousHardDrive.comps.0.jobString>
-  <AmorphousHardDrive.comps.0.guiLabelString>분석할 사람을 선택하세요</AmorphousHardDrive.comps.0.guiLabelString>
-  <AmorphousHardDrive.comps.0.inspectString>정착민이 분석할 수 있습니다.</AmorphousHardDrive.comps.0.inspectString>
   <DMS_Mech_ArquebusierDiver.label>다이버</DMS_Mech_ArquebusierDiver.label>
   <DMS_Mech_ArquebusierDiver.description>수륙양용 전투용 아르케부시어 모델입니다. 제트팩과 잠수 장비를 갖추어 해안 지역 기습에 효과적이며, 쉴딩 구역 특수부대 연대 상륙 작전의 중추를 담당합니다.</DMS_Mech_ArquebusierDiver.description>
   <DMS_Mech_horseshoeCrab.label>투구게</DMS_Mech_horseshoeCrab.label>
@@ -129,4 +122,37 @@
   <Bullet_566x45mmArrowhead_FMJ.label>5.66x45mm 화살촉(일반탄)</Bullet_566x45mmArrowhead_FMJ.label>
   <Bullet_566x45mmArrowhead_F.label>5.66x45mm 화살촉(파쇄탄)</Bullet_566x45mmArrowhead_F.label>
   <Bullet_566x45mmArrowhead_AP.label>5.66x45mm 화살촉(철갑탄)</Bullet_566x45mmArrowhead_AP.label>
+  <DMSEW_ExplosiveReactiveArmor.comps.1.useLabel>{0_label} 사용</DMSEW_ExplosiveReactiveArmor.comps.1.useLabel>
+  <DMSEW_APS.comps.1.useLabel>{0_label} 사용</DMSEW_APS.comps.1.useLabel>
+  <DMSEW_Booster.comps.1.useLabel>{0_label} 사용</DMSEW_Booster.comps.1.useLabel>
+  <DMSEW_HowitzerPack.comps.1.useLabel>{0_label} 사용</DMSEW_HowitzerPack.comps.1.useLabel>
+  <DMSEW_AntiTankPack.comps.1.useLabel>{0_label} 사용</DMSEW_AntiTankPack.comps.1.useLabel>
+  <DMSEW_ScoutPack.comps.1.useLabel>{0_label} 사용</DMSEW_ScoutPack.comps.1.useLabel>
+  <AmorphousHardDrive.comps.1.completedLetterLabel>무정형 저장 장치 분석 완료: {RESEARCH} 잠금 해제</AmorphousHardDrive.comps.1.completedLetterLabel>
+  <AmorphousHardDrive.comps.1.completedLetter>{STUDIER_labelShort}(이)가 {PARENT_label}을(를) 연구하여 {RESEARCH} 연구 프로젝트에 필요한 통찰을 얻었습니다. 이제 연구원들이 연구 작업대를 통해 해당 기술을 실제로 사용하는 방법을 연구할 수 있습니다.</AmorphousHardDrive.comps.1.completedLetter>
+  <AmorphousHardDrive.comps.1.activateLabelString>분석...</AmorphousHardDrive.comps.1.activateLabelString>
+  <AmorphousHardDrive.comps.1.activateDescString>무정형 저장 장치를 분석합니다</AmorphousHardDrive.comps.1.activateDescString>
+  <AmorphousHardDrive.comps.1.jobString>무정형 저장 장치를 분석합니다</AmorphousHardDrive.comps.1.jobString>
+  <AmorphousHardDrive.comps.1.guiLabelString>분석할 사람을 선택하세요</AmorphousHardDrive.comps.1.guiLabelString>
+  <AmorphousHardDrive.comps.1.inspectString>정착민이 분석할 수 있습니다.</AmorphousHardDrive.comps.1.inspectString>
+  <DMS_Mech_ArquebusierDiver.tools.0.label>머리</DMS_Mech_ArquebusierDiver.tools.0.label>
+  <DMS_Mech_ArquebusierDiver.tools.1.label>왼쪽 주먹</DMS_Mech_ArquebusierDiver.tools.1.label>
+  <DMS_Mech_ArquebusierDiver.tools.2.label>오른쪽 주먹</DMS_Mech_ArquebusierDiver.tools.2.label>
+  <Mech_GrenadeDog.tools.0.label>머리</Mech_GrenadeDog.tools.0.label>
+  <DMS_Mech_QianJi.tools.0.label>머리</DMS_Mech_QianJi.tools.0.label>
+  <DMS_Mech_QianJi.tools.1.label>왼쪽 주먹</DMS_Mech_QianJi.tools.1.label>
+  <DMS_Mech_QianJi.tools.2.label>오른쪽 주먹</DMS_Mech_QianJi.tools.2.label>
+  <DMS_Mech_QianJi_medic.tools.0.label>머리</DMS_Mech_QianJi_medic.tools.0.label>
+  <DMS_Mech_QianJi_medic.tools.1.label>왼쪽 주먹</DMS_Mech_QianJi_medic.tools.1.label>
+  <DMS_Mech_QianJi_medic.tools.2.label>오른쪽 주먹</DMS_Mech_QianJi_medic.tools.2.label>
+  <DMSEW_RailgunRilf.tools.0.label>개머리판</DMSEW_RailgunRilf.tools.0.label>
+  <DMSEW_RailgunRilf.tools.1.label>총열</DMSEW_RailgunRilf.tools.1.label>
+  <DMSEW_RailSniperRifle.tools.0.label>개머리판</DMSEW_RailSniperRifle.tools.0.label>
+  <DMSEW_RailSniperRifle.tools.1.label>총열</DMSEW_RailSniperRifle.tools.1.label>
+  <DMSEW_RailCannon.tools.0.label>개머리판</DMSEW_RailCannon.tools.0.label>
+  <DMSEW_RailCannon.tools.1.label>총열</DMSEW_RailCannon.tools.1.label>
+  <Gun_LaserGun.tools.0.label>개머리판</Gun_LaserGun.tools.0.label>
+  <Gun_LaserGun.tools.1.label>총열</Gun_LaserGun.tools.1.label>
+  <DMSEW_Gun_APS.tools.0.label>개머리판</DMSEW_Gun_APS.tools.0.label>
+  <DMSEW_Gun_APS.tools.1.label>총열</DMSEW_Gun_APS.tools.1.label>
 </LanguageData>
