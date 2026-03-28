@@ -13,6 +13,8 @@
   <MThings_ShuttleDock_DisconnectDesc>이 벽등과 왕복선 도크의 연결을 해제합니다.</MThings_ShuttleDock_DisconnectDesc>
   <MThings_ShuttleDock_SetOpenColorDesc>도크 지붕이 열려 있을 때 표시되는 벽등의 색상을 고릅니다.</MThings_ShuttleDock_SetOpenColorDesc>
   <MThings_ShuttleDock_SetClosedColorDesc>도크 지붕이 닫혀 있을 때 표시되는 벽등의 색상을 고릅니다.</MThings_ShuttleDock_SetClosedColorDesc>
+  <MThings_ShuttleDock_UseShipRoofLabel>함선 지붕 사용</MThings_ShuttleDock_UseShipRoofLabel>
+  <MThings_ShuttleDock_UseShipRoofDesc>도크 지붕이 닫혀 있을 때 강화 도크 지붕 대신 Save Our Ship 2 모드의 함선 지붕이 덮입니다. 도크가 닫혀 있다면 이 옵션을 선택 시 지붕의 종류가 즉시 변경됩니다.</MThings_ShuttleDock_UseShipRoofDesc>
   <MThings_ShuttleDock_InvalidLamp>유효하지 않은 벽등입니다.</MThings_ShuttleDock_InvalidLamp>
   <MThings_ShuttleDock_AlreadyHasLamp>이 도크는 이미 연결된 벽등이 있습니다.</MThings_ShuttleDock_AlreadyHasLamp>
   <MThings_ShuttleDock_NoAvailableDock>근처에 연결 가능한 왕복선 도크가 없습니다.</MThings_ShuttleDock_NoAvailableDock>
