@@ -705,6 +705,7 @@
     <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="AOBA.RedMoyo">Data/Moyo/Moyo-Light in the Abyss - 2730090328</li>
     <li IfModActive="FarTresh.HadalMoyos">Data/Moyo/Moyo-Where the light ends - 3689163624/1.6</li>
+    <li IfModActive="Morreleko.MYSDress">Data/Moyo/MoyoSlaveDress - 3674462790/1.6</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -2158,7 +2159,6 @@
     <li IfModActive="hobtook.mortaraccuracy">Data/Mortar Accuracy - 1729446857</li>
     <li IfModActive="kota.moveandshoot">Data/MoveAndShoot - 3546408756</li>
     <li IfModActive="Nemonian.MY">Data/Moyo - from the depth - 3240244292</li>
-    <li IfModActive="Morreleko.MYSDress">Data/MoyoSlaveDress - 3674462790/1.6</li>
     <li IfModActive="Mud.TribalApparel">Data/Mud's Tribal Apparel - 2796703834/1.6</li>
     <li IfModActive="rwmt.Multiplayer">Data/Multiplayer - 2606448745</li>
     <li IfModActive="mustard1557.musc.zerg">Data/MUSC Zerg Mod - 3665294314/1.6</li>
@@ -3398,6 +3398,7 @@
     <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="AOBA.RedMoyo">Data/Moyo/Moyo-Light in the Abyss - 2730090328</li>
     <li IfModActive="FarTresh.HadalMoyos">Data/Moyo/Moyo-Where the light ends - 3689163624/1.6</li>
+    <li IfModActive="Morreleko.MYSDress">Data/Moyo/MoyoSlaveDress - 3674462790/1.6</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -4850,7 +4851,6 @@
     <li IfModActive="hobtook.mortaraccuracy">Data/Mortar Accuracy - 1729446857</li>
     <li IfModActive="kota.moveandshoot">Data/MoveAndShoot - 3546408756</li>
     <li IfModActive="Nemonian.MY">Data/Moyo - from the depth - 3240244292</li>
-    <li IfModActive="Morreleko.MYSDress">Data/MoyoSlaveDress - 3674462790/1.6</li>
     <li IfModActive="Mud.TribalApparel">Data/Mud's Tribal Apparel - 2796703834/1.6</li>
     <li IfModActive="rwmt.Multiplayer">Data/Multiplayer - 2606448745</li>
     <li IfModActive="mustard1557.musc.zerg">Data/MUSC Zerg Mod - 3665294314/1.6</li>
@@ -6091,6 +6091,7 @@
     <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="AOBA.RedMoyo">Data/Moyo/Moyo-Light in the Abyss - 2730090328</li>
     <li IfModActive="FarTresh.HadalMoyos">Data/Moyo/Moyo-Where the light ends - 3689163624/1.6</li>
+    <li IfModActive="Morreleko.MYSDress">Data/Moyo/MoyoSlaveDress - 3674462790/1.6</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -7544,7 +7545,6 @@
     <li IfModActive="hobtook.mortaraccuracy">Data/Mortar Accuracy - 1729446857</li>
     <li IfModActive="kota.moveandshoot">Data/MoveAndShoot - 3546408756</li>
     <li IfModActive="Nemonian.MY">Data/Moyo - from the depth - 3240244292</li>
-    <li IfModActive="Morreleko.MYSDress">Data/MoyoSlaveDress - 3674462790/1.6</li>
     <li IfModActive="Mud.TribalApparel">Data/Mud's Tribal Apparel - 2796703834/1.6</li>
     <li IfModActive="rwmt.Multiplayer">Data/Multiplayer - 2606448745</li>
     <li IfModActive="mustard1557.musc.zerg">Data/MUSC Zerg Mod - 3665294314/1.6</li>
@@ -8785,6 +8785,7 @@
     <li IfModActive="MortStrudel.CorporationFaction">Data/Mort Strudel/The Corporation - Mort's Factions - 2974334010/1.4</li>
     <li IfModActive="AOBA.RedMoyo">Data/Moyo/Moyo-Light in the Abyss - 2730090328</li>
     <li IfModActive="FarTresh.HadalMoyos">Data/Moyo/Moyo-Where the light ends - 3689163624/1.6</li>
+    <li IfModActive="Morreleko.MYSDress">Data/Moyo/MoyoSlaveDress - 3674462790/1.6</li>
     <li IfModActive="MrHydralisk.AnomaliesExpected">Data/MrHydralisk/Anomalies Expected - 3240752689</li>
     <li IfModActive="MrHydralisk.ComplementaryOdyssey">Data/MrHydralisk/Complementary Odyssey - 3546612303</li>
     <li IfModActive="MrHydralisk.GlitterworldMedicineProduction">Data/MrHydralisk/Glitterworld Medicine Production - 2885153505</li>
@@ -10238,7 +10239,6 @@
     <li IfModActive="hobtook.mortaraccuracy">Data/Mortar Accuracy - 1729446857</li>
     <li IfModActive="kota.moveandshoot">Data/MoveAndShoot - 3546408756</li>
     <li IfModActive="Nemonian.MY">Data/Moyo - from the depth - 3240244292</li>
-    <li IfModActive="Morreleko.MYSDress">Data/MoyoSlaveDress - 3674462790/1.6</li>
     <li IfModActive="Mud.TribalApparel">Data/Mud's Tribal Apparel - 2796703834/1.6</li>
     <li IfModActive="rwmt.Multiplayer">Data/Multiplayer - 2606448745</li>
     <li IfModActive="mustard1557.musc.zerg">Data/MUSC Zerg Mod - 3665294314/1.6</li>
