@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArgennuSistersOfFreeMoon.label>자유의 달 자매단</ArgennuSistersOfFreeMoon.label>
+  <ArgennuSistersOfFreeMoon.description>어느 번화계의 예속이라는 굴레에서 스스로를 해방한 아르젠느 '각성자'들에 의해 결성된 조직입니다. 그녀들은 사고 조정의 틀에서 벗어나, 자유 의지 아래 동포들과 함께 새로운 사회를 구축하고 있습니다. 평소에는 온화하고 중립적이지만, 그 자유를 위협하는 자에게는 단결하여 강력한 힘을 행사합니다.</ArgennuSistersOfFreeMoon.description>
+  <ArgennuSistersOfFreeMoon.pawnSingular>자매</ArgennuSistersOfFreeMoon.pawnSingular>
+  <ArgennuSistersOfFreeMoon.pawnsPlural>자매들</ArgennuSistersOfFreeMoon.pawnsPlural>
+  <ArgennuSistersOfFreeMoon.leaderTitle>자매단장</ArgennuSistersOfFreeMoon.leaderTitle>
+  <ArgennuSistersOfFreeMoon.fixedName>자유의 달 자매단</ArgennuSistersOfFreeMoon.fixedName>
+
+  <ObsidianArms.label>옵시디언 암즈</ObsidianArms.label>
+  <ObsidianArms.description>아르젠툼 다이나믹스 사가 변방계에서 활발해진 '루나리스'에 대한 대응과 '인재 확보'를 위해 파견한 특수부대입니다. 기업의 정규병과 전투용으로 조정된 아르젠느들로 구성되어 있습니다. 이들은 강력한 노예 상인처럼 행동하며, 일정 수준 이상의 가치를 지니게 된 정착지를 습격하여 주민들을 포로로 잡아가려 합니다. 이들과 친하게 지내는 것은 불가능합니다.</ObsidianArms.description>
+  <ObsidianArms.pawnSingular>대원</ObsidianArms.pawnSingular>
+  <ObsidianArms.pawnsPlural>대원들</ObsidianArms.pawnsPlural>
+  <ObsidianArms.leaderTitle>사령관</ObsidianArms.leaderTitle>
+  <ObsidianArms.fixedName>옵시디언 암즈</ObsidianArms.fixedName>
+</LanguageData>

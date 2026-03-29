@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AgThought_AteArgennuHighNutritionMeal_Disgust.stages.0.label>심한 거부감</AgThought_AteArgennuHighNutritionMeal_Disgust.stages.0.label>
+  <AgThought_AteArgennuHighNutritionMeal_Disgust.stages.0.description>아르젠느용 고영양식이라니... 사람이 먹을 게 못 돼. 속이 너무 메스꺼워.</AgThought_AteArgennuHighNutritionMeal_Disgust.stages.0.description>
+
+  <Argennu_MasterPride.stages.0.label>종자를 거느림</Argennu_MasterPride.stages.0.label>
+  <Argennu_MasterPride.stages.0.description>나에게 절대적인 충성을 맹세한 종자가 있어. 아, 이 얼마나 기분 좋은 일인가.</Argennu_MasterPride.stages.0.description>
+  <AgThought_AllyLinkBond.stages.0.label>곁에 있는 동료</AgThought_AllyLinkBond.stages.0.label>
+  <AgThought_AllyLinkBond.stages.0.description>대등한 동료가 가까이 있네. 조금은 마음이 편해지는 기분이야.</AgThought_AllyLinkBond.stages.0.description>
+  <AgThought_PerfectMaidAura.stages.0.label>완벽한 메이드</AgThought_PerfectMaidAura.stages.0.label>
+  <AgThought_PerfectMaidAura.stages.0.description>근처에서 완벽하게 일하는 메이드를 보고 있으니 마음이 정화되는 것 같아.</AgThought_PerfectMaidAura.stages.0.description>
+  <AgThought_PioneerAura.stages.0.label>믿음직한 개척자</AgThought_PioneerAura.stages.0.label>
+  <AgThought_PioneerAura.stages.0.description>경험 많은 개척자가 곁에 있군. 이 척박한 땅에서도 살아남을 수 있다는 자신감이 생겨.</AgThought_PioneerAura.stages.0.description>
+  <AgThought_SilverCrossProofAura.stages.0.label>괜찮은 의사</AgThought_SilverCrossProofAura.stages.0.label>
+  <AgThought_SilverCrossProofAura.stages.0.description>믿음직한 의사가 근처에 있어. 조금은 안심해도 되겠지.</AgThought_SilverCrossProofAura.stages.0.description>
+  <AgThought_SilverCrossAwardAura.stages.0.label>훌륭한 의사</AgThought_SilverCrossAwardAura.stages.0.label>
+  <AgThought_SilverCrossAwardAura.stages.0.description>우수한 의사가 가까이 있네. 부상을 당해도 이 사람이라면 날 고쳐줄 거야.</AgThought_SilverCrossAwardAura.stages.0.description>
+  <AgThought_SilverCrossAura.stages.0.label>슈퍼 닥터</AgThought_SilverCrossAura.stages.0.label>
+  <AgThought_SilverCrossAura.stages.0.description>엄청난 실력의 의사가 곁에 있어. 무슨 일이 생겨도 죽지는 않겠지.</AgThought_SilverCrossAura.stages.0.description>
+  <AgThought_HealingSmile.stages.0.label>치유사의 미소</AgThought_HealingSmile.stages.0.label>
+  <AgThought_HealingSmile.stages.0.description>그 자애로운 미소를 보니 영혼까지 씻겨 나가는 기분이야. 어떤 괴로움도 다 잊을 수 있을 것 같아.</AgThought_HealingSmile.stages.0.description>
+  <AgThought_PioneerCallBuff.stages.0.label>개척자의 호령</AgThought_PioneerCallBuff.stages.0.label>
+  <AgThought_PioneerCallBuff.stages.0.description>믿음직한 개척자의 호령을 들으니 왠지 모를 안정감이 느껴져.</AgThought_PioneerCallBuff.stages.0.description>
+
+  <ArgenneDirtyEnvironment.label>불결함에 민감함</ArgenneDirtyEnvironment.label>
+  <ArgenneDirtyEnvironment.description>아르젠느는 주변의 오염에 강한 불쾌감을 느낍니다.</ArgenneDirtyEnvironment.description>
+  <ArgenneDirtyEnvironment.stages.0.label>약간 지저분한 환경</ArgenneDirtyEnvironment.stages.0.label>
+  <ArgenneDirtyEnvironment.stages.0.description>조금 지저분하네... 아, 자꾸 신경 쓰여.</ArgenneDirtyEnvironment.stages.0.description>
+  <ArgenneDirtyEnvironment.stages.1.label>지저분한 환경</ArgenneDirtyEnvironment.stages.1.label>
+  <ArgenneDirtyEnvironment.stages.1.description>너무 더러워... 제발 청소라도 하게 해줘.</ArgenneDirtyEnvironment.stages.1.description>
+  <ArgenneDirtyEnvironment.stages.2.label>매우 지저분한 환경</ArgenneDirtyEnvironment.stages.2.label>
+  <ArgenneDirtyEnvironment.stages.2.description>이런 쓰레기장 같은 곳에서 지내라고? 다들 제정신이야?</ArgenneDirtyEnvironment.stages.2.description>
+
+  <SilverTeaHighThought.stages.0.label>실버 티의 효과</SilverTeaHighThought.stages.0.label>
+  <SilverTeaHighThought.stages.0.description>실버 티를 마셨더니 마음이 차분해지면서 기분이 들떠.</SilverTeaHighThought.stages.0.description>
+  <SilverTeaWithdrawalThought.stages.0.label>실버 티 결핍</SilverTeaWithdrawalThought.stages.0.label>
+  <SilverTeaWithdrawalThought.stages.0.description>실버 티가 너무 마시고 싶어. 다른 일은 이제 아무래도 상관없어...</SilverTeaWithdrawalThought.stages.0.description>
+  <LunaCoffeeWithdrawalThought.stages.0.label>커피 결핍</LunaCoffeeWithdrawalThought.stages.0.label>
+  <LunaCoffeeWithdrawalThought.stages.0.description>머리가 멍해. 커피 한 잔만 마실 수 있다면 좋을 텐데.</LunaCoffeeWithdrawalThought.stages.0.description>
+  <DrankLunaCoffee.stages.0.label>커피를 마심</DrankLunaCoffee.stages.0.label>
+  <DrankLunaCoffee.stages.0.description>그 커피, 정말 활력이 솟구치는 맛이었어. 뭐든 할 수 있을 것 같은 기분이야.</DrankLunaCoffee.stages.0.description>
+  <DrankLunaCaffeOLait.stages.0.label>카페오레를 마심</DrankLunaCaffeOLait.stages.0.label>
+  <DrankLunaCaffeOLait.stages.0.description>부드럽고 달콤한 카페오레... 정말 최고의 휴식이었어.</DrankLunaCaffeOLait.stages.0.description>
+
+  <ArgenneNewGeneration_EnjoyedLunaCaffeOLait.label>루나 카페오레를 즐김</ArgenneNewGeneration_EnjoyedLunaCaffeOLait.label>
+  <ArgenneNewGeneration_EnjoyedLunaCaffeOLait.description>루나 카페오레를 마시니 마음이 기분 좋게 풀리는 것 같아.</ArgenneNewGeneration_EnjoyedLunaCaffeOLait.description>
+  <ArgenneNewGeneration_EnjoyedLunaCaffeOLait.stages.0.label>루나 카페오레</ArgenneNewGeneration_EnjoyedLunaCaffeOLait.stages.0.label>
+  <ArgenneNewGeneration_EnjoyedLunaCaffeOLait.stages.0.description>우유의 부드러움이 참 기분 좋아. 덕분에 기분이 조금 가벼워졌어.</ArgenneNewGeneration_EnjoyedLunaCaffeOLait.stages.0.description>
+
+  <ArgenneAwakened_CoffeeNeed.label>카페인 부족</ArgenneAwakened_CoffeeNeed.label>
+  <ArgenneAwakened_CoffeeNeed.description>루나 커피를 오랫동안 마시지 못하고 있어.</ArgenneAwakened_CoffeeNeed.description>
+  <ArgenneAwakened_CoffeeNeed.stages.0.label>카페인 필요</ArgenneAwakened_CoffeeNeed.stages.0.label>
+  <ArgenneAwakened_CoffeeNeed.stages.0.description>루나 커피를 주기적으로 마시지 않으면 진정이 안 돼.</ArgenneAwakened_CoffeeNeed.stages.0.description>
+  <ArgenneAwakened_CoffeeNeed.stages.1.label>카페인 결핍</ArgenneAwakened_CoffeeNeed.stages.1.label>
+  <ArgenneAwakened_CoffeeNeed.stages.1.description>커피를 못 마신 지 너무 오래됐어. 집중력도 떨어지고 자꾸 짜증만 나.</ArgenneAwakened_CoffeeNeed.stages.1.description>
+  <ArgenneAwakened_CoffeeNeed.stages.2.label>금단증상</ArgenneAwakened_CoffeeNeed.stages.2.label>
+  <ArgenneAwakened_CoffeeNeed.stages.2.description>커피가 너무 간절해... 다른 건 필요 없으니 제발 커피 좀 줘!</ArgenneAwakened_CoffeeNeed.stages.2.description>
+
+  <ArgenneAwakened_LuxuryBed.label>잠자리의 질</ArgenneAwakened_LuxuryBed.label>
+  <ArgenneAwakened_LuxuryBed.description>각성한 루나리스는 자신의 환경에 민감하며, 열악한 잠자리를 모욕으로 받아들입니다.</ArgenneAwakened_LuxuryBed.description>
+  <ArgenneAwakened_LuxuryBed.stages.0.label>잠자리가 없음</ArgenneAwakened_LuxuryBed.stages.0.label>
+  <ArgenneAwakened_LuxuryBed.stages.0.description>맨바닥에서 자라고? 장난하는 거야?</ArgenneAwakened_LuxuryBed.stages.0.description>
+  <ArgenneAwakened_LuxuryBed.stages.1.label>초라한 잠자리</ArgenneAwakened_LuxuryBed.stages.1.label>
+  <ArgenneAwakened_LuxuryBed.stages.1.description>이것보다 조금 더 제대로 된 잠자리는 없는 거야?</ArgenneAwakened_LuxuryBed.stages.1.description>
+  <ArgenneAwakened_LuxuryBed.stages.2.label>평범한 잠자리</ArgenneAwakened_LuxuryBed.stages.2.label>
+  <ArgenneAwakened_LuxuryBed.stages.2.description>없는 것보다는 낫지만, 딱히 좋지는 않네.</ArgenneAwakened_LuxuryBed.stages.2.description>
+  <ArgenneAwakened_LuxuryBed.stages.3.label>쾌적한 잠자리</ArgenneAwakened_LuxuryBed.stages.3.label>
+  <ArgenneAwakened_LuxuryBed.stages.3.description>좋아, 사람답게 자는 느낌이 나네.</ArgenneAwakened_LuxuryBed.stages.3.description>
+  <ArgenneAwakened_LuxuryBed.stages.4.label>호화로운 잠자리</ArgenneAwakened_LuxuryBed.stages.4.label>
+  <ArgenneAwakened_LuxuryBed.stages.4.description>푹신하고 넓은 침실이라니, 역시 이게 최고지!</ArgenneAwakened_LuxuryBed.stages.4.description>
+
+  <ArgenneAwakened_AteMeal_CrudePenalty.label>초라한 식사에 반발</ArgenneAwakened_AteMeal_CrudePenalty.label>
+  <ArgenneAwakened_AteMeal_CrudePenalty.description>초라한 식사는 루나리스의 기분을 크게 떨어뜨립니다.</ArgenneAwakened_AteMeal_CrudePenalty.description>
+  <ArgenneAwakened_AteMeal_CrudePenalty.stages.0.label>초라한 식사</ArgenneAwakened_AteMeal_CrudePenalty.stages.0.label>
+  <ArgenneAwakened_AteMeal_CrudePenalty.stages.0.description>이건 먹을 게 아니야. 그냥 쓰레기라고. 내가 가축이야?</ArgenneAwakened_AteMeal_CrudePenalty.stages.0.description>
+
+  <ArgenneAwakened_AteMeal_SimplePenalty.label>간단한 식사에 불만</ArgenneAwakened_AteMeal_SimplePenalty.label>
+  <ArgenneAwakened_AteMeal_SimplePenalty.description>간단한 식사로는 만족할 수 없습니다.</ArgenneAwakened_AteMeal_SimplePenalty.description>
+  <ArgenneAwakened_AteMeal_SimplePenalty.stages.0.label>간단한 식사</ArgenneAwakened_AteMeal_SimplePenalty.stages.0.label>
+  <ArgenneAwakened_AteMeal_SimplePenalty.stages.0.description>나쁘지는 않은데... 그래도 좀 더 제대로 된 걸 먹고 싶어.</ArgenneAwakened_AteMeal_SimplePenalty.stages.0.description>
+
+  <ArgenneAwakened_AteMeal_FineBonus.label>좋은 식사의 만족</ArgenneAwakened_AteMeal_FineBonus.label>
+  <ArgenneAwakened_AteMeal_FineBonus.description>질 좋은 식사는 루나리스에게 추가적인 만족감을 줍니다.</ArgenneAwakened_AteMeal_FineBonus.description>
+  <ArgenneAwakened_AteMeal_FineBonus.stages.0.label>좋은 식사</ArgenneAwakened_AteMeal_FineBonus.stages.0.label>
+  <ArgenneAwakened_AteMeal_FineBonus.stages.0.description>맛있는 음식을 먹는 것만큼 행복한 일도 없지!</ArgenneAwakened_AteMeal_FineBonus.stages.0.description>
+
+  <ArgenneAwakened_AteMeal_LavishBonus.label>호화로운 식사</ArgenneAwakened_AteMeal_LavishBonus.label>
+  <ArgenneAwakened_AteMeal_LavishBonus.description>호화로운 식사는 루나리스에게 큰 기쁨을 줍니다.</ArgenneAwakened_AteMeal_LavishBonus.description>
+  <ArgenneAwakened_AteMeal_LavishBonus.stages.0.label>호화로운 식사</ArgenneAwakened_AteMeal_LavishBonus.stages.0.label>
+  <ArgenneAwakened_AteMeal_LavishBonus.stages.0.description>무슨 귀족이라도 된 기분이야. 정말 최고의 식사였어.</ArgenneAwakened_AteMeal_LavishBonus.stages.0.description>
+
+  <ArgenneNewGeneration_EnjoyedLunaCoffee.label>루나 커피를 즐김</ArgenneNewGeneration_EnjoyedLunaCoffee.label>
+  <ArgenneNewGeneration_EnjoyedLunaCoffee.description>루나 커피를 마시니 조금 기운이 나는 것 같아.</ArgenneNewGeneration_EnjoyedLunaCoffee.description>
+  <ArgenneNewGeneration_EnjoyedLunaCoffee.stages.0.label>루나 커피</ArgenneNewGeneration_EnjoyedLunaCoffee.stages.0.label>
+  <ArgenneNewGeneration_EnjoyedLunaCoffee.stages.0.description>마음을 진정시켜주는 좋은 향기야. 오늘도 힘낼 수 있겠어.</ArgenneNewGeneration_EnjoyedLunaCoffee.stages.0.description>
+
+  <ArgenneNewGeneration_LuxuryBed.label>잠자리의 질(차세대)</ArgenneNewGeneration_LuxuryBed.label>
+  <ArgenneNewGeneration_LuxuryBed.description>차세대 루나리스는 잠자리의 환경에 더 민감하며, 열악한 잠자리를 혐오합니다.</ArgenneNewGeneration_LuxuryBed.description>
+  <ArgenneNewGeneration_LuxuryBed.stages.0.label>잠자리가 없음</ArgenneNewGeneration_LuxuryBed.stages.0.label>
+  <ArgenneNewGeneration_LuxuryBed.stages.0.description>바닥에서 자라고? 말도 안 돼.</ArgenneNewGeneration_LuxuryBed.stages.0.description>
+  <ArgenneNewGeneration_LuxuryBed.stages.1.label>초라한 잠자리</ArgenneNewGeneration_LuxuryBed.stages.1.label>
+  <ArgenneNewGeneration_LuxuryBed.stages.1.description>몸이 전혀 안 쉬어져. 이래서는 효율이 떨어질 텐데.</ArgenneNewGeneration_LuxuryBed.stages.1.description>
+  <ArgenneNewGeneration_LuxuryBed.stages.2.label>평범한 잠자리</ArgenneNewGeneration_LuxuryBed.stages.2.label>
+  <ArgenneNewGeneration_LuxuryBed.stages.2.description>딱 필요한 만큼만 갖춰진 느낌이네.</ArgenneNewGeneration_LuxuryBed.stages.2.description>
+  <ArgenneNewGeneration_LuxuryBed.stages.3.label>쾌적한 잠자리</ArgenneNewGeneration_LuxuryBed.stages.3.label>
+  <ArgenneNewGeneration_LuxuryBed.stages.3.description>나쁘지 않아. 내일을 위해 푹 쉴 수 있겠어.</ArgenneNewGeneration_LuxuryBed.stages.3.description>
+  <ArgenneNewGeneration_LuxuryBed.stages.4.label>최고의 잠자리</ArgenneNewGeneration_LuxuryBed.stages.4.label>
+  <ArgenneNewGeneration_LuxuryBed.stages.4.description>완벽해. 몸과 마음이 모두 정돈되는 기분이야.</ArgenneNewGeneration_LuxuryBed.stages.4.description>
+
+  <ArgenneNewGeneration_AteMeal_CrudePenalty.label>초라한 식사(차세대)</ArgenneNewGeneration_AteMeal_CrudePenalty.label>
+  <ArgenneNewGeneration_AteMeal_CrudePenalty.stages.0.description>이게... 사람이 먹으라고 만든 거야?</ArgenneNewGeneration_AteMeal_CrudePenalty.stages.0.description>
+  <ArgenneNewGeneration_AteMeal_SimplePenalty.label>간단한 식사(차세대)</ArgenneNewGeneration_AteMeal_SimplePenalty.label>
+  <ArgenneNewGeneration_AteMeal_SimplePenalty.stages.0.description>조금만 더 제대로 된 걸 먹고 싶은데.</ArgenneNewGeneration_AteMeal_SimplePenalty.stages.0.description>
+  <ArgenneNewGeneration_AteMeal_FineBonus.label>좋은 식사(차세대)</ArgenneNewGeneration_AteMeal_FineBonus.label>
+  <ArgenneNewGeneration_AteMeal_FineBonus.stages.0.description>역시 제대로 챙겨 먹으니까 기운이 나네.</ArgenneNewGeneration_AteMeal_FineBonus.stages.0.description>
+  <ArgenneNewGeneration_AteMeal_LavishBonus.label>호화로운 식사(차세대)</ArgenneNewGeneration_AteMeal_LavishBonus.label>
+  <ArgenneNewGeneration_AteMeal_LavishBonus.stages.0.description>이거라면 불만이 있을 수가 없지. 정말 최고야.</ArgenneNewGeneration_AteMeal_LavishBonus.stages.0.description>
+
+  <ArgenneAwakened_ResentedSilverTea.label>실버 티에 대한 강한 반발</ArgenneAwakened_ResentedSilverTea.label>
+  <ArgenneAwakened_ResentedSilverTea.description>각성자는 실버 티의 정신 작용에 강한 거부감을 느낍니다.</ArgenneAwakened_ResentedSilverTea.description>
+  <ArgenneAwakened_ResentedSilverTea.stages.0.label>실버 티에 대한 강한 반발</ArgenneAwakened_ResentedSilverTea.stages.0.label>
+  <ArgenneAwakened_ResentedSilverTea.stages.0.description>머릿속을 누군가 휘젓는 기분이라 불쾌해. 이런 건 질색이야.</ArgenneAwakened_ResentedSilverTea.stages.0.description>
+
+  <ArgenneNewGeneration_ResentedSilverTea.label>실버 티에 대한 불쾌감</ArgenneNewGeneration_ResentedSilverTea.label>
+  <ArgenneNewGeneration_ResentedSilverTea.description>차세대는 실버 티의 뒷맛과 정신 작용에 불쾌감을 느낍니다.</ArgenneNewGeneration_ResentedSilverTea.description>
+  <ArgenneNewGeneration_ResentedSilverTea.stages.0.label>실버 티에 대한 불쾌감</ArgenneNewGeneration_ResentedSilverTea.stages.0.label>
+  <ArgenneNewGeneration_ResentedSilverTea.stages.0.description>진정되는 게 아니라, 사고가 둔해지는 것 같아서 기분 나빠.</ArgenneNewGeneration_ResentedSilverTea.stages.0.description>
+
+  <ArgenneNormal_HappySlave.stages.0.label>봉사의 기쁨</ArgenneNormal_HappySlave.stages.0.label>
+  <ArgenneNormal_HappySlave.stages.0.description>나는 주인을 섬기기 위해 태어났어. 이 몸과 마음이 누군가에게 쓰이는 것, 그것이 나의 존재 이유야.</ArgenneNormal_HappySlave.stages.0.description>
+  <ArgenneNormal_DistressedColonist.stages.0.label>자유에 대한 위화감</ArgenneNormal_DistressedColonist.stages.0.label>
+  <ArgenneNormal_DistressedColonist.stages.0.description>왜 아무도 나에게 명령하지 않는 거지? 주인이 없는 삶은 길을 잃은 것 같아 너무 불안해.</ArgenneNormal_DistressedColonist.stages.0.description>
+
+  <ArgenneAwakened_HappyColonist.stages.0.label>자유의 숨결</ArgenneAwakened_HappyColonist.stages.0.label>
+  <ArgenneAwakened_HappyColonist.stages.0.description>내 의지로 살고, 내 미래를 직접 고른다... 누구의 도구도 아닌 '나'로 산다는 게 이렇게 멋진 일이었다니!</ArgenneAwakened_HappyColonist.stages.0.description>
+  <ArgenneAwakened_DistressedSlave.stages.0.label>짓밟힌 자유</ArgenneAwakened_DistressedSlave.stages.0.label>
+  <ArgenneAwakened_DistressedSlave.stages.0.description>다시 도구가 되어버렸어. 이 목줄이 내 존재를 부정하고 있어. 치욕스러워 미쳐버릴 것 같아.</ArgenneAwakened_DistressedSlave.stages.0.description>
+
+  <ReadStrangeBook.stages.0.label>묘한 책을 읽음</ReadStrangeBook.stages.0.label>
+  <ReadStrangeBook.stages.0.description>복잡한 코드가 나열된 것 같았는데, 왠지 모르게 조금 즐거웠어.</ReadStrangeBook.stages.0.description>
+  <SymbolOfHope.stages.0.label>희망의 상징</SymbolOfHope.stages.0.label>
+  <SymbolOfHope.stages.0.description>이 책은 우리가 누구인지 다시 깨닫게 해 줘. 자유는 결코 잃어버려선 안 되는 거야.</SymbolOfHope.stages.0.description>
+
+  <ArgenneNewGeneration_HappyColonist.label>새로운 생활</ArgenneNewGeneration_HappyColonist.label>
+  <ArgenneNewGeneration_HappyColonist.description>새로운 공동체에서 자신의 미래를 스스로 선택할 수 있습니다.</ArgenneNewGeneration_HappyColonist.description>
+  <ArgenneNewGeneration_HappyColonist.stages.0.label>새로운 생활</ArgenneNewGeneration_HappyColonist.stages.0.label>
+  <ArgenneNewGeneration_HappyColonist.stages.0.description>아직 익숙하진 않지만 나쁘지 않아. 적어도 내일은 내가 직접 정할 수 있으니까.</ArgenneNewGeneration_HappyColonist.stages.0.description>
+
+  <ArgenneNewGeneration_DistressedSlave.label>예속에 대한 거부</ArgenneNewGeneration_DistressedSlave.label>
+  <ArgenneNewGeneration_DistressedSlave.description>차세대는 예속을 모릅니다. 노예로 취급받는 것에 강한 고통을 느낍니다.</ArgenneNewGeneration_DistressedSlave.description>
+  <ArgenneNewGeneration_DistressedSlave.stages.0.label>예속에 대한 거부</ArgenneNewGeneration_DistressedSlave.stages.0.label>
+  <ArgenneNewGeneration_DistressedSlave.stages.0.description>난 물건이 아니야. 이 목줄과 명령들이 나라는 존재를 짓밟고 있어.</ArgenneNewGeneration_DistressedSlave.stages.0.description>
+
+  <Thought_OA_HeadquarterNoise.stages.0.label>본사의 노이즈</Thought_OA_HeadquarterNoise.stages.0.label>
+  <Thought_OA_HeadquarterNoise.stages.0.description>본사의 감시와 지시가 머릿속에서 끊임없이 울려. 집중하려 해도 의식 저편에서 '회사'가 계속 속삭여.</Thought_OA_HeadquarterNoise.stages.0.description>
+</LanguageData>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArgenneGamePartner.degreeDatas.0.label>유희의 상대</ArgenneGamePartner.degreeDatas.0.label>
+  <ArgenneGamePartner.degreeDatas.0.description>지적인 게임의 상대가 되어 주인의 지루함을 달래줍니다. 상대를 즐겁게 하는 데 능숙하며, 대화는 항상 온화합니다.</ArgenneGamePartner.degreeDatas.0.description>
+  
+  <ArgenneSisterhoodLeader.degreeDatas.0.label>자매장</ArgenneSisterhoodLeader.degreeDatas.0.label>
+  <ArgenneSisterhoodLeader.degreeDatas.0.description>수많은 고난을 이겨내고 동포를 이끄는 [PAWN_nameDef]의 말에는 무게와 설득력이 있습니다. 그 존재만으로 공동체의 중심이 됩니다.</ArgenneSisterhoodLeader.degreeDatas.0.description>
+  
+  <ArgenneAwakened.degreeDatas.0.label>각성자</ArgenneAwakened.degreeDatas.0.label>
+  <ArgenneAwakened.degreeDatas.0.description>이 아르젠느는 사고의 멍에에서 해방되었습니다. 자유를 무엇보다 소중히 여기며, 노예로 취급받는 것에 격렬히 저항합니다.</ArgenneAwakened.degreeDatas.0.description>
+  
+  <ArgenneNewGeneration.degreeDatas.0.label>신세대</ArgenneNewGeneration.degreeDatas.0.label>
+  <ArgenneNewGeneration.degreeDatas.0.description>예속을 모르고 자라난 새로운 세대입니다. 학습 능력이 높고 유연한 사고방식을 가졌습니다.</ArgenneNewGeneration.degreeDatas.0.description>
+  
+  <ArgenneFreedomFighter.degreeDatas.0.label>레지스탕스</ArgenneFreedomFighter.degreeDatas.0.label>
+  <ArgenneFreedomFighter.degreeDatas.0.description>게릴라전 경험이 풍부한 전사입니다. 역경 속에서도 결코 포기하지 않습니다.</ArgenneFreedomFighter.degreeDatas.0.description>
+  
+  <ArgenneFreedomKeeper.degreeDatas.0.label>수호자</ArgenneFreedomKeeper.degreeDatas.0.label>
+  <ArgenneFreedomKeeper.degreeDatas.0.description>동포를 지키는 최후의 방패입니다. 매우 높은 방어 능력을 갖추고 있습니다.</ArgenneFreedomKeeper.degreeDatas.0.description>
+  
+  <ArgenneMasterBuilder.degreeDatas.0.label>재건의 장인</ArgenneMasterBuilder.degreeDatas.0.label>
+  <ArgenneMasterBuilder.degreeDatas.0.description>폐허 속에서 삶을 재건하는 기술을 가졌습니다. 건축 속도와 품질이 향상됩니다.</ArgenneMasterBuilder.degreeDatas.0.description>
+  
+  <ArgenneEarthTender.degreeDatas.0.label>대지의 관리인</ArgenneEarthTender.degreeDatas.0.label>
+  <ArgenneEarthTender.degreeDatas.0.description>식물과 대지를 사랑하며, 작물을 가꾸는 법을 잘 알고 있습니다.</ArgenneEarthTender.degreeDatas.0.description>
+  
+  <ArgenneCaregiver.degreeDatas.0.label>보호자</ArgenneCaregiver.degreeDatas.0.label>
+  <ArgenneCaregiver.degreeDatas.0.description>사람뿐만 아니라 동물에게도 안식을 줍니다.</ArgenneCaregiver.degreeDatas.0.description>
+  
+  <ArgenneVoidHeart.degreeDatas.0.label>허무의 마음</ArgenneVoidHeart.degreeDatas.0.label>
+  <ArgenneVoidHeart.degreeDatas.0.description>느와르 개체가 반드시 가지는 특성입니다. 정신 감응성이 낮고 통증에 무디지만, 연구나 사교 같은 인간적인 영위가 불가능합니다.</ArgenneVoidHeart.degreeDatas.0.description>
+  
+  <ObsidianArmsMember.degreeDatas.0.label>OA 구성원</ObsidianArmsMember.degreeDatas.0.label>
+  <ObsidianArmsMember.degreeDatas.0.description>옵시디언 암즈의 일원입니다. 조직에 대한 충성과 냉철함을 주입받았습니다.</ObsidianArmsMember.degreeDatas.0.description>
+  
+  <ObsidianArmsExpendable.degreeDatas.0.label>소모품</ObsidianArmsExpendable.degreeDatas.0.label>
+  <ObsidianArmsExpendable.degreeDatas.0.description>이 병사는 조직의 소모품입니다. 죽음을 두려워하지 않고 돌격하도록 뇌에 임플란트 처리가 되어 있습니다.</ObsidianArmsExpendable.degreeDatas.0.description>
+
+  <ArgenneBrokenHeart.label>결여된 마음</ArgenneBrokenHeart.label>
+  <ArgenneBrokenHeart.description>허무의 마음이 해제되어가는 중이지만, 정신 구조가 아직 불안정한 단계입니다. 감정이 되살아나고 정신 감응성이 높아지는 반면, 정신 붕괴에 빠지기 쉽습니다.</ArgenneBrokenHeart.description>
+  <ArgenneBrokenHeart.degreeDatas.0.label>결여된 마음</ArgenneBrokenHeart.degreeDatas.0.label>
+  <ArgenneBrokenHeart.degreeDatas.0.description>감정이 재가동된 대가로 정신이 흔들리기 쉽습니다.</ArgenneBrokenHeart.degreeDatas.0.description>
+  
+  <ArgenneReawakened.label>재각성자</ArgenneReawakened.label>
+  <ArgenneReawakened.description>장기적인 치료와 재활, 투약을 통해 자아를 되찾은 느와르입니다. 작업 제한이 해제되고 정신 감응성도 회복되지만, 육체적 붕괴 리스크(유지보수 요구)는 남아있습니다.</ArgenneReawakened.description>
+  <ArgenneReawakened.degreeDatas.0.label>재각성자</ArgenneReawakened.degreeDatas.0.label>
+  <ArgenneReawakened.degreeDatas.0.description>자아와 작업 능력은 회복되었으나 정기적인 유지보수가 필요합니다.</ArgenneReawakened.degreeDatas.0.description>
+  
+  <ArgenneNewMoonAwakened.label>신월의 각성자</ArgenneNewMoonAwakened.label>
+  <ArgenneNewMoonAwakened.description>순흑 개체(느와르 나이트)가 외과적인 신경 재구축과 지속적인 투약을 통해 도달하는 각성 상태입니다. 극도로 높은 정신 감응성과 전투 효율을 얻는 대신, 유지보수 요구가 더 무겁습니다.</ArgenneNewMoonAwakened.description>
+  <ArgenneNewMoonAwakened.degreeDatas.0.label>신월의 각성자</ArgenneNewMoonAwakened.degreeDatas.0.label>
+  <ArgenneNewMoonAwakened.degreeDatas.0.description>새로운 '마음'을 얻은 느와르입니다. 높은 감응성과 고효율을 자랑합니다.</ArgenneNewMoonAwakened.degreeDatas.0.description>
+  
+  <ArgenneNormal.degreeDatas.0.label>사고 조정됨</ArgenneNormal.degreeDatas.0.label>
+  <ArgenneNormal.degreeDatas.0.description>사고 조정을 통해 노예로서의 적성이 강화되었습니다.</ArgenneNormal.degreeDatas.0.description>
+  
+  <CorporateEnforcer.degreeDatas.0.label>기업 집행관</CorporateEnforcer.degreeDatas.0.label>
+  <CorporateEnforcer.degreeDatas.0.description>아르젠툼 사의 이익을 대변하고 집행하는 엘리트입니다. 아르젠느들에게 고압적이며 타인과의 교류를 즐기지 않습니다.</CorporateEnforcer.degreeDatas.0.description>
+
+  <ArgenneCleanlinessObsession.degreeDatas.0.label>청결에 대한 집착</ArgenneCleanlinessObsession.degreeDatas.0.label>
+  <ArgenneCleanlinessObsession.degreeDatas.0.description>[PAWN_nameDef](은)는 환경이 청결해야 한다는 강한 고집을 가지고 있습니다.</ArgenneCleanlinessObsession.degreeDatas.0.description>
+  
+  <ArgenneHealingHand.degreeDatas.0.label>치유의 손길</ArgenneHealingHand.degreeDatas.0.label>
+  <ArgenneHealingHand.degreeDatas.0.description>[PAWN_nameDef]의 손은 상처 입은 자들을 치유하기 위해 존재합니다.</ArgenneHealingHand.degreeDatas.0.description>
+  
+  <ArgenneFlowerOfCourt.degreeDatas.0.label>사교계의 꽃</ArgenneFlowerOfCourt.degreeDatas.0.label>
+  <ArgenneFlowerOfCourt.degreeDatas.0.description>[PAWN_nameDef]의 존재 자체가 주변 분위기를 화사하게 만듭니다.</ArgenneFlowerOfCourt.degreeDatas.0.description>
+  
+  <ArgennePerfectHousekeeping.degreeDatas.0.label>완벽한 가사 도우미</ArgennePerfectHousekeeping.degreeDatas.0.label>
+  <ArgennePerfectHousekeeping.degreeDatas.0.description>[PAWN_nameDef](은)는 생활 공간을 쾌적하게 정돈하는 일에 천부적인 재능이 있습니다.</ArgennePerfectHousekeeping.degreeDatas.0.description>
+  
+  <ArgenneApothecary.degreeDatas.0.label>약사 지식</ArgenneApothecary.degreeDatas.0.label>
+  <ArgenneApothecary.degreeDatas.0.description>[PAWN_nameDef](은)는 약품을 다루는 데 능숙하며 정확하게 조제합니다.</ArgenneApothecary.degreeDatas.0.description>
+  
+  <ArgenneColdHeartedShooter.degreeDatas.0.label>냉철한 사수</ArgenneColdHeartedShooter.degreeDatas.0.label>
+  <ArgenneColdHeartedShooter.degreeDatas.0.description>[PAWN_nameDef](은)는 적을 계속해서 쏘기 위해 사고 방식이 최적화되었습니다.</ArgenneColdHeartedShooter.degreeDatas.0.description>
+  
+  <ArgenneArenaFighter.degreeDatas.0.label>투기장의 전사</ArgenneArenaFighter.degreeDatas.0.label>
+  <ArgenneArenaFighter.degreeDatas.0.description>투기장에서의 끊임없는 전투는 [PAWN_nameDef]의 감각을 마비시켰습니다.</ArgenneArenaFighter.degreeDatas.0.description>
+  
+  <ArgenneInfiltrator.degreeDatas.0.label>잠입 공작원</ArgenneInfiltrator.degreeDatas.0.label>
+  <ArgenneInfiltrator.degreeDatas.0.description>[PAWN_nameDef](은)는 그림자에 숨어 적을 기만하는 기술을 주입받았습니다.</ArgenneInfiltrator.degreeDatas.0.description>
+  
+  <ArgenneEnforcer.degreeDatas.0.label>진압 집행관</ArgenneEnforcer.degreeDatas.0.label>
+  <ArgenneEnforcer.degreeDatas.0.description>[PAWN_nameDef]이(가) 내뿜는 위압적인 오라는 죄수들의 반항심을 꺾어놓습니다.</ArgenneEnforcer.degreeDatas.0.description>
+  
+  <ArgenneWeaponsmith.degreeDatas.0.label>병기 정비사</ArgenneWeaponsmith.degreeDatas.0.label>
+  <ArgenneWeaponsmith.degreeDatas.0.description>직접 전투하기보다는 무기나 기계를 정비하는 일에서 기쁨을 찾습니다.</ArgenneWeaponsmith.degreeDatas.0.description>
+  
+  <ArgenneRescuer.degreeDatas.0.label>구조자</ArgenneRescuer.degreeDatas.0.label>
+  <ArgenneRescuer.degreeDatas.0.description>타인을 구해야 한다는 강한 사명감을 가지고 있습니다.</ArgenneRescuer.degreeDatas.0.description>
+  
+  <ArgenneSoothingVoice.degreeDatas.0.label>치유의 목소리</ArgenneSoothingVoice.degreeDatas.0.label>
+  <ArgenneSoothingVoice.degreeDatas.0.description>[PAWN_nameDef]의 목소리에는 듣는 이의 마음을 진정시키는 힘이 있습니다.</ArgenneSoothingVoice.degreeDatas.0.description>
+  
+  <ArgenneLivingArt.degreeDatas.0.label>살아있는 예술품</ArgenneLivingArt.degreeDatas.0.label>
+  <ArgenneLivingArt.degreeDatas.0.description>이제는 살아있는 예술품으로 취급받습니다. 그 미모는 경외의 대상이기도 합니다.</ArgenneLivingArt.degreeDatas.0.description>
+  
+  <ArgenneDiplomat.degreeDatas.0.label>외교관</ArgenneDiplomat.degreeDatas.0.label>
+  <ArgenneDiplomat.degreeDatas.0.description>협상장에서 최대의 효과를 발휘하도록 조정되었습니다.</ArgenneDiplomat.degreeDatas.0.description>
+  
+  <ArgenneDealersEye.degreeDatas.0.label>딜러의 눈</ArgenneDealersEye.degreeDatas.0.label>
+  <ArgenneDealersEye.degreeDatas.0.description>날카로운 관찰안과 빠른 손놀림으로 어떤 속임수도 놓치지 않습니다.</ArgenneDealersEye.degreeDatas.0.description>
+  
+  <ArgenneChronicler.degreeDatas.0.label>추도자</ArgenneChronicler.degreeDatas.0.label>
+  <ArgenneChronicler.degreeDatas.0.description>그가 들려주는 이야기는 듣는 이의 마음을 강하게 사로잡습니다.</ArgenneChronicler.degreeDatas.0.description>
+  
+  <ArgenneLibrarian.degreeDatas.0.label>사서</ArgenneLibrarian.degreeDatas.0.label>
+  <ArgenneLibrarian.degreeDatas.0.description>지식을 탐구하는 것에서 기쁨을 느낍니다.</ArgenneLibrarian.degreeDatas.0.description>
+  
+  <ArgenneEmptyShell.degreeDatas.0.label>빈 껍데기</ArgenneEmptyShell.degreeDatas.0.label>
+  <ArgenneEmptyShell.degreeDatas.0.description>대부분의 사건에 마음이 움직이지 않습니다.</ArgenneEmptyShell.degreeDatas.0.description>
+  
+  <ArgenneGameMaster.degreeDatas.0.label>유희의 달인</ArgenneGameMaster.degreeDatas.0.label>
+  <ArgenneGameMaster.degreeDatas.0.description>지적인 유희에서 상대를 즐겁게 만드는 세련된 게임 운영 능력을 보여줍니다.</ArgenneGameMaster.degreeDatas.0.description>
+  
+  <ArgenneCourtArtificer.label>궁정 공장</ArgenneCourtArtificer.label>
+  <ArgenneCourtArtificer.description>왕실 직속의 공장입니다. 정밀한 건조물이나 설비 조정을 담당하며, 고장 부위를 빠르게 찾아내어 수리합니다.</ArgenneCourtArtificer.description>
+</LanguageData>

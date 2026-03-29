@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArgennuXenotype.label>아르젠느</ArgennuXenotype.label>
+  <ArgennuXenotype.description>아르젠느 종족의 전용 제노타입입니다.</ArgennuXenotype.description>
+  
+  <ArgennuXenotype_NamedNormal.label>아르젠느</ArgennuXenotype_NamedNormal.label>
+  <ArgennuXenotype_NamedNormal.description>아르젠느 종족의 전용 제노타입입니다.</ArgennuXenotype_NamedNormal.description>
+  
+  <ArgennuXenotype_NamedAwakened.label>아르젠느(각성)</ArgennuXenotype_NamedAwakened.label>
+  <ArgennuXenotype_NamedAwakened.description>사고의 멍에에서 해방된 아르젠느 종족의 제노타입입니다.</ArgennuXenotype_NamedAwakened.description>
+</LanguageData>

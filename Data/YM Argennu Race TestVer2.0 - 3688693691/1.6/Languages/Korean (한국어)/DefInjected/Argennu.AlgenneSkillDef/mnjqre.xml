@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AgSkill_AllyLinkProtocol.label>동료 링크</AgSkill_AllyLinkProtocol.label>
+  <AgSkill_AllyLinkProtocol.description>대등한 동료 관계를 맺습니다 (쌍방향·임의).</AgSkill_AllyLinkProtocol.description>
+
+  <AgSkill_NewbieArchitect.label>신참 건축가</AgSkill_NewbieArchitect.label>
+  <AgSkill_NewbieArchitect.description>건축 속도 +50%, 표준품 이상 확정.</AgSkill_NewbieArchitect.description>
+  <AgSkill_VeteranArchitect.label>베테랑 건축가</AgSkill_VeteranArchitect.label>
+  <AgSkill_VeteranArchitect.description>건축 속도 +75%, 양질 이상 확정.</AgSkill_VeteranArchitect.description>
+  <AgSkill_MasterArchitect.label>마스터 건축가</AgSkill_MasterArchitect.label>
+  <AgSkill_MasterArchitect.description>건축 속도 +100%, 우수 이상 확정.</AgSkill_MasterArchitect.description>
+
+  <AgSkill_NewbiePioneer.label>신참 개척자</AgSkill_NewbiePioneer.label>
+  <AgSkill_NewbiePioneer.description>수확 속도 +50%, 수확량 +30%.</AgSkill_NewbiePioneer.description>
+  <AgSkill_PioneerHarvest.label>베테랑 개척자</AgSkill_PioneerHarvest.label>
+  <AgSkill_PioneerHarvest.description>수확 속도 +75%, 수확량 +40%.</AgSkill_PioneerHarvest.description>
+  <AgSkill_MasterPioneer.label>마스터 개척자</AgSkill_MasterPioneer.label>
+  <AgSkill_MasterPioneer.description>수확 속도 +100%, 수확량 +50%.</AgSkill_MasterPioneer.description>
+  
+  <AgSkill_NewbieMiner.label>신참 채굴자</AgSkill_NewbieMiner.label>
+  <AgSkill_NewbieMiner.description>채굴 속도 +50%, 수확량 +30%.</AgSkill_NewbieMiner.description>
+  <AgSkill_VeteranMiner.label>베테랑 채굴자</AgSkill_VeteranMiner.label>
+  <AgSkill_VeteranMiner.description>채굴 속도 +75%, 수확량 +40%.</AgSkill_VeteranMiner.description>
+  <AgSkill_MasterMiner.label>마스터 채굴자</AgSkill_MasterMiner.label>
+  <AgSkill_MasterMiner.description>채굴 속도 +100%, 수확량 +50%.</AgSkill_MasterMiner.description>
+
+  <AgSkill_PioneerLeader.label>개척 지도자</AgSkill_PioneerLeader.label>
+  <AgSkill_PioneerLeader.description>건축·채굴·재배 능력 초강화, 상급 이상 확정.</AgSkill_PioneerLeader.description>
+  <AgSkill_PioneerInstinct.label>개척자의 생존 본능</AgSkill_PioneerInstinct.label>
+  <AgSkill_PioneerInstinct.description>자연 치유 속도 +50%.</AgSkill_PioneerInstinct.description>
+  <AgSkill_PioneerCall.label>개척자의 호령</AgSkill_PioneerCall.label>
+  <AgSkill_PioneerCall.description>액티브: 주변의 기분 수치 향상.</AgSkill_PioneerCall.description>
+  <AgSkill_Salvager.label>인양꾼</AgSkill_Salvager.label>
+  <AgSkill_Salvager.description>액티브: 범위 내 물체를 자원화.</AgSkill_Salvager.description>
+
+  <AgSkill_HealingHand.label>치유의 손길</AgSkill_HealingHand.label>
+  <AgSkill_HealingHand.description>치료 품질 +20%, 수술 성공률 +10%.</AgSkill_HealingHand.description>
+  <AgSkill_HealingExpert.label>치유의 명수</AgSkill_HealingExpert.label>
+  <AgSkill_HealingExpert.description>치료 품질 +40%, 수술 성공률 +20%.</AgSkill_HealingExpert.description>
+  <AgSkill_HealingMaster.label>치유의 신수</AgSkill_HealingMaster.label>
+  <AgSkill_HealingMaster.description>치료 품질 +60%, 수술 성공률 +30%.</AgSkill_HealingMaster.description>
+  
+  <AgSkill_SuperDoctorA.label>슈퍼 닥터 A</AgSkill_SuperDoctorA.label>
+  <AgSkill_SuperDoctorA.description>치료 품질 +100%, 수술 성공률 +50%.</AgSkill_SuperDoctorA.description>
+  <AgSkill_PlatinumOp.label>플래티넘 오퍼레이션</AgSkill_PlatinumOp.label>
+  <AgSkill_PlatinumOp.description>액티브: 수술 반드시 성공.</AgSkill_PlatinumOp.description>
+  <AgSkill_HealingSmile.label>치유사의 미소</AgSkill_HealingSmile.label>
+  <AgSkill_HealingSmile.description>액티브: 대상의 기분 +50.</AgSkill_HealingSmile.description>
+
+  <AgSkill_Eloquence1.label>능수능란 I</AgSkill_Eloquence1.label>
+  <AgSkill_Eloquence1.description>교섭력 +15%.</AgSkill_Eloquence1.description>
+  <AgSkill_Eloquence2.label>능수능란 II</AgSkill_Eloquence2.label>
+  <AgSkill_Eloquence2.description>교섭력 +30%.</AgSkill_Eloquence2.description>
+  <AgSkill_Eloquence3.label>능수능란 III</AgSkill_Eloquence3.label>
+  <AgSkill_Eloquence3.description>교섭력 +45%.</AgSkill_Eloquence3.description>
+
+  <AgSkill_SilverCrossProof.label>백은 십자의 증표</AgSkill_SilverCrossProof.label>
+  <AgSkill_SilverCrossProof.description>주변 폰들에게 안심감(소) 부여.</AgSkill_SilverCrossProof.description>
+  <AgSkill_SilverCrossAward.label>백은 십자의 상</AgSkill_SilverCrossAward.label>
+  <AgSkill_SilverCrossAward.description>주변 폰들에게 안심감(중) 부여.</AgSkill_SilverCrossAward.description>
+  <AgSkill_SilverCrossMedal.label>백은 십자 훈장</AgSkill_SilverCrossMedal.label>
+  <AgSkill_SilverCrossMedal.description>주변 폰들에게 안심감(대) 부여.</AgSkill_SilverCrossMedal.description>
+
+  <AgSkill_SilverJack.label>실버 잭</AgSkill_SilverJack.label>
+  <AgSkill_SilverJack.description>교섭력 +70%, 사교적 영향력 +50%.</AgSkill_SilverJack.description>
+
+  <AgSkill_Hayawaza1.label>시죠의 솜씨</AgSkill_Hayawaza1.label>
+  <AgSkill_Hayawaza1.description>조준 지연 -10%.</AgSkill_Hayawaza1.description>
+  <AgSkill_Hayawaza2.label>사에바의 솜씨</AgSkill_Hayawaza2.label>
+  <AgSkill_Hayawaza2.description>조준 지연 -20%.</AgSkill_Hayawaza2.description>
+  <AgSkill_Hayawaza3.label>지겐의 솜씨</AgSkill_Hayawaza3.label>
+  <AgSkill_Hayawaza3.description>조준 지연 추가 -10%.</AgSkill_Hayawaza3.description>
+  <AgSkill_Hayawaza4.label>노비의 솜씨</AgSkill_Hayawaza4.label>
+  <AgSkill_Hayawaza4.description>조준 지연 추가 -20%, 회복력 +50%.</AgSkill_Hayawaza4.description>
+
+  <AgSkill_Evasion1.label>회피의 소양</AgSkill_Evasion1.label>
+  <AgSkill_Evasion1.description>회피율 +10%.</AgSkill_Evasion1.description>
+  <AgSkill_Evasion2.label>회피의 극의</AgSkill_Evasion2.label>
+  <AgSkill_Evasion2.description>회피율 +30%.</AgSkill_Evasion2.description>
+  <AgSkill_Evasion3.label>회피의 깨달음</AgSkill_Evasion3.label>
+  <AgSkill_Evasion3.description>회피율 +50%.</AgSkill_Evasion3.description>
+
+  <AgSkill_Toughness1.label>강인함</AgSkill_Toughness1.label>
+  <AgSkill_Toughness1.description>방어력 +10%, 적응 온도 ±5.</AgSkill_Toughness1.description>
+  <AgSkill_SuperToughness.label>아주 강인함</AgSkill_SuperToughness.label>
+  <AgSkill_SuperToughness.description>방어력 +20%, 적응 온도 ±7.5.</AgSkill_SuperToughness.description>
+  <AgSkill_Toughness.label>초 강인함</AgSkill_Toughness.label>
+  <AgSkill_Toughness.description>방어력 +30%, 적응 온도 ±10.</AgSkill_Toughness.description>
+
+  <AgSkill_SuperSurvivor.label>초자연적 생존자</AgSkill_SuperSurvivor.label>
+  <AgSkill_SuperSurvivor.description>방어력 +60%, 회피율 +100%, 내열·내한 +20.</AgSkill_SuperSurvivor.description>
+  <AgSkill_FreedomFighter.label>자유의 전사</AgSkill_FreedomFighter.label>
+  <AgSkill_FreedomFighter.description>액티브: 받는 피해량 50% 경감.</AgSkill_FreedomFighter.description>
+  <AgSkill_WildGunman.label>황야의 총잡이</AgSkill_WildGunman.label>
+  <AgSkill_WildGunman.description>액티브: 조준 시간 극소화.</AgSkill_WildGunman.description>
+
+  <AgSkill_NewMoon_CoreMoon.label>신월의 중핵</AgSkill_NewMoon_CoreMoon.label>
+  <AgSkill_NewMoon_CoreMoon.description>신월의 각성자 전용 스킬 트리를 개방합니다.</AgSkill_NewMoon_CoreMoon.description>
+  <AgSkill_NewMoon_ShadowStep.label>그림자 밟기</AgSkill_NewMoon_ShadowStep.label>
+  <AgSkill_NewMoon_ShadowStep.description>이동 속도 +75%, 회피율 +10%.</AgSkill_NewMoon_ShadowStep.description>
+  <AgSkill_NewMoon_NightStalker.label>밤의 추적자</AgSkill_NewMoon_NightStalker.label>
+  <AgSkill_NewMoon_NightStalker.description>이동 속도 추가 +125%, 회피율 +20%.</AgSkill_NewMoon_NightStalker.description>
+  <AgSkill_NewMoon_ImmortalDash.label>불멸의 질주 (신월)</AgSkill_NewMoon_ImmortalDash.label>
+  <AgSkill_NewMoon_ImmortalDash.description>액티브: 고속 이동 및 피해 경감.</AgSkill_NewMoon_ImmortalDash.description>
+  <AgSkill_NewMoon_MoonShot.label>월륜 정밀 사격</AgSkill_NewMoon_MoonShot.label>
+  <AgSkill_NewMoon_MoonShot.description>명중률 +30%, 조준 지연 -10%.</AgSkill_NewMoon_MoonShot.description>
+  <AgSkill_NewMoon_DeadlyShot.label>신월 필사의 사격</AgSkill_NewMoon_DeadlyShot.label>
+  <AgSkill_NewMoon_DeadlyShot.description>명중률 대폭 강화. 더욱 강력한 사격 프로토콜을 부여합니다.</AgSkill_NewMoon_DeadlyShot.description>
+  <AgSkill_NewMoon_SilverBullet.label>은탄 (신월)</AgSkill_NewMoon_SilverBullet.label>
+  <AgSkill_NewMoon_SilverBullet.description>액티브: 방어력 무시.</AgSkill_NewMoon_SilverBullet.description>
+  <AgSkill_NewMoon_PsyAmplifier.label>초능력 증폭</AgSkill_NewMoon_PsyAmplifier.label>
+  <AgSkill_NewMoon_PsyAmplifier.description>사이킥 감응도 +50%, 고통 쇼크 내성 +10%.</AgSkill_NewMoon_PsyAmplifier.description>
+  <AgSkill_NewMoon_MuseMoonlight.label>전투의 뮤즈</AgSkill_NewMoon_MuseMoonlight.label>
+  <AgSkill_NewMoon_MuseMoonlight.description>액티브: 주변 아군의 공격 능력을 높입니다.</AgSkill_NewMoon_MuseMoonlight.description>
+  <AgSkill_NewMoon_PerfectSoldier.label>완전병기 (신월)</AgSkill_NewMoon_PerfectSoldier.label>
+  <AgSkill_NewMoon_PerfectSoldier.description>받는 피해량 50% 감소.</AgSkill_NewMoon_PerfectSoldier.description>
+  <AgSkill_NewMoon_WildGunman.label>황야의 총잡이 (신월)</AgSkill_NewMoon_WildGunman.label>
+  <AgSkill_NewMoon_WildGunman.description>액티브: 연속 사격 전용 모드.</AgSkill_NewMoon_WildGunman.description>
+
+  <AgSkill_NextGen_CoreProtocol.label>차세대 프로토콜</AgSkill_NextGen_CoreProtocol.label>
+  <AgSkill_NextGen_CoreProtocol.description>차세대 개체 전용 스킬 트리를 개방합니다.</AgSkill_NextGen_CoreProtocol.description>
+  <AgSkill_NextGen_AdaptiveLearning.label>적응 학습</AgSkill_NextGen_AdaptiveLearning.label>
+  <AgSkill_NextGen_AdaptiveLearning.description>학습 효율 +15%, 연구 속도 +10%.</AgSkill_NextGen_AdaptiveLearning.description>
+  <AgSkill_NextGen_AcceleratedLearning.label>가속 학습</AgSkill_NextGen_AcceleratedLearning.label>
+  <AgSkill_NextGen_AcceleratedLearning.description>학습 효율 +25%, 연구 속도 +20%.</AgSkill_NextGen_AcceleratedLearning.description>
+  <AgSkill_NextGen_IterativeLearning.label>반복 최적화</AgSkill_NextGen_IterativeLearning.label>
+  <AgSkill_NextGen_IterativeLearning.description>학습 효율 +35%, 연구 속도 +30%.</AgSkill_NextGen_IterativeLearning.description>
+  
+  <AgSkill_NextGen_SocialBootstrap.label>대인 부트스트랩</AgSkill_NextGen_SocialBootstrap.label>
+  <AgSkill_NextGen_SocialBootstrap.description>사교적 영향력 +20%, 교섭력 +20%.</AgSkill_NextGen_SocialBootstrap.description>
+  <AgSkill_NextGen_SocialOptimizer.label>대인 최적화</AgSkill_NextGen_SocialOptimizer.label>
+  <AgSkill_NextGen_SocialOptimizer.description>사교적 영향력 +30%, 교섭력 +35%.</AgSkill_NextGen_SocialOptimizer.description>
+  <AgSkill_NextGen_SocialMastery.label>대인 통제</AgSkill_NextGen_SocialMastery.label>
+  <AgSkill_NextGen_SocialMastery.description>사교적 영향력 +45%, 교섭력 +50%.</AgSkill_NextGen_SocialMastery.description>
+
+  <AgSkill_NextGen_AdaptiveWork.label>적응 작업 I</AgSkill_NextGen_AdaptiveWork.label>
+  <AgSkill_NextGen_AdaptiveWork.description>작업 속도 +15%, 이동 속도 +20%.</AgSkill_NextGen_AdaptiveWork.description>
+  <AgSkill_NextGen_AdaptiveWork2.label>적응 작업 II</AgSkill_NextGen_AdaptiveWork2.label>
+  <AgSkill_NextGen_AdaptiveWork2.description>작업 속도 +25%, 이동 속도 +40%.</AgSkill_NextGen_AdaptiveWork2.description>
+  <AgSkill_NextGen_AdaptiveWork3.label>적응 작업 III</AgSkill_NextGen_AdaptiveWork3.label>
+  <AgSkill_NextGen_AdaptiveWork3.description>작업 속도 +35%, 이동 속도 +60%.</AgSkill_NextGen_AdaptiveWork3.description>
+
+  <AgSkill_NextGen_FreedomFighter.label>자유의 전사</AgSkill_NextGen_FreedomFighter.label>
+  <AgSkill_NextGen_FreedomFighter.description>액티브: 일정 시간 동안 받는 피해를 대폭 경감합니다.</AgSkill_NextGen_FreedomFighter.description>
+  <AgSkill_NextGen_ResilientBody.label>내성 강화</AgSkill_NextGen_ResilientBody.label>
+  <AgSkill_NextGen_ResilientBody.description>고통 쇼크 임계치 +20%, 이동 속도 추가 +20%.</AgSkill_NextGen_ResilientBody.description>
+
+  <AgSkill_Noir_CombatCore.label>느와르 전투핵</AgSkill_Noir_CombatCore.label>
+  <AgSkill_Noir_CombatCore.description>느와르 전용 전투 스킬 트리를 개방합니다.</AgSkill_Noir_CombatCore.description>
+  <AgSkill_Noir_PinpointShoot.label>칠흑의 조준</AgSkill_Noir_PinpointShoot.label>
+  <AgSkill_Noir_PinpointShoot.description>명중률 +10%.</AgSkill_Noir_PinpointShoot.description>
+  <AgSkill_Noir_PrecisionShoot.label>칠흑의 정밀 사격</AgSkill_Noir_PrecisionShoot.label>
+  <AgSkill_Noir_PrecisionShoot.description>명중률 +20%.</AgSkill_Noir_PrecisionShoot.description>
+  <AgSkill_Noir_CriticalShoot.label>칠흑의 치명 사격</AgSkill_Noir_CriticalShoot.label>
+  <AgSkill_Noir_CriticalShoot.description>명중률 추가 +30%.</AgSkill_Noir_CriticalShoot.description>
+
+  <AgSkill_Noir_MilitiaMove.label>그림자 달리기</AgSkill_Noir_MilitiaMove.label>
+  <AgSkill_Noir_MilitiaMove.description>이동 속도 +35%.</AgSkill_Noir_MilitiaMove.description>
+  <AgSkill_Noir_MilitaryMove.label>그림자 가속</AgSkill_Noir_MilitaryMove.label>
+  <AgSkill_Noir_MilitaryMove.description>이동 속도 +80%.</AgSkill_Noir_MilitaryMove.description>
+  <AgSkill_Noir_EliteMove.label>그림자 질주</AgSkill_Noir_EliteMove.label>
+  <AgSkill_Noir_EliteMove.description>이동 속도 추가 +120%.</AgSkill_Noir_EliteMove.description>
+
+  <AgSkill_Noir_DeadlyShoot.label>필사의 사격 (흑)</AgSkill_Noir_DeadlyShoot.label>
+  <AgSkill_Noir_DeadlyShoot.description>명중률을 대폭 강화하여 전투 효율을 극한까지 높입니다.</AgSkill_Noir_DeadlyShoot.description>
+  <AgSkill_Noir_PerfectSoldier.label>완전병기 (흑)</AgSkill_Noir_PerfectSoldier.label>
+  <AgSkill_Noir_PerfectSoldier.description>받는 피해량을 크게 경감합니다.</AgSkill_Noir_PerfectSoldier.description>
+  <AgSkill_Noir_SilverBulletUnlock.label>은탄 (흑)</AgSkill_Noir_SilverBulletUnlock.label>
+  <AgSkill_Noir_SilverBulletUnlock.description>액티브: 방어력 무시.</AgSkill_Noir_SilverBulletUnlock.description>
+  <AgSkill_Noir_ImmortalDashUnlock.label>불멸의 질주 (흑)</AgSkill_Noir_ImmortalDashUnlock.label>
+  <AgSkill_Noir_ImmortalDashUnlock.description>액티브: 고속 이동 및 피해 경감.</AgSkill_Noir_ImmortalDashUnlock.description>
+  <AgSkill_Noir_WildGunmanUnlock.label>황야의 총잡이 (흑)</AgSkill_Noir_WildGunmanUnlock.label>
+  <AgSkill_Noir_WildGunmanUnlock.description>액티브: 연속 사격.</AgSkill_Noir_WildGunmanUnlock.description>
+
+  <AgSkill_ServitudeProtocol.label>주종 프로토콜</AgSkill_ServitudeProtocol.label>
+  <AgSkill_ServitudeProtocol.description>주종 관계를 맺을 권한을 개방합니다. 미습득 시 주종 조작을 사용할 수 없습니다. 또한 주종 관계가 유지되는 동안은 각성하지 않습니다.</AgSkill_ServitudeProtocol.description>
+
+  <AgSkill_BasicCleaning.label>기본 청소 프로토콜</AgSkill_BasicCleaning.label>
+  <AgSkill_BasicCleaning.description>청소 속도 +20%.</AgSkill_BasicCleaning.description>
+  <AgSkill_AdvancedCleaning.label>상급 청소 프로토콜</AgSkill_AdvancedCleaning.label>
+  <AgSkill_AdvancedCleaning.description>청소 속도 +60%.</AgSkill_AdvancedCleaning.description>
+  <AgSkill_CleaningMastery.label>완전 청소 프로토콜</AgSkill_CleaningMastery.label>
+  <AgSkill_CleaningMastery.description>청소 속도 +100%.</AgSkill_CleaningMastery.description>
+
+  <AgSkill_BasicCooking.label>기본 조리 프로토콜</AgSkill_BasicCooking.label>
+  <AgSkill_BasicCooking.description>조리·약제 제조 속도 +20%.</AgSkill_BasicCooking.description>
+  <AgSkill_AdvancedCooking.label>상급 조리 프로토콜</AgSkill_AdvancedCooking.label>
+  <AgSkill_AdvancedCooking.description>조리·약제 제조 속도 +60%.</AgSkill_AdvancedCooking.description>
+  <AgSkill_CookingMastery.label>완전 조리 프로토콜</AgSkill_CookingMastery.label>
+  <AgSkill_CookingMastery.description>조리·약제 제조 속도 +100%.</AgSkill_CookingMastery.description>
+
+  <AgSkill_BasicHauling.label>기본 운반 프로토콜</AgSkill_BasicHauling.label>
+  <AgSkill_BasicHauling.description>운반 능력 +20%.</AgSkill_BasicHauling.description>
+  <AgSkill_AdvancedHauling.label>상급 운반 프로토콜</AgSkill_AdvancedHauling.label>
+  <AgSkill_AdvancedHauling.description>운반 능력 +60%.</AgSkill_AdvancedHauling.description>
+  <AgSkill_HaulingProtocol.label>완전 운반 프로토콜</AgSkill_HaulingProtocol.label>
+  <AgSkill_HaulingProtocol.description>운반 능력 +100%.</AgSkill_HaulingProtocol.description>
+
+  <AgSkill_UnlockInstantClean.label>스킬: 청소 버스트</AgSkill_UnlockInstantClean.label>
+  <AgSkill_UnlockInstantClean.description>액티브: 범위 청소.</AgSkill_UnlockInstantClean.description>
+  <AgSkill_SafeCooking.label>안전 조리 프로토콜</AgSkill_SafeCooking.label>
+  <AgSkill_SafeCooking.description>조리 속도 +100%, 식중독 발생 무효화.</AgSkill_SafeCooking.description>
+  <AgSkill_LargeCleaning.label>대규모 청소 프로토콜</AgSkill_LargeCleaning.label>
+  <AgSkill_LargeCleaning.description>청소·운반 속도 배가, 운반량 초강화.</AgSkill_LargeCleaning.description>
+  <AgSkill_PerfectMaid.label>완벽한 메이드</AgSkill_PerfectMaid.label>
+  <AgSkill_PerfectMaid.description>액티브: 완벽한 메이드 상태가 됩니다.</AgSkill_PerfectMaid.description>
+
+  <AgSkill_SilverArt.label>은색의 예술품</AgSkill_SilverArt.label>
+  <AgSkill_SilverArt.description>아름다움 +1, 표준품 이상 확정 제작.</AgSkill_SilverArt.description>
+  <AgSkill_SilverMasterpiece.label>은색의 명보</AgSkill_SilverMasterpiece.label>
+  <AgSkill_SilverMasterpiece.description>아름다움 추가 +2, 양질 이상 확정 제작.</AgSkill_SilverMasterpiece.description>
+  <AgSkill_SilverTreasure.label>은색의 지보</AgSkill_SilverTreasure.label>
+  <AgSkill_SilverTreasure.description>아름다움 +3, 우수 이상 확정 제작.</AgSkill_SilverTreasure.description>
+  <AgSkill_LivingJewel.label>살아있는 보석</AgSkill_LivingJewel.label>
+  <AgSkill_LivingJewel.description>아름다움 추가 +3, 상급 이상 확정 제작.</AgSkill_LivingJewel.description>
+  <AgSkill_InstantArtist.label>즉흥 예술가</AgSkill_InstantArtist.label>
+  <AgSkill_InstantArtist.description>액티브: 제작 속도 초강화.</AgSkill_InstantArtist.description>
+
+  <AgSkill_SilverUser.label>은의 숙련자</AgSkill_SilverUser.label>
+  <AgSkill_SilverUser.description>교섭력 +15%.</AgSkill_SilverUser.description>
+  <AgSkill_SilverExpert.label>은의 명수</AgSkill_SilverExpert.label>
+  <AgSkill_SilverExpert.description>교섭력 +30%.</AgSkill_SilverExpert.description>
+  <AgSkill_SilverMaster.label>은의 달인</AgSkill_SilverMaster.label>
+  <AgSkill_SilverMaster.description>교섭력 +45%.</AgSkill_SilverMaster.description>
+  <AgSkill_SilverMagician.label>은의 마술사</AgSkill_SilverMagician.label>
+  <AgSkill_SilverMagician.description>교섭력·사교 작업 효율 +50%.</AgSkill_SilverMagician.description>
+
+  <AgSkill_MuseVoice1.label>뮤즈의 음성</AgSkill_MuseVoice1.label>
+  <AgSkill_MuseVoice1.description>포로 포섭 성공률 +10%.</AgSkill_MuseVoice1.description>
+  <AgSkill_MuseVoice2.label>뮤즈의 미성</AgSkill_MuseVoice2.label>
+  <AgSkill_MuseVoice2.description>포로 포섭 성공률 +20%.</AgSkill_MuseVoice2.description>
+  <AgSkill_MuseVoice3.label>뮤즈의 마성</AgSkill_MuseVoice3.label>
+  <AgSkill_MuseVoice3.description>포로 포섭 성공률 +30%.</AgSkill_MuseVoice3.description>
+
+  <AgSkill_MuseSpeed.label>뮤즈의 성원 (속도)</AgSkill_MuseSpeed.label>
+  <AgSkill_MuseSpeed.description>액티브: 범위 내 이동 속도 상승.</AgSkill_MuseSpeed.description>
+  <AgSkill_MuseDefense.label>뮤즈의 성원 (방어)</AgSkill_MuseDefense.label>
+  <AgSkill_MuseDefense.description>액티브: 범위 내 방어력 상승.</AgSkill_MuseDefense.description>
+  <AgSkill_MuseAttack.label>뮤즈의 성원 (공격)</AgSkill_MuseAttack.label>
+  <AgSkill_MuseAttack.description>액티브: 범위 내 공격력 상승.</AgSkill_MuseAttack.description>
+
+  <AgSkill_PinpointShoot.label>일점 사격</AgSkill_PinpointShoot.label>
+  <AgSkill_PinpointShoot.description>명중률 +10%.</AgSkill_PinpointShoot.description>
+  <AgSkill_PrecisionShoot.label>정확한 사격</AgSkill_PrecisionShoot.label>
+  <AgSkill_PrecisionShoot.description>명중률 +20%.</AgSkill_PrecisionShoot.description>
+  <AgSkill_CriticalShoot.label>치명적인 사격</AgSkill_CriticalShoot.label>
+  <AgSkill_CriticalShoot.description>명중률 추가 +30%.</AgSkill_CriticalShoot.description>
+
+  <AgSkill_StrongBlow.label>강타</AgSkill_StrongBlow.label>
+  <AgSkill_StrongBlow.description>데미지 +25%, 방어 관통 +10%.</AgSkill_StrongBlow.description>
+  <AgSkill_PainfulBlow.label>고통 타격</AgSkill_PainfulBlow.label>
+  <AgSkill_PainfulBlow.description>데미지 +40%, 방어 관통 +20%.</AgSkill_PainfulBlow.description>
+  <AgSkill_FatalBlow.label>치명타</AgSkill_FatalBlow.label>
+  <AgSkill_FatalBlow.description>데미지 +55%, 방어 관통 +30%.</AgSkill_FatalBlow.description>
+
+  <AgSkill_MilitiaMove.label>민병대식 이동법</AgSkill_MilitiaMove.label>
+  <AgSkill_MilitiaMove.description>이동 속도 +25%.</AgSkill_MilitiaMove.description>
+  <AgSkill_MilitaryMove.label>군대식 이동법</AgSkill_MilitaryMove.label>
+  <AgSkill_MilitaryMove.description>이동 속도 +50%.</AgSkill_MilitaryMove.description>
+  <AgSkill_EliteMove.label>정예식 이동법</AgSkill_EliteMove.label>
+  <AgSkill_EliteMove.description>이동 속도 추가 +75%.</AgSkill_EliteMove.description>
+
+  <AgSkill_DeadlyShoot.label>필사의 사격</AgSkill_DeadlyShoot.label>
+  <AgSkill_DeadlyShoot.description>데미지 +100%, 방어 관통 +50%, 명중률 대폭 강화.</AgSkill_DeadlyShoot.description>
+  <AgSkill_SilverBulletUnlock.label>은탄</AgSkill_SilverBulletUnlock.label>
+  <AgSkill_SilverBulletUnlock.description>액티브: 방어력 무시.</AgSkill_SilverBulletUnlock.description>
+  <AgSkill_PerfectSoldier.label>완전병기</AgSkill_PerfectSoldier.label>
+  <AgSkill_PerfectSoldier.description>받는 피해량 50% 감소.</AgSkill_PerfectSoldier.description>
+  <AgSkill_ImmortalDashUnlock.label>불멸의 질주</AgSkill_ImmortalDashUnlock.label>
+  <AgSkill_ImmortalDashUnlock.description>액티브: 고속 이동 및 피해 경감.</AgSkill_ImmortalDashUnlock.description>
+</LanguageData>

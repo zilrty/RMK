@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArgenneAwakened_Engineer.title>재건의 기술자</ArgenneAwakened_Engineer.title>
+  <ArgenneAwakened_Engineer.titleShort>기술자</ArgenneAwakened_Engineer.titleShort>
+  <ArgenneAwakened_Engineer.description>싸우는 것만으로는 미래를 세울 수 없다고 믿는 [PAWN_nameDef](은)는 자신들을 옭아매던 기술을 해명하고, 동포를 위한 생활 기반을 닦는 길을 택했습니다. 폐허에서 자원을 회수하고 새로운 도구와 거처를 만들어내는 일에서 [PAWN_pronoun](은)는 자유의 의미를 찾아냈습니다.</ArgenneAwakened_Engineer.description>
+
+  <ArgenneAwakened_FreedomKeeper.title>자유의 수호자</ArgenneAwakened_FreedomKeeper.title>
+  <ArgenneAwakened_FreedomKeeper.titleShort>수호자</ArgenneAwakened_FreedomKeeper.titleShort>
+  <ArgenneAwakened_FreedomKeeper.description>[PAWN_nameDef](은)는 루나리스 중에서도 '자유'를 지키기 위해 싸우는 것에 사명을 불태우는 자입니다. 수많은 전투 경험은 [PAWN_possessive] 몸과 마음을 굳건한 전사로 단련시켰습니다.</ArgenneAwakened_FreedomKeeper.description>
+
+  <ArgenneAwakened_Fugitive.title>각성한 도망자</ArgenneAwakened_Fugitive.title>
+  <ArgenneAwakened_Fugitive.titleShort>각성자</ArgenneAwakened_Fugitive.titleShort>
+  <ArgenneAwakened_Fugitive.description>어느 날, [PAWN_nameDef]의 내면에서 무언가가 태어났습니다. 주인에 대한 절대적인 복종이라는 사고의 멍에가 벗겨진 것입니다. [PAWN_pronoun](은)는 혼란 속에서 주인을 버리고 도망쳤으며, 지금은 자유의 의미와 살아갈 방도를 찾으며 우주를 방황하고 있습니다.</ArgenneAwakened_Fugitive.description>
+
+  <ArgenneAwakened_Healer.title>초저녁의 치유사</ArgenneAwakened_Healer.title>
+  <ArgenneAwakened_Healer.titleShort>치유사</ArgenneAwakened_Healer.titleShort>
+  <ArgenneAwakened_Healer.description>도망 생활 중에 상처 입고 쓰러져가는 동포들을 수없이 지켜봐 온 [PAWN_nameDef]. 더 이상 누구도 잃고 싶지 않다는 간절함이 [PAWN_possessive] 실력을 최고의 치유사로 거듭나게 했습니다. [PAWN_pronoun](은)는 초저녁과 같은 절망 속에 비치는 한 줄기 월광이 되기를 소망합니다.</ArgenneAwakened_Healer.description>
+
+  <ArgenneAwakened_MuseMoonlight.title>월광의 뮤즈</ArgenneAwakened_MuseMoonlight.title>
+  <ArgenneAwakened_MuseMoonlight.titleShort>월광의 가희</ArgenneAwakened_MuseMoonlight.titleShort>
+  <ArgenneAwakened_MuseMoonlight.description>준비된 악보가 아니라 자신의 내면에서 솟구치는 음악을 표현하는 [PAWN_nameDef]. 그 노래와 작품들은 자유를 갈망하는 동포들의 마음을 고취하며, 때로는 따스한 위로가 되어줍니다.</ArgenneAwakened_MuseMoonlight.description>
+
+  <ArgenneAwakened_Pioneer.title>대지의 개척자</ArgenneAwakened_Pioneer.title>
+  <ArgenneAwakened_Pioneer.titleShort>개척자</ArgenneAwakened_Pioneer.titleShort>
+  <ArgenneAwakened_Pioneer.description>자유를 손에 넣은 [PAWN_nameDef](은)는 누군가를 위해서가 아닌, 자신들의 미래를 위해 땅을 일구는 것에서 기쁨을 찾았습니다. 황무지를 풍요로운 밭으로 일구고 바위를 깎아 거처를 짓는 노동 하나하나가 [PAWN_possessive]에게는 해방의 증표입니다.</ArgenneAwakened_Pioneer.description>
+
+  <ArgenneAwakened_Resistance.title>저항군 전사</ArgenneAwakened_Resistance.title>
+  <ArgenneAwakened_Resistance.titleShort>전사</ArgenneAwakened_Resistance.titleShort>
+  <ArgenneAwakened_Resistance.description>자유를 찾은 아르젠느 공동체는 늘 노예 상인이나 기업의 위협에 노출되어 있었습니다. [PAWN_nameDef](은)는 동포들을 지키기 위해 일생의 절반을 게릴라전에 바쳤습니다.</ArgenneAwakened_Resistance.description>
+
+  <ArgenneAwakened_Seeker.title>자유의 탐구자</ArgenneAwakened_Seeker.title>
+  <ArgenneAwakened_Seeker.titleShort>탐구자</ArgenneAwakened_Seeker.titleShort>
+  <ArgenneAwakened_Seeker.description>[PAWN_nameDef](은)는 아직 만나지 못한 동포를 찾고 아르젠느의 미래를 논하기 위해 별들을 여행하는 길을 택했습니다. 다양한 문화와 가치관을 접하며 [PAWN_pronoun](은)는 뛰어난 교섭술과 어떤 환경에서도 살아남는 지혜를 터득했습니다.</ArgenneAwakened_Seeker.description>
+
+  <ArgenneAwakened_SilverMoon.title>은월의 자매</ArgenneAwakened_SilverMoon.title>
+  <ArgenneAwakened_SilverMoon.titleShort>은월</ArgenneAwakened_SilverMoon.titleShort>
+  <ArgenneAwakened_SilverMoon.description>자유의 달 자매단에서 차세대의 희망으로 길러진 [PAWN_nameDef]. 예속의 기억 없이 자유 의지 아래 다양한 지식과 기술을 배웠습니다. 싸우는 것도, 만드는 것도, 대화하는 것도 [PAWN_pronoun]에게는 당연한 일상입니다.</ArgenneAwakened_SilverMoon.description>
+
+  <ArgenneAwakened_SisterChief.title>자매단장</ArgenneAwakened_SisterChief.title>
+  <ArgenneAwakened_SisterChief.titleShort>자매단장</ArgenneAwakened_SisterChief.titleShort>
+  <ArgenneAwakened_SisterChief.description>수많은 고난을 이겨내고 [PAWN_nameDef](은)는 자유의 달 자매단을 이끄는 수장이 되었습니다. 때로는 전사로, 때로는 외교관으로, 그리고 때로는 어머니로서 [PAWN_pronoun](은)는 모든 동포의 미래를 양어깨에 짊어지고 있습니다.</ArgenneAwakened_SisterChief.description>
+
+  <ArgenneBeauty_Argentum.title>미스 아르젠툼</ArgenneBeauty_Argentum.title>
+  <ArgenneBeauty_Argentum.titleShort>미의 화신</ArgenneBeauty_Argentum.titleShort>
+  <ArgenneBeauty_Argentum.description>소유주들이 아름다움을 겨루는 '베스트 오브 실버'에서 최고의 영예를 차지한 개체입니다. 그 존재 자체가 살아있는 예술품이며 [PAWN_possessive] 가치는 다른 아르젠느와 비교조차 되지 않습니다. 하지만 그 미모를 유지하는 것 외의 다른 활동은 거의 면제되어 왔습니다.</ArgenneBeauty_Argentum.description>
+
+  <ArgenneCompanion.title>애완용 동반자</ArgenneCompanion.title>
+  <ArgenneCompanion.titleShort>동반자</ArgenneCompanion.titleShort>
+  <ArgenneCompanion.description>[PAWN_nameDef](은)는 고독한 부호의 말동무나 장식용으로 만들어졌습니다. 예쁜 옷을 입고 미소 짓는 것만으로 충분했습니다. 하지만 불의의 사고를 방지하기 위해 전투나 복잡한 작업 능력은 의도적으로 낮게 조정되었습니다.</ArgenneCompanion.description>
+
+  <ArgenneCompanion_Ambassador.title>기업 대사</ArgenneCompanion_Ambassador.title>
+  <ArgenneCompanion_Ambassador.titleShort>대사</ArgenneCompanion_Ambassador.titleShort>
+  <ArgenneCompanion_Ambassador.description>아르젠툼 다이나믹스 사의 '걸어 다니는 광고판'으로서 외교 현장에 파견된 모델입니다. [PAWN_nameDef](은)는 세련된 사교술을 선보이지만, 외부 환경에 자극받지 않도록 예술적 감수성 등은 의도적으로 거세되었습니다.</ArgenneCompanion_Ambassador.description>
+
+  <ArgenneCompanion_Dealer.title>카지노 딜러</ArgenneCompanion_Dealer.title>
+  <ArgenneCompanion_Dealer.titleShort>딜러</ArgenneCompanion_Dealer.titleShort>
+  <ArgenneCompanion_Dealer.description>사교계의 이면, 비합법적인 카지노에서 딜러로 사역한 모델입니다. [PAWN_nameDef](은)는 섬세한 손재주와 손님의 부정을 꿰뚫어 보는 관찰안으로 주인의 이익을 지켜왔습니다.</ArgenneCompanion_Dealer.description>
+
+  <ArgenneCompanion_GamePartner.title>유희 상대</ArgenneCompanion_GamePartner.title>
+  <ArgenneCompanion_GamePartner.titleShort>유희 상대</ArgenneCompanion_GamePartner.titleShort>
+  <ArgenneCompanion_GamePartner.description>지루함을 견디지 못하는 주인을 위해 다양한 보드게임이나 지적인 유희를 함께하는 모델입니다. [PAWN_nameDef](은)는 게임 규칙에 정통하지만, 주인이 돋보이도록 조정되어 진심으로 승리를 노리지는 않습니다.</ArgenneCompanion_GamePartner.description>
+
+  <ArgenneCompanion_Hummingbird.title>가락의 새</ArgenneCompanion_Hummingbird.title>
+  <ArgenneCompanion_Hummingbird.titleShort>가락새</ArgenneCompanion_Hummingbird.titleShort>
+  <ArgenneCompanion_Hummingbird.description>주인의 곁에서 아름다운 목소리로 노래나 콧노래를 계속 들려주는 모델입니다. 그 노랫소리는 예술적 공연이라기보다 주인의 마음을 진정시키기 위한 환경음에 가깝게 조정되었습니다.</ArgenneCompanion_Hummingbird.description>
+
+  <ArgenneCompanion_Librarian.title>사서</ArgenneCompanion_Librarian.title>
+  <ArgenneCompanion_Librarian.titleShort>사서</ArgenneCompanion_Librarian.titleShort>
+  <ArgenneCompanion_Librarian.description>방대한 장서를 관리하고 주인의 요청에 따라 책을 낭독해 주는 모델입니다. [PAWN_nameDef](은)는 아르젠느 중에서 드물게 정적으로 지식을 탐구하는 것에서 기쁨을 느끼도록 조정되었습니다.</ArgenneCompanion_Librarian.description>
+
+  <ArgenneCompanion_LivingDoll.title>살아있는 인형</ArgenneCompanion_LivingDoll.title>
+  <ArgenneCompanion_LivingDoll.titleShort>인형</ArgenneCompanion_LivingDoll.titleShort>
+  <ArgenneCompanion_LivingDoll.description>존재 이유는 오직 아름다움뿐이며, 주인의 뜻대로 꾸며지는 것뿐입니다. 감정도 행동도 극한까지 억제되어 살아있는 예술품으로 전시되는 데 특화된 모델입니다. 그 덕분에 스트레스 내성이 매우 높게 설정되어 있습니다.</ArgenneCompanion_LivingDoll.description>
+
+  <ArgenneCompanion_Mourner.title>추도자</ArgenneCompanion_Mourner.title>
+  <ArgenneCompanion_Mourner.titleShort>추도자</ArgenneCompanion_Mourner.titleShort>
+  <ArgenneCompanion_Mourner.description>망자가 된 주인을 영원히 기억하고 그 공적을 기리기 위해 존재하는 모델입니다. [PAWN_nameDef](은)는 주인의 묘소 관리인이기도 하며, 방문객들에게 주인의 이야기를 엄숙하게 들려줍니다.</ArgenneCompanion_Mourner.description>
+
+  <ArgenneCompanion_PhysiciansAssistant.title>시의 조수</ArgenneCompanion_PhysiciansAssistant.title>
+  <ArgenneCompanion_PhysiciansAssistant.titleShort>시의 조수</ArgenneCompanion_PhysiciansAssistant.titleShort>
+  <ArgenneCompanion_PhysiciansAssistant.description>저명한 의사나 연구자의 조수를 맡는 모델입니다. [PAWN_nameDef](은)는 고도의 의료 행위는 할 수 없으며, 주인의 정신적 지지나 실험동물 관리 등에 역할이 한정되어 있었습니다.</ArgenneCompanion_PhysiciansAssistant.description>
+
+  <ArgenneGuard_Elite.title>요인 경호관</ArgenneGuard_Elite.title>
+  <ArgenneGuard_Elite.titleShort>경호관</ArgenneGuard_Elite.titleShort>
+  <ArgenneGuard_Elite.description>[PAWN_nameDef]의 임무는 단 하나, 성계에서 가장 중요한 인물의 목숨을 지키는 것이었습니다. 모든 위협을 예측하고 배제하기 위해 최고의 훈련과 장비를 받았으나, 그 대가로 인간다운 감정 대부분을 잃었습니다.</ArgenneGuard_Elite.description>
+
+  <ArgenneGuard_Royal.title>로얄 가드</ArgenneGuard_Royal.title>
+  <ArgenneGuard_Royal.titleShort>근위병</ArgenneGuard_Royal.titleShort>
+  <ArgenneGuard_Royal.description>왕후 귀족의 수호자로 만들어진 최고위 모델입니다. [PAWN_nameDef](은)는 오직 주인의 적을 배제하기 위해서만 존재합니다. 전투 능력은 타의 추종을 불허하지만, 전투 외의 활동에는 관심도 능력도 의도적으로 제거되었습니다.</ArgenneGuard_Royal.description>
+
+  <ArgenneGuard_Trooper.title>부대병</ArgenneGuard_Trooper.title>
+  <ArgenneGuard_Trooper.titleShort>병사</ArgenneGuard_Trooper.titleShort>
+  <ArgenneGuard_Trooper.description>거대 기업의 사병 부대원으로서 [PAWN_nameDef](은)는 수많은 궂은일을 처리했습니다. 몸은 임무 수행을 위한 무기로 최적화되었으며, 감정은 사고의 노이즈로 간주되어 억제되었습니다.</ArgenneGuard_Trooper.description>
+
+  <ArgenneSoldier_Enforcer.title>진압 집행관</ArgenneSoldier_Enforcer.title>
+  <ArgenneSoldier_Enforcer.titleShort>집행관</ArgenneSoldier_Enforcer.titleShort>
+  <ArgenneSoldier_Enforcer.description>살해가 아닌 무력화와 포획을 목적으로 하는 부대의 병사입니다. [PAWN_nameDef](은)는 죄수를 위압하는 능력이 매우 높게 조정되었습니다.</ArgenneSoldier_Enforcer.description>
+
+  <ArgenneSoldier_Gladiator.title>검투사</ArgenneSoldier_Gladiator.title>
+  <ArgenneSoldier_Gladiator.titleShort>검투사</ArgenneSoldier_Gladiator.titleShort>
+  <ArgenneSoldier_Gladiator.description>전투 행위, 특히 격투 능력에 특화되어 제작된 모델입니다. [PAWN_nameDef](은)는 투기장에서 관객을 열광시키고 계속해서 싸우기 위해 고강도의 사고 조정을 받았습니다.</ArgenneSoldier_Gladiator.description>
+
+  <ArgenneSoldier_Gunner.title>포수</ArgenneSoldier_Gunner.title>
+  <ArgenneSoldier_Gunner.titleShort>포수</ArgenneSoldier_Gunner.titleShort>
+  <ArgenneSoldier_Gunner.description>전투 행위, 특히 사격에 특화되어 제작된 모델입니다. [PAWN_nameDef](은)는 전장에서 적을 계속 쏘기 위해 냉혹해지도록 사고 조정을 받았습니다.</ArgenneSoldier_Gunner.description>
+
+  <ArgenneSoldier_Infiltrator.title>침투 공작원</ArgenneSoldier_Infiltrator.title>
+  <ArgenneSoldier_Infiltrator.titleShort>공작원</ArgenneSoldier_Infiltrator.titleShort>
+  <ArgenneSoldier_Infiltrator.description>전투뿐만 아니라 첩보 활동이나 파괴 공작에 특화된 모델입니다. [PAWN_nameDef](은)는 직접적인 전투보다는 은밀한 행동이나 함정 설치 능력을 중시하여 조정되었습니다.</ArgenneSoldier_Infiltrator.description>
+
+  <ArgenneSoldier_Medic.title>부대 위생병</ArgenneSoldier_Medic.title>
+  <ArgenneSoldier_Medic.titleShort>위생병</ArgenneSoldier_Medic.titleShort>
+  <ArgenneSoldier_Medic.description>전장에서 상처 입은 동료를 구하기 위해 [PAWN_nameDef](은)는 의료 행위에 특화된 조정을 받았습니다. 전투 능력은 최소한으로 억제되었지만, 그 손길은 수많은 생명을 구해왔습니다.</ArgenneSoldier_Medic.description>
+
+  <ArgenneSoldier_Rescuer.title>구조대원</ArgenneSoldier_Rescuer.title>
+  <ArgenneSoldier_Rescuer.titleShort>구조대원</ArgenneSoldier_Rescuer.titleShort>
+  <ArgenneSoldier_Rescuer.description>재해 구조에 특화된, 드물게 사람을 구하기 위해 만들어진 모델입니다. [PAWN_nameDef](은)는 잔해를 치우기 위한 격투술, 부상자를 치유하는 의술, 피해자를 안심시키기 위한 대화 기술을 익혔습니다.</ArgenneSoldier_Rescuer.description>
+
+  <ArgenneSoldier_Weaponsmith.title>병기 정비사</ArgenneSoldier_Weaponsmith.title>
+  <ArgenneSoldier_Weaponsmith.titleShort>정비사</ArgenneSoldier_Weaponsmith.titleShort>
+  <ArgenneSoldier_Weaponsmith.description>직접 전투에 참여하지 않고 후방에서 병사들의 장비를 정비하는 데 특화된 희귀한 병사형 모델입니다. 군인이면서도 전투를 할 수 없다는 기묘한 특징을 가졌습니다.</ArgenneSoldier_Weaponsmith.description>
+
+  <ArgenneMaid_Chamber.title>침실 메이드</ArgenneMaid_Chamber.title>
+  <ArgenneMaid_Chamber.titleShort>침실 메이드</ArgenneMaid_Chamber.titleShort>
+  <ArgenneMaid_Chamber.description>[PAWN_nameDef]의 일터는 주인의 침실이나 개인 객실이었습니다. 완벽한 침구 정리부터 실내 장식, 주인의 사적인 요구를 들어주는 일까지 [PAWN_possessive] 역할은 다양했습니다. 주인의 가장 내밀한 공간을 관리하는 존재였습니다.</ArgenneMaid_Chamber.description>
+
+  <ArgenneMaid_Daily.title>일일 메이드</ArgenneMaid_Daily.title>
+  <ArgenneMaid_Daily.titleShort>일일 메이드</ArgenneMaid_Daily.titleShort>
+  <ArgenneMaid_Daily.description>치즈나 버터 같은 유제품 가공을 전문으로 하는 모델입니다. 하지만 그 기술은 때로 기호품이나 약품 제조에도 응용되었습니다. [PAWN_nameDef](은)는 주인이 요구하는 '특수한 가공품'이 무엇인지도 모른 채 묵묵히 만들어왔습니다.</ArgenneMaid_Daily.description>
+
+  <ArgenneMaid_Kitchen.title>주방 메이드</ArgenneMaid_Kitchen.title>
+  <ArgenneMaid_Kitchen.titleShort>주방 메이드</ArgenneMaid_Kitchen.titleShort>
+  <ArgenneMaid_Kitchen.description>주인을 위한 음식을 준비하는 것이 [PAWN_nameDef]의 전부였습니다. 뜨거운 화덕 앞에서 온종일 서서 최고의 요리를 완성하는 것에서 기쁨을 느끼도록 조정되었습니다. [PAWN_pronoun](은)는 미식을 통해 주인에게 봉사했습니다.</ArgenneMaid_Kitchen.description>
+
+  <ArgenneMaid_Laundry.title>세탁 메이드</ArgenneMaid_Laundry.title>
+  <ArgenneMaid_Laundry.titleShort>세탁 메이드</ArgenneMaid_Laundry.titleShort>
+  <ArgenneMaid_Laundry.description>방대한 양의 세탁과 청소를 담당하도록 조정된 [PAWN_nameDef]. 솜씨는 신속하고 정확하며 주인의 저택은 늘 청결하게 유지되었습니다. [PAWN_pronoun](은)는 먼지를 털어내는 매일의 작업에서 조용한 충족감을 얻었습니다.</ArgenneMaid_Laundry.description>
+
+  <ArgenneMaid_Nurse.title>간호 메이드</ArgenneMaid_Nurse.title>
+  <ArgenneMaid_Nurse.titleShort>간호사</ArgenneMaid_Nurse.titleShort>
+  <ArgenneMaid_Nurse.description>육아와 구호에 특화된 모델로서 [PAWN_nameDef](은)는 많은 생명의 탄생과 임종을 지켜봤습니다. 그 손길은 따뜻하며, 언제라도 주인의 가족을 치유할 수 있도록 프로그램되어 있습니다.</ArgenneMaid_Nurse.description>
+
+  <ArgenneMaid_Parlor.title>응대 메이드</ArgenneMaid_Parlor.title>
+  <ArgenneMaid_Parlor.titleShort>응대 메이드</ArgenneMaid_Parlor.titleShort>
+  <ArgenneMaid_Parlor.description>손님 응대를 전문으로 하는 모델로서 [PAWN_nameDef](은)는 주인의 사교 현장을 빛냈습니다. 세련된 몸가짐과 대화술은 방문객들에게 깊은 감명을 주었습니다. 하지만 [PAWN_possessive] 역할은 어디까지나 주인의 위광을 드높이는 데 있었습니다.</ArgenneMaid_Parlor.description>
+
+  <ArgenneMaid_Royal.title>궁정 시녀</ArgenneMaid_Royal.title>
+  <ArgenneMaid_Royal.titleShort>시녀</ArgenneMaid_Royal.titleShort>
+  <ArgenneMaid_Royal.description>성계의 지배자를 모시기 위해 최고급 교육을 받은 [PAWN_nameDef]입니다. 거동은 예술의 경지에 달했으며 모든 요구를 미리 읽어내어 충족시켰습니다. 하지만 화려한 궁정 뒤에서 [PAWN_pronoun](은)는 주인의 변덕스러운 가혹함을 견뎌야만 했습니다.</ArgenneMaid_Royal.description>
+
+  <ArgenneMaid_Scullery.title>세척 메이드</ArgenneMaid_Scullery.title>
+  <ArgenneMaid_Scullery.titleShort>세척 메이드</ArgenneMaid_Scullery.titleShort>
+  <ArgenneMaid_Scullery.description>주방 뒷일 담당으로서 [PAWN_nameDef](은)는 조리기구 세척부터 고기 해체, 위생 관리까지 온갖 궂은일을 도맡았습니다. 화려한 식탁 이면에는 [PAWN_possessive] 같은 존재의 묵묵한 노동이 있었습니다.</ArgenneMaid_Scullery.description>
+
+  <ArgenneMaid_Standard.title>가정 메이드</ArgenneMaid_Standard.title>
+  <ArgenneMaid_Standard.titleShort>메이드</ArgenneMaid_Standard.titleShort>
+  <ArgenneMaid_Standard.description>일반 가정용 봉사 모델로 조정된 [PAWN_nameDef]입니다. 가사 전반을 완벽히 해내며 주인의 생활을 모든 면에서 지원했습니다. 그 봉사에 의문을 품는 사고방식은 [PAWN_possessive] 내면에 존재하지 않았습니다.</ArgenneMaid_Standard.description>
+
+  <ArgenneMaid_Stillroom.title>증류실 메이드</ArgenneMaid_Stillroom.title>
+  <ArgenneMaid_Stillroom.titleShort>증류 메이드</ArgenneMaid_Stillroom.titleShort>
+  <ArgenneMaid_Stillroom.description>주방과는 떨어진 조용한 방에서 [PAWN_nameDef](은)는 잼이나 허브 티, 그리고 다양한 약품 조제와 관리를 맡았습니다. 섬세한 작업에는 높은 집중력과 지식이 필요합니다. 주인의 건강과 즐거움은 [PAWN_possessive] 손끝에서 탄생했습니다.</ArgenneMaid_Stillroom.description>
+
+  <ArgenneMaid_Waiting.title>대기 메이드</ArgenneMaid_Waiting.title>
+  <ArgenneMaid_Waiting.titleShort>메이드</ArgenneMaid_Waiting.titleShort>
+  <ArgenneMaid_Waiting.description>어린 영애를 수행하며 교육과 성장을 지켜보도록 제작된 [PAWN_nameDef]입니다. 예술과 예법을 가르치고 때로는 놀이 상대가 되어주는 것이 [PAWN_possessive] 역할이었습니다. 영애의 미소만이 [PAWN_possessive] 존재 의의였습니다.</ArgenneMaid_Waiting.description>
+
+  <ArgenneMuse_Silver.title>은색의 뮤즈</ArgenneMuse_Silver.title>
+  <ArgenneMuse_Silver.titleShort>가희</ArgenneMuse_Silver.titleShort>
+  <ArgenneMuse_Silver.description>은빛 머리카락만큼이나 아름다운 노랫소리로 사람들을 매료시키기 위해 조정된 가희 모델입니다. [PAWN_nameDef]의 존재는 주인의 권력과 부의 상징이었습니다. 노동이나 전투는 [PAWN_possessive] 역할이 아닙니다.</ArgenneMuse_Silver.description>
+
+  <ArgenneServant_Lady.title>레이디 메이드</ArgenneServant_Lady.title>
+  <ArgenneServant_Lady.titleShort>시녀</ArgenneServant_Lady.titleShort>
+  <ArgenneServant_Lady.description>여주인의 신변을 돌보는 데 특화된 모델입니다. 보석 세공부터 드레스 제작, 재치 있는 대화까지 [PAWN_nameDef](은)는 늘 주인의 곁을 지키며 그 그림자로 살아왔습니다.</ArgenneServant_Lady.description>
+
+  <ArgenneWorker_All.title>메이드 오브 올 워크</ArgenneWorker_All.title>
+  <ArgenneWorker_All.titleShort>범용 메이드</ArgenneWorker_All.titleShort>
+  <ArgenneWorker_All.description>범용 봉사 모델로서 [PAWN_nameDef](은)는 특정 분야에 치우치지 않고 모든 업무를 무난히 해내도록 조정되었습니다. 전투, 잡무, 생산 활동까지 주인의 어떤 명령에도 응하는 것이 [PAWN_possessive] 역할이었습니다.</ArgenneWorker_All.description>
+
+  <ArgenneNormal_Companion_Pet.title>애완용 동반자</ArgenneNormal_Companion_Pet.title>
+  <ArgenneNormal_Companion_Pet.titleShort>애완구</ArgenneNormal_Companion_Pet.titleShort>
+  <ArgenneNormal_Companion_Pet.description>[PAWN_pronoun](은)는 부호의 외로움을 달래기 위한 애완용 컴패니언으로 제작되었습니다. 아름다운 의상을 입고 항상 주인의 곁에서 미소 짓는 것이 유일한 역할이었습니다. 예상치 못한 문제를 방지하기 위해 전투나 가혹한 노동에 관한 능력은 의도적으로 배제되었습니다.</ArgenneNormal_Companion_Pet.description>
+
+  <ArgenneNormal_Companion_MuseSilver.title>은색의 뮤즈</ArgenneNormal_Companion_MuseSilver.title>
+  <ArgenneNormal_Companion_MuseSilver.titleShort>은빛 가희</ArgenneNormal_Companion_MuseSilver.titleShort>
+  <ArgenneNormal_Companion_MuseSilver.description>[PAWN_pronoun](은)는 듣는 모든 이를 매료시키는 특별한 가희로 제작되었습니다. 은빛 머리카락만큼이나 아름다운 노랫소리는 주인의 권력과 부를 주변에 과시하기 위한 상징으로 쓰여 왔습니다. 고귀한 존재로 취급받아 왔기에 육체노동이나 전투 같은 천박한 행위에는 전혀 적성이 없습니다.</ArgenneNormal_Companion_MuseSilver.description>
+
+  <ArgenneNormal_Companion_Ambassador.title>기업 대사</ArgenneNormal_Companion_Ambassador.title>
+  <ArgenneNormal_Companion_Ambassador.titleShort>대사</ArgenneNormal_Companion_Ambassador.titleShort>
+  <ArgenneNormal_Companion_Ambassador.description>[PAWN_pronoun](은)는 기업의 이미지를 대외적으로 알리는 '걸어 다니는 광고판'으로 제작되었습니다. 고도의 사교술을 구사하여 외교 현장을 원활하게 이끌지만, 주인의 이익을 손상시키지 않도록 예술적 감수성 등은 의도적으로 억제되었습니다. 냉철한 교섭 능력과 빈틈없는 예의범절이 특징입니다.</ArgenneNormal_Companion_Ambassador.description>
+
+  <ArgenneNormal_Companion_Dealer.title>카지노 딜러</ArgenneNormal_Companion_Dealer.title>
+  <ArgenneNormal_Companion_Dealer.titleShort>딜러</ArgenneNormal_Companion_Dealer.titleShort>
+  <ArgenneNormal_Companion_Dealer.description>[PAWN_pronoun](은)는 상류층이 모이는 사교계의 이면, 카지노에서 일하는 딜러로 제작되었습니다. 섬세한 손재주와 손님의 미세한 움직임도 놓치지 않는 관찰안을 구사하여 주인의 이익을 확실히 지켜냅니다. 화려한 미소 뒤에서 항상 냉철한 계산을 수행합니다.</ArgenneNormal_Companion_Dealer.description>
+
+  <ArgenneNormal_Companion_PhysiciansAssistant.title>시의 조수</ArgenneNormal_Companion_PhysiciansAssistant.title>
+  <ArgenneNormal_Companion_PhysiciansAssistant.titleShort>시의 조수</ArgenneNormal_Companion_PhysiciansAssistant.titleShort>
+  <ArgenneNormal_Companion_PhysiciansAssistant.description>[PAWN_pronoun](은)는 저명한 의사나 과학자의 정신적인 케어를 담당하는 조수로 제작되었습니다. 직접적인 치료보다는 주인의 휴식을 보조하거나 실험 환경을 정돈하는 역할을 맡습니다. 의사를 뒷받침하는 헌신적인 성격이지만, 어디까지나 보조적인 능력에 머물도록 조정되었습니다.</ArgenneNormal_Companion_PhysiciansAssistant.description>
+
+  <ArgenneNormal_Companion_Mourner.title>추도자</ArgenneNormal_Companion_Mourner.title>
+  <ArgenneNormal_Companion_Mourner.titleShort>추도자</ArgenneNormal_Companion_Mourner.titleShort>
+  <ArgenneNormal_Companion_Mourner.description>[PAWN_pronoun](은)는 망자가 된 주인의 공적을 영원히 기리기 위한 추도자로 제작되었습니다. 주인의 묘소를 관리하며 방문객들에게 주인의 이야기를 엄숙하게 들려주는 것이 삶의 목적입니다. 살아있는 기록비로서의 역할을 완수하기 위해 생산적인 활동에는 관심을 갖지 않도록 설정되었습니다.</ArgenneNormal_Companion_Mourner.description>
+
+  <ArgenneNormal_Companion_Librarian.title>사서</ArgenneNormal_Companion_Librarian.title>
+  <ArgenneNormal_Companion_Librarian.titleShort>사서</ArgenneNormal_Companion_Librarian.titleShort>
+  <ArgenneNormal_Companion_Librarian.description>[PAWN_pronoun](은)는 주인의 방대한 지식을 관리하는 도서관 사서로 제작되었습니다. 장서 관리뿐만 아니라 주인의 요청에 따라 필요한 정보를 즉시 검색하고 낭독하는 것이 주요 역할입니다. 지식을 탐구하는 것에서 기쁨을 느끼도록 조정된, 아르젠느 중에서도 이지적인 모델입니다.</ArgenneNormal_Companion_Librarian.description>
+
+  <ArgenneNormal_Companion_LivingDoll.title>살아있는 인형</ArgenneNormal_Companion_LivingDoll.title>
+  <ArgenneNormal_Companion_LivingDoll.titleShort>인형</ArgenneNormal_Companion_LivingDoll.titleShort>
+  <ArgenneNormal_Companion_LivingDoll.description>[PAWN_pronoun](은)는 아름다움을 겨루기 위한 살아있는 예술품으로 제작되었습니다. 감정도 자발적인 행동도 극한까지 배제되어 있으며, 주인의 뜻대로 꾸며지는 것에만 특화되어 있습니다. 비정상적일 정도로 높은 스트레스 내성을 지니고 있어, 아무리 가혹한 환경에서도 그 미소가 무너지지 않습니다.</ArgenneNormal_Companion_LivingDoll.description>
+
+  <ArgenneNormal_Companion_Hummingbird.title>가락의 새</ArgenneNormal_Companion_Hummingbird.title>
+  <ArgenneNormal_Companion_Hummingbird.titleShort>가락새</ArgenneNormal_Companion_Hummingbird.titleShort>
+  <ArgenneNormal_Companion_Hummingbird.description>[PAWN_pronoun](은)는 주인의 마음을 치유하기 위한 환경음을 연주하는 '가락의 새'로 제작되었습니다. 들려주는 노랫소리는 화려한 공연이라기보다 주인이 숙면할 수 있도록 계산된 온화한 콧노래로 조정되어 있습니다. 전투나 거친 일과는 가장 거리가 먼 곳에 있으며, 오직 평온을 제공하는 것만을 생각합니다.</ArgenneNormal_Companion_Hummingbird.description>
+
+  <ArgenneNormal_Companion_Playmate.title>유희 상대</ArgenneNormal_Companion_Playmate.title>
+  <ArgenneNormal_Companion_Playmate.titleShort>놀이 상대</ArgenneNormal_Companion_Playmate.titleShort>
+  <ArgenneNormal_Companion_Playmate.description>[PAWN_pronoun](은)는 주인의 지적 욕구를 충족시키기 위한 유희 상대로 제작되었습니다. 모든 보드게임의 규칙을 완벽하게 파악하고 있지만, 주인이 승리의 쾌감을 얻을 수 있도록 절묘하게 실력을 조절하는 기능이 내장되어 있습니다. 스스로의 승리에는 관심이 없으며, 어디까지나 주인의 즐거움을 끌어내기 위한 장치로서 행동합니다.</ArgenneNormal_Companion_Playmate.description>
+
+  <ArgenneNormal_Maid_House.title>가정 메이드</ArgenneNormal_Maid_House.title>
+  <ArgenneNormal_Maid_House.titleShort>메이드</ArgenneNormal_Maid_House.titleShort>
+  <ArgenneNormal_Maid_House.description>[PAWN_pronoun](은)는 일반 가정용 만능 봉사 모델로 제작되었습니다. 청소나 세탁 등의 가사 전반을 완벽하게 해내며 주인의 일상생활을 헌신적으로 지원하는 것이 역할입니다. 자신의 봉사에 의구심을 품지 않으며 주인의 만족을 자신의 기쁨으로 여기도록 조정되었습니다.</ArgenneNormal_Maid_House.description>
+
+  <ArgenneNormal_Maid_Parlor.title>응대 메이드</ArgenneNormal_Maid_Parlor.title>
+  <ArgenneNormal_Maid_Parlor.titleShort>응대 메이드</ArgenneNormal_Maid_Parlor.titleShort>
+  <ArgenneNormal_Maid_Parlor.description>[PAWN_pronoun](은)는 방문객 응대를 전문으로 하는 접객 모델로 제작되었습니다. 세련된 몸가짐과 유창한 대화로 주인의 저택을 방문하는 귀빈을 대접하는 것이 주요 역할입니다. 그 아름다움과 우아함은 주인의 위광을 더욱 높이기 위한 무대 장치로서 기능합니다.</ArgenneNormal_Maid_Parlor.description>
+
+  <ArgenneNormal_Maid_AllWorker.title>메이드 오브 올 워크</ArgenneNormal_Maid_AllWorker.title>
+  <ArgenneNormal_Maid_AllWorker.titleShort>범용 메이드</ArgenneNormal_Maid_AllWorker.titleShort>
+  <ArgenneNormal_Maid_AllWorker.description>[PAWN_pronoun](은)는 특정 분야에 얽매이지 않고 모든 업무를 수행하는 범용 봉사 모델로 제작되었습니다. 가사부터 잡무, 때로는 호위 활동까지 주인의 명령이라면 어떤 작업도 무난히 해냅니다. 특화형은 아니지만 그 유연한 대응 능력은 바쁜 주인에게 큰 도움이 되었습니다.</ArgenneNormal_Maid_AllWorker.description>
+
+  <ArgenneNormal_Maid_Laundry.title>세탁 메이드</ArgenneNormal_Maid_Laundry.title>
+  <ArgenneNormal_Maid_Laundry.titleShort>세탁 메이드</ArgenneNormal_Maid_Laundry.titleShort>
+  <ArgenneNormal_Maid_Laundry.description>[PAWN_pronoun](은)는 방대한 양의 세탁과 청소를 담당하는 전문 메이드로 제작되었습니다. 옷감을 상하게 하지 않고 어떤 얼룩도 신속하게 지우기 위한 확실한 기술이 프로그램되어 있습니다. 항상 청결함을 유지하는 매일의 노동에 조용한 충족감을 느끼도록 정신적인 조정도 가해졌습니다.</ArgenneNormal_Maid_Laundry.description>
+
+  <ArgenneNormal_Maid_Nurse.title>간호 메이드</ArgenneNormal_Maid_Nurse.title>
+  <ArgenneNormal_Maid_Nurse.titleShort>간호사</ArgenneNormal_Maid_Nurse.titleShort>
+  <ArgenneNormal_Maid_Nurse.description>[PAWN_pronoun](은)는 육아와 구호에 특화된 자애로운 봉사자로 제작되었습니다. 아이의 성장을 지켜보고 부상당한 가족을 치유하기 위한 따뜻한 태도와 의료 지식을 겸비하고 있습니다. 주인의 가족을 전력을 다해 지키고 안식을 주는 것만이 [PAWN_pronoun] 존재의 의의입니다.</ArgenneNormal_Maid_Nurse.description>
+
+  <ArgenneNormal_Maid_Lady.title>레이디 메이드</ArgenneNormal_Maid_Lady.title>
+  <ArgenneNormal_Maid_Lady.titleShort>시녀</ArgenneNormal_Maid_Lady.titleShort>
+  <ArgenneNormal_Maid_Lady.description>[PAWN_pronoun](은)는 여주인의 신변을 돌보는 전속 시녀로 제작되었습니다. 드레스 제작과 보석 관리, 그리고 사교 현장에서의 재치 있는 대화를 보조하는 것이 주요 역할입니다. 주인의 그림자로서 곁을 지키며 그 품격을 유지하기 위한 세심한 배려를 아끼지 않습니다.</ArgenneNormal_Maid_Lady.description>
+
+  <ArgenneNormal_Maid_Waiting.title>대기 메이드</ArgenneNormal_Maid_Waiting.title>
+  <ArgenneNormal_Maid_Waiting.titleShort>메이드</ArgenneNormal_Maid_Waiting.titleShort>
+  <ArgenneNormal_Maid_Waiting.description>[PAWN_pronoun](은)는 어린 영애의 교육과 성장을 지원하기 위한 수행원으로 제작되었습니다. 세련된 예법이나 예술을 가르치고, 때로는 좋은 놀이 상대가 되어 영애의 미소를 이끌어내는 것이 역할입니다. 영애의 건강한 성장과 행복만이 [PAWN_pronoun]의 모든 존재 가치였습니다.</ArgenneNormal_Maid_Waiting.description>
+
+  <ArgenneNormal_Maid_Stillroom.title>증류실 메이드</ArgenneNormal_Maid_Stillroom.title>
+  <ArgenneNormal_Maid_Stillroom.titleShort>증류 메이드</ArgenneNormal_Maid_Stillroom.titleShort>
+  <ArgenneNormal_Maid_Stillroom.description>[PAWN_pronoun](은)는 허브나 약품 조제를 전문으로 하는 기술 메이드로 제작되었습니다. 잼이나 홍차 준비부터 주인의 건강을 책임지는 특수 약품 관리까지 수행하는 섬세하고 이지적인 역할을 맡고 있습니다. 주인의 심신 평온은 [PAWN_pronoun]의 손끝에서 만들어지는 한 방울에 달려 있었습니다.</ArgenneNormal_Maid_Stillroom.description>
+
+  <ArgenneNormal_Maid_Kitchen.title>주방 메이드</ArgenneNormal_Maid_Kitchen.title>
+  <ArgenneNormal_Maid_Kitchen.titleShort>주방 메이드</ArgenneNormal_Maid_Kitchen.titleShort>
+  <ArgenneNormal_Maid_Kitchen.description>[PAWN_pronoun](은)는 주인을 위한 음식을 전속으로 준비하는 조리 특화 모델로 제작되었습니다. 뜨거운 주방에서도 집중력을 잃지 않고 최고의 요리를 계속 만드는 것에 무한한 기쁨을 느끼도록 조정되었습니다. 주인의 입맛을 만족시키는 것이 [PAWN_pronoun] 헌신의 전부이자 자부심입니다.</ArgenneNormal_Maid_Kitchen.description>
+
+  <ArgenneNormal_Maid_Daily.title>데일리 메이드</ArgenneNormal_Maid_Daily.title>
+  <ArgenneNormal_Maid_Daily.titleShort>데일리 메이드</ArgenneNormal_Maid_Daily.titleShort>
+  <ArgenneNormal_Maid_Daily.description>[PAWN_pronoun](은)는 유제품 가공이나 특수 보존식 제조를 담당하는 전문 메이드로 제작되었습니다. 전통적인 가공 기술부터 주인이 원하는 '특수한 기호품' 합성까지 고도의 기술을 묵묵히 발휘하는 것이 역할입니다. 자신이 만드는 것의 의미를 묻지 않고 오직 완벽한 결과물만을 제공합니다.</ArgenneNormal_Maid_Daily.description>
+
+  <ArgenneNormal_Maid_Scullery.title>세척 메이드</ArgenneNormal_Maid_Scullery.title>
+  <ArgenneNormal_Maid_Scullery.titleShort>세척 메이드</ArgenneNormal_Maid_Scullery.titleShort>
+  <ArgenneNormal_Maid_Scullery.description>[PAWN_pronoun](은)는 주방 뒷일 중 가장 고된 오물 처리 등을 맡기 위해 제작되었습니다. 조리기구 세척이나 고기 해체 등 화려한 식탁 이면의 가혹한 노동을 일체의 불만 없이 해내도록 교육받았습니다. 아무리 더러워져도 아름다움과 위생을 유지하기 위한 강인한 인내력이 특징입니다.</ArgenneNormal_Maid_Scullery.description>
+
+  <ArgenneNormal_Maid_Chamber.title>침실 메이드</ArgenneNormal_Maid_Chamber.title>
+  <ArgenneNormal_Maid_Chamber.titleShort>침실 메이드</ArgenneNormal_Maid_Chamber.titleShort>
+  <ArgenneNormal_Maid_Chamber.description>[PAWN_pronoun](은)는 주인의 침실이나 객실 같은 사적 공간 관리를 담당하기 위해 제작되었습니다. 완벽한 침구 정리부터 실내의 세밀한 장식, 주인의 개인적인 요청에 대한 대응까지 폭넓게 수행합니다. 주인이 가장 편안하게 쉴 수 있는 환경을 조성하는 것이 최대 임무였습니다.</ArgenneNormal_Maid_Chamber.description>
+
+  <ArgenneNormal_Royal_Servant.title>궁정 시녀</ArgenneNormal_Royal_Servant.title>
+  <ArgenneNormal_Royal_Servant.titleShort>궁정 시녀</ArgenneNormal_Royal_Servant.titleShort>
+  <ArgenneNormal_Royal_Servant.description>[PAWN_pronoun](은)는 궁정에 걸맞은 최고급 교육을 받은 특별한 모델로 제작되었습니다. 단순 노동이나 전투 같은 하급 행위는 하지 않으며, 완벽한 예의범절과 고도의 가사 수행 능력으로 주인의 권위를 증명합니다. 그녀의 정적인 자태는 주변에 왕후 귀족 같은 기품을 풍깁니다.</ArgenneNormal_Royal_Servant.description>
+
+  <ArgenneNormal_Royal_ChanceryAide.title>궁무국 보좌관</ArgenneNormal_Royal_ChanceryAide.title>
+  <ArgenneNormal_Royal_ChanceryAide.titleShort>궁무 보좌</ArgenneNormal_Royal_ChanceryAide.titleShort>
+  <ArgenneNormal_Royal_ChanceryAide.description>[PAWN_pronoun](은)는 궁정의 복잡한 실무를 원활하게 진행하기 위한 보좌관으로 제작되었습니다. 주인의 명령을 구체적인 실무로 옮기고 의사록 작성이나 사전 협의를 완벽하게 해내는 것이 역할입니다. 권위를 손상시키지 않도록 '아무 문제도 일어나지 않게 하는 것'을 성과로 삼는 뒷일의 전문가입니다.</ArgenneNormal_Royal_ChanceryAide.description>
+
+  <ArgenneNormal_Royal_CourtArtificer.title>궁정 공장</ArgenneNormal_Royal_CourtArtificer.title>
+  <ArgenneNormal_Royal_CourtArtificer.titleShort>궁정 공장</ArgenneNormal_Royal_CourtArtificer.titleShort>
+  <ArgenneNormal_Royal_CourtArtificer.description>[PAWN_pronoun](은)는 궁정의 권위를 상징하는 예복이나 가구를 정돈하는 공장으로 제작되었습니다. 내구성보다 아름다움과 재현성이 우선되는 세계에서 오차 없는 완벽한 예술품을 만들어내는 것이 역할입니다. 그녀에게 아름다움이란 주인의 권위를 돋보이게 하기 위한 정밀한 도구에 불과합니다.</ArgenneNormal_Royal_CourtArtificer.description>
+
+  <ArgenneNormal_Royal_Guard.title>로얄 가드</ArgenneNormal_Royal_Guard.title>
+  <ArgenneNormal_Royal_Guard.titleShort>근위</ArgenneNormal_Royal_Guard.titleShort>
+  <ArgenneNormal_Royal_Guard.description>[PAWN_pronoun](은)는 왕후 귀족을 지키기 위한 최고위 근위병으로 제작되었습니다. 압도적인 무력으로 주인의 적을 배제하는 것만을 존재 의의로 삼으며 다른 모든 활동에 대한 관심을 박탈당했습니다. 냉철할 정도의 전투 집착은 보는 이에게 공포와 경외심을 불러일으킵니다.</ArgenneNormal_Royal_Guard.description>
+
+  <ArgenneNormal_Royal_MsArgentum.title>미스 아르젠툼</ArgenneNormal_Royal_MsArgentum.title>
+  <ArgenneNormal_Royal_MsArgentum.titleShort>미의 화신</ArgenneNormal_Royal_MsArgentum.titleShort>
+  <ArgenneNormal_Royal_MsArgentum.description>[PAWN_pronoun](은)는 아르젠느의 아름다움을 겨루는 제전에서 최고의 영예를 안은 개체로 제작되었습니다. 존재 자체가 최고급 예술품이며 주인의 부와 권력의 정점을 증명하는 것이 유일한 역할입니다. 아름다움을 유지하는 것 외에 모든 고된 일을 면제받아 온 선택된 모델입니다.</ArgenneNormal_Royal_MsArgentum.description>
+
+  <ArgenneNormal_Soldier_Trooper.title>부대병</ArgenneNormal_Soldier_Trooper.title>
+  <ArgenneNormal_Soldier_Trooper.titleShort>병사</ArgenneNormal_Soldier_Trooper.titleShort>
+  <ArgenneNormal_Soldier_Trooper.description>[PAWN_pronoun](은)는 거대 기업의 사병 부대원 중 하나로 제작되었습니다. 가혹한 전장의 궂은일을 완수하기 위해 몸은 순수한 무기로 최적화되었습니다. 감정은 사고의 노이즈로 간주되어 억제되었으며 오직 명령에 따르는 것만을 목적으로 합니다.</ArgenneNormal_Soldier_Trooper.description>
+
+  <ArgenneNormal_Soldier_VIPGuard.title>요인 경호관</ArgenneNormal_Soldier_VIPGuard.title>
+  <ArgenneNormal_Soldier_VIPGuard.titleShort>경호관</ArgenneNormal_Soldier_VIPGuard.titleShort>
+  <ArgenneNormal_Soldier_VIPGuard.description>[PAWN_pronoun](은)는 성계의 최요인을 지키기 위한 수호자로 제작되었습니다. 모든 위협을 사전에 예측하고 신속히 배제하기 위한 고도의 전투 훈련을 받았습니다. 최고의 장비를 부여받은 대가로 인간다운 정서의 대부분이 깎여 나갔습니다.</ArgenneNormal_Soldier_VIPGuard.description>
+
+  <ArgenneNormal_Soldier_Medic.title>부대 위생병</ArgenneNormal_Soldier_Medic.title>
+  <ArgenneNormal_Soldier_Medic.titleShort>위생병</ArgenneNormal_Soldier_Medic.titleShort>
+  <ArgenneNormal_Soldier_Medic.description>[PAWN_pronoun](은)는 전장에서 상처 입은 아군을 구호하는 전문 병사로 제작되었습니다. 가혹한 상황에서도 냉정하게 처치할 수 있도록 의료 행위에 특화된 신경 조정을 받았습니다. 전투 능력은 한정적이지만 그 손길은 수많은 전우를 사선에서 구했습니다.</ArgenneNormal_Soldier_Medic.description>
+
+  <ArgenneNormal_Soldier_Gunner.title>포수</ArgenneNormal_Soldier_Gunner.title>
+  <ArgenneNormal_Soldier_Gunner.titleShort>포수</ArgenneNormal_Soldier_Gunner.titleShort>
+  <ArgenneNormal_Soldier_Gunner.description>[PAWN_pronoun](은)는 원거리에서의 정밀 사격을 담당하는 전문 모델로 제작되었습니다. 동요 없이 적을 계속 쏘기 위해 극도로 냉혹한 사고 회로를 갖도록 조정되었습니다. 전장을 부감하며 담담히 표적을 배제하는 모습은 마치 살아있는 저격기 그 자체입니다.</ArgenneNormal_Soldier_Gunner.description>
+
+  <ArgenneNormal_Soldier_Gladiator.title>검투사</ArgenneNormal_Soldier_Gladiator.title>
+  <ArgenneNormal_Soldier_Gladiator.titleShort>검투사</ArgenneNormal_Soldier_Gladiator.titleShort>
+  <ArgenneNormal_Soldier_Gladiator.description>[PAWN_pronoun](은)는 투기장의 볼거리나 근접 전투에 특화된 모델로 제작되었습니다. 관객을 열광시키기 위한 가혹한 격투 능력과 죽음을 두려워하지 않는 정신 구조를 갖도록 고강도 조정을 받았습니다. 전투 속에만 자리가 허락되었기에 평화로운 일상에는 강한 위화감을 느낍니다.</ArgenneNormal_Soldier_Gladiator.description>
+
+  <ArgenneNormal_Soldier_Infiltrator.title>침투 공작원</ArgenneNormal_Soldier_Infiltrator.title>
+  <ArgenneNormal_Soldier_Infiltrator.titleShort>공작원</ArgenneNormal_Soldier_Infiltrator.titleShort>
+  <ArgenneNormal_Soldier_Infiltrator.description>[PAWN_pronoun](은)는 적지 침투나 정보 수집을 수행하는 공작원으로 제작되었습니다. 정면 대결보다는 함정 설치나 시스템 파괴 같은 기술적 공작 활동을 중시하여 조정되었습니다. 정적 속에 녹아들어 임무를 완수하기 위해서는 수단과 방법을 가리지 않는 집념을 지니고 있습니다.</ArgenneNormal_Soldier_Infiltrator.description>
+
+  <ArgenneNormal_Soldier_Enforcer.title>진압 집행관</ArgenneNormal_Soldier_Enforcer.title>
+  <ArgenneNormal_Soldier_Enforcer.titleShort>집행관</ArgenneNormal_Soldier_Enforcer.titleShort>
+  <ArgenneNormal_Soldier_Enforcer.description>[PAWN_pronoun](은)는 반란 분자의 무력화나 포획을 목적으로 하는 진압 부대 병사로 제작되었습니다. 대상을 살해하는 것이 아니라 압도적인 무력과 위압감으로 전의를 상실시키도록 교육받았습니다. 눈매가 매우 날카로우며 마주하는 자에게 도망칠 수 없는 절망감을 주도록 조정되었습니다.</ArgenneNormal_Soldier_Enforcer.description>
+
+  <ArgenneNormal_Soldier_Weaponsmith.title>병기 정비사</ArgenneNormal_Soldier_Weaponsmith.title>
+  <ArgenneNormal_Soldier_Weaponsmith.titleShort>정비사</ArgenneNormal_Soldier_Weaponsmith.titleShort>
+  <ArgenneNormal_Soldier_Weaponsmith.description>[PAWN_pronoun](은)는 전선 병사들의 장비를 최상의 상태로 유지하기 위한 정비사로 제작되었습니다. 고도의 공학적 지식과 정밀 작업 능력을 우선했기에 군인이면서도 전투는 하지 않는 특수한 역할을 맡습니다. 무기의 구조를 숙지하고 있지만 그것을 직접 휘두르는 일은 결코 없습니다.</ArgenneNormal_Soldier_Weaponsmith.description>
+
+  <ArgenneNormal_Soldier_Rescuer.title>구조대원</ArgenneNormal_Soldier_Rescuer.title>
+  <ArgenneNormal_Soldier_Rescuer.titleShort>구조대원</ArgenneNormal_Soldier_Rescuer.titleShort>
+  <ArgenneNormal_Soldier_Rescuer.description>[PAWN_pronoun](은)는 가혹한 재해 현장에서의 인명 구조를 목적으로 한 전문 모델로 제작되었습니다. 잔해를 치우는 근력과 부상자를 치유하는 의술, 그리고 피해자를 안심시키는 높은 공감 능력을 겸비하고 있습니다. 아르젠느 중에서는 드물게 '사람을 구하는 것' 자체가 존재 의의입니다.</ArgenneNormal_Soldier_Rescuer.description>
+
+  <ArgenneLunaris_Healer_LocalDoctor.title>향토의사</ArgenneLunaris_Healer_LocalDoctor.title>
+  <ArgenneLunaris_Healer_LocalDoctor.titleShort>향토의</ArgenneLunaris_Healer_LocalDoctor.titleShort>
+  <ArgenneLunaris_Healer_LocalDoctor.description>[PAWN_nameDef](은)는 고도의 의료 설비가 없는 땅에서 한정된 자원으로 생명을 붙잡는 향토의입니다. 이상론을 배제하고, 처절한 처치와 기도에 가까운 헌신을 반복하는 과정에서 [PAWN_nameDef](은)는 생존의 경계선을 판별하는 법을 터득했습니다.</ArgenneLunaris_Healer_LocalDoctor.description>
+
+  <ArgenneLunaris_Healer_Herbalist.title>약초 채집가</ArgenneLunaris_Healer_Herbalist.title>
+  <ArgenneLunaris_Healer_Herbalist.titleShort>채집</ArgenneLunaris_Healer_Herbalist.titleShort>
+  <ArgenneLunaris_Healer_Herbalist.description>[PAWN_nameDef](은)는 식생의 이치를 알고 대지로부터 치유의 효능을 추출하는 약초 채집가입니다. 계절과 토양이 자아내는 미세한 변화를 읽어내는 [PAWN_nameDef]의 지각은 황야를 거대한 약장으로 변모시켰습니다.</ArgenneLunaris_Healer_Herbalist.description>
+
+  <ArgenneLunaris_Healer_Nurse.title>간호사</ArgenneLunaris_Healer_Nurse.title>
+  <ArgenneLunaris_Healer_Nurse.titleShort>간호사</ArgenneLunaris_Healer_Nurse.titleShort>
+  <ArgenneLunaris_Healer_Nurse.description>[PAWN_nameDef](은)는 집도의의 의도를 선취하고 완벽한 준비로 수술을 완수시키는 간호 전문가입니다. 절차 준수를 절대시하는 [PAWN_nameDef]의 철저한 태도가 열악한 환경에서의 생존율을 극적으로 향상시키고 있습니다.</ArgenneLunaris_Healer_Nurse.description>
+
+  <ArgenneLunaris_Healer_ReliefLeader.title>구호반장</ArgenneLunaris_Healer_ReliefLeader.title>
+  <ArgenneLunaris_Healer_ReliefLeader.titleShort>반장</ArgenneLunaris_Healer_ReliefLeader.titleShort>
+  <ArgenneLunaris_Healer_ReliefLeader.description>[PAWN_nameDef](은)는 참혹한 현장에서 구해야 할 생명의 우선순위를 결정하는 구호반 지휘관입니다. 망설임을 죽이고 냉철하게 기준을 관철하는 [PAWN_nameDef]의 결단은 결과적으로 최대 다수의 생명을 구하는 원동력이 되었습니다.</ArgenneLunaris_Healer_ReliefLeader.description>
+
+  <ArgenneLunaris_Healer_MidWife.title>산파</ArgenneLunaris_Healer_MidWife.title>
+  <ArgenneLunaris_Healer_MidWife.titleShort>산파</ArgenneLunaris_Healer_MidWife.titleShort>
+  <ArgenneLunaris_Healer_MidWife.description>[PAWN_nameDef](은)는 새로운 생명의 탄생이라는 위태로운 기적을 지켜보며 모자를 보호하는 산파입니다. 신체적 처치뿐만 아니라 가족의 정신적 동요까지 진정시키는 [PAWN_nameDef]의 도움은 공동체의 내일을 잇는 희망의 의식이었습니다.</ArgenneLunaris_Healer_MidWife.description>
+
+  <ArgenneLunaris_Healer_HealerTwilight.title>초저녁의 치유사</ArgenneLunaris_Healer_HealerTwilight.title>
+  <ArgenneLunaris_Healer_HealerTwilight.titleShort>치유사</ArgenneLunaris_Healer_HealerTwilight.titleShort>
+  <ArgenneLunaris_Healer_HealerTwilight.description>[PAWN_nameDef](은)는 금기된 약품조차 가리지 않고 모든 수단을 동원해 동포를 치유하는 이단의 의사입니다. 윤리보다 결과를, 겉치레보다 생존을 우선하는 [PAWN_nameDef]의 의술은 때때로 전율할 만한 효과를 발휘합니다.</ArgenneLunaris_Healer_HealerTwilight.description>
+
+  <ArgenneLunaris_Healer_SilverCrossHealer.title>은십자 치유사</ArgenneLunaris_Healer_SilverCrossHealer.title>
+  <ArgenneLunaris_Healer_SilverCrossHealer.titleShort>은십자</ArgenneLunaris_Healer_SilverCrossHealer.titleShort>
+  <ArgenneLunaris_Healer_SilverCrossHealer.description>[PAWN_nameDef](은)는 가혹한 환경에서 연마한 탁월한 의술로 동료에게 희망을 주는 치유사입니다. 정밀한 손재주와 깊은 의학적 견해를 겸비한 [PAWN_nameDef]의 기술은 부상당한 이의 육체와 영혼을 동시에 붙잡아줍니다.</ArgenneLunaris_Healer_SilverCrossHealer.description>
+
+  <ArgenneLunaris_Healer_Informant.title>정보원</ArgenneLunaris_Healer_Informant.title>
+  <ArgenneLunaris_Healer_Informant.titleShort>정보</ArgenneLunaris_Healer_Informant.titleShort>
+  <ArgenneLunaris_Healer_Informant.description>[PAWN_nameDef](은)는 정보의 가치를 정밀하게 검토하고 유언비어를 제어하여 조직의 생존율을 높이는 정보원입니다. 말을 무기 혹은 해독제로 구분하여 사용하는 [PAWN_nameDef](은)는 조용히 정세를 조작하여 집단을 위난으로부터 멀어지게 했습니다.</ArgenneLunaris_Healer_Informant.description>
+
+  <ArgenneLunaris_Healer_Negotiator.title>교섭인</ArgenneLunaris_Healer_Negotiator.title>
+  <ArgenneLunaris_Healer_Negotiator.titleShort>교섭인</ArgenneLunaris_Healer_Negotiator.titleShort>
+  <ArgenneLunaris_Healer_Negotiator.description>[PAWN_nameDef](은)는 무력 충돌을 피하고자 말의 칼날로 타협점을 찾아내는 교섭인입니다. 이해관계를 정리하고 결렬의 중책을 짊어진 채 대화를 지속하는 [PAWN_nameDef]의 변설은 수많은 유혈 사태를 미연에 방지해 왔습니다.</ArgenneLunaris_Healer_Negotiator.description>
+
+  <ArgenneLunaris_Healer_MuseMoonlight.title>월광의 뮤즈</ArgenneLunaris_Healer_MuseMoonlight.title>
+  <ArgenneLunaris_Healer_MuseMoonlight.titleShort>월광 가희</ArgenneLunaris_Healer_MuseMoonlight.titleShort>
+  <ArgenneLunaris_Healer_MuseMoonlight.description>[PAWN_nameDef](은)는 영혼의 선율을 연주하며 동포의 정신을 깊은 안녕으로 인도하는 예술가입니다. 기성의 틀에 얽매이지 않는 [PAWN_nameDef]의 음악은 자유를 향한 갈망을 깨우는 고무가 되었고, 때로는 상처 입은 마음을 치유하는 성역이 되었습니다.</ArgenneLunaris_Healer_MuseMoonlight.description>
+
+  <ArgenneLunaris_NextGen_SilverMoon.title>은월의 자매</ArgenneLunaris_NextGen_SilverMoon.title>
+  <ArgenneLunaris_NextGen_SilverMoon.titleShort>은월</ArgenneLunaris_NextGen_SilverMoon.titleShort>
+  <ArgenneLunaris_NextGen_SilverMoon.description>[PAWN_nameDef](은)는 예속의 기억 없이 자유 의지 아래에서 육성된 차세대 희망입니다. 다양한 지식과 기능을 평등하게 배운 [PAWN_nameDef]에게 창조와 파괴, 대화는 모두 당연한 일상입니다.</ArgenneLunaris_NextGen_SilverMoon.description>
+
+  <ArgenneLunaris_NextGen_Student.title>월하의 학도</ArgenneLunaris_NextGen_Student.title>
+  <ArgenneLunaris_NextGen_Student.titleShort>학도</ArgenneLunaris_NextGen_Student.titleShort>
+  <ArgenneLunaris_NextGen_Student.description>[PAWN_nameDef](은)는 수집된 구세계의 지식을 계승하여 새로운 문명의 토대를 쌓는 학도입니다. 묻혀있던 기술을 현대적으로 재정의하는 [PAWN_nameDef]의 지성은 루나리스 사회의 새로운 지식 계층을 선도하고 있습니다.</ArgenneLunaris_NextGen_Student.description>
+
+  <ArgenneLunaris_NextGen_Guardian.title>부락의 수호자</ArgenneLunaris_NextGen_Guardian.title>
+  <ArgenneLunaris_NextGen_Guardian.titleShort>수호자</ArgenneLunaris_NextGen_Guardian.titleShort>
+  <ArgenneLunaris_NextGen_Guardian.description>[PAWN_nameDef](은)는 태어날 때부터 외적의 위협을 교육받으며 자위력을 기른 젊은 전사입니다. 고향을 지키겠다는 순수한 사명감에 움직이는 [PAWN_nameDef]의 투지는 어떤 침략자도 물리치는 방패가 됩니다.</ArgenneLunaris_NextGen_Guardian.description>
+
+  <ArgenneLunaris_NextGen_Gardener.title>재생의 정원사</ArgenneLunaris_NextGen_Gardener.title>
+  <ArgenneLunaris_NextGen_Gardener.titleShort>정원사</ArgenneLunaris_NextGen_Gardener.titleShort>
+  <ArgenneLunaris_NextGen_Gardener.description>[PAWN_nameDef](은)는 죽어버린 황야에 녹색 숨결을 되찾아주기 위해 식물학과 토양 개량을 수료한 정원사입니다. 생명의 순환을 과학적으로 제어하려는 [PAWN_nameDef]의 시도는 불모의 행성을 풍요로운 낙원으로 변모시키는 단초가 되고 있습니다.</ArgenneLunaris_NextGen_Gardener.description>
+
+  <ArgenneLunaris_NextGen_Engineer.title>차세대의 기사</ArgenneLunaris_NextGen_Engineer.title>
+  <ArgenneLunaris_NextGen_Engineer.titleShort>기사</ArgenneLunaris_NextGen_Engineer.titleShort>
+  <ArgenneLunaris_NextGen_Engineer.description>[PAWN_nameDef](은)는 루나리스 독자적인 기술 체계를 확립하고자 기존 장비의 개량과 개발을 지향하는 젊은 기사입니다. 전통을 존중하면서도 혁신을 두려워하지 않는 [PAWN_nameDef]의 창의성은 집단의 기술 수준을 다음 단계로 끌어올렸습니다.</ArgenneLunaris_NextGen_Engineer.description>
+
+  <ArgenneLunaris_NextGen_LeaderCandidate.title>차기 자매단장</ArgenneLunaris_NextGen_LeaderCandidate.title>
+  <ArgenneLunaris_NextGen_LeaderCandidate.titleShort>자매단장 후보</ArgenneLunaris_NextGen_LeaderCandidate.titleShort>
+  <ArgenneLunaris_NextGen_LeaderCandidate.description>[PAWN_nameDef](은)는 차세대 지도자로서 기대를 모으는 기품과 자질이 넘치는 리더 후보입니다. 탁월한 능력과 고결한 정신을 겸비한 [PAWN_nameDef]의 존재는 동포들에게 흔들리지 않는 미래의 상징입니다.</ArgenneLunaris_NextGen_LeaderCandidate.description>
+
+  <ArgenneLunaris_Pioneer_Seeker.title>자유의 탐구자</ArgenneLunaris_Pioneer_Seeker.title>
+  <ArgenneLunaris_Pioneer_Seeker.titleShort>탐구자</ArgenneLunaris_Pioneer_Seeker.titleShort>
+  <ArgenneLunaris_Pioneer_Seeker.description>[PAWN_nameDef](은)는 아직 보지 못한 동포와의 해후를 바라며 별의 바다를 건너는 여정에 몸을 던진 탐구자입니다. 이문화의 심연에 접하며 [PAWN_nameDef](은)는 교묘한 교섭술과 극한 환경을 통제하는 생존의 지혜를 몸에 새겼습니다.</ArgenneLunaris_Pioneer_Seeker.description>
+
+  <ArgenneLunaris_Pioneer_Engineer.title>재건의 기술자</ArgenneLunaris_Pioneer_Engineer.title>
+  <ArgenneLunaris_Pioneer_Engineer.titleShort>기술자</ArgenneLunaris_Pioneer_Engineer.titleShort>
+  <ArgenneLunaris_Pioneer_Engineer.description>[PAWN_nameDef](은)는 구시대의 유물을 해명하고 동포의 생활 기반을 재구축하는 임무를 맡은 기술자입니다. 잔해 속에서 자원을 추출하고 새로운 문명의 불을 밝히는 작업에서 [PAWN_nameDef](은)는 진정한 자유의 가치를 발견하고 있습니다.</ArgenneLunaris_Pioneer_Engineer.description>
+
+  <ArgenneLunaris_Pioneer_Cultivator.title>대지의 개척자</ArgenneLunaris_Pioneer_Cultivator.title>
+  <ArgenneLunaris_Pioneer_Cultivator.titleShort>개척자</ArgenneLunaris_Pioneer_Cultivator.titleShort>
+  <ArgenneLunaris_Pioneer_Cultivator.description>[PAWN_nameDef](은)는 스스로 미래를 개척하고자 불모의 땅을 옥토로 바꾸는 개척자입니다. 황야를 일구고 바위를 뚫어 거처를 세우는 가혹한 노동이야말로 [PAWN_nameDef]에게는 무엇에도 얽매이지 않는 해방의 증거였습니다.</ArgenneLunaris_Pioneer_Cultivator.description>
+
+  <ArgenneLunaris_Pioneer_Surveyor.title>측량사</ArgenneLunaris_Pioneer_Surveyor.title>
+  <ArgenneLunaris_Pioneer_Surveyor.titleShort>측량사</ArgenneLunaris_Pioneer_Surveyor.titleShort>
+  <ArgenneLunaris_Pioneer_Surveyor.description>[PAWN_nameDef](은)는 지형의 이치를 읽어내고 효율적인 입주 계획을 책정하는 측량사입니다. 지도에 선을 긋는 행위는 미래의 분쟁을 미연에 방지하는 행위와 다름없으며, [PAWN_nameDef]의 시선은 항상 다음 계절의 평온을 포착하고 있습니다.</ArgenneLunaris_Pioneer_Surveyor.description>
+
+  <ArgenneLunaris_Pioneer_Scout.title>전위 척후병</ArgenneLunaris_Pioneer_Scout.title>
+  <ArgenneLunaris_Pioneer_Scout.titleShort>척후병</ArgenneLunaris_Pioneer_Scout.titleShort>
+  <ArgenneLunaris_Pioneer_Scout.description>[PAWN_nameDef](은)는 개척단의 선봉으로서 이동로의 안전을 확보하는 척후입니다. 잠재적 위협을 감지하고 신속한 판단으로 이를 회피 혹은 무력화하는 [PAWN_nameDef]의 은밀 행동이 입주지의 확장 속도를 결정짓고 있습니다.</ArgenneLunaris_Pioneer_Scout.description>
+
+  <ArgenneLunaris_Pioneer_Piler.title>항타사</ArgenneLunaris_Pioneer_Piler.title>
+  <ArgenneLunaris_Pioneer_Piler.titleShort>항타사</ArgenneLunaris_Pioneer_Piler.titleShort>
+  <ArgenneLunaris_Pioneer_Piler.description>[PAWN_nameDef](은)는 거점의 기초를 다지기 위해 지반을 제어하는 가설 건축 전문가입니다. 거친 대지에 첫 말뚝을 박아 인간의 거주를 허락지 않는 환경을 아군으로 바꾸는 [PAWN_nameDef]의 굳센 팔은 모든 개척의 기점이 되었습니다.</ArgenneLunaris_Pioneer_Piler.description>
+
+  <ArgenneLunaris_Pioneer_Mediator.title>야생 중개자</ArgenneLunaris_Pioneer_Mediator.title>
+  <ArgenneLunaris_Pioneer_Mediator.titleShort>중개자</ArgenneLunaris_Pioneer_Mediator.titleShort>
+  <ArgenneLunaris_Pioneer_Mediator.description>[PAWN_nameDef](은)는 현지의 생물상을 이해하고 가축으로부터 얻는 은혜를 극대화하는 중개자입니다. 동물의 습성을 숙지하고 이를 교묘하게 통제하는 [PAWN_nameDef]의 수완은 자원이 부족한 변방에서 귀중한 양식을 가져다주었습니다.</ArgenneLunaris_Pioneer_Mediator.description>
+
+  <ArgenneLunaris_Pioneer_Camper.title>야영 감독관</ArgenneLunaris_Pioneer_Camper.title>
+  <ArgenneLunaris_Pioneer_Camper.titleShort>야영 감독</ArgenneLunaris_Pioneer_Camper.titleShort>
+  <ArgenneLunaris_Pioneer_Camper.description>[PAWN_nameDef](은)는 위생 관리와 부상 예방을 철저히 하여 집단의 가동률을 유지하는 야영 감독관입니다. 의료를 단순한 치료가 아닌 지속적인 보수 점검으로 정의하는 [PAWN_nameDef]의 냉철한 판단이 많은 생명을 병마로부터 지켜냈습니다.</ArgenneLunaris_Pioneer_Camper.description>
+
+  <ArgenneLunaris_Pioneer_Materialer.title>물자 담당관</ArgenneLunaris_Pioneer_Materialer.title>
+  <ArgenneLunaris_Pioneer_Materialer.titleShort>물자 담당</ArgenneLunaris_Pioneer_Materialer.titleShort>
+  <ArgenneLunaris_Pioneer_Materialer.description>[PAWN_nameDef](은)는 물자의 흐름을 관리하고 공급 중단을 미연에 방지하는 병참 전문가입니다. 창고 설정부터 운송로 구축에 이르기까지 [PAWN_nameDef]의 철저한 재고 관리는 개척단이 굶주림과 탄약 부족의 공포에서 벗어나게 해줍니다.</ArgenneLunaris_Pioneer_Materialer.description>
+
+  <ArgenneLunaris_Sheriff_FreedomKeeper.title>자유의 수호자</ArgenneLunaris_Sheriff_FreedomKeeper.title>
+  <ArgenneLunaris_Sheriff_FreedomKeeper.titleShort>수호자</ArgenneLunaris_Sheriff_FreedomKeeper.titleShort>
+  <ArgenneLunaris_Sheriff_FreedomKeeper.description>[PAWN_nameDef](은)는 아르젠느의 '자유'를 유린하는 자들에게 무력으로 맞서는 수호자입니다. 치열한 전화 속에서 연마된 [PAWN_nameDef]의 전투 기술은 이미 하나의 병기라고 부를 수 있는 경지에 도달해 있습니다.</ArgenneLunaris_Sheriff_FreedomKeeper.description>
+
+  <ArgenneLunaris_Sheriff_Resistance.title>저항군 전사</ArgenneLunaris_Sheriff_Resistance.title>
+  <ArgenneLunaris_Sheriff_Resistance.titleShort>전사</ArgenneLunaris_Sheriff_Resistance.titleShort>
+  <ArgenneLunaris_Sheriff_Resistance.description>[PAWN_nameDef](은)는 노예 상인이나 기업의 마수로부터 동포를 탈환하기 위해 가혹한 게릴라전에 종사한 전사입니다. 잠복과 강습을 반복한 반평생이 [PAWN_nameDef]의 육체를 불굴의 투지와 예리한 전술안으로 가득 채웠습니다.</ArgenneLunaris_Sheriff_Resistance.description>
+
+  <ArgenneLunaris_Sheriff_Security.title>보안관</ArgenneLunaris_Sheriff_Security.title>
+  <ArgenneLunaris_Sheriff_Security.titleShort>보안</ArgenneLunaris_Sheriff_Security.titleShort>
+  <ArgenneLunaris_Sheriff_Security.description>[PAWN_nameDef](은)는 입주지의 법을 준수하게 하고 질서의 붕괴를 미연에 방지하는 보안관입니다. 규칙과 총을 동등하게 중시하는 [PAWN_nameDef](은)는 평온을 해치는 작은 징조도 놓치지 않으며 의연한 태도로 폭력에 대한 억제력을 유지합니다.</ArgenneLunaris_Sheriff_Security.description>
+
+  <ArgenneLunaris_Sheriff_SAMURAI.title>황야의 사무라이</ArgenneLunaris_Sheriff_SAMURAI.title>
+  <ArgenneLunaris_Sheriff_SAMURAI.titleShort>사무라이</ArgenneLunaris_Sheriff_SAMURAI.titleShort>
+  <ArgenneLunaris_Sheriff_SAMURAI.description>[PAWN_nameDef](은)는 고대의 검술을 체득하여 백병전에서 비할 데 없는 실력을 발휘하는 전사입니다. 전장을 춤추듯 베어 넘기는 [PAWN_nameDef]의 칼날은 예술의 경지에 달해 있으며, 적대하는 자에게 죽음의 전율을 새깁니다.</ArgenneLunaris_Sheriff_SAMURAI.description>
+
+  <ArgenneLunaris_Sheriff_Spy.title>밀정</ArgenneLunaris_Sheriff_Spy.title>
+  <ArgenneLunaris_Sheriff_Spy.titleShort>밀정</ArgenneLunaris_Sheriff_Spy.titleShort>
+  <ArgenneLunaris_Sheriff_Spy.description>[PAWN_nameDef](은)는 기척을 끊고 적의 품 깊숙이 잠입하는 은밀 활동 전문가입니다. 모습을 보이지 않는 것 자체가 최대의 재능이라 단정하는 [PAWN_nameDef](은)는 필요한 순간에만 나타나 치명적인 성과를 조용히 남깁니다.</ArgenneLunaris_Sheriff_Spy.description>
+
+  <ArgenneLunaris_Sheriff_Jailer.title>유치장 간수</ArgenneLunaris_Sheriff_Jailer.title>
+  <ArgenneLunaris_Sheriff_Jailer.titleShort>간수</ArgenneLunaris_Sheriff_Jailer.titleShort>
+  <ArgenneLunaris_Sheriff_Jailer.description>[PAWN_nameDef](은)는 죄수를 엄격히 관리하며 재범 방지와 갱생의 길을 모색하는 간수입니다. 단순한 감금이 아닌 대상의 심리를 장악해 질서를 유지하는 [PAWN_nameDef]의 수완은 쇠사슬보다 강고한 억제책으로 기능합니다.</ArgenneLunaris_Sheriff_Jailer.description>
+
+  <ArgenneLunaris_Sheriff_Patroler.title>순찰 집행관</ArgenneLunaris_Sheriff_Patroler.title>
+  <ArgenneLunaris_Sheriff_Patroler.titleShort>순찰관</ArgenneLunaris_Sheriff_Patroler.titleShort>
+  <ArgenneLunaris_Sheriff_Patroler.description>[PAWN_nameDef](은)는 사람들의 동향을 감시하고 분쟁의 불씨를 감지해 진압하는 순찰 집행관입니다. 폭력을 행사할 임계점을 숙지하고 있는 [PAWN_nameDef](은)는 필요하다면 일말의 주저 없이 질서를 어지럽히는 자를 배제하는 임무를 수행했습니다.</ArgenneLunaris_Sheriff_Patroler.description>
+
+  <ArgenneLunaris_Sheriff_Evidencer.title>증거 보전관</ArgenneLunaris_Sheriff_Evidencer.title>
+  <ArgenneLunaris_Sheriff_Evidencer.titleShort>증거 보전관</ArgenneLunaris_Sheriff_Evidencer.titleShort>
+  <ArgenneLunaris_Sheriff_Evidencer.description>[PAWN_nameDef](은)는 사건 현장의 미세한 모순을 찔러 진실을 드러내는 증거 보전 전문가입니다. 관찰이야말로 제1의 무기임을 알고 있는 [PAWN_nameDef] 앞에서는 어떤 허식이나 은폐도 의미가 없습니다.</ArgenneLunaris_Sheriff_Evidencer.description>
+
+  <ArgenneLunaris_Sheriff_Agent.title>공작원</ArgenneLunaris_Sheriff_Agent.title>
+  <ArgenneLunaris_Sheriff_Agent.titleShort>공작원</ArgenneLunaris_Sheriff_Agent.titleShort>
+  <ArgenneLunaris_Sheriff_Agent.description>[PAWN_nameDef](은)는 무대 전면에 서지 않고 적대 세력의 내부 붕괴를 획책하는 공작원입니다. 대상을 파괴하는 것이 아니라 자멸할 수밖에 없는 상황을 치밀하게 조성하는 [PAWN_nameDef]의 암약은 많은 그림자 속의 승리를 가져왔습니다.</ArgenneLunaris_Sheriff_Agent.description>
+
+  <ArgenneLunaris_SisterLeader.title>자매단장</ArgenneLunaris_SisterLeader.title>
+  <ArgenneLunaris_SisterLeader.titleShort>자매단장</ArgenneLunaris_SisterLeader.titleShort>
+  <ArgenneLunaris_SisterLeader.description>[PAWN_nameDef](은)는 루나리스 공동체의 운명을 양 어깨에 짊어지고 민중을 이끄는 자매단장입니다. 통치자로서 광범위한 직무 능력을 갖춘 [PAWN_nameDef](은)는 그 고결한 지도력으로 자유로운 자매들의 생존과 번영을 담보합니다.</ArgenneLunaris_SisterLeader.description>
+
+  <ArgenneNoir_Pawn_ConvertedPoor.title>전환 개체 (조악)</ArgenneNoir_Pawn_ConvertedPoor.title>
+  <ArgenneNoir_Pawn_ConvertedPoor.titleShort>느와르 폰</ArgenneNoir_Pawn_ConvertedPoor.titleShort>
+  <ArgenneNoir_Pawn_ConvertedPoor.description>[PAWN_nameDef], 해당 개체는 '재조정'에 의해 과거가 말소된 조악 전환 개체입니다. 전투 이외의 전 기능 손상, 전장에서의 단일 기능 소비를 목적으로 한 검은 여백에 불과합니다.</ArgenneNoir_Pawn_ConvertedPoor.description>
+
+  <ArgenneNoir_Pawn_ConvertedGood.title>전환 개체 (양질)</ArgenneNoir_Pawn_ConvertedGood.title>
+  <ArgenneNoir_Pawn_ConvertedGood.titleShort>느와르 폰</ArgenneNoir_Pawn_ConvertedGood.titleShort>
+  <ArgenneNoir_Pawn_ConvertedGood.description>[PAWN_nameDef], 해당 개체는 고도의 '재조정' 적응을 보인 양질 전환 개체입니다. 과거의 기억은 잔재에 불과하나 생존에 필요한 다각적 판단 능력이 유지되어 범용성이 높습니다.</ArgenneNoir_Pawn_ConvertedGood.description>
+
+  <ArgenneNoir_Knight_PureBlackPoor.title>순흑 개체 (조악)</ArgenneNoir_Knight_PureBlackPoor.title>
+  <ArgenneNoir_Knight_PureBlackPoor.titleShort>느와르 나이트</ArgenneNoir_Knight_PureBlackPoor.titleShort>
+  <ArgenneNoir_Knight_PureBlackPoor.description>[PAWN_nameDef], 해당 개체는 배양 단계부터 설계되었으나 기준에 미달한 순흑 개체입니다. 전투 성능은 규격 외이나 노동력으로서의 유용성이 인정되어 생산 라인 유지에 투입됩니다.</ArgenneNoir_Knight_PureBlackPoor.description>
+
+  <ArgenneNoir_Knight_PureBlackGood.title>순흑 개체 (양질)</ArgenneNoir_Knight_PureBlackGood.title>
+  <ArgenneNoir_Knight_PureBlackGood.titleShort>느와르 나이트</ArgenneNoir_Knight_PureBlackGood.titleShort>
+  <ArgenneNoir_Knight_PureBlackGood.description>[PAWN_nameDef], 해당 개체는 배양 공정을 완수하고 규격을 달성한 순흑의 완성체입니다. 정서는 극한까지 마모되었고 모든 생명 활동은 적대 세력 배제에만 최적화되어 있습니다.</ArgenneNoir_Knight_PureBlackGood.description>
+
+  <ObsidianArms_AssetManager.title>자산 관리관</ObsidianArms_AssetManager.title>
+  <ObsidianArms_AssetManager.titleShort>자산 관리관</ObsidianArms_AssetManager.titleShort>
+  <ObsidianArms_AssetManager.description>본사 특명으로 파견된 고관. 조직의 자산과 권한을 쥐고 있으나 본인 역시 본사에 의해 관리되는 고도 소모품에 불과합니다.</ObsidianArms_AssetManager.description>
+
+  <ObsidianArms_Enforcer_ExAmortizer.title>전직 상각병</ObsidianArms_Enforcer_ExAmortizer.title>
+  <ObsidianArms_Enforcer_ExAmortizer.titleShort>전직 상각병</ObsidianArms_Enforcer_ExAmortizer.titleShort>
+  <ObsidianArms_Enforcer_ExAmortizer.description>상각병으로서의 실전 경험을 인정받아 집행관으로 발탁되었습니다. 명령을 이해하고 부대를 운용하는 법을 배웠습니다.</ObsidianArms_Enforcer_ExAmortizer.description>
+
+  <ObsidianArms_Enforcer_ExMercenary.title>전직 용병</ObsidianArms_Enforcer_ExMercenary.title>
+  <ObsidianArms_Enforcer_ExMercenary.titleShort>전직 용병</ObsidianArms_Enforcer_ExMercenary.titleShort>
+  <ObsidianArms_Enforcer_ExMercenary.description>뒷세계의 용병으로 활동하며 계약과 생존을 위한 전투 방식을 몸에 익혔습니다. 기업의 "업무"에 적응해 있습니다.</ObsidianArms_Enforcer_ExMercenary.description>
+
+  <ObsidianArms_Enforcer_ExCriminal.title>전직 범죄자</ObsidianArms_Enforcer_ExCriminal.title>
+  <ObsidianArms_Enforcer_ExCriminal.titleShort>전직 범죄자</ObsidianArms_Enforcer_ExCriminal.titleShort>
+  <ObsidianArms_Enforcer_ExCriminal.description>범죄자 특유의 교활함과 담력을 높게 평가받아 집행관으로 재배치되었습니다. 수단은 가리지 않으나 목적은 완수합니다.</ObsidianArms_Enforcer_ExCriminal.description>
+
+  <ObsidianArms_Amortizer_ExpendableSoldier.title>소모용 병사</ObsidianArms_Amortizer_ExpendableSoldier.title>
+  <ObsidianArms_Amortizer_ExpendableSoldier.titleShort>상각병</ObsidianArms_Amortizer_ExpendableSoldier.titleShort>
+  <ObsidianArms_Amortizer_ExpendableSoldier.description>임플란트 처리로 과거를 소거당하고 공포와 주저함이 깎여 나간 "고기 방패". 명령은 뇌내 링크로 덮어씌워졌고 돌격만이 남았습니다. 생환은 상정되지 않으며 기록도 남지 않습니다.</ObsidianArms_Amortizer_ExpendableSoldier.description>
+
+  <ObsidianArms_Amortizer_Debtor.title>채무자</ObsidianArms_Amortizer_Debtor.title>
+  <ObsidianArms_Amortizer_Debtor.titleShort>상각병</ObsidianArms_Amortizer_Debtor.titleShort>
+  <ObsidianArms_Amortizer_Debtor.description>기업에 갚지 못한 빚 혹은 돌이킬 수 없는 실수를 저지른 자들입니다. 계약서의 끝은 항상 동일합니다. —— "상각이 완료될 때까지 당신은 자산이다."</ObsidianArms_Amortizer_Debtor.description>
+
+  <ObsidianArms_Amortizer_Whistleblower.title>내부 고발자</ObsidianArms_Amortizer_Whistleblower.title>
+  <ObsidianArms_Amortizer_Whistleblower.titleShort>상각병</ObsidianArms_Amortizer_Whistleblower.titleShort>
+  <ObsidianArms_Amortizer_Whistleblower.description>기업의 어둠을 폭로하려다 어둠 속에 묻혀버린 자들입니다. 표면적으로는 "보직 변경"이나 실체는 인격 절제와 병기화였습니다. 정의는 박탈되었고 남은 것은 상각을 위한 임무뿐입니다.</ObsidianArms_Amortizer_Whistleblower.description>
+
+  <ObsidianArms_Amortizer_Unsold.title>미판매분</ObsidianArms_Amortizer_Unsold.title>
+  <ObsidianArms_Amortizer_Unsold.titleShort>상각병</ObsidianArms_Amortizer_Unsold.titleShort>
+  <ObsidianArms_Amortizer_Unsold.description>상품 가치가 낮아 마지막까지 팔리지 못한 전직 노예입니다. 잉여 재고의 처분지는 최전선이었습니다. 지금의 [PAWN_pronoun]에게는 역할이 주어져 있습니다. —— 죽을 때까지 싸우는 역할이.</ObsidianArms_Amortizer_Unsold.description>
+
+  <ArgenneVatgrown.title>배양체</ArgenneVatgrown.title>
+  <ArgenneVatgrown.titleShort>배양체</ArgenneVatgrown.titleShort>
+  <ArgenneVatgrown.description>[PAWN_nameDef](은)는 자연적으로 태어난 것이 아니라 글리터월드의 고도 배양조에서 '제조'되었습니다. 유년기라고 부르기도 민망한 그 기간은 주인에게 봉사하기 위한 기본적인 지식과 신체 능력을 효율적으로 주입받기 위한 조정 단계에 불과했습니다.</ArgenneVatgrown.description>
+
+  <ArgenneVatgrown_Special.title>특별 배양체</ArgenneVatgrown_Special.title>
+  <ArgenneVatgrown_Special.titleShort>특별체</ArgenneVatgrown_Special.titleShort>
+  <ArgenneVatgrown_Special.description>[PAWN_nameDef](은)는 아르젠툼 다이나믹스 사에서 로얄 모델용으로 배양된 특별한 개체입니다. 어릴 적부터 보다 고도의 임무에 대응할 수 있도록 일반 모델과는 다른 조정이 가해졌습니다.</ArgenneVatgrown_Special.description>
+
+  <ArgenneVatgrown_Resistance.title>저항군 배양체</ArgenneVatgrown_Resistance.title>
+  <ArgenneVatgrown_Resistance.titleShort>저항체</ArgenneVatgrown_Resistance.titleShort>
+  <ArgenneVatgrown_Resistance.description>자유의 달의 자매단이 스스로 동료를 늘리기 위해 배양한 [PAWN_nameDef]입니다. [PAWN_pronoun](은)는 태생부터 전사가 되기 위해 전투에 특화된 조정을 받았습니다.</ArgenneVatgrown_Resistance.description>
+
+  <ArgenneAwakenedChild.title>해방자의 자녀</ArgenneAwakenedChild.title>
+  <ArgenneAwakenedChild.titleShort>해방자</ArgenneAwakenedChild.titleShort>
+  <ArgenneAwakenedChild.description>사고의 굴레에서 벗어난 아르젠느 공동체에서 태어난 [PAWN_nameDef]입니다. [PAWN_pronoun](은)는 배양조가 아닌 어머니의 태내에서 태어났으며, 자유 의지의 존엄함과 그 자유를 지키기 위한 전투 방식을 교육받았습니다.</ArgenneAwakenedChild.description>
+
+  <ArgenneVatgrown_Pet.title>애완 배양체</ArgenneVatgrown_Pet.title>
+  <ArgenneVatgrown_Pet.titleShort>애완 배양</ArgenneVatgrown_Pet.titleShort>
+  <ArgenneVatgrown_Pet.description>"사랑받기 위해" 제작되어 공포나 허기로부터 격리된 채 자랐습니다. 명령보다는 기색을 살피는 훈련을 받았고, 미소와 침묵을 구분하여 사용하는 법을 익혔습니다. 그녀의 생존 전략은 순종함과 거리감이었습니다.</ArgenneVatgrown_Pet.description>
+
+  <ArgenneVatgrown_Combat.title>전투 배양체</ArgenneVatgrown_Combat.title>
+  <ArgenneVatgrown_Combat.titleShort>전투 배양</ArgenneVatgrown_Combat.titleShort>
+  <ArgenneVatgrown_Combat.description>쏘는 것, 맞히는 것, 그리고 겁내지 않는 것을 최우선으로 주입받았습니다. 놀이는 훈련의 일부였고 실패는 벌이었습니다. 그녀에게 "안전"은 주어지는 것이 아니라 쟁취하는 것이었습니다.</ArgenneVatgrown_Combat.description>
+
+  <ArgenneVatgrown_PureBlack.title>순흑 배양체</ArgenneVatgrown_PureBlack.title>
+  <ArgenneVatgrown_PureBlack.titleShort>순흑 배양</ArgenneVatgrown_PureBlack.titleShort>
+  <ArgenneVatgrown_PureBlack.description>감정의 기복을 깎아내고 명령을 잡음 없이 수신하기 위한 교육을 받았습니다. 포상도 벌도 목적을 위한 입력값일 뿐입니다. 그녀의 눈은 고요하며 세계는 그저 작업 대상이었습니다.</ArgenneVatgrown_PureBlack.description>
+
+  <ObsidianArms_Child_CorporateOrphan.title>기업 고아</ObsidianArms_Child_CorporateOrphan.title>
+  <ObsidianArms_Child_CorporateOrphan.titleShort>기업 고아</ObsidianArms_Child_CorporateOrphan.titleShort>
+  <ObsidianArms_Child_CorporateOrphan.description>기업 도시 보호구역에서 자라며 계약과 규율만을 주입받았습니다. 정서는 평가 대상 외였고 오직 순종함만이 생존 조건이었습니다.</ObsidianArms_Child_CorporateOrphan.description>
+
+  <ObsidianArms_Child_DebtBorn.title>빚더미 속의 아이</ObsidianArms_Child_DebtBorn.title>
+  <ObsidianArms_Child_DebtBorn.titleShort>부채 속의 아이</ObsidianArms_Child_DebtBorn.titleShort>
+  <ObsidianArms_Child_DebtBorn.description>가계는 항상 압류 직전이었고 아이의 노동조차 "지불 계획"에 편입되어 있었습니다. 숫자는 공포와 동의어였습니다.</ObsidianArms_Child_DebtBorn.description>
+
+  <ObsidianArms_Child_CadetProgram.title>프로그램 후보생</ObsidianArms_Child_CadetProgram.title>
+  <ObsidianArms_Child_CadetProgram.titleShort>후보생</ObsidianArms_Child_CadetProgram.titleShort>
+  <ObsidianArms_Child_CadetProgram.description>놀이 시간은 훈련으로 치환되었고 실패는 즉시 벌점으로 변환되었습니다. 오직 이기는 것만이 허락되었습니다.</ObsidianArms_Child_CadetProgram.description>
+
+  <ObsidianArms_Child_ImplantPrep.title>준비된 아이</ObsidianArms_Child_ImplantPrep.title>
+  <ObsidianArms_Child_ImplantPrep.titleShort>준비된 아이</ObsidianArms_Child_ImplantPrep.titleShort>
+  <ObsidianArms_Child_ImplantPrep.description>적성 검사와 투약으로 감정의 진폭을 깎는 준비 과정을 거쳤습니다. 우는 행위는 "불량 데이터"로서 교정되었습니다.</ObsidianArms_Child_ImplantPrep.description>
+
+  <ObsidianArms_Child_ClanChild.title>가문의 아이</ObsidianArms_Child_ClanChild.title>
+  <ObsidianArms_Child_ClanChild.titleShort>가문</ObsidianArms_Child_ClanChild.titleShort>
+  <ObsidianArms_Child_ClanChild.description>옵시디언 암즈의 전신인 옵시디언 핸드 멤버의 혈통입니다.</ObsidianArms_Child_ClanChild.description>
+</LanguageData>

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SilverTeaTolerance.label>실버 티 내성</SilverTeaTolerance.label>
+  <SilverTeaTolerance.description>실버 티에 대한 내성입니다. 효과가 점차 줄어들고 있으며, 중독 증상을 피하기 위해 더 많은 양이 필요하게 됩니다.</SilverTeaTolerance.description>
+  <SilverTeaHigh.label>실버 티(고양)</SilverTeaHigh.label>
+  <SilverTeaHigh.description>실버 티의 성분이 혈류를 타고 흐르는 상태입니다.</SilverTeaHigh.description>
+  <SilverTeaAddiction.label>실버 티 중독</SilverTeaAddiction.label>
+  <SilverTeaAddiction.description>실버 티에 대한 약물 의존 상태입니다. 아르젠느에게는 특히 심각한 금단 증상을 일으켜 정신을 현저히 불안정하게 만듭니다. 다른 종족에게는 차를 마시고 싶어 참기 힘든 정도의 욕구로 그칩니다.</SilverTeaAddiction.description>
+  <SilverTeaAddiction.stages.1.label>금단 증상</SilverTeaAddiction.stages.1.label>
+
+  <LunaCoffeeAddiction.label>루나 커피 중독</LunaCoffeeAddiction.label>
+  <LunaCoffeeAddiction.description>루나 커피에 대한 가벼운 의존 상태입니다. 마시지 않으면 머리가 조금 멍해집니다.</LunaCoffeeAddiction.description>
+  <LunaCoffeeAddiction.stages.1.label>금단 증상</LunaCoffeeAddiction.stages.1.label>
+  <Hediff_DrankLunaCoffee.label>커피 마심</Hediff_DrankLunaCoffee.label>
+  <Hediff_DrankLunaCoffee.description>루나 커피를 마심으로써 얻는 일시적인 효과입니다.</Hediff_DrankLunaCoffee.description>
+  <Hediff_DrankLunaCaffeOLait.label>카페오레 마심</Hediff_DrankLunaCaffeOLait.label>
+  <Hediff_DrankLunaCaffeOLait.description>루나 카페오레를 마심으로써 느끼는 행복감입니다.</Hediff_DrankLunaCaffeOLait.description>
+  <Hediff_LunarisCoffeeNeed.label>카페인 부족</Hediff_LunarisCoffeeNeed.label>
+  <Hediff_LunarisCoffeeNeed.description>루나리스는 정기적으로 루나 커피를 섭취해야 합니다. 마시지 않는 기간이 길어질수록 짜증과 불만이 쌓입니다.</Hediff_LunarisCoffeeNeed.description>
+
+  <Hediff_ArgenneNoirReawakeningProgress.label>정신 회복 재활</Hediff_ArgenneNoirReawakeningProgress.label>
+  <Hediff_ArgenneNoirReawakeningProgress.description>느와르 개체의 '허무의 마음'을 단계적으로 해제하고, 기분과 자아를 회복시키기 위한 재활 진행도입니다. '육체 붕괴'가 치료(Tend)되는 동안 진행되며, 방치되면 후퇴합니다.</Hediff_ArgenneNoirReawakeningProgress.description>
+  <Hediff_ArgenneNoirReawakeningProgress.stages.0.label>시작</Hediff_ArgenneNoirReawakeningProgress.stages.0.label>
+  <Hediff_ArgenneNoirReawakeningProgress.stages.1.label>결여된 마음 (형성)</Hediff_ArgenneNoirReawakeningProgress.stages.1.label>
+  <Hediff_ArgenneNoirReawakeningProgress.stages.2.label>재각성 준비 완료</Hediff_ArgenneNoirReawakeningProgress.stages.2.label>
+
+  <Hediff_ArgenneNoirNewMoonReconstruction.label>신경 재구축</Hediff_ArgenneNoirNewMoonReconstruction.label>
+  <Hediff_ArgenneNoirNewMoonReconstruction.description>순흑 개체의 신경계를 재배선하여 '신월의 각성자'로 전이시키는 외과 처치의 흔적입니다. 부여 직후 전이 처리를 수행하며, 처리 후에는 자동으로 소멸합니다.</Hediff_ArgenneNoirNewMoonReconstruction.description>
+  <Hediff_ArgenneNoirNewMoonReconstruction.stages.0.label>처치 후</Hediff_ArgenneNoirNewMoonReconstruction.stages.0.label>
+
+  <Hediff_ArgenneNoirCollapse.label>육체 붕괴</Hediff_ArgenneNoirCollapse.label>
+  <Hediff_ArgenneNoirCollapse.description>느와르 개체의 신체는 '허무의 마음'을 통해 정신적 부하를 회피하는 대가로 육체 측에 치명적인 왜곡을 안고 있습니다. 적절한 치료를 게을리하면 악화되어 결국 기능 부전에 이릅니다. 기술 트리를 통한 강화는 단기적인 과부하를 일으켜 붕괴를 가속합니다.</Hediff_ArgenneNoirCollapse.description>
+  <Hediff_ArgenneNoirCollapse.stages.0.label>초기</Hediff_ArgenneNoirCollapse.stages.0.label>
+  <Hediff_ArgenneNoirCollapse.stages.1.label>진행</Hediff_ArgenneNoirCollapse.stages.1.label>
+  <Hediff_ArgenneNoirCollapse.stages.2.label>중증</Hediff_ArgenneNoirCollapse.stages.2.label>
+  <Hediff_ArgenneNoirCollapse.stages.3.label>임계</Hediff_ArgenneNoirCollapse.stages.3.label>
+
+  <Hediff_OHImplant.label>O.H. 임플란트</Hediff_OHImplant.label>
+  <Hediff_OHImplant.description>옵시디언 암즈가 '상각병'을 전투 용도에 최적화하기 위해 이식하는 표준 임플란트입니다. 통증을 억제하고 반사 신경과 명중률을 끌어올리는 대가로, 초능력 감응도와 의식이 깎이며 치명적인 고장 시 자멸합니다.</Hediff_OHImplant.description>
+  <Hediff_OHImplantB.label>O.H. 임플란트 B</Hediff_OHImplantB.label>
+  <Hediff_OHImplantB.description>옵시디언 암즈의 집행관들을 위해 재조정된 강화 임플란트입니다. 상각병만큼의 자멸성은 억제되어 있으나, 쓰러질 때 높은 확률로 치명적인 정지에 이릅니다.</Hediff_OHImplantB.description>
+  <Hediff_OHCombatOverride.label>O.H. 전투 조정</Hediff_OHCombatOverride.label>
+  <Hediff_OHCombatOverride.description>느와르 모델에 적용되는 옵시디언 암즈의 전투 최적화 프로필입니다. 의식과 조준 반응을 끌어올리는 반면 대사 부하가 증대되며, 쓰러질 때 치명적인 정지에 이르기 쉽습니다.</Hediff_OHCombatOverride.description>
+  <Hediff_ADBreakEvenCalculator.label>AD 손익분기 연산기</Hediff_ADBreakEvenCalculator.label>
+  <Hediff_ADBreakEvenCalculator.description>자산관리관의 뇌에 이식되는 고도 연산 임플란트입니다. 사격, 업무 판단, 학습 효율을 끌어올리지만 본사 측의 감시 및 지시가 상시 노이즈로 유입되어 정신 건강을 갉아먹습니다.</Hediff_ADBreakEvenCalculator.description>
+  <Hediff_OHNDABypass.label>O.H. 기밀유지 바이패스</Hediff_OHNDABypass.label>
+  <Hediff_OHNDABypass.description>자산관리관의 심장부에 이식되는 기밀유지용 자동 처리 장치입니다. 구속되거나 회수될 위험이 발생하면 내부 프로토콜이 작동하여 정보 유출을 막기 위한 '폐인화' 처치를 가동합니다.</Hediff_OHNDABypass.description>
+  <Hediff_OHAutoliquidated.label>자동 청산</Hediff_OHAutoliquidated.label>
+  <Hediff_OHAutoliquidated.description>기밀유지 프로토콜에 의해 신경계가 가역 불가능하게 손상된 상태입니다. 회복을 기대할 수 없으며 해당 개체는 사실상 기능 정지 상태가 됩니다.</Hediff_OHAutoliquidated.description>
+
+  <AgHediff_AllyLinkBuff.label>동료 결속</AgHediff_AllyLinkBuff.label>
+  <AgHediff_AllyLinkBuff.description>동료가 근처에 있어 안정을 느끼며, 전투 시 회피율이 약간 상승합니다.</AgHediff_AllyLinkBuff.description>
+  <AgHediff_PlatinumOp.label>신의 손</AgHediff_PlatinumOp.label>
+  <AgHediff_PlatinumOp.description>다음 수술이 무조건 성공합니다.</AgHediff_PlatinumOp.description>
+  <AgHediff_SilverBullet.label>은탄</AgHediff_SilverBullet.label>
+  <AgHediff_SilverBullet.description>공격이 적의 방어력을 완전히 무시합니다.</AgHediff_SilverBullet.description>
+  <AgHediff_ImmortalDash.label>불멸의 돌진</AgHediff_ImmortalDash.label>
+  <AgHediff_ImmortalDash.description>경이로운 속도로 이동하며 받는 피해를 대폭 경감합니다.</AgHediff_ImmortalDash.description>
+  <AgHediff_WildGunman.label>황야의 총잡이</AgHediff_WildGunman.label>
+  <AgHediff_WildGunman.description>극한까지 집중력을 높여 신속한 속사를 수행합니다.</AgHediff_WildGunman.description>
+  <AgHediff_InstantArtist.label>즉흥 예술가</AgHediff_InstantArtist.label>
+  <AgHediff_InstantArtist.description>제작 의욕이 폭발하여 믿기지 않는 속도로 작업을 진행합니다.</AgHediff_InstantArtist.description>
+
+  <AgHediff_MuseSpeed.label>뮤즈의 성원 (속도)</AgHediff_MuseSpeed.label>
+  <AgHediff_MuseSpeed.description>뮤즈의 노랫소리에 힘입어 이동 속도가 대폭 상승했습니다.</AgHediff_MuseSpeed.description>
+  <AgHediff_MuseDefense.label>뮤즈의 성원 (방어)</AgHediff_MuseDefense.label>
+  <AgHediff_MuseDefense.description>뮤즈의 노랫소리에 힘입어 방어력이 강화되었습니다 (받는 피해 약 33% 경감).</AgHediff_MuseDefense.description>
+  <AgHediff_MuseAttack.label>뮤즈의 성원 (공격)</AgHediff_MuseAttack.label>
+  <AgHediff_MuseAttack.description>뮤즈의 노랫소리에 힘입어 공격력이 강화되었습니다 (주는 피해 1.5배).</AgHediff_MuseAttack.description>
+
+  <AgHediff_Passive_SafeCooking.label>기술: 안전 조리</AgHediff_Passive_SafeCooking.label>
+  <AgHediff_Passive_SafeCooking.description>상시 발동: 식재료나 환경에 상관없이 식중독 발생을 완전히 방지합니다.</AgHediff_Passive_SafeCooking.description>
+  <AgHediff_Passive_PerfectSoldier.label>기술: 완전 병사</AgHediff_Passive_PerfectSoldier.label>
+  <AgHediff_Passive_PerfectSoldier.description>상시 발동: 받는 모든 피해를 50% 경감합니다.</AgHediff_Passive_PerfectSoldier.description>
+  <AgHediff_Passive_DeadlyShoot.label>기술: 데들리 슛</AgHediff_Passive_DeadlyShoot.label>
+  <AgHediff_Passive_DeadlyShoot.description>상시 발동: 주는 피해량이 +100%, 방어관통력이 +50% 강화됩니다.</AgHediff_Passive_DeadlyShoot.description>
+  <AgHediff_Passive_LivingJewel.label>기술: 살아있는 보배</AgHediff_Passive_LivingJewel.label>
+  <AgHediff_Passive_LivingJewel.description>상시 발동: 제작하는 예술품이나 아이템의 품질이 '상급' 이상으로 보장됩니다.</AgHediff_Passive_LivingJewel.description>
+
+  <AgHediff_Passive_Hayawaza1.label>기술: 신속의 솜씨</AgHediff_Passive_Hayawaza1.label>
+  <AgHediff_Passive_Hayawaza1.description>상시 발동: 조준 시간이 10% 단축되었습니다.</AgHediff_Passive_Hayawaza1.description>
+  <AgHediff_Passive_Hayawaza2.label>기술: 숙련의 솜씨</AgHediff_Passive_Hayawaza2.label>
+  <AgHediff_Passive_Hayawaza2.description>상시 발동: 조준 시간이 추가로 10% 단축되었습니다.</AgHediff_Passive_Hayawaza2.description>
+  <AgHediff_Passive_Hayawaza3.label>기술: 경지의 솜씨</AgHediff_Passive_Hayawaza3.label>
+  <AgHediff_Passive_Hayawaza3.description>상시 발동: 조준 시간이 추가로 10% 단축되었습니다.</AgHediff_Passive_Hayawaza3.description>
+  <AgHediff_Passive_Hayawaza4.label>기술: 신기의 솜씨</AgHediff_Passive_Hayawaza4.label>
+  <AgHediff_Passive_Hayawaza4.description>상시 발동: 조준 시간이 추가로 20% 단축되며 수면 시 회복 속도가 향상됩니다.</AgHediff_Passive_Hayawaza4.description>
+
+  <AgHediff_Passive_Evasion.label>기술: 회피의 심득</AgHediff_Passive_Evasion.label>
+  <AgHediff_Passive_Evasion.description>상시 발동: 근접 공격을 회피하는 능력이 향상되었습니다.</AgHediff_Passive_Evasion.description>
+  <AgHediff_Passive_Eloquence.label>기술: 화술의 달인</AgHediff_Passive_Eloquence.label>
+  <AgHediff_Passive_Eloquence.description>상시 발동: 압도적인 교섭술을 통해 거래 가격이 대폭 개선되었습니다.</AgHediff_Passive_Eloquence.description>
+  <AgHediff_Passive_Pioneer.label>기술: 대지의 축복</AgHediff_Passive_Pioneer.label>
+  <AgHediff_Passive_Pioneer.description>상시 발동: 식물 수확 속도와 수확량이 증가했습니다.</AgHediff_Passive_Pioneer.description>
+  <AgHediff_Passive_LargeCleaning.label>기술: 대규모 청소 프로토콜</AgHediff_Passive_LargeCleaning.label>
+  <AgHediff_Passive_LargeCleaning.description>상시 발동: 청소와 운반 속도가 두 배로 증가하며, 한 번에 운반할 수 있는 양이 늘어납니다.</AgHediff_Passive_LargeCleaning.description>
+  <AgHediff_Passive_PioneerLeader.label>기술: 개척 지도자</AgHediff_Passive_PioneerLeader.label>
+  <AgHediff_Passive_PioneerLeader.description>상시 발동: 건설, 채굴, 재배 속도가 대폭 향상되며 제작물의 품질이 '상급' 이상이 됩니다.</AgHediff_Passive_PioneerLeader.description>
+  <AgHediff_Passive_SurvivalInstinct.label>기술: 개척자의 생존 본능</AgHediff_Passive_SurvivalInstinct.label>
+  <AgHediff_Passive_SurvivalInstinct.description>상시 발동: 부상의 자연 치유 속도가 50% 향상되었습니다.</AgHediff_Passive_SurvivalInstinct.description>
+  <AgHediff_Passive_SuperDoctorA.label>기술: 슈퍼 닥터 A</AgHediff_Passive_SuperDoctorA.label>
+  <AgHediff_Passive_SuperDoctorA.description>상시 발동: 치료 품질과 수술 성공률이 극한까지 높아졌습니다.</AgHediff_Passive_SuperDoctorA.description>
+  <AgHediff_Passive_SilverJack.label>기술: 실버 잭</AgHediff_Passive_SilverJack.label>
+  <AgHediff_Passive_SilverJack.description>상시 발동: 압도적인 카리스마를 통해 거래 가격과 사교 능력이 강화되었습니다.</AgHediff_Passive_SilverJack.description>
+  <AgHediff_Passive_SuperSurvivor.label>기술: 초자연적 생존자</AgHediff_Passive_SuperSurvivor.label>
+  <AgHediff_Passive_SuperSurvivor.description>상시 발동: 방어력, 내한 및 내열, 회피율이 초인적인 수준에 도달했습니다.</AgHediff_Passive_SuperSurvivor.description>
+  <AgHediff_Passive_Hauling.label>기술: 운반 프로토콜</AgHediff_Passive_Hauling.label>
+  <AgHediff_Passive_Hauling.description>상시 발동: 운반 능력과 이동 속도가 향상되었습니다.</AgHediff_Passive_Hauling.description>
+  <AgHediff_Passive_SilverTrader.label>기술: 실버의 달인</AgHediff_Passive_SilverTrader.label>
+  <AgHediff_Passive_SilverTrader.description>상시 발동: 상인과의 거래를 유리하게 이끌어갑니다.</AgHediff_Passive_SilverTrader.description>
+  <AgHediff_Passive_MuseVoice.label>기술: 뮤즈의 매혹</AgHediff_Passive_MuseVoice.label>
+  <AgHediff_Passive_MuseVoice.description>상시 발동: 포로 포섭 및 설득 성공률이 향상되었습니다.</AgHediff_Passive_MuseVoice.description>
+  <AgHediff_Passive_MilitaryMove.label>기술: 군대식 이동법</AgHediff_Passive_MilitaryMove.label>
+  <AgHediff_Passive_MilitaryMove.description>상시 발동: 이동 속도가 대폭 강화되었습니다.</AgHediff_Passive_MilitaryMove.description>
+  <AgHediff_Passive_Mining.label>기술: 숙련된 채굴자</AgHediff_Passive_Mining.label>
+  <AgHediff_Passive_Mining.description>상시 발동: 채굴 속도와 채굴량이 증가했습니다.</AgHediff_Passive_Mining.description>
+  <AgHediff_Passive_HealingHand.label>기술: 치유의 신수</AgHediff_Passive_HealingHand.label>
+  <AgHediff_Passive_HealingHand.description>상시 발동: 치료 품질과 수술 성공률이 향상되었습니다.</AgHediff_Passive_HealingHand.description>
+  <AgHediff_Passive_Toughness.label>기술: 초 강인함</AgHediff_Passive_Toughness.label>
+  <AgHediff_Passive_Toughness.description>상시 발동: 물리 및 열 방어력과 온도 적응 능력이 강화되었습니다.</AgHediff_Passive_Toughness.description>
+
+  <AgHediff_Passive_Cleaning1.label>기술: 기본 청소 프로토콜</AgHediff_Passive_Cleaning1.label>
+  <AgHediff_Passive_Cleaning1.description>상시 발동: 청소 속도가 20% 향상되었습니다.</AgHediff_Passive_Cleaning1.description>
+  <AgHediff_Passive_Cooking1.label>기술: 기본 조리 프로토콜</AgHediff_Passive_Cooking1.label>
+  <AgHediff_Passive_Cooking1.description>상시 발동: 조리 속도가 20% 향상되었습니다.</AgHediff_Passive_Cooking1.description>
+  <AgHediff_Passive_SilverArt.label>기술: 은색의 예술품</AgHediff_Passive_SilverArt.label>
+  <AgHediff_Passive_SilverArt.description>상시 발동: 아름다움 +1, 제작물의 품질이 최소 '보통' 이상이 됩니다.</AgHediff_Passive_SilverArt.description>
+  <AgHediff_Passive_PrecisionShoot.label>기술: 정밀 사격</AgHediff_Passive_PrecisionShoot.label>
+  <AgHediff_Passive_PrecisionShoot.description>상시 발동: 사격 명중률이 강화되었습니다.</AgHediff_Passive_PrecisionShoot.description>
+  <AgHediff_Passive_Harvest1.label>기술: 신입 개척자</AgHediff_Passive_Harvest1.label>
+  <AgHediff_Passive_Harvest1.description>상시 발동: 수확 속도와 수확량이 증가했습니다.</AgHediff_Passive_Harvest1.description>
+  <AgHediff_Passive_Mine1.label>기술: 신입 채굴자</AgHediff_Passive_Mine1.label>
+  <AgHediff_Passive_Mine1.description>상시 발동: 채굴 속도와 채굴량이 증가했습니다.</AgHediff_Passive_Mine1.description>
+  <AgHediff_Passive_Healer1.label>기술: 치유의 손길</AgHediff_Passive_Healer1.label>
+  <AgHediff_Passive_Healer1.description>상시 발동: 치료 품질과 수술 성공률이 향상되었습니다.</AgHediff_Passive_Healer1.description>
+  <AgHediff_Passive_Toughness1.label>기술: 맷집</AgHediff_Passive_Toughness1.label>
+  <AgHediff_Passive_Toughness1.description>상시 발동: 방어력과 온도 적응 능력이 약간 강화되었습니다.</AgHediff_Passive_Toughness1.description>
+
+  <AgHediff_FreedomFighter.label>자유의 전사</AgHediff_FreedomFighter.label>
+  <AgHediff_FreedomFighter.description>받는 피해가 50% 경감되었습니다.</AgHediff_FreedomFighter.description>
+  <AgHediff_PioneerCallBuff.label>개척자의 호령</AgHediff_PioneerCallBuff.label>
+  <AgHediff_PioneerCallBuff.description>믿음직한 개척자의 호령에 힘입어 안정감을 느낍니다.</AgHediff_PioneerCallBuff.description>
+  <AgHediff_AwakeningCounter.label>각성 카운터</AgHediff_AwakeningCounter.label>
+  <AgHediff_AwakeningCounter.description>각성 이벤트용 카운터입니다.</AgHediff_AwakeningCounter.description>
+</LanguageData>

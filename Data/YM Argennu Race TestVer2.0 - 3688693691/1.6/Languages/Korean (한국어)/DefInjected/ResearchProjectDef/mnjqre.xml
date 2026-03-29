@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ag_Plasma_Tier1.label>플라즈마 무기: 저비용 설계</Ag_Plasma_Tier1.label>
+  <Ag_Plasma_Tier1.description>아르젠툼 다이나믹스 사의 표준적인 플라즈마 병기 제조 기술을 확립합니다. 경량 카트리지 방식을 채택한 초기형 모델은 비용을 절감하면서도 높은 범용성을 실현했습니다.\n\n해금 대상:\n- Ag 핸드건 'Type-Ⅰ'\n- Ag 카빈 'Type-Ⅱ'</Ag_Plasma_Tier1.description>
+  
+  <Ag_Plasma_Tier2A.label>플라즈마 무기: 안정 설계</Ag_Plasma_Tier2A.label>
+  <Ag_Plasma_Tier2A.description>플라즈마 병기의 발사 시스템을 안정시켜 더욱 전문적인 용도에 대응하는 모델을 제조할 수 있게 합니다. 이를 통해 기업의 주력이 되는 어썰트 모델과 정밀 저격 모델이 해금됩니다.\n\n해금 대상:\n- Ag 돌격소총 'Type-Ⅲ'\n- Ag 저격소총 'Type-Ⅴ'</Ag_Plasma_Tier2A.description>
+  
+  <Ag_Plasma_Tier2B.label>플라즈마 무기: 파괴 설계</Ag_Plasma_Tier2B.label>
+  <Ag_Plasma_Tier2B.description>플라즈마 에너지 출력을 극한까지 높여 파괴력을 극대화하기 위한 설계 사상을 연구합니다. 고출력 산포 병기나 폭발성 탄두를 안전하게 운용하는 기술을 확립합니다.\n\n해금 대상:\n- Ag 샷건 'Type-Ⅳ'\n- Ag 유탄 발사기 'Type-Ⅵ'</Ag_Plasma_Tier2B.description>
+  
+  <Ag_Plasma_TierIII.label>플라즈마 무기: 최종 설계</Ag_Plasma_TierIII.label>
+  <Ag_Plasma_TierIII.description>플라즈마를 극한까지 수렴 및 가속하여 빛줄기 형태로 투사하는 궁극의 병기 기술을 연구합니다. 이 최종 모델의 제조 공정을 확립하려면 실전된 선진 기술이 기록된 테크프린트가 필요합니다.\n\n해금 대상:\n- Ag 브레이저 'Type-Ω'</Ag_Plasma_TierIII.description>
+
+  <AgR_Lunatic_Tier1.label>월광의 총잡이</AgR_Lunatic_Tier1.label>
+  <AgR_Lunatic_Tier1.description>자유를 손에 넣은 루나리스들이 척박한 변방계에서 살아남기 위해 고안한 총기 기초 지식을 습득합니다. 신뢰성 높은 리볼버 등 자기방어에 필수적인 휴대용 총기를 제조할 수 있게 됩니다.\n\n해금 대상:\n- AgR 싱글 액션 '디아나'\n- AgR 데린저 '셀레네'</AgR_Lunatic_Tier1.description>
+  
+  <AgR_Lunatic_Tier2A.label>변방계의 보안관</AgR_Lunatic_Tier2A.label>
+  <AgR_Lunatic_Tier2A.description>루나리스 공동체를 방어하고 질서를 지키기 위한 실용적인 총기 개량 기술을 연구합니다. 건물 내부의 근접 전투나 황야 순찰 임무에 적합한 무기들이 해금됩니다.\n\n해금 대상:\n- AgR 소드오프 '아리안로드'\n- AgR 레버 액션 '아르테미스'</AgR_Lunatic_Tier2A.description>
+  
+  <AgR_Lunatic_Tier2B.label>한밤중의 결투</AgR_Lunatic_Tier2B.label>
+  <AgR_Lunatic_Tier2B.description>억압자와의 전면적인 투쟁에 대비하여 더욱 높은 파괴력을 추구합니다. 대형 탄환 사용과 다총신 기구 도입을 통해 단일 표적을 확실히 사살하는 타격력과 전선을 뒤엎을 만한 탄막 화력을 손에 넣습니다.\n\n해금 대상:\n- AgR 매그넘 리볼버 '하토르'\n- AgR 개틀링 '헤카테'</AgR_Lunatic_Tier2B.description>
+  
+  <AgR_Lunatic_Tier3.label>자유를 향해 쏴라!</AgR_Lunatic_Tier3.label>
+  <AgR_Lunatic_Tier3.description>루나리스 총기 장인들이 도달한 총기 제조 기술의 집대성입니다. 기능미와 성능을 극한까지 추구한, 그녀들의 자유와 긍지를 상징하는 전설적인 권총 설계를 잠금 해제합니다.\n\n해금 대상:\n- AgR 피스메이커 '츠쿠요미'</AgR_Lunatic_Tier3.description>
+
+  <AgN_Armory_Tier1.label>느와르 병장기: 제압 장비</AgN_Armory_Tier1.label>
+  <AgN_Armory_Tier1.description>느와르 개체(폰/나이트)용 제압 장비 일체를 제조할 수 있게 합니다. 기동력과 장갑을 양립한 전투 슈트와 단분자 블레이드, 플라즈마 병기를 포함합니다.\n\n해금 대상:\n- AgN 프로텍트 슈트\n- AgN 프로텍트 바이저\n- AgN 단분자 대형 나이프 '리설리티'\n- AgN 제압용 플라즈마 소총 '어센더리'</AgN_Armory_Tier1.description>
+  
+  <AgN_Armory_Tier2.label>느와르 병장기: 강습 장비</AgN_Armory_Tier2.label>
+  <AgN_Armory_Tier2.description>나이트 전용 강습 장비 일체를 제조할 수 있게 합니다. 어썰트 드레스는 종합 성능을 끌어올리며, 단분자검과 파괴용 레이저 소총은 고장갑 목표 제거를 상정하고 설계되었습니다.\n\n해금 대상:\n- AgN 어썰트 드레스\n- AgN 어썰트 바이저\n- AgN 단분자검 '리퀴데이터'\n- AgN 파괴용 레이저 소총 '디스트럭터'</AgN_Armory_Tier2.description>
+
+  <OA_Armory_Tier1.label>OA 장비: 진압 기초</OA_Armory_Tier1.label>
+  <OA_Armory_Tier1.description>옵시디언 암즈의 진압 장비(소각병~집행병)를 제조할 수 있게 합니다. 포획봉과 전격 그물탄을 통해 살상을 피한 제압에 중점을 둡니다.\n\n해금 대상:\n- OA 라이엇 아머\n- OA 라이엇 바이저\n- OA 충격 경봉 '서브듀어'\n- OA 포획 소총 '리트리버'</OA_Armory_Tier1.description>
+  
+  <OA_Armory_Tier2.label>OA 장비: 폭동 진압</OA_Armory_Tier2.label>
+  <OA_Armory_Tier2.description>집행병용 폭동 진압 장비를 제조할 수 있게 합니다. 장시간 스턴을 노리는 충전 경봉과 저지력이 높은 풀오토 산탄총을 포함합니다.\n\n해금 대상:\n- OA 충전 경봉 '코어서'\n- OA 폭동 진압 산탄총 '서프레서'</OA_Armory_Tier2.description>
+  
+  <OA_Armory_Tier3.label>OA 장비: 자산 방호</OA_Armory_Tier3.label>
+  <OA_Armory_Tier3.description>자산관리관용 생존 특화 장비를 제조할 수 있게 합니다. 최상급 방어력을 상정한 파워 기어와 과잉 살상 소총을 포함합니다.\n\n해금 대상:\n- OA 관리용 기어\n- OA 관리용 헬멧\n- OA 과잉 살상 소총 '이그제저레이트'</OA_Armory_Tier3.description>
+
+  <Ag_BasicDesign.label>아르젠느 기본 설계</Ag_BasicDesign.label>
+  <Ag_BasicDesign.description>아르젠느의 기본적인 의복과 그녀들의 정신 안정에 필수적인 기호품 생산 기술을 확립합니다.\n\n해금 대상:\n- Ag 메이드 드레스\n- Ag 메이드 헤드드레스\n- 은향초 재배\n- 실버 티 제조</Ag_BasicDesign.description>
+  
+  <Ag_UtilityEquipment.label>유틸리티 장비</Ag_UtilityEquipment.label>
+  <Ag_UtilityEquipment.description>메이드로서의 업무 효율을 향상시키며, 유사시에는 호신 용구로도 활용할 수 있는 특수 도구들의 제조법을 잠금 해제합니다.\n\n해금 대상:\n- Ag 클린리니스 브룸\n- Ag 큐리너리 에지</Ag_UtilityEquipment.description>
+
+  <Ag_BasicWeaponry.label>기본 무장 설계</Ag_BasicWeaponry.label>
+  <Ag_BasicWeaponry.description>아르젠느의 표준 무장인 사이버 카타나의 기초적인 제조 기술을 확립합니다.\n\n해금 대상:\n- Ag 사이버 카타나 Mk-I</Ag_BasicWeaponry.description>
+  
+  <Ag_CombatModelDesignM.label>전투 모델용 설계</Ag_CombatModelDesignM.label>
+  <Ag_CombatModelDesignM.description>전투용 아르젠느를 위해 설계된 더욱 강력한 사이버 카타나를 제조할 수 있게 합니다.\n\n해금 대상:\n- Ag 사이버 카타나 Mk-II</Ag_CombatModelDesignM.description>
+  
+  <Ag_RoyalModelDesign.label>로얄 모델 설계</Ag_RoyalModelDesign.label>
+  <Ag_RoyalModelDesign.description>'주인'의 곁에서 직접 보필하는 것을 전제로 한 최상급 사양인 로얄 모델의 설계 사상을 확립합니다.\n\n해금 대상:\n- 로얄 모델 관련 콘텐츠</Ag_RoyalModelDesign.description>
+
+  <Ag_BasicCombatDesign.label>기초 전투 방어구 설계</Ag_BasicCombatDesign.label>
+  <Ag_BasicCombatDesign.description>아르젠느의 호위 임무를 위해 경량 전투복과 간이 방어구 설계 지침을 정리합니다. 초반 습격으로부터 주인을 지키기 위한 최소한의 방어구입니다.\n\n해금 대상:\n- Ag 에스코트 슈트\n- Ag 에스코트 드레스</Ag_BasicCombatDesign.description>
+  
+  <Ag_MidTierCombat.label>중기 전투 방어구 설계</Ag_MidTierCombat.label>
+  <Ag_MidTierCombat.description>전선에서 싸우는 전투 모델을 위해 내탄성과 내열성을 강화한 실버 등급 전투 장비를 설계합니다. 더 강력한 적에 대항하기 위한 표준 전투 기어입니다.\n\n해금 대상:\n- Ag 실버 기어\n- Ag 실버 헬멧</Ag_MidTierCombat.description>
+  
+  <Ag_HighTierCombat.label>고급 전투 방어구 설계</Ag_HighTierCombat.label>
+  <Ag_HighTierCombat.description>로얄 가드급 전투 모델에게만 지급되는 최상급 전투 장비의 설계 데이터입니다. 복합 장갑과 에너지 완충층을 통해 극도로 높은 방호 성능을 발휘합니다.\n\n해금 대상:\n- Ag 플래티넘 기어\n- Ag 플래티넘 헬멧</Ag_HighTierCombat.description>
+  
+  <Ag_EfficiencyGear.label>작업 효율화 장비</Ag_EfficiencyGear.label>
+  <Ag_EfficiencyGear.description>장시간 서서 일하거나 중노동에 견딜 수 있도록 부하 분산과 수납성에 중점을 둔 작업용 앞치마를 설계합니다. 아르젠느의 노동 효율을 끌어올립니다.\n\n해금 대상:\n- Ag 워커 에이프런</Ag_EfficiencyGear.description>
+  
+  <Ag_AdvancedScienceGear.label>선진 연구용 장비</Ag_AdvancedScienceGear.label>
+  <Ag_AdvancedScienceGear.description>정밀 기기와 약품을 다루는 연구 및 의료 현장을 위해 정전기 방지와 방오 성능을 겸비한 고기능 실험실 가운을 설계합니다. 연구 속도와 제약 효율을 더욱 높여줍니다.\n\n해금 대상:\n- Ag 실험실 가운</Ag_AdvancedScienceGear.description>
+
+  <Ag_Apparel_CompanionWear.label>동반자 의상</Ag_Apparel_CompanionWear.label>
+  <Ag_Apparel_CompanionWear.description>메이드로서의 기본적인 봉사 활동뿐만 아니라, 정착지 안팎의 다양한 사람들과의 교류를 원활하게 하기 위한 의복군입니다.\n\n해금 대상:\n- Ag 쿨 드레스\n- Ag 큐트 메이드\n- Ag 패션 레이디</Ag_Apparel_CompanionWear.description>
+  
+  <Ag_Apparel_MaidCombatGear.label>전투 메이드 기어 설계</Ag_Apparel_MaidCombatGear.label>
+  <Ag_Apparel_MaidCombatGear.description>메이드로서의 기동성과 전투 시의 방호 성능을 양립시킨 특수 전투 메이드 장비를 설계합니다.\n\n해금 대상:\n- 전투 메이드 장비 일체</Ag_Apparel_MaidCombatGear.description>
+  
+  <Ag_Apparel_RoyalRegalia.label>로얄 제보 설계</Ag_Apparel_RoyalRegalia.label>
+  <Ag_Apparel_RoyalRegalia.description>주인의 곁에서 격식을 갖추는 로얄 모델을 위해, 의례복의 품격과 실전성을 겸비한 하이엔드 의상군을 설계합니다.\n\n해금 대상:\n- 로얄 드레스 / 로얄 슈트 일체</Ag_Apparel_RoyalRegalia.description>
+
+  <AgR_WildernessSamurai.label>황야의 사무라이</AgR_WildernessSamurai.label>
+  <AgR_WildernessSamurai.description>자연 환경과 게릴라 전술에 특화된 루나리스식 사무라이 전투술을 체계화합니다.\n\n해금 대상:\n- 루나리스용 경무장 사무라이 아머\n- 루나리스용 사이버 카타나 기초형</AgR_WildernessSamurai.description>
+  
+  <AgR_BladeOfMoonfrenzy.label>월광의 칼날</AgR_BladeOfMoonfrenzy.label>
+  <AgR_BladeOfMoonfrenzy.description>전투용 사이버 카타나를 베이스로 내구성을 도외시하고 관통 능력을 극한까지 높인 결전 병기 제조법을 잠금 해제합니다.\n\n해금 대상:\n- AgR 사이버 카타나 '월광'</AgR_BladeOfMoonfrenzy.description>
+  
+  <AgR_SecretArtOfTheMoonEmpress.label>월후의 비기</AgR_SecretArtOfTheMoonEmpress.label>
+  <AgR_SecretArtOfTheMoonEmpress.description>루나리스의 지도자만을 위해 제작된다는 전설의 검, '월후'의 제조 방법을 연구합니다. 이 설계는 고대 테크프린트 없이는 전모를 파악할 수 없습니다.\n\n해금 대상:\n- AgR 사이버 카타나 '월후'</AgR_SecretArtOfTheMoonEmpress.description>
+
+  <AgR_LunarisSteps.label>루나리스 기초 정비</AgR_LunarisSteps.label>
+  <AgR_LunarisSteps.description>루나리스들이 가혹한 환경에서 살아남기 위한 의식주 최저한의 기반 정비를 실시합니다.\n\n해금 대상:\n- 루나리스용 간이 의상\n- 기본적인 농업 및 채집 설비</AgR_LunarisSteps.description>
+  
+  <AgR_PioneerTools.label>개척자 도구 세트</AgR_PioneerTools.label>
+  <AgR_PioneerTools.description>변방계 개척을 뒷받침하기 위한 범용성 높은 수제 도구들을 정비합니다.\n\n해금 대상:\n- 개척자용 도구</AgR_PioneerTools.description>
+  
+  <AgR_CultivationImprovement.label>재배 개량</AgR_CultivationImprovement.label>
+  <AgR_CultivationImprovement.description>척박한 땅에서도 잘 자라는 개량 작물과 이를 이용해 활력을 돋우는 음료 제조법을 습득합니다.\n\n해금 대상:\n- 월향두 재배\n- 루나 커피\n- 루나 카페오레</AgR_CultivationImprovement.description>
+  
+  <AgR_KeyToFreedom.label>자유를 향한 열쇠</AgR_KeyToFreedom.label>
+  <AgR_KeyToFreedom.description>아르젠느를 사고의 구속에서 해방하기 위한 특수 코드 패키지를 책으로 위장하여 제작하는 법을 배웁니다.\n\n해금 대상:\n- 위장된 서적 '자유를 향한 열쇠'</AgR_KeyToFreedom.description>
+
+  <AgR_Apparel_CivicWear.label>시민복 디자인</AgR_Apparel_CivicWear.label>
+  <AgR_Apparel_CivicWear.description>루나리스들이 일상에서 입는 실용성과 간소한 미를 겸비한 시민복 디자인을 확립합니다.\n\n해금 대상:\n- 루나리스 시민복 일체</AgR_Apparel_CivicWear.description>
+  
+  <AgR_Apparel_FrontierBasics.label>변방 개척복</AgR_Apparel_FrontierBasics.label>
+  <AgR_Apparel_FrontierBasics.description>가혹한 환경에서의 작업에 적합하도록 내구성과 방한성에 중점을 둔 작업복을 설계합니다.\n\n해금 대상:\n- 변방 개척복 일체</AgR_Apparel_FrontierBasics.description>
+  
+  <AgR_Apparel_Robes.label>의례복과 로브</AgR_Apparel_Robes.label>
+  <AgR_Apparel_Robes.description>신앙이나 공동체의 상징으로 사용되는 의례복과 로브의 디자인을 정리합니다.\n\n해금 대상:\n- 의례용 로브\n- 사제복</AgR_Apparel_Robes.description>
+  
+  <AgR_Apparel_FreedomArmor.label>프리덤 기어</AgR_Apparel_FreedomArmor.label>
+  <AgR_Apparel_FreedomArmor.description>해방 투쟁을 견뎌내기 위해 선진 소재들을 조합해 만들어낸 루나리스 독자적인 방호복입니다.\n\n해금 대상:\n- AgR 프리덤 망토\n- AgR 프리덤 햇\n- AgR 프리덤 아머</AgR_Apparel_FreedomArmor.description>
+  
+  <AgR_LeaderRegalia.label>지도자 예복 설계</AgR_LeaderRegalia.label>
+  <AgR_LeaderRegalia.description>자매단의 지도자나 대표자가 입는 위엄과 기능성을 양립한 예복을 설계합니다. 사교 능력과 지도력에 보너스를 줍니다.\n\n해금 대상:\n- AgR 리더 슈트\n- AgR 리더 드레스</AgR_LeaderRegalia.description>
+  
+  <AgR_FrontierLabor.label>개척자 노동복 설계</AgR_FrontierLabor.label>
+  <AgR_FrontierLabor.description>투박하지만 실용성을 철저히 추구한 농업·채굴·건축용 개척자 노동복을 설계합니다. 루나리스들의 생산성을 밑받침합니다.\n\n해금 대상:\n- AgR 농부 멜빵바지\n- AgR 워커 슈트</AgR_FrontierLabor.description>
+  
+  <AgR_MoonWarfare.label>월전 장비 설계</AgR_MoonWarfare.label>
+  <AgR_MoonWarfare.description>게릴라전과 야간 전투에 특화된 루나리스 전용 고성능 전투 장비입니다. 높은 방어력과 은밀성을 양립시켜 자유를 위한 투쟁을 지원합니다.\n\n해금 대상:\n- AgR 문 아머\n- AgR 문 햇\n- AgR 문 망토</AgR_MoonWarfare.description>
+</LanguageData>
