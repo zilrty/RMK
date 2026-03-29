@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OdysseyPatch_SpaceTravel>우주 여행</OdysseyPatch_SpaceTravel>
+  <OdysseyPatch_Fishing>낚시</OdysseyPatch_Fishing>
+  <OdysseyPatch_OutfitStands>의류 거치대 및 조각상</OdysseyPatch_OutfitStands>
+  <OdysseyPatch_Misc>기타</OdysseyPatch_Misc>
+
+  <OdysseyPatch_OutfitStandGroupsInBills>계획서에서 의류 거치대 그룹의 아이템 확인 및 운반 허용</OdysseyPatch_OutfitStandGroupsInBills>
+  <OdysseyPatch_OutfitStandBodyType>의류 거치대 체형 설정 가능</OdysseyPatch_OutfitStandBodyType>
+  <OdysseyPatch_AllowRemovingItemsFromOutfitStand>기본적으로 의류 거치대에서 아이템 제거 허용</OdysseyPatch_AllowRemovingItemsFromOutfitStand>
+  <OdysseyPatch_AllowRemovingItemsFromOutfitStandAfterEquipping>정착민에게 장비 착용 명령 시 의류 거치대 아이템 제거 허용 상태 유지</OdysseyPatch_AllowRemovingItemsFromOutfitStandAfterEquipping>
+  <OdysseyPatch_OutfitStandsIgnoreStoredThingsBeauty>거치된 아이템의 부정적 미관 무시</OdysseyPatch_OutfitStandsIgnoreStoredThingsBeauty>
+  <OdysseyPatch_StatuesDontHaveHeadgear>조각상 머리 장식 숨기기 허용</OdysseyPatch_StatuesDontHaveHeadgear>
+  <OdysseyPatch_StatueConsistency>조각상 다시 불러올 시 우성 유전자가 달라지는 오류 수정</OdysseyPatch_StatueConsistency>
+  <OdysseyPatch_BodyType>체형: {0}</OdysseyPatch_BodyType>
+  <OdysseyPatch_BodyTypeDesc>이 의류 거치대의 모델 체형을 변경하려면 클릭하세요.</OdysseyPatch_BodyTypeDesc>
+  <OdysseyPatch_ShowHeadgear>머리 장식 표시</OdysseyPatch_ShowHeadgear>
+
+  <OdysseyPatch_FishingZoneCopy>낚시 구역 설정 복사/붙여넣기 가능</OdysseyPatch_FishingZoneCopy>
+  <OdysseyPatch_FishingInterruptions>정착민이 굶주림이나 탈진 상태가 될 때까지 낚시하는 것 방지</OdysseyPatch_FishingInterruptions>
+  <OdysseyPatch_FishingMishapsLessIntrusive>낚시 실패 시 알림의 방해 정도 감소</OdysseyPatch_FishingMishapsLessIntrusive>
+  <OdysseyPatch_FishingZoneCopyDesc>이 낚시 구역의 설정을 클립보드에 복사하여 다른 구역에 붙여넣습니다.</OdysseyPatch_FishingZoneCopyDesc>
+  <OdysseyPatch_FishingZonePasteDesc>클립보드에 복사된 설정으로 이 낚시 구역의 설정을 덮어씁니다.</OdysseyPatch_FishingZonePasteDesc>
+
+  <OdysseyPatch_FloorsBlockedByHulls>중력부양선 선체 아래에 바닥이 잘못 건설되는 문제 수정</OdysseyPatch_FloorsBlockedByHulls>
+  <OdysseyPatch_SilhouettesHiddenByGravshipLanding>중력부양선 컷신 중 정착민 위치 강조점이 보이는 오류 수정</OdysseyPatch_SilhouettesHiddenByGravshipLanding>
+  <OdysseyPatch_ShuttleFood>착륙한 왕복선에서 짐꾼 동물처럼 음식, 약물, 사회적 약품을 꺼내기 허용</OdysseyPatch_ShuttleFood>
+  <OdysseyPatch_GravshipCutsceneOptions>엔터 키를 눌러 중력부양선 컷신 건너뛰기 허용</OdysseyPatch_GravshipCutsceneOptions>
+  <OdysseyPatch_FlickSwitchesAfterLanding>중력부양선 착륙 후 전원 스위치 지정 건물이 비정상 상태가 되는 오류 수정</OdysseyPatch_FlickSwitchesAfterLanding>
+  <OdysseyPatch_DeathrestingPawnsTuckedInAfterLanding>중력부양선 착륙 후 죽음안식 중인 정착민이 침대에서 튕겨 나가는 오류 수정</OdysseyPatch_DeathrestingPawnsTuckedInAfterLanding>
+  <OdysseyPatch_ShuttleSavingError>사용하지 않은 왕복선이 있는 상태에서 저장 시 발생하는 오류 수정</OdysseyPatch_ShuttleSavingError>
+  <OdysseyPatch_ShuttleBlockedByLess>새 왕복선 청사진을 놓을 수 있는 곳이라면 어디든 왕복선 주차 가능</OdysseyPatch_ShuttleBlockedByLess>
+  <OdysseyPatch_AllowGrabbingSupplies>물자 보급 허용</OdysseyPatch_AllowGrabbingSupplies>
+  <OdysseyPatch_AllowGrabbingSuppliesDesc>활성화하면 정착민들이 필요할 때 이 왕복선에서 음식, 약물, 사교적 약물을 자유롭게 꺼내 갑니다.</OdysseyPatch_AllowGrabbingSuppliesDesc>
+
+  <OdysseyPatch_WorldSearchEmptyTiles>모든 세계 타일을 검색하는 전체 세계 검색 허용</OdysseyPatch_WorldSearchEmptyTiles>
+  <OdysseyPatch_SubstructureOverlayOptions>항상 하부 구조 오버레이 표시 허용</OdysseyPatch_SubstructureOverlayOptions>
+  <OdysseyPatch_BiomeDangerWarningSuppressed>궤도상 정착 또는 "위험한" 바이옴 정착 시 경고 비활성화</OdysseyPatch_BiomeDangerWarningSuppressed>
+  <OdysseyPatch_FilthMultiplierFixForSubstructure>하부 구조의 먼지 배율이 바닥의 먼지 배율을 덮어쓰는 오류 수정</OdysseyPatch_FilthMultiplierFixForSubstructure>
+  <OdysseyPatch_BugFix>버그 수정</OdysseyPatch_BugFix>
+  <OdysseyPatch_RestartRequired>(재시작 필요)</OdysseyPatch_RestartRequired>
+  <OdysseyPatch_FullSearch>전체 검색</OdysseyPatch_FullSearch>
+  <OdysseyPatch_InitializingSearchSet>검색 세트 초기화 중</OdysseyPatch_InitializingSearchSet>
+  <OdysseyPatch_Always>항상</OdysseyPatch_Always>
+  <OdysseyPatch_WhenSelected>선택 시</OdysseyPatch_WhenSelected>
+  <OdysseyPatch_Never>안 함</OdysseyPatch_Never>
+</LanguageData>
