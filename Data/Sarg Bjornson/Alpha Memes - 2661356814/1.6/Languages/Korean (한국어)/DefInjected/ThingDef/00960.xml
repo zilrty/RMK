@@ -42,8 +42,8 @@
   <AM_Neolithic_WoodenTable_2x2c.label>조잡한 나무 식탁 (2x2)</AM_Neolithic_WoodenTable_2x2c.label>
   <AM_Neolithic_WoodenTable_2x4c.label>조잡한 나무 식탁 (2x4)</AM_Neolithic_WoodenTable_2x4c.label>
   <AM_Neolithic_WoodenTable_3x3c.label>조잡한 나무 식탁 (3x3)</AM_Neolithic_WoodenTable_3x3c.label>
-  <AM_BaptismalFont.label>성수반</AM_BaptismalFont.label>
-  <AM_BaptismalFont.description>물의 의식을 통해 정화와 영적 거듭남을 이루는 신성한 </AM_BaptismalFont.description>
+  <AM_BaptismalFont.label>세례반</AM_BaptismalFont.label>
+  <AM_BaptismalFont.description>정화와 거듭남을 위한 물의 의식에 사용되는 대야입니다.</AM_BaptismalFont.description>
   <AM_RelicSmashingAltar.label>유물 분쇄 제단</AM_RelicSmashingAltar.label>
   <AM_RelicSmashingAltar.description>하나의 유물을 담을 수 있는 작은 그릇입니다. 유물을 제단에 넣어 유물 파괴 의식을 시작할 수 있으며, 정착민들은 제단에서 유물을 꺼내지 않습니다.</AM_RelicSmashingAltar.description>
   <AM_CorruptedGaumakerCocoon.label>부패단지 고치</AM_CorruptedGaumakerCocoon.label>
