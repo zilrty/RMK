@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SMR_SteelRoofBuilder.label>강철 지붕</SMR_SteelRoofBuilder.label>
+  <SMR_SteelRoofBuilder.description>박격포 포탄 같은 투사체를 견뎌낼 수 있는 두꺼운 지붕입니다.</SMR_SteelRoofBuilder.description>
+
+  <SMR_TransparentRoofBuilder.label>투명 지붕</SMR_TransparentRoofBuilder.label>
+  <SMR_TransparentRoofBuilder.description>박격포 포탄 같은 투사체를 견뎌낼 수 있는 두껍고 투명한 지붕입니다.\n\n겉보기엔 약해 보이지만, 이 지붕은 강력한 충격도 버텨낼 수 있습니다.</SMR_TransparentRoofBuilder.description>
+
+  <SMR_VacBarrierRoofBuilder.label>진공 차폐 지붕</SMR_VacBarrierRoofBuilder.label>
+  <SMR_VacBarrierRoofBuilder.description>나노머신으로 구성된 투명 지붕으로, 일반적인 지붕의 기능을 수행하면서도 항공기와 투사체의 통과를 허용합니다.\n공중에 떠 있는 상태를 유지하려면 하나 이상의 지지 노드에 연결되어야 하며, 그렇지 않으면 나노머신이 "폭주"할 수 있습니다.\n\n이 나노머신들은 모든 종류의 중력파에서 에너지를 수확하므로 전력을 소모하지 않습니다.</SMR_VacBarrierRoofBuilder.description>
+
+  <SMR_AdvancedVacBarrierRoofBuilder.label>고급 진공 차폐 지붕</SMR_AdvancedVacBarrierRoofBuilder.label>
+  <SMR_AdvancedVacBarrierRoofBuilder.description>나노머신으로 구성된 투명 지붕으로, 두꺼운 암반 지붕 수준의 내구도를 지니면서도 항공기와 투사체의 통과를 허용합니다.\n공중에 떠 있는 상태를 유지하려면 하나 이상의 지지 노드에 연결되어야 하며, 그렇지 않으면 나노머신이 "폭주"할 수 있습니다.\n\n이 나노머신들은 모든 종류의 중력파에서 에너지를 수확하므로 전력을 소모하지 않습니다.</SMR_AdvancedVacBarrierRoofBuilder.description>
+</LanguageData>
