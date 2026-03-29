@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <STS_MinionsDive_Proj.label>하수인</STS_MinionsDive_Proj.label>
+  <STS_MinionsShield_Proj.label>하수인</STS_MinionsShield_Proj.label>
+  <STS_MinionsStriker_Proj.label>하수인</STS_MinionsStriker_Proj.label>
+  <STS_FallingStar_Skyfaller.label>별똥별</STS_FallingStar_Skyfaller.label>
+  <STS_CrescentSpear_Proj.label>초승달 창</STS_CrescentSpear_Proj.label>
+  <STS_SolarStrike_Proj.label>태양의 타격</STS_SolarStrike_Proj.label>
+
+  <Human.label>인간</Human.label>
+  <Human.description>가장 기본적인 형태의 인간입니다. 유전자 조작이나 외계 행성에서의 진화적 압력으로부터 거의 영향을 받지 않았습니다.</Human.description>
+  <Human.tools.0.label>왼손 주먹</Human.tools.0.label>
+  <Human.tools.1.label>오른손 주먹</Human.tools.1.label>
+  <Human.tools.2.label>이빨</Human.tools.2.label>
+  <Human.tools.3.label>머리</Human.tools.3.label>
+
+  <STS_Star_Race.label>미확인</STS_Star_Race.label>
+  <STS_Star_Race.description>스타리스의 주요 종족입니다. 이들의 신체는 순수한 별빛 에너지로 구성되어 있습니다. 이들은 영생하며 영원불멸할 뿐만 아니라, 놀라울 정도로 세련된 패션 감각을 지니고 있습니다.</STS_Star_Race.description>
+  
+  <STS_Star_Race.comps.1.availablePresets.0.label>봉인된 왕좌</STS_Star_Race.comps.1.availablePresets.0.label>
+  <STS_Star_Race.comps.1.availablePresets.0.description>리젠트를 소환하는 봉인된 왕좌입니다. 이 왕좌에 앉으면 리젠트의 이동 속도가 빨라지고 받는 피해가 감소합니다.</STS_Star_Race.comps.1.availablePresets.0.description>
+  <STS_Star_Race.comps.1.availablePresets.1.label>화려한 의상</STS_Star_Race.comps.1.availablePresets.1.label>
+  <STS_Star_Race.comps.1.availablePresets.1.description>전투 중이 아닐 때 리젠트가 입는 화려한 옷입니다. 어느 정도의 방어력을 제공하며, 극단적인 온도 변화로부터 몸을 보호할 수 있습니다.</STS_Star_Race.comps.1.availablePresets.1.description>
+
+  <STS_Minions_Race.label>하수인</STS_Minions_Race.label>
+  <STS_Minions_Race.description>리젠트가 별빛을 사용하여 직접 창조한 하수인들로 보입니다. 튼튼하고 꽤 순종적이지만, 체스를 끔찍하게 못 둘 뿐만 아니라 팝송 듣는 것을 너무나 좋아합니다. 그 탓에 리젠트는 이 작은 친구들을 친구에서 하수인으로 빠르게 강등시켰습니다.</STS_Minions_Race.description>
+  <STS_Minions_Race.tools.0.label>머리</STS_Minions_Race.tools.0.label>
+  <STS_Minions_Race.comps.1.labelOverride>수명</STS_Minions_Race.comps.1.labelOverride>
+
+  <STS_Minions_Shield_Race.label>희생 하수인</STS_Minions_Shield_Race.label>
+  <STS_Minions_Shield_Race.description>리젠트가 별빛을 사용하여 직접 창조한 하수인들로 보입니다. 튼튼하고 꽤 순종적이지만, 체스를 끔찍하게 못 둘 뿐만 아니라 팝송 듣는 것을 너무나 좋아합니다. 그 탓에 리젠트는 이 작은 친구들을 친구에서 하수인으로 빠르게 강등시켰습니다.\n\n이 하수인은 적의 사격과 베기를 견뎌낼 수 있는 별빛 방패를 가지고 있습니다. 물론 여전히 적에게 큰 위협이 되지는 못합니다.</STS_Minions_Shield_Race.description>
+  <STS_Minions_Shield_Race.tools.0.label>머리</STS_Minions_Shield_Race.tools.0.label>
+  <STS_Minions_Shield_Race.comps.1.labelOverride>수명</STS_Minions_Shield_Race.comps.1.labelOverride>
+
+  <STS_Minions_Striker_Race.label>타격 하수인</STS_Minions_Striker_Race.label>
+  <STS_Minions_Striker_Race.description>리젠트가 별빛을 사용하여 직접 창조한 하수인들로 보입니다. 튼튼하고 꽤 순종적이지만, 체스를 끔찍하게 못 둘 뿐만 아니라 팝송 듣는 것을 너무나 좋아합니다. 그 탓에 리젠트는 이 작은 친구들을 친구에서 하수인으로 빠르게 강등시켰습니다.\n\n리젠트에 의해 강화된 이 하수인은 훨씬 더 커 보이며, 속도도 빠르고 공격도 강력합니다. 그래봐야 여전히 커다란 감자일 뿐이지만요.</STS_Minions_Striker_Race.description>
+  <STS_Minions_Striker_Race.comps.1.labelOverride>수명</STS_Minions_Striker_Race.comps.1.labelOverride>
+  <STS_Minions_Striker_Race.tools.0.label>왼손 주먹</STS_Minions_Striker_Race.tools.0.label>
+  <STS_Minions_Striker_Race.tools.1.label>오른손 주먹</STS_Minions_Striker_Race.tools.1.label>
+
+  <STS_Regent_Cloth.label>리젠트의 화려한 의복</STS_Regent_Cloth.label>
+  <STS_Regent_Cloth.description>리젠트가 입고 있는 이 옷은 리젠트 자신과 마찬가지로 별빛으로 만들어진 것처럼 보입니다.</STS_Regent_Cloth.description>
+  <STS_Regent_Throne.label>봉인된 왕좌</STS_Regent_Throne.label>
+  <STS_Regent_Throne.description>여러 하수인들이 리젠트의 왕좌를 운반하여, 그들의 군주가 왕좌 위에서 편안하게 이동하고 전투할 수 있도록 돕습니다.</STS_Regent_Throne.description>
+  <STS_Sovereign_Sword.label>군주의 칼날</STS_Sovereign_Sword.label>
+  <STS_Sovereign_Sword.description>리젠트는 손가락 하나만 까딱해도 적을 타격할 수 있는 강력한 무기를 소지하고 있습니다. 이 무기는 리젠트가 직접 단조할 수 있으며, 공격력을 지속적으로 증가시킬 수 있습니다.</STS_Sovereign_Sword.description>
+  <STS_Sovereign_Sword.verbs.Verb_ShootWithOffset.label>군주의 칼날</STS_Sovereign_Sword.verbs.Verb_ShootWithOffset.label>
+  <STS_Sovereign_Sword.tools.0.label>베기</STS_Sovereign_Sword.tools.0.label>
+  <STS_Sovereign_Sword_Bullet.label>군주의 칼날</STS_Sovereign_Sword_Bullet.label>
+</LanguageData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <STS_MinionsDive.label>물렀거라!</STS_MinionsDive.label>
+  <STS_MinionsDive.description>리젠트가 하수인 하나를 잡아 적에게 던집니다. 착지한 하수인은 산산조각나며 별 에너지를 방출해, 포탄처럼 적을 폭격합니다.</STS_MinionsDive.description>
+  
+  <STS_MinionsShield.label>하수인 희생</STS_MinionsShield.label>
+  <STS_MinionsShield.description>리젠트가 하수인 하나를 붙잡아 별빛 방패를 쥐어주고 적에게 던집니다. 착지한 하수인은 일정 범위 내의 적 화력을 차단하고 방패로 적의 진격을 지연시킵니다.</STS_MinionsShield.description>
+  
+  <STS_MinionsStriker.label>하수인 타격</STS_MinionsStriker.label>
+  <STS_MinionsStriker.description>리젠트가 하수인 하나를 붙잡아 단시간 강화한 뒤 적에게 던집니다. 착지한 타격 하수인은 강화된 양 주먹으로 적을 맹렬히 구타합니다.</STS_MinionsStriker.description>
+  
+  <STS_HeirloomHammer.label>선조의 망치</STS_HeirloomHammer.label>
+  <STS_HeirloomHammer.description>미완성된 물건의 남은 작업량을 즉시 0으로 만듭니다. 작업대에서 이미 제거된 물건이라면 다시 가져와야 효과가 적용됩니다. \n스킬을 사용한 후에는 다시 뽑아야 합니다.</STS_HeirloomHammer.description>
+  
+  <STS_KnowThyPlace.label>네 주제를 알라</STS_KnowThyPlace.label>
+  <STS_KnowThyPlace.description>리젠트가 대상을 꾸짖어 원거리 사격 정확도와 근접 공격 주기를 낮추는 대신, 피해 흡수 계수를 높입니다. \n스킬을 사용한 후에는 다시 뽑아야 합니다.</STS_KnowThyPlace.description>
+  
+  <STS_KnowThyPlace_Totarget.label>네 주제를 알라</STS_KnowThyPlace_Totarget.label>
+  <STS_KnowThyPlace_Totarget.description>"짐은 스타리스의 차기 여왕이다! 너희 중 누가 감히 분수를 모르고 넘보려 하느냐?"</STS_KnowThyPlace_Totarget.description>
+  
+  <STS_FallingStar.label>별똥별</STS_FallingStar.label>
+  <STS_FallingStar.description>별똥별을 유도해 목표 지점을 타격합니다. 타격 피해와 더불어 적에게 근접 피해를 입히고 원거리 사격 정확도를 떨어뜨리며 피해 흡수 계수를 증가시킵니다.</STS_FallingStar.description>
+  
+  <STS_FallingStar_Explosive_Debuff.label>별빛에 뒤덮임</STS_FallingStar_Explosive_Debuff.label>
+  <STS_FallingStar_Explosive_Debuff.description>신비로운 물질인 별빛에 휩싸여 이동 속도가 느려지고 취약해진 상태입니다.</STS_FallingStar_Explosive_Debuff.description>
+
+  <STS_CrescentSpear.label>초승달 창</STS_CrescentSpear.label>
+  <STS_CrescentSpear.description>초승달 창을 빠르게 던져 경로상의 모든 적을 꿰뚫고 큰 피해를 입힙니다. 창의 공격력은 단조 수치에 비례해 증가합니다.</STS_CrescentSpear.description>
+  
+  <STS_SolarStrike.label>태양의 타격</STS_SolarStrike.label>
+  <STS_SolarStrike.description>느리게 비행하는 섬광탄을 발사합니다. 적중 시 중규모 폭발을 일으키며, 섬광에 오염된 적이 사망하면 리젠트에게 별을 제공합니다. \n스킬을 사용한 후에는 다시 뽑아야 합니다.</STS_SolarStrike.description>
+  
+  <STS_SolarStrike_Explosive_Debuff.label>광휘의 낙인</STS_SolarStrike_Explosive_Debuff.label>
+  <STS_SolarStrike_Explosive_Debuff.description>광휘에 휩싸인 상태입니다. 이 개체가 사망하면 리젠트가 ✦ 별을 회수할 수 있습니다.</STS_SolarStrike_Explosive_Debuff.description>
+  
+  <STS_KinglyKick.label>왕의 발차기</STS_KinglyKick.label>
+  <STS_KinglyKick.description>도약하여 적의 안면을 걷어차 큰 피해를 입힙니다. 대상이 죽지 않았다면 멀리 밀쳐냅니다.</STS_KinglyKick.description>
+  
+  <STS_Astral_Pulse.label>별의 파동</STS_Astral_Pulse.label>
+  <STS_Astral_Pulse.description>전방으로 별 에너지를 즉시 방출하여 부채꼴 범위에 피해를 입히고 적들을 날려버리며 기절시킵니다.</STS_Astral_Pulse.description>
+
+  <STS_Venerate.label>추앙</STS_Venerate.label>
+  <STS_Venerate.description>즉시 20 ✦ 별을 획득합니다. (반복 가능)</STS_Venerate.description>
+  <STS_Royal_Gamble.label>성대한 도박</STS_Royal_Gamble.label>
+  <STS_Royal_Gamble.description>성공 시 45 ✦ 별을 획득합니다. (반복 가능)</STS_Royal_Gamble.description>
+  <STS_Glow.label>광채</STS_Glow.label>
+  <STS_Glow.description>즉시 10 ✦ 별을 획득합니다. (반복 가능)</STS_Glow.description>
+  <STS_Guards.label>막아라!!</STS_Guards.label>
+  <STS_Guards.description>하수인 최대 제한치를 6만큼 늘립니다.</STS_Guards.description>
+  <STS_SummonForth.label>대령하라</STS_SummonForth.label>
+  <STS_SummonForth.description>하수인 최대 제한치를 3만큼 늘립니다.</STS_SummonForth.description>
+  <STS_Glimmer.label>희미한 빛</STS_Glimmer.label>
+  <STS_Glimmer.description>즉시 뽑기 횟수를 1회 회복합니다. (반복 가능)</STS_Glimmer.description>
+  <STS_Alignment.label>정렬</STS_Alignment.label>
+  <STS_Alignment.description>즉시 3 ☀ 에너지를 획득합니다. (반복 가능)</STS_Alignment.description>
+  <STS_Orbit.label>궤도</STS_Orbit.label>
+  <STS_Orbit.description>매일 에너지와 뽑기 횟수가 초기화될 때 1 ☀ 에너지를 추가로 획득합니다.</STS_Orbit.description>
+  <STS_Genesis.label>창세</STS_Genesis.label>
+  <STS_Genesis.description>매일 에너지와 뽑기 횟수가 초기화될 때 10 ✦ 별을 추가로 획득합니다.</STS_Genesis.description>
+  <STS_Royalist.label>로열티</STS_Royalist.label>
+  <STS_Royalist.description>즉시 은 800개가 든 수송 포드를 호출합니다. (반복 가능)</STS_Royalist.description>
+  <STS_SpoilsOfBattles.label>전투의 성과</STS_SpoilsOfBattles.label>
+  <STS_SpoilsOfBattles.description>군주의 칼날 단조 수치를 즉시 3만큼 올립니다. (반복 가능)</STS_SpoilsOfBattles.description>
+  <STS_TheSmith.label>위대한 재련</STS_TheSmith.label>
+  <STS_TheSmith.description>군주의 칼날 단조 수치를 즉시 8만큼 올립니다. (반복 가능)</STS_TheSmith.description>
+  <STS_Furnace.label>용광로</STS_Furnace.label>
+  <STS_Furnace.description>매일 에너지와 뽑기 횟수가 초기화될 때 단조 수치를 2만큼 추가로 획득합니다.</STS_Furnace.description>
+
+  <STS_Regent_Base_Hediff.label>별의 선택</STS_Regent_Base_Hediff.label>
+  <STS_Regent_Base_Hediff.description>스타리스의 후계자인 리젠트의 신체는 별빛으로 이루어져 과학의 범주를 초월해 있습니다. 리젠트는 휴식이 필요하지 않으며, 음식은 먹을 수 있으나 필수는 아닌 즐거움일 뿐입니다. 또한 지속적인 피해를 입지 않는 한 모든 부상은 빠르게 회복됩니다.</STS_Regent_Base_Hediff.description>
+  
+  <STS_Regent_Cloth_Hediff.label>대기 중인 하수인</STS_Regent_Cloth_Hediff.label>
+  <STS_Regent_Cloth_Hediff.description>리젠트가 왕좌에서 일어나자, 왕좌를 나르던 두 하수인이 마침내 휴식을 취할 수 있게 되었습니다. 비록 곧 다른 업무에 투입되겠지만 말입니다.</STS_Regent_Cloth_Hediff.description>
+
+  <STS_Regent_Throne_Draw_Hediff.label>봉인된 왕좌</STS_Regent_Throne_Draw_Hediff.label>
+  <STS_Regent_Throne_Draw_Hediff.description>매우 견고한 재질로 만들어진 왕좌입니다. 하수인들은 왕좌를 돌려 등받이로 리젠트 전하를 날아오는 탄환으로부터 보호할 수 있습니다.</STS_Regent_Throne_Draw_Hediff.description>
+
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.0.reportString>하수인들에게 주변을 배회하도록 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.0.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.1.reportString>아무것도 안 하며 하수인의 머리를 발로 비비는 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.1.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.2.reportString>왕의 위엄에 어울리는 수식어를 연습 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.2.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.3.reportString>왕의 위엄에 어울리는 수식어를 연습 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.3.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.4.reportString>하수인들에게 경계를 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.4.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.5.reportString>하수인들에게 TargetA 타격을 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.5.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.6.reportString>하수인들에게 TargetA 포획을 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.6.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.7.reportString>하수인들에게 TargetA 조사를 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.7.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.8.reportString>위험에서 벗어나라고 하수인의 머리를 발꿈치로 툭툭 치는 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.8.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.9.reportString>위험에서 벗어나라고 하수인의 머리를 발꿈치로 툭툭 치는 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.9.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.10.reportString>하수인들에게 TargetA 운반을 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.10.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.11.reportString>하수인들에게 TargetA 운반을 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.11.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.12.reportString>하수인들에게 TargetA 운반을 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.12.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.13.reportString>하수인들에게 제설을 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.13.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.14.reportString>왕의 위엄에 어울리는 수식어를 연습 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.14.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.15.reportString>하수인들에게 전진을 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.15.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.16.reportString>하수인들에게 불을 끄라고 명령 중</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.16.reportString>
+  <STS_Regent_Throne_Draw_Hediff.reportStringOverrides.17.reportString>완전히 패배함</STS_Regent_Throne_Draw_Hediff.reportStringOverrides.17.reportString>
+  
+  <STS_LifespanHediff.label>수명 기록</STS_LifespanHediff.label>
+  <STS_LifespanHediff.description>이 수명 기록 상태는 평상시에는 보여서는 안 되는 데이터입니다.</STS_LifespanHediff.description>
+</LanguageData>
