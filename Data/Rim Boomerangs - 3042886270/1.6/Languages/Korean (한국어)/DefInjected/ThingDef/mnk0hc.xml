@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Boomerang_Jet.label>제트 부메랑</Boomerang_Jet.label>
+  <Boomerang_Jet.description>제트를 부착해 비행 속도와 사거리를 크게 늘린 흥미로운 현대식 부메랑입니다.</Boomerang_Jet.description>
+  <Boomerang_Jet.verbs.Verb_Shoot.label>제트 부메랑</Boomerang_Jet.verbs.Verb_Shoot.label>
+  <Boomerang_Jet.tools.0.label>날</Boomerang_Jet.tools.0.label>
+  <Jet_Boomerang_Thrown.label>제트 부메랑 (투척됨)</Jet_Boomerang_Thrown.label>
+  <Chakram_Light_Disk.label>광선 디스크</Chakram_Light_Disk.label>
+  <Chakram_Light_Disk.description>정체불명의 배터리로 구동되는, 기묘할 정도로 날카로운 에너지 날을 지닌 경량 투척 디스크입니다.</Chakram_Light_Disk.description>
+  <Chakram_Light_Disk.verbs.Verb_Shoot.label>광선 디스크</Chakram_Light_Disk.verbs.Verb_Shoot.label>
+  <Chakram_Light_Disk.tools.0.label>날</Chakram_Light_Disk.tools.0.label>
+  <Light_Disk_Thrown.label>광선 디스크 (투척됨)</Light_Disk_Thrown.label>
+  <Boomerang_Metal.label>메탈 부메랑</Boomerang_Metal.label>
+  <Boomerang_Metal.description>제작에는 다소 기술이 필요하지만, 베거나 던질 수 있는 금속 부메랑입니다.</Boomerang_Metal.description>
+  <Boomerang_Metal.verbs.Verb_Shoot.label>메탈 부메랑</Boomerang_Metal.verbs.Verb_Shoot.label>
+  <Boomerang_Metal.tools.0.label>날</Boomerang_Metal.tools.0.label>
+  <Metal_Boomerang_Thrown.label>메탈 부메랑 (투척됨)</Metal_Boomerang_Thrown.label>
+  <Chakram_Metal.label>메탈 차크람</Chakram_Metal.label>
+  <Chakram_Metal.description>제작에는 다소 기술이 필요하지만, 베거나 던질 수 있는 금속 부메랑입니다.</Chakram_Metal.description>
+  <Chakram_Metal.verbs.Verb_Shoot.label>메탈 차크람</Chakram_Metal.verbs.Verb_Shoot.label>
+  <Chakram_Metal.tools.0.label>날</Chakram_Metal.tools.0.label>
+  <Metal_Chakram_Thrown.label>메탈 차크람 (투척됨)</Metal_Chakram_Thrown.label>
+  <Chakram_Monoram.label>모노 차크람</Chakram_Monoram.label>
+  <Chakram_Monoram.description>단분자 절삭 날을 유지하는 메카나이트가 주입된 결정질 금속제 차크람입니다. 두꺼운 갑옷도 손쉽게 베어 내며, 가벼워서 빠른 공격이 가능합니다.</Chakram_Monoram.description>
+  <Chakram_Monoram.verbs.Verb_Shoot.label>모노 차크람</Chakram_Monoram.verbs.Verb_Shoot.label>
+  <Chakram_Monoram.tools.0.label>날</Chakram_Monoram.tools.0.label>
+  <Chakram_Monoram.tools.1.label>끝</Chakram_Monoram.tools.1.label>
+  <Chakram_Mono_Thrown.label>모노 차크람 (투척됨)</Chakram_Mono_Thrown.label>
+  <Boomerang_Monorang.label>모노랑</Boomerang_Monorang.label>
+  <Boomerang_Monorang.description>단분자 절삭 날을 유지하는 메카나이트가 주입된 결정질 금속제 부메랑입니다. 두꺼운 갑옷도 손쉽게 베어 내며, 가벼워서 빠른 공격이 가능합니다.</Boomerang_Monorang.description>
+  <Boomerang_Monorang.verbs.Verb_Shoot.label>모노랑</Boomerang_Monorang.verbs.Verb_Shoot.label>
+  <Boomerang_Monorang.tools.0.label>날</Boomerang_Monorang.tools.0.label>
+  <Boomerang_Monorang.tools.1.label>끝</Boomerang_Monorang.tools.1.label>
+  <Monorang_Thrown.label>모노랑 (투척됨)</Monorang_Thrown.label>
+  <Chakram_Plasma_Chakram.label>플라즈메랑</Chakram_Plasma_Chakram.label>
+  <Chakram_Plasma_Chakram.description>절삭 날을 갖춘 금속 중심의 부메랑입니다. 플라즈마는 에너지 장에 의해 중심부를 감싸며 고정되어 있습니다. 목표는 금속 중심부에 의해 베이는 동시에, 플라즈마 외피에 의해 화상을 입거나 점화됩니다.</Chakram_Plasma_Chakram.description>
+  <Chakram_Plasma_Chakram.verbs.Verb_Shoot.label>플라즈메랑</Chakram_Plasma_Chakram.verbs.Verb_Shoot.label>
+  <Chakram_Plasma_Chakram.tools.0.label>날</Chakram_Plasma_Chakram.tools.0.label>
+  <Chakram_Plasma_Chakram.tools.1.label>끝</Chakram_Plasma_Chakram.tools.1.label>
+  <Chakram_Plasma_Thrown.label>플라즈메랑 (투척됨)</Chakram_Plasma_Thrown.label>
+  <Boomerang_Plasmarang.label>플라즈메랑</Boomerang_Plasmarang.label>
+  <Boomerang_Plasmarang.description>절삭 날을 갖춘 금속 중심의 부메랑입니다. 플라즈마는 에너지 장에 의해 중심부를 감싸며 고정되어 있습니다. 목표는 금속 중심부에 의해 베이는 동시에, 플라즈마 외피에 의해 화상을 입거나 점화됩니다.</Boomerang_Plasmarang.description>
+  <Boomerang_Plasmarang.verbs.Verb_Shoot.label>플라즈메랑</Boomerang_Plasmarang.verbs.Verb_Shoot.label>
+  <Boomerang_Plasmarang.tools.0.label>날</Boomerang_Plasmarang.tools.0.label>
+  <Boomerang_Plasmarang.tools.1.label>끝</Boomerang_Plasmarang.tools.1.label>
+  <Plasmarang_Thrown.label>플라즈메랑 (투척됨)</Plasmarang_Thrown.label>
+  <Boomerang_Wooden.label>목조 부메랑</Boomerang_Wooden.label>
+  <Boomerang_Wooden.description>곤봉처럼 휘두르거나 던져 먼 목표를 맞힐 수 있도록 다듬은 막대기입니다.</Boomerang_Wooden.description>
+  <Boomerang_Wooden.verbs.Verb_Shoot.label>목조 부메랑</Boomerang_Wooden.verbs.Verb_Shoot.label>
+  <Boomerang_Wooden.tools.0.label>날</Boomerang_Wooden.tools.0.label>
+  <Wooden_Boomerang_Thrown.label>목조 부메랑 (투척됨)</Wooden_Boomerang_Thrown.label>
+  <Boomerang_Zeusrang.label>제우스메랑</Boomerang_Zeusrang.label>
+  <Boomerang_Zeusrang.description>EMP 축전기를 내장한 부메랑입니다. 명중 시 물리 피해와 함께 목표를 EMP 충격파로 강타합니다.</Boomerang_Zeusrang.description>
+  <Boomerang_Zeusrang.verbs.Verb_Shoot.label>제우스메랑</Boomerang_Zeusrang.verbs.Verb_Shoot.label>
+  <Boomerang_Zeusrang.tools.0.label>끄트머리</Boomerang_Zeusrang.tools.0.label>
+  <Zeusrang_Thrown.label>제우스메랑 (투척됨)</Zeusrang_Thrown.label>
+</LanguageData>
