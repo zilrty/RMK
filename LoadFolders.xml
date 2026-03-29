@@ -2382,6 +2382,7 @@
     <li IfModActive="Unreal.RIMSPR">Data/RIMSPR Craftable Genepacks - 3096937192</li>
     <li IfModActive="Lat.Rimstro">Data/Rimstro - 1714572710</li>
     <li IfModActive="cj.rimtalk">Data/Rimtalk - 3551203752</li>
+    <li IfModActive="hh.rimtalk.diary">Data/RimTalk Diary - 3683512417/1.6</li>
     <li IfModActive="Sierra.RT.GeneralTraits">Data/RimTraits - General Traits - 2206957172</li>
     <li IfModActive="Sierra.RT.MedievalTalents">Data/RimTraits - Medieval Talents - 1916352291</li>
     <li IfModActive="sierra.rt.vanillatraitcolors">Data/RimTraits - Vanilla Trait Colors - 2244594116</li>
@@ -5049,6 +5050,7 @@
     <li IfModActive="Unreal.RIMSPR">Data/RIMSPR Craftable Genepacks - 3096937192</li>
     <li IfModActive="Lat.Rimstro">Data/Rimstro - 1714572710</li>
     <li IfModActive="cj.rimtalk">Data/Rimtalk - 3551203752</li>
+    <li IfModActive="hh.rimtalk.diary">Data/RimTalk Diary - 3683512417/1.6</li>
     <li IfModActive="Sierra.RT.GeneralTraits">Data/RimTraits - General Traits - 2206957172</li>
     <li IfModActive="Sierra.RT.MedievalTalents">Data/RimTraits - Medieval Talents - 1916352291</li>
     <li IfModActive="sierra.rt.vanillatraitcolors">Data/RimTraits - Vanilla Trait Colors - 2244594116</li>
@@ -7717,6 +7719,7 @@
     <li IfModActive="Unreal.RIMSPR">Data/RIMSPR Craftable Genepacks - 3096937192</li>
     <li IfModActive="Lat.Rimstro">Data/Rimstro - 1714572710</li>
     <li IfModActive="cj.rimtalk">Data/Rimtalk - 3551203752</li>
+    <li IfModActive="hh.rimtalk.diary">Data/RimTalk Diary - 3683512417/1.6</li>
     <li IfModActive="Sierra.RT.GeneralTraits">Data/RimTraits - General Traits - 2206957172</li>
     <li IfModActive="Sierra.RT.MedievalTalents">Data/RimTraits - Medieval Talents - 1916352291</li>
     <li IfModActive="sierra.rt.vanillatraitcolors">Data/RimTraits - Vanilla Trait Colors - 2244594116</li>
@@ -10385,6 +10388,7 @@
     <li IfModActive="Unreal.RIMSPR">Data/RIMSPR Craftable Genepacks - 3096937192</li>
     <li IfModActive="Lat.Rimstro">Data/Rimstro - 1714572710</li>
     <li IfModActive="cj.rimtalk">Data/Rimtalk - 3551203752</li>
+    <li IfModActive="hh.rimtalk.diary">Data/RimTalk Diary - 3683512417/1.6</li>
     <li IfModActive="Sierra.RT.GeneralTraits">Data/RimTraits - General Traits - 2206957172</li>
     <li IfModActive="Sierra.RT.MedievalTalents">Data/RimTraits - Medieval Talents - 1916352291</li>
     <li IfModActive="sierra.rt.vanillatraitcolors">Data/RimTraits - Vanilla Trait Colors - 2244594116</li>
