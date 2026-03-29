@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Inspired_DreamerVision.label>몽상가의 영감</Inspired_DreamerVision.label>
+
+  <Inspired_DreamerVision.beginLetter>{PAWN_nameDef}(은)는 현실을 초월한 비전을 보았습니다. 앞으로 8일 동안 작업 효율과 이동 속도가 향상되며, 학습 속도 또한 대폭 상승합니다.</Inspired_DreamerVision.beginLetter>
+
+  <Inspired_DreamerVision.endMessage>{0}(은)는 이제 몽상가의 영감을 잃었습니다.</Inspired_DreamerVision.endMessage>
+
+  <Inspired_DreamerVision.baseInspectLine>의욕: 몽상가의 영감</Inspired_DreamerVision.baseInspectLine>
+</LanguageData>
