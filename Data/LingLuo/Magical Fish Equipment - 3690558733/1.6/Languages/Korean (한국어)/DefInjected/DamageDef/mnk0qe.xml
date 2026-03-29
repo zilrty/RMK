@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Damage_OctopusInk.label>먹물</Damage_OctopusInk.label>
+  <FishWeapon_IcedSwordfish.label>동상</FishWeapon_IcedSwordfish.label>
+  <FishWeapon_IcedSwordfish.deathMessage>{0}(이)가 얼어 죽었습니다..</FishWeapon_IcedSwordfish.deathMessage>
+  <Damage_SeaUrchin.label>성게</Damage_SeaUrchin.label>
+</LanguageData>

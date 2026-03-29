@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_ConchHat.label>소라 모자</Apparel_ConchHat.label>
+  <Apparel_ConchHat.description>속을 비워낸 소라 껍데기로 만든 모자로 둥글면서도 날카로워 보입니다. 드릴처럼 회전시켜 적을 공격할 수도 있습니다.</Apparel_ConchHat.description>
+  <Apparel_ConchHat.comps.0.chargeNoun>내구도</Apparel_ConchHat.comps.0.chargeNoun>
+  <Apparel_ConchHat.verbs.Verb_SpiralDrill.label>나선 드릴</Apparel_ConchHat.verbs.Verb_SpiralDrill.label>
+  <Apparel_FishTank.label>어항</Apparel_FishTank.label>
+  <Apparel_FishTank.description>액체로 가득 찬 어항으로 머리에 착용할 수 있습니다. 기묘하게도 그 안에서는 자유롭게 숨을 쉴 수 있습니다.</Apparel_FishTank.description>
+  <MFE_OctopusBackpack.label>문어 배낭</MFE_OctopusBackpack.label>
+  <MFE_OctopusBackpack.description>기묘한 자세로 등에 매달린 거대한 문어입니다. 착용자를 중심으로 시야를 가리는 연기를 내뿜거나, 적에게 눈을 멀게 하는 먹물을 발사할 수 있습니다.</MFE_OctopusBackpack.description>
+  <MFE_OctopusBackpack.comps.0.chargeNoun>문어 먹물</MFE_OctopusBackpack.comps.0.chargeNoun>
+  <MFE_OctopusBackpack.verbs.Verb_Smokepop.label>연기 방출</MFE_OctopusBackpack.verbs.Verb_Smokepop.label>
+  <MFE_OctopusBackpack.verbs.Verb_LaunchProjectileStatic.label>먹물 분사</MFE_OctopusBackpack.verbs.Verb_LaunchProjectileStatic.label>
+  <Bullet_OctopusInk.label>문어 먹물</Bullet_OctopusInk.label>
+  <Filth_OctopusInk.label>문어 먹물</Filth_OctopusInk.label>
+  <Apparel_TurtleShellBackpack.label>거북이 등껍질 배낭</Apparel_TurtleShellBackpack.label>
+  <Apparel_TurtleShellBackpack.description>거북의 등껍질로 제작된 배낭으로, 뒤에서 가해지는 모든 공격을 막아낼 수 있습니다. 어쩌면 다른 특별한 기능이 있을지도 모릅니다.</Apparel_TurtleShellBackpack.description>
+  <Building_StarfishTrap.label>불가사리 함정</Building_StarfishTrap.label>
+  <Building_StarfishTrap.description>생명체를 가둘 수 있는 거대한 불가사리입니다. 위를 지나가는 어떤 먹잇감이라도 단단히 붙잡습니다. 필요할 경우 포획한 먹잇감을 소화시켜 지속적으로 적을 붙잡을 수 있는 상태를 유지합니다.</Building_StarfishTrap.description>
+  <Mote_MakeFishWeapon.label>마법 물고기 장비</Mote_MakeFishWeapon.label>
+  <Mote_MakeFishWeapon.description>독특하고 경이로운 기능을 가진 환상적인 물고기 테마 무기 시리즈입니다.</Mote_MakeFishWeapon.description>
+  <FishWeapon_CrabClaw.label>게 집게발</FishWeapon_CrabClaw.label>
+  <FishWeapon_CrabClaw.description>거대한 게의 집게발로 철거 작업에 아주 유용해 보입니다.</FishWeapon_CrabClaw.description>
+  <FishWeapon_CrabClaw.tools.0.label>집게발</FishWeapon_CrabClaw.tools.0.label>
+  <FishWeapon_ElectricEel.label>전기 뱀장어 채찍</FishWeapon_ElectricEel.label>
+  <FishWeapon_ElectricEel.description>긴 채찍같이 사용할 수 있는 뱀장어로 휘두를 때마다 전기 충격을 가합니다. 또한 고전압 전기를 방출할 수도 있습니다.</FishWeapon_ElectricEel.description>
+  <FishWeapon_ElectricEel.tools.0.label>끝부분</FishWeapon_ElectricEel.tools.0.label>
+  <FishWeapon_ElectricEel.tools.1.label>채찍</FishWeapon_ElectricEel.tools.1.label>
+  <FishWeapon_FlyingFish.label>날치</FishWeapon_FlyingFish.label>
+  <FishWeapon_FlyingFish.description>무기처럼 던질 수 있도록 고정된 날치입니다. 결박을 풀어주면 마치 살아있는 것처럼 당신을 위해 싸워줄지도 모릅니다.</FishWeapon_FlyingFish.description>
+  <FishWeapon_FlyingFish.tools.0.label>끝부분</FishWeapon_FlyingFish.tools.0.label>
+  <FishWeapon_FlyingFish.verbs.Verb_Shoot.label>날치 날리기</FishWeapon_FlyingFish.verbs.Verb_Shoot.label>
+  <Bullet_FlyingFish.label>날치</Bullet_FlyingFish.label>
+  <Pawn_FlyingFish.label>날치</Pawn_FlyingFish.label>
+  <Pawn_FlyingFish.description>각성하여 주인을 위해 싸우는 날치입니다.</Pawn_FlyingFish.description>
+  <Pawn_FlyingFish.tools.0.label>머리</Pawn_FlyingFish.tools.0.label>
+  <FishWeapon_Swordfish.label>황새치</FishWeapon_Swordfish.label>
+  <FishWeapon_Swordfish.description>돛 같은 등지느러미와 칼처럼 긴 주둥이로 잘 알려진 대형 원양어류입니다. 주로 열대 및 아열대 해역에서 발견됩니다. 튼튼한 체구에 살은 기름기와 단백질이 풍부하여 영양가가 높습니다. 만약 이 물고기가 극한의 추위 속에서 얼어붙는다면 아주 유용한 무기가 될 수 있지 않을까요?</FishWeapon_Swordfish.description>
+  <FishWeapon_IcedSwordfish.label>냉동 황새치 대검</FishWeapon_IcedSwordfish.label>
+  <FishWeapon_IcedSwordfish.description>극저온에서 얼려져 단단하고 날카로워진 황새치입니다. 무기로 사용하기에 아주 적합합니다.</FishWeapon_IcedSwordfish.description>
+  <FishWeapon_IcedSwordfish.tools.0.label>칼날</FishWeapon_IcedSwordfish.tools.0.label>
+  <FishWeapon_IcedSwordfish.tools.1.label>칼끝</FishWeapon_IcedSwordfish.tools.1.label>
+  <FishWeapon_Megashark.label>메가 샤크</FishWeapon_Megashark.label>
+  <FishWeapon_Megashark.description>다른 세계에서 온 상어 형태의 화기입니다. 미니 샤크의 업그레이드 버전으로, 더욱 강력한 위력을 발휘하지만 제어하기는 더 힘듭니다.</FishWeapon_Megashark.description>
+  <FishWeapon_Megashark.verbs.Verb_Shoot.label>메가 샤크</FishWeapon_Megashark.verbs.Verb_Shoot.label>
+  <Bullet_Megashark.label>총알</Bullet_Megashark.label>
+  <FishWeapon_MiniShark.label>미니 샤크</FishWeapon_MiniShark.label>
+  <FishWeapon_MiniShark.description>다른 세계에서 온 상어 형태의 화기입니다. 이게 어떻게 만들어졌는지는 굳이 알려고 하지 마세요.</FishWeapon_MiniShark.description>
+  <FishWeapon_MiniShark.verbs.Verb_Shoot.label>미니 샤크</FishWeapon_MiniShark.verbs.Verb_Shoot.label>
+  <Bullet_MiniShark.label>총알</Bullet_MiniShark.label>
+  <FishWeapon_PufferfishDried.label>말린 복어</FishWeapon_PufferfishDried.label>
+  <FishWeapon_PufferfishDried.description>마력이 깃든 복어입니다. 물속에서 건져올렸는데도 어떻게 말라있는지는 정말 신비로운 수수께끼입니다.</FishWeapon_PufferfishDried.description>
+  <FishWeapon_PufferfishDried.verbs.Verb_Shoot.label>말린 복어</FishWeapon_PufferfishDried.verbs.Verb_Shoot.label>
+  <Bullet_PufferfishDried.label>마법 광선</Bullet_PufferfishDried.label>
+  <FishWeapon_SacabambaspisJanvieri.label>사카밤바스피스</FishWeapon_SacabambaspisJanvieri.label>
+  <FishWeapon_SacabambaspisJanvieri.description>오르도비스기에 살았던 갑주어입니다. 매우 튼튼해 보이는데... 휘둘러서 무기로 쓸 수 있을 것 같습니다.</FishWeapon_SacabambaspisJanvieri.description>
+  <FishWeapon_SacabambaspisJanvieri.tools.0.label>머리</FishWeapon_SacabambaspisJanvieri.tools.0.label>
+  <Bullet_SacabambaspisJanvieri.label>사카밤바스피스</Bullet_SacabambaspisJanvieri.label>
+  <FishWeapon_SeaUrchin.label>성게 발사기</FishWeapon_SeaUrchin.label>
+  <FishWeapon_SeaUrchin.description>성게를 발사할 수 있는 장치입니다. 발사된 성게는 대상에게 달라붙어 지속적으로 피해를 줍니다.</FishWeapon_SeaUrchin.description>
+  <FishWeapon_SeaUrchin.verbs.Verb_Shoot.label>성게 발사기</FishWeapon_SeaUrchin.verbs.Verb_Shoot.label>
+  <Bullet_SeaUrchin.label>성게</Bullet_SeaUrchin.label>
+</LanguageData>

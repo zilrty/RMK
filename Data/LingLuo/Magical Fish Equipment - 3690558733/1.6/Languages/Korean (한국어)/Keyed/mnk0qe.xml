@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LMFE_StarfishTrapToEat>{0}(이)가 불가사리 함정에 의해 소화되었습니다.</LMFE_StarfishTrapToEat>
+  <LMFE_TimeToEatOK>소화 진행도:</LMFE_TimeToEatOK>
+  <LMFE_YaoXiaoHua>내용물 소화</LMFE_YaoXiaoHua>
+  <LMFE_YaoXiaoHuaDesc>불가사리 함정에 포획된 내용물을 소화시킬지 여부입니다.</LMFE_YaoXiaoHuaDesc>
+  <LMFE_TempToTrans>{0}(이)가 저온 변환을 통해 {1}(으)로 변했습니다.</LMFE_TempToTrans>
+  <LMFE_TempLoad>변환 진행도: {0} ({1}일 후 완료)</LMFE_TempLoad>
+  <LMFE_TempRange>변환에 필요한 온도: {0}℃</LMFE_TempRange>
+  <LMFE_NewTemp>현재 온도: {0}℃</LMFE_NewTemp>
+</LanguageData>

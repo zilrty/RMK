@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ability_ElectricEel.label>뱀장어 폭발</Ability_ElectricEel.label>
+  <Ability_ElectricEel.description>전기 뱀장어에 저장된 모든 전력을 즉시 방출하여 EMP 효과가 있는 광범위한 전기 폭발을 일으킵니다.</Ability_ElectricEel.description>
+  <Ability_FlyingFish.label>날치 소환</Ability_FlyingFish.label>
+  <Ability_FlyingFish.description>손에 든 날치를 각성시켜 주인을 위해 싸우게 합니다.</Ability_FlyingFish.description>
+  <Ability_IcedSwordfish.label>냉기 확산</Ability_IcedSwordfish.label>
+  <Ability_IcedSwordfish.description>황새치에서 나오는 한기를 특정 방향으로 유도하여 적을 꿰뚫는 날카로운 고드름을 발사합니다.</Ability_IcedSwordfish.description>
+  <Ability_SacabambaspisJanvieri.label>갑주어 투척</Ability_SacabambaspisJanvieri.label>
+  <Ability_SacabambaspisJanvieri.description>사카밤바스피스를 휘둘러 내던집니다. 충돌 지점에 거대한 폭발을 일으킵니다.</Ability_SacabambaspisJanvieri.description>
+</LanguageData>
