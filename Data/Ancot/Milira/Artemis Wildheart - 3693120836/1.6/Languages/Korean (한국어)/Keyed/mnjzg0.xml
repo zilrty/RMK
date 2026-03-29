@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AL_Name_Artemis_First>아르테미스</AL_Name_Artemis_First>
+  <AL_Name_Artemis_Last>와일드하트</AL_Name_Artemis_Last>
+  <AL_Name_Artemis_Nick>아르테미스</AL_Name_Artemis_Nick>
+
+  <SpecialPawnArtemis.label>아르테미스 와일드하트</SpecialPawnArtemis.label>
+  <SpecialPawnArtemis.desc>전설적인 사냥꾼이자 실패한 유전자 실험체입니다. 키이로들의 손에 길러진 그녀는 이제 고향이라 부를 수 있는 곳을 찾아 홀로 세상을 탐험하고 있습니다.</SpecialPawnArtemis.desc>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Milira_BackstoryChild_01_Artemis.title>키이로 사냥꾼의 아이</Milira_BackstoryChild_01_Artemis.title>
+  <Milira_BackstoryChild_01_Artemis.titleShort>사냥꾼 아이</Milira_BackstoryChild_01_Artemis.titleShort>
+  <Milira_BackstoryChild_01_Artemis.description>[PAWN_nameDef](은)는 완벽한 전사를 만들기 위한 유전자 실험의 결과로 매우 기이한 변이를 가지고 태어났습니다. 하지만 태어나자마자 유전적 결함으로 판정받아 버려졌습니다. 얼마 지나지 않아 숲속 깊은 폐허에 버려진 [PAWN_nameDef]에게 한 키이로 사냥꾼이 흥미를 느꼈고, 그녀를 거두어 작은 마을에서 다른 키이로들과 함께 키웠습니다. 결국 사냥꾼은 그녀에게 사냥법과 활 쏘는 법을 가르쳐 주었습니다.</Milira_BackstoryChild_01_Artemis.description>
+
+  <Milira_BackstoryAdult_01_Artemis.title>전설적인 밀리라 여사냥꾼</Milira_BackstoryAdult_01_Artemis.title>
+  <Milira_BackstoryAdult_01_Artemis.titleShort>전설적인 여사냥꾼</Milira_BackstoryAdult_01_Artemis.titleShort>
+  <Milira_BackstoryAdult_01_Artemis.description>[PAWN_nameDef]의 업적이 지상에 널리 퍼지면서 그녀는 전설이 되었습니다. 천하무적이라 여겨졌던 맹수들을 사냥하고, 가장 포착하기 힘든 생물들을 추적했으며, 심지어 트럼보를 길들이는 데까지 성공했기 때문입니다. 동물에 대한 타고난 재능 덕분에 [PAWN_nameDef](은)는 전설적인 사냥꾼이자 숙련된 야생동물 조련사가 되었습니다. 이제 그녀는 언젠가 고향이라 부를 수 있는 완벽한 장소를 찾기를 바라며 여행하는 데 대부분의 시간을 보냅니다.</Milira_BackstoryAdult_01_Artemis.description>
+</LanguageData>
