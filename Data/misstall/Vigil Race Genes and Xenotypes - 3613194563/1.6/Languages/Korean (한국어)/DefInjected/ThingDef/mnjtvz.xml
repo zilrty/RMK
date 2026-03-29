@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRX_whiteblood.label>혈액</VRX_whiteblood.label>
+
+  <VRX_GDI.label>유전병 억제제</VRX_GDI.label>
+  <VRX_GDI.description>솔저 유전자에서 기인하는 유전 질환을 일정 기간 예방하는 약제입니다. 이미 발병한 경우에는 치료합니다.</VRX_GDI.description>
+  <VRX_GDI.ingestible.ingestCommandString>{0} 복용</VRX_GDI.ingestible.ingestCommandString>
+  <VRX_GDI.ingestible.ingestReportString>{0} 복용 중</VRX_GDI.ingestible.ingestReportString>
+
+  <VRX_Vigil_TypeAMKI_Item.label>비질 계약서 (라비쿠스 MKI)</VRX_Vigil_TypeAMKI_Item.label>
+  <VRX_Vigil_TypeAMKI_Item.description>합류를 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VRX_Vigil_TypeAMKI_Item.description>
+  <VRX_Vigil_TypeAMKI_Item.comps.1.useLabel>{0_label} 사용으로 비질과 계약</VRX_Vigil_TypeAMKI_Item.comps.1.useLabel>
+
+  <VRX_Vigil_TypeAMKII_Item.label>비질 계약서 (라비쿠스 MKII)</VRX_Vigil_TypeAMKII_Item.label>
+  <VRX_Vigil_TypeAMKII_Item.description>합류를 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VRX_Vigil_TypeAMKII_Item.description>
+  <VRX_Vigil_TypeAMKII_Item.comps.1.useLabel>{0_label} 사용으로 비질과 계약</VRX_Vigil_TypeAMKII_Item.comps.1.useLabel>
+
+  <VRX_Vigil_TypeAMKIII_Item.label>비질 계약서 (라비쿠스 MKIII)</VRX_Vigil_TypeAMKIII_Item.label>
+  <VRX_Vigil_TypeAMKIII_Item.description>합류를 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VRX_Vigil_TypeAMKIII_Item.description>
+  <VRX_Vigil_TypeAMKIII_Item.comps.1.useLabel>{0_label} 사용으로 비질과 계약</VRX_Vigil_TypeAMKIII_Item.comps.1.useLabel>
+
+  <VRX_Vigil_TypeEMKI_Item.label>비질 계약서 (레가티쿠스 MKI)</VRX_Vigil_TypeEMKI_Item.label>
+  <VRX_Vigil_TypeEMKI_Item.description>합류를 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VRX_Vigil_TypeEMKI_Item.description>
+  <VRX_Vigil_TypeEMKI_Item.comps.1.useLabel>{0_label} 사용으로 비질과 계약</VRX_Vigil_TypeEMKI_Item.comps.1.useLabel>
+
+  <VRX_Vigil_TypeBMKI_Item.label>비질 계약서 (파브리쿠스 MKI)</VRX_Vigil_TypeBMKI_Item.label>
+  <VRX_Vigil_TypeBMKI_Item.description>합류를 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VRX_Vigil_TypeBMKI_Item.description>
+  <VRX_Vigil_TypeBMKI_Item.comps.1.useLabel>{0_label} 사용으로 비질과 계약</VRX_Vigil_TypeBMKI_Item.comps.1.useLabel>
+
+  <VRX_Vigil_TypeCMKI_Item.label>비질 계약서 (메디쿠스 MKI)</VRX_Vigil_TypeCMKI_Item.label>
+  <VRX_Vigil_TypeCMKI_Item.description>합류를 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VRX_Vigil_TypeCMKI_Item.description>
+  <VRX_Vigil_TypeCMKI_Item.comps.1.useLabel>{0_label} 사용으로 비질과 계약</VRX_Vigil_TypeCMKI_Item.comps.1.useLabel>
+
+  <VRX_Vigil_TypeDMKI_Item.label>비질 계약서 (알리쿠스 MKI)</VRX_Vigil_TypeDMKI_Item.label>
+  <VRX_Vigil_TypeDMKI_Item.description>합류를 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VRX_Vigil_TypeDMKI_Item.description>
+  <VRX_Vigil_TypeDMKI_Item.comps.1.useLabel>{0_label} 사용으로 비질과 계약</VRX_Vigil_TypeDMKI_Item.comps.1.useLabel>
+
+  <VRX_Vigil_TypeDMKII_Item.label>비질 계약서 (알리쿠스 MKII)</VRX_Vigil_TypeDMKII_Item.label>
+  <VRX_Vigil_TypeDMKII_Item.description>합류를 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VRX_Vigil_TypeDMKII_Item.description>
+  <VRX_Vigil_TypeDMKII_Item.comps.1.useLabel>{0_label} 사용으로 비질과 계약</VRX_Vigil_TypeDMKII_Item.comps.1.useLabel>
+</LanguageData>

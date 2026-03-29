@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRX_healingInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 건강 상태를 살피고 조언을 건넸습니다. [RECIPIENT_nameDef](은)는 기운을 차렸습니다.</li>
+  </VRX_healingInteraction.logRulesInitiator.rulesStrings>
+</LanguageData>
