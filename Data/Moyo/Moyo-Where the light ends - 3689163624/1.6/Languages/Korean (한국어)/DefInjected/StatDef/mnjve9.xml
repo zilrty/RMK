@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Abyssal_BulletBlockChance.label>탄환 방어 확률</Abyssal_BulletBlockChance.label>
+  <Abyssal_BulletBlockChance.description>근접 무기를 들고 있을 때 날아오는 탄환 투사체를 방어할 확률입니다.</Abyssal_BulletBlockChance.description>
+
+  <Abyssal_BulletBlockChanceCap.label>탄환 방어 확률 한계치</Abyssal_BulletBlockChanceCap.label>
+  <Abyssal_BulletBlockChanceCap.description>탄환 방어 확률의 최댓값입니다. 탄환 방어 확률은 이 한계치를 초과할 수 없습니다.</Abyssal_BulletBlockChanceCap.description>
+</LanguageData>

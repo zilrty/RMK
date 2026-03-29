@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hadal_Moyo_NamerIdeo.rulePack.rulesStrings>
+    <li>r_ideoName->무색화</li>
+    <li>r_ideoAdjective->심해의</li>
+    <li>r_memberName->심해인</li>
+    <li>creed(priority=1)-></li>
+    <li>creed-></li>
+    <li>genericCreed-></li>
+    <li>hyphenPrefix-></li>
+    <li>hyphenPrefix-></li>
+  </Hadal_Moyo_NamerIdeo.rulePack.rulesStrings>
+</LanguageData>

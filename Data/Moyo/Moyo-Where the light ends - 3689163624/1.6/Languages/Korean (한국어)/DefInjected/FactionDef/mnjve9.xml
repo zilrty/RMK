@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HadalMoyo_AbyssalFleetFaction.label>심해 함대</HadalMoyo_AbyssalFleetFaction.label>
+  <HadalMoyo_AbyssalFleetFaction.fixedName>심해 함대</HadalMoyo_AbyssalFleetFaction.fixedName>
+  <HadalMoyo_AbyssalFleetFaction.description>심해 모요들로만 구성된 적대적인 세력입니다. 이들은 외부와의 접촉이나 교역을 일절 거부하며, 오직 타격하고 철수하기를 반복하는 단 하나의 단호한 목표를 위해 움직이는 것처럼 보입니다. 이들이 사용하는 화기와 장비들은 때때로 제국에 필적하는 수준을 보여줍니다.\n\n현지의 기록과 생존자들의 증언 중 일치하는 것은 오로지 이들의 잔혹함뿐입니다. 일부 학자들은 이 함대를 강력한 '기함'들이 이끄는 분산된 군사 문화체로 간주하는 반면, 해안가의 설화들은 이들을 심해에서 솟아오른 복수의 물결로 묘사하곤 합니다.</HadalMoyo_AbyssalFleetFaction.description>
+  <HadalMoyo_AbyssalFleetFaction.pawnSingular>심해인</HadalMoyo_AbyssalFleetFaction.pawnSingular>
+  <HadalMoyo_AbyssalFleetFaction.pawnsPlural>심해인</HadalMoyo_AbyssalFleetFaction.pawnsPlural>
+  <HadalMoyo_AbyssalFleetFaction.ideoName>야마토의 목적</HadalMoyo_AbyssalFleetFaction.ideoName>
+  <HadalMoyo_AbyssalFleetFaction.leaderTitle>지휘관</HadalMoyo_AbyssalFleetFaction.leaderTitle>
+
+  <HadalMoyo_PlayerFaction.label>방랑자들</HadalMoyo_PlayerFaction.label>
+  <HadalMoyo_PlayerFaction.description>방랑자들의 정착지입니다.</HadalMoyo_PlayerFaction.description>
+  <HadalMoyo_PlayerFaction.pawnSingular>방랑자</HadalMoyo_PlayerFaction.pawnSingular>
+  <HadalMoyo_PlayerFaction.pawnsPlural>방랑자들</HadalMoyo_PlayerFaction.pawnsPlural>
+  <HadalMoyo_PlayerFaction.leaderTitle>지도자</HadalMoyo_PlayerFaction.leaderTitle>
+</LanguageData>

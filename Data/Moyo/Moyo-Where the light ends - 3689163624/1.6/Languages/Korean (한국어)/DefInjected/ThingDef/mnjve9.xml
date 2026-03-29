@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AbyssSkyfall_AbyssalBombardment.label>심해 포격</AbyssSkyfall_AbyssalBombardment.label>
+  <Abyssal_AbyssalDropPodSpawner.label>심해 낙하 포드 호출</Abyssal_AbyssalDropPodSpawner.label>
+  <HadalMoyo_Blood.label>혈액</HadalMoyo_Blood.label>
+  <HadalMoyo_BloodSmear.label>혈흔</HadalMoyo_BloodSmear.label>
+  <Hadal_Moyo_Heart.label>모요 심장(심해)</Hadal_Moyo_Heart.label>
+  <Hadal_Moyo_Heart.description>심해 모요의 심장입니다. 노란색을 띱니다.</Hadal_Moyo_Heart.description>
+
+  <Nihilium_Serum.label>니힐리움 혈청</Nihilium_Serum.label>
+  <Nihilium_Serum.description>정제된 심해 모요의 혈액으로 만든 매우 강력한 혈청입니다. 사용자를 훨씬 강하게 만들고 통증을 무디게 하지만, 영구적인 신체 변화를 일으키며 극도로 공격적으로 만듭니다.
+
+첫 투여 후 신체는 이 혈청에 영구적으로 의존하게 됩니다. 투여를 중단하면 광란 상태에 빠지며, 약 1.5일 이내에 장기 부전이 시작되어 확실한 죽음에 이르게 됩니다.
+
+분자 구조가 매우 불안정하기 때문에 강력한 폭약의 주원료로도 사용됩니다.</Nihilium_Serum.description>
+  <Nihilium_Serum.ingestible.ingestCommandString>{0} 주사</Nihilium_Serum.ingestible.ingestCommandString>
+  <Nihilium_Serum.ingestible.ingestReportString>{0} 주사 중.</Nihilium_Serum.ingestible.ingestReportString>
+
+  <OilyYellowBloodBag.label>기름진 노란 혈액팩</OilyYellowBloodBag.label>
+  <OilyYellowBloodBag.description>심해 모요에게서 채취한 걸쭉하고 노란 기름진 혈액입니다. 매우 불안정하며 섭취 시 위험합니다. 소형 고화력 폭약에 사용되는 니힐리움의 주원료입니다. 포함된 화학연료를 제거하기 위해 반드시 정제 과정을 거쳐야 합니다. 이것이 어떻게 그곳에 있게 되었는지는 알 수 없습니다.</OilyYellowBloodBag.description>
+  <YellowBloodBag.label>노란 혈액팩</YellowBloodBag.label>
+  <YellowBloodBag.description>정제된 심해 모요의 노란 혈액입니다. 소형 고화력 폭약에 사용되는 니힐리움의 주원료입니다.</YellowBloodBag.description>
+
+  <Hadal_Moyo.label>심해 모요</Hadal_Moyo.label>
+  <Hadal_Moyo.description>불완전한 초월공학의 버려진 실험 결과물인 심해 모요입니다. 이들은 한때 평범한 모요였으나, 죽은 뒤 레테 초월입자에 감염된 물속에 방치되었습니다. 그들의 신체는 심각한 변형을 거쳐 압력과 피해에 더 강해졌습니다. 전투에 매우 적합하며 일반적인 모요보다 신체적으로 강력합니다.
+
+하지만 일반 모요보다 느리며, 몸속의 레테 초월입자로 인해 EMP 공격에 취약하여 감각이 크게 저하됩니다.
+
+한때 혈관을 흐르던 딥블루는 니힐리움으로 변했습니다. 니힐리움은 몸속에 있을 때는 안정적이지만, 외부로 추출되면 폭약의 재료로 사용할 수 있습니다. 또한 약물에 대해 매우 공격적인 화학 반응을 보이기 때문에, 심해 모요에게는 긍정적이든 부정적이든 그 어떤 약물도 효과가 없습니다. 심지어 루시페륨조차 아무런 효과를 내지 못합니다.</Hadal_Moyo.description>
+  <Hadal_Moyo.tools.0.label>왼손 주먹</Hadal_Moyo.tools.0.label>
+  <Hadal_Moyo.tools.1.label>오른손 주먹</Hadal_Moyo.tools.1.label>
+  <Hadal_Moyo.tools.2.label>이빨</Hadal_Moyo.tools.2.label>
+  <Hadal_Moyo.tools.3.label>머리</Hadal_Moyo.tools.3.label>
+
+  <Abyssal_Anchor.label>심해의 닻</Abyssal_Anchor.label>
+  <Abyssal_Anchor.description>심해 모요의 신체를 부활에 필요한 깊이까지 안전하게 내리기 위해 설계된 장치입니다. 부활 과정이 완료된 것이 확인되면 닻이 자동으로 심해 모요를 끌어 올립니다.</Abyssal_Anchor.description>
+  <HadalMoyo_Bodysuit.label>심해 바디슈트</HadalMoyo_Bodysuit.label>
+  <HadalMoyo_Bodysuit.description>신체 보호나 슈트로서의 기능은 떨어지지만, 함대 내에서는 이 이름으로 굳어졌습니다. 보호 성능은 미미하고 단열 효과도 거의 없습니다. 진정한 목적은 미적인 부분에 있는데, 아름답고 통일된 실루엣을 만드는 데 집중되어 있습니다.</HadalMoyo_Bodysuit.description>
+  <HadalMoyo_OutcastGarment.label>방랑자의 의복</HadalMoyo_OutcastGarment.label>
+  <HadalMoyo_OutcastGarment.description>지상을 여행하는 심해 모요 전사들이 입는 옷입니다. 장거리 여행을 위해 설계되어 착용감이 매우 좋고 단열 및 보호 성능도 준수합니다.</HadalMoyo_OutcastGarment.description>
+  <HadalMoyo_OutcastHat.label>방랑자의 모자</HadalMoyo_OutcastHat.label>
+  <HadalMoyo_OutcastHat.description>심해 모요 방랑자들이 착용하는 원뿔형 전투 모자입니다. 전통적인 디자인을 본떠 제작되었으며 비, 햇빛, 가벼운 충격으로부터 보호해 줍니다. 형태와 챙의 그림자를 이용해 착용자의 얼굴을 숨길 수도 있습니다.</HadalMoyo_OutcastHat.description>
+
+  <HadalMoyo_FastShield.label>심해 고속 보호막 벨트</HadalMoyo_FastShield.label>
+  <HadalMoyo_FastShield.description>심해 함대에서 제작한 소형 보호막 발생기입니다. 투사체와 파편을 차단하며, 재생 속도가 매우 빨라 전투 중에도 손상되지 않은 것처럼 보일 때가 많습니다. 그러나 방어력은 표준 보호막 벨트보다 훨씬 약하며, 지속적인 사격이나 강력한 타격에 쉽게 과부하될 수 있습니다. 작동이 중단된 동안 보호막이 재충전됩니다. 착용자가 외부로 사격할 수 있게 해주지만, EMP 공격에는 완전히 무력화됩니다.</HadalMoyo_FastShield.description>
+  <HadalMoyo_NormalShield.label>심해 보호막 벨트</HadalMoyo_NormalShield.label>
+  <HadalMoyo_NormalShield.description>심해 함대에서 제작한 소형 보호막 발생기입니다. 투사체와 파편을 차단하며, 에너지 출력은 표준 보호막 벨트를 상회합니다. 작동이 중단된 동안 재충전되며 외부 사격이 가능하지만, EMP 공격에는 완전히 무력화됩니다.</HadalMoyo_NormalShield.description>
+  <HadalMoyo_SailorUniform.label>심해 선원복</HadalMoyo_SailorUniform.label>
+  <HadalMoyo_SailorUniform.description>개방형 선원 의복입니다. 물리적인 보호 성능은 부족하지만, 열기로부터 신체를 잘 보호해 줍니다.</HadalMoyo_SailorUniform.description>
+  <HadalMoyo_SweaterOne.label>부드러운 심해 스웨터</HadalMoyo_SweaterOne.label>
+  <HadalMoyo_SweaterOne.description>따뜻하고 방수가 되는 반개방형 스웨터입니다. 추위에 효과적이며 더운 날씨에도 어느 정도 도움이 됩니다. 약간의 보호 성능도 갖추고 있습니다.
+
+이 스웨터는 포옹을 위해 만들어진 것처럼 매우 부드럽지만, 이 스웨터가 만들어진 곳에는 그럴 기회가 그리 많지 않습니다.</HadalMoyo_SweaterOne.description>
+
+  <HadalMoyo_RevolverHeavyCannon.label>리볼버 중포 A155</HadalMoyo_RevolverHeavyCannon.label>
+  <HadalMoyo_RevolverHeavyCannon.description>심해 함대에서 유래한 회전식 탄창을 사용하는 중포입니다. 거대한 크기의 이 화기는 회전식 드럼을 사용해 3발의 중량 포탄을 빠르게 발사합니다. 연사가 가능하다는 장점이 있지만 재장전 시간이 매우 깁니다. 발전된 설계에도 불구하고 매우 무겁고 다루기 힘들기 때문에, 힘이 강하거나 강화 시술을 받은 사수에게 적합합니다.</HadalMoyo_RevolverHeavyCannon.description>
+  <HadalMoyo_SuperHeavyCannon.label>초중포 A460</HadalMoyo_SuperHeavyCannon.label>
+  <HadalMoyo_SuperHeavyCannon.description>인간형 개체가 사용하도록 설계된 심해 함대의 초중포입니다. 다양한 안정화 및 조준 장치가 내장되어 투사체를 믿을 수 없을 정도로 빠르고 안정적으로 날려 보냅니다. 동급의 어떤 포보다 높은 농도의 니힐리움을 투사할 수 있어, 명중 시 정밀하고 엄청난 관통력을 가진 폭발을 일으킵니다. 단점은 무거운 중량, 긴 재장전 시간, 그리고 조준이 쉽지 않다는 점입니다.</HadalMoyo_SuperHeavyCannon.description>
+  <HadalMoyo_MediumCannon.label>심해 소형 포</HadalMoyo_MediumCannon.label>
+  <HadalMoyo_MediumCannon.description>심해 함대에서 사용하는 중간 구경 화기입니다. 산탄총과 유사하게 하단 게이트를 통해 장전하지만, 강화된 포신을 통해 포탄을 발사합니다. 대부분의 발사기보다 무겁지만 보병 혼자서 운용할 수 있습니다. 사거리와 충격력 면에서 유탄 발사기보다는 소형 야포에 가깝습니다.</HadalMoyo_MediumCannon.description>
+
+  <Nihilium_mediumshell.label>니힐리움 중형 포탄</Nihilium_mediumshell.label>
+  <Nihilium_heavyshell.label>니힐리움 대형 포탄</Nihilium_heavyshell.label>
+  <Nihilium_superheavyshell.label>니힐리움 초대형 포탄</Nihilium_superheavyshell.label>
+
+  <HadalMoyo_HuClassMech.label>강철바닥 보병</HadalMoyo_HuClassMech.label>
+  <HadalMoyo_HuClassMech.description>심해 함대에서 제작한 후급 메카노이드입니다. 지상 전투를 위해 만들어졌습니다.
+
+보통 '강철바닥 해병'이라고 불립니다. 가면을 쓴 인간과 매우 흡사한 외형을 가지고 있어 때때로 불쾌한 골짜기를 유발합니다. 가면 외에는 별다른 외부 장갑을 걸치지 않았음에도 꽤 튼튼합니다. 특이하게도 말을 할 수 있지만 거의 하지 않습니다. 그들이 내뱉는 "강철바닥으로... 가라앉아라"는 말에서 그들의 별명이 유래되었습니다. 이들의 행동은 마치 누군가 실로 조종하는 인간처럼 보입니다.
+
+'텅 빈 눈에서 눈물이 흐릅니다. 그들은 정말 의식이 없는 걸까요?'</HadalMoyo_HuClassMech.description>
+  <HadalMoyo_HuClassMech.tools.0.label>왼손 주먹</HadalMoyo_HuClassMech.tools.0.label>
+  <HadalMoyo_HuClassMech.tools.1.label>오른손 주먹</HadalMoyo_HuClassMech.tools.1.label>
+  <HadalMoyo_HuClassMech.tools.2.label>머리</HadalMoyo_HuClassMech.tools.2.label>
+
+  <HadalMoyo_Impclassvessel.label>임프</HadalMoyo_Impclassvessel.label>
+  <HadalMoyo_Impclassvessel.description>심해 함대에서 제작한 임프급 메카노이드입니다.
+
+커다랗고 이빨이 가득한 입을 가진 작은 구체 형태입니다. 물어뜯는 공격이 매우 위협적일 뿐만 아니라, 파괴될 때 니힐리움 폭발을 일으킵니다. 이 때문에 근접 전투는 매우 위험합니다.
+
+진정한 메카노이드인지, 아니면 기계와 살점의 합성물인지는 알려지지 않았습니다. 확실한 것은 임프가 저렴하고 소모성이 강해 함대가 타격하는 모든 곳에 배치된다는 점입니다.</HadalMoyo_Impclassvessel.description>
+  <HadalMoyo_Impclassvessel.tools.0.label>이빨</HadalMoyo_Impclassvessel.tools.0.label>
+  <HadalMoyo_Impclassvessel.tools.1.label>머리</HadalMoyo_Impclassvessel.tools.1.label>
+
+  <HadalMoyo_TwoHandedBlade.label>심해 양손검</HadalMoyo_TwoHandedBlade.label>
+  <HadalMoyo_TwoHandedBlade.description>심해 함대에서 사용하는 거대한 고주파 검입니다. 칼날에 내장된 메카나이트가 활성화되면 고속으로 진동하여 대부분의 물질을 베어버릴 수 있습니다.
+
+무게와 독특한 균형 때문에 다루기 어려우며, 숙련된 기술과 근력을 동시에 요구합니다.
+
+"필사즉생 필생즉사" - 칼날에 새겨진 문구.</HadalMoyo_TwoHandedBlade.description>
+  <HadalMoyo_TwoHandedBlade.tools.0.label>자루</HadalMoyo_TwoHandedBlade.tools.0.label>
+  <HadalMoyo_TwoHandedBlade.tools.1.label>칼끝</HadalMoyo_TwoHandedBlade.tools.1.label>
+  <HadalMoyo_TwoHandedBlade.tools.2.label>칼날</HadalMoyo_TwoHandedBlade.tools.2.label>
+
+  <HadalMoyo_TwoHandedBlade_Outcast.label>손상된 심해 양손검</HadalMoyo_TwoHandedBlade_Outcast.label>
+  <HadalMoyo_TwoHandedBlade_Outcast.description>심해 함대에서 사용되던 양손검의 낡고 해진 버전입니다. 수리 없이 오랫동안 사용하여 칼날의 특성이 크게 저하되었습니다. 온전한 검보다 위력이 약하고 고성능 장갑을 관통하는 데 더 많은 힘이 들지만, 수리를 통해 복구할 수 있습니다.
+
+"삼척서천 산하동색 - 석 자 칼로 하늘에 맹세하니 강산이 떨고,
+일휘소탕 혈염산하 - 한 번 휘둘러 쓸어버리니 피가 강산을 물들인다." - 칼날에 새겨진 문구.</HadalMoyo_TwoHandedBlade_Outcast.description>
+  <HadalMoyo_TwoHandedBlade_Outcast.tools.0.label>자루</HadalMoyo_TwoHandedBlade_Outcast.tools.0.label>
+  <HadalMoyo_TwoHandedBlade_Outcast.tools.1.label>칼끝</HadalMoyo_TwoHandedBlade_Outcast.tools.1.label>
+  <HadalMoyo_TwoHandedBlade_Outcast.tools.2.label>칼날</HadalMoyo_TwoHandedBlade_Outcast.tools.2.label>
+
+  <HadalMoyo_TwoHandedBlade_Outcast_Fixed.label>완성된 심해 양손검</HadalMoyo_TwoHandedBlade_Outcast_Fixed.label>
+  <HadalMoyo_TwoHandedBlade_Outcast_Fixed.description>길고 화려한 역사를 가진 강력한 칼날입니다. 수리를 거쳐 본래의 성능을 되찾았습니다.
+
+"삼척서천 산하동색 - 석 자 칼로 하늘에 맹세하니 강산이 떨고,
+일휘소탕 혈염산하 - 한 번 휘둘러 쓸어버리니 피가 강산을 물들인다." - 칼날에 새겨진 문구.</HadalMoyo_TwoHandedBlade_Outcast_Fixed.description>
+  <HadalMoyo_TwoHandedBlade_Outcast_Fixed.tools.0.label>자루</HadalMoyo_TwoHandedBlade_Outcast_Fixed.tools.0.label>
+  <HadalMoyo_TwoHandedBlade_Outcast_Fixed.tools.1.label>칼끝</HadalMoyo_TwoHandedBlade_Outcast_Fixed.tools.1.label>
+  <HadalMoyo_TwoHandedBlade_Outcast_Fixed.tools.2.label>칼날</HadalMoyo_TwoHandedBlade_Outcast_Fixed.tools.2.label>
+
+  <HadalMoyo_OneHandedBlade.label>심해 한손검</HadalMoyo_OneHandedBlade.label>
+  <HadalMoyo_OneHandedBlade.description>심해 함대에서 유래한 묵직한 한손검입니다. 어비스틸로 벼려진 이 무기는 언뜻 투박해 보일 수 있지만, 그 날카로움은 완벽에 가깝습니다. 보통의 사용자라면 제대로 휘두르기 위해 양손을 모두 사용해야 할 것입니다.</HadalMoyo_OneHandedBlade.description>
+  <HadalMoyo_OneHandedBlade.tools.0.label>자루</HadalMoyo_OneHandedBlade.tools.0.label>
+  <HadalMoyo_OneHandedBlade.tools.1.label>칼끝</HadalMoyo_OneHandedBlade.tools.1.label>
+  <HadalMoyo_OneHandedBlade.tools.2.label>칼날</HadalMoyo_OneHandedBlade.tools.2.label>
+
+  <HadalMoyo_Gauntlet.label>심해 건틀릿</HadalMoyo_Gauntlet.label>
+  <HadalMoyo_Gauntlet.description>심해 함대에서 유래한 정체불명의 살아있는(?) 건틀릿 무기입니다. 이 육중한 건틀릿에는 손가락이 없는 대신, 손이 있어야 할 자리에 마디가 나뉘고 이빨이 돋아난 아가리가 길게 뻗어 있습니다. 압도적인 힘으로 대상을 물어뜯어 강화 강철조차 손쉽게 관통할 수 있습니다.
+
+이것이 생명체인지, 기계인지, 혹은 그 중간의 무언가인지는 알 수 없습니다. 사용자의 의도에 반응하지만, 자아를 가진 명확한 징후는 보이지 않습니다.</HadalMoyo_Gauntlet.description>
+  <HadalMoyo_Gauntlet.tools.0.label>주먹</HadalMoyo_Gauntlet.tools.0.label>
+  <HadalMoyo_Gauntlet.tools.1.label>이빨</HadalMoyo_Gauntlet.tools.1.label>
+
+  <HadalMoyo_Autocannon.label>전하 기관포 A25</HadalMoyo_Autocannon.label>
+  <HadalMoyo_Autocannon.description>심해 함대에서 유래한 미래시대급 수동식 전하 기관포입니다. 각 탄환은 매우 불안정한 에너지로 충전되어 명중 시 폭발을 일으킵니다. 단일 탄환의 위력은 그리 크지 않지만, 쏟아지는 탄막은 다수의 적을 제압하는 데 매우 효과적입니다.</HadalMoyo_Autocannon.description>
+  <Bullet_HadalAutocannon.label>폭발 전하 탄환</Bullet_HadalAutocannon.label>
+
+  <HadalMoyo_Antishiprifle.label>대함 소총 A-SCR A21 '나르왈'</HadalMoyo_Antishiprifle.label>
+  <HadalMoyo_Antishiprifle.description>심해 함대에서 사용하는 육중한 대함 전하 소총입니다. '나르왈'은 장거리에서 장갑을 뚫고 최대한의 타격을 입히도록 설계되었습니다. 엔진을 무력화하거나 비행 표적을 격추하고 선체 장갑을 관통하는 데 탁월한 성능을 발휘합니다. 그러나 거대한 크기와 무게로 인해 근접전에서는 다루기 매우 힘듭니다. 심해 함대 보병 무기 중 가장 공포스러운 장비 중 하나입니다.
+
+"신을 믿는다면, 지금 당장 기도나 시작하는 게 좋을 거다."</HadalMoyo_Antishiprifle.description>
+  <Bullet_Antishiprifle.label>대함 전하탄</Bullet_Antishiprifle.label>
+
+  <HadalMoyo_Railgun.label>레일건 A2</HadalMoyo_Railgun.label>
+  <HadalMoyo_Railgun.description>심해 함대에서 유래한 경량 레일건입니다. 이중 레일 가속 시스템을 사용하여 투사체를 초고속으로 발사하며, 준수한 공격력과 관통력을 자랑합니다. 단점은 발사까지 필요한 준비 시간이 길다는 점입니다. 이처럼 저렴하면서도 강력한 레일건은 심해 함대의 기계화 보병들에게 훌륭한 해결책이 되었습니다.</HadalMoyo_Railgun.description>
+  <Bullet_HadalRailgun.label>레일건 탄환</Bullet_HadalRailgun.label>
+
+  <HadalMoyo_Battlerifle.label>전하 소총 A308 '므리야'</HadalMoyo_Battlerifle.label>
+  <HadalMoyo_Battlerifle.description>심해 함대에서 유래한 중전투 소총입니다. 대인용으로 설계된 A308 '므리야'는 높은 정확도와 관통력을 자랑하며, 탄환이 총신을 떠날 때 불안정한 에너지를 충전합니다. 다만 그 무게로 인해 조작감이 다소 둔중합니다.</HadalMoyo_Battlerifle.description>
+
+  <HadalMoyo_ChargeShotgun.label>리볼버 전하 산탄총 A12-1</HadalMoyo_ChargeShotgun.label>
+  <HadalMoyo_ChargeShotgun.description>심해 함대에서 유래한 리볼버 방식의 산탄총입니다. 각 탄환에 주입된 불안정한 에너지는 강력한 장갑 관통력을 제공하며, 리볼버 실린더를 통해 빠른 연사가 가능합니다.</HadalMoyo_ChargeShotgun.description>
+
+  <HadalMoyo_ChargeShotgunBlade.label>검날 전하 산탄총 A12-2</HadalMoyo_ChargeShotgunBlade.label>
+  <HadalMoyo_ChargeShotgunBlade.description>심해 함대에서 유래한 리볼버 방식의 산탄총입니다. 강력한 장갑 관통력과 빠른 연사력을 갖추고 있습니다. 총신 끝에 육중한 대검이 장착되어 있어 근접 타격 능력까지 겸비했습니다.</HadalMoyo_ChargeShotgunBlade.description>
+  <HadalMoyo_ShotgunBlast.label>심해 산탄총 사격</HadalMoyo_ShotgunBlast.label>
+
+  <HadalMoyo_BeamGunSniper.label>광선 저격 소총 A9</HadalMoyo_BeamGunSniper.label>
+  <HadalMoyo_BeamGunSniper.description>심해 함대에서 유래한 길쭉한 판자 형태의 광선 소총입니다. 수많은 설계 개선을 거쳐 모든 사거리에서 극강의 정확도와 안정성을 제공합니다. 광선의 위력 자체는 압도적이지 않지만, 보호막을 통과하고 장갑을 효과적으로 관통할 수 있습니다.
+
+근접전을 선호하는 심해인들의 기질 덕분에, 심해 모요가 이 소총을 휘두를 때는 몽둥이 대용으로도 쓰일 수 있습니다.</HadalMoyo_BeamGunSniper.description>
+  <Bullet_BeamGunSniper.label>BSR 레이저</Bullet_BeamGunSniper.label>
+
+  <HadalMoyo_ChargeAAHMG.label>전하 기관총 A14</HadalMoyo_ChargeAAHMG.label>
+  <HadalMoyo_ChargeAAHMG.description>심해 함대에서 유래한 대공 기관총입니다. 명칭과는 달리 심해 함대는 이 무기를 대공과 대지 공격 모두에 사용했습니다. 여러 기술적 해법을 통합하여 높은 정확도와 효과적인 장갑 관통력을 보여줍니다. 본래 대공용이었으나, '함선 사냥꾼(Ship Hunters)'들의 등장 이후 대인 화기로 더 자주 쓰이기 시작했습니다.</HadalMoyo_ChargeAAHMG.description>
+  <Bullet_HadalChargeHMG.label>기관총 전하탄</Bullet_HadalChargeHMG.label>
+
+  <HadalMoyo_NihiliumShell.label>니힐리움 포탄</HadalMoyo_NihiliumShell.label>
+  <HadalMoyo_NihiliumShell.description>니힐리움이 가득 찬 포탄입니다. 박격포로 발사하거나 함정으로 설치할 수 있습니다. 피해를 입으면 폭발합니다.</HadalMoyo_NihiliumShell.description>
+  <HadalMoyo_NihiliumTrapIED.label>IED 니힐리움 함정</HadalMoyo_NihiliumTrapIED.label>
+  <HadalMoyo_NihiliumTrapIED.description>접촉하거나 총탄을 맞으면 터지도록 설계된 니힐리움 포탄 함정입니다. 주변 지형에 숨겨져 있어 다른 함정 바로 옆에는 설치할 수 없습니다. 길들여진 동물들은 이 함정을 감지하고 피할 수 있습니다.</HadalMoyo_NihiliumTrapIED.description>
+
+  <HadalMoyo_Torpedoes.label>심해 어뢰</HadalMoyo_Torpedoes.label>
+  <HadalMoyo_Torpedoes.description>심해 함대에서 유래한 투척용 폭발물입니다. 이 소형 어뢰들은 휘발성 니힐리움을 함유하고 있습니다. 기괴한 모양과 무게에도 불구하고, 힘이 충분하다면 거대한 다트처럼 손으로 던질 수 있습니다. 명중 시 대전차고폭탄(HEAT)과 유사한 장갑 관통력을 발휘하며 폭발합니다. 왜 이런 방식으로 작동하는지는 불분명하지만, 어쨌든 효과적입니다.</HadalMoyo_Torpedoes.description>
+  <HadalMoyo_Torpedoes.verbs.Verb_LaunchProjectile.label>어뢰 투척</HadalMoyo_Torpedoes.verbs.Verb_LaunchProjectile.label>
+
+  <HadalMoyo_VacuumBelt.label>진공 보호막 벨트</HadalMoyo_VacuumBelt.label>
+  <HadalMoyo_VacuumBelt.description>심해 함대에서 유래한 희귀한 미래시대 장치입니다. 착용자 주변에 얇은 진공 저항 역장을 생성하여 우주의 압축적인 압력 효과에 대항합니다. 함대의 수중 압력 보호막과 동일한 원리로 설계되었습니다. 거의 완벽한 진공 보호 기능을 제공하지만, 산소 발생 능력이 제한적이어서 역장 내부에서 숨을 쉬는 데는 다소 어려움이 따릅니다.</HadalMoyo_VacuumBelt.description>
+</LanguageData>

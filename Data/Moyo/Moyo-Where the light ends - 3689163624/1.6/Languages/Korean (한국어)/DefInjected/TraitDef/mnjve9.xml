@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HadalMoyo_desperate.degreeDatas.0.label>절망</HadalMoyo_desperate.degreeDatas.0.label>
+  <HadalMoyo_desperate.degreeDatas.0.description>끝없이 반복되는 폭력의 굴레가 {PAWN_nameDef}의 정신을 무겁게 짓누르고 있습니다. 이 비극이 끝나기만을 바라는 간절한 희망에 이끌려, {PAWN_pronoun}은 비장한 각오로 전투에 임합니다.</HadalMoyo_desperate.degreeDatas.0.description>
+
+  <HadalMoyo_Outcast.degreeDatas.0.label>방랑자</HadalMoyo_Outcast.degreeDatas.0.label>
+  <HadalMoyo_Outcast.degreeDatas.0.description>수년간 이어진 끝없는 전투는 [PAWN_nameDef]에게 큰 상처를 남겼지만, {PAWN_pronoun}은 고통을 뚫고 나아가는 법을 배웠습니다. 육신은 비틀거릴지언정 그 본능만큼은 결코 굴복하지 않습니다.</HadalMoyo_Outcast.degreeDatas.0.description>
+
+  <HadalMoyo_Flagship.degreeDatas.0.label>기함</HadalMoyo_Flagship.degreeDatas.0.label>
+  <HadalMoyo_Flagship.degreeDatas.0.description>[PAWN_nameDef](은)는 심해 함대의 의지를 대변하는 '기함'입니다.</HadalMoyo_Flagship.degreeDatas.0.description>
+</LanguageData>
