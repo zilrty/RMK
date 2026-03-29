@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Wolf_ROE_Nordberg.label>북방 늑대</Wolf_ROE_Nordberg.label>
+  <Wolf_ROE_Nordberg.description>북방 지역을 어지럽히는 거대한 늑대로, 인간 부족들의 오랜 남획으로 인해 매우 사나워졌습니다. 하지만 길들일 수만 있다면, 꽤 장난기 많고 주인을 위해 죽을 때까지 싸우는 충성심으로 알려져 있습니다.</Wolf_ROE_Nordberg.description>
+  <Wolf_ROE_Nordberg.tools.0.label>왼 발톱</Wolf_ROE_Nordberg.tools.0.label>
+  <Wolf_ROE_Nordberg.tools.1.label>오른 발톱</Wolf_ROE_Nordberg.tools.1.label>
+  <Wolf_ROE_Nordberg.tools.3.label>머리</Wolf_ROE_Nordberg.tools.3.label>
+  <Wolf_ROE_NordbergAlpha.label>알파 북방 늑대</Wolf_ROE_NordbergAlpha.label>
+  <Wolf_ROE_NordbergAlpha.description>동족보다 훨씬 크게 자란 고대의 북방 늑대입니다. 오랜 세월의 풍파 속에서 수많은 경험을 쌓았고, 온몸에는 그 흔적이 깊게 박여 있습니다.</Wolf_ROE_NordbergAlpha.description>
+  <Wolf_ROE_NordbergAlpha.tools.0.label>왼 발톱</Wolf_ROE_NordbergAlpha.tools.0.label>
+  <Wolf_ROE_NordbergAlpha.tools.1.label>오른 발톱</Wolf_ROE_NordbergAlpha.tools.1.label>
+  <Wolf_ROE_NordbergAlpha.tools.3.label>머리</Wolf_ROE_NordbergAlpha.tools.3.label>
+  <Nordberg_ROE_Yeti.label>예티</Nordberg_ROE_Yeti.label>
+  <Nordberg_ROE_Yeti.description>북방의 머나먼 끝자락에 서식한다고 알려진 희귀한 괴수입니다. 예티는 인간 거주지 하나쯤은 손쉽게 쓸어 버릴 수 있을 만큼 극도로 위험한 존재입니다. 그러나 거대한 덩치와는 달리, 먼저 공격적인 태세를 취하는 일은 드물며, 아기 바다표범처럼 귀엽다고 여기는 동물들과는 종종 공존하기도 합니다.</Nordberg_ROE_Yeti.description>
+  <Nordberg_ROE_Yeti.tools.0.label>왼 주먹</Nordberg_ROE_Yeti.tools.0.label>
+  <Nordberg_ROE_Yeti.tools.1.label>오른 주먹</Nordberg_ROE_Yeti.tools.1.label>
+  <Bullet_ROE_Nordberg_Rock.label>바위</Bullet_ROE_Nordberg_Rock.label>
+  <Nordberg_ROE_Seal.label>북방 바다표범</Nordberg_ROE_Seal.label>
+  <Nordberg_ROE_Seal.description>엄니와 사나운 성질을 지닌 독특한 바다표범종입니다. 어린 개체는 새하얀 털가죽과 더불어 부모하고 닮은 구석이라곤 찾아 볼 수 없는 커다란 눈을 지녔으며, 이를 귀엽다고 여기는 이도 있지만 외려 섬뜩하다고 느끼는 이들도 더러는 있습니다.</Nordberg_ROE_Seal.description>
+  <Nordberg_ROE_Seal.tools.0.label>엄니</Nordberg_ROE_Seal.tools.0.label>
+  <Nordberg_ROE_Seal.tools.2.label>머리</Nordberg_ROE_Seal.tools.2.label>
+  <Nordberg_ROE_Snowhare.label>북방 토끼</Nordberg_ROE_Snowhare.label>
+  <Nordberg_ROE_Snowhare.description>북방 기후권에서 흔히 볼 수 있는 동물로서, 이 두 발 달린 토끼들은 혹독한 겨울 환경에 적응해 살아남았습니다. 고기는 얼마 되지 않지만, 두꺼운 털가죽 때문에 현지 부족들의 사냥감이 되곤 합니다.</Nordberg_ROE_Snowhare.description>
+  <Nordberg_ROE_Snowhare.tools.1.label>머리</Nordberg_ROE_Snowhare.tools.1.label>
+  <Apparel_ROE_NordbergBoy.label>남아 전용 북방 파카</Apparel_ROE_NordbergBoy.label>
+  <Apparel_ROE_NordbergBoy.description>눈밭을 마음껏 뛰놀 수 있도록 몸에 꼭 맞게 짠 노르드베르그의 남아용 전통 파카입니다.</Apparel_ROE_NordbergBoy.description>
+  <Apparel_ROE_NordbergGirl.label>여아 전용 북방 파카</Apparel_ROE_NordbergGirl.label>
+  <Apparel_ROE_NordbergGirl.description>눈밭을 마음껏 뛰놀 수 있도록 몸에 꼭 맞게 짠 노르드베르그의 여아용 전통 파카입니다.</Apparel_ROE_NordbergGirl.description>
+  <Apparel_ROE_NordbergWitchBoy.label>추방자의 파카</Apparel_ROE_NordbergWitchBoy.label>
+  <Apparel_ROE_NordbergWitchBoy.description>노르드베르그의 악명 높은 고아, '마도 소년'을 본떠 만든 특제 파카입니다. 거친 생김새 덕분에 어린아이조차 주변의 자연 마력과 이어 닿을 수 있게 해 줍니다.</Apparel_ROE_NordbergWitchBoy.description>
+  <Apparel_ROE_NordbergWitchGirl.label>여아 전용 고급 북방 파카</Apparel_ROE_NordbergWitchGirl.label>
+  <Apparel_ROE_NordbergWitchGirl.description>특별한 손질을 더한 여아용 털가죽 파카입니다.</Apparel_ROE_NordbergWitchGirl.description>
+  <Apparel_ROE_LanternA.label>동지 전야제 등불</Apparel_ROE_LanternA.label>
+  <Apparel_ROE_LanternA.description>동지섣달 전야제를 위해 만든 작은 종이 등불입니다. 보통, 아이들이 몸을 녹이고 어른들이 술을 마시는 동안 마을 가장자리를 돌아다니는 데 쓰입니다.\n\n무게 3을 초과하는 무기를 장비 중이면 강제로 떨어뜨립니다.</Apparel_ROE_LanternA.description>
+  <Apparel_ROE_LanternB.label>섣달 전야제 등불</Apparel_ROE_LanternB.label>
+  <Apparel_ROE_LanternB.description>동지섣달 전야제를 위해 만든 작은 종이 등불입니다. 보통, 아이들이 몸을 녹이고 어른들이 술을 마시는 동안 마을 가장자리를 돌아다니는 데 쓰입니다.\n\n무게 3을 초과하는 무기를 장비 중이면 강제로 떨어뜨립니다.</Apparel_ROE_LanternB.description>
+  <Apparel_ROE_NordbergA.label>북방 털 파카</Apparel_ROE_NordbergA.label>
+  <Apparel_ROE_NordbergA.description>노르드베르그 사람들이 입는 커다란 털가죽 파카입니다. 믿기 어려울 만큼 따뜻하고 튼튼합니다.</Apparel_ROE_NordbergA.description>
+  <Apparel_ROE_NordbergB.label>북방 털가죽 파카</Apparel_ROE_NordbergB.label>
+  <Apparel_ROE_NordbergB.description>노르드베르그 사람들이 입는 커다란 털가죽 파카입니다. 믿기 어려울 만큼 따뜻하고 튼튼합니다.</Apparel_ROE_NordbergB.description>
+  <Apparel_ROE_NordbergHunter.label>사냥꾼 파카</Apparel_ROE_NordbergHunter.label>
+  <Apparel_ROE_NordbergHunter.description>장거리 이동과 사냥을 위해 만든 크고 묵직한 파카입니다. 일반 파카보다 훨씬 두껍고, 늑대 가죽으로 보강되어 추가적인 보호력을 제공합니다.</Apparel_ROE_NordbergHunter.description>
+  <Apparel_ROE_NordbergMistress.label>북방 아낙 드레스</Apparel_ROE_NordbergMistress.label>
+  <Apparel_ROE_NordbergMistress.description>북방풍 장식을 더한 화려하고 값비싼 드레스입니다. 몸매를 돋보이게 해 주며, 겉보기와 달리 꽤 튼튼합니다. 다소 성격이 거센 아낙들에게 어울리도록 만들어졌습니다.</Apparel_ROE_NordbergMistress.description>
+  <Apparel_ROE_NordbergBoyHood.label>남아 전용 북방 후드</Apparel_ROE_NordbergBoyHood.label>
+  <Apparel_ROE_NordbergBoyHood.description>혹독한 겨울 바람 속에서도 노르드베르그의 남자아이들을 따뜻하게 지켜 주는 작은 털 안감 후드입니다.</Apparel_ROE_NordbergBoyHood.description>
+  <Apparel_ROE_NordbergGirlHood.label>여아 전용 북방 후드</Apparel_ROE_NordbergGirlHood.label>
+  <Apparel_ROE_NordbergGirlHood.description>혹독한 겨울 바람 속에서도 노르드베르그의 여자아이들을 따뜻하게 지켜 주는 작은 털 안감 후드입니다.</Apparel_ROE_NordbergGirlHood.description>
+  <Apparel_ROE_NordbergWitchBoyHood.label>추방자의 후드</Apparel_ROE_NordbergWitchBoyHood.label>
+  <Apparel_ROE_NordbergWitchBoyHood.description>마도 소년'이라 불리던 고아가 착용한 서리로 뒤덮인 튼튼한 후드와 가면입니다. 그 모습은 바라보는 이들에게 불길한 기분을 불러일으키는 것으로 알려져 있습니다.</Apparel_ROE_NordbergWitchBoyHood.description>
+  <Apparel_ROE_NordbergEarmuffs.label>아동용 북방 귀마개</Apparel_ROE_NordbergEarmuffs.label>
+  <Apparel_ROE_NordbergEarmuffs.description>어린아이를 위해 만든 사랑스러운 귀마개 한 쌍으로, 보기보다 훨씬 따뜻합니다.</Apparel_ROE_NordbergEarmuffs.description>
+  <Apparel_ROE_NordbergBeanieA.label>북방 비니</Apparel_ROE_NordbergBeanieA.label>
+  <Apparel_ROE_NordbergBeanieA.description>두꺼운 털 안감이 들어간 모자입니다. 아주 따뜻하면서도 멋스럽습니다.</Apparel_ROE_NordbergBeanieA.description>
+  <Apparel_ROE_NordbergBeanieB.label>북방 털 비니</Apparel_ROE_NordbergBeanieB.label>
+  <Apparel_ROE_NordbergBeanieB.description>두꺼운 털 안감이 들어간 모자입니다. 아주 따뜻하면서도 멋스럽습니다.</Apparel_ROE_NordbergBeanieB.description>
+  <Apparel_ROE_NordbergFurHat.label>북방 털모자</Apparel_ROE_NordbergFurHat.label>
+  <Apparel_ROE_NordbergFurHat.description>두껍고 튼튼한 털 안감 모자입니다. 아주 따뜻하면서도 멋스럽습니다.</Apparel_ROE_NordbergFurHat.description>
+  <Apparel_ROE_NordbergAdultEarmuffs.label>북방 귀마개</Apparel_ROE_NordbergAdultEarmuffs.label>
+  <Apparel_ROE_NordbergAdultEarmuffs.description>노르드베르그 양식으로 만든 귀마개 한 쌍입니다. 보기보다 훨씬 따뜻합니다.</Apparel_ROE_NordbergAdultEarmuffs.description>
+  <Apparel_ROE_NordbergShawl.label>북방 어깨 담요</Apparel_ROE_NordbergShawl.label>
+  <Apparel_ROE_NordbergShawl.description>북방풍 무늬를 수놓은 고급 숄입니다. 바깥을 자주 들락일 생각이 없는 아낙들을 위해 만들어졌습니다.</Apparel_ROE_NordbergShawl.description>
+  <Apparel_ROE_NordbergHunterHood.label>사냥꾼 후드</Apparel_ROE_NordbergHunterHood.label>
+  <Apparel_ROE_NordbergHunterHood.description>장거리 이동과 사냥을 위해 만든 튼튼한 방한 마스크 겸 후드입니다.</Apparel_ROE_NordbergHunterHood.description>
+  <Apparel_ROE_HarpoonBag.label>작살 꾸러미</Apparel_ROE_HarpoonBag.label>
+  <Apparel_ROE_HarpoonBag.description>가죽으로 감아 묶은 작살 꾸러미입니다.</Apparel_ROE_HarpoonBag.description>
+  <MeleeWeapon_ROE_HuntersClub.label>사냥꾼의 둔기</MeleeWeapon_ROE_HuntersClub.label>
+  <MeleeWeapon_ROE_HuntersClub.description>한쪽 끝에 철제 띠를 덧댄 커다란 둔기입니다. 사냥꾼들이 작은 먹잇감을 때려잡는 데 쓰며, 어린 바다표범을 잡아 털가죽을 얻거나 다른 지역에 팔 늑대를 생포할 때도 자주 사용합니다.</MeleeWeapon_ROE_HuntersClub.description>
+  <MeleeWeapon_ROE_HuntersClub.tools.0.label>손잡이</MeleeWeapon_ROE_HuntersClub.tools.0.label>
+  <MeleeWeapon_ROE_HuntersClub.tools.1.label>끄트머리</MeleeWeapon_ROE_HuntersClub.tools.1.label>
+  <Nordberg_ROE_Harpoon.label>사냥용 작살</Nordberg_ROE_Harpoon.label>
+  <Nordberg_ROE_Harpoon.description>북방의 사냥 부족들이 사용하는 커다란 투척용 작살입니다. 큰 먹잇감을 상처 입히고 피를 말려 쓰러뜨리기 위해 만들어졌습니다.</Nordberg_ROE_Harpoon.description>
+  <Nordberg_ROE_Harpoon.verbs.Verb_Shoot.label>사냥용 작살</Nordberg_ROE_Harpoon.verbs.Verb_Shoot.label>
+  <Nordberg_ROE_Harpoon.tools.0.label>자루</Nordberg_ROE_Harpoon.tools.0.label>
+  <Nordberg_ROE_Harpoon.tools.1.label>촉</Nordberg_ROE_Harpoon.tools.1.label>
+  <NordbergHarpoon_Thrown.label>작살</NordbergHarpoon_Thrown.label>
+</LanguageData>

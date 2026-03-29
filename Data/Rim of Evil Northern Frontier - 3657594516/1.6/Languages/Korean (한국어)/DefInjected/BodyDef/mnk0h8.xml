@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PinnipedWithTusks_Nordberg.label>기각류</PinnipedWithTusks_Nordberg.label>
+  <PinnipedWithTusks_Nordberg.corePart.parts.4.customLabel>왼쪽 폐</PinnipedWithTusks_Nordberg.corePart.parts.4.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.5.customLabel>오른쪽 폐</PinnipedWithTusks_Nordberg.corePart.parts.5.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.6.customLabel>왼쪽 신장</PinnipedWithTusks_Nordberg.corePart.parts.6.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.7.customLabel>오른쪽 신장</PinnipedWithTusks_Nordberg.corePart.parts.7.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.10.customLabel>왼쪽 앞다리</PinnipedWithTusks_Nordberg.corePart.parts.10.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.11.customLabel>오른쪽 앞다리</PinnipedWithTusks_Nordberg.corePart.parts.11.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.12.customLabel>왼쪽 뒷다리</PinnipedWithTusks_Nordberg.corePart.parts.12.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.13.customLabel>오른쪽 뒷다리</PinnipedWithTusks_Nordberg.corePart.parts.13.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.10.parts.0.customLabel>왼쪽 앞갈퀴</PinnipedWithTusks_Nordberg.corePart.parts.10.parts.0.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.11.parts.0.customLabel>오른쪽 앞갈퀴</PinnipedWithTusks_Nordberg.corePart.parts.11.parts.0.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.12.parts.0.customLabel>왼쪽 뒷갈퀴</PinnipedWithTusks_Nordberg.corePart.parts.12.parts.0.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.13.parts.0.customLabel>오른쪽 뒷갈퀴</PinnipedWithTusks_Nordberg.corePart.parts.13.parts.0.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.9.parts.0.parts.1.customLabel>왼눈</PinnipedWithTusks_Nordberg.corePart.parts.9.parts.0.parts.1.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.9.parts.0.parts.2.customLabel>오른눈</PinnipedWithTusks_Nordberg.corePart.parts.9.parts.0.parts.2.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.9.parts.0.parts.4.customLabel>왼쪽 엄니</PinnipedWithTusks_Nordberg.corePart.parts.9.parts.0.parts.4.customLabel>
+  <PinnipedWithTusks_Nordberg.corePart.parts.9.parts.0.parts.5.customLabel>오른쪽 엄니</PinnipedWithTusks_Nordberg.corePart.parts.9.parts.0.parts.5.customLabel>
+  <Nordberg_Yeti.label>예티</Nordberg_Yeti.label>
+  <Nordberg_Yeti.corePart.parts.6.customLabel>왼쪽 폐</Nordberg_Yeti.corePart.parts.6.customLabel>
+  <Nordberg_Yeti.corePart.parts.7.customLabel>오른쪽 폐</Nordberg_Yeti.corePart.parts.7.customLabel>
+  <Nordberg_Yeti.corePart.parts.8.customLabel>왼쪽 신장</Nordberg_Yeti.corePart.parts.8.customLabel>
+  <Nordberg_Yeti.corePart.parts.9.customLabel>오른쪽 신장</Nordberg_Yeti.corePart.parts.9.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.customLabel>왼 어깨</Nordberg_Yeti.corePart.parts.12.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.customLabel>오른 어깨</Nordberg_Yeti.corePart.parts.13.customLabel>
+  <Nordberg_Yeti.corePart.parts.15.customLabel>왼다리</Nordberg_Yeti.corePart.parts.15.customLabel>
+  <Nordberg_Yeti.corePart.parts.16.customLabel>오른다리</Nordberg_Yeti.corePart.parts.16.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.parts.0.customLabel>왼쪽 쇄골</Nordberg_Yeti.corePart.parts.12.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.parts.1.customLabel>왼팔</Nordberg_Yeti.corePart.parts.12.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.parts.0.customLabel>오른쪽 쇄골</Nordberg_Yeti.corePart.parts.13.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.parts.1.customLabel>오른팔</Nordberg_Yeti.corePart.parts.13.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.15.parts.0.customLabel>왼쪽 허벅지</Nordberg_Yeti.corePart.parts.15.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.15.parts.1.customLabel>왼쪽 정강이</Nordberg_Yeti.corePart.parts.15.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.15.parts.2.customLabel>왼발</Nordberg_Yeti.corePart.parts.15.parts.2.customLabel>
+  <Nordberg_Yeti.corePart.parts.16.parts.0.customLabel>오른쪽 허벅지</Nordberg_Yeti.corePart.parts.16.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.16.parts.1.customLabel>오른쪽 정강이</Nordberg_Yeti.corePart.parts.16.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.16.parts.2.customLabel>오른발</Nordberg_Yeti.corePart.parts.16.parts.2.customLabel>
+  <Nordberg_Yeti.corePart.parts.11.parts.0.parts.1.customLabel>외눈</Nordberg_Yeti.corePart.parts.11.parts.0.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.11.parts.0.parts.2.customLabel>왼쪽 귀</Nordberg_Yeti.corePart.parts.11.parts.0.parts.2.customLabel>
+  <Nordberg_Yeti.corePart.parts.11.parts.0.parts.3.customLabel>오른쪽 귀</Nordberg_Yeti.corePart.parts.11.parts.0.parts.3.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.parts.1.parts.0.customLabel>왼쪽 위팔</Nordberg_Yeti.corePart.parts.12.parts.1.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.parts.1.parts.1.customLabel>왼쪽 아래팔</Nordberg_Yeti.corePart.parts.12.parts.1.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.parts.1.parts.2.customLabel>왼손</Nordberg_Yeti.corePart.parts.12.parts.1.parts.2.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.parts.1.parts.0.customLabel>오른쪽 위팔</Nordberg_Yeti.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.parts.1.parts.1.customLabel>오른쪽 아래팔</Nordberg_Yeti.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.parts.1.parts.2.customLabel>오른손</Nordberg_Yeti.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Nordberg_Yeti.corePart.parts.15.parts.2.parts.0.customLabel>왼쪽 엄지발가락</Nordberg_Yeti.corePart.parts.15.parts.2.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.15.parts.2.parts.1.customLabel>왼쪽 가운뎃발가락</Nordberg_Yeti.corePart.parts.15.parts.2.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.15.parts.2.parts.2.customLabel>왼쪽 새끼발가락</Nordberg_Yeti.corePart.parts.15.parts.2.parts.2.customLabel>
+  <Nordberg_Yeti.corePart.parts.16.parts.2.parts.0.customLabel>오른쪽 엄지발가락</Nordberg_Yeti.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.16.parts.2.parts.1.customLabel>오른쪽 가운뎃발가락</Nordberg_Yeti.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.16.parts.2.parts.2.customLabel>오른쪽 새끼발가락</Nordberg_Yeti.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>왼 손가락</Nordberg_Yeti.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>왼손 가운뎃손가락</Nordberg_Yeti.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>왼손 엄지손가락</Nordberg_Yeti.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>오른 손가락</Nordberg_Yeti.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>오른손 가운뎃손가락</Nordberg_Yeti.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Nordberg_Yeti.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>오른손 엄지손가락</Nordberg_Yeti.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+</LanguageData>
