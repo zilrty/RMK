@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_Intercept.label>탄환 요격</Bullet_Intercept.label>
+  <Grenade_Intercept.label>유탄 요격</Grenade_Intercept.label>
+  <Beam_Intercept.label>빔 요격</Beam_Intercept.label>
+</LanguageData>

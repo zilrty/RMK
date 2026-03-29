@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_SignalTower.label>신호탑</SR_SignalTower.label>
+  <SR_SignalTower.description>신호를 송수신하는 탑입니다.</SR_SignalTower.description>
+
+  <SR_SignalTower.approachOrderString>{0} 공격</SR_SignalTower.approachOrderString>
+  <SR_SignalTower.approachingReportString>{0} 공격 중</SR_SignalTower.approachingReportString>
+
+  <SR_SignalTower.arrivedLetter>이 지역에 적의 전초기지가 있습니다.</SR_SignalTower.arrivedLetter>
+</LanguageData>

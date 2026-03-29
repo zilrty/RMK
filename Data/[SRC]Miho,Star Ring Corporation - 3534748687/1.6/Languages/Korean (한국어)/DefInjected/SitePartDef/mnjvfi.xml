@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_RallyPoint.label>집결지</SR_RallyPoint.label>
+  <SR_RallyPoint.description>집결지입니다.</SR_RallyPoint.description>
+  <SR_RallyPoint.approachOrderString>{0} 공격</SR_RallyPoint.approachOrderString>
+  <SR_RallyPoint.approachingReportString>{0} 공격 중</SR_RallyPoint.approachingReportString>
+  <SR_RallyPoint.arrivedLetter>이 지역에 적의 전초기지가 있습니다.</SR_RallyPoint.arrivedLetter>
+
+  <SR_ItemStash.label>물품 보관소</SR_ItemStash.label>
+  <SR_ItemStash.description>최근에 구매한 물품들이 보관되어 있는 지점입니다.</SR_ItemStash.description>
+</LanguageData>

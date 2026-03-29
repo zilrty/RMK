@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_Mercenary_Diplomat.label>외교관</SR_Mercenary_Diplomat.label>
+  <SR_Mercenary_Diplomat.description>임시 외교관을 고용합니다.</SR_Mercenary_Diplomat.description>
+  <SR_Mercenary_Professor.label>교수</SR_Mercenary_Professor.label>
+  <SR_Mercenary_Professor.description>정착지의 연구를 도와줄 교수를 고용합니다.</SR_Mercenary_Professor.description>
+
+  <SR_Mercenary_Hercules.label>헤라클레스</SR_Mercenary_Hercules.label>
+  <SR_Mercenary_Hercules.description>S.R.C로부터 헤라클레스를 고용합니다.</SR_Mercenary_Hercules.description>
+  <SR_Mercenary_Seginus_guard.label>세기누스</SR_Mercenary_Seginus_guard.label>
+  <SR_Mercenary_Seginus_guard.description>S.R.C로부터 세기누스를 고용합니다.</SR_Mercenary_Seginus_guard.description>
+
+  <SR_Mercenary_Sirius_MB.label>MB 드론</SR_Mercenary_Sirius_MB.label>
+  <SR_Mercenary_Sirius_MB.description>S.R.C로부터 AM9T 시리우스-A 주력 전투 드론을 고용합니다.</SR_Mercenary_Sirius_MB.description>
+  <SR_Mercenary_Sirius_FS.label>FS 드론</SR_Mercenary_Sirius_FS.label>
+  <SR_Mercenary_Sirius_FS.description>S.R.C로부터 AM9T 시리우스-A 화력 지원 드론을 고용합니다.</SR_Mercenary_Sirius_FS.description>
+  <SR_Mercenary_Sirius_AC.label>AC 드론</SR_Mercenary_Sirius_AC.label>
+  <SR_Mercenary_Sirius_AC.description>S.R.C로부터 AM9T 시리우스-A 포병 지원 드론을 고용합니다.</SR_Mercenary_Sirius_AC.description>
+
+  <SR_Mercenary_Recon.label>정찰병</SR_Mercenary_Recon.label>
+  <SR_Mercenary_Recon.description>S.R.C로부터 보병을 고용합니다.</SR_Mercenary_Recon.description>
+  <SR_Mercenary_Infantry.label>보병</SR_Mercenary_Infantry.label>
+  <SR_Mercenary_Infantry.description>S.R.C로부터 보병을 고용합니다.</SR_Mercenary_Infantry.description>
+  <SR_Mercenary_TAC.label>"페로몬"</SR_Mercenary_TAC.label>
+  <SR_Mercenary_TAC.description>S.R.C로부터 "페로몬" 보병을 고용합니다.</SR_Mercenary_TAC.description>
+  <SR_Mercenary_ROA.label>"아스클레피오스"</SR_Mercenary_ROA.label>
+  <SR_Mercenary_ROA.description>S.R.C로부터 "아스클레피오스" 보병을 고용합니다.</SR_Mercenary_ROA.description>
+</LanguageData>

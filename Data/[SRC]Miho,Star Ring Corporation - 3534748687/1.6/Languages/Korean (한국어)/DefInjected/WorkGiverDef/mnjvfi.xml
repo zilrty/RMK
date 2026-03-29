@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_HaulToNuclearPowerPlant.label>핵연료봉을 원자력 발전소로 운반</SR_HaulToNuclearPowerPlant.label>
+  <SR_StopNuclearPowerPlant.label>원자력 발전소 정지</SR_StopNuclearPowerPlant.label>
+  <SR_StopNuclearPowerPlant.verb>스위치 조작</SR_StopNuclearPowerPlant.verb>
+  <SR_StopNuclearPowerPlant.gerund>스위치 조작 중</SR_StopNuclearPowerPlant.gerund>
+
+  <SR_ReloadMechInterceptor.label>메카 요격기 재장전</SR_ReloadMechInterceptor.label>
+  <SR_ReloadMechInterceptor.verb>재장전</SR_ReloadMechInterceptor.verb>
+  <SR_ReloadMechInterceptor.gerund>재장전 중</SR_ReloadMechInterceptor.gerund>
+
+  <SR_ReloadInterceptorViaMechContainer.label>메카 요격기 재장전</SR_ReloadInterceptorViaMechContainer.label>
+  <SR_ReloadInterceptorViaMechContainer.verb>재장전</SR_ReloadInterceptorViaMechContainer.verb>
+  <SR_ReloadInterceptorViaMechContainer.gerund>재장전 중</SR_ReloadInterceptorViaMechContainer.gerund>
+
+  <SR_WorkGiver_ReloadWeaponViaMechContainer.label>메카 무기 재장전</SR_WorkGiver_ReloadWeaponViaMechContainer.label>
+  <SR_WorkGiver_ReloadWeaponViaMechContainer.verb>재장전</SR_WorkGiver_ReloadWeaponViaMechContainer.verb>
+  <SR_WorkGiver_ReloadWeaponViaMechContainer.gerund>재장전 중</SR_WorkGiver_ReloadWeaponViaMechContainer.gerund>
+
+  <SR_WorkGiver_UpgradeOperation.label>업그레이드 부품 부착</SR_WorkGiver_UpgradeOperation.label>
+  <SR_WorkGiver_UpgradeOperation.verb>업그레이드</SR_WorkGiver_UpgradeOperation.verb>
+  <SR_WorkGiver_UpgradeOperation.gerund>업그레이드 중</SR_WorkGiver_UpgradeOperation.gerund>
+
+  <HaulToGenePurifierPod.label>유전자 정화 포드로 운반</HaulToGenePurifierPod.label>
+  <HaulToGenePurifierPod.verb>채우기</HaulToGenePurifierPod.verb>
+  <HaulToGenePurifierPod.gerund>채우는 중</HaulToGenePurifierPod.gerund>
+</LanguageData>

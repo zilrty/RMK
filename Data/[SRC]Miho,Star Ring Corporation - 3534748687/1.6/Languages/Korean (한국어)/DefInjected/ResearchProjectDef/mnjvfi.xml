@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_DynamicMassBalance.label>동적 질량 균형</SR_DynamicMassBalance.label>
+  <SR_DynamicMassBalance.description>동적 질량 균형을 연구하여 무기와 장비에 적용합니다.</SR_DynamicMassBalance.description>
+
+  <SR_OverheatFusion.label>과열 융합</SR_OverheatFusion.label>
+  <SR_OverheatFusion.description>융합 물질을 격리하여 안전하게 활성화하는 방법을 연구합니다.</SR_OverheatFusion.description>
+
+  <SR_FieldSuppressionTheory.label>장 억제 이론</SR_FieldSuppressionTheory.label>
+  <SR_FieldSuppressionTheory.description>장 효과를 이용해 물질을 조작하는 방법을 연구합니다.</SR_FieldSuppressionTheory.description>
+  <SR_FieldSuppressionTheory.discoveredLetterTitle>정보: 군용 부품 획득</SR_FieldSuppressionTheory.discoveredLetterTitle>
+  <SR_FieldSuppressionTheory.discoveredLetterText>이제 범용 쾌속 조형 스테이션을 건설할 기술을 갖추었습니다. 하지만 가동하려면 군용 부품이 필요합니다. 군용 부품은 다음과 같은 방법으로 얻을 수 있습니다.\n\n - SR 전용 무역 시스템에서 군용 부품을 판매합니다. 통신기를 건설해 구매하세요.\n - 일부 퀘스트 보상으로 군용 부품을 획득할 수 있습니다.\n - SR 지원 시스템을 통해 부품 꾸러미를 요청하세요.</SR_FieldSuppressionTheory.discoveredLetterText>
+
+  <SR_HeavyEquipment.label>중장비</SR_HeavyEquipment.label>
+  <SR_HeavyEquipment.description>운용을 위해 별도의 착용형 장치가 필요한 중장비들을 연구합니다. 이러한 중형 개인 화기는 전장에서 효과적인 지원을 제공할 수 있습니다.</SR_HeavyEquipment.description>
+  <SR_HeavyEquipment.discoveredLetterTitle>중장비 연구</SR_HeavyEquipment.discoveredLetterTitle>
+  <SR_HeavyEquipment.discoveredLetterText>중장비 연구 완료</SR_HeavyEquipment.discoveredLetterText>
+
+  <SR_ColdFusionCycle.label>저온 핵융합 사이클</SR_ColdFusionCycle.label>
+  <SR_ColdFusionCycle.description>저온 핵융합 사이클의 기본 원리를 연구합니다.</SR_ColdFusionCycle.description>
+
+  <SR_AdvancedConstraintDevice.label>고급 구속 장치</SR_AdvancedConstraintDevice.label>
+  <SR_AdvancedConstraintDevice.description>더 효율적이고 경제적인 입자 구속 장치를 심도 있게 연구합니다.</SR_AdvancedConstraintDevice.description>
+
+  <SR_PrecisionCoreEtching.label>정밀 코어 에칭</SR_PrecisionCoreEtching.label>
+  <SR_PrecisionCoreEtching.description>보호막 코어 장치의 에칭 생산 공정을 심도 있게 연구합니다.</SR_PrecisionCoreEtching.description>
+
+  <SR_ElectricFusionBalance.label>전기 융합 균형</SR_ElectricFusionBalance.label>
+  <SR_ElectricFusionBalance.description>전하 피복 또는 전하 자극 물질이 포함된 탄약과 장비를 효율적으로 사용하는 방법을 연구합니다.</SR_ElectricFusionBalance.description>
+
+  <SR_HighSpeedEnergyReleaseDevice.label>고속 에너지 방출 장치</SR_HighSpeedEnergyReleaseDevice.label>
+  <SR_HighSpeedEnergyReleaseDevice.description>고급 이론을 바탕으로 기존 레일 병기들을 최적화하고 개조합니다.</SR_HighSpeedEnergyReleaseDevice.description>
+
+  <SR_AutomaticAnalysis.label>자동 분석</SR_AutomaticAnalysis.label>
+  <SR_AutomaticAnalysis.description>자동 분석 시스템을 연구하여 적을 자동으로 조준, 고정 및 추적하는 지능형 무기를 해제합니다.</SR_AutomaticAnalysis.description>
+
+  <SR_RepulsionFieldEffectTheory.label>척력장 효과 이론</SR_RepulsionFieldEffectTheory.label>
+  <SR_RepulsionFieldEffectTheory.description>장 억제 이론을 확장하여 물체를 비교적 '안전하게' 밀어내는 탐구 과정입니다. 보호막 코어는 이 이론의 성공적인 응용 사례입니다. 오늘날 스타 링의 드론에 장착된 보호막 시스템은 이 이론을 극복하고 얻어낸 위대한 성과입니다. 이 이론에 따르면 보호막 발생기를 대량 생산할 수 있으며, 우리 기지에 배치된 모든 병사들이 보호막 제품을 사용하여 제국군보다 수만 배 더 강해질 수 있습니다. "---- 스타 링 외교관, 5493년 저거스트 기자 회견에서."</SR_RepulsionFieldEffectTheory.description>
+
+  <SR_AdvancedInfantryCoordinatedTactics.label>고급 보병 합동 전술</SR_AdvancedInfantryCoordinatedTactics.label>
+  <SR_AdvancedInfantryCoordinatedTactics.description>플레이아세이드-10b에서 겪은 '21일간의 지옥'은 의심할 여지 없이 스타 링의 드론 전투 이론 발전을 촉진했습니다. 회사가 입수한 새로운 이론과 기술적 지원을 바탕으로, 차세대 드론 프로그램이 대중에게 공개되었습니다.</SR_AdvancedInfantryCoordinatedTactics.description>
+
+  <SR_HumanMachineSymbioticTechnology.label>인간-기계 공생 기술</SR_HumanMachineSymbioticTechnology.label>
+  <SR_HumanMachineSymbioticTechnology.description>전쟁의 경험을 바탕으로 개량된 이 무인 항공기(UAV)들은 주로 궤도 특공대와 협동하여 작전을 수행합니다.</SR_HumanMachineSymbioticTechnology.description>
+
+  <SR_AdvancedCombatDrones.label>고급 전투 드론</SR_AdvancedCombatDrones.label>
+  <SR_AdvancedCombatDrones.description>'21일 전쟁' 전반을 누비던 시리우스는 제국 정찰대에 맞선 미호군의 가장 든든한 지원군 중 하나였습니다. 전후 시리우스의 업그레이드와 개조가 즉시 추진되었으며, 이는 오늘날 우리가 보는 전투 메카노이드로 진화했습니다. 현재 스타 링에서 가장 많이 생산되고 변형 모델이 많은 기종입니다.</SR_AdvancedCombatDrones.description>
+
+  <SR_UrbanCombatDrones.label>시가전용 드론</SR_UrbanCombatDrones.label>
+  <SR_UrbanCombatDrones.description>전쟁의 경험을 바탕으로 개량된 드론들입니다. 인간형 신체를 채택하여 시가지에서 민첩하게 움직일 수 있으며, 전투 명령을 훌륭하게 수행합니다.</SR_UrbanCombatDrones.description>
+
+  <SR_PsychoKineticStringTheory.label>사이코키네틱 스트링 이론</SR_PsychoKineticStringTheory.label>
+  <SR_PsychoKineticStringTheory.description>스타 링 사의 연구에 따르면 초능력의 연결은 연속적이고 선형적입니다. 보이지 않는 각각의 초능력 빔 단위는 끈 형태로 배열되어, 거시적 규모에서 외부로 물리력을 행사할 수 있는 초능력 인터페이스를 형성합니다. 이 과정은 에너지 보존 법칙을 엄격히 준수합니다.</SR_PsychoKineticStringTheory.description>
+
+  <SR_ProjectCAP.label>C.A.P 프로젝트</SR_ProjectCAP.label>
+  <SR_ProjectCAP.description>전쟁 전, 스타 링의 튜링 설계국은 효율적인 대역폭 처리를 통해 미호 메카니네이터의 메카노이드 통제력을 강화하고자 여러 방향으로 연구를 시작했습니다.\n\n이후 공개된 아카이브에서 이 연구는 'C.A.P 프로젝트'라는 암호명으로 불립니다.</SR_ProjectCAP.description>
+
+  <SR_SRCSimpleClothes.label>단순한 의복</SR_SRCSimpleClothes.label>
+  <SR_SRCSimpleClothes.description>비교적 간단한 스타 링 코퍼레이션 의복들을 연구하고 해제합니다.</SR_SRCSimpleClothes.description>
+  <SR_SRCClothes.label>스타 링 의복</SR_SRCClothes.label>
+  <SR_SRCClothes.description>스타 링의 관련 제복들을 연구하고, 기업의 특색이 담긴 의복 제작법을 해제합니다.</SR_SRCClothes.description>
+  <SR_SRCCombatClothes.label>스타 링 전투복</SR_SRCCombatClothes.label>
+  <SR_SRCCombatClothes.description>스타 링 코퍼레이션의 전투복을 연구하고, 다양한 기능 강화가 적용된 전투복 생산법을 해제합니다.</SR_SRCCombatClothes.description>
+  <SR_SRCCombatClothesAdvanced.label>스타 링 고급 전투복</SR_SRCCombatClothesAdvanced.label>
+  <SR_SRCCombatClothesAdvanced.description>TODO</SR_SRCCombatClothesAdvanced.description>
+
+  <SR_AlloyCasting.label>합금 주조</SR_AlloyCasting.label>
+  <SR_AlloyCasting.description>강력하고 잘 파손되지 않아 군용 제품에 이상적인 강화 에글린 합금 및 그 하위 재료의 제조법을 해제합니다. \n\n "만드는 과정이 꽤 고되고 지루해요. 졸다가 떨어질 뻔했다니까요." ---- [스타 링 직원 농담 기록] 229페이지 29번</SR_AlloyCasting.description>
+  <SR_ExplosivesCasting.label>폭발물 주조</SR_ExplosivesCasting.label>
+  <SR_ExplosivesCasting.description>C6-1 고급 폭발물의 생산 공식을 해제합니다. 적절한 장소에 안전하게 보관하세요.</SR_ExplosivesCasting.description>
+  <SR_NanotechnologyProcessOptimization.label>나노기술 공정 최적화</SR_NanotechnologyProcessOptimization.label>
+  <SR_NanotechnologyProcessOptimization.description>희귀하고 구하기 어려운 재료인 '섬유-21'의 생산법을 해제합니다. 제조 과정이 번거롭고 노동 집약적입니다. \n\n "이제 이걸 스타 링에 역수출해서 본전을 뽑을 수 있겠군요!" 한 설계도 중개인이 고객에게 말했습니다. 참고로 그 중개인은 현재 체포된 상태입니다.</SR_NanotechnologyProcessOptimization.description>
+  <SR_CeramicProcessOptimization.label>세라믹 공정 최적화</SR_CeramicProcessOptimization.label>
+  <SR_CeramicProcessOptimization.description>매우 단단하고 용도가 다양한 세라뮴의 생산법을 해제합니다.</SR_CeramicProcessOptimization.description>
+  <SR_ProgrammableNanomachine.label>프로그래밍 가능 나노머신</SR_ProgrammableNanomachine.label>
+  <SR_ProgrammableNanomachine.description>전장 지원용으로 자주 사용되는 GL-XXI 발사기의 생산법을 해제합니다. \n\n "신화의 먼지다! 꼬마 여우야!" 한 직원이 의체를 장착한 미호를 보며 발사기를 들고 말했습니다.</SR_ProgrammableNanomachine.description>
+  <SR_CircularEnergySupplyOptimization.label>순환 에너지 공급 최적화</SR_CircularEnergySupplyOptimization.label>
+  <SR_CircularEnergySupplyOptimization.description>에너지 이용 효율을 크게 향상시킬 수 있는 일련의 최적화 부품들을 해제합니다.</SR_CircularEnergySupplyOptimization.description>
+  <SR_HighPerformanceCombustionAgent.label>고성능 연소제</SR_HighPerformanceCombustionAgent.label>
+  <SR_HighPerformanceCombustionAgent.description>불을 더 격렬하고 오래 타오르게 만드는 일련의 고성능 연소 유도체들을 해제합니다. \n\n주의하세요, 방화광의 손에 들어가지 않게 말입니다.</SR_HighPerformanceCombustionAgent.description>
+  <SR_UniversalUpgrade.label>범용 업그레이드</SR_UniversalUpgrade.label>
+  <SR_UniversalUpgrade.description>스타 링 소속 드론들의 전투 능력을 크게 향상시킬 수 있는 일련의 업그레이드 항목들을 해제합니다.</SR_UniversalUpgrade.description>
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_GiveQuest_Interaction_SignalTower.label>미지와의 조우</SR_GiveQuest_Interaction_SignalTower.label>
+  <SR_GiveQuest_Interaction_SignalTower.letterLabel>미지와의 조우</SR_GiveQuest_Interaction_SignalTower.letterLabel>
+
+  <SR_Akasagi_Story_A.label>기묘한 통신 채널</SR_Akasagi_Story_A.label>
+  <SR_Akasagi_Story_A.description>.</SR_Akasagi_Story_A.description>
+  <SR_Akasagi_Story_B.label>PMC 기업</SR_Akasagi_Story_B.label>
+  <SR_Akasagi_Story_B.description>.</SR_Akasagi_Story_B.description>
+  <SR_Akasagi_Story_C.label>새로운 통신 정보</SR_Akasagi_Story_C.label>
+  <SR_Akasagi_Story_C.description>.</SR_Akasagi_Story_C.description>
+
+  <SR_JammerGasFallout.label>방해 먼지 낙진</SR_JammerGasFallout.label>
+  <SR_JammerGasFallout.letterLabel>방해 먼지 낙진</SR_JammerGasFallout.letterLabel>
+  <SR_HeatGasFallout.label>열기 먼지 낙진</SR_HeatGasFallout.label>
+  <SR_HeatGasFallout.letterLabel>열기 먼지 낙진</SR_HeatGasFallout.letterLabel>
+  <SR_EMPGasFallout.label>신화 먼지 낙진</SR_EMPGasFallout.label>
+  <SR_EMPGasFallout.letterLabel>신화 먼지 낙진</SR_EMPGasFallout.letterLabel>
+
+  <SR_StudentJoin.label>학생 합류</SR_StudentJoin.label>
+  <SR_AbruptMeteorologicalVariation.label>여파: 급격한 기상 변화</SR_AbruptMeteorologicalVariation.label>
+  <SR_AbruptMeteorologicalVariation.letterLabel>여파: 급격한 기상 변화</SR_AbruptMeteorologicalVariation.letterLabel>
+</LanguageData>

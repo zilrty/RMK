@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_WearingRainCoat_Thought.stages.0.label>우비 착용 중</SR_WearingRainCoat_Thought.stages.0.label>
+  <SR_WearingRainCoat_Thought.stages.0.description>빗속에 있는 기분이 그렇게 나쁘지는 않네.</SR_WearingRainCoat_Thought.stages.0.description>
+
+  <SR_ElegansOverload_Thought.stages.0.label>엘레강스 과부하</SR_ElegansOverload_Thought.stages.0.label>
+  <SR_ElegansOverload_Thought.stages.0.description>딱히 나쁜 기분은 들지 않아.</SR_ElegansOverload_Thought.stages.0.description>
+  <SR_ElegansOverload_Thought.stages.1.label>엘레강스 과부하</SR_ElegansOverload_Thought.stages.1.label>
+  <SR_ElegansOverload_Thought.stages.1.description>온몸에 힘이 쭉 빠지는 기분이야. 하지만 아직은 버틸 만해.</SR_ElegansOverload_Thought.stages.1.description>
+  <SR_ElegansOverload_Thought.stages.2.label>엘레강스 과부하</SR_ElegansOverload_Thought.stages.2.label>
+  <SR_ElegansOverload_Thought.stages.2.description>으슬으슬 춥다가도 몸이 달아오르는 것 같아. 뭔가 잘못됐어.</SR_ElegansOverload_Thought.stages.2.description>
+  <SR_ElegansOverload_Thought.stages.3.label>엘레강스 과부하</SR_ElegansOverload_Thought.stages.3.label>
+  <SR_ElegansOverload_Thought.stages.3.description>심장이 은근히 아파오고 시야가 흐릿해져. 이제 그만해야 할까?</SR_ElegansOverload_Thought.stages.3.description>
+  <SR_ElegansOverload_Thought.stages.4.label>엘레강스 과부하</SR_ElegansOverload_Thought.stages.4.label>
+  <SR_ElegansOverload_Thought.stages.4.description>고통 때문에 아무런 생각도 할 수 없어.</SR_ElegansOverload_Thought.stages.4.description>
+
+  <SR_AdonisActivate.stages.0.label>아도니스의 가호</SR_AdonisActivate.stages.0.label>
+  <SR_AdonisActivate.stages.0.description>불멸의 힘이다. 그 누가 나를 막을 수 있겠어?</SR_AdonisActivate.stages.0.description>
+
+  <SR_AteMarbleMousseCake.stages.0.label>마블 무스 케이크 먹음</SR_AteMarbleMousseCake.stages.0.label>
+  <SR_AteMarbleMousseCake.stages.0.description>음, 맛있다!</SR_AteMarbleMousseCake.stages.0.description>
+  <SR_AteSunshineCake.stages.0.label>선샤인 케이크 먹음</SR_AteSunshineCake.stages.0.label>
+  <SR_AteSunshineCake.stages.0.description>오, 이 달콤한 맛. 정말 오랜만에 느껴보는걸.</SR_AteSunshineCake.stages.0.description>
+  <SR_AteMihoDaifuku.stages.0.label>미호 찹쌀떡 먹음</SR_AteMihoDaifuku.stages.0.label>
+  <SR_AteMihoDaifuku.stages.0.description>와! 진짜 맛있다! 더 먹고 싶어!</SR_AteMihoDaifuku.stages.0.description>
+
+  <SR_Mercenary.stages.0.label>높은 급료</SR_Mercenary.stages.0.label>
+  <SR_Mercenary.stages.0.description>일한 만큼 합당한 보상을 받았어.</SR_Mercenary.stages.0.description>
+</LanguageData>
