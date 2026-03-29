@@ -27,6 +27,8 @@
     <li>claimInfo(lodgerCount>=2)->그들은 이 정착지를 방문하고 싶어 합니다.</li>
     <li>claimInfo(lodgerCount>=2)->그들은 이 정착지를 조사하는 데 관심이 있다고 주장합니다.</li>
     <li>claimInfo(lodgerCount>=2)->그들은 이 지역에서 길을 잃었다고 주장합니다.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;그들은 이 정착지를 방문하고 싶어 합니다.</li>
+    <li>claimInfo(lodgerCount&gt;=2)-&gt;그들은 이 정착지를 조사하는 데 관심이 있다고 주장합니다.</li>
     <li>claimInfo(lodgerCount>=2)->그들은 지상 조사 임무가 끝났지만, 당분간 당신의 정착지에서 지내고 싶어 합니다.</li>
     <li>joinInfo(lodgerCount==1)->[asker_pronoun](은)는 정착지에 합류하겠다고 제안할 수도 있습니다.</li>
     <li>joinInfo(lodgerCount>=2)->그들 중 일부는 정착지에 합류하겠다고 제안할 수도 있습니다.</li>

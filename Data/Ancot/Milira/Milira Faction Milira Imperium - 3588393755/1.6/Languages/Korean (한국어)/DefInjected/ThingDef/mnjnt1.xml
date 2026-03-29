@@ -260,83 +260,165 @@
   <Milira_Rakuyo.tools.1.label>찌르기</Milira_Rakuyo.tools.1.label>
 
   <Milira_HAVOCRifle.label>대혼란의 라이플</Milira_HAVOCRifle.label>
-  <Milira_HAVOCRifle.description>암흑 물질 에너지 전지로 구동되는 에너지 소총입니다. 거대한 반동으로 인해 제어가 어렵지만, 그 흉포한 위력은 이러한 사소한 결점을 덮고도 남습니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.\n\n탄창 용량(상급 기준): 32</Milira_HAVOCRifle.description>
+  <Milira_HAVOCRifle.description>암흑 물질 에너지 전지로 구동되는 에너지 소총입니다. 거대한 반동으로 인해 제어가 어렵지만, 그 흉포한 위력은 이러한 사소한 결점을 덮고도 남습니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.\n\n탄창 용량(완벽 기준): 32</Milira_HAVOCRifle.description>
   <Milira_HAVOCRifle.tools.0.label>개머리판</Milira_HAVOCRifle.tools.0.label>
   <Milira_HAVOCRifle.tools.1.label>총열</Milira_HAVOCRifle.tools.1.label>
 
+  <Milira_HAVOCRifle_II.label>대혼란의 라이플</Milira_HAVOCRifle_II.label>
+  <Milira_HAVOCRifle_II.description>암흑 물질 에너지 전지로 구동되는 에너지 소총입니다. 거대한 반동으로 인해 제어가 어렵지만, 그 흉포한 위력은 이러한 사소한 결점을 덮고도 남습니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.</Milira_HAVOCRifle_II.description>
+  <Milira_HAVOCRifle_II.tools.0.label>개머리판</Milira_HAVOCRifle_II.tools.0.label>
+  <Milira_HAVOCRifle_II.tools.1.label>총열</Milira_HAVOCRifle_II.tools.1.label>
+  <MiliraBullet_HAVOCRifle.label>광선</MiliraBullet_HAVOCRifle.label>
+
   <Milira_DevotionLMG.label>헌신의 경기관총</Milira_DevotionLMG.label>
-  <Milira_DevotionLMG.description>암흑 물질 에너지 전지로 구동되는 에너지 경기관총입니다. 거대한 반동으로 인해 제어가 어렵지만, 그 흉포한 위력은 이러한 사소한 결점을 덮고도 남습니다.\n\n에너지가 고갈되면 사격할 수 없습니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.\n\n탄창 용량(상급 기준): 100</Milira_DevotionLMG.description>
+  <Milira_DevotionLMG.description>암흑 물질 에너지 전지로 구동되는 에너지 경기관총입니다. 거대한 반동으로 인해 제어가 어렵지만, 그 흉포한 위력은 이러한 사소한 결점을 덮고도 남습니다.\n\n에너지가 고갈되면 사격할 수 없습니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.\n\n탄창 용량(완벽 기준): 100</Milira_DevotionLMG.description>
   <Milira_DevotionLMG.tools.0.label>개머리판</Milira_DevotionLMG.tools.0.label>
   <Milira_DevotionLMG.tools.1.label>총열</Milira_DevotionLMG.tools.1.label>
+
+  <Milira_DevotionLMG_II.label>헌신의 경기관총</Milira_DevotionLMG_II.label>
+  <Milira_DevotionLMG_II.description>암흑 물질 에너지 전지로 구동되는 에너지 경기관총입니다. 거대한 반동으로 인해 제어가 어렵지만, 그 흉포한 위력은 이러한 사소한 결점을 덮고도 남습니다.\n\n에너지가 고갈되면 사격할 수 없습니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.</Milira_DevotionLMG_II.description>
+  <Milira_DevotionLMG_II.tools.0.label>개머리판</Milira_DevotionLMG_II.tools.0.label>
+  <Milira_DevotionLMG_II.tools.1.label>총열</Milira_DevotionLMG_II.tools.1.label>
+  <MiliraBullet_DevotionLMG.label>광선</MiliraBullet_DevotionLMG.label>
 
   <Milira_Peacekeeper.label>피스키퍼</Milira_Peacekeeper.label>
   <Milira_Peacekeeper.description>암흑 물질 에너지 전지로 구동되는 에너지 산탄총입니다.\n\n두 가지 사격 모드가 있습니다. 속사 모드는 일반적인 산탄총으로 사용되며, 집중 모드는 탄환을 집중시켜 사거리를 늘리고 100%의 명중률을 확보합니다.\n\n충전된 탄환은 10%의 추가 피해를 입힙니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.</Milira_Peacekeeper.description>
   <Milira_Peacekeeper.comps.4.gizmoLabel1>속사 모드</Milira_Peacekeeper.comps.4.gizmoLabel1>
   <Milira_Peacekeeper.comps.4.gizmoDesc1>집중 모드로 전환합니다.</Milira_Peacekeeper.comps.4.gizmoDesc1>
   <Milira_Peacekeeper.comps.4.gizmoDesc2>속사 모드로 전환합니다.</Milira_Peacekeeper.comps.4.gizmoDesc2>
+  <Milira_Peacekeeper.tools.0.label>개머리판</Milira_Peacekeeper.tools.0.label>
+  <Milira_Peacekeeper.tools.1.label>총열</Milira_Peacekeeper.tools.1.label>
+  <MiliraBullet_Peacekeeper.label>피스키퍼 총알</MiliraBullet_Peacekeeper.label>
+  <MiliraBullet_Peacekeeper_Charged.label>피스키퍼 총알</MiliraBullet_Peacekeeper_Charged.label>
+  <MiliraBullet_Peacekeeper_Concentrated.label>피스키퍼 총알</MiliraBullet_Peacekeeper_Concentrated.label>
+  <MiliraBullet_Peacekeeper_Concentrated_Charged.label>피스키퍼 총알</MiliraBullet_Peacekeeper_Concentrated_Charged.label>
 
   <Milira_ChargeRifle.label>전하 소총</Milira_ChargeRifle.label>
   <Milira_ChargeRifle.description>암흑 물질 에너지 전지로 구동되는 에너지 소총입니다.\n\n이 무기는 표기된 위력으로 10발을 연속 사격하며, 마지막 발은 표기된 위력의 10배에 달하는 피해를 입힙니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.</Milira_ChargeRifle.description>
+  <Milira_ChargeRifle.tools.0.label>개머리판</Milira_ChargeRifle.tools.0.label>
+  <Milira_ChargeRifle.tools.1.label>총열</Milira_ChargeRifle.tools.1.label>
+
+  <Milira_ChargeRifle_II.label>전하 소총</Milira_ChargeRifle_II.label>
+  <Milira_ChargeRifle_II.description>암흑 물질 에너지 전지로 구동되는 에너지 소총입니다.\n\n이 무기는 표기된 위력으로 10발을 연속 사격하며, 마지막 발은 표기된 위력의 10배에 달하는 피해를 입힙니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.</Milira_ChargeRifle_II.description>
+  <Milira_ChargeRifle_II.tools.0.label>개머리판</Milira_ChargeRifle_II.tools.0.label>
+  <Milira_ChargeRifle_II.tools.1.label>총열</Milira_ChargeRifle_II.tools.1.label>
+  <MiliraBullet_ChargeRifle.label>광선</MiliraBullet_ChargeRifle.label>
+  <MiliraBullet_ChargeRifleII.label>광선</MiliraBullet_ChargeRifleII.label>
 
   <Milira_VoltSMG.label>볼트 기관단총</Milira_VoltSMG.label>
-  <Milira_VoltSMG.description>암흑 물질 에너지 전지로 구동되는 에너지 기관단총입니다. 반동은 적지만 에너지 탄환의 위력은 약한 편입니다.\n\n이 무기의 성능은 밀리라 종족 무기에 견줄 만하지만 민간용 무기로 분류됩니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.\n\n탄창 용량(상급 기준): 26</Milira_VoltSMG.description>
+  <Milira_VoltSMG.description>암흑 물질 에너지 전지로 구동되는 에너지 기관단총입니다. 반동은 적지만 에너지 탄환의 위력은 약한 편입니다.\n\n이 무기의 성능은 밀리라 종족 무기에 견줄 만하지만 민간용 무기로 분류됩니다.\n\n이 무기의 피해는 '받는 피해 계수'를 무시합니다.\n\n탄창 용량(완벽 기준): 26</Milira_VoltSMG.description>
+  <Milira_VoltSMG.tools.0.label>개머리판</Milira_VoltSMG.tools.0.label>
+  <Milira_VoltSMG.tools.1.label>총열</Milira_VoltSMG.tools.1.label>
+
+  <Milira_VoltSMG_II.label>볼트 기관단총</Milira_VoltSMG_II.label>
+  <Milira_VoltSMG_II.description>An energy SMG powered by a dark matter energy cell. The recoil is low but the energy bullet is weak. \n\nThis weapon's damage ignores the Incoming Damage Factor.</Milira_VoltSMG_II.description>
+  <Milira_VoltSMG_II.tools.0.label>개머리판</Milira_VoltSMG_II.tools.0.label>
+  <Milira_VoltSMG_II.tools.1.label>총열</Milira_VoltSMG_II.tools.1.label>
+  <MiliraBullet_VoltSMG.label>광선</MiliraBullet_VoltSMG.label>
 
   <Milira_MarksmanGaussrifle.label>R-63 가우스 지정사수소총</Milira_MarksmanGaussrifle.label>
-  <Milira_MarksmanGaussrifle.description>일련의 전자기 코일을 사용해 탄환을 가속하는 지정사수 소총으로, 내부의 암흑 물질 배터리로부터 지속적으로 전력을 공급받습니다.\n\n탄창 용량(상급 기준): 20</Milira_MarksmanGaussrifle.description>
+  <Milira_MarksmanGaussrifle.description>일련의 전자기 코일을 사용해 탄환을 가속하는 지정사수 소총으로, 내부의 암흑 물질 배터리로부터 지속적으로 전력을 공급받습니다.\n\n탄창 용량(완벽 기준): 20</Milira_MarksmanGaussrifle.description>
+  <Milira_MarksmanGaussrifle.tools.0.label>개머리판</Milira_MarksmanGaussrifle.tools.0.label>
+  <Milira_MarksmanGaussrifle.tools.1.label>총열</Milira_MarksmanGaussrifle.tools.1.label>
+  <Bullet_Milira_MarksmanGaussrifle.label>7.62x51mm 전자기 탄환</Bullet_Milira_MarksmanGaussrifle.label>
 
   <Milira_GaussAutorifle.label>AR-61 가우스 자동소총</Milira_GaussAutorifle.label>
-  <Milira_GaussAutorifle.description>일련의 전자기 코일을 사용해 탄환을 가속하는 자동소총으로, 내부의 암흑 물질 배터리로부터 지속적으로 전력을 공급받습니다. 군함에 탑승한 밀리라 승무원들의 표준 제식 무기입니다.\n\n탄창 용량(상급 기준): 35</Milira_GaussAutorifle.description>
+  <Milira_GaussAutorifle.description>일련의 전자기 코일을 사용해 탄환을 가속하는 자동소총으로, 내부의 암흑 물질 배터리로부터 지속적으로 전력을 공급받습니다. 군함에 탑승한 밀리라 승무원들의 표준 제식 무기입니다.\n\n탄창 용량(완벽 기준): 35</Milira_GaussAutorifle.description>
+  <Milira_GaussAutorifle.tools.0.label>개머리판</Milira_GaussAutorifle.tools.0.label>
+  <Milira_GaussAutorifle.tools.1.label>총열</Milira_GaussAutorifle.tools.1.label>
+  <MiliraBullet_Autorifle.label>7.62x39mm 전자기 탄환</MiliraBullet_Autorifle.label>
 
   <Milira_GaussMachinegun.label>브림스톤 중기관총</Milira_GaussMachinegun.label>
-  <Milira_GaussMachinegun.description>일련의 전자기 코일을 사용해 탄환을 가속하는 중기관총으로, 내부의 암흑 물질 배터리로부터 지속적으로 전력을 공급받습니다. 밀리라 우주 해병대원들이 가장 좋아하는 무기입니다.\n\n탄창 용량(상급 기준): 100</Milira_GaussMachinegun.description>
+  <Milira_GaussMachinegun.description>일련의 전자기 코일을 사용해 탄환을 가속하는 중기관총으로, 내부의 암흑 물질 배터리로부터 지속적으로 전력을 공급받습니다. 밀리라 우주 해병대원들이 가장 좋아하는 무기입니다.\n\n탄창 용량(완벽 기준): 100</Milira_GaussMachinegun.description>
+  <Milira_GaussMachinegun.tools.0.label>칼날</Milira_GaussMachinegun.tools.0.label>
+  <MiliraBullet_HMG.label>12.7x99mm 전자기 탄환</MiliraBullet_HMG.label>
 
   <Milira_RailShotgun.label>헬파이어 산탄총</Milira_RailShotgun.label>
   <Milira_RailShotgun.description>중기관총만큼 거대한 중전자기 레일 가속 산탄총입니다. 23mm 구경의 탄환은 매우 다루기 힘들지만 파괴적인 화력을 제공합니다. 근접전을 즐기지만 모노 싸이블레이드를 쓰는 것은 꺼리는 일부 밀리라 우주 해병들이 선호합니다.\n\n한 번 사격할 때마다 4발의 산탄을 발사하여 표기된 피해의 4배에 달하는 총 피해를 입힙니다. 각 산탄은 매우 높은 스턴 효과를 지니며 EMP 효과도 적용합니다.</Milira_RailShotgun.description>
+  <Milira_RailShotgun.tools.0.label>개머리판</Milira_RailShotgun.tools.0.label>
+  <Milira_RailShotgun.tools.1.label>총열</Milira_RailShotgun.tools.1.label>
+  <MiliraBullet_HellfireShotGun.label>23mm shell</MiliraBullet_HellfireShotGun.label>
 
   <Milira_AntiMaterielRailgun.label>크레이버 대물 레일건</Milira_AntiMaterielRailgun.label>
-  <Milira_AntiMaterielRailgun.description>대구경 탄환을 발사하는 코일 가속 저격소총입니다.\n\n암흑 물질 배터리와 매우 긴 레일 덕분에 극단적인 사거리를 자랑합니다.\n\n그럼에도 불구하고 밀리라 우주 해병들은 이 "지루한" 무기를 그다지 좋아하지 않습니다.\n\n마이크로 스마트 전투 컴퓨터가 내장되어 탄환의 명중을 보장하며, 사용자의 사격 기술에 따라 확률적으로 각 사격의 피해를 증폭시킵니다.\n\n탄창 용량(상급 기준): 4</Milira_AntiMaterielRailgun.description>
+  <Milira_AntiMaterielRailgun.description>대구경 탄환을 발사하는 코일 가속 저격소총입니다.\n\n암흑 물질 배터리와 매우 긴 레일 덕분에 극단적인 사거리를 자랑합니다.\n\n그럼에도 불구하고 밀리라 우주 해병들은 이 "지루한" 무기를 그다지 좋아하지 않습니다.\n\n마이크로 스마트 전투 컴퓨터가 내장되어 탄환의 명중을 보장하며, 사용자의 사격 기술에 따라 확률적으로 각 사격의 피해를 증폭시킵니다.\n\n탄창 용량(완벽 기준): 4</Milira_AntiMaterielRailgun.description>
   <Milira_AntiMaterielRailgun.comps.5.gizmoLabel1>저격 모드</Milira_AntiMaterielRailgun.comps.5.gizmoLabel1>
   <Milira_AntiMaterielRailgun.comps.5.gizmoDesc1>자율 모드로 전환합니다.\n무기 사거리가 80으로 줄어들지만, 자율/사냥 상태에서 대상 전환 시의 지연 시간이 사라집니다.</Milira_AntiMaterielRailgun.comps.5.gizmoDesc1>
   <Milira_AntiMaterielRailgun.comps.5.gizmoDesc2>저격 모드로 전환합니다.\n무기 사거리가 200으로 늘어나지만, 이 사거리에서의 자율/사냥은 대상 전환 시 지연을 유발할 수 있습니다.</Milira_AntiMaterielRailgun.comps.5.gizmoDesc2>
+  <Milira_AntiMaterielRailgun.tools.0.label>개머리판</Milira_AntiMaterielRailgun.tools.0.label>
+  <Milira_AntiMaterielRailgun.tools.1.label>총열</Milira_AntiMaterielRailgun.tools.1.label>
+  <MiliraBullet_AntiMaterielRailgun.label>14.5x114mm 전자기 탄환</MiliraBullet_AntiMaterielRailgun.label>
 
   <Milira_AstesiaAutoCannon.label>아스테시아 오토캐논</Milira_AstesiaAutoCannon.label>
-  <Milira_AstesiaAutoCannon.description>코일로 가속되는 초거대 자동포입니다. 35mm 탄환을 발사합니다.\n\n보병용 무기로서는 지나치게 구경이 크기 때문에 발사 속도가 느리고 명중률을 보장할 수 없습니다.\n\n이 오토캐논은 '받는 피해 계수'를 무시하는 교란탄과, 적의 크기에 따라 피해량이 증가하는 뉴트로늄 전구경 철갑탄을 발사할 수 있습니다.\n\n이 거대한 무기는 밀리라 포세이돈 강화갑옷과 밀리라 전술 모듈을 착용했을 때만 사용할 수 있습니다.\n\n탄창 용량(상급 기준): 7</Milira_AstesiaAutoCannon.description>
+  <Milira_AstesiaAutoCannon.description>코일로 가속되는 초거대 자동포입니다. 35mm 탄환을 발사합니다.\n\n보병용 무기로서는 지나치게 구경이 크기 때문에 발사 속도가 느리고 명중률을 보장할 수 없습니다.\n\n이 오토캐논은 '받는 피해 계수'를 무시하는 교란탄과, 적의 크기에 따라 피해량이 증가하는 뉴트로늄 전구경 철갑탄을 발사할 수 있습니다.\n\n이 거대한 무기는 밀리라 포세이돈 강화갑옷과 밀리라 전술 모듈을 착용했을 때만 사용할 수 있습니다.\n\n탄창 용량(완벽 기준): 7</Milira_AstesiaAutoCannon.description>
   <Milira_AstesiaAutoCannon.comps.4.gizmoLabel1>교란 모드</Milira_AstesiaAutoCannon.comps.4.gizmoLabel1>
   <Milira_AstesiaAutoCannon.comps.4.gizmoDesc1>철갑 모드로 전환합니다.\n철갑탄으로 변경하며, 체격이 1.0보다 큰 대상에게 추가 피해를 입힙니다.</Milira_AstesiaAutoCannon.comps.4.gizmoDesc1>
   <Milira_AstesiaAutoCannon.comps.4.gizmoDesc2>교란 모드로 전환합니다.\n교란탄으로 변경하며, '받는 피해 계수'를 무시하는 피해를 입힙니다.</Milira_AstesiaAutoCannon.comps.4.gizmoDesc2>
+  <Milira_AstesiaAutoCannon.tools.0.label>개머리판</Milira_AstesiaAutoCannon.tools.0.label>
+  <Milira_AstesiaAutoCannon.tools.1.label>총열</Milira_AstesiaAutoCannon.tools.1.label>
+  <MiliraBullet_AstesiaAutoCannon.label>35x228mm 전자기 탄환</MiliraBullet_AstesiaAutoCannon.label>
+  <MiliraBullet_AstesiaAutoCannon_II.label>35x228mm 전자기 탄환</MiliraBullet_AstesiaAutoCannon_II.label>
 
   <Milira_LeverRailgun.label>레버 레일건</Milira_LeverRailgun.label>
-  <Milira_LeverRailgun.description>밀리라 제국의 가정에서 흔히 볼 수 있는 민간용 무기입니다.\n\n저렴한 태양광 배터리를 사용하여 전자기 레일에 전력을 공급합니다.\n\n날개 안정식 태양 제련강 장철갑탄은 머팔로 같은 짐승도 깔끔하게 꿰뚫을 수 있습니다.\n\n이 무기의 성능은 밀리라 종족 무기에 견줄 만하지만 민간용 무기로 분류됩니다.\n\n탄창 용량(상급 기준): 10</Milira_LeverRailgun.description>
+  <Milira_LeverRailgun.description>밀리라 제국의 가정에서 흔히 볼 수 있는 민간용 무기입니다.\n\n저렴한 태양광 배터리를 사용하여 전자기 레일에 전력을 공급합니다.\n\n날개 안정식 태양 제련강 장철갑탄은 머팔로 같은 짐승도 깔끔하게 꿰뚫을 수 있습니다.\n\n이 무기의 성능은 밀리라 종족 무기에 견줄 만하지만 민간용 무기로 분류됩니다.\n\n탄창 용량(완벽 기준): 10</Milira_LeverRailgun.description>
+  <Milira_LeverRailgun.tools.0.label>개머리판</Milira_LeverRailgun.tools.0.label>
+  <Milira_LeverRailgun.tools.1.label>총열</Milira_LeverRailgun.tools.1.label>
+  <Bullet_Milira_LeverRailgun.label>11.6x53mm 전자기 탄환</Bullet_Milira_LeverRailgun.label>
 
   <Milira_CiGaussAutorifle.label>AR-23 가우스 자동소총</Milira_CiGaussAutorifle.label>
-  <Milira_CiGaussAutorifle.description>민간용으로 제작된 코일건 돌격소총입니다.\n\n인구가 적은 제국 변방 행성의 밀리라 정착민들은 메카노이드로부터 자신을 지키기 위해 이 무기에 의존합니다.\n\n이 다루기 쉽고 믿음직한 민간용 소총은 많은 밀리라 해적들 사이에서도 흔히 쓰이는 무기입니다.\n\n이 무기의 성능은 밀리라 종족 무기에 견줄 만하지만 민간용 무기로 분류됩니다.\n\n탄창 용량(상급 기준): 44</Milira_CiGaussAutorifle.description>
+  <Milira_CiGaussAutorifle.description>민간용으로 제작된 코일건 돌격소총입니다.\n\n인구가 적은 제국 변방 행성의 밀리라 정착민들은 메카노이드로부터 자신을 지키기 위해 이 무기에 의존합니다.\n\n이 다루기 쉽고 믿음직한 민간용 소총은 많은 밀리라 해적들 사이에서도 흔히 쓰이는 무기입니다.\n\n이 무기의 성능은 밀리라 종족 무기에 견줄 만하지만 민간용 무기로 분류됩니다.\n\n탄창 용량(완벽 기준): 44</Milira_CiGaussAutorifle.description>
+  <Milira_CiGaussAutorifle.tools.0.label>개머리판</Milira_CiGaussAutorifle.tools.0.label>
+  <Milira_CiGaussAutorifle.tools.1.label>총열</Milira_CiGaussAutorifle.tools.1.label>
+  <MiliraBullet_CiAutorifle.label>5.56x45mm 전자기 탄환</MiliraBullet_CiAutorifle.label>
 
   <Milira_GaussRevolver.label>윙맨 리볼버</Milira_GaussRevolver.label>
-  <Milira_GaussRevolver.description>전자기 코일을 이용해 탄환을 가속하는 대구경 복고풍 리볼버입니다. 탄도 컴퓨터가 통합되어 있으며 내부의 암흑 물질 에너지 전지로부터 지속적으로 전력을 공급받습니다.\n\n마이크로 스마트 전투 컴퓨터가 내장되어 탄환의 명중을 보장하며, 사용자의 사격 기술에 따라 확률적으로 각 사격의 피해를 증폭시킵니다.\n\n탄창 용량(상급 기준): 6</Milira_GaussRevolver.description>
+  <Milira_GaussRevolver.description>전자기 코일을 이용해 탄환을 가속하는 대구경 복고풍 리볼버입니다. 탄도 컴퓨터가 통합되어 있으며 내부의 암흑 물질 에너지 전지로부터 지속적으로 전력을 공급받습니다.\n\n마이크로 스마트 전투 컴퓨터가 내장되어 탄환의 명중을 보장하며, 사용자의 사격 기술에 따라 확률적으로 각 사격의 피해를 증폭시킵니다.\n\n탄창 용량(완벽 기준): 6</Milira_GaussRevolver.description>
+  <Milira_GaussRevolver.tools.0.label>개머리판</Milira_GaussRevolver.tools.0.label>
+  <Milira_GaussRevolver.tools.1.label>총열</Milira_GaussRevolver.tools.1.label>
+  <MiliraBullet_Wingman.label>12.7x33mm 전자기 탄환</MiliraBullet_Wingman.label>
 
   <Milira_DBSIIShotgun.label>DBS-2 산탄총</Milira_DBSIIShotgun.label>
   <Milira_DBSIIShotgun.description>전자기 레일을 사용하여 산탄을 발사하는 경량형 더블 배럴 산탄총입니다. 밀리라 제국의 민간인들에게 사랑받는 무기입니다. 신뢰성 높은 18.5mm 탄환 덕분에 사냥과 자기 방어용으로 훌륭한 도구입니다.\n\n한 번 사격할 때마다 6발의 산탄을 발사하여 표기된 피해의 6배에 달하는 총 피해를 입힙니다.\n\n이 무기의 성능은 밀리라 종족 무기에 견줄 만하지만 민간용 무기로 분류됩니다.</Milira_DBSIIShotgun.description>
+  <Milira_DBSIIShotgun.tools.0.label>개머리판</Milira_DBSIIShotgun.tools.0.label>
+  <Milira_DBSIIShotgun.tools.1.label>총열</Milira_DBSIIShotgun.tools.1.label>
+  <MiliraBullet_DBSIIShotgun.label>18.5mm 산탄</MiliraBullet_DBSIIShotgun.label>
 
   <Milira_TaranPlasmaGun.label>가속 플라즈마건</Milira_TaranPlasmaGun.label>
-  <Milira_TaranPlasmaGun.description>밀리라 제국 우주 해병대에게 널리 보급된 대구경 플라즈마 소총으로, 주로 함선 강습 작전 시 돌파용 도구로 사용됩니다. 암흑 물질 에너지 전지 덕분에 공포스러운 파괴력을 발휘할 수 있습니다.\n\n이 무기는 고각 대구조물 탄환을 사격합니다.\n\n이 무기를 사용하려면 "플랫폼: 축전" 의류가 필요합니다.\n\n탄창 용량(상급 기준): 3</Milira_TaranPlasmaGun.description>
+  <Milira_TaranPlasmaGun.description>밀리라 제국 우주 해병대에게 널리 보급된 대구경 플라즈마 소총으로, 주로 함선 강습 작전 시 돌파용 도구로 사용됩니다. 암흑 물질 에너지 전지 덕분에 공포스러운 파괴력을 발휘할 수 있습니다.\n\n이 무기는 고각 대구조물 탄환을 사격합니다.\n\n이 무기를 사용하려면 "플랫폼: 축전" 의류가 필요합니다.\n\n탄창 용량(완벽 기준): 3</Milira_TaranPlasmaGun.description>
+  <Milira_TaranPlasmaGun.tools.0.label>개머리판</Milira_TaranPlasmaGun.tools.0.label>
+  <Milira_TaranPlasmaGun.tools.1.label>총열</Milira_TaranPlasmaGun.tools.1.label>
+  <MiliraBullet_TaranPlasmaGun.label>플라즈마 칼날</MiliraBullet_TaranPlasmaGun.label>
+  <MiliraBullet_TaranPlasmaGunCharged.label>플라즈마 충전됨</MiliraBullet_TaranPlasmaGunCharged.label>
 
   <Milira_DragonslayerGreatbow.label>스쿨드의 용살대궁</Milira_DragonslayerGreatbow.label>
   <Milira_DragonslayerGreatbow.description>지구의 오래된 서양 판타지 게임에서 유래한 원형을 바탕으로 제작된 대궁입니다.\n\n이것은 자비로운 초월공학 신에 의해 장막 속에서 만들어진 창조물이며, 밀리라들은 아직 이와 유사한 무기를 복제해낼 수 없습니다.</Milira_DragonslayerGreatbow.description>
+  <Milira_DragonslayerGreatbow.tools.0.label>활대</Milira_DragonslayerGreatbow.tools.0.label>
+  <MiliraBullet_DragonslayerGreatbow.label>용살시</MiliraBullet_DragonslayerGreatbow.label>
 
   <Milira_DragonslayerGreatbow_II.label>밀리라 용살대궁</Milira_DragonslayerGreatbow_II.label>
-  <Milira_DragonslayerGreatbow_II.description>지구의 오래된 서양 판타지 게임에서 유래한 원형을 바탕으로 제작된 대궁입니다.\n\n자비로운 초월공학 신에 의해 장막 속에서 만들어진 창조물입니다.\n\n이것은 복제 버전이며 성능은 원본보다 약간 떨어집니다.\n\n탄창 용량(상급 기준): 36</Milira_DragonslayerGreatbow_II.description>
+  <Milira_DragonslayerGreatbow_II.description>지구의 오래된 서양 판타지 게임에서 유래한 원형을 바탕으로 제작된 대궁입니다.\n\n자비로운 초월공학 신에 의해 장막 속에서 만들어진 창조물입니다.\n\n이것은 복제 버전이며 성능은 원본보다 약간 떨어집니다.\n\n탄창 용량(완벽 기준): 36</Milira_DragonslayerGreatbow_II.description>
+  <Milira_DragonslayerGreatbow_II.tools.0.label>활대</Milira_DragonslayerGreatbow_II.tools.0.label>
 
   <Milira_AstesiaAutoCannon_II.label>후이 빙의 아스테시아 오토캐논</Milira_AstesiaAutoCannon_II.label>
   <Milira_AstesiaAutoCannon_II.description>후이 빙이 복무 중에 사용하던 아스테시아 오토캐논을 일부 개조한 것입니다.\n\n표준 버전에 비해 명중률과 재장전 속도가 더 높습니다. 또한 후이 빙은 무기의 연사 속도 제한기를 제거했습니다.\n\n이 오토캐논은 '받는 피해 계수'를 무시하는 교란탄과, 적의 크기에 따라 피해량이 증가하는 뉴트로늄 전구경 철갑탄을 발사할 수 있습니다.\n\n이 거대한 무기는 밀리라 포세이돈 강화갑옷과 밀리라 전술 모듈을 착용했을 때만 사용할 수 있습니다.</Milira_AstesiaAutoCannon_II.description>
+  <Milira_AstesiaAutoCannon_II.tools.0.label>개머리판</Milira_AstesiaAutoCannon_II.tools.0.label>
+  <Milira_AstesiaAutoCannon_II.tools.1.label>총열</Milira_AstesiaAutoCannon_II.tools.1.label>
+  <Milira_AstesiaAutoCannon_II.comps.4.gizmoLabel1>교란 모드</Milira_AstesiaAutoCannon_II.comps.4.gizmoLabel1>
+  <Milira_AstesiaAutoCannon_II.comps.4.gizmoDesc1>철갑 모드로 전환합니다.\n철갑탄으로 변경하며, 체격이 1.0보다 큰 대상에게 추가 피해를 입힙니다.</Milira_AstesiaAutoCannon_II.comps.4.gizmoDesc1>
+  <Milira_AstesiaAutoCannon_II.comps.4.gizmoDesc2>교란 모드로 전환합니다.\n교란탄으로 변경하며, '받는 피해 계수'를 무시하는 피해를 입힙니다.</Milira_AstesiaAutoCannon_II.comps.4.gizmoDesc2>
 
   <Milira_Rifle_Katia_II.label>워스파이트 플라즈마 라이플</Milira_Rifle_Katia_II.label>
   <Milira_Rifle_Katia_II.description>약 2세기 전 요람의 밀리라들이 설계한 프로토타입 플라즈마 소총입니다.\n\n생산 비용이 비싸고 탄약으로 사용되는 압축 태양 배터리 팩이 너무 불안정하고 위험했기 때문에, 이 프로토타입 소총은 결국 폐기되었습니다.\n\n카티아가 요람군에서 젊은 시절을 보낼 때 이 소총을 테스트할 기회를 가졌고, 이 다루기 쉽고 믿음직한 무기는 그녀의 평생을 함께하게 되었습니다.\n\n총기 몸체에는 "천사들이 복수하리라"라는 문구가 새겨져 있습니다.</Milira_Rifle_Katia_II.description>
   <Milira_Rifle_Katia_II.comps.4.gizmoLabel1>소총 모드</Milira_Rifle_Katia_II.comps.4.gizmoLabel1>
   <Milira_Rifle_Katia_II.comps.4.gizmoDesc1>소총 모드로 전환합니다.</Milira_Rifle_Katia_II.comps.4.gizmoDesc1>
   <Milira_Rifle_Katia_II.comps.4.gizmoDesc2>포격 모드로 전환합니다.</Milira_Rifle_Katia_II.comps.4.gizmoDesc2>
+  <Milira_Rifle_Katia_II.tools.0.label>개머리판</Milira_Rifle_Katia_II.tools.0.label>
+  <Milira_Rifle_Katia_II.tools.1.label>총열</Milira_Rifle_Katia_II.tools.1.label>
 
   <Milira_PrinterGun.label>밀리라 프린터건</Milira_PrinterGun.label>
   <Milira_PrinterGun.description>밀리라 제국의 한 천재 밀리라가 발명한 조립 및 결합 보조용 프린팅 건입니다.\n\n장착 시 구조물 조립 속도가 크게 빨라지고 작업 속도가 약간 향상됩니다.\n\n위험이 닥치면 레이저를 발사하여 자위용 무기로도 사용할 수 있습니다.</Milira_PrinterGun.description>
+  <Milira_PrinterGun.tools.0.label>개머리판</Milira_PrinterGun.tools.0.label>
+  <Milira_PrinterGun.tools.1.label>총열</Milira_PrinterGun.tools.1.label>
+  <Milira_PrinterGun.comps.0.verbProps.label>충전 모드</Milira_PrinterGun.comps.0.verbProps.label>
 
   <Milira_CombatantSuit.label>밀리라 대거 전투복</Milira_CombatantSuit.label>
   <Milira_CombatantSuit.description>보호용 부품 대부분을 제거한 전투복입니다. 착용자에게 탁월한 움직임의 자유를 제공하며, 내장된 근력 강화 시스템은 근접 피해를 높이는 동시에 화기를 더 쉽게 다루고 조작할 수 있게 해줍니다.\n\n이 의류 세트는 &lt;color=#7AD77D&gt;근접 전투 및 이동 속도&lt;/color&gt;에 중점을 둡니다.</Milira_CombatantSuit.description>
@@ -363,6 +445,48 @@
 
   <Milira_RetroHunterHelmet.label>밀리라 레트로 헌터 헬멧</Milira_RetroHunterHelmet.label>
   <Milira_RetroHunterHelmet.description>지구 고대의 서양 판타지 게임에서 영감을 받은 밀리라 헌터 모자로, 외형은 오래되고 취약해 보입니다.\n\n그러나 실제로는 전용 전투복과 함께 착용했을 때 최상의 방어 성능을 발휘할 수 있습니다.\n\n이 의류 세트는 &lt;color=#7AD77D&gt;두 종류의 아르테미스 갑옷 변형의 장점을 결합했지만, 원거리 무기 조작 성능은 희생했습니다&lt;/color&gt;.</Milira_RetroHunterHelmet.description>
+
+  <Milira_ShadowCombatSuit.label>밀리라 고스트 전술 슈트</Milira_ShadowCombatSuit.label>
+  <Milira_ShadowCombatSuit.description>섀도우 가드에게 지급되는 경량 전투복입니다. 최소한의 무게에도 불구하고 이 전투복의 성능은 부피가 큰 파워 아머에 필적합니다.\n\n또한 스텔스 야전 발전기를 통합합니다. \n\n이 의복 세트는 &lt;color=#7AD77D&gt;근접 전투와 은신 상태 진입&lt;/color&gt;에 특화되어 있습니다.</Milira_ShadowCombatSuit.description>
+
+  <Milira_ShadowTacticalGoggles.label>밀리라 고스트 전술 고글</Milira_ShadowTacticalGoggles.label>
+  <Milira_ShadowTacticalGoggles.description>섀도우 가드에게 지급되는 경량 전투용 후드입니다. \n\n이 의복 세트는 &lt;color=#7AD77D&gt;근접 전투와 은신 상태 진입&lt;/color&gt;에 특화되어 있습니다.</Milira_ShadowTacticalGoggles.description>
+
+  <Milira_MarinePowerArmor.label>밀리라 해병대 파워 아머</Milira_MarinePowerArmor.label>
+  <Milira_MarinePowerArmor.description>밀리라 제국의 표준 보급형 해병대 파워 아머로, 고전적인 발키리 전투 갑옷을 개량한 모델입니다. \n\n적 함선에 워프하여 강습하는 밀리라 스페이스 마린들을 효과적으로 보호합니다. \n\n이 갑옷은 가장 가혹한 행성 환경도 견뎌낼 수 있습니다. \n\n이 의복 세트는 &lt;color=#7AD77D&gt;사격과 방어&lt;/color&gt;에 특화되어 있습니다.</Milira_MarinePowerArmor.description>
+
+  <Milira_MarinePowerHelmet.label>밀리라 해병대 파워 헬멧</Milira_MarinePowerHelmet.label>
+  <Milira_MarinePowerHelmet.description>밀리라 제국의 표준 보급형 해병대 파워 헬멧으로, 고전적인 발키리 전투 갑옷을 개량한 모델입니다. \n\n적 함선에 워프하여 강습하는 밀리라 스페이스 마린들을 효과적으로 보호합니다. \n\n이 의복 세트는 &lt;color=#7AD77D&gt;사격과 방어&lt;/color&gt;에 특화되어 있습니다.</Milira_MarinePowerHelmet.description>
+
+  <Milira_NavalUniform.label>밀리라 셀레네 아머</Milira_NavalUniform.label>
+  <Milira_NavalUniform.description>이전 세대의 아르테미스 갑옷을 기반으로 방어력을 개선한 밀리라 제국 해군의 표준 군복입니다. 편안한 착용감과 아름다운 디자인 덕분에 승조원과 장교 모두에게 사랑받고 있습니다. \n\n이 의복 세트는 &lt;color=#7AD77D&gt;밀리라 무기의 에너지 충전 용량&lt;/color&gt;에 특화되어 있습니다.</Milira_NavalUniform.description>
+
+  <Milira_TacticalHeadset.label>밀리라 셀레네 헤드셋</Milira_TacticalHeadset.label>
+  <Milira_TacticalHeadset.description>셀레네 아머와 함께 사용하도록 설계된 전술 헤드셋입니다. \n\n전투 연산 장치가 탑재되어 전장 인식 능력을 향상시킬 뿐만 아니라 에너지 무기의 탄착군을 교정해 줍니다. \n\n이 의복 세트는 &lt;color=#7AD77D&gt;밀리라 무기의 에너지 충전 용량&lt;/color&gt;에 특화되어 있습니다.</Milira_TacticalHeadset.description>
+
+  <Milira_RetroNavalUniform.label>밀리라 복고풍 해군 제복</Milira_RetroNavalUniform.label>
+  <Milira_RetroNavalUniform.description>약 2,400년 전의 복고풍 해군 제복입니다. 밀리라 제국이 자애로운 초월공학 신의 뜻을 받들어 은하계 곳곳에서 어둠의 초월공학 신에 맞서 수많은 대성전을 벌이던 시절의 유산입니다. \n\n그 당시의 해군 제복은 실용성보다는 우아함과 예우를 중시했는데, 하늘을 뒤덮을 정도로 거대했던 당시 밀리라 제국 해군의 위용에 완벽하게 어울리는 스타일이었습니다.</Milira_RetroNavalUniform.description>
+
+  <Milira_FeatherDeco.label>밀리라 깃털 장식</Milira_FeatherDeco.label>
+  <Milira_FeatherDeco.description>리디아가 즐겨 쓰는 깃털 장식 스타일로 제작된 머리 장식입니다. \n\n이제 이 장식에 달린 밀리라 깃털은 오직 우정과 희망만을 상징할 것입니다.</Milira_FeatherDeco.description>
+
+  <Milira_HeavyPowerArmor.label>밀리라 포세이돈 파워 아머</Milira_HeavyPowerArmor.label>
+  <Milira_HeavyPowerArmor.description>중형 기관포 운용을 위해 설계된 특수 강화 갑옷입니다. \n\n일반적인 파워 아머와 달리, "포세이돈"급 파워 아머는 전투 컴퓨터를 포기하는 대신 보조 제어 장치를 장착했습니다. 그 결과 포세이돈 모델은 &lt;color=#7AD77D&gt;착용자가 엄청나게 무거운 '아스테시아' 자동 기관포를 휘두를 수 있게 해줍니다&lt;/color&gt;.</Milira_HeavyPowerArmor.description>
+
+  <Milira_PoseidonHeadset.label>밀리라 포세이돈 모듈</Milira_PoseidonHeadset.label>
+  <Milira_PoseidonHeadset.description>포세이돈 파워 아머와 함께 사용하도록 설계된 전술 모듈입니다. \n\n이 모듈에는 특수 작전용 전투 컴퓨터가 탑재되어 있습니다. 전장 인식 능력 향상은 제한적이지만, &lt;color=#7AD77D&gt;아스테시아 자동 기관포에 필요한 복잡한 사격 통제 계산을 수행&lt;/color&gt;할 수 있습니다.</Milira_PoseidonHeadset.description>
+
+  <Milira_Priest_Uniform.label>밀리라 사제복</Milira_Priest_Uniform.label>
+  <Milira_Priest_Uniform.description>원자력 시대 지구의 독특한 문화 작품에서 유래한 "사제복"입니다. 실제로 밀리라 제국의 사이오닉 사제들은 이를 제복으로 여기지 않으며, 몸매를 뽐내기 위한 모델용 의상에 가깝게 취급합니다.</Milira_Priest_Uniform.description>
+
+  <Milira_ImperiumOrdinaryI.label>밀리라 제국 의복</Milira_ImperiumOrdinaryI.label>
+  <Milira_ImperiumOrdinaryI.description>고대 지구의 서구 판타지 비디오 게임에서 영감을 받은 고딕 빅토리아풍 일상복입니다. 크라돌에 사는 밀리라 동족들과 비교했을 때, 밀리라 제국의 시민들은 우주의 극한 추위를 견딜 수 있는 의복을 선호합니다.</Milira_ImperiumOrdinaryI.description>
+
+  <Milira_ImperiumOrdinaryHatI.label>밀리라 보닛</Milira_ImperiumOrdinaryHatI.label>
+  <Milira_ImperiumOrdinaryHatI.description>고대 지구의 서구 판타지 비디오 게임에서 영감을 받은 고딕 빅토리아풍 일상 모자입니다.</Milira_ImperiumOrdinaryHatI.description>
+
+  <Milira_ThermalJumpsuit.label>밀리라 방한 점프수트</Milira_ThermalJumpsuit.label>
+  <Milira_ThermalJumpsuit.description>단열 성능이 뛰어난 일상 작업복입니다. \n\n밀리라 우주 조종사와 정비공들 모두 가볍고 활동이 자유로운 이 점프수트를 즐겨 입습니다.</Milira_ThermalJumpsuit.description>
 
   <Milira_PilotSunglasses.label>밀리라 조종사 선글라스</Milira_PilotSunglasses.label>
   <Milira_PilotSunglasses.description>제국의 성간전투기 캐노피는 우주의 과도한 태양 방사선으로부터 조종사의 시력을 보호하는 첨단 복합 소재로 제작되었습니다. 그래서 사실 이 에비에이터 선글라스는 멋을 아는 밀리라들을 위한 액세서리에 불과합니다. 하지만 민간 등급의 보조 조준경이 내장되어 있습니다.</Milira_PilotSunglasses.description>
@@ -477,7 +601,7 @@
   <Milira_DragonFighter.comps.11.gizmoLabel>레이저 점방어</Milira_DragonFighter.comps.11.gizmoLabel>
   <Milira_DragonFighter.comps.11.gizmoDesc>레이저 점방어 시스템을 켭니다. 활성화되면 25타일 내의 적 투사체를 요격합니다.</Milira_DragonFighter.comps.11.gizmoDesc>
   <Milira_GriffinFighter.label>밀리라 그리핀 전투기</Milira_GriffinFighter.label>
-  <Milira_GriffinFighter.description>프레데터에게 자리를 물려준 구식 함상 전투기입니다. 이제는 민간용으로 전환되면서 비싼 뉴트로늄 대신 값싼 태양강철을 사용했습니다. 덕분에 가격은 저렴하지만 내구도는 다소 떨어집니다. 복잡한 화력 제어 장치도 제외되어 레이저 연사 속도가 낮고 미사일 장착이 불가능합니다. 레이저 오토캐논 2문을 장착했습니다.</Milira_GriffinFighter.description>
+  <Milira_GriffinFighter.description>프레데터에게 자리를 물려준 구식 함상 전투기입니다. 이제는 민간용으로 전환되면서 비싼 뉴트로늄 대신 값싼 태양단강을 사용했습니다. 덕분에 가격은 저렴하지만 내구도는 다소 떨어집니다. 복잡한 화력 제어 장치도 제외되어 레이저 연사 속도가 낮고 미사일 장착이 불가능합니다. 레이저 오토캐논 2문을 장착했습니다.</Milira_GriffinFighter.description>
   <Milira_GriffinFighter.comps.CompRefuelableAerocraft.fuelLabel>태양 연료</Milira_GriffinFighter.comps.CompRefuelableAerocraft.fuelLabel>
   <Milira_GriffinFighter.comps.CompRefuelableAerocraft.fuelGizmoLabel>태양 연료</Milira_GriffinFighter.comps.CompRefuelableAerocraft.fuelGizmoLabel>
   <MiliraTurretGun_Orbital_Laser_Fighter_Griffin.label>전투기용 레이저포</MiliraTurretGun_Orbital_Laser_Fighter_Griffin.label>

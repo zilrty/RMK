@@ -270,21 +270,21 @@
   <MI_Name_Lumiour_First>루미오르</MI_Name_Lumiour_First>
   <MI_Name_Lumiour_Last>이코노멜리</MI_Name_Lumiour_Last>
   <MI_Name_Lumiour_Nick>루미오르</MI_Name_Lumiour_Nick>
-  <MI_Name_QingNiao_First>청조</MI_Name_QingNiao_First>
-  <MI_Name_QingNiao_Last>퀘성</MI_Name_QingNiao_Last>
-  <MI_Name_QingNiao_Nick>청조</MI_Name_QingNiao_Nick>
+  <MI_Name_QingNiao_First>칭냐오</MI_Name_QingNiao_First>
+  <MI_Name_QingNiao_Last>췌셩</MI_Name_QingNiao_Last>
+  <MI_Name_QingNiao_Nick>칭냐오</MI_Name_QingNiao_Nick>
   <MI_Name_Katia_First>탈리아</MI_Name_Katia_First>
   <MI_Name_Katia_Last>카티아</MI_Name_Katia_Last>
   <MI_Name_Katia_Nick>카티아</MI_Name_Katia_Nick>
   <MI_Name_Amy_First>에이미</MI_Name_Amy_First>
   <MI_Name_Amy_Last>카트</MI_Name_Amy_Last>
   <MI_Name_Amy_Nick>에이미</MI_Name_Amy_Nick>
-  <MI_Name_Micha_First>미카</MI_Name_Micha_First>
-  <MI_Name_Micha_Last>쿠코르</MI_Name_Micha_Last>
-  <MI_Name_Micha_Nick>미카</MI_Name_Micha_Nick>
-  <MI_MichaHaloSwitch>미카의 헤일로가 도넛 형태로 전환되었습니다.</MI_MichaHaloSwitch>
-  <MI_ConsumedMichaHalo>{0}(이)가 미카의 도넛 헤일로를 먹고 {1} 효과를 얻었습니다.</MI_ConsumedMichaHalo>
-  <MI_ConsumedMichaHalo_Skill>{0}(이)가 미카의 도넛 헤일로를 먹고 {1} 효과를 얻었습니다. ({2} 숙련도 3000 획득)</MI_ConsumedMichaHalo_Skill>
+  <MI_Name_Micha_First>미샤</MI_Name_Micha_First>
+  <MI_Name_Micha_Last>쿠커</MI_Name_Micha_Last>
+  <MI_Name_Micha_Nick>미샤</MI_Name_Micha_Nick>
+  <MI_MichaHaloSwitch>미샤의 헤일로가 도넛 형태로 전환되었습니다.</MI_MichaHaloSwitch>
+  <MI_ConsumedMichaHalo>{0}(이)가 미샤의 도넛 헤일로를 먹고 {1} 효과를 얻었습니다.</MI_ConsumedMichaHalo>
+  <MI_ConsumedMichaHalo_Skill>{0}(이)가 미샤의 도넛 헤일로를 먹고 {1} 효과를 얻었습니다. ({2} 숙련도 3000 획득)</MI_ConsumedMichaHalo_Skill>
 
   <MI_Name_Christina_First>크리스티나</MI_Name_Christina_First>
   <MI_Name_Christina_Last>테오도로티</MI_Name_Christina_Last>
@@ -302,7 +302,36 @@
   <MI.RecruitFeiJiangDesc>미라 쿠르의 포섭을 시도합니다.</MI.RecruitFeiJiangDesc>
   <MI.FeiJiangRecruitSuccess_Label>미라 쿠르 포섭 성공</MI.FeiJiangRecruitSuccess_Label>
   <MI.FeiJiangRecruitSuccess_Text>"좋아요, 친애하는 초월공학 신이시여. 우리가 즐거운 시간을 보낼 수 있기를."</MI.FeiJiangRecruitSuccess_Text>
-
+  <MiliraImperium_NPCProtected_Label>정신 결속 의식 실패</MiliraImperium_NPCProtected_Label>
+  <MiliraImperium_NPCProtected_Desc>희미한 속삭임이 들립니다. 이 비현실적인 존재를 창조한 초월공학 신과 변이 의식을 주관하는 초월공학 신이 무언가 대화를 나눈 듯합니다.\n\n어쨌든, {0}(을)를 다크 밀리안으로 변전시키려는 의식은 아무런 효과가 없었습니다.</MiliraImperium_NPCProtected_Desc>
+  <Milira_WeaponRejected_Skuld>“아니요… 자애로운 초월공학 신께서 제게 이 무기를 사용할 권한을 허락하지 않으셨습니다.” {0}(이)가 말했습니다.</Milira_WeaponRejected_Skuld>
+  <MI_Name_Skuld_First>스쿨드</MI_Name_Skuld_First>
+  <MI_Name_Skuld_Last>제퓨티</MI_Name_Skuld_Last>
+  <MI_Name_Skuld_Nick>스쿨드</MI_Name_Skuld_Nick>
+  <MI_Name_Luoyan_First>뤄얀</MI_Name_Luoyan_First>
+  <MI_Name_Luoyan_Last>화위예</MI_Name_Luoyan_Last>
+  <MI_Name_Luoyan_Nick>뤄얀</MI_Name_Luoyan_Nick>
+  <MI_Name_Dellin_First>코르시스</MI_Name_Dellin_First>
+  <MI_Name_Dellin_Last>델린</MI_Name_Dellin_Last>
+  <MI_Name_Dellin_Nick>델린</MI_Name_Dellin_Nick>
+  <MI_Name_Kindseal_First>킨드실</MI_Name_Kindseal_First>
+  <MI_Name_Kindseal_Last>장</MI_Name_Kindseal_Last>
+  <MI_Name_Kindseal_Nick>킨드실</MI_Name_Kindseal_Nick>
+  <MI_Name_Linhe_First>헤</MI_Name_Linhe_First>
+  <MI_Name_Linhe_Last>린</MI_Name_Linhe_Last>
+  <MI_Name_Linhe_Nick>린 헤</MI_Name_Linhe_Nick>
+  <MI_Name_YueJian_First>지안</MI_Name_YueJian_First>
+  <MI_Name_YueJian_Last>위에</MI_Name_YueJian_Last>
+  <MI_Name_YueJian_Nick>위에 지안</MI_Name_YueJian_Nick>
+  <MI_Name_Huibing_First>빙</MI_Name_Huibing_First>
+  <MI_Name_Huibing_Last>후이</MI_Name_Huibing_Last>
+  <MI_Name_Huibing_Nick>후이 빙</MI_Name_Huibing_Nick>
+  <MI_Name_Cecilia_First>세실리아</MI_Name_Cecilia_First>
+  <MI_Name_Cecilia_Last>우브살라</MI_Name_Cecilia_Last>
+  <MI_Name_Cecilia_Nick>세실리아</MI_Name_Cecilia_Nick>
+  <MI_Name_Sariel_First>사리엘</MI_Name_Sariel_First>
+  <MI_Name_Sariel_Last>오리온</MI_Name_Sariel_Last>
+  <MI_Name_Sariel_Nick>사리엘</MI_Name_Sariel_Nick>
   <MI_Milira_Tab>밀리라</MI_Milira_Tab>
   <MI_Kiiro_Tab>키이로</MI_Kiiro_Tab>
   <MI_Moelotl_Tab>모에로틀</MI_Moelotl_Tab>
@@ -336,31 +365,31 @@
   <SpecialPawnRemiel.label>No.Alpha 레미엘 아리안델</SpecialPawnRemiel.label>
   <SpecialPawnRemiel.desc>스토리텔러 레미엘 아리안델은 초월공학 신인 당신을 돕기 위해 자신의 힘으로 허구의 영적 존재를 만들어냈습니다.\n\n참고: \n이 밀리라는 망령 형태이며 최소 의식 100% 유지, 나이를 먹지 않습니다. \n영입 방법: 레미엘 아리안델을 스토리텔러로 선택하고 '구세주' 이벤트를 발생시키십시오.</SpecialPawnRemiel.desc>
 
-  <SpecialPawnSkuld.label>No.Gamma 스쿨드 제프티</SpecialPawnSkuld.label>
-  <SpecialPawnSkuld.desc>스토리텔러 스쿨드 제프티는 초월공학 신인 당신을 돕기 위해 자신의 힘으로 허구의 영적 존재를 만들어냈습니다.\n\n참고: \n이 밀리라는 망령 형태이며 최소 의식 100% 유지, 나이를 먹지 않습니다. \n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnSkuld.desc>
+  <SpecialPawnSkuld.label>No.Gamma 스쿨드 제퓨티</SpecialPawnSkuld.label>
+  <SpecialPawnSkuld.desc>스토리텔러 스쿨드 제퓨티는 초월공학 신인 당신을 돕기 위해 자신의 힘으로 허구의 영적 존재를 만들어냈습니다.\n\n참고: \n이 밀리라는 망령 형태이며 최소 의식 100% 유지, 나이를 먹지 않습니다. \n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnSkuld.desc>
   <SpecialPawnLydia.label>No.Beta 리디아 아올세이스</SpecialPawnLydia.label>
   <SpecialPawnLydia.desc>어둠의 초월공학 신이 아끼는 사도 중 하나입니다. 리디아는 허구의 영적 존재의 모습으로 이 차원을 거닙니다. 그녀는 아주 오래전 공허에 동화되었습니다.\n\n참고: \n이 밀리라는 망령 형태이며 최소 의식 100% 유지, 나이를 먹지 않습니다.\n영입 방법: 퀘스트에서 리디아를 물리치십시오.</SpecialPawnLydia.desc>
   <SpecialPawnLumiour.label>No.01 루미오르 이코노멜리</SpecialPawnLumiour.label>
   <SpecialPawnLumiour.desc>신비로운 밀리라 관찰자입니다. \n\n참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnLumiour.desc>
-  <SpecialPawnQingNiao.label>No.02 퀘성 청조</SpecialPawnQingNiao.label>
+  <SpecialPawnQingNiao.label>No.02 췌셩 칭냐오</SpecialPawnQingNiao.label>
   <SpecialPawnQingNiao.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnQingNiao.desc>
   <SpecialPawnKatia.label>No.03 탈리아 카티아</SpecialPawnKatia.label>
   <SpecialPawnKatia.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnKatia.desc>
-  <SpecialPawnMicha.label>No.04 미카 쿠코르</SpecialPawnMicha.label>
+  <SpecialPawnMicha.label>No.04 미샤 쿠커</SpecialPawnMicha.label>
   <SpecialPawnMicha.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnMicha.desc>
   <SpecialPawnChristina.label>No.05 크리스티나 테오도로티</SpecialPawnChristina.label>
   <SpecialPawnChristina.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnChristina.desc>
   <SpecialPawnLuselyte.label>No.06 아프로디테 루첼라이트</SpecialPawnLuselyte.label>
   <SpecialPawnLuselyte.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnLuselyte.desc>
-  <SpecialPawnAmy.label>No.07 에이미 카터</SpecialPawnAmy.label>
+  <SpecialPawnAmy.label>No.07 에이미 카트</SpecialPawnAmy.label>
   <SpecialPawnAmy.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnAmy.desc>
   <SpecialPawnDellin.label>No.08 코르시스 델린</SpecialPawnDellin.label>
   <SpecialPawnDellin.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnDellin.desc>
   <SpecialPawnKindseal.label>No.δ 킨드실 장</SpecialPawnKindseal.label>
   <SpecialPawnKindseal.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnKindseal.desc>
-  <SpecialPawnLinhe.label>No.09 임하</SpecialPawnLinhe.label>
+  <SpecialPawnLinhe.label>No.09 린 허</SpecialPawnLinhe.label>
   <SpecialPawnLinhe.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnLinhe.desc>
-  <SpecialPawnHuibing.label>No.10 회빙</SpecialPawnHuibing.label>
+  <SpecialPawnHuibing.label>No.10 후이 빙</SpecialPawnHuibing.label>
   <SpecialPawnHuibing.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnHuibing.desc>
   <SpecialPawnSariel.label>No.11 사리엘 오리온</SpecialPawnSariel.label>
   <SpecialPawnSariel.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnSariel.desc>
@@ -368,9 +397,9 @@
   <SpecialPawnCecilia.desc>참고:\n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnCecilia.desc>
   <SpecialPawnMira.label>No.01 미라 쿠르</SpecialPawnMira.label>
   <SpecialPawnMira.desc>미라는 진정으로 죽은 적이 없기에, 자의식을 가진 비행 강시로서 절대 정신 붕괴를 일으키지 않습니다. \n\n참고: \n영입 방법: 리디아가 정착지에 합류한 후, 리디아를 통해 포섭하십시오.</SpecialPawnMira.desc>
-  <SpecialPawnLuoyan.label>No.02 낙안 화월야</SpecialPawnLuoyan.label>
+  <SpecialPawnLuoyan.label>No.02 뤄얀 화위예</SpecialPawnLuoyan.label>
   <SpecialPawnLuoyan.desc>강력한 혈종 모에로틀입니다.\n\n참고: \n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnLuoyan.desc>
-  <SpecialPawnYueJian.label>No.03 견월</SpecialPawnYueJian.label>
+  <SpecialPawnYueJian.label>No.03 지안 위에</SpecialPawnYueJian.label>
   <SpecialPawnYueJian.desc>강력한 도가 모에로틀입니다.\n\n참고: \n영입 방법: 통신 콘솔을 통해 밀리라 제국에 연락한 후, 밀리라 황금 깃털을 소모하여 무작위 모집을 시도하십시오.</SpecialPawnYueJian.desc>
 
   <MI_Psionic_Tab>장막 권능</MI_Psionic_Tab>
