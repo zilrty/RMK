@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Vigil_KDA.title>비질 배양아</Vigil_KDA.title>
+  <Vigil_KDA.titleShort>배양아</Vigil_KDA.titleShort>
+  <Vigil_KDA.description>인공적으로 생성되어 배양조 안에서 수면 학습을 받으며 자라났습니다.</Vigil_KDA.description>
+
+  <Vigil_OTA.title>비질 경비원</Vigil_OTA.title>
+  <Vigil_OTA.titleShort>경비원</Vigil_OTA.titleShort>
+  <Vigil_OTA.description>일반적인 기업의 경비원으로 고용되어 근무했습니다. 그 영향으로 비질 중에서는 다소 사교적인 편입니다.</Vigil_OTA.description>
+
+  <Vigil_OTB.title>비질 특수부대원</Vigil_OTB.title>
+  <Vigil_OTB.titleShort>특수부대</Vigil_OTB.titleShort>
+  <Vigil_OTB.description>뛰어난 능력을 인정받아 선발되었으며, 특수부대 소속으로 고도의 작전을 수행했습니다.</Vigil_OTB.description>
+
+  <Vigil_OTC.title>비질 구조대원</Vigil_OTC.title>
+  <Vigil_OTC.titleShort>구조대</Vigil_OTC.titleShort>
+  <Vigil_OTC.description>전투가 수반되는 위험한 구조 임무를 수행하는 구조대에 소속되어 있었습니다.</Vigil_OTC.description>
+
+  <Vigil_OTD.title>비질 공병</Vigil_OTD.title>
+  <Vigil_OTD.titleShort>공병</Vigil_OTD.titleShort>
+  <Vigil_OTD.description>건축 및 공작 업무를 수행하는 공병 부대에 소속되어 있었습니다.</Vigil_OTD.description>
+
+  <Vigil_OTSpA.title>비질 용병</Vigil_OTSpA.title>
+  <Vigil_OTSpA.titleShort>용병</Vigil_OTSpA.titleShort>
+  <Vigil_OTSpA.description>본대에서 이탈한 후, 자신의 전투 기술과 지식만을 믿고 홀로 용병이 되어 이 변방계를 떠돌아다녔습니다.</Vigil_OTSpA.description>
+</LanguageData>

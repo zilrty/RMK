@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NamerPerson_VR.rulePack.rulesStrings>
+    <li>r_name(p=4)-&gt;[VR_FirstName] [VR_LastName]</li>
+  </NamerPerson_VR.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_Heddif_OverClock.label>오버클럭</VR_Heddif_OverClock.label>
+  <VR_Heddif_OverClock.description>사고와 육체의 사이클이 가속된 상태입니다.</VR_Heddif_OverClock.description>
+
+  <VR_farmwear.label>비질 펌웨어</VR_farmwear.label>
+  <VR_farmwear.description>신체를 제어하는 펌웨어입니다. 높은 의식 수준을 유지하고 신체 균형과 기능을 보조하여 효율적으로 움직일 수 있도록 돕습니다.</VR_farmwear.description>
+  <VR_farmwear.stages.0.label>Ver.1.0</VR_farmwear.stages.0.label>
+  <VR_farmwear.stages.1.label>Ver.2.0</VR_farmwear.stages.1.label>
+  <VR_farmwear.stages.2.label>Ver.3.0</VR_farmwear.stages.2.label>
+
+  <VR_EMPShock.label>EMP 쇼크</VR_EMPShock.label>
+  <VR_EMPShock.description>EMP의 영향으로 펌웨어를 통한 신체 제어에 문제가 발생했습니다. 당분간 의식이 저하되며 전투 능력 및 전투 지속 능력에 악영향을 줍니다.</VR_EMPShock.description>
+
+  <VR_Psywear.label>비질 사이웨어</VR_Psywear.label>
+  <VR_Psywear.description>정신적 감각을 전용하여 정신 감응성에 비례해 전투 능력을 높이는 장치입니다.</VR_Psywear.description>
+
+  <VR_VigilhairBHediff.label>부스스함</VR_VigilhairBHediff.label>
+  <VR_VigilhairBHediff.description>머리카락이 부스스하게 뻗쳐 있습니다.</VR_VigilhairBHediff.description>
+  <VR_VigilhairHediff.label>풍성함</VR_VigilhairHediff.label>
+  <VR_VigilhairHediff.description>머리카락이 풍성하고 부드럽습니다.</VR_VigilhairHediff.description>
+
+  <VR_HediffDef_Soseiprogram.label>불완전한 소생</VR_HediffDef_Soseiprogram.label>
+  <VR_HediffDef_Soseiprogram.labelNoun>불완전한 소생</VR_HediffDef_Soseiprogram.labelNoun>
+  <VR_HediffDef_Soseiprogram.description>일단 다시 살아는 났으나, 메카나이트가 온전히 기능하지 않아 조만간 다시 사망하게 됩니다.</VR_HediffDef_Soseiprogram.description>
+
+  <MAU_faceplate.label>페이스플레이트</MAU_faceplate.label>
+  <MAU_faceplate.description>디스플레이 장치를 통해 시력이 강화되었습니다.</MAU_faceplate.description>
+
+  <halfAirmask.label>호흡 보조 장치</halfAirmask.label>
+  <halfAirmask.description>고성능 산소 필터를 통해 호흡이 보조되고 있습니다.</halfAirmask.description>
+
+  <VR_Hediff_controlCollar.label>목걸이 착용</VR_Hediff_controlCollar.label>
+  <VR_Hediff_controlCollar.description>목걸이가 채워진 상태에 조금 흥분해 있습니다.</VR_Hediff_controlCollar.description>
+
+  <VR_musclesuit.label>슈트 보호</VR_musclesuit.label>
+  <VR_musclesuit.description>슈트의 기능으로 출혈률이 감소하고 운동 능력 및 조작 능력이 상승했습니다.</VR_musclesuit.description>
+  <VR_Hmusclesuit.label>슈트 보호</VR_Hmusclesuit.label>
+  <VR_Hmusclesuit.description>슈트의 기능으로 출혈률이 감소하고 운동 능력 및 조작 능력이 상승했습니다.</VR_Hmusclesuit.description>
+  <VR_PSImusclesuit.label>슈트 보호</VR_PSImusclesuit.label>
+  <VR_PSImusclesuit.description>슈트의 기능으로 출혈률이 감소하고 운동 능력 및 조작 능력이 상승했습니다.</VR_PSImusclesuit.description>
+  <VR_PSIHmusclesuit.label>슈트 보호</VR_PSIHmusclesuit.label>
+  <VR_PSIHmusclesuit.description>슈트의 기능으로 출혈률이 감소하고 운동 능력 및 조작 능력이 상승했습니다.</VR_PSIHmusclesuit.description>
+  <VR_muscleleotard.label>슈트 보호</VR_muscleleotard.label>
+  <VR_muscleleotard.description>슈트의 기능으로 출혈률이 감소하고 운동 능력 및 조작 능력이 상승했습니다.</VR_muscleleotard.description>
+  <VR_Hmuscleleotard.label>슈트 보호</VR_Hmuscleleotard.label>
+  <VR_Hmuscleleotard.description>슈트의 기능으로 출혈률이 감소하고 운동 능력 및 조작 능력이 상승했습니다.</VR_Hmuscleleotard.description>
+
+  <Opticalcamouflage.label>은신 장치</Opticalcamouflage.label>
+  <Opticalcamouflage.description>일시적으로 모습을 감추는 위장 장치를 가동할 수 있습니다.</Opticalcamouflage.description>
+
+  <VRR_CamouflageInvisibility.label>광학 미채</VRR_CamouflageInvisibility.label>
+  <VRR_CamouflageInvisibility.description>광학 미채로 투명화하여 적의 시야에서 벗어나지만 이동 속도가 느려집니다. 활성화 중 EMP 공격을 받으면 기절합니다.</VRR_CamouflageInvisibility.description>
+
+  <VR_ExpelliarmusHediff.label>CQC</VR_ExpelliarmusHediff.label>
+  <VR_ExpelliarmusHediff.description>매우 짧은 시간 동안 팔의 모든 기능을 상실합니다.</VR_ExpelliarmusHediff.description>
+
+  <VR_FasterBiosculpter.label>생체 개조 사이클 가속</VR_FasterBiosculpter.label>
+  <VR_FasterBiosculpter.description>신체가 생체 개조에 최적화되었습니다. 사이클 속도가 빨라지지만 당분간 의식이 저하됩니다.</VR_FasterBiosculpter.description>
+</LanguageData>

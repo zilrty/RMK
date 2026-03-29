@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_VR_MechSerumResurrector.label>비질 소생 프로그램 제작</Make_VR_MechSerumResurrector.label>
+  <Make_VR_MechSerumResurrector.description>비질 소생 프로그램을 제작합니다.</Make_VR_MechSerumResurrector.description>
+  <Make_VR_MechSerumResurrector.jobString>비질 소생 프로그램 제작 중</Make_VR_MechSerumResurrector.jobString>
+
+  <Make_VR_upgradeUSB.label>업그레이드 칩 제작</Make_VR_upgradeUSB.label>
+  <Make_VR_upgradeUSB.description>업그레이드 칩을 제작합니다.</Make_VR_upgradeUSB.description>
+  <Make_VR_upgradeUSB.jobString>업그레이드 칩 제작 중</Make_VR_upgradeUSB.jobString>
+
+  <Make_VR_PsyUSB.label>사이웨어 칩 제작</Make_VR_PsyUSB.label>
+  <Make_VR_PsyUSB.description>사이웨어 칩을 제작합니다.</Make_VR_PsyUSB.description>
+  <Make_VR_PsyUSB.jobString>사이웨어 칩 제작 중</Make_VR_PsyUSB.jobString>
+
+  <Make_VR_JoinerWalkIn_Vigil_Item.label>비질과 계약 체결</Make_VR_JoinerWalkIn_Vigil_Item.label>
+  <Make_VR_JoinerWalkIn_Vigil_Item.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_VR_JoinerWalkIn_Vigil_Item.description>
+  <Make_VR_JoinerWalkIn_Vigil_Item.jobString>비질과 계약 체결 중</Make_VR_JoinerWalkIn_Vigil_Item.jobString>
+</LanguageData>

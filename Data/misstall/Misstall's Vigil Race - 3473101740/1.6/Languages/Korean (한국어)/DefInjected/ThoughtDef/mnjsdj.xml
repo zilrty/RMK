@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_controlCollar.stages.0.label>목걸이를 통한 관리</VR_controlCollar.stages.0.label>
+  <VR_controlCollar.stages.0.description>나는 적절한 관리를 받고 있어.</VR_controlCollar.stages.0.description>
+
+  <VR_SleepDisturbed.stages.0.label>수면을 방해받음</VR_SleepDisturbed.stages.0.label>
+  <VR_SleepDisturbed.stages.0.description>내가 자는 동안 누군가 주변을 서성거린 것 같어.</VR_SleepDisturbed.stages.0.description>
+
+  <VR_SleptInBarracks.stages.0.label>끔찍한 막사</VR_SleptInBarracks.stages.0.label>
+  <VR_SleptInBarracks.stages.0.description>매우 끔찍한 막사에서 지내야 했어. 도저히 용납할 수 없어.</VR_SleptInBarracks.stages.0.description>
+  <VR_SleptInBarracks.stages.1.label>부족한 막사</VR_SleptInBarracks.stages.1.label>
+  <VR_SleptInBarracks.stages.1.description>형편없는 막사에서 지내야 했어.</VR_SleptInBarracks.stages.1.description>
+  <VR_SleptInBarracks.stages.2.label>평범한 막사</VR_SleptInBarracks.stages.2.label>
+  <VR_SleptInBarracks.stages.2.description>평범한 막사에서 잤어. 우리는 여러 명이 방을 함께 쓰는 것에 크게 개의치 않아.</VR_SleptInBarracks.stages.2.description>
+  <VR_SleptInBarracks.stages.3.label>나쁘지 않은 막사</VR_SleptInBarracks.stages.3.label>
+  <VR_SleptInBarracks.stages.3.description>나쁘지 않은 막사에서 잘 수 있었어. 우리는 여러 명이 방을 함께 쓰는 것에 크게 개의치 않아.</VR_SleptInBarracks.stages.3.description>
+  <VR_SleptInBarracks.stages.4.label>약간 인상적인 막사</VR_SleptInBarracks.stages.4.label>
+  <VR_SleptInBarracks.stages.4.description>약간 인상적인 막사에서 잘 수 있었어. 우리는 여러 명이 방을 함께 쓰는 것에 크게 개의치 않아.</VR_SleptInBarracks.stages.4.description>
+  <VR_SleptInBarracks.stages.5.label>인상적인 막사</VR_SleptInBarracks.stages.5.label>
+  <VR_SleptInBarracks.stages.5.description>인상적인 막사에서 잘 수 있었어. 우리는 여러 명이 방을 함께 쓰는 것에 크게 개의치 않아.</VR_SleptInBarracks.stages.5.description>
+  <VR_SleptInBarracks.stages.6.label>매우 인상적인 막사</VR_SleptInBarracks.stages.6.label>
+  <VR_SleptInBarracks.stages.6.description>매우 인상적인 막사에서 잘 수 있었어. 우리는 여러 명이 방을 함께 쓰는 것에 크게 개의치 않아.</VR_SleptInBarracks.stages.6.description>
+  <VR_SleptInBarracks.stages.7.label>극도로 인상적인 막사</VR_SleptInBarracks.stages.7.label>
+  <VR_SleptInBarracks.stages.7.description>극도로 인상적인 막사에서 잘 수 있었어. 우리는 여러 명이 방을 함께 쓰는 것에 크게 개의치 않아.</VR_SleptInBarracks.stages.7.description>
+  <VR_SleptInBarracks.stages.8.label>믿을 수 없이 인상적인 막사</VR_SleptInBarracks.stages.8.label>
+  <VR_SleptInBarracks.stages.8.description>믿을 수 없을 정도로 인상적인 막사에서 잘 수 있었어. 우리는 여러 명이 방을 함께 쓰는 것에 크게 개의치 않아.</VR_SleptInBarracks.stages.8.description>
+  <VR_SleptInBarracks.stages.9.label>경이로운 막사</VR_SleptInBarracks.stages.9.label>
+  <VR_SleptInBarracks.stages.9.description>경이로운 수준의 막사에서 잘 수 있었어. 우리는 여러 명이 방을 함께 쓰는 것에 크게 개의치 않아.</VR_SleptInBarracks.stages.9.description>
+
+  <VR_ObservedLayingCorpse.stages.0.label>시체 목격</VR_ObservedLayingCorpse.stages.0.label>
+  <VR_ObservedLayingCorpse.stages.0.description>시체가 굴러다니고 있어. 기분이 좋지는 않지만 어쩔 수 없는 일이야.</VR_ObservedLayingCorpse.stages.0.description>
+  <VR_ObservedLayingRottingCorpse.stages.0.label>부패한 시체 목격</VR_ObservedLayingRottingCorpse.stages.0.label>
+  <VR_ObservedLayingRottingCorpse.stages.0.description>부패한 시체를 봤어. 빨리 치우는 것이 좋겠어.</VR_ObservedLayingRottingCorpse.stages.0.description>
+  <VR_WitnessedDeathAlly.stages.0.label>아군의 죽음을 목격</VR_WitnessedDeathAlly.stages.0.label>
+  <VR_WitnessedDeathAlly.stages.0.description>동료가 죽었어. 전장에서는 흔한 광경이지만 상황이 좋지 않아.</VR_WitnessedDeathAlly.stages.0.description>
+  <VR_WitnessedDeathNonAlly.stages.0.label>누군가의 죽음을 목격</VR_WitnessedDeathNonAlly.stages.0.label>
+  <VR_WitnessedDeathNonAlly.stages.0.description>누군가가 죽었어. 위험한 상황일지도 몰라.</VR_WitnessedDeathNonAlly.stages.0.description>
+</LanguageData>
