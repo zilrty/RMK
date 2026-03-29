@@ -1029,6 +1029,8 @@
     <li IfModActive="TMC.Armory.SW.1">Data/TMC/TMC Armory - Support Weapons #1 - 2283675720</li>
     <li IfModActive="TMC.AAM">Data/TMC/TMC Equipment - Combat Assist Goggles - 2243681587</li>
     <li IfModActive="TMCArmory.Attachments">Data/TMC/TMC Gun Accessories - 2297887939</li>
+    <li IfModActive="Trickity.Samurai.Faction">Data/Trickity/T's Samurai Faction - 2559958496</li>
+    <li IfModActive="Trickity.Seal.Spirits">Data/Trickity/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="Trickity.WC.Rags">Data/Trickity/T's Wild Child Rags - 2879987799/1.6</li>
     <li IfModActive="UNAGI.A.BIGpome">Data/UNA/UNAGI Animal MOD ビッグポメ - 3289658674</li>
     <li IfModActive="UNAGI.A.chinchira">Data/UNA/UNAGI Animal MOD フルッフィル - 3261620660</li>
@@ -2531,8 +2533,6 @@
     <li IfModActive="auxiliusm.supersoil">Data/Super Soil - 823626435</li>
     <li IfModActive="RSev.SynergisticTraits">Data/Synergistic Traits - 2102438871</li>
     <li IfModActive="void.szstonesandterrains">Data/SZ_StonesAndTerrains - 1874663469</li>
-    <li IfModActive="Trickity.Samurai.Faction">Data/T's Samurai Faction - 2559958496</li>
-    <li IfModActive="Trickity.Seal.Spirits">Data/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
     <li IfModActive="RoltonsMods.FultonExtraction">Data/Tactical Fulton Extraction System - 3687327231/1.6</li>
     <li IfModActive="kikohi.TamingArtifact">Data/Taming Artifact - 1769917767</li>
@@ -3717,6 +3717,8 @@
     <li IfModActive="TMC.Armory.SW.1">Data/TMC/TMC Armory - Support Weapons #1 - 2283675720</li>
     <li IfModActive="TMC.AAM">Data/TMC/TMC Equipment - Combat Assist Goggles - 2243681587</li>
     <li IfModActive="TMCArmory.Attachments">Data/TMC/TMC Gun Accessories - 2297887939</li>
+    <li IfModActive="Trickity.Samurai.Faction">Data/Trickity/T's Samurai Faction - 2559958496</li>
+    <li IfModActive="Trickity.Seal.Spirits">Data/Trickity/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="Trickity.WC.Rags">Data/Trickity/T's Wild Child Rags - 2879987799/1.6</li>
     <li IfModActive="UNAGI.A.BIGpome">Data/UNA/UNAGI Animal MOD ビッグポメ - 3289658674</li>
     <li IfModActive="UNAGI.A.chinchira">Data/UNA/UNAGI Animal MOD フルッフィル - 3261620660</li>
@@ -5219,8 +5221,6 @@
     <li IfModActive="auxiliusm.supersoil">Data/Super Soil - 823626435</li>
     <li IfModActive="RSev.SynergisticTraits">Data/Synergistic Traits - 2102438871</li>
     <li IfModActive="void.szstonesandterrains">Data/SZ_StonesAndTerrains - 1874663469</li>
-    <li IfModActive="Trickity.Samurai.Faction">Data/T's Samurai Faction - 2559958496</li>
-    <li IfModActive="Trickity.Seal.Spirits">Data/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
     <li IfModActive="RoltonsMods.FultonExtraction">Data/Tactical Fulton Extraction System - 3687327231/1.6</li>
     <li IfModActive="kikohi.TamingArtifact">Data/Taming Artifact - 1769917767</li>
@@ -6405,6 +6405,8 @@
     <li IfModActive="TMC.Armory.SW.1">Data/TMC/TMC Armory - Support Weapons #1 - 2283675720</li>
     <li IfModActive="TMC.AAM">Data/TMC/TMC Equipment - Combat Assist Goggles - 2243681587</li>
     <li IfModActive="TMCArmory.Attachments">Data/TMC/TMC Gun Accessories - 2297887939</li>
+    <li IfModActive="Trickity.Samurai.Faction">Data/Trickity/T's Samurai Faction - 2559958496</li>
+    <li IfModActive="Trickity.Seal.Spirits">Data/Trickity/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="Trickity.WC.Rags">Data/Trickity/T's Wild Child Rags - 2879987799/1.6</li>
     <li IfModActive="UNAGI.A.BIGpome">Data/UNA/UNAGI Animal MOD ビッグポメ - 3289658674</li>
     <li IfModActive="UNAGI.A.chinchira">Data/UNA/UNAGI Animal MOD フルッフィル - 3261620660</li>
@@ -7908,8 +7910,6 @@
     <li IfModActive="auxiliusm.supersoil">Data/Super Soil - 823626435</li>
     <li IfModActive="RSev.SynergisticTraits">Data/Synergistic Traits - 2102438871</li>
     <li IfModActive="void.szstonesandterrains">Data/SZ_StonesAndTerrains - 1874663469</li>
-    <li IfModActive="Trickity.Samurai.Faction">Data/T's Samurai Faction - 2559958496</li>
-    <li IfModActive="Trickity.Seal.Spirits">Data/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
     <li IfModActive="RoltonsMods.FultonExtraction">Data/Tactical Fulton Extraction System - 3687327231/1.6</li>
     <li IfModActive="kikohi.TamingArtifact">Data/Taming Artifact - 1769917767</li>
@@ -9094,6 +9094,8 @@
     <li IfModActive="TMC.Armory.SW.1">Data/TMC/TMC Armory - Support Weapons #1 - 2283675720</li>
     <li IfModActive="TMC.AAM">Data/TMC/TMC Equipment - Combat Assist Goggles - 2243681587</li>
     <li IfModActive="TMCArmory.Attachments">Data/TMC/TMC Gun Accessories - 2297887939</li>
+    <li IfModActive="Trickity.Samurai.Faction">Data/Trickity/T's Samurai Faction - 2559958496</li>
+    <li IfModActive="Trickity.Seal.Spirits">Data/Trickity/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="Trickity.WC.Rags">Data/Trickity/T's Wild Child Rags - 2879987799/1.6</li>
     <li IfModActive="UNAGI.A.BIGpome">Data/UNA/UNAGI Animal MOD ビッグポメ - 3289658674</li>
     <li IfModActive="UNAGI.A.chinchira">Data/UNA/UNAGI Animal MOD フルッフィル - 3261620660</li>
@@ -10597,8 +10599,6 @@
     <li IfModActive="auxiliusm.supersoil">Data/Super Soil - 823626435</li>
     <li IfModActive="RSev.SynergisticTraits">Data/Synergistic Traits - 2102438871</li>
     <li IfModActive="void.szstonesandterrains">Data/SZ_StonesAndTerrains - 1874663469</li>
-    <li IfModActive="Trickity.Samurai.Faction">Data/T's Samurai Faction - 2559958496</li>
-    <li IfModActive="Trickity.Seal.Spirits">Data/T's Seal the Spirits - 3228158975</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
     <li IfModActive="RoltonsMods.FultonExtraction">Data/Tactical Fulton Extraction System - 3687327231/1.6</li>
     <li IfModActive="kikohi.TamingArtifact">Data/Taming Artifact - 1769917767</li>
