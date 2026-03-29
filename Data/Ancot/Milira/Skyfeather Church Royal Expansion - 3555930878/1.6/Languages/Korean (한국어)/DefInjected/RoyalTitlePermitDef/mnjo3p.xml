@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Milira_ChurchPermit_CallTransportShuttleDuplicate.label>수송 셔틀 호출</Milira_ChurchPermit_CallTransportShuttleDuplicate.label>
+  <Milira_ChurchPermit_CallTransportShuttleDuplicate.description>개인 용도로 사용할 수 있는 추가 셔틀을 호출합니다. 정착민, 물건, 동물을 110타일 이내의 원하는 위치로 수송할 수 있습니다.</Milira_ChurchPermit_CallTransportShuttleDuplicate.description>
+
+  <Milira_ChurchPermit_BombardmentIII.label>추가 포화 사격 지원</Milira_ChurchPermit_BombardmentIII.label>
+  <Milira_ChurchPermit_BombardmentIII.description>추가적인 포화 사격 지원을 1회 요청합니다.</Milira_ChurchPermit_BombardmentIII.description>
+
+  <Milira_ChurchPermit_HellFromAbove.label>하늘에서 내리는 지옥 요청</Milira_ChurchPermit_HellFromAbove.label>
+  <Milira_ChurchPermit_HellFromAbove.description>추가 지원조차 충분하지 않을 때, 압도적인 화력을 요청합니다.</Milira_ChurchPermit_HellFromAbove.description>
+
+  <Milira_DropMilianComponentAndUnlockRecipeDuplicate.label>추가 밀리안 모듈 기술 지원</Milira_DropMilianComponentAndUnlockRecipeDuplicate.label>
+  <Milira_DropMilianComponentAndUnlockRecipeDuplicate.description>추가 기술 지원을 요청하여 미지의 모듈을 공중 투하 받고, 해당 모듈의 제작법을 해금합니다.</Milira_DropMilianComponentAndUnlockRecipeDuplicate.description>
+</LanguageData>
