@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_MUO_1KT.label>MTL-26 가죽 구두</Apparel_MUO_1KT.label>
+  <Apparel_MUO_1KT.description>발을 보호하고 보행을 편하게 해주는 가죽 구두입니다.</Apparel_MUO_1KT.description>
+  <Apparel_MUO_1GL.label>MTL-28 작업용 장갑</Apparel_MUO_1GL.label>
+  <Apparel_MUO_1GL.description>손을 보호하는 장갑입니다. 작업에 적합하도록 제작되어 작업 속도를 향상시킵니다.</Apparel_MUO_1GL.description>
+  <Apparel_MUO_2KT.label>MTL-51 장갑화</Apparel_MUO_2KT.label>
+  <Apparel_MUO_2KT.description>장갑으로 강화된 전투용 부츠입니다. 높은 방어력을 제공하며, 뛰어난 접지력으로 근접전 시 회피에 도움을 줍니다.</Apparel_MUO_2KT.description>
+  <Apparel_MUO_2GL.label>MTL-52 장갑 장갑</Apparel_MUO_2GL.label>
+  <Apparel_MUO_2GL.description>장갑으로 강화된 전투용 장갑입니다. 높은 방어력을 제공하며, 뛰어난 접지력으로 근접전 명중률에 도움을 줍니다.</Apparel_MUO_2GL.description>
+  <Apparel_MUO_3KT.label>MTL-53 전투화</Apparel_MUO_3KT.label>
+  <Apparel_MUO_3KT.description>매우 가벼운 전투용 신발입니다. 방어력은 낮지만 회피와 이동 속도가 뛰어납니다.</Apparel_MUO_3KT.description>
+  <Apparel_MUO_3GL.label>MTL-54 전투 장갑</Apparel_MUO_3GL.label>
+  <Apparel_MUO_3GL.description>얇고 물건을 쥐기 편한 장갑입니다. 총기를 더 빠르게 조작할 수 있게 해줍니다.</Apparel_MUO_3GL.description>
+
+  <Apparel_MAU_MortarRimk.label>MTL-615 탄착 관측 헤드밴드</Apparel_MAU_MortarRimk.label>
+  <Apparel_MAU_MortarRimk.description>박격포와 연동하여 정확한 탄도 관측을 수행하며, 박격포의 명중률을 높여줍니다.</Apparel_MAU_MortarRimk.description>
+  <Apparel_MAU_SOG.label>MTL-55 전투 보조 장구(경량)</Apparel_MAU_SOG.label>
+  <Apparel_MAU_SOG.description>서스펜더에 연결된 벨트에 예비 탄창이 효율적으로 배치된 장구류입니다. 사격 후 재사용 대기시간을 줄여줍니다.</Apparel_MAU_SOG.description>
+  <Apparel_MAU_2SOG.label>MTL-56 전투 보조 장구(중량)</Apparel_MAU_2SOG.label>
+  <Apparel_MAU_2SOG.description>서스펜더에 연결된 벨트에 예비 탄창이 효율적으로 배치된 장구류입니다. 사격 후 재사용 대기시간을 크게 줄여줍니다.</Apparel_MAU_2SOG.description>
+
+  <Apparel_MAU_AML.label>MTL-57 플레이트 캐리어(경량)</Apparel_MAU_AML.label>
+  <Apparel_MAU_AML.description>일반 방탄조끼에 비해 방호 범위와 방어력은 낮지만, 효율적인 탄창 주머니 배치로 사격 후 재사용 대기시간을 감소시킵니다.</Apparel_MAU_AML.description>
+  <Apparel_MAU_MAH.label>MTL-57 플레이트 캐리어(중량)</Apparel_MAU_MAH.label>
+  <Apparel_MAU_MAH.description>경량 모델에 비해 더 넓은 방호 범위와 높은 방어력을 자랑하지만, 사격 후 대기시간 보정 수치는 약간 낮습니다.</Apparel_MAU_MAH.description>
+  <Apparel_MAU_3SOG.label>MTL-57 다목적 전술 조끼</Apparel_MAU_3SOG.label>
+  <Apparel_MAU_3SOG.description>탄창을 꺼내기 쉬운 각도로 배치한 전투용 조끼입니다. 사격 후 재사용 대기시간을 크게 개선합니다.</Apparel_MAU_3SOG.description>
+
+  <Apparel_MAU_CamoCloak.label>MTL-510 위장 망토</Apparel_MAU_CamoCloak.label>
+  <Apparel_MAU_CamoCloak.description>광학 미채 기술로 적의 눈으로부터 몸을 숨길 수 있는 망토입니다.</Apparel_MAU_CamoCloak.description>
+  <Apparel_MAU_ExoS.label>MTL-91 보조 외골격</Apparel_MAU_ExoS.label>
+  <Apparel_MAU_ExoS.description>신체 능력과 작업, 전투를 보조하는 외골격 장치입니다.</Apparel_MAU_ExoS.description>
+  <Apparel_MAU_ExoS.comps.1.chargeNoun>도약</Apparel_MAU_ExoS.comps.1.chargeNoun>
+  <Apparel_MAU_ExoS.verbs.Verb_Jump.label>도약</Apparel_MAU_ExoS.verbs.Verb_Jump.label>
+
+  <Apparel_MAU_Eye.label>MTL-89 전투 안대</Apparel_MAU_Eye.label>
+  <Apparel_MAU_Eye.description>총기와 링크되어 조준을 보조하는 기능이 탑재된 아이패치입니다.</Apparel_MAU_Eye.description>
+  <Apparel_MAU_Mask.label>MTL-82 에어 마스크</Apparel_MAU_Mask.label>
+  <Apparel_MAU_Mask.description>강력한 호흡 보조 장치가 내장된 방독면입니다. 가스의 영향으로부터 완전히 보호받습니다.</Apparel_MAU_Mask.description>
+  <Apparel_MAU_2Mega.label>MTL-83 뿔테 안경(빨강)</Apparel_MAU_2Mega.label>
+  <Apparel_MAU_2Mega.description>연구 속도와 의료 품질이 향상되는 안경입니다.</Apparel_MAU_2Mega.description>
+  <Apparel_MAU_Mega.label>MTL-82 뿔테 안경(검정)</Apparel_MAU_Mega.label>
+  <Apparel_MAU_Mega.description>연구 속도와 의료 품질이 향상되는 안경입니다.</Apparel_MAU_Mega.description>
+
+  <Apparel_MAU_HelInds.label>MTL-60 경비 헬멧</Apparel_MAU_HelInds.label>
+  <Apparel_MAU_HelInds.description>시설 경비 등에 주로 사용되는 평범한 헬멧입니다.</Apparel_MAU_HelInds.description>
+  <Apparel_MAU_Nekomimi.label>MTL-66 첨단 헤드셋(명소용)</Apparel_MAU_Nekomimi.label>
+  <Apparel_MAU_Nekomimi.description>야간 투시 장치와 사격 보조 센서가 내장된 머리 보호구입니다. 고성능 음향 탐지기가 탑재되어 전투 효율이 높으며, 특히 야간이나 어두운 곳에서의 사격전에서 우위를 점할 수 있습니다.</Apparel_MAU_Nekomimi.description>
+  <Apparel_MAU_NekomimiB.label>MTL-66 첨단 헤드셋(암소용)</Apparel_MAU_NekomimiB.label>
+  <Apparel_MAU_NekomimiB.description>야간 투시 장치와 사격 보조 센서가 내장된 머리 보호구입니다. 고성능 음향 탐지기가 탑재되어 전투 효율이 높으며, 특히 야간이나 어두운 곳에서의 사격전에서 우위를 점할 수 있습니다.</Apparel_MAU_NekomimiB.description>
+  <Apparel_MAU_Rimk.label>MTL-65 전투 헤드셋(주간)</Apparel_MAU_Rimk.label>
+  <Apparel_MAU_Rimk.description>야간 투시 장치와 사격 보조 센서가 내장된 머리 보호구입니다. 야간이나 어두운 곳에서의 전투 시 유리합니다.</Apparel_MAU_Rimk.description>
+  <Apparel_MAU_RimkB.label>MTL-65 전투 헤드셋(야간)</Apparel_MAU_RimkB.label>
+  <Apparel_MAU_RimkB.description>야간 투시 장치와 사격 보조 센서가 내장된 머리 보호구입니다. 야간이나 어두운 곳에서의 전투 시 유리합니다.</Apparel_MAU_RimkB.description>
+  <Apparel_MAU_Helmet.label>MTL-68 전투 헬멧(주간)</Apparel_MAU_Helmet.label>
+  <Apparel_MAU_Helmet.description>야간 투시 장치와 사격 보조 센서가 내장된 전투용 헬멧입니다. 야간이나 어두운 곳에서의 사격전에서 우위를 점할 수 있습니다.</Apparel_MAU_Helmet.description>
+  <Apparel_MAU_HelmetB.label>MTL-68 전투 헬멧(야간)</Apparel_MAU_HelmetB.label>
+  <Apparel_MAU_HelmetB.description>야간 투시 장치와 사격 보조 센서가 내장된 전투용 헬멧입니다. 야간이나 어두운 곳에서의 사격전에서 우위를 점할 수 있습니다.</Apparel_MAU_HelmetB.description>
+
+  <Apparel_MAU_LabCoat.label>MTL-32 실험복</Apparel_MAU_LabCoat.label>
+  <Apparel_MAU_LabCoat.description>연구원이나 의사가 착용하는 가운입니다. 치료 품질과 연구 속도에 보너스를 줍니다.</Apparel_MAU_LabCoat.description>
+  <Apparel_PKR_01uniform.label>MTL-33 전천후 파카</Apparel_PKR_01uniform.label>
+  <Apparel_PKR_01uniform.description>더위와 추위에 어느 정도 내성이 있는 의복입니다.</Apparel_PKR_01uniform.description>
+  <Apparel_CAT_01uniform.label>MTL-313 더플코트</Apparel_CAT_01uniform.label>
+  <Apparel_CAT_01uniform.description>추위에 강한 의복입니다.</Apparel_CAT_01uniform.description>
+  <Apparel_MAU_ZSK.label>MTL-34 추가 장갑</Apparel_MAU_ZSK.label>
+  <Apparel_MAU_ZSK.description>플레이트 캐리어의 부족한 방어력을 보충하기 위한 추가 장비입니다.</Apparel_MAU_ZSK.description>
+  <Apparel_MUO_01uniform.label>MTL-22 제복(동복)</Apparel_MUO_01uniform.label>
+  <Apparel_MUO_01uniform.description>집업 스타일의 세일러 칼라 제복입니다. 상하의 한 벌로 구성되어 몸통과 다리를 모두 보호합니다.</Apparel_MUO_01uniform.description>
+  <Apparel_MUOS_02uniform.label>MTL-22 제복(하복)</Apparel_MUOS_02uniform.label>
+  <Apparel_MUOS_02uniform.description>더위에 강한 여름용 제복입니다.</Apparel_MUOS_02uniform.description>
+  <Apparel_MUOV_03uniform.label>MTL-22 제복(조끼)</Apparel_MUOV_03uniform.label>
+  <Apparel_MUOV_03uniform.description>추위와 더위에 균형 잡힌 내성을 가진 조끼형 제복입니다.</Apparel_MUOV_03uniform.description>
+  <Apparel_MUH_01Beret.label>MTL-22 베레모</Apparel_MUH_01Beret.label>
+  <Apparel_MUH_01Beret.description>제복과 세트인 베레모입니다. 사회적 영향력이 상승합니다.</Apparel_MUH_01Beret.description>
+  <Apparel_MUG_01Beret.label>MTL-23 개리슨모</Apparel_MUG_01Beret.label>
+  <Apparel_MUG_01Beret.description>제복과 세트인 개리슨모입니다. 사회적 영향력이 상승합니다.</Apparel_MUG_01Beret.description>
+
+  <Apparel_MUO_BK.label>MTL-12 보조 가방</Apparel_MUO_BK.label>
+  <Apparel_MUO_BK.description>소지 가능한 무게를 늘려주는 가방입니다.</Apparel_MUO_BK.description>
+  <Apparel_MUO_2BK.label>MTL-11 책가방</Apparel_MUO_2BK.label>
+  <Apparel_MUO_2BK.description>소지 가능한 무게를 늘려주는 가방입니다.</Apparel_MUO_2BK.description>
+  <Apparel_MAU_MKNTRimk.label>MTL-70 기계 제어 단말기</Apparel_MAU_MKNTRimk.label>
+  <Apparel_MAU_MKNTRimk.description>메카노이드 대역폭을 늘려주는 헤드셋입니다. (Biotech DLC가 없을 경우 기능이 작동하지 않습니다.)</Apparel_MAU_MKNTRimk.description>
+
+  <Apparel_MAU_PackTurret.label>MTL-14 휴대용 포탑(경량)</Apparel_MAU_PackTurret.label>
+  <Apparel_MAU_PackTurret.description>콤팩트하게 접힌 공격용 포탑입니다. 사거리는 짧지만 연사 성능과 내구도가 높습니다.</Apparel_MAU_PackTurret.description>
+  <Apparel_MAU_PackTurret.verbs.Verb_LaunchProjectileStaticOneUse.label>포탑 전개</Apparel_MAU_PackTurret.verbs.Verb_LaunchProjectileStaticOneUse.label>
+  <Grenade_MAU_TurretPack.label>휴대용 포탑 캡슐</Grenade_MAU_TurretPack.label>
+  <Turret_MAU_TacticalTurret.label>M14 휴대용 포탑(경량)</Turret_MAU_TacticalTurret.label>
+  <Turret_MAU_TacticalTurret.description>근거리용 포탑입니다. 배터리가 소진되면 작동을 멈추며, 큰 피해를 입으면 폭발할 수 있습니다.</Turret_MAU_TacticalTurret.description>
+  <Turret_MAU_TacticalTurret.comps.4.labelOverride>배터리 잔량</Turret_MAU_TacticalTurret.comps.4.labelOverride>
+  <Gun_MAU_TacticalTurret.label>M14 휴대용 포탑용 총기</Gun_MAU_TacticalTurret.label>
+  <Gun_MAU_TacticalTurret.description>포탑 장착용으로 제작된 단순한 자동 화기입니다.</Gun_MAU_TacticalTurret.description>
+  <Gun_MAU_TacticalTurret.verbs.Verb_Shoot.label>M14 휴대용 포탑 사격</Gun_MAU_TacticalTurret.verbs.Verb_Shoot.label>
+
+  <Apparel_MAU_2PackTurret.label>MTL-15 휴대용 포탑(중량)</Apparel_MAU_2PackTurret.label>
+  <Apparel_MAU_2PackTurret.description>콤팩트하게 접힌 공격용 포탑입니다. 긴 사거리와 높은 명중률을 가지고 있습니다.</Apparel_MAU_2PackTurret.description>
+  <Apparel_MAU_2PackTurret.verbs.Verb_LaunchProjectileStaticOneUse.label>포탑 전개</Apparel_MAU_2PackTurret.verbs.Verb_LaunchProjectileStaticOneUse.label>
+  <Grenade_MAU_2TurretPack.label>휴대용 포탑 캡슐</Grenade_MAU_2TurretPack.label>
+  <Turret_MAU_2TacticalTurret.label>M15 휴대용 포탑(중량)</Turret_MAU_2TacticalTurret.label>
+  <Turret_MAU_2TacticalTurret.description>근거리용 포탑입니다. 배터리가 소진되면 작동을 멈추며, 큰 피해를 입으면 폭발할 수 있습니다.</Turret_MAU_2TacticalTurret.description>
+  <Turret_MAU_2TacticalTurret.comps.3.labelOverride>배터리 잔량</Turret_MAU_2TacticalTurret.comps.3.labelOverride>
+  <Gun_MAU_2TacticalTurret.label>M15 휴대용 포탑용 총기</Gun_MAU_2TacticalTurret.label>
+  <Gun_MAU_2TacticalTurret.description>포탑 장착용으로 제작된 단순한 자동 화기입니다.</Gun_MAU_2TacticalTurret.description>
+  <Gun_MAU_2TacticalTurret.verbs.Verb_Shoot.label>M15 휴대용 포탑 사격</Gun_MAU_2TacticalTurret.verbs.Verb_Shoot.label>
+
+  <Bullet_1TP_Charge.label>전하기탄 사격</Bullet_1TP_Charge.label>
+  <Bullet_2TP_Charge.label>전하기탄 사격</Bullet_2TP_Charge.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Opticalcamouflage.label>위장 망토 착용</Opticalcamouflage.label>
+  <Opticalcamouflage.description>일시적으로 몸을 숨기는 위장 장치를 가동할 수 있습니다.</Opticalcamouflage.description>
+  <VR_CamouflageInvisibility.label>광학 미채</VR_CamouflageInvisibility.label>
+  <VR_CamouflageInvisibility.description>광학 미채를 통해 투명해집니다. 적의 눈에 띄지 않지만 이동 속도가 저하됩니다. 또한 활성화된 상태에서 EMP 공격을 받으면 기절합니다.</VR_CamouflageInvisibility.description>
+  <EXOskeleton.label>강화 외골격</EXOskeleton.label>
+  <EXOskeleton.description>강화 외골격을 통해 신체 기능이 강화되었습니다.</EXOskeleton.description>
+  <Solideye.label>전투용 안대</Solideye.label>
+  <Solideye.description>고성능 광학 센서를 통해 시력이 강화되었습니다.</Solideye.description>
+  <Airmask.label>호흡 보조 장치</Airmask.label>
+  <Airmask.description>고성능 산소 필터를 통해 호흡이 보조되고 있습니다.</Airmask.description>
+  <Nekomimi.label>장거리 음향 탐지기</Nekomimi.label>
+  <Nekomimi.description>머리에 장착된 음향 탐지기를 통해 청력이 강화되고 의식이 명료해졌습니다.</Nekomimi.description>
+</LanguageData>
