@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_FSFurCoat.label>털가죽 외투</Apparel_FSFurCoat.label>
+  <Apparel_FSFurCoat.description>야성적인 멋을 사랑하는 이들을 위한, 야성적으로 따뜻한 털가죽 외투입니다!
+죽은 짐승의 가죽과 털로 중요 부위를 감싸, 혹한의 겨울 추위로부터 몸을 지켜 줍니다.
+변경계 부족민들이 선호하는 겨울 복장입니다!
+
+(죽은 짐승의 털가죽은 하루 종일 이고 다니기엔 무거우므로, 이동 속도와 작업 속도가 떨어집니다.)</Apparel_FSFurCoat.description>
+  <Apparel_FSDesertRobe.label>사막 로브</Apparel_FSDesertRobe.label>
+  <Apparel_FSDesertRobe.description>사막 로브는 더운 날에 안성맞춤인 옷입니다.
+간이 제작 장소에서도 손쉽게 만들 수 있으며, 아랫도리로 시원하게 통풍이 잘되어 여름철 더위와 과도한 땀을 이겨 내도록 도와줍니다.
+변경계 부족민들이 흔히 입는 대표적인 여름옷 중 하나입니다.</Apparel_FSDesertRobe.description>
+  <Apparel_FSFurHat.label>털가죽 모자</Apparel_FSFurHat.label>
+  <Apparel_FSFurHat.description>이 털가죽 모자는 테라의 라-샤인 평원 고대 전사들이 쓰던 모자를 본뜬 것입니다.
+멋과 실용성을 모두 갖추어 추운 날씨에 알맞은 완벽한 머리 보호구입니다.</Apparel_FSFurHat.description>
+  <Apparel_FSDesertWrap.label>사막 머리쓰개</Apparel_FSDesertWrap.label>
+  <Apparel_FSDesertWrap.description>얼굴에 모래가 들이치는 게 지겹습니까?
+머리 위로 내리쬐는 태양도 괴롭습니까?
+이제 걱정 마십시오! 사막 머리쓰개가 여기 있습니다!
+이 머리쓰개는 더위와 모래, 그리고 여름철의 온갖 불쾌함으로부터 당신을 지켜 줄 것입니다.
+하지만 주의하십시오! 얼굴을 완전히 가려 버리는 탓에 사회적 교류에서는 약간의 불이익을 받을지도요.</Apparel_FSDesertWrap.description>
+  <ET_Apparel_WolfHood.label>늑대 후드</ET_Apparel_WolfHood.label>
+  <ET_Apparel_WolfHood.description>이 인상적인 후드는 외부인을 압도하기 위해 부족장들이 전통적으로 착용하던 물건입니다.
+사회적 교류에 소소한 보너스를 주며 당신 부족의 지도자가 착용하기에 딱입니다.</ET_Apparel_WolfHood.description>
+  <ET_Apparel_DeerHood.label>사슴 후드</ET_Apparel_DeerHood.label>
+  <ET_Apparel_DeerHood.description>이 후드는 먹잇감을 혼란스럽게 만들기 위해 부족의 사냥꾼들이 전통적으로 착용하던 물건입니다.
+주의! 그 먹잇감이 실제로 속아 넘어갈 거라는 보장은 없습니다.
+이 후드는 가죽과 조각한 동물 뼈로 만들어졌으며, 사슴의 모습을 본떴습니다.</ET_Apparel_DeerHood.description>
+  <ET_Apparel_ScarabHelm.label>메가스캐럽 투구</ET_Apparel_ScarabHelm.label>
+  <ET_Apparel_ScarabHelm.description>메가스캐럽의 머리로 정교하게 제작한 투구입니다.
+꽤 무섭게 보일 수 있습니다.
+하지만 사회적 교류는 시도하지 마세요. 아무래도 좀 우스꽝스러워 보이니까요!
+이 투구는 가죽과 조각한 동물 뼈로 만들어졌습니다.</ET_Apparel_ScarabHelm.description>
+  <ET_Apparel_SpiderHelm.label>메가스파이더 투구</ET_Apparel_SpiderHelm.label>
+  <ET_Apparel_SpiderHelm.description>메가스파이더의 머리로 정교하게 제작한 투구입니다.
+꽤 무섭게 보일 수 있습니다.
+하지만 사회적 교류는 시도하지 마세요. 아무래도 좀 우스꽝스러워 보이니까요!
+이 투구는 가죽과 조각한 동물 뼈로 만들어졌습니다.</ET_Apparel_SpiderHelm.description>
+  <ET_Apparel_SpelHelm.label>스펠로피드 투구</ET_Apparel_SpelHelm.label>
+  <ET_Apparel_SpelHelm.description>스펠로피드의 머리로 정교하게 제작한 투구입니다.
+꽤 무섭게 보일 수 있습니다.
+하지만 사회적 교류는 시도하지 마세요. 아무래도 좀 우스꽝스러워 보이니까요!
+이 투구는 가죽과 조각한 동물 뼈로 만들어졌습니다.</ET_Apparel_SpelHelm.description>
+</LanguageData>
