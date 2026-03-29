@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_TribalHC.label>투석 총 전용 조각</Bullet_TribalHC.label>
+  <Tribal_Hand_Cannon.label>부족 투석 총</Tribal_Hand_Cannon.label>
+  <Tribal_Hand_Cannon.description>이 총은 성난 부족 전사들이 만들었습니다. 발사하는 데 오랜 시간이 걸릴 뿐더러 명중률도 떨어집니다. 하지만 발사 속도가 빠르고 위력이 막강합니다.</Tribal_Hand_Cannon.description>
+  <Tribal_Hand_Cannon.verbs.Verb_Shoot.label>부족 투석 총</Tribal_Hand_Cannon.verbs.Verb_Shoot.label>
+  <Tribal_Hand_Cannon.tools.0.label>손잡이</Tribal_Hand_Cannon.tools.0.label>
+  <Tribal_Hand_Cannon.tools.1.label>총신</Tribal_Hand_Cannon.tools.1.label>
+</LanguageData>
