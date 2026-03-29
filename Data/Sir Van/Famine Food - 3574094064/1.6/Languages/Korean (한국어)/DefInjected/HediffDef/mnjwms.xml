@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SV_Full.label>포만감?</SV_Full.label>
+  <SV_Full.description>허기를 달래기 위해 만들어진 무거운 음식을 먹었습니다. 때때로 메스꺼움을 느낄 수 있습니다.</SV_Full.description>
+
+  <SV_FullOfRocks.label>돌로 가득 참</SV_FullOfRocks.label>
+  <SV_FullOfRocks.description>돌죽을 먹었습니다. 돌덩어리들이 소화되는 과정이 고통스러우며, 어떤 영양가도 제공하지 않습니다.</SV_FullOfRocks.description>
+
+  <SV_GutRot.label>부패성 장염</SV_GutRot.label>
+  <SV_GutRot.description>주로 부패한 음식을 섭취하여 발생하는 소화기 계통의 박테리아 질환입니다. 치명적이지는 않지만 매우 고통스러우며 기생충이 번식하기 쉬운 환경을 조성합니다.</SV_GutRot.description>
+  <SV_GutRot.stages.0.label>경미함</SV_GutRot.stages.0.label>
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SV_AteBeaverGruel.stages.0.label>비버 죽 먹음</SV_AteBeaverGruel.stages.0.label>
+  <SV_AteBeaverGruel.stages.0.description>종이 반죽을 씹는 기분이었어. 정말 역겨웠지.</SV_AteBeaverGruel.stages.0.description>
+  
+  <SV_AteLeatherStew.stages.0.label>가죽 스튜 먹음</SV_AteLeatherStew.stages.0.label>
+  <SV_AteLeatherStew.stages.0.description>질기고 밍밍한 데다 국물은 핏물 같은 맛이 났어.</SV_AteLeatherStew.stages.0.description>
+  
+  <SV_AtePeasantSlosh.stages.0.label>꿀꿀이죽 먹음</SV_AtePeasantSlosh.stages.0.label>
+  <SV_AtePeasantSlosh.stages.0.description>풀을 뜯어 먹는 기분이었어. 난 돼지가 아니라고.</SV_AtePeasantSlosh.stages.0.description>
+  
+  <SV_AteMossMush.stages.0.label>이끼 범벅 먹음</SV_AteMossMush.stages.0.label>
+  <SV_AteMossMush.stages.0.description>이끼 범벅을 먹었는데, 꼭 짠맛이 나는 스펀지를 씹는 것 같았어.</SV_AteMossMush.stages.0.description>
+  
+  <SV_AteBlackStew.stages.0.label>검은 즙 먹음</SV_AteBlackStew.stages.0.label>
+  <SV_AteBlackStew.stages.0.description>검은 즙을 먹었습니다... 그냥 죽는 게 나을지도 모르겠네.</SV_AteBlackStew.stages.0.description>
+  
+  <SV_AteRockail.stages.0.label>돌죽 먹음</SV_AteRockail.stages.0.label>
+  <SV_AteRockail.stages.0.description>치아가 몇 개 부러진 것 같고 위장도 비명을 지르고 있어.</SV_AteRockail.stages.0.description>
+  
+  <SV_AteMudPie.stages.0.label>진흙 파이 먹음</SV_AteMudPie.stages.0.label>
+  <SV_AteMudPie.stages.0.description>고기 맛이 나는 기름 덩어리였어. 너무 역겨웠습니다.</SV_AteMudPie.stages.0.description>
+  
+  <SV_AteStoneBiscuit.stages.0.label>돌 과자 먹음</SV_AteStoneBiscuit.stages.0.label>
+  <SV_AteStoneBiscuit.stages.0.description>이빨이 다 나갈 뻔했어.</SV_AteStoneBiscuit.stages.0.description>
+  
+  <SV_AtePinewoodMiche.stages.0.label>소나무 미슈 먹음</SV_AtePinewoodMiche.stages.0.label>
+  <SV_AtePinewoodMiche.stages.0.description>빵이 딱딱하고 밍밍했어. 식감은 나무를 연상시켰습니다.</SV_AtePinewoodMiche.stages.0.description>
+  
+  <SV_AteWoodDust.stages.0.label>나무 가루 먹음</SV_AteWoodDust.stages.0.label>
+  <SV_AteWoodDust.stages.0.description>나무 가루를 좀 먹었는데, 정말 끔찍한 맛이었어.</SV_AteWoodDust.stages.0.description>
+  
+  <SV_AteWoodDustIngredient.stages.0.label>나무 가루가 든 식사 먹음</SV_AteWoodDustIngredient.stages.0.label>
+  <SV_AteWoodDustIngredient.stages.0.description>다른 재료와 섞인 나무 가루를 먹었습니다. 정말 역겹네.</SV_AteWoodDustIngredient.stages.0.description>
+</LanguageData>

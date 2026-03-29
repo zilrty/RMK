@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SV_BoilingPot.label>삶기용 솥</SV_BoilingPot.label>
+  <SV_BoilingPot.description>다양한 재료를 삶고 찌고 혼합하여 저렴한 음식을 만들 수 있는 커다란 솥이 비치된 간단한 조리대입니다.</SV_BoilingPot.description>
+
+  <SV_BeaverGruel.label>비버 죽</SV_BeaverGruel.label>
+  <SV_BeaverGruel.description>나무 가루와 우유, 허브를 함께 끓여 만든 저렴하고 어느 정도 먹을 만한 반죽입니다. 허브가 풍미를 돋우긴 하지만, 제대로 된 식사라기보다는 벌칙에 가깝습니다.</SV_BeaverGruel.description>
+
+  <SV_LeatherStew.label>가죽 스튜</SV_LeatherStew.label>
+  <SV_LeatherStew.description>가죽 조각을 삶아 만든 요리입니다. 국물은 밍밍하고 건더기는 질깁니다. 사냥감이 부족해지면 사냥꾼들은 굶주림을 면하기 위해 종종 가죽 스튜를 끓여 먹곤 했습니다.</SV_LeatherStew.description>
+
+  <SV_PeasantSlosh.label>꿀꿀이죽</SV_PeasantSlosh.label>
+  <SV_PeasantSlosh.description>농경지의 특산물입니다. 병충해가 작물을 덮치고 식량이 부족해지자, 현지인들은 건초를 삶아 반쯤 썩은 채소와 섞는 기발한 생각을 해냈습니다. 풀맛이 나긴 하겠지만 배를 채우는 데는 효과적입니다.</SV_PeasantSlosh.description>
+
+  <SV_MossMush.label>이끼 범벅</SV_MossMush.label>
+  <SV_MossMush.description>다양한 이끼를 소금과 섞어 끓인 범벅입니다. 추운 지역에 사는 부족들이 겨울철 기근을 버텨내기 위해 고안한 조리법입니다.</SV_MossMush.description>
+
+  <SV_Putraille.label>검은 즙</SV_Putraille.label>
+  <SV_Putraille.description>시체 죽, 즉 검은 즙은 대륙을 찢어놓는 끝없는 전쟁으로 인한 기근의 산물입니다. 부패한 시체를 몇 시간 동안 삶아 만드는 끔찍한 요리로, 그 결과물은 어두운 붉은색 범벅입니다. 맛은 구역질이 날 정도라고 합니다.</SV_Putraille.description>
+
+  <SV_Rockail.label>돌죽</SV_Rockail.label>
+  <SV_Rockail.description>로카유는 광산 주인들이 복종하지 않는 노예들을 처벌하기 위해 사용했던 잔혹한 요리입니다. 돌을 소화하기 위해 위장이 고통스럽게 뒤틀리지만, 영양가는 전혀 없습니다.</SV_Rockail.description>
+
+  <SV_MudPie.label>진흙 파이</SV_MudPie.label>
+  <SV_MudPie.description>이름과는 달리 실제 진흙으로 만들지는 않습니다. 대신 다량의 지방과 남은 고기, 소금을 섞어 만들어 식감이 좋지 않고 걸쭉합니다. 장기간 보관이 가능합니다.</SV_MudPie.description>
+
+  <SV_StoneBiscuit.label>돌 과자</SV_StoneBiscuit.label>
+  <SV_StoneBiscuit.description>진흙과 지방, 약간의 소금을 섞어 만든 과자입니다. 구운 뒤 하루 동안 햇볕에 말려 완성합니다. 그 결과 돌처럼 딱딱한 반죽이 되어 돌 과자라 불립니다. 오래 보관할 수 있지만 영양가는 거의 없으며 흙맛이 납니다.</SV_StoneBiscuit.description>
+
+  <SV_StoneBiscuitRaw.label>돌 과자 반죽</SV_StoneBiscuitRaw.label>
+  <SV_StoneBiscuitRaw.description>아직 굽지 않은 상태의 돌 과자입니다.</SV_StoneBiscuitRaw.description>
+
+  <SV_PinewoodMiche.label>소나무 미슈</SV_PinewoodMiche.label>
+  <SV_PinewoodMiche.description>밀가루에 나무 가루를 섞어 만든 딱딱한 빵입니다. 이름만 화려할 뿐, 대기근 시절의 주식이 되었던 조리법입니다.</SV_PinewoodMiche.description>
+
+  <SV_WoodDust.label>나무 가루</SV_WoodDust.label>
+  <SV_WoodDust.description>잘게 다진 나무입니다. 불쾌하고 위험하며 영양가도 낮지만, 굶주림의 고통보다는 조금 낫습니다.</SV_WoodDust.description>
+
+  <SV_Moss.label>이끼</SV_Moss.label>
+  <SV_Moss.description>신선한 이끼입니다. 이끼 범벅으로 만들 수 있습니다.</SV_Moss.description>
+</LanguageData>
