@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MakeRestraintbelt.label>구속 벨트 제작</MakeRestraintbelt.label>
+  <MakeRestraintbelt.description>말썽꾸러기, 방화광, 습격자, 그리고 아군(!?)을 결박하고 움직이지 못하게 만드는 벨트를 제작합니다.</MakeRestraintbelt.description>
+  <MakeRestraintbelt.jobString>구속 벨트 제작 중.</MakeRestraintbelt.jobString>
+
+  <Installrestraintbelt.label>구속 벨트 채우기</Installrestraintbelt.label>
+  <Installrestraintbelt.description>희생자를 움직이지 못하게 구속 벨트를 채웁니다.\n도구나 의약품은 필요하지 않습니다.\n대가는 희생자의 신음소리뿐입니다.</Installrestraintbelt.description>
+  <Installrestraintbelt.jobString>구속 벨트 채우는 중.</Installrestraintbelt.jobString>
+
+  <ReleaseBeltRestraints.label>구속 벨트 해제</ReleaseBeltRestraints.label>
+  <ReleaseBeltRestraints.description>이 사람의 구속 벨트를 풀어 다시 움직일 수 있게 합니다.\n이 자유를 얼마나 더 오래 누릴 수 있을까요?</ReleaseBeltRestraints.description>
+  <ReleaseBeltRestraints.jobString>구속 벨트 푸는 중.</ReleaseBeltRestraints.jobString>
+
+  <InstallrestraintbeltToNotHumanlike.label>구속 벨트 채우기</InstallrestraintbeltToNotHumanlike.label>
+  <InstallrestraintbeltToNotHumanlike.description>희생자를 움직이지 못하게 구속 벨트를 채웁니다.\n도구나 의약품은 필요하지 않습니다.\n대가는 희생자의 신음소리뿐입니다.</InstallrestraintbeltToNotHumanlike.description>
+  <InstallrestraintbeltToNotHumanlike.jobString>구속 벨트 채우는 중.</InstallrestraintbeltToNotHumanlike.jobString>
+
+  <InstallrestraintbeltToInsectoid.label>구속 벨트 채우기</InstallrestraintbeltToInsectoid.label>
+  <InstallrestraintbeltToInsectoid.description>희생자를 움직이지 못하게 구속 벨트를 채웁니다.\n도구나 의약품은 필요하지 않습니다.\n대가는 희생자의 신음소리뿐입니다.</InstallrestraintbeltToInsectoid.description>
+  <InstallrestraintbeltToInsectoid.jobString>구속 벨트 채우는 중.</InstallrestraintbeltToInsectoid.jobString>
+</LanguageData>

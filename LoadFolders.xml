@@ -54,6 +54,7 @@
     <li IfModActive="amegakull.INFRole">Data/amefurashi/Ideology Infantry Role - 3544740643</li>
     <li IfModActive="amegakull.SCVRole">Data/amefurashi/Ideology Scavenger Role - 3565039115</li>
     <li IfModActive="amegakull.simplenekomimixenotype">Data/amefurashi/Simple Nekomimi Xenotype - 2887449541</li>
+    <li IfModActive="amegakull.SimpleRestraintBelt">Data/amefurashi/Simple Restraint Belt - 3475852122/1.6</li>
     <li IfModActive="Amegakull.WMOTBeacon">Data/amefurashi/Wall-Mounted Orbital Trade Beacon - 3553078564</li>
     <li IfModActive="Ancot.AncotLibrary">Data/Ancot/Ancot Library - 2988801276/1.5</li>
     <li IfModActive="Es.KiiroRace.PowerArmor">Data/Ancot/Kiiro/绮罗拓展：动力装甲 - 3653985561/1.6</li>
@@ -2731,6 +2732,7 @@
     <li IfModActive="amegakull.INFRole">Data/amefurashi/Ideology Infantry Role - 3544740643</li>
     <li IfModActive="amegakull.SCVRole">Data/amefurashi/Ideology Scavenger Role - 3565039115</li>
     <li IfModActive="amegakull.simplenekomimixenotype">Data/amefurashi/Simple Nekomimi Xenotype - 2887449541</li>
+    <li IfModActive="amegakull.SimpleRestraintBelt">Data/amefurashi/Simple Restraint Belt - 3475852122/1.6</li>
     <li IfModActive="Amegakull.WMOTBeacon">Data/amefurashi/Wall-Mounted Orbital Trade Beacon - 3553078564</li>
     <li IfModActive="Ancot.AncotLibrary">Data/Ancot/Ancot Library - 2988801276/1.5</li>
     <li IfModActive="Es.KiiroRace.PowerArmor">Data/Ancot/Kiiro/绮罗拓展：动力装甲 - 3653985561/1.6</li>
@@ -5408,6 +5410,7 @@
     <li IfModActive="amegakull.INFRole">Data/amefurashi/Ideology Infantry Role - 3544740643</li>
     <li IfModActive="amegakull.SCVRole">Data/amefurashi/Ideology Scavenger Role - 3565039115</li>
     <li IfModActive="amegakull.simplenekomimixenotype">Data/amefurashi/Simple Nekomimi Xenotype - 2887449541</li>
+    <li IfModActive="amegakull.SimpleRestraintBelt">Data/amefurashi/Simple Restraint Belt - 3475852122/1.6</li>
     <li IfModActive="Amegakull.WMOTBeacon">Data/amefurashi/Wall-Mounted Orbital Trade Beacon - 3553078564</li>
     <li IfModActive="Ancot.AncotLibrary">Data/Ancot/Ancot Library - 2988801276/1.5</li>
     <li IfModActive="Es.KiiroRace.PowerArmor">Data/Ancot/Kiiro/绮罗拓展：动力装甲 - 3653985561/1.6</li>
@@ -8086,6 +8089,7 @@
     <li IfModActive="amegakull.INFRole">Data/amefurashi/Ideology Infantry Role - 3544740643</li>
     <li IfModActive="amegakull.SCVRole">Data/amefurashi/Ideology Scavenger Role - 3565039115</li>
     <li IfModActive="amegakull.simplenekomimixenotype">Data/amefurashi/Simple Nekomimi Xenotype - 2887449541</li>
+    <li IfModActive="amegakull.SimpleRestraintBelt">Data/amefurashi/Simple Restraint Belt - 3475852122/1.6</li>
     <li IfModActive="Amegakull.WMOTBeacon">Data/amefurashi/Wall-Mounted Orbital Trade Beacon - 3553078564</li>
     <li IfModActive="Ancot.AncotLibrary">Data/Ancot/Ancot Library - 2988801276/1.6</li>
     <li IfModActive="Es.KiiroRace.PowerArmor">Data/Ancot/Kiiro/绮罗拓展：动力装甲 - 3653985561/1.6</li>

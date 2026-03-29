@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Restraintbelt.label>구속 벨트 착용됨</Restraintbelt.label>
+  <Restraintbelt.description>전신을 결박하는 벨트입니다.\n이로 인해 움직임이 불가능해지며, 조임으로 인한 통증을 유발합니다.</Restraintbelt.description>
+
+  <AftereffectsOfDetention.label>구속 후유증</AftereffectsOfDetention.label>
+  <AftereffectsOfDetention.description>강압적이고 폭력적인 구속으로 인한 후유증에 시달리고 있습니다.</AftereffectsOfDetention.description>
+  <AftereffectsOfDetention.descriptionShort>강압적이고 폭력적인 구속으로 인한 후유증에 시달리고 있습니다.\n시간이 지나면 조금씩 치유될 것입니다.</AftereffectsOfDetention.descriptionShort>
+
+  <AftereffectsOfDetention.stages.0.label>거의 회복됨</AftereffectsOfDetention.stages.0.label>
+  <AftereffectsOfDetention.stages.1.label>고통스러운 압박 흔적</AftereffectsOfDetention.stages.1.label>
+  <AftereffectsOfDetention.stages.2.label>트라우마</AftereffectsOfDetention.stages.2.label>
+  <AftereffectsOfDetention.stages.3.label>거동 불가능</AftereffectsOfDetention.stages.3.label>
+</LanguageData>
