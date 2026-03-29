@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimTalkEventPlus_SettingsCategory>RimTalk 이벤트+</RimTalkEventPlus_SettingsCategory>
+  <RimTalkEventPlus_OptimizationHeader>최적화 설정</RimTalkEventPlus_OptimizationHeader>
+  <RimTalkEventPlus_EnableCompression_Label>이벤트 텍스트 요약 활성화 (준비 중 - 현재 작동하지 않음)</RimTalkEventPlus_EnableCompression_Label>
+  <RimTalkEventPlus_EnableCompression_Tooltip>퀘스트나 이벤트를 RimTalk으로 보낼 때 텍스트를 요약하여 토큰 소모량을 줄입니다.</RimTalkEventPlus_EnableCompression_Tooltip>
+  <RimTalkEventPlus_Compression_Description>활성화하면 길고 반복적인 퀘스트 설명을 핵심 사실만 남기고 요약하여 전달합니다.
+
+예시 (난민 수용 퀘스트):
+- 요약 전: 난민이 누구인지, 왜 도망쳤는지, 얼마나 머무를 것인지, 무료로 노동과 전투를 지원한다는 내용 등이 담긴 긴 편지 원문 전체...
+- 요약 후: "정착지가 난민을 수용했습니다. 이들은 [사유]로 인해 도망쳤으며, X일 동안 머물며 휴식할 예정입니다. 체류 기간 동안 노동과 전투를 지원합니다."와 같은 짧은 요약문.
+
+비활성화 시, Event+는 항상 원문 전체를 전송합니다.</RimTalkEventPlus_Compression_Description>
+
+  <RimTalkEventPlus_FilteringHeader>이벤트 필터링</RimTalkEventPlus_FilteringHeader>
+  <RimTalkEventPlus_CategoryFilters>카테고리 필터</RimTalkEventPlus_CategoryFilters>
+  <RimTalkEventPlus_CategoryFilters_Desc>이벤트 카테고리 전체를 활성화하거나 비활성화합니다. 비활성화된 카테고리는 AI에게 완전히 전달되지 않으며, 아래의 모든 개별 설정보다 우선하여 적용됩니다.</RimTalkEventPlus_CategoryFilters_Desc>
+  <RimTalkEventPlus_TypeBasedFiltering>유형별 필터링 (전역)</RimTalkEventPlus_TypeBasedFiltering>
+  <RimTalkEventPlus_TypeBasedFiltering_Desc>선택한 유형의 모든 이벤트를 모든 세이브 파일에서 숨깁니다.</RimTalkEventPlus_TypeBasedFiltering_Desc>
+  <RimTalkEventPlus_InstanceBasedFiltering>개별 사건 필터링 (현재 세이브)</RimTalkEventPlus_InstanceBasedFiltering>
+  <RimTalkEventPlus_InstanceBasedFiltering_Desc>현재 세이브에서 진행 중인 특정 이벤트를 숨깁니다. 세이브 파일을 불러온 상태에서만 설정할 수 있습니다.</RimTalkEventPlus_InstanceBasedFiltering_Desc>
+
+  <RimTalkEventPlus_AvailableTypes>사용 가능한 유형</RimTalkEventPlus_AvailableTypes>
+  <RimTalkEventPlus_DisabledTypes>제외된 유형</RimTalkEventPlus_DisabledTypes>
+  <RimTalkEventPlus_CurrentInstances>현재 진행 중인 사건</RimTalkEventPlus_CurrentInstances>
+  <RimTalkEventPlus_HiddenInstances>숨겨진 사건</RimTalkEventPlus_HiddenInstances>
+  <RimTalkEventPlus_CurrentEventsOnly>현재 진행 중인 이벤트만 표시</RimTalkEventPlus_CurrentEventsOnly>
+  <RimTalkEventPlus_AllEventTypes>모든 이벤트 유형 표시</RimTalkEventPlus_AllEventTypes>
+  <RimTalkEventPlus_CurrentEventsNote>게임에서 현재 활성화된 이벤트만 보여줍니다. 세이브를 불러온 상태에서만 사용할 수 있습니다.</RimTalkEventPlus_CurrentEventsNote>
+  <RimTalkEventPlus_AllEventTypesNote>불러온 모든 모드의 이벤트 유형을 보여줍니다. 게임에서 활성화되어 있더라도 RimTalk 대화에서 기본적으로 제외된 유형(예: 배경 타이머, 외교 관련 퀘스트 등)이 포함될 수 있습니다.</RimTalkEventPlus_AllEventTypesNote>
+
+  <RimTalkEventPlus_GloballyDisabled>전역 비활성화됨</RimTalkEventPlus_GloballyDisabled>
+  <RimTalkEventPlus_QuickFilter_Quests>퀘스트</RimTalkEventPlus_QuickFilter_Quests>
+  <RimTalkEventPlus_QuickFilter_MapConditions>지역 상태 (기상 이변 등)</RimTalkEventPlus_QuickFilter_MapConditions>
+  <RimTalkEventPlus_QuickFilter_Threats>위협</RimTalkEventPlus_QuickFilter_Threats>
+  <RimTalkEventPlus_QuickFilter_Sites>세계 지도 지점 (도적 캠프, 아이템 은닉처 등)</RimTalkEventPlus_QuickFilter_Sites>
+  <RimTalkEventPlus_ResetTypeFilters>모든 유형 필터 초기화</RimTalkEventPlus_ResetTypeFilters>
+  <RimTalkEventPlus_ResetInstanceFilters>모든 개별 사건 필터 초기화</RimTalkEventPlus_ResetInstanceFilters>
+  <RimTalkEventPlus_TypeFiltersCleared>{0}개의 유형 필터를 초기화했습니다.</RimTalkEventPlus_TypeFiltersCleared>
+  <RimTalkEventPlus_InstanceFiltersCleared>모든 세이브에서 {0}개의 개별 사건 필터를 초기화했습니다.</RimTalkEventPlus_InstanceFiltersCleared>
+
+  <RimTalkEventPlus_EnhancedPromptDetected_Title>RimTalk Enhanced Prompt 감지됨</RimTalkEventPlus_EnhancedPromptDetected_Title>
+  <RimTalkEventPlus_EnhancedPromptDetected_Desc>Enhanced Prompt 모드의 "자동 이벤트 캡처" 기능이 활성화되어 있습니다. 기능 충돌을 방지하기 위해 중복되는 일부 설정이 자동으로 비활성화되었습니다.</RimTalkEventPlus_EnhancedPromptDetected_Desc>
+
+  <RimTalkEventPlus_EnableContextFiltering>대화 맥락에 따른 이벤트 필터링</RimTalkEventPlus_EnableContextFiltering>
+  <RimTalkEventPlus_EnableContextFilteringTooltip>현재 대화에 참여 중인 정착민(근처 인물, 화자, 청자)과 관련된 퀘스트 사건만 프롬프트에 포함합니다. 위협이나 지역 상태는 항상 포함됩니다. 토큰을 절약하고 AI가 대화 주제에 더 집중하도록 돕습니다.</RimTalkEventPlus_EnableContextFilteringTooltip>
+  <RimTalkEventPlus_ContextFiltering_Description>활성화하면 현재 대화 중인 인물들과 직접적인 관련이 없는 퀘스트는 무시됩니다. 토큰 소모를 줄이고 AI가 현재 상황에 더 몰입하게 해주지만, 관련 인물이 근처에 없을 경우 정착민들이 해당 퀘스트를 언급하지 않게 됩니다.</RimTalkEventPlus_ContextFiltering_Description>
+
+  <RimTalkEventPlus_AdvancedModeHeader>고급 모드 설정</RimTalkEventPlus_AdvancedModeHeader>
+  <RimTalkEventPlus_AppendToContext>{{context}} 변수에 자동으로 추가</RimTalkEventPlus_AppendToContext>
+  <RimTalkEventPlus_AppendToContext_Tooltip>활성화하면 진행 중인 이벤트 정보가 RimTalk 프롬프트의 {{context}} 변수 끝에 자동으로 덧붙여집니다.</RimTalkEventPlus_AppendToContext_Tooltip>
+  <RimTalkEventPlus_AppendToContext_Desc>고급 모드 템플릿에서 {{eventplus_all}}, {{eventplus_quests}}, {{eventplus_conditions}} 등의 변수를 개별적으로 직접 배치하고 싶다면 이 옵션을 비활성화하세요.</RimTalkEventPlus_AppendToContext_Desc>
+</LanguageData>
