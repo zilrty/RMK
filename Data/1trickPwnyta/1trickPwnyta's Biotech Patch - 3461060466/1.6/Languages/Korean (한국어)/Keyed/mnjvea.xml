@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiotechPatch_Children>아이들</BiotechPatch_Children>
+  <BiotechPatch_Genetics>유전학</BiotechPatch_Genetics>
+  <BiotechPatch_Mechanoids>메카노이드</BiotechPatch_Mechanoids>
+  <BiotechPatch_Misc>기타</BiotechPatch_Misc>
+  <BiotechPatch_RestartRequired>(재시작 필요)</BiotechPatch_RestartRequired>
+
+  <BiotechPatch_WokeFromDeathrest>{PAWN_nameDef}(이)가 죽음안식을 마쳤습니다.</BiotechPatch_WokeFromDeathrest>
+  <BiotechPatch_DeathrestAutoWake>죽음안식 중인 정착민의 '자동 깨어나기' 기본 활성화</BiotechPatch_DeathrestAutoWake>
+  <BiotechPatch_DeathrestWakeupMessage>정착민이 자동으로 깨어날 때 메시지 표시</BiotechPatch_DeathrestWakeupMessage>
+
+  <BiotechPatch_MechsInColonistBar>정착민 바에 메카노이드 표시</BiotechPatch_MechsInColonistBar>
+  <BiotechPatch_MechsOutsideRadius>메카나이터 제어 반경 밖에서도 메카노이드 이동 및 원거리 공격 명령 허용</BiotechPatch_MechsOutsideRadius>
+  <BiotechPatch_MechAutoRepair>메카노이드의 '자동 수리' 기본 활성화</BiotechPatch_MechAutoRepair>
+  <BiotechPatch_MechsControlledByCaravan>상단에 포함된 메카나이터가 기지에 남은 메카노이드 제어 가능 (제어 반경은 동일하게 적용)</BiotechPatch_MechsControlledByCaravan>
+  <BiotechPatch_MechsCanSleepOnConduits>메카노이드가 전선 위나 의자가 없는 건물 위에서 스스로 충전하는 것 허용</BiotechPatch_MechsCanSleepOnConduits>
+  <BiotechPatch_ResurrectedMechsRememberGroup>파괴된 메카노이드 부활 시 기존 제어 그룹 기억</BiotechPatch_ResurrectedMechsRememberGroup>
+  <BiotechPatch_MechEnergyDepletedAlert>전력이 고갈된 메카노이드 강조 (경고창 + 전용 아이콘)</BiotechPatch_MechEnergyDepletedAlert>
+  <BiotechPatch_MechTaskPrioritization>우클릭으로 메카노이드의 작업 우선순위 지정 허용</BiotechPatch_MechTaskPrioritization>
+  <BiotechPatch_AlertMechEnergyDepleted>메카노이드 에너지 고갈</BiotechPatch_AlertMechEnergyDepleted>
+  <BiotechPatch_AlertMechEnergyDepletedDesc>정착지 메카노이드 중 일부의 전력이 완전히 고갈되었습니다. 충전기까지 직접 옮겨야 합니다.</BiotechPatch_AlertMechEnergyDepletedDesc>
+
+  <BiotechPatch_ChildLaborEncouraged>'아동 노동: 권장' 규율 시 작업 일정 설정 필요</BiotechPatch_ChildLaborEncouraged>
+  <BiotechPatch_AutoChildNicknamesDisabled>성장의 순간에 아이들의 별명이 자동으로 지어지는 기능 비활성화</BiotechPatch_AutoChildNicknamesDisabled>
+  <BiotechPatch_ChildrenGoByFirstName>아이들의 호칭을 기본적으로 이름으로 설정</BiotechPatch_ChildrenGoByFirstName>
+  <BiotechPatch_GrowthMomentChoiceColors>성장의 순간에 특성/열정 선택지를 효율성에 따라 색상으로 표시</BiotechPatch_GrowthMomentChoiceColors>
+  <BiotechPatch_GrowthMomentTraitSuppression>성장의 순간에 선택한 특성이 이를 억제하는 유전자에 의해 사라지지 않음</BiotechPatch_GrowthMomentTraitSuppression>
+  <BiotechPatch_CustomHybridXenotypes>서로 다른 커스텀 제노타입 사이에서 태어난 아이를 '기본형'으로 표시</BiotechPatch_CustomHybridXenotypes>
+  <BiotechPatch_BreastfeedingCanBeInterrupted>수유 중이라도 더 중요한 작업이 있다면 중단 가능</BiotechPatch_BreastfeedingCanBeInterrupted>
+  <BiotechPatch_MoveBabyToSaferTempLater>아기에게 온도로 인한 부상이 발생했을 때만 안전한 온도로 이동</BiotechPatch_MoveBabyToSaferTempLater>
+  <BiotechPatch_LoadGrowthVats>배양기 상태 메시지를 '성장 중'에서 '물자 투입 중'으로 변경</BiotechPatch_LoadGrowthVats>
+
+  <BiotechPatch_HemogenExtractionSpam>적대 세력으로부터 혈액팩 추출 시 알림 메시지 비활성화</BiotechPatch_HemogenExtractionSpam>
+  <BiotechPatch_AllowForbiddenXenogermImplantation>상호작용 금지된 유전자도 건강 탭을 통해 이식 허용</BiotechPatch_AllowForbiddenXenogermImplantation>
+  <BiotechPatch_DrugDeficiencyAlert>유전자로 인한 약물 결핍 시 알림 표시</BiotechPatch_DrugDeficiencyAlert>
+  <BiotechPatch_XenogermCreationForced>유전자 제작 우선순위 지정 시 작업자의 변덕으로 중단되지 않음</BiotechPatch_XenogermCreationForced>
+  <BiotechPatch_GeneTraitsDontCancelIdentical>동일한 유전자와 체형유전자가 서로 상쇄될 수 있음</BiotechPatch_GeneTraitsDontCancelIdentical>
+  <BiotechPatch_WebbedPhalangesCanBeWet>'물갈퀴' 유전자가 있는 정착민은 몸이 젖어도 상관하지 않음</BiotechPatch_WebbedPhalangesCanBeWet>
+  <BiotechPatch_HemogenFarmAnyone>포로가 아니더라도 혈액정수 농장 지정이 가능하도록 건강 탭에 전환 스위치 추가</BiotechPatch_HemogenFarmAnyone>
+  <BiotechPatch_KillThirstSatisfiedInAnyMelee>'살인 갈망' 유전자가 무기 종류에 상관없이 근접 전투만으로 충족됨</BiotechPatch_KillThirstSatisfiedInAnyMelee>
+  <BiotechPatch_SuppressedBy>다음에 의해 억제됨: </BiotechPatch_SuppressedBy>
+  <BiotechPatch_HemogenFarm>혈액정수 농장: </BiotechPatch_HemogenFarm>
+  <BiotechPatch_HemogenFarmTip>대상을 죽이지 않는 선에서 혈액팩 추출 작업을 자동으로 예약합니다. 의사가 작업을 수행합니다.</BiotechPatch_HemogenFarmTip>
+
+  <BiotechPatch_DrugDeficiencyAlertLabel>약물 결핍</BiotechPatch_DrugDeficiencyAlertLabel>
+  <BiotechPatch_DrugDeficiencyAlertDesc>유전적 요인으로 생명 유지에 필요한 약물이 부족합니다:\n{0}</BiotechPatch_DrugDeficiencyAlertDesc>
+  <BiotechPatch_DrugDeficiencyComaAlertLabel>약물 결핍 혼수상태</BiotechPatch_DrugDeficiencyComaAlertLabel>
+  <BiotechPatch_DrugDeficiencyComaAlertDesc>약물 결핍으로 인해 혼수상태에 빠졌습니다:\n{0}\n\n필요한 약물을 투여하지 않으면 결국 사망하게 됩니다.</BiotechPatch_DrugDeficiencyComaAlertDesc>
+  <BiotechPatch_BugFix>버그 수정</BiotechPatch_BugFix>
+  <BiotechPatch_InputIsInvalid>올바른 값을 입력해 주세요.</BiotechPatch_InputIsInvalid>
+</LanguageData>
