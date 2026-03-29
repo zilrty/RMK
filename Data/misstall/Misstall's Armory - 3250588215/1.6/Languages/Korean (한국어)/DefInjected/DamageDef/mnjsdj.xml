@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MA_chargeBomb.label>채굴용 폭약</MA_chargeBomb.label>
+  <MA_BulletA.label>총알</MA_BulletA.label>
+  <MA_BulletA.deathMessage>{0}(이)가 총격에 맞아 사망했습니다.</MA_BulletA.deathMessage>
+  <MA_BulletB.label>총알</MA_BulletB.label>
+  <MA_BulletB.deathMessage>{0}(이)가 총격에 맞아 사망했습니다.</MA_BulletB.deathMessage>
+  <MA_BulletC.label>총알</MA_BulletC.label>
+  <MA_BulletC.deathMessage>{0}(이)가 총격에 맞아 사망했습니다.</MA_BulletC.deathMessage>
+  <AR_Range_Bullet.label>총알</AR_Range_Bullet.label>
+  <AR_Range_Bullet.deathMessage>{0}(이)가 총격에 맞아 사망했습니다.</AR_Range_Bullet.deathMessage>
+  <AM_pellet.label>총알</AM_pellet.label>
+  <AM_pellet.deathMessage>{0}(이)가 총격에 맞아 사망했습니다.</AM_pellet.deathMessage>
+  <MA_MATBomb.label>폭탄</MA_MATBomb.label>
+  <MA_MATBomb.deathMessage>{0}(이)가 폭발로 사망했습니다.</MA_MATBomb.deathMessage>
+  <MA_Anesthetic_Bullet.label>마취 탄환</MA_Anesthetic_Bullet.label>
+  <MA_Anesthetic_Bullet.deathMessage>{0}(이)가 마취 탄환에 맞아 사망했습니다.</MA_Anesthetic_Bullet.deathMessage>
+</LanguageData>

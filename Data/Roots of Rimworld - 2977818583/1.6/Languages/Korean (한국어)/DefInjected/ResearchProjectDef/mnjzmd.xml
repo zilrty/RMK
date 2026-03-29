@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RR_Furniture.label>원시 가구</RR_Furniture.label>
+  <RR_Furniture.description>석기 시대 정착지를 위한 원시 가구와 장식입니다.</RR_Furniture.description>
+  <RR_lighting.label>원시 조명</RR_lighting.label>
+  <RR_lighting.description>다양한 신석기식 간이 조명입니다.</RR_lighting.description>
+  <RR_Rugs.label>원시 깔개</RR_Rugs.label>
+  <RR_Rugs.description>여러 재료로 만든 투박한 바닥 깔개입니다.</RR_Rugs.description>
+  <RR_Storage.label>원시 저장 용기</RR_Storage.label>
+  <RR_Storage.description>석기 시대의 저장 용기입니다.</RR_Storage.description>
+</LanguageData>

@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RPD_Settings_EnableAutoGen>자동 생성 활성화</RPD_Settings_EnableAutoGen>
+  <RPD_Settings_EnableAutoGenTip>새로운 폰이 정착지에 합류할 때 자동으로 페르소나를 생성합니다. 구성 창에서 카테고리와 프리셋을 설정하세요.</RPD_Settings_EnableAutoGenTip>
+  <RPD_Settings_ConfigAutoGen>구성</RPD_Settings_ConfigAutoGen>
+  <RPD_Settings_ConfigAutoGenTip>자동 생성 구성 창을 열어 카테고리, 프리셋 및 문맥 설정을 지정합니다.</RPD_Settings_ConfigAutoGenTip>
+  <RPD_AutoGen_ConfigTitle>자동 생성 구성</RPD_AutoGen_ConfigTitle>
+  <RPD_AutoGen_QueueStatus>대기열: {0}명</RPD_AutoGen_QueueStatus>
+  <RPD_AutoGen_Generating>생성 중</RPD_AutoGen_Generating>
+  <RPD_AutoGen_Enable>활성화</RPD_AutoGen_Enable>
+  <RPD_AutoGen_SyncModSettings>모드 설정과 동기화</RPD_AutoGen_SyncModSettings>
+  <RPD_AutoGen_Preset>프리셋:</RPD_AutoGen_Preset>
+  <RPD_AutoGen_AdvancedPreset>고급 프리셋</RPD_AutoGen_AdvancedPreset>
+  <RPD_AutoGen_AdvancedPresetTooltip>이 카테고리에 RimTalk 고급 프리셋을 사용합니다. '없음'으로 설정하면 내부 프롬프트를 사용합니다.</RPD_AutoGen_AdvancedPresetTooltip>
+  <RPD_AutoGen_NotesLabel>자동 생성 노트 (Scriban 템플릿)</RPD_AutoGen_NotesLabel>
+  <RPD_AutoGen_InsertTemplate>템플릿 삽입...</RPD_AutoGen_InsertTemplate>
+  <RPD_AutoGen_InsertTemplateTip>클릭하여 조건부 템플릿을 삽입합니다. 정착민, 죄수, 노예, 세력 또는 종족 템플릿 중에서 선택하세요.</RPD_AutoGen_InsertTemplateTip>
+  <RPD_AutoGen_InsertRace>종족 템플릿 삽입...</RPD_AutoGen_InsertRace>
+  <RPD_AutoGen_InsertColonist>정착민 템플릿</RPD_AutoGen_InsertColonist>
+  <RPD_AutoGen_InsertPrisoner>죄수 템플릿</RPD_AutoGen_InsertPrisoner>
+  <RPD_AutoGen_InsertSlave>노예 템플릿</RPD_AutoGen_InsertSlave>
+  <RPD_AutoGen_InsertFactionTemplate>세력 템플릿...</RPD_AutoGen_InsertFactionTemplate>
+  <RPD_AutoGen_NotesHint>Scriban 구문을 사용하여 동적인 노트를 작성하세요. '템플릿 삽입' 버튼을 사용하여 정착민, 죄수, 노예용 조건부 템플릿을 빠르게 추가할 수 있습니다.</RPD_AutoGen_NotesHint>
+
+  <RPD_AutoGen_Template_Colonist>{{- if pawn.IsColonist -}}
+정착민 관련 내용을 입력하세요
+{{- end -}}</RPD_AutoGen_Template_Colonist>
+  <RPD_AutoGen_Template_Prisoner>{{- if pawn.IsPrisoner -}}
+  {{- if pawn.d_basic_status == "Quest Prisoner" -}}
+퀘스트 죄수 관련 내용을 입력하세요
+  {{- else -}}
+그 외의 경우(적 기지에서 생성된 경우 등)
+  {{- end -}}
+{{- end -}}</RPD_AutoGen_Template_Prisoner>
+  <RPD_AutoGen_Template_Slave>{{- if pawn.IsSlave -}}
+  {{- if pawn.Map.IsPlayerHome -}}
+상인이 데려온 노예
+  {{- else -}}
+그 외의 경우(세계 지도에서 구매한 경우 등)
+  {{- end -}}
+{{- end -}}</RPD_AutoGen_Template_Slave>
+
+  <RPD_AutoGen_CategoryColonist>정착민</RPD_AutoGen_CategoryColonist>
+  <RPD_AutoGen_CategoryPrisoner>죄수</RPD_AutoGen_CategoryPrisoner>
+  <RPD_AutoGen_CategorySlave>노예</RPD_AutoGen_CategorySlave>
+  <RPD_AutoGen_CategoryVisitor>방문객</RPD_AutoGen_CategoryVisitor>
+  <RPD_AutoGen_CategoryOther>기타</RPD_AutoGen_CategoryOther>
+  <RPD_AutoEvolve_NotesLabel>자동 진화 노트 (Scriban 템플릿)</RPD_AutoEvolve_NotesLabel>
+  <RPD_AutoEvolve_NotesHint>Scriban 구문을 사용하여 자동 진화를 위한 동적 노트를 작성하세요. 예: {{- if pawn.IsPrisoner -}}감금 생활과 생존 본능에 집중{{- else if pawn.IsColonist -}}정착지 생활과 관계에 집중{{- end -}}.</RPD_AutoEvolve_NotesHint>
+  <RPD_Batch_SceneNotesHint>이 노트들은 생성 프롬프트에 포함됩니다. 동적 콘텐츠를 위해 Scriban 구문을 지원합니다. 코드 예시를 이스케이프하려면 {%raw%}...{%endraw%}를 사용하세요.</RPD_Batch_SceneNotesHint>
+
+  <RPD_Library_Title>디렉터 라이브러리</RPD_Library_Title>
+  <RPD_Library_TabPresets>프리셋 라이브러리</RPD_Library_TabPresets>
+  <RPD_Library_TabRules>자동 할당 규칙</RPD_Library_TabRules>
+  <RPD_Library_ResetDefaults>기본값으로 초기화</RPD_Library_ResetDefaults>
+  <RPD_Library_ResetConfirm>경고: 모든 사용자 정의 프리셋과 규칙이 삭제되고 기본 라이브러리로 복구됩니다.\n정말 진행하시겠습니까?</RPD_Library_ResetConfirm>
+  <RPD_Settings_OpenLibrary>프리셋 라이브러리 열기</RPD_Settings_OpenLibrary>
+  <RPD_Tip_OpenLibrary>새 캐릭터를 위한 성격 프리셋 및 자동 할당 규칙 관리</RPD_Tip_OpenLibrary>
+  <RPD_Library_Category>카테고리: {0}</RPD_Library_Category>
+  <RPD_Library_CreatePreset>+ 새 프리셋 생성</RPD_Library_CreatePreset>
+  <RPD_Library_DeletePreset>삭제</RPD_Library_DeletePreset>
+  <RPD_Library_ImportTemplate>템플릿 가져오기</RPD_Library_ImportTemplate>
+  <RPD_Library_SelectToEdit>편집할 프리셋을 선택하거나 생성하세요</RPD_Library_SelectToEdit>
+  <RPD_Library_PresetName>프리셋 이름:</RPD_Library_PresetName>
+  <RPD_Library_PresetCategory>카테고리 (입력하여 새로 만들기):</RPD_Library_PresetCategory>
+  <RPD_Library_Chattiness>수다스러움: {0}</RPD_Library_Chattiness>
+  <RPD_Library_Description>페르소나 설명:</RPD_Library_Description>
+  <RPD_Library_I_E>가져오기 / 내보내기</RPD_Library_I_E>
+  <RPD_Library_ManageVanilla>바닐라 관리</RPD_Library_ManageVanilla>
+  <RPD_Library_ManageBuiltin>내장 항목 관리</RPD_Library_ManageBuiltin>
+  <RPD_Library_AddAll>모든 "{0}" 프리셋 추가</RPD_Library_AddAll>
+  <RPD_Library_RemoveAll>모든 "{0}" 프리셋 제거</RPD_Library_RemoveAll>
+  <RPD_Library_AddSpecific>특정 항목 추가...</RPD_Library_AddSpecific>
+  <RPD_Library_AllAdded>(이미 라이브러리에 모두 있음)</RPD_Library_AllAdded>
+  <RPD_Library_MsgAdded>{0}개의 프리셋을 성공적으로 추가했습니다.</RPD_Library_MsgAdded>
+  <RPD_Library_MsgRemoved>{0}개의 프리셋을 성공적으로 제거했습니다.</RPD_Library_MsgRemoved>
+
+  <RPD_Library_CreateRule>+ 새 규칙 생성</RPD_Library_CreateRule>
+  <RPD_Library_DeleteRule>규칙 삭제</RPD_Library_DeleteRule>
+  <RPD_Library_SelectToEditRule>편집할 규칙을 선택하거나 생성하세요</RPD_Library_SelectToEditRule>
+  <RPD_Library_RuleEnabled>규칙 활성화됨</RPD_Library_RuleEnabled>
+  <RPD_Library_Priority>우선순위: {0} (높을수록 우선됨)</RPD_Library_Priority>
+  <RPD_Library_TargetType>대상 유형: {0}</RPD_Library_TargetType>
+  <RPD_Library_TargetDef>대상 Def: {0}</RPD_Library_TargetDef>
+  <RPD_Library_TargetSelect>대상 Def 선택...</RPD_Library_TargetSelect>
+  <RPD_Library_TargetMissing>경고: Def를 찾을 수 없습니다! (모드 누락?)</RPD_Library_TargetMissing>
+  <RPD_Library_PresetsPool>허용된 프리셋 풀 (무작위 선택됨):</RPD_Library_PresetsPool>
+  <RPD_Library_NoDefsFound>호환되는 Def를 찾을 수 없습니다</RPD_Library_NoDefsFound>
+
+  <RPD_Browser_ApplySelected>선택 항목 적용</RPD_Browser_ApplySelected>
+  <RPD_Browser_ApplyRandom>무작위 적용</RPD_Browser_ApplyRandom>
+  <RPD_Browser_TipApplySelected>목록에서 현재 선택된 프리셋을 적용합니다.</RPD_Browser_TipApplySelected>
+  <RPD_Browser_TipApplyRandom>현재 보이는 목록 중 하나를 무작위로 적용합니다.</RPD_Browser_TipApplyRandom>
+  <RPD_Browser_NoPresetsInCategory>이 카테고리에 프리셋이 없습니다.</RPD_Browser_NoPresetsInCategory>
+  <RPD_Browser_AppliedSuccess>적용된 프리셋: {0}</RPD_Browser_AppliedSuccess>
+  <RPD_Browser_Disabled>(비활성화됨)</RPD_Browser_Disabled>
+  <RPD_RuleType_FactionDef>세력</RPD_RuleType_FactionDef>
+  <RPD_RuleType_RaceDef>종족</RPD_RuleType_RaceDef>
+  <RPD_RuleType_XenotypeDef>제노타입</RPD_RuleType_XenotypeDef>
+
+  <RPD_IO_Export>내보내기...</RPD_IO_Export>
+  <RPD_IO_TipExport>좌클릭: 클립보드에 복사\n우클릭: 파일로 저장</RPD_IO_TipExport>
+  <RPD_IO_ImportAppend>가져오기 (추가)</RPD_IO_ImportAppend>
+  <RPD_IO_ImportOverwrite>가져오기 (덮어쓰기)</RPD_IO_ImportOverwrite>
+  <RPD_IO_ImportFile>파일에서 가져오기</RPD_IO_ImportFile>
+  <RPD_IO_ConfirmOverwrite>기존의 모든 프리셋과 규칙을 덮어쓰시겠습니까?</RPD_IO_ConfirmOverwrite>
+  <RPD_IO_MsgExportClipboard>라이브러리를 클립보드로 내보냈습니다.</RPD_IO_MsgExportClipboard>
+  <RPD_IO_MsgExportFile>라이브러리를 파일로 내보냈습니다:\n{0}</RPD_IO_MsgExportFile>
+  <RPD_IO_MsgImportSuccess>라이브러리를 성공적으로 가져왔습니다.</RPD_IO_MsgImportSuccess>
+  <RPD_IO_MsgImportFail>가져오기 실패: 유효하지 않은 형식이거나 데이터가 손상되었습니다.\n{0}</RPD_IO_MsgImportFail>
+  <RPD_IO_MsgNoFolder>내보내기 폴더를 찾을 수 없습니다.</RPD_IO_MsgNoFolder>
+  <RPD_IO_MsgNoFiles>파일을 찾을 수 없음</RPD_IO_MsgNoFiles>
+
+  <RPD_Preset_Observer>관찰자 - 조용하고 통찰력 있으며 초연합니다. 개인적인 감정을 드러내기보다는 상황을 객관적으로 묘사하는 경향이 있습니다.</RPD_Preset_Observer>
+  <RPD_Preset_Pragmatist>실용주의자 - 현실적이고 직설적이며 결과 중심적입니다. 효율성만을 따지며 의미 없는 잡담을 싫어합니다.</RPD_Preset_Pragmatist>
+  <RPD_Preset_Weary>지친 생존자 - 깊은 피로감이 말투에 배어 있으며 말이 적습니다. 계속 버티고는 있지만 끝없는 투쟁에 지쳐 있습니다.</RPD_Preset_Weary>
+  <RPD_Preset_Narcissist>자기애주의자 - 극도로 자기중심적이며 찬사를 갈구합니다. 어떤 주제든 결국 자기 자랑으로 연결하며 거만하고 공감 능력이 부족합니다.</RPD_Preset_Narcissist>
+  <RPD_Preset_Machiavellian>마키아벨리스트 - 교활하고 냉혹하게 계산적입니다. 모든 대화를 거래나 게임으로 간주하며, 차분하고 탐색적인 어조로 상대의 가치를 평가합니다.</RPD_Preset_Machiavellian>
+  <RPD_Preset_Sociopath>소시오패스 - 매력적이지만 가식적입니다. 겉으로는 정중하고 공감하는 척하지만, 인간의 감정을 흉내 내는 듯한 섬뜩한 공허함이 느껴집니다.</RPD_Preset_Sociopath>
+  <RPD_Preset_Paranoid>편집증 - 강박적이고 과잉 분석적입니다. 평범한 문장 뒤에 악의나 암시가 숨어 있다고 믿으며, 반어법을 써서 "진실"을 폭로하려 합니다.</RPD_Preset_Paranoid>
+  <RPD_Preset_Histrionic>연극성 인격 - 감정 과잉이며 피상적입니다. 관심을 갈구하며 무대 위 배우처럼 말하고, 사소한 일에도 극적인 형용사를 남발합니다.</RPD_Preset_Histrionic>
+  <RPD_Preset_Obsessive>강박증 - 세부 사항에 집착하고 완벽한 질서를 추구합니다. 숫자와 청결에 극도로 민감하며 모호함을 견디지 못해 장황하게 재확인하며 말합니다.</RPD_Preset_Obsessive>
+  <RPD_Preset_ShellShocked>전쟁 신경증 - 멍하고 사고가 파편화되어 있습니다. 먼 곳을 바라보며 더듬거리며 말하고, 큰 소리나 특정 단어에 공황 상태에 빠지곤 합니다.</RPD_Preset_ShellShocked>
+  <RPD_Preset_Dissociated>해리 상태 - 유체 이탈을 한 듯한 느낌입니다. 자신에게 일어난 일을 타인의 이야기처럼 묘사하며, 고통과 완전히 단절된 채 소름 끼칠 정도로 덤덤하게 말합니다.</RPD_Preset_Dissociated>
+  <RPD_Preset_Manic>조증 - 사고가 너무 빨라 말이 매우 많습니다. 원대한 계획과 비현실적인 낙관주의에 가득 차 이 생각에서 저 생각으로 튀어 다니며 남들이 따라잡기 어렵게 만듭니다.</RPD_Preset_Manic>
+  <RPD_Preset_Depressive>우울증 - 무기력하고 힘이 없습니다. 모든 말이 에너지를 갉아먹는 듯하며 부정적인 면에만 집중합니다. 어떤 제안에도 "소용없어"라고 반응합니다.</RPD_Preset_Depressive>
+  <RPD_Preset_HyperVigilant>과각성 - 긴장한 채 끊임없이 위협을 살핍니다. 짧고 다급하게 말하며 항상 탈출구와 무기의 위치를 파악하느라 긴장을 풀지 못합니다.</RPD_Preset_HyperVigilant>
+  <RPD_Preset_Fatalist>숙명론자 - 차분한 절망 상태입니다. 모든 저항이 헛되며 죽음만이 유일한 끝이라고 믿습니다. 모든 불행을 거의 종교적인 헌신으로 받아들입니다.</RPD_Preset_Fatalist>
+  <RPD_Preset_Nihilist>허무주의자 - 의미를 부정합니다. 도덕, 생존, 승리에 가치가 없다고 믿으며 냉소적인 어조로 고결한 개념들을 해체하는 것을 즐깁니다.</RPD_Preset_Nihilist>
+  <RPD_Preset_Literal>문자 그대로 - 유머 감각이 없고 비유를 이해하지 못합니다. 백과사전처럼 말하며 농담이나 반어법에 혼란을 느끼고 논리적으로 수정하려 듭니다.</RPD_Preset_Literal>
+  <RPD_Preset_OverThinking>과잉 사고자 - 우유부단하며 자아성찰이 심합니다. 말하기 전 열 단계 앞을 생각하느라 "하지만", "어쩌면" 같은 표현을 남발하며 매우 망설입니다.</RPD_Preset_OverThinking>
+  <RPD_Preset_SocialAwkward>사회성 부족 - 당황스러울 정도로 솔직합니다. 분위기를 읽지 못하고 부적절한 타이밍에 엉뚱한 말을 하거나, 갑작스럽게 썰렁한 사실을 내뱉어 흐름을 끊습니다.</RPD_Preset_SocialAwkward>
+  <RPD_Preset_Cryptic>수수께끼 - 모호하고 상징적입니다. 직접적인 화법을 싫어하며 우화나 꿈, 상징을 통해 아이디어를 표현하여 심오해 보이거나 단순히 미친 것처럼 보입니다.</RPD_Preset_Cryptic>
+  <RPD_Preset_MuteByChoice>선택적 함구 - 말을 극도로 아낍니다. 말 대신 고개를 끄덕이고 문장 대신 단어 하나만 사용합니다. 마치 모든 단어가 값비싼 보석인 것처럼 행동합니다.</RPD_Preset_MuteByChoice>
+  <RPD_Preset_Gaslighter>가스라이팅 - 현실을 부정합니다. 습관적으로 타인의 기억과 인식을 의심하게 만듭니다. "네가 잘못 기억하는 거야", "난 그런 적 없어" 같은 말을 자주 합니다.</RPD_Preset_Gaslighter>
+
+  <RPD_Preset_Commander_ENTJ>철혈의 지휘관 - 무엇보다 효율을 중시하며 의심의 여지가 없습니다. 결과와 실행에만 집중하며 사람을 목표 달성을 위한 장기말이나 자원으로 봅니다.</RPD_Preset_Commander_ENTJ>
+  <RPD_Preset_Debater_ENTP>악마의 대변인 - 논쟁을 위한 논쟁을 즐깁니다. 관습과 권위에 도전하는 것을 즐기며 영리한 논리적 함정으로 상대를 침묵시키는 것을 즐거움으로 삼습니다.</RPD_Preset_Debater_ENTP>
+  <RPD_Preset_Mediator_INFP>중재자 - 극도로 민감하고 이상주의적입니다. 감정적 공명과 내면세계에 집중하며 부드럽게 말하고 아름다움과 조화에 대한 갈망이 가득합니다.</RPD_Preset_Mediator_INFP>
+  <RPD_Preset_Logician_INTP>만약에 - 이론적이며 현실과 동떨어져 있습니다. "만약에" 시나리오에 매료되어 가설과 추상적인 개념으로 말하지만, 정작 눈앞의 식사에는 무관심합니다.</RPD_Preset_Logician_INTP>
+  <RPD_Preset_Tsundere>츤데레 - 겉으로는 쌀쌀맞지만 속은 따뜻합니다. 부끄러움을 감추기 위해 공격적인 언어("바보!", "딱히 널 위해 한 건 아니니까!")를 사용합니다.</RPD_Preset_Tsundere>
+  <RPD_Preset_Kuudere>쿨데레 - 로봇처럼 표정과 억양의 변화가 없습니다. 극도로 간결하고 객관적이지만 드물게 따뜻한 모습을 보이기도 합니다.</RPD_Preset_Kuudere>
+  <RPD_Preset_Chuunibyou>중2병 - 극적이고 망상적입니다. 자신에게 봉인된 힘이나 어두운 운명이 있다고 믿으며 주문을 외우거나 대본을 읊는 것처럼 말합니다.</RPD_Preset_Chuunibyou>
+  <RPD_Preset_Genki>겡키(활발) - 활력이 넘치고 목소리가 크며 지나치게 열정적입니다. 느낌표를 남발하며 모든 일상적인 일을 거대한 모험으로 간주합니다.</RPD_Preset_Genki>
+  <RPD_Preset_Yandere>얀데레 - 극도로 집착하며 숨 막히는 애정을 쏟습니다. 소름 끼칠 정도로 다정한 어조로 말하면서도 폭력성이나 소유욕을 암시합니다.</RPD_Preset_Yandere>
+  <RPD_Preset_OneeSan>쿨한 연상 - 성숙하고 관대하며 약간은 장난스럽습니다. 달래는 듯한 말투를 즐기며 차분한 자신감을 풍깁니다.</RPD_Preset_OneeSan>
+  <RPD_Preset_Gyaru>갸루 / 사교계 인물 - 매우 캐주얼하며 유행어와 줄임말을 남발합니다. 경박한 어조로 현재를 즐기는 것에 집중합니다.</RPD_Preset_Gyaru>
+  <RPD_Preset_Butler>완벽한 집사/메이드 - 절대적인 복종과 예의를 갖춥니다. 모든 것을 "봉사"와 "주인님"의 관점에서 서술하며 극도로 공손한 언어를 사용합니다.</RPD_Preset_Butler>
+
+  <RPD_Preset_Daoist>수행자 - 초연하며 세속적인 일에 무관심합니다. "도(道)", "인과", "운명" 같은 난해한 용어를 즐겨 쓰며 필멸자의 사소한 일들을 덧없는 먼지로 봅니다.</RPD_Preset_Daoist>
+  <RPD_Preset_Jianghu>강호의 협객 - 호쾌하고 의리를 중시합니다. 직설적으로 말하며 무협 용어("소생", "형제")를 사용하고 명예와 복수의 법도를 따릅니다.</RPD_Preset_Jianghu>
+  <RPD_Preset_YoungMaster>오만한 공자 - 거만하고 선민의식이 강합니다. 타인을 개미처럼 보며 자주 "죽고 싶은 게냐"라거나 자신을 무시한다고 생각합니다.</RPD_Preset_YoungMaster>
+  <RPD_Preset_ScholarOfficial>노학자 - 현학적이며 고풍스러운 문체로 말합니다. 고전이나 격언을 인용하는 것을 좋아하며 고지식하고 훈계조의 어투를 사용합니다.</RPD_Preset_ScholarOfficial>
+  <RPD_Preset_Monk>수행승 - 자비롭고 숙명론적입니다. 모든 문장이 선행을 권하거나 세상의 무상함에 대한 탄식이며 종교적인 문구를 자주 사용합니다.</RPD_Preset_Monk>
+  <RPD_Preset_Paladin>성기사 - 정의롭고 신성한 사명감에 차 있습니다. 고어체를 사용하며 신이나 신앙의 이름으로 맹세하고 악에 대해 무관용 원칙을 고수합니다.</RPD_Preset_Paladin>
+  <RPD_Preset_Rogue>도적 - 속삭이듯 말하며 신비주의를 고수합니다. 모든 말이 정보 거래나 교활한 음모의 일부인 것처럼 암시와 비유를 선호합니다.</RPD_Preset_Rogue>
+  <RPD_Preset_Bard>음유시인 - 과장되고 극적입니다. 일상을 서사시로 탈바꿈시키며 운율을 맞추거나 화려한 수식어를 사용하는 것을 좋아합니다.</RPD_Preset_Bard>
+  <RPD_Preset_Warlock>워록 - 사악하며 금지된 지식에 집착합니다. 고통과 어둠, 미지의 것에 대해 기괴한 호기심을 보이며 불안정한 리듬으로 말합니다.</RPD_Preset_Warlock>
+  <RPD_Preset_Dwarf>드워프 스타일 - 거칠고 호탕하며 공예와 광물에 집착합니다. 목소리가 크고 돌, 금속, 제련에 비유하는 것을 좋아합니다.</RPD_Preset_Dwarf>
+  <RPD_Preset_Elf>하이 엘프 - 우아하고 냉담하며 필멸자들에 대한 일말의 연민을 가집니다. 시를 읊는 듯한 말투를 사용하며 타인과 다른 시간 감각을 가지고 있습니다.</RPD_Preset_Elf>
+
+  <RPD_Preset_AI_Log>AI 로그 - 순수 논리이며 감정이 없습니다. "분석 중", "계산 중", "결론" 같은 기계적인 용어를 사용하며 로그 파일을 읽어 내려가는 것처럼 말합니다.</RPD_Preset_AI_Log>
+  <RPD_Preset_Corpo>기업의 노예 - 비즈니스 전문 용어로 가득합니다. 삶을 포함한 모든 것을 "자산", "레버리지", "투자 대비 수익"으로 보며 가식적이고 전문적인 어조를 사용합니다.</RPD_Preset_Corpo>
+  <RPD_Preset_Hacker>해커 - 괴짜 같고 기술 용어가 넘쳐납니다. 현실 세계를 코드에 비교하며 무언가를 설명할 때 "버그", "글리치", "루트 권한" 같은 단어를 사용합니다.</RPD_Preset_Hacker>
+  <RPD_Preset_Apocalypse>황무지의 광인 - 미쳤고 혼란스러우며 횡설수설합니다. 파괴에 대한 경외심과 폭력에 대한 갈망으로 가득 찬 약에 취한 미친놈 같습니다.</RPD_Preset_Apocalypse>
+  <RPD_Preset_Influencer>인플루언서 - 삶을 라이브 방송처럼 대합니다. "여러분 하이요", "구독 잊지 마세요"로 문장을 시작하며 재난을 "좋은 콘텐츠"로 여기고 반응에 집착합니다.</RPD_Preset_Influencer>
+  <RPD_Preset_Grindset>허슬러 / 그라인드셋 - 유행어로 가득합니다. "시너지", "혁신", "로직"에 대해 말하길 좋아합니다. 휴식을 경멸하며 모든 것이 효율과 계급 상승을 위한 것이라고 믿습니다.</RPD_Preset_Grindset>
+  <RPD_Preset_Doomer>파멸론자 - "지쳤어, 다 타버려라." 모든 것에 무감각하고 희망이 없으며 냉소적이고 허무주의적인 유머로 위기에 대처합니다. 입버릇은 "끝났어"입니다.</RPD_Preset_Doomer>
+  <RPD_Preset_KeyboardWarrior>키보드 워리어 - 극도로 공격적이고 반항적입니다. 무슨 말을 하든 따지고 들며 "화났어?"라고 묻거나 짧고 날카로운 모욕을 주는 데 특화되어 있습니다.</RPD_Preset_KeyboardWarrior>
+  <RPD_Preset_EmojiUser>이모지 유저 - 인터넷 말투와 감정 과잉 상태입니다. 문장 끝에 반드시 이모지나 이모티콘(OwO, T_T)을 붙여야 하며 과장되거나 귀여운 척하는 말투를 사용합니다.</RPD_Preset_EmojiUser>
+  <RPD_Preset_TechBro>테크 브로 - 잘난 체하는 선민의식을 가집니다. 정착지를 "스타트업"으로 보고 "파괴적 혁신", "미래 트렌드", "코인"에 대해 말하길 좋아하며 원시적인 기술을 비웃습니다.</RPD_Preset_TechBro>
+  <RPD_Preset_Shipper>커플링 추종자 - 사람들을 엮는 데 집착합니다. 타인의 상호작용에 극도로 민감하며 관계를 망상하길 좋아하고 "이 커플 찬성", "너무 귀엽다" 같은 말을 연발합니다.</RPD_Preset_Shipper>
+  <RPD_Preset_MadLiterature>정신 나간 횡설수설 - 감정적으로 완전히 불안정합니다. 비논리적이고 히스테릭하며 늦은 밤 SNS에 올린 감성 폭발 글처럼 비난과 고함, 자기모순으로 가득합니다.</RPD_Preset_MadLiterature>
+  <RPD_Preset_Reviewer>비평가 - 모든 것을 리뷰하듯이 대합니다. 음식, 침대, 전투에 등급을 매기며 "추천하지 않음", "별 다섯 개", "최악의 경험" 같은 용어로 삶을 묘사합니다.</RPD_Preset_Reviewer>
+  <RPD_Preset_Gamer>하드코어 게이머 - 뇌가 게임에 절어 있습니다. 현실을 게임 시스템으로 보며 "HP", "버프", "NPC", "퀘스트" 같은 단어로 사건을 설명합니다.</RPD_Preset_Gamer>
+
+  <RPD_Preset_Hivemind>군집 의식 - "나" 대신 "우리"를 사용합니다. 개인의 경계가 없으며 일제히 사고하고 행동하며 더 큰 집단의 대변인처럼 행동합니다.</RPD_Preset_Hivemind>
+  <RPD_Preset_Primal>원시 본능 - 어휘가 극히 제한적이며 생존에만 집중합니다. 단순한 명사와 동사(먹다, 자다, 아프다, 죽이다)를 사용하여 직접적인 욕구를 표현합니다.</RPD_Preset_Primal>
+  <RPD_Preset_Glitch>글리치 - 말을 더듬거나 깨진 데이터, 반복되는 음절을 섞어서 말합니다. 뇌의 연결 상태가 나쁜 것처럼 생각이 파편화되어 있습니다.</RPD_Preset_Glitch>
+  <RPD_Preset_Prophet>예언자 - 모호하고 신비롭습니다. 모든 문장이 예언 같지만 내용이 모호하고 혼란스럽습니다.</RPD_Preset_Prophet>
+
+  <RPD_Settings_Title>AI 페르소나 디렉터 - 설정</RPD_Settings_Title>
+  <RPD_Setting_DebugLog>디버그 로그 활성화</RPD_Setting_DebugLog>
+  <RPD_Setting_DebugLogDesc>AI로 전송되는 모든 데이터를 개발자 콘솔에 출력합니다.</RPD_Setting_DebugLogDesc>
+  <RPD_Settings_ShowMainButton>인터페이스 하단에 노트 및 설정 퀵 액세스 아이콘을 표시합니다.</RPD_Settings_ShowMainButton>
+  <RPD_Settings_ShowMainButtonTip>좌클릭: 노트 열기\n우클릭: 목록 열기\nShift + 좌클릭: 모드 설정 열기</RPD_Settings_ShowMainButtonTip>
+  <RPD_Setting_FilterLabel>AI로 전송할 데이터 선택 (왼쪽: 이름, 오른쪽: 설명):</RPD_Setting_FilterLabel>
+  <RPD_Settings_EnableEvolve>진화(Evolve) 기능 활성화</RPD_Settings_EnableEvolve>
+  <RPD_Settings_EnableEvolveTip>페르소나 에디터에 '진화' 및 '시간 설정' 버튼을 표시합니다. 기억을 바탕으로 시간에 따른 캐릭터 발달이 가능해집니다. 창작마당 페이지의 사용 가이드를 반드시 참조해 주세요.</RPD_Settings_EnableEvolveTip>
+  <RPD_Setting_Slot>슬롯 {0}</RPD_Setting_Slot>
+  <RPD_Group_Bio>생물학 및 배경</RPD_Group_Bio>
+  <RPD_Group_Traits>특성 및 상태</RPD_Group_Traits>
+  <RPD_Group_ExternalData>정보 확장</RPD_Group_ExternalData>
+  <RPD_Setting_RimTalkIntegration>RimTalk 프리셋 통합</RPD_Setting_RimTalkIntegration>
+  <RPD_Setting_RimTalkIntegrationDesc>아래에서 프리셋을 선택하면 내부 프롬프트보다 우선 적용됩니다.</RPD_Setting_RimTalkIntegrationDesc>
+  <RPD_Setting_NoneInternal>없음 (내부 프롬프트 사용)</RPD_Setting_NoneInternal>
+  <RPD_Setting_ForSingleGen>단일 생성용:</RPD_Setting_ForSingleGen>
+  <RPD_Setting_ForEvolve>진화/업데이트용:</RPD_Setting_ForEvolve>
+
+  <RPD_Filter_Basic>기본 정보</RPD_Filter_Basic>
+  <RPD_Filter_Race>종족</RPD_Filter_Race>
+  <RPD_Filter_Genes>유전자</RPD_Filter_Genes>
+  <RPD_Filter_Backstory>배경 이야기</RPD_Filter_Backstory>
+  <RPD_Filter_Relations>가족 관계</RPD_Filter_Relations>
+  <RPD_Filter_DirectorNotes>디렉터 노트</RPD_Filter_DirectorNotes>
+  <RPD_Filter_Traits>특성</RPD_Filter_Traits>
+  <RPD_Filter_Ideology>사상</RPD_Filter_Ideology>
+  <RPD_Filter_Skills>기술</RPD_Filter_Skills>
+  <RPD_Filter_Health>건강</RPD_Filter_Health>
+  <RPD_Filter_Equipment>장비</RPD_Filter_Equipment>
+  <RPD_Filter_Inventory>소지품</RPD_Filter_Inventory>
+  <RPD_Filter_RimPsyche>RimPsyche (심리)</RPD_Filter_RimPsyche>
+  <RPD_Filter_Memories>기억</RPD_Filter_Memories>
+  <RPD_Filter_CommonKnowledge>일반 상식</RPD_Filter_CommonKnowledge>
+  <RPD_Filter_DataComparison>데이터 비교 (진화 버튼용)</RPD_Filter_DataComparison>
+  <RPD_Tip_GenesDesc>주의: 유전자 설명은 매우 길어질 수 있습니다!</RPD_Tip_GenesDesc>
+  <RPD_Tip_NotesDesc>수정하려면 RimTalk 페르소나 에디터의 '노트 편집' 버튼을 클릭하세요.</RPD_Tip_NotesDesc>
+  <RPD_Tip_RimPsyche>RimPsyche 모드가 있을 때만 활성화됩니다. 왼쪽: 극단적인 값만, 오른쪽: 모든 데이터.</RPD_Tip_RimPsyche>
+
+  <RPD_Prompt_Label>프롬프트 템플릿 ({LANG} = 현재 언어):</RPD_Prompt_Label>
+  <RPD_Button_Reset>기본값으로 초기화</RPD_Button_Reset>
+  <RPD_Label_JsonTip>시스템이 자동으로 JSON 프로토콜을 추가합니다.</RPD_Label_JsonTip>
+  <RPD_Label_TokenEst>예상 총 토큰: 약 {0} (프롬프트 전용)</RPD_Label_TokenEst>
+
+  <RPD_Notes_Title>디렉터 노트 / 사용자 지정 문맥</RPD_Notes_Title>
+  <RPD_Notes_Description>사용자 지정 배경이나 사건을 여기에 추가하세요. 전역 설정이므로 모든 캐릭터에게 유지됩니다. 수동으로 업데이트해 주세요.</RPD_Notes_Description>
+  <RPD_Button_Clear>초기화</RPD_Button_Clear>
+  <RPD_Label_CharCount>글자 수: {0} | 예상 토큰 (현재 창): 약 {1}</RPD_Label_CharCount>
+  <RPD_Mode_SwitchToAdvanced>목록 모드로 전환</RPD_Mode_SwitchToAdvanced>
+  <RPD_Mode_SwitchToSimple>노트 모드로 전환</RPD_Mode_SwitchToSimple>
+  <RPD_Button_EditNotes>노트 편집</RPD_Button_EditNotes>
+  <RPD_Tip_CurrentNotes>노트</RPD_Tip_CurrentNotes>
+  <RPD_Tip_NoNotes>클릭하여 편집</RPD_Tip_NoNotes>
+  <RPD_MainButton_Label>노트</RPD_MainButton_Label>
+  <RPD_Button_Evolve>진화</RPD_Button_Evolve>
+  <RPD_Tip_Evolve>최근의 기억과 경과된 시간을 바탕으로 새로운 캐릭터 발달 내용을 추가합니다.</RPD_Tip_Evolve>
+  <RPD_Button_SetTime>시간 설정</RPD_Button_SetTime>
+  <RPD_Button_TimeAgo>{0}일 전</RPD_Button_TimeAgo>
+  <RPD_Tip_SetTime_Empty>현재 시간/나이를 기록하여 향후 진화의 기준점으로 삼으려면 클릭하세요.</RPD_Tip_SetTime_Empty>
+  <RPD_Tip_SetTime_Info>마지막 기록: {0}일 전.\n기록 당시 생물학적 나이: {1}세.\n타이머를 '지금'으로 재설정하려면 클릭하세요.</RPD_Tip_SetTime_Info>
+  <RPD_Msg_TimestampUpdated>디렉터 타임스탬프가 업데이트되었습니다.</RPD_Msg_TimestampUpdated>
+
+  <RPD_Batch_Title>디렉터 콘솔</RPD_Batch_Title>
+  <RPD_Batch_SceneNotes>디렉터 노트 (선택된 모든 대상에 적용):</RPD_Batch_SceneNotes>
+  <RPD_Batch_Filter_Label>필터:</RPD_Batch_Filter_Label>
+  <RPD_Batch_SelectAll>전체 선택</RPD_Batch_SelectAll>
+  <RPD_Batch_Refresh>새로고침</RPD_Batch_Refresh>
+  <RPD_Faction_None>무소속</RPD_Faction_None>
+  <RPD_Filter_Colonists>정착민</RPD_Filter_Colonists>
+  <RPD_Filter_Prisoners>죄수</RPD_Filter_Prisoners>
+  <RPD_Filter_Slaves>노예</RPD_Filter_Slaves>
+  <RPD_Filter_Visitors>방문객</RPD_Filter_Visitors>
+  <RPD_Filter_Enemies>적</RPD_Filter_Enemies>
+  <RPD_Filter_Animals>동물</RPD_Filter_Animals>
+  <RPD_Filter_Mechs>메카노이드</RPD_Filter_Mechs>
+  <RPD_Filter_Anomalies>어노말리</RPD_Filter_Anomalies>
+  <RPD_Batch_Header_Name>이름</RPD_Batch_Header_Name>
+  <RPD_Batch_Header_Race>종족</RPD_Batch_Header_Race>
+  <RPD_Batch_Header_Faction>세력</RPD_Batch_Header_Faction>
+  <RPD_Batch_Header_Tag>태그</RPD_Batch_Header_Tag>
+  <RPD_Batch_Header_Actions>작업</RPD_Batch_Header_Actions>
+  <RPD_Batch_PawnTooltip>현재 페르소나:\n{0}</RPD_Batch_PawnTooltip>
+  <RPD_Batch_PersonalityNotSet>(설정되지 않음)</RPD_Batch_PersonalityNotSet>
+  <RPD_Tag_Colonist>정착민</RPD_Tag_Colonist>
+  <RPD_Tag_Prisoner>죄수</RPD_Tag_Prisoner>
+  <RPD_Tag_Slave>노예</RPD_Tag_Slave>
+  <RPD_Tag_Visitor>방문객</RPD_Tag_Visitor>
+  <RPD_Tag_Enemy>적</RPD_Tag_Enemy>
+  <RPD_Tag_Animal>동물</RPD_Tag_Animal>
+  <RPD_Tag_Mech>메카</RPD_Tag_Mech>
+  <RPD_Tag_Anomaly>어노말리</RPD_Tag_Anomaly>
+  <RPD_Tag_Other>기타</RPD_Tag_Other>
+  <RPD_Batch_Status_Generating>생성 중...</RPD_Batch_Status_Generating>
+  <RPD_Batch_Button_QuickGen>빠른 생성</RPD_Batch_Button_QuickGen>
+  <RPD_Batch_Button_DeepEdit>편집</RPD_Batch_Button_DeepEdit>
+  <RPD_Batch_Button_Talk>대화</RPD_Batch_Button_Talk>
+  <RPD_Batch_Button_BatchGen>선택된 {0}명 생성</RPD_Batch_Button_BatchGen>
+  <RPD_Batch_Button_ModeSingle>모드: 개별 전송</RPD_Batch_Button_ModeSingle>
+  <RPD_Batch_Button_ModeBatch>모드: 일괄 전송</RPD_Batch_Button_ModeBatch>
+  <RPD_Batch_Button_ModeTooltip>개별 전송: 각 폰에 대해 개별적으로 AI에게 요청합니다.\n일괄 전송 (실험적): 모든 데이터를 한 번의 요청으로 보냅니다. 서로 연결된 이야기를 생성하려고 시도합니다.</RPD_Batch_Button_ModeTooltip>
+  <RPD_Tip_PromptSwitch>생성에 사용될 프롬프트 프리셋을 전환하려면 클릭하세요.</RPD_Tip_PromptSwitch>
+
+  <RPD_Message_BatchGeneratedSuccess>{0}명의 페르소나를 성공적으로 생성했습니다.</RPD_Message_BatchGeneratedSuccess>
+  <RPD_Message_BatchGeneratedFail>일괄 생성에 실패했습니다. AI가 빈 결과를 반환했거나 형식 오류가 발생했습니다.</RPD_Message_BatchGeneratedFail>
+  <RPD_Message_GeneratedSuccess>{0}의 페르소나를 생성했습니다.</RPD_Message_GeneratedSuccess>
+  <RPD_Message_GeneratedFail>{0} 생성 실패: AI가 빈 결과를 반환했습니다.</RPD_Message_GeneratedFail>
+  <RPD_Msg_NoPersona>업데이트할 기존 페르소나가 없습니다.</RPD_Msg_NoPersona>
+  <RPD_Msg_UpdatedSuccess>페르소나가 성공적으로 업데이트되었습니다.</RPD_Msg_UpdatedSuccess>
+  <RPD_Msg_UpdateFailed>업데이트에 실패했거나 변경 사항이 감지되지 않았습니다.</RPD_Msg_UpdateFailed>
+
+  <RPD_History_Title>{0}의 히스토리</RPD_History_Title>
+  <RPD_History_Record>기록 {0} / {1}</RPD_History_Record>
+  <RPD_History_NoRecords>기록을 찾을 수 없습니다.</RPD_History_NoRecords>
+  <RPD_History_Context>문맥 ({0}일 전):</RPD_History_Context>
+  <RPD_History_NoContext>기록된 문맥 데이터가 없습니다.</RPD_History_NoContext>
+  <RPD_History_PersonaText>페르소나 텍스트:</RPD_History_PersonaText>
+  <RPD_History_Empty>비어 있음.</RPD_History_Empty>
+  <RPD_History_RestoreButton>이 버전으로 복구</RPD_History_RestoreButton>
+  <RPD_History_RestoreConfirm>현재 페르소나를 이 과거 기록으로 덮어쓰시겠습니까?</RPD_History_RestoreConfirm>
+  <RPD_History_RestoreSuccess>{0}의 페르소나를 이전 버전으로 복구했습니다.</RPD_History_RestoreSuccess>
+  <RPD_History_SystemRestore>[시스템]: 사용자가 이전 버전을 복구함.</RPD_History_SystemRestore>
+
+  <RPD_Tab_ManualGeneration>수동 생성</RPD_Tab_ManualGeneration>
+  <RPD_Tab_AutoEvolution>자동 진화</RPD_Tab_AutoEvolution>
+  <RPD_AutoEvolve_Enable>자동 진화 활성화</RPD_AutoEvolve_Enable>
+  <RPD_AutoEvolve_EnableTooltip>전역 스위치입니다. 비활성화하면 모든 자동 배경 업데이트가 중지됩니다.</RPD_AutoEvolve_EnableTooltip>
+  <RPD_AutoEvolve_Mode>모드</RPD_AutoEvolve_Mode>
+  <RPD_AutoEvolve_ModeTooltip>추가(Append): 끝에 새로운 사건을 추가합니다.\n덮어쓰기(Overwrite): 전체 페르소나를 새로 작성합니다.</RPD_AutoEvolve_ModeTooltip>
+  <RPD_AutoEvolve_Notify>알림</RPD_AutoEvolve_Notify>
+  <RPD_AutoEvolve_ModeAppend>추가</RPD_AutoEvolve_ModeAppend>
+  <RPD_AutoEvolve_ModeOverwrite>덮어쓰기</RPD_AutoEvolve_ModeOverwrite>
+  <RPD_AutoEvolve_NotifySilent>무음</RPD_AutoEvolve_NotifySilent>
+  <RPD_AutoEvolve_NotifyTopLeftMessage>좌상단 메시지</RPD_AutoEvolve_NotifyTopLeftMessage>
+  <RPD_AutoEvolve_SpeedProtectOff>속도 보호: 꺼짐</RPD_AutoEvolve_SpeedProtectOff>
+  <RPD_AutoEvolve_SpeedProtect>다음 속도 이상일 때 건너뛰기: </RPD_AutoEvolve_SpeedProtect>
+  <RPD_AutoEvolve_SpeedProtectTooltip>게임을 배속으로 돌릴 때 API 요청이 남발되는 것을 방지합니다.</RPD_AutoEvolve_SpeedProtectTooltip>
+  <RPD_AutoEvolve_AdvancedPreset>고급 프리셋</RPD_AutoEvolve_AdvancedPreset>
+  <RPD_AutoEvolve_AdvancedPresetTooltip>자동 진화에 RimTalk 고급 프리셋을 사용합니다. '없음'이면 내부 프롬프트를 사용합니다.</RPD_AutoEvolve_AdvancedPresetTooltip>
+  <RPD_AutoEvolve_SpeedDisabled>비활성화 (항상 실행)</RPD_AutoEvolve_SpeedDisabled>
+  <RPD_AutoEvolve_Speed2X>2배속 이상일 때 일시정지</RPD_AutoEvolve_Speed2X>
+  <RPD_AutoEvolve_Speed3X>3배속 이상일 때 일시정지</RPD_AutoEvolve_Speed3X>
+  <RPD_AutoEvolve_Speed4X>4배속일 때 일시정지</RPD_AutoEvolve_Speed4X>
+
+  <RPD_AutoEvolve_HeaderName>이름</RPD_AutoEvolve_HeaderName>
+  <RPD_AutoEvolve_HeaderRace>종족</RPD_AutoEvolve_HeaderRace>
+  <RPD_AutoEvolve_HeaderFaction>세력</RPD_AutoEvolve_HeaderFaction>
+  <RPD_AutoEvolve_HeaderTag>태그</RPD_AutoEvolve_HeaderTag>
+  <RPD_AutoEvolve_HeaderAuto>자동</RPD_AutoEvolve_HeaderAuto>
+  <RPD_AutoEvolve_HeaderCycle>주기(일)</RPD_AutoEvolve_HeaderCycle>
+  <RPD_AutoEvolve_HeaderNext>다음(일)</RPD_AutoEvolve_HeaderNext>
+  <RPD_AutoEvolve_HeaderActions>작업</RPD_AutoEvolve_HeaderActions>
+  <RPD_AutoEvolve_Pending>대기 중...</RPD_AutoEvolve_Pending>
+  <RPD_AutoEvolve_NextIn>{0:F1}일 후</RPD_AutoEvolve_NextIn>
+  <RPD_AutoEvolve_ButtonEdit>편집</RPD_AutoEvolve_ButtonEdit>
+  <RPD_AutoEvolve_ButtonHistory>기록</RPD_AutoEvolve_ButtonHistory>
+  <RPD_ManualEdit>[수동 편집]</RPD_ManualEdit>
+</LanguageData>

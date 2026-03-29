@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hercules.label>헤라클레스</Hercules.label>
+  <Hercules.corePart.customLabel>주요 구조부</Hercules.corePart.customLabel>
+  <Hercules.corePart.parts.0.customLabel>목 동력축</Hercules.corePart.parts.0.customLabel>
+  <Hercules.corePart.parts.1.customLabel>왼쪽 기계 어깨</Hercules.corePart.parts.1.customLabel>
+  <Hercules.corePart.parts.2.customLabel>오른쪽 기계 어깨</Hercules.corePart.parts.2.customLabel>
+  <Hercules.corePart.parts.3.customLabel>왼쪽 다리</Hercules.corePart.parts.3.customLabel>
+  <Hercules.corePart.parts.4.customLabel>오른쪽 다리</Hercules.corePart.parts.4.customLabel>
+  <Hercules.corePart.parts.5.customLabel>경형 배터리 팩</Hercules.corePart.parts.5.customLabel>
+  <Hercules.corePart.parts.6.customLabel>유압 피벗</Hercules.corePart.parts.6.customLabel>
+  <Hercules.corePart.parts.7.customLabel>예비 유압 피벗</Hercules.corePart.parts.7.customLabel>
+  <Hercules.corePart.parts.0.parts.0.customLabel>머리 센서 프레임</Hercules.corePart.parts.0.parts.0.customLabel>
+  <Hercules.corePart.parts.1.parts.0.customLabel>왼팔</Hercules.corePart.parts.1.parts.0.customLabel>
+  <Hercules.corePart.parts.2.parts.0.customLabel>오른팔</Hercules.corePart.parts.2.parts.0.customLabel>
+  <Hercules.corePart.parts.3.parts.0.customLabel>왼발</Hercules.corePart.parts.3.parts.0.customLabel>
+  <Hercules.corePart.parts.4.parts.0.customLabel>오른발</Hercules.corePart.parts.4.parts.0.customLabel>
+  <Hercules.corePart.parts.0.parts.0.parts.0.customLabel>고성능 연산 코어</Hercules.corePart.parts.0.parts.0.parts.0.customLabel>
+  <Hercules.corePart.parts.0.parts.0.parts.1.customLabel>왼쪽 시각 센서</Hercules.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Hercules.corePart.parts.0.parts.0.parts.2.customLabel>왼쪽 시각 센서</Hercules.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Hercules.corePart.parts.0.parts.0.parts.3.customLabel>오른쪽 시각 센서</Hercules.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Hercules.corePart.parts.0.parts.0.parts.4.customLabel>오른쪽 시각 센서</Hercules.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Hercules.corePart.parts.0.parts.0.parts.5.customLabel>왼쪽 청각 센서</Hercules.corePart.parts.0.parts.0.parts.5.customLabel>
+  <Hercules.corePart.parts.0.parts.0.parts.6.customLabel>오른쪽 청각 센서</Hercules.corePart.parts.0.parts.0.parts.6.customLabel>
+  <Hercules.corePart.parts.0.parts.0.parts.7.customLabel>가스 성분 분석 센서</Hercules.corePart.parts.0.parts.0.parts.7.customLabel>
+  <Hercules.corePart.parts.1.parts.0.parts.0.customLabel>왼손</Hercules.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Hercules.corePart.parts.2.parts.0.parts.0.customLabel>오른손</Hercules.corePart.parts.2.parts.0.parts.0.customLabel>
+  <Hercules.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>왼쪽 새끼손가락</Hercules.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+  <Hercules.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>왼쪽 넷째 손가락</Hercules.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+  <Hercules.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>왼쪽 가운뎃손가락</Hercules.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+  <Hercules.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>왼쪽 집게손가락</Hercules.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+  <Hercules.corePart.parts.1.parts.0.parts.0.parts.4.customLabel>왼쪽 엄지손가락</Hercules.corePart.parts.1.parts.0.parts.0.parts.4.customLabel>
+  <Hercules.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>오른쪽 새끼손가락</Hercules.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+  <Hercules.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>오른쪽 넷째 손가락</Hercules.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+  <Hercules.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>오른쪽 가운뎃손가락</Hercules.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+  <Hercules.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>오른쪽 집게손가락</Hercules.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+  <Hercules.corePart.parts.2.parts.0.parts.0.parts.4.customLabel>오른쪽 엄지손가락</Hercules.corePart.parts.2.parts.0.parts.0.parts.4.customLabel>
+
+  <Lyra.label>라이라</Lyra.label>
+  <Lyra.corePart.customLabel>장갑형 주요 구조부</Lyra.corePart.customLabel>
+  <Lyra.corePart.parts.0.customLabel>센서 버스</Lyra.corePart.parts.0.customLabel>
+  <Lyra.corePart.parts.1.customLabel>왼쪽 앞다리</Lyra.corePart.parts.1.customLabel>
+  <Lyra.corePart.parts.2.customLabel>오른쪽 앞다리</Lyra.corePart.parts.2.customLabel>
+  <Lyra.corePart.parts.3.customLabel>왼쪽 뒷 다리</Lyra.corePart.parts.3.customLabel>
+  <Lyra.corePart.parts.4.customLabel>오른쪽 뒷 다리</Lyra.corePart.parts.4.customLabel>
+  <Lyra.corePart.parts.5.customLabel>대용량 동력 배터리</Lyra.corePart.parts.5.customLabel>
+  <Lyra.corePart.parts.6.customLabel>예비 유압 시스템</Lyra.corePart.parts.6.customLabel>
+  <Lyra.corePart.parts.7.customLabel>유압 시스템</Lyra.corePart.parts.7.customLabel>
+  <Lyra.corePart.parts.0.parts.0.customLabel>센서 프레임워크</Lyra.corePart.parts.0.parts.0.customLabel>
+  <Lyra.corePart.parts.1.parts.0.customLabel>왼쪽 앞발</Lyra.corePart.parts.1.parts.0.customLabel>
+  <Lyra.corePart.parts.2.parts.0.customLabel>오른쪽 앞발</Lyra.corePart.parts.2.parts.0.customLabel>
+  <Lyra.corePart.parts.3.parts.0.customLabel>왼쪽 뒷발</Lyra.corePart.parts.3.parts.0.customLabel>
+  <Lyra.corePart.parts.4.parts.0.customLabel>오른쪽 뒷발</Lyra.corePart.parts.4.parts.0.customLabel>
+  <Lyra.corePart.parts.0.parts.0.parts.0.customLabel>고출력 연산 제어기</Lyra.corePart.parts.0.parts.0.parts.0.customLabel>
+  <Lyra.corePart.parts.0.parts.0.parts.1.customLabel>첨단 광학 센서</Lyra.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Lyra.corePart.parts.0.parts.0.parts.2.customLabel>첨단 광학 센서</Lyra.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Lyra.corePart.parts.0.parts.0.parts.3.customLabel>음향 진동 센서</Lyra.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Lyra.corePart.parts.0.parts.0.parts.4.customLabel>유도형 센서</Lyra.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Lyra.corePart.parts.0.parts.0.parts.5.customLabel>센서 연산 코어</Lyra.corePart.parts.0.parts.0.parts.5.customLabel>
+
+  <Lyra_Heavy.label>라이라 헤비</Lyra_Heavy.label>
+  <Lyra_Heavy.corePart.customLabel>장갑형 주요 구조부</Lyra_Heavy.corePart.customLabel>
+  <Lyra_Heavy.corePart.parts.0.customLabel>센서 버스</Lyra_Heavy.corePart.parts.0.customLabel>
+  <Lyra_Heavy.corePart.parts.1.customLabel>왼쪽 앞다리</Lyra_Heavy.corePart.parts.1.customLabel>
+  <Lyra_Heavy.corePart.parts.2.customLabel>오른쪽 앞다리</Lyra_Heavy.corePart.parts.2.customLabel>
+  <Lyra_Heavy.corePart.parts.3.customLabel>왼쪽 뒷 다리</Lyra_Heavy.corePart.parts.3.customLabel>
+  <Lyra_Heavy.corePart.parts.4.customLabel>오른쪽 뒷 다리</Lyra_Heavy.corePart.parts.4.customLabel>
+  <Lyra_Heavy.corePart.parts.6.customLabel>대용량 동력 배터리</Lyra_Heavy.corePart.parts.6.customLabel>
+  <Lyra_Heavy.corePart.parts.7.customLabel>예비 유압 시스템</Lyra_Heavy.corePart.parts.7.customLabel>
+  <Lyra_Heavy.corePart.parts.8.customLabel>유압 시스템</Lyra_Heavy.corePart.parts.8.customLabel>
+  <Lyra_Heavy.corePart.parts.0.parts.0.customLabel>센서 프레임워크</Lyra_Heavy.corePart.parts.0.parts.0.customLabel>
+  <Lyra_Heavy.corePart.parts.1.parts.0.customLabel>왼쪽 앞발</Lyra_Heavy.corePart.parts.1.parts.0.customLabel>
+  <Lyra_Heavy.corePart.parts.2.parts.0.customLabel>오른쪽 앞발</Lyra_Heavy.corePart.parts.2.parts.0.customLabel>
+  <Lyra_Heavy.corePart.parts.3.parts.0.customLabel>왼쪽 뒷발</Lyra_Heavy.corePart.parts.3.parts.0.customLabel>
+  <Lyra_Heavy.corePart.parts.4.parts.0.customLabel>오른쪽 뒷발</Lyra_Heavy.corePart.parts.4.parts.0.customLabel>
+  <Lyra_Heavy.corePart.parts.0.parts.0.parts.0.customLabel>고출력 연산 제어기</Lyra_Heavy.corePart.parts.0.parts.0.parts.0.customLabel>
+  <Lyra_Heavy.corePart.parts.0.parts.0.parts.1.customLabel>첨단 광학 센서</Lyra_Heavy.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Lyra_Heavy.corePart.parts.0.parts.0.parts.2.customLabel>첨단 광학 센서</Lyra_Heavy.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Lyra_Heavy.corePart.parts.0.parts.0.parts.3.customLabel>음향 진동 센서</Lyra_Heavy.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Lyra_Heavy.corePart.parts.0.parts.0.parts.4.customLabel>유도형 센서</Lyra_Heavy.corePart.parts.0.parts.0.parts.4.customLabel>
+  <Lyra_Heavy.corePart.parts.0.parts.0.parts.5.customLabel>센서 연산 코어</Lyra_Heavy.corePart.parts.0.parts.0.parts.5.customLabel>
+
+  <Sirius.label>시리우스</Sirius.label>
+  <Sirius.corePart.customLabel>중장갑형 주요 구조부</Sirius.corePart.customLabel>
+  <Sirius.corePart.parts.0.customLabel>피벗 처리 버스</Sirius.corePart.parts.0.customLabel>
+  <Sirius.corePart.parts.1.customLabel>왼쪽 앞다리</Sirius.corePart.parts.1.customLabel>
+  <Sirius.corePart.parts.2.customLabel>오른쪽 앞다리</Sirius.corePart.parts.2.customLabel>
+  <Sirius.corePart.parts.3.customLabel>왼쪽 뒷 다리</Sirius.corePart.parts.3.customLabel>
+  <Sirius.corePart.parts.4.customLabel>오른쪽 뒷 다리</Sirius.corePart.parts.4.customLabel>
+  <Sirius.corePart.parts.5.customLabel>중형 동력 팩</Sirius.corePart.parts.5.customLabel>
+  <Sirius.corePart.parts.7.customLabel>윤활유 필터</Sirius.corePart.parts.7.customLabel>
+  <Sirius.corePart.parts.8.customLabel>유압 코어</Sirius.corePart.parts.8.customLabel>
+  <Sirius.corePart.parts.9.customLabel>예비 유압 코어</Sirius.corePart.parts.9.customLabel>
+  <Sirius.corePart.parts.10.customLabel>벌브 포탑</Sirius.corePart.parts.10.customLabel>
+  <Sirius.corePart.parts.0.parts.0.customLabel>센서실</Sirius.corePart.parts.0.parts.0.customLabel>
+  <Sirius.corePart.parts.1.parts.0.customLabel>왼쪽 앞발</Sirius.corePart.parts.1.parts.0.customLabel>
+  <Sirius.corePart.parts.2.parts.0.customLabel>오른쪽 앞발</Sirius.corePart.parts.2.parts.0.customLabel>
+  <Sirius.corePart.parts.3.parts.0.customLabel>왼쪽 뒷발</Sirius.corePart.parts.3.parts.0.customLabel>
+  <Sirius.corePart.parts.4.parts.0.customLabel>오른쪽 뒷발</Sirius.corePart.parts.4.parts.0.customLabel>
+  <Sirius.corePart.parts.0.parts.0.parts.0.customLabel>제어 피벗</Sirius.corePart.parts.0.parts.0.parts.0.customLabel>
+  <Sirius.corePart.parts.0.parts.0.parts.1.customLabel>시각 센서</Sirius.corePart.parts.0.parts.0.parts.1.customLabel>
+  <Sirius.corePart.parts.0.parts.0.parts.2.customLabel>왼쪽 청각 센서</Sirius.corePart.parts.0.parts.0.parts.2.customLabel>
+  <Sirius.corePart.parts.0.parts.0.parts.3.customLabel>오른쪽 청각 센서</Sirius.corePart.parts.0.parts.0.parts.3.customLabel>
+  <Sirius.corePart.parts.0.parts.0.parts.4.customLabel>대기질 센서</Sirius.corePart.parts.0.parts.0.parts.4.customLabel>
+
+  <Seginus.label>세기누스</Seginus.label>
+  <Seginus.corePart.customLabel>장갑형 기계 동체</Seginus.corePart.customLabel>
+  <Seginus.corePart.parts.0.customLabel>동체 주장갑</Seginus.corePart.parts.0.customLabel>
+  <Seginus.corePart.parts.1.customLabel>기계 머리 지지대</Seginus.corePart.parts.1.customLabel>
+  <Seginus.corePart.parts.2.customLabel>왼쪽 기계 지지대</Seginus.corePart.parts.2.customLabel>
+  <Seginus.corePart.parts.3.customLabel>오른쪽 기계 지지대</Seginus.corePart.parts.3.customLabel>
+  <Seginus.corePart.parts.4.customLabel>왼쪽 동력 다리</Seginus.corePart.parts.4.customLabel>
+  <Seginus.corePart.parts.5.customLabel>오른쪽 동력 다리</Seginus.corePart.parts.5.customLabel>
+  <Seginus.corePart.parts.11.customLabel>유압 시스템</Seginus.corePart.parts.11.customLabel>
+  <Seginus.corePart.parts.1.parts.0.customLabel>센서실</Seginus.corePart.parts.1.parts.0.customLabel>
+  <Seginus.corePart.parts.2.parts.0.customLabel>왼쪽 경형 견갑</Seginus.corePart.parts.2.parts.0.customLabel>
+  <Seginus.corePart.parts.2.parts.1.customLabel>첨단 기계팔</Seginus.corePart.parts.2.parts.1.customLabel>
+  <Seginus.corePart.parts.3.parts.0.customLabel>오른쪽 경형 견갑</Seginus.corePart.parts.3.parts.0.customLabel>
+  <Seginus.corePart.parts.3.parts.1.customLabel>첨단 기계팔</Seginus.corePart.parts.3.parts.1.customLabel>
+  <Seginus.corePart.parts.4.parts.0.customLabel>발바닥 안정기</Seginus.corePart.parts.4.parts.0.customLabel>
+  <Seginus.corePart.parts.5.parts.0.customLabel>발바닥 안정기</Seginus.corePart.parts.5.parts.0.customLabel>
+  <Seginus.corePart.parts.1.parts.0.parts.0.customLabel>고성능 연산 중추</Seginus.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Seginus.corePart.parts.1.parts.0.parts.3.customLabel>첨단 광학 센서</Seginus.corePart.parts.1.parts.0.parts.3.customLabel>
+  <Seginus.corePart.parts.1.parts.0.parts.4.customLabel>주음향 센서</Seginus.corePart.parts.1.parts.0.parts.4.customLabel>
+  <Seginus.corePart.parts.1.parts.0.parts.5.customLabel>부음향 센서</Seginus.corePart.parts.1.parts.0.parts.5.customLabel>
+  <Seginus.corePart.parts.1.parts.0.parts.6.customLabel>집적 센서</Seginus.corePart.parts.1.parts.0.parts.6.customLabel>
+  <Seginus.corePart.parts.2.parts.1.parts.0.customLabel>첨단 기계 손</Seginus.corePart.parts.2.parts.1.parts.0.customLabel>
+  <Seginus.corePart.parts.3.parts.1.parts.0.customLabel>첨단 기계 손</Seginus.corePart.parts.3.parts.1.parts.0.customLabel>
+  <Seginus.corePart.parts.2.parts.1.parts.0.parts.0.customLabel>첨단 기계 손가락</Seginus.corePart.parts.2.parts.1.parts.0.parts.0.customLabel>
+  <Seginus.corePart.parts.2.parts.1.parts.0.parts.1.customLabel>첨단 기계 손가락</Seginus.corePart.parts.2.parts.1.parts.0.parts.1.customLabel>
+  <Seginus.corePart.parts.2.parts.1.parts.0.parts.2.customLabel>첨단 기계 손가락</Seginus.corePart.parts.2.parts.1.parts.0.parts.2.customLabel>
+  <Seginus.corePart.parts.2.parts.1.parts.0.parts.3.customLabel>첨단 기계 손가락</Seginus.corePart.parts.2.parts.1.parts.0.parts.3.customLabel>
+  <Seginus.corePart.parts.3.parts.1.parts.0.parts.0.customLabel>첨단 기계 손가락</Seginus.corePart.parts.3.parts.1.parts.0.parts.0.customLabel>
+  <Seginus.corePart.parts.3.parts.1.parts.0.parts.1.customLabel>첨단 기계 손가락</Seginus.corePart.parts.3.parts.1.parts.0.parts.1.customLabel>
+  <Seginus.corePart.parts.3.parts.1.parts.0.parts.2.customLabel>첨단 기계 손가락</Seginus.corePart.parts.3.parts.1.parts.0.parts.2.customLabel>
+  <Seginus.corePart.parts.3.parts.1.parts.0.parts.3.customLabel>첨단 기계 손가락</Seginus.corePart.parts.3.parts.1.parts.0.parts.3.customLabel>
+
+  <Seginus_Vanguard.label>세기누스 뱅가드</Seginus_Vanguard.label>
+  <Seginus_Vanguard.corePart.customLabel>장갑형 기계 동체</Seginus_Vanguard.corePart.customLabel>
+  <Seginus_Vanguard.corePart.parts.0.customLabel>동체 주장갑</Seginus_Vanguard.corePart.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.1.customLabel>기계 머리 지지대</Seginus_Vanguard.corePart.parts.1.customLabel>
+  <Seginus_Vanguard.corePart.parts.2.customLabel>왼쪽 기계 지지대</Seginus_Vanguard.corePart.parts.2.customLabel>
+  <Seginus_Vanguard.corePart.parts.3.customLabel>오른쪽 기계 지지대</Seginus_Vanguard.corePart.parts.3.customLabel>
+  <Seginus_Vanguard.corePart.parts.4.customLabel>왼쪽 동력 다리</Seginus_Vanguard.corePart.parts.4.customLabel>
+  <Seginus_Vanguard.corePart.parts.5.customLabel>오른쪽 동력 다리</Seginus_Vanguard.corePart.parts.5.customLabel>
+  <Seginus_Vanguard.corePart.parts.6.customLabel>중형 세라뮴 방패</Seginus_Vanguard.corePart.parts.6.customLabel>
+  <Seginus_Vanguard.corePart.parts.12.customLabel>유압 시스템</Seginus_Vanguard.corePart.parts.12.customLabel>
+  <Seginus_Vanguard.corePart.parts.1.parts.0.customLabel>기계 머리 지지대</Seginus_Vanguard.corePart.parts.1.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.2.parts.0.customLabel>왼쪽 경형 견갑</Seginus_Vanguard.corePart.parts.2.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.2.parts.1.customLabel>첨단 기계팔</Seginus_Vanguard.corePart.parts.2.parts.1.customLabel>
+  <Seginus_Vanguard.corePart.parts.3.parts.0.customLabel>오른쪽 경형 견갑</Seginus_Vanguard.corePart.parts.3.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.3.parts.1.customLabel>첨단 기계팔</Seginus_Vanguard.corePart.parts.3.parts.1.customLabel>
+  <Seginus_Vanguard.corePart.parts.4.parts.0.customLabel>발바닥 안정기</Seginus_Vanguard.corePart.parts.4.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.5.parts.0.customLabel>발바닥 안정기</Seginus_Vanguard.corePart.parts.5.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.1.parts.0.parts.0.customLabel>고성능 연산 중추</Seginus_Vanguard.corePart.parts.1.parts.0.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.1.parts.0.parts.2.customLabel>첨단 광학 센서</Seginus_Vanguard.corePart.parts.1.parts.0.parts.2.customLabel>
+  <Seginus_Vanguard.corePart.parts.1.parts.0.parts.3.customLabel>주음향 센서</Seginus_Vanguard.corePart.parts.1.parts.0.parts.3.customLabel>
+  <Seginus_Vanguard.corePart.parts.1.parts.0.parts.4.customLabel>부음향 센서</Seginus_Vanguard.corePart.parts.1.parts.0.parts.4.customLabel>
+  <Seginus_Vanguard.corePart.parts.1.parts.0.parts.5.customLabel>집적 센서</Seginus_Vanguard.corePart.parts.1.parts.0.parts.5.customLabel>
+  <Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.customLabel>첨단 기계 손</Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.customLabel>첨단 기계 손</Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.parts.0.customLabel>첨단 기계 손가락</Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.parts.1.customLabel>첨단 기계 손가락</Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.parts.1.customLabel>
+  <Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.parts.2.customLabel>첨단 기계 손가락</Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.parts.2.customLabel>
+  <Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.parts.3.customLabel>첨단 기계 손가락</Seginus_Vanguard.corePart.parts.2.parts.1.parts.0.parts.3.customLabel>
+  <Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.parts.0.customLabel>첨단 기계 손가락</Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.parts.0.customLabel>
+  <Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.parts.1.customLabel>첨단 기계 손가락</Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.parts.1.customLabel>
+  <Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.parts.2.customLabel>첨단 기계 손가락</Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.parts.2.customLabel>
+  <Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.parts.3.customLabel>첨단 기계 손가락</Seginus_Vanguard.corePart.parts.3.parts.1.parts.0.parts.3.customLabel>
+</LanguageData>

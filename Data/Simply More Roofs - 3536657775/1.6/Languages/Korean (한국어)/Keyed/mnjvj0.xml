@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SMR.Designators.AreaNoAnyRoof.Descripton>정착민들이 이 구역의 지붕을 제거합니다.\n\n정체불명의 초월공학 기술 덕분에, 정착민들은 이제 어떠한 종류의 지붕이라도 제거할 수 있습니다.</SMR.Designators.AreaNoAnyRoof.Descripton>
+
+  <SMR.Letters.RoofFlewAway.Label>지붕 흩어짐</SMR.Letters.RoofFlewAway.Label>
+  <SMR.Letters.RoofFlewAway.Text>지탱해 줄 지지점이 사라지자, 나노머신으로 구성된 지붕의 일부 구역이 흩어져 사라졌습니다.</SMR.Letters.RoofFlewAway.Text>
+
+  <SMR.Settings.Category.Label>Simply More Roofs</SMR.Settings.Category.Label>
+  <SMR.Settings.AllowRemoveAnyRoof.Label>모든 지붕 제거 허용</SMR.Settings.AllowRemoveAnyRoof.Label>
+  <SMR.Settings.AllowRemoveAnyRoof.Tooltip>'지붕 제거 구역'이 모든 종류의 지붕에 적용됩니다. (두꺼운 지붕 연구를 완료해야 합니다.)</SMR.Settings.AllowRemoveAnyRoof.Tooltip>
+  <SMR.Settings.PreventInfestation.Label>곤충 군락 방지</SMR.Settings.PreventInfestation.Label>
+  <SMR.Settings.PreventInfestation.Tooltip>이 모드로 추가된 지붕 아래에서는 곤충 군락이 생성되지 않습니다.</SMR.Settings.PreventInfestation.Tooltip>
+  <SMR.Settings.SeparateRoofDesignators.Label>지정자 분리</SMR.Settings.SeparateRoofDesignators.Label>
+  <SMR.Settings.SeparateRoofDesignators.Tooltip>기본 지붕 건설 구역과 이 모드로 추가된 지붕 건설 구역을 분리합니다.</SMR.Settings.SeparateRoofDesignators.Tooltip>
+</LanguageData>

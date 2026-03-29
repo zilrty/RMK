@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_upgradeUSB.label>업그레이드 칩</VR_upgradeUSB.label>
+  <VR_upgradeUSB.description>펌웨어 업그레이드 데이터가 담긴 칩입니다. 사용 시 펌웨어 버전을 업데이트합니다.</VR_upgradeUSB.description>
+  <VR_upgradeUSB.ingestible.ingestCommandString>{0} 설치</VR_upgradeUSB.ingestible.ingestCommandString>
+  <VR_upgradeUSB.ingestible.ingestReportString>{0} 설치 중</VR_upgradeUSB.ingestible.ingestReportString>
+
+  <VR_PsywearUSB.label>사이웨어 칩</VR_PsywearUSB.label>
+  <VR_PsywearUSB.description>사이웨어 설치 데이터가 담긴 칩입니다. 설치 시 정신 감응성에 비례하여 전투 능력이 상승합니다.</VR_PsywearUSB.description>
+  <VR_PsywearUSB.ingestible.ingestCommandString>{0} 설치</VR_PsywearUSB.ingestible.ingestCommandString>
+  <VR_PsywearUSB.ingestible.ingestReportString>{0} 설치 중</VR_PsywearUSB.ingestible.ingestReportString>
+
+  <Apparel_MUH_01Camohood.label>MTL-V-512 위장 후드</Apparel_MUH_01Camohood.label>
+  <Apparel_MUH_01Camohood.description>위장 망토와 세트로 착용하는 후드입니다. 조준 시간이 길어지는 대신 명중률을 향상시킵니다.</Apparel_MUH_01Camohood.description>
+
+  <Apparel_MOU_01HSH_H.label>MTL-V-H755 환경 헬멧(후드)</Apparel_MOU_01HSH_H.label>
+  <Apparel_MOU_01HSH_H.description>진공 및 온도 변화에 매우 강한 헬멧입니다. 후드가 장착되어 조준 시간이 길어지는 대신 명중률을 향상시킵니다.</Apparel_MOU_01HSH_H.description>
+
+  <Apparel_SKF_VR.label>MTL-V-333 위장 스카프</Apparel_SKF_VR.label>
+  <Apparel_SKF_VR.description>움직임을 방해하지 않지만, 판초만큼 방어력이 높지는 않습니다.</Apparel_SKF_VR.description>
+
+  <Apparel_PNC_VR.label>MTL-V-332 위장 판초</Apparel_PNC_VR.label>
+  <Apparel_PNC_VR.description>위장 무늬가 그려진 판초입니다. 몸을 잘 보호해주지만 이동을 약간 방해합니다.</Apparel_PNC_VR.description>
+
+  <VR_MechSerumResurrector.label>비질 재사용 프로그램</VR_MechSerumResurrector.label>
+  <VR_MechSerumResurrector.description>육체를 수복하고 소생시키는 메카나이트가 포함된 프로그램입니다. 비질은 문제없이 부활할 수 있으나, 그 외의 종족은 메카나이트 제어 프로그램을 설치할 수 없으므로 신체 능력이 서서히 저하되어 결국 다시 사망하게 됩니다.</VR_MechSerumResurrector.description>
+  <VR_MechSerumResurrector.comps.0.useLabel>{0_label} 사용</VR_MechSerumResurrector.comps.0.useLabel>
+
+  <VR_JoinerWalkIn_Vigil_Item.label>비질 계약서</VR_JoinerWalkIn_Vigil_Item.label>
+  <VR_JoinerWalkIn_Vigil_Item.description>가입을 희망하는 비질과 계약하기 위한 서류입니다. 사용 시 즉시 도착합니다.</VR_JoinerWalkIn_Vigil_Item.description>
+  <VR_JoinerWalkIn_Vigil_Item.comps.2.useLabel>{0_label} 사용 후 비질과 계약</VR_JoinerWalkIn_Vigil_Item.comps.2.useLabel>
+
+  <Apparel_MAU_faceplate.label>MTL-V-426 안면 보호판</Apparel_MAU_faceplate.label>
+  <Apparel_MAU_faceplate.description>머리와 눈을 보호하는 센서, 디스플레이, 컴퓨터가 내장된 마스크입니다. 전투 효율을 지원하며 정신 감응성도 높여줍니다.</Apparel_MAU_faceplate.description>
+
+  <Apparel_MAU_halfMask.label>MTL-V-844 하프 마스크</Apparel_MAU_halfMask.label>
+  <Apparel_MAU_halfMask.description>입가만 가리는 방독면입니다. 호흡 보조 능력은 에어 마스크보다 약간 낮지만 안구 장비와 병행해서 착용할 수 있습니다.</Apparel_MAU_halfMask.description>
+
+  <Apparel_MUO_01HS.label>MTL-V-H782 환경 슈트</Apparel_MUO_01HS.label>
+  <Apparel_MUO_01HS.description>진공 및 온도 변화에 매우 강한 방호복입니다. 어린이도 착용 가능합니다.</Apparel_MUO_01HS.description>
+
+  <Apparel_MOU_01HSH.label>MTL-V-H755 환경 헬멧</Apparel_MOU_01HSH.label>
+  <Apparel_MOU_01HSH.description>진공 및 온도 변화에 매우 강한 헬멧입니다.</Apparel_MOU_01HSH.description>
+
+  <Apparel_MOU_02HSH.label>MTL-V-H797 환경 헬멧(장갑)</Apparel_MOU_02HSH.label>
+  <Apparel_MOU_02HSH.description>진공 및 온도 변화에 강한 환경 헬멧입니다. 사격 통제 고글을 겸하는 머리 보호용 쉴드가 장착되어 명중률 개선과 높은 방어력을 제공합니다.</Apparel_MOU_02HSH.description>
+
+  <Apparel_MUO_KBW.label>MTL-V-145 관리용 목걸이</Apparel_MUO_KBW.label>
+  <Apparel_MUO_KBW.description>척추에 연결하여 개체를 관리하기 위한 목걸이입니다. 연결의 영향으로 착용자의 정신 감응성을 높이고 정신을 안정시키는 효과가 있습니다. 본래 반란을 방지하기 위한 용도였으나, 비질들은 이를 정식 전투원이 된 증표로 여기기도 합니다.</Apparel_MUO_KBW.description>
+
+  <Apparel_MUO_01SST.label>MTL-V-339 전투용 슈트</Apparel_MUO_01SST.label>
+  <Apparel_MUO_01SST.description>상급 전투원이나 공작원을 위해 개발된 전신 보호 슈트입니다. 내부에 내충격 젤이 도포되어 높은 방어력을 가졌으며, 젤이 상처를 덮어 출혈 속도를 늦춰줍니다. 또한 미세한 전기 신호 자극을 통해 운동 능력을 향상시키고 통증을 경감합니다.</Apparel_MUO_01SST.description>
+
+  <Apparel_MUO_03SST.label>MTL-V-339 전투용 슈트(하네스)</Apparel_MUO_03SST.label>
+  <Apparel_MUO_03SST.description>전투용 슈트에 하네스를 장착한 형태입니다. 속옷 레이어까지 점유하지만 성능 및 능력 보정치가 더 높습니다.</Apparel_MUO_03SST.description>
+
+  <Apparel_MUO_02SST.label>MTL-V-33P2 초능력자용 슈트</Apparel_MUO_02SST.label>
+  <Apparel_MUO_02SST.description>초능력자를 위해 맞춤 제작된 슈트입니다. 신경열을 효율적으로 냉각하기 위해 전열성이 높은 소재로 제작되어 방어력이나 통증 내성, 운동 능력 상승 효과는 전투용 슈트보다 떨어집니다.</Apparel_MUO_02SST.description>
+
+  <Apparel_MUO_04SST.label>MTL-V-33P2 초능력자용 슈트(하네스)</Apparel_MUO_04SST.label>
+  <Apparel_MUO_04SST.description>초능력자용 슈트에 하네스를 장착한 형태입니다. 속옷 레이어까지 점유하지만 보정치가 더 높습니다.</Apparel_MUO_04SST.description>
+
+  <Apparel_MUO_01Leo.label>MTL-V-231 보호 슈트</Apparel_MUO_01Leo.label>
+  <Apparel_MUO_01Leo.description>레오타드 형태의 방호 슈트입니다. 운동 능력과 조작 기능을 미세하게 향상시키며 출혈 억제 효과가 있습니다.</Apparel_MUO_01Leo.description>
+  <Apparel_MUO_01LeoH.label>MTL-V-231 보호 슈트(하네스)</Apparel_MUO_01LeoH.label>
+  <Apparel_MUO_01LeoH.description>레오타드 형태의 방호 슈트입니다. 하네스를 추가하여 성능이 강화되었습니다.</Apparel_MUO_01LeoH.description>
+
+  <Apparel_MUO_01LeoC.label>MTL-V-232 보호 슈트</Apparel_MUO_01LeoC.label>
+  <Apparel_MUO_01LeoC.description>레오타드 형태의 방호 슈트입니다. 운동 능력과 조작 기능을 미세하게 향상시키며 출혈 억제 효과가 있습니다.</Apparel_MUO_01LeoC.description>
+  <Apparel_MUO_01LeoCH.label>MTL-V-232 보호 슈트(하네스)</Apparel_MUO_01LeoCH.label>
+  <Apparel_MUO_01LeoCH.description>레오타드 형태의 방호 슈트입니다. 하네스를 추가하여 성능이 강화되었습니다.</Apparel_MUO_01LeoCH.description>
+
+  <Apparel_MUO_01UnderWear.label>MTL-V-42 스포츠웨어</Apparel_MUO_01UnderWear.label>
+  <Apparel_MUO_01UnderWear.description>속옷으로도 착용 가능한 스포츠웨어입니다.</Apparel_MUO_01UnderWear.description>
+  <Apparel_MUO_02UnderWear.label>MTL-V-42 스포츠웨어(남색 양말)</Apparel_MUO_02UnderWear.label>
+  <Apparel_MUO_02UnderWear.description>속옷으로도 착용 가능한 스포츠웨어입니다.</Apparel_MUO_02UnderWear.description>
+  <Apparel_MUO_03UnderWear.label>MTL-V-42 스포츠웨어(흰 양말)</Apparel_MUO_03UnderWear.label>
+  <Apparel_MUO_03UnderWear.description>속옷으로도 착용 가능한 스포츠웨어입니다.</Apparel_MUO_03UnderWear.description>
+  <Apparel_MUO_04UnderWear.label>MTL-V-42 스포츠웨어(스타킹)</Apparel_MUO_04UnderWear.label>
+  <Apparel_MUO_04UnderWear.description>속옷으로도 착용 가능한 스포츠웨어입니다.</Apparel_MUO_04UnderWear.description>
+
+  <Apparel_MUO_05UnderWear.label>MTL-V-99 속옷(흰색)</Apparel_MUO_05UnderWear.label>
+  <Apparel_MUO_05UnderWear.description>매혹적인 하의 속옷입니다.</Apparel_MUO_05UnderWear.description>
+  <Apparel_MUO_06UnderWear.label>MTL-V-99 속옷(검은색)</Apparel_MUO_06UnderWear.label>
+  <Apparel_MUO_06UnderWear.description>매혹적인 하의 속옷입니다.</Apparel_MUO_06UnderWear.description>
+
+  <VR_Apparel_ShieldDevice.label>MTL-V-35 보호막 장치</VR_Apparel_ShieldDevice.label>
+  <VR_Apparel_ShieldDevice.description>척추에 연결하여 비질 본체를 생체 배터리로 활용하는 보호막 발생 장치입니다. 사격 무기와 병행해서 사용할 수 있습니다.</VR_Apparel_ShieldDevice.description>
+
+  <VR_Apparel_ShieldDevice.label>MTL-V-38 은신 장치</VR_Apparel_ShieldDevice.label>
+  <VR_Apparel_ShieldDevice.description>척추에 연결하여 비질 본체를 생체 배터리로 활용하는 광학 미채 장치입니다.</VR_Apparel_ShieldDevice.description>
+
+  <Vigil_race.label>비질</Vigil_race.label>
+  <Vigil_race.description>어느 방위 산업체에서 생산된 치안 유지, 경비 및 군사용 클론 종족입니다. 극도로 효율적인 전투 수행 능력을 발휘합니다.\n\n펌웨어 업데이트를 통해 잠재 능력을 단계적으로 향상시킬 수 있습니다. 또한 오버클럭 능력을 보유하고 있어 피로와 허기를 대가로 짧은 시간 동안 강력한 전투력을 발휘합니다. EMP 피해를 입으면 펌웨어가 육체 제어에 혼선을 일으켜 일시적으로 능력이 저하됩니다.</Vigil_race.description>
+  <Vigil_race.tools.0.label>근접 격투</Vigil_race.tools.0.label>
+  <Vigil_race.tools.1.label>근접 격투</Vigil_race.tools.1.label>
+
+  <VR_VigilRadio.label>비질 계약용 단말기</VR_VigilRadio.label>
+  <VR_VigilRadio.description>비질을 정착지에 모집하기 위해 계약을 체결하는 단말기입니다. 계약에는 은(Silver)이 필요합니다.</VR_VigilRadio.description>
+
+  <VR_Unfinishedcontract.label>작성 중인 계약서</VR_Unfinishedcontract.label>
+  <VR_Unfinishedcontract.description>작성 중인 계약서입니다.</VR_Unfinishedcontract.description>
+
+  <VR_NeuralCharger.label>휴대용 신경 충전기</VR_NeuralCharger.label>
+  <VR_NeuralCharger.description>신경 충전기와 동일한 효과를 제공하는 소형 장치입니다.</VR_NeuralCharger.description>
+  <VR_NeuralCharger.ingestible.ingestCommandString>{0} 사용</VR_NeuralCharger.ingestible.ingestCommandString>
+  <VR_NeuralCharger.ingestible.ingestReportString>{0} 사용 중</VR_NeuralCharger.ingestible.ingestReportString>
+
+  <VR_BioPodspeed.label>생체 개조 가속 프로그램</VR_BioPodspeed.label>
+  <VR_BioPodspeed.description>비질의 신체 상태를 생체 개조에 최적화하여 개조 주기를 가속화합니다.</VR_BioPodspeed.description>
+  <VR_BioPodspeed.ingestible.ingestCommandString>{0} 사용</VR_BioPodspeed.ingestible.ingestCommandString>
+  <VR_BioPodspeed.ingestible.ingestReportString>{0} 사용 중</VR_BioPodspeed.ingestible.ingestReportString>
+</LanguageData>

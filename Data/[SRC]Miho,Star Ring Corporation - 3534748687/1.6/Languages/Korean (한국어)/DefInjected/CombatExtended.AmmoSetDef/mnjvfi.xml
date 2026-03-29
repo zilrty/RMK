@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AmmoSet_120mmMortarShell.label>120mm 박격포탄</AmmoSet_120mmMortarShell.label>
+  <AmmoSet_12GaugeCharged_SRC.label>12게이지 전하탄</AmmoSet_12GaugeCharged_SRC.label>
+  <AmmoSet_20x102mmSRC.label>20x102mm SRC</AmmoSet_20x102mmSRC.label>
+  <AmmoSet_20x105mmCharged_SRC.label>20x105mm 전하탄</AmmoSet_20x105mmCharged_SRC.label>
+  <AmmoSet_220mmRocket_SRC.label>220mm 로켓</AmmoSet_220mmRocket_SRC.label>
+  <AmmoSet_25x150mmSRC.label>25x150mm SRC</AmmoSet_25x150mmSRC.label>
+  <AmmoSet_338Lapua_SRC.label>.338 라푸아 매그넘</AmmoSet_338Lapua_SRC.label>
+  <AmmoSet_48x28mmTalon.label>4.8x28mm 탈론</AmmoSet_48x28mmTalon.label>
+  <AmmoSet_40x53mmGrenade_SRC.label>40x53mm 유탄</AmmoSet_40x53mmGrenade_SRC.label>
+  <AmmoSet_45x255mmFMRoundShell.label>45x255mm FM 라운드 포탄</AmmoSet_45x255mmFMRoundShell.label>
+  <AmmoSet_4mmRailgun_S.label>4mm 레일건 (S)</AmmoSet_4mmRailgun_S.label>
+  <AmmoSet_4mmRailgun_L.label>4mm 레일건 (L)</AmmoSet_4mmRailgun_L.label>
+  <AmmoSet_57x295mmR_SRC.label>57x295mmR SRC</AmmoSet_57x295mmR_SRC.label>
+  <AmmoSet_62x102mmRail.label>6.2x102mm 레일건 탄약</AmmoSet_62x102mmRail.label>
+  <AmmoSet_62x102mmRail_Plus.label>6.2x102mm 레일건 탄약+</AmmoSet_62x102mmRail_Plus.label>
+  <AmmoSet_7x35mmCharged.label>7x35mm 전하탄</AmmoSet_7x35mmCharged.label>
+  <AmmoSet_875x52mmRail.label>8.75x52mm 레일건 탄약</AmmoSet_875x52mmRail.label>
+  <AmmoSet_72x58mmRail.label>8.75x52mm 레일건 탄약 (72x58mm)</AmmoSet_72x58mmRail.label> <AmmoSet_8x35mmCharged_SRC.label>8x35mm 전하탄 SRC</AmmoSet_8x35mmCharged_SRC.label>
+  <AmmoSet_8x50mmCharged_SRC.label>8x50mm 전하탄 SRC</AmmoSet_8x50mmCharged_SRC.label>
+  <AmmoSet_8x50mmCharged_SRC_CA.label>8x50mm 전하탄 SRC_CA</AmmoSet_8x50mmCharged_SRC_CA.label>
+  <AmmoSet_92x352mmRail.label>92x352mm 레일건 탄약</AmmoSet_92x352mmRail.label>
+  <AmmoSet_A7_SRCPlasma.label>SRC 플라즈마 A7</AmmoSet_A7_SRCPlasma.label>
+  <AmmoSet_A121_SRCPlasma.label>SRC 플라즈마 A121</AmmoSet_A121_SRCPlasma.label>
+  <AmmoSet_556x45mmNATO_SRC.label>5.56x45mm NATO SRC</AmmoSet_556x45mmNATO_SRC.label>
+  <AmmoSet_23x75mmR_SRC.label>23x75mmR</AmmoSet_23x75mmR_SRC.label>
+  <AmmoSet_Volcano.label>볼케이노</AmmoSet_Volcano.label>
+  <AmmoSet_SmartLight_SRC.label>스마트 탄약 (경형)</AmmoSet_SmartLight_SRC.label>
+  <AmmoSet_SmartHeavy_SRC.label>스마트 탄약 (중형)</AmmoSet_SmartHeavy_SRC.label>
+</LanguageData>

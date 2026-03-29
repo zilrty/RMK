@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MechArmor.label>메카 장갑</MechArmor.label>
+  <SR_HeavyMechArmor.label>중형 메카 장갑</SR_HeavyMechArmor.label>
+
+  <Inertarmor.label>계층형 복합 장갑</Inertarmor.label>
+  <InertarmorA.label>"플레이트 아머 III" 중형 폭발 반응 장갑</InertarmorA.label>
+
+  <SR_AmmoRack.label>탄약고</SR_AmmoRack.label>
+</LanguageData>

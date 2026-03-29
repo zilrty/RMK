@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Wingjump_Aliaile.label>날개 도약</Wingjump_Aliaile.label>
+  <Wingjump_Aliaile.description>날개를 펼쳐 비상합니다.</Wingjump_Aliaile.description>
+  <Wingjump_Aliaile.verbProperties.label>도약</Wingjump_Aliaile.verbProperties.label>
+  <AR_bahuA.label>수호의 축복</AR_bahuA.label>
+  <AR_bahuA.description>주변 아군을 축복하여 출혈, 통증, 받는 피해를 경감시키고 지속 전투 능력을 향상시킵니다.</AR_bahuA.description>
+  <AR_Expelliarmus.label>무장 해제</AR_Expelliarmus.label>
+  <AR_Expelliarmus.description>아주 짧은 시간 동안 팔의 근육을 이완시켜, 목표가 들고 있는 무기를 떨어뜨리게 합니다.</AR_Expelliarmus.description>
+  <AR_healing.label>치유의 축복</AR_healing.label>
+  <AR_healing.description>대상자의 상처를 봉합하고 일정 시간 동안 회복 속도를 높여주는 강화 효과를 부여합니다.</AR_healing.description>
+  <AR_Stupefy.label>섬광의 화살</AR_Stupefy.label>
+  <AR_Stupefy.description>대상을 실신시키는 날카로운 화살을 발사합니다. 목표의 체격에 따라 실신시키기까지 여러 번의 타격이 필요할 수 있습니다.</AR_Stupefy.description>
+  <AR_MecBuff.label>기계 축복</AR_MecBuff.label>
+  <AR_MecBuff.description>기계를 축복하고 강화하는 오라를 방출하는 발광체를 지정된 위치에 설치합니다.</AR_MecBuff.description>
+  <AR_AngelsHug.label>평온의 포옹</AR_AngelsHug.label>
+  <AR_AngelsHug.description>상대를 부드럽게 감싸 안고 정신적인 안정을 주는 말을 속삭여 기분을 소폭 향상시킵니다.</AR_AngelsHug.description>
+  <AR_AngelsKiss.label>천사의 입맞춤</AR_AngelsKiss.label>
+  <AR_AngelsKiss.description>정신 붕괴 상태인 동료를 정신적 작용이 담긴 입맞춤으로 달랩니다. 대상은 정신 붕괴에서 즉시 벗어나지만 잠시 의식이 저하되므로, 심각한 정신 붕괴 상태에 사용하는 것이 좋습니다.</AR_AngelsKiss.description>
+  <AR_IbitsuPSI.label>뒤틀린 정신 감응</AR_IbitsuPSI.label>
+  <AR_IbitsuPSI.description>범위 내 피아 구분 없이 모든 대상의 정신 감응력을 강제로 향상시킵니다. 강압적인 방식을 사용하기에 통증을 유발합니다.</AR_IbitsuPSI.description>
+  <AR_restoration.label>치료 촉진</AR_restoration.label>
+  <AR_restoration.description>상처 회복 속도와 면역력 획득 속도를 향상시킵니다.</AR_restoration.description>
+  <AR_Sleep.label>수면 유도</AR_Sleep.label>
+  <AR_Sleep.description>대상에게 급격한 피로감을 주어 잠들게 합니다.</AR_Sleep.description>
+  <AR_fireweak.label>불꽃의 낙인</AR_fireweak.label>
+  <AR_fireweak.description>범위 내 대상의 화염 저항력과 발화점을 대폭 낮추며, 100%를 초과하는 신체 부위 능력을 100%까지 강제로 저하시킵니다. 또한 방어력도 약간 감소시킵니다.</AR_fireweak.description>
+  <AR_FireSpew.label>정화의 불꽃</AR_FireSpew.label>
+  <AR_FireSpew.description>손바닥에서 불길을 내뿜습니다.</AR_FireSpew.description>
+  <AR_firebeam.label>심판의 불꽃</AR_firebeam.label>
+  <AR_firebeam.description>대상을 증발시킬 정도로 강력한 화염 탄환을 발사합니다.</AR_firebeam.description>
+  <AR_BulletShield.label>불꽃의 수호</AR_BulletShield.label>
+  <AR_BulletShield.description>외부의 투사체만을 차단하는 강력한 보호막을 생성합니다. 보호막 내부는 산소 부족이나 추위로부터 보호받습니다.</AR_BulletShield.description>
+  <AR_bahuO.label>용기의 등불</AR_bahuO.label>
+  <AR_bahuO.description>주변 아군을 축복하여 사격 및 격투 속도와 정확도를 향상시킵니다.</AR_bahuO.description>
+  <AR_MEC_GRN.label>수류탄 투척</AR_MEC_GRN.label>
+  <AR_MEC_GRN.description>수류탄을 투척합니다.</AR_MEC_GRN.description>
+  <AR_MEC_GRNB.label>집속 수류탄 투척</AR_MEC_GRNB.label>
+  <AR_MEC_GRNB.description>집속 수류탄을 투척합니다.</AR_MEC_GRNB.description>
+  <AR_Osezi.label>황홀한 찬사</AR_Osezi.label>
+  <AR_Osezi.description>찬사를 건네 상대를 기분 좋게 만듭니다. 이 능력은 사교의 와인을 복용한 상태에서만 사용할 수 있습니다.</AR_Osezi.description>
+  <AR_EXOOverClock.label>강습 전투 모드</AR_EXOOverClock.label>
+  <AR_EXOOverClock.description>외골격의 전투 모드를 가동하여 이동 능력과 사격 안정성 등을 대폭 높입니다. 인간의 한계를 넘는 외골격의 출력을 견뎌야 하므로 착용자는 극심한 피로를 느끼게 됩니다.</AR_EXOOverClock.description>
+  <AR_Grenade_launcher.label>유탄 발사</AR_Grenade_launcher.label>
+  <AR_Grenade_launcher.description>착탄 즉시 폭발하는 유탄을 발사합니다.</AR_Grenade_launcher.description>
+  <AR_Grenade_launcherB.label>소총 유탄 발사</AR_Grenade_launcherB.label>
+  <AR_Grenade_launcherB.description>착탄 후 폭발하는 소형 유탄을 발사합니다.</AR_Grenade_launcherB.description>
+  <AR_OpticalInvisibility.label>광학 미채</AR_OpticalInvisibility.label>
+  <AR_OpticalInvisibility.description>미채 망토의 광학 은신 기능을 가동하여 잠시 투명해집니다. 은신 중에는 이동 속도가 저하되며 EMP 공격에 취약해집니다.</AR_OpticalInvisibility.description>
+  <AR_PSYOboeru.label>각성</AR_PSYOboeru.label>
+  <AR_PSYOboeru.description>일시적으로 정신 감응력을 높입니다. 초능력이 없는 자는 정신력 증폭을 획득합니다. 알리아일이 사용할 경우 효과 지속 시간 동안 머리 위에 빛의 고리가 나타납니다.</AR_PSYOboeru.description>
+</LanguageData>

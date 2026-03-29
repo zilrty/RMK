@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ColonistAbsorbedByDeliria_Abhorrent.stages.0.label>정착민 흡수됨</ColonistAbsorbedByDeliria_Abhorrent.stages.0.label>
+  <ColonistAbsorbedByDeliria_Abhorrent.stages.0.description>우리 중 한 명이 델리리아에게 흡수되었어. 다음은 내 차례가 되는 건 아닐까?</ColonistAbsorbedByDeliria_Abhorrent.stages.0.description>
+
+  <ColonistAbsorbedByDeliria_Prefer.stages.0.label>정착민 흡수됨</ColonistAbsorbedByDeliria_Prefer.stages.0.label>
+  <ColonistAbsorbedByDeliria_Prefer.stages.0.description>우리 중 한 명이 델리리아에게 흡수되었어. 다음은 내 차례였으면 좋겠네.</ColonistAbsorbedByDeliria_Prefer.stages.0.description>
+
+  <FeelLove_OriginLover.stages.0.label>사랑받는 기분</FeelLove_OriginLover.stages.0.label>
+  <FeelLove_OriginLover.stages.0.description>아... 사랑받고 있다는 게 느껴져.</FeelLove_OriginLover.stages.0.description>
+
+  <FeelLove_Lover.stages.0.label>사랑받는 기분</FeelLove_Lover.stages.0.label>
+  <FeelLove_Lover.stages.0.description>아... 사랑받고 있다는 게 느껴져.</FeelLove_Lover.stages.0.description>
+</LanguageData>

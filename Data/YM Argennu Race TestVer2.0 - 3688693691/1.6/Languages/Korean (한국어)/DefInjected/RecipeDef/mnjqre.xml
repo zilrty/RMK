@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_SilverTea.label>실버 티 제조</Make_SilverTea.label>
+  <Make_SilverTea.description>말린 은향초 잎으로 실버 티를 만듭니다.</Make_SilverTea.description>
+  <Make_SilverTea.jobString>실버 티를 우려내는 중.</Make_SilverTea.jobString>
+  
+  <Make_SilverTea_Bulk.label>실버 티 제조 (x4)</Make_SilverTea_Bulk.label>
+  <Make_SilverTea_Bulk.description>말린 은향초 잎으로 실버 티 4잔을 만듭니다.</Make_SilverTea_Bulk.description>
+  <Make_SilverTea_Bulk.jobString>실버 티를 대량으로 우려내는 중.</Make_SilverTea_Bulk.jobString>
+
+  <Make_LunaCoffee.label>루나 커피 제조</Make_LunaCoffee.label>
+  <Make_LunaCoffee.description>월향두로 활력을 돋우는 커피를 만듭니다.</Make_LunaCoffee.description>
+  <Make_LunaCoffee.jobString>루나 커피를 내리는 중.</Make_LunaCoffee.jobString>
+  
+  <Make_LunaCoffee_Bulk.label>루나 커피 제조 (x4)</Make_LunaCoffee_Bulk.label>
+  <Make_LunaCoffee_Bulk.description>월향두로 활력을 돋우는 커피 4잔을 만듭니다.</Make_LunaCoffee_Bulk.description>
+  <Make_LunaCoffee_Bulk.jobString>루나 커피를 대량으로 내리는 중.</Make_LunaCoffee_Bulk.jobString>
+  
+  <Make_LunaCaffeOLait.label>루나 카페오레 제조</Make_LunaCaffeOLait.label>
+  <Make_LunaCaffeOLait.description>월향두와 우유로 맛있는 카페오레를 만듭니다.</Make_LunaCaffeOLait.description>
+  <Make_LunaCaffeOLait.jobString>루나 카페오레를 만드는 중.</Make_LunaCaffeOLait.jobString>
+  
+  <Make_LunaCaffeOLait_Bulk.label>루나 카페오레 제조 (x4)</Make_LunaCaffeOLait_Bulk.label>
+  <Make_LunaCaffeOLait_Bulk.description>월향두와 우유로 맛있는 카페오레 4잔을 만듭니다.</Make_LunaCaffeOLait_Bulk.description>
+  <Make_LunaCaffeOLait_Bulk.jobString>루나 카페오레를 대량으로 만드는 중.</Make_LunaCaffeOLait_Bulk.jobString>
+
+  <Make_AgHighNutritionMeal.label>압축 고영양식 제조</Make_AgHighNutritionMeal.label>
+  <Make_AgHighNutritionMeal.description>아르젠느용 고영양식을 합성합니다.</Make_AgHighNutritionMeal.description>
+  <Make_AgHighNutritionMeal.jobString>압축 고영양식을 만드는 중.</Make_AgHighNutritionMeal.jobString>
+  
+  <Make_ArgennuLiberationKey.label>자유를 향한 열쇠 제작</Make_ArgennuLiberationKey.label>
+  <Make_ArgennuLiberationKey.description>책으로 위장된, 아르젠느를 해방하기 위한 코드를 작성합니다.</Make_ArgennuLiberationKey.description>
+  <Make_ArgennuLiberationKey.jobString>자유를 향한 열쇠 제작 중.</Make_ArgennuLiberationKey.jobString>
+
+  <Recipe_ArgenneNoirNewMoonReconstruction.label>신경 재구축 (신월의 각성)</Recipe_ArgenneNoirNewMoonReconstruction.label>
+  <Recipe_ArgenneNoirNewMoonReconstruction.description>순흑 개체의 신경계를 재구축하여 '신월의 각성자'로 전이시키는 외과 처치입니다.</Recipe_ArgenneNoirNewMoonReconstruction.description>
+  <Recipe_ArgenneNoirNewMoonReconstruction.jobString>신경 재구축 수술 중.</Recipe_ArgenneNoirNewMoonReconstruction.jobString>
+</LanguageData>

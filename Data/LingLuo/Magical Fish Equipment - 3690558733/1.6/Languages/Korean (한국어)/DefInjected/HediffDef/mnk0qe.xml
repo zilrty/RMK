@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hediff_OctopusInk.label>먹물 실명</Hediff_OctopusInk.label>
+  <Hediff_OctopusInk.description>문어 먹물로 인해 일시적으로 시력을 잃었습니다.</Hediff_OctopusInk.description>
+  <Hediff_SeaUrchin.label>성게 부착</Hediff_SeaUrchin.label>
+  <Hediff_SeaUrchin.description>생명체에게 성게가 달라붙은 상태입니다. 성게가 떨어지기 전까지 쓰러지지 않은 대상에게 지속적으로 피해를 줍니다.</Hediff_SeaUrchin.description>
+</LanguageData>

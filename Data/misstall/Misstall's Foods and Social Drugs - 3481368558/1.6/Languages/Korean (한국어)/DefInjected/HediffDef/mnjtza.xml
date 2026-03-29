@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_HediffDef_energyBarHigh.label>생존 영양바 섭취</MF_HediffDef_energyBarHigh.label>
+  <MF_HediffDef_energyBarHigh.description>생존 영양바가 매우 천천히 소화되고 있습니다. 당분간 허기를 느끼지 않으며, 포함된 각성제 성분 덕분에 기분이 좋아집니다.</MF_HediffDef_energyBarHigh.description>
+
+  <MF_Hediff_energydrinkHigh.label>에너지 보충</MF_Hediff_energydrinkHigh.label>
+  <MF_Hediff_energydrinkHigh.description>보조 음료의 효능으로 일시적으로 허기와 피로가 억제되고 기분이 고양된 상태입니다. 과다 복용 시 가벼운 부작용이 나타날 수 있습니다.</MF_Hediff_energydrinkHigh.description>
+  <MF_Hediff_energydrinkHigh.stages.0.label>효과 종료</MF_Hediff_energydrinkHigh.stages.0.label>
+  <MF_Hediff_energydrinkHigh.stages.1.label>고양됨</MF_Hediff_energydrinkHigh.stages.1.label>
+  <MF_Hediff_energydrinkHigh.stages.2.label>과잉 섭취</MF_Hediff_energydrinkHigh.stages.2.label>
+
+  <MF_Hediff_packTeaHigh.label>홍차의 효능</MF_Hediff_packTeaHigh.label>
+  <MF_Hediff_packTeaHigh.description>팩 홍차의 효능으로 피로가 약간 억제되고 기분이 조금 나아졌습니다.</MF_Hediff_packTeaHigh.description>
+
+  <MF_Hediff_SynthsweetsHigh.label>합성 캔디에 의한 각성</MF_Hediff_SynthsweetsHigh.label>
+  <MF_Hediff_SynthsweetsHigh.description>합성 캔디에 포함된 자극 성분 덕분에 피로를 조금 덜 느끼게 됩니다.</MF_Hediff_SynthsweetsHigh.description>
+
+  <MF_HediffDef_TabakoHigh.label>대용 연초 효과</MF_HediffDef_TabakoHigh.label>
+  <MF_HediffDef_TabakoHigh.description>정신을 맑게 하는 성분이 포함된 담배 유사 기호품의 영향으로 의식이 고양되었으나, 폐 기능은 약간 저하되었습니다.</MF_HediffDef_TabakoHigh.description>
+</LanguageData>

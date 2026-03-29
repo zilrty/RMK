@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_OverClock.label>오버클럭</VR_OverClock.label>
+  <VR_OverClock.description>펌웨어를 오버클럭하여 체감 시간을 대폭 단축합니다. 타인보다 빠르게 상황을 판단하고 행동할 수 있게 됩니다. 이는 신체에 큰 부담을 주기 때문에, 효과가 지속되는 동안 허기가 빠르게 지며 피로가 급격히 축적됩니다.</VR_OverClock.description>
+
+  <VRR_OpticalInvisibility.label>광학 미채</VRR_OpticalInvisibility.label>
+  <VRR_OpticalInvisibility.description>위장 망토의 광학 미채 장치를 가동하여 아주 짧은 시간 동안 투명해집니다.</VRR_OpticalInvisibility.description>
+</LanguageData>

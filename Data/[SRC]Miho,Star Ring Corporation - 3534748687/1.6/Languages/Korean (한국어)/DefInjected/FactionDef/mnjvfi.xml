@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_Faction_Pirate.label>미호 군사 조직</SR_Faction_Pirate.label>
+  <SR_Faction_Pirate.description>"미호 지상주의" 교리를 따르는 미호들로 구성된 군사 조직입니다. 이 여우들은 일반적인 해적보다 훨씬 더 위협적인 존재입니다. 이들은 스타 링 코퍼레이션(SRC)의 구식 군사 장비와 전투 드론을 대량으로 보유하고 있는데, 변방계의 다른 정착지들이 감당하기엔 지나치게 선진적인 기술력이라 이 조직 뒤에 SRC가 있다는 음모론이 돌기도 합니다. 이들의 자금력은 약탈뿐만 아니라 대규모 무역을 통해서도 유지됩니다.\n\n다만, 이들은 자신들보다 약한 세력을 박해하는 것에는 별다른 관심이 없습니다.</SR_Faction_Pirate.description>
+  <SR_Faction_Pirate.pawnSingular>미호</SR_Faction_Pirate.pawnSingular>
+  <SR_Faction_Pirate.pawnsPlural>미호들</SR_Faction_Pirate.pawnsPlural>
+  <SR_Faction_Pirate.leaderTitle>지휘관</SR_Faction_Pirate.leaderTitle>
+
+  <SR_Faction_SRC.label>미호 거대 기업 연합</SR_Faction_SRC.label>
+  <SR_Faction_SRC.description>플레이아세이드-10b에서 기원한 미호 분파가 세운 거대 기업 체제입니다. 이들의 서비스는 거의 모든 산업 분야를 아우릅니다. 이들이 보유한 최첨단 기술 중 일부는 부서진 제국에서 유래했는데, 이는 수 세기 전의 전쟁 중에 획득한 것으로 알려져 있습니다.\n\n이 복슬복슬한 여우들은 인간을 싫어하지 않으며, 대부분의 세력과 중립적인 관계를 유지합니다.</SR_Faction_SRC.description>
+  <SR_Faction_SRC.pawnSingular>미호</SR_Faction_SRC.pawnSingular>
+  <SR_Faction_SRC.pawnsPlural>미호들</SR_Faction_SRC.pawnsPlural>
+  <SR_Faction_SRC.leaderTitle>지휘관</SR_Faction_SRC.leaderTitle>
+</LanguageData>

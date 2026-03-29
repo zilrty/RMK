@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRX_whiteblood.label>인공 혈액</VRX_whiteblood.label>
+  <VRX_whiteblood.description>의약품 등을 통해 충분히 유지보수되는 동안에는 신체 능력을 높게 유지하지만, 오랫동안 방치하면 능력이 쇠퇴하여 결국 사망에 이르게 됩니다.</VRX_whiteblood.description>
+  <VRX_whiteblood.stages.0.label>양호</VRX_whiteblood.stages.0.label>
+  <VRX_whiteblood.stages.1.label>이상</VRX_whiteblood.stages.1.label>
+  <VRX_whiteblood.stages.2.label>빈사</VRX_whiteblood.stages.2.label>
+
+  <VRX_genomesoldier.label>솔저 유전자</VRX_genomesoldier.label>
+  <VRX_genomesoldier.description>전투 관련 능력은 향상되었으나 만성적인 유전 질환을 앓고 있습니다. 이를 방지하려면 정기적인 예방 접종이 필요합니다.</VRX_genomesoldier.description>
+  
+  <VRX_genesick.label>유전 질환</VRX_genesick.label>
+  <VRX_genesick.description>솔저 유전자로 인해 유발되는 유전 질환입니다. 의식과 심장 기능이 저하되며 상처 치유, 면역력, 출혈량 등에 악영향을 미칩니다.</VRX_genesick.description>
+  <VRX_genesick.comps.0.message>억제제가 유전 질환을 억제했습니다.</VRX_genesick.comps.0.message>
+
+  <VRX_genevaccine.label>유전병 억제제</VRX_genevaccine.label>
+  <VRX_genevaccine.description>유전 질환을 억제합니다.</VRX_genevaccine.description>
+
+  <VRX_Hediff_CombatCommand.label>전투 지휘</VRX_Hediff_CombatCommand.label>
+  <VRX_Hediff_CombatCommand.description>주변의 아군을 지휘하여 전투 효율을 향상시키고 있습니다.</VRX_Hediff_CombatCommand.description>
+  
+  <VRX_CombatCommandBuff.label>전투 지휘</VRX_CombatCommandBuff.label>
+  <VRX_CombatCommandBuff.description>적절한 지휘를 받아 전투 효율이 향상되었습니다.</VRX_CombatCommandBuff.description>
+
+  <VRX_CounselingHediff.label>매료됨</VRX_CounselingHediff.label>
+  <VRX_CounselingHediff.description>다정한 말을 들어 기분이 좋아졌으며, 정신 이상 임계치가 약간 낮아졌습니다.</VRX_CounselingHediff.description>
+  
+  <VRX_healingHediff.label>건강 진단</VRX_healingHediff.label>
+  <VRX_healingHediff.description>건강에 관한 조언을 듣고 있습니다. 신체 회복력이 약간 향상되었습니다.</VRX_healingHediff.description>
+</LanguageData>

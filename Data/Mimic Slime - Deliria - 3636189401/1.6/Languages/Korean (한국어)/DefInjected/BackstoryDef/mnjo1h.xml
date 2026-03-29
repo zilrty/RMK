@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MimicSlime_Childhood.title>의태 슬라임</MimicSlime_Childhood.title>
+  <MimicSlime_Childhood.titleShort>슬라임</MimicSlime_Childhood.titleShort>
+  <MimicSlime_Childhood.description>[PAWN_nameDef](은)는 의태 슬라임입니다.</MimicSlime_Childhood.description>
+
+  <MimicSlime_Adulthood.title>델리리아</MimicSlime_Adulthood.title>
+  <MimicSlime_Adulthood.titleShort>델리리아</MimicSlime_Adulthood.titleShort>
+  <MimicSlime_Adulthood.description>[PAWN_nameDef](은)는 델리리아입니다.</MimicSlime_Adulthood.description>
+
+  <MimicSlime_Survivor.titleShort>델리리아</MimicSlime_Survivor.titleShort>
+  <MimicSlime_Survivor.title>델리리아 생존자</MimicSlime_Survivor.title>
+  <MimicSlime_Survivor.description>[PAWN_nameDef](은)는 동족 중 유일한 생존자입니다. 그녀는 사냥꾼들이 시선을 돌릴 때만 움직이며 남들 눈에 띄지 않게 숨어 지내는 법을 익혔습니다.</MimicSlime_Survivor.description>
+
+  <MimicSlime_Infiltrator.titleShort>델리리아</MimicSlime_Infiltrator.titleShort>
+  <MimicSlime_Infiltrator.title>델리리아 침투요원</MimicSlime_Infiltrator.title>
+  <MimicSlime_Infiltrator.description>[PAWN_nameDef](은)는 한때 중간세계 인류에게 발견되었던 델리리아입니다. 그들은 그녀를 적진에 침투시키기 위한 병기로 활용했습니다. 하지만 누가 감히 델리리아를 온전히 통제할 수 있겠습니까? 이런 삶에 지친 그녀는 임무 도중 탈출했습니다.</MimicSlime_Infiltrator.description>
+
+  <MimicSlime_Hunter.titleShort>델리리아</MimicSlime_Hunter.titleShort>
+  <MimicSlime_Hunter.title>델리리아 사냥꾼</MimicSlime_Hunter.title>
+  <MimicSlime_Hunter.description>[PAWN_nameDef](은)는 특정 인간들을 사냥하는 델리리아입니다. 그녀에게 어떤 이들은 그 무엇과도 비교할 수 없는 맛을 선사하며, 그녀는 영원한 허기를 느낍니다.</MimicSlime_Hunter.description>
+
+  <MimicSlime_Exile.titleShort>델리리아</MimicSlime_Exile.titleShort>
+  <MimicSlime_Exile.title>델리리아 추방자</MimicSlime_Exile.title>
+  <MimicSlime_Exile.description>[PAWN_nameDef](은)는 동족에게 추방당한 델리리아입니다. 그녀는 정착할 곳을 찾지 못한 채 여러 세계를 떠돌고 있습니다.</MimicSlime_Exile.description>
+
+  <MimicSlime_Hermit.titleShort>델리리아</MimicSlime_Hermit.titleShort>
+  <MimicSlime_Hermit.title>델리리아 은둔자</MimicSlime_Hermit.title>
+  <MimicSlime_Hermit.description>[PAWN_nameDef](은)는 고립된 삶을 사는 델리리아입니다. 그녀는 동족과 인간 모두에게서 거리를 둔 채 내면의 평화만을 갈구합니다.</MimicSlime_Hermit.description>
+
+  <MimicSlime_Artist.titleShort>델리리아</MimicSlime_Artist.titleShort>
+  <MimicSlime_Artist.title>델리리아 예술가</MimicSlime_Artist.title>
+  <MimicSlime_Artist.description>[PAWN_nameDef](은)는 예술가 델리리아입니다. 그녀는 영원히 인간의 예술을 모방하지만, 결코 그것을 뛰어넘지는 못합니다.</MimicSlime_Artist.description>
+
+  <MimicSlime_Original.titleShort>델리리아</MimicSlime_Original.titleShort>
+  <MimicSlime_Original.title>최초의 델리리아</MimicSlime_Original.title>
+  <MimicSlime_Original.description>[PAWN_nameDef](은)는 아마도 가장 초기에 태어난 델리리아 중 하나일 것입니다. 그녀의 정체를 알아냈던 이들은 모두 역사의 뒤안길로 사라졌거나, 그녀의 일부가 되었습니다.</MimicSlime_Original.description>
+
+  <MimicSlime_Researcher.titleShort>델리리아</MimicSlime_Researcher.titleShort>
+  <MimicSlime_Researcher.title>델리리아 연구원</MimicSlime_Researcher.title>
+  <MimicSlime_Researcher.description>[PAWN_nameDef](은)는 인간의 운명에는 관심이 없는 델리리아입니다. 그녀의 유일한 목적은 자신의 종족이 어디에서 왔고 어디로 가야 하는지, 그 과거를 밝혀내는 것뿐입니다.</MimicSlime_Researcher.description>
+
+  <MimicSlime_Investigator.titleShort>델리리아</MimicSlime_Investigator.titleShort>
+  <MimicSlime_Investigator.title>델리리아 조사관</MimicSlime_Investigator.title>
+  <MimicSlime_Investigator.description>[PAWN_nameDef](은)는 모험을 갈구하는 델리리아입니다. 그녀는 이 변방계의 가장 어두운 비밀들을 파헤치는 위험을 무릅씁니다.</MimicSlime_Investigator.description>
+
+  <MimicSlime_Camarilla.titleShort>델리리아</MimicSlime_Camarilla.titleShort>
+  <MimicSlime_Camarilla.title>델리리아 카마릴라</MimicSlime_Camarilla.title>
+  <MimicSlime_Camarilla.description>[PAWN_nameDef](은)는 인간들 사이에 숨어 지내며 그들의 삶을 조용히 조종하는 것을 즐기는 델리리아입니다.</MimicSlime_Camarilla.description>
+
+  <MimicSlime_Sabbat.titleShort>델리리아</MimicSlime_Sabbat.titleShort>
+  <MimicSlime_Sabbat.title>델리리아 사바트</MimicSlime_Sabbat.title>
+  <MimicSlime_Sabbat.description>[PAWN_nameDef](은)는 인간들 사이에 숨는 것을 경멸하는 델리리아입니다. 그녀는 인간을 먹잇감으로 여기며 쾌락을 위해 사냥합니다.</MimicSlime_Sabbat.description>
+
+  <MimicSlime_Architect.titleShort>델리리아</MimicSlime_Architect.titleShort>
+  <MimicSlime_Architect.title>델리리아 건축가</MimicSlime_Architect.title>
+  <MimicSlime_Architect.description>[PAWN_nameDef](은)는 건축가 델리리아입니다. 그녀는 모든 생명체에게 적합한 작품을 만들지 못하기 때문에, 그녀가 지은 건물들은 실질적인 용도가 전혀 없습니다.</MimicSlime_Architect.description>
+
+  <MimicSlime_Chef.titleShort>델리리아</MimicSlime_Chef.titleShort>
+  <MimicSlime_Chef.title>델리리아 요리사</MimicSlime_Chef.title>
+  <MimicSlime_Chef.description>[PAWN_nameDef](은)는 요리사 델리리아입니다. 그녀는 인간을 생으로 먹기보다 요리해서 먹는 맛을 더 선호합니다.</MimicSlime_Chef.description>
+
+  <MimicSlime_Geologist.titleShort>델리리아</MimicSlime_Geologist.titleShort>
+  <MimicSlime_Geologist.title>델리리아 지질학자</MimicSlime_Geologist.title>
+  <MimicSlime_Geologist.description>[PAWN_nameDef](은)는 지질학자 델리리아입니다. 그녀는 가끔 바위도 살아있는 것이 아닐까 생각하곤 합니다.</MimicSlime_Geologist.description>
+
+  <MimicSlime_Botanist.titleShort>델리리아</MimicSlime_Botanist.titleShort>
+  <MimicSlime_Botanist.title>델리리아 식물학자</MimicSlime_Botanist.title>
+  <MimicSlime_Botanist.description>[PAWN_nameDef](은)는 식물학자 델리리아입니다. 그녀는 종종 식물을 의태하고 싶어 하지만, 뜻대로 되지 않습니다.</MimicSlime_Botanist.description>
+
+  <MimicSlime_Zoologist.titleShort>델리리아</MimicSlime_Zoologist.titleShort>
+  <MimicSlime_Zoologist.title>델리리아 동물학자</MimicSlime_Zoologist.title>
+  <MimicSlime_Zoologist.description>[PAWN_nameDef](은)는 동물학자 델리리아입니다. 결국 인간도 동물의 일종이니까요.</MimicSlime_Zoologist.description>
+
+  <MimicSlime_Naturalist.titleShort>델리리아</MimicSlime_Naturalist.titleShort>
+  <MimicSlime_Naturalist.title>델리리아 박물학자</MimicSlime_Naturalist.title>
+  <MimicSlime_Naturalist.description>[PAWN_nameDef](은)는 박물학자 델리리아입니다. 사실 그녀의 모든 지식은 타인에게서 온 것입니다. 그 지식을 정확히 어떻게 얻었는지는... 상상에 맡기겠습니다.</MimicSlime_Naturalist.description>
+
+  <MimicSlime_Dismantler.titleShort>델리리아</MimicSlime_Dismantler.titleShort>
+  <MimicSlime_Dismantler.title>델리리아 해체업자</MimicSlime_Dismantler.title>
+  <MimicSlime_Dismantler.description>[PAWN_nameDef](은)는 메카노이드 해체업자 델리리아입니다. 델리리아는 메카나이터가 될 수 없기에, 그녀는 메카노이드를 혐오하며 모조리 찢어버리겠다고 맹세했습니다.</MimicSlime_Dismantler.description>
+
+  <MimicSlime_Doctor.titleShort>델리리아</MimicSlime_Doctor.titleShort>
+  <MimicSlime_Doctor.title>델리리아 의사</MimicSlime_Doctor.title>
+  <MimicSlime_Doctor.description>[PAWN_nameDef](은)는 의사 델리리아입니다. 사람들은 그녀의 의술을 칭송하지만, 사실 약에 슬라임의 치유 정수를 살짝 섞었을 뿐입니다.</MimicSlime_Doctor.description>
+
+  <MimicSlime_Transformed.title>델리리아</MimicSlime_Transformed.title>
+  <MimicSlime_Transformed.titleShort>델리리아</MimicSlime_Transformed.titleShort>
+  <MimicSlime_Transformed.description>[PAWN_nameDef](이)가 과거에 무엇이었든, 지금은 델리리아입니다.</MimicSlime_Transformed.description>
+
+  <MimicSlime_Queen.title>델리리아 여왕</MimicSlime_Queen.title>
+  <MimicSlime_Queen.titleShort>델리리아</MimicSlime_Queen.titleShort>
+  <MimicSlime_Queen.description>[PAWN_nameDef](은)는 델리리아의 여왕입니다.</MimicSlime_Queen.description>
+
+  <PurifiedMeltingLove.title>정화된 녹아내리는 사랑</PurifiedMeltingLove.title>
+  <PurifiedMeltingLove.titleShort>녹아내리는 사랑</PurifiedMeltingLove.titleShort>
+  <PurifiedMeltingLove.description>[PAWN_nameDef](은)는 녹아내리는 사랑이었습니다.</PurifiedMeltingLove.description>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IG_Player.label>곤충 소녀들</IG_Player.label>
+  <IG_Player.description>곤충 소녀들.</IG_Player.description>
+  <IG_Player.pawnSingular>정착민</IG_Player.pawnSingular>
+  <IG_Player.pawnsPlural>정착민들</IG_Player.pawnsPlural>
+  <IG_Player.leaderTitle>지도자</IG_Player.leaderTitle>
+</LanguageData>

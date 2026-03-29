@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rock_Yeti_Crush.label>파열</Rock_Yeti_Crush.label>
+  <Rock_Yeti_Crush.deathMessage>{0}(이)가 산산이 으깨져 죽었습니다.</Rock_Yeti_Crush.deathMessage>
+</LanguageData>

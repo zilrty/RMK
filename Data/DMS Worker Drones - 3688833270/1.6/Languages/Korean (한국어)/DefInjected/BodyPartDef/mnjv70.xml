@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WD_Circuit.label>통합 프로세서</WD_Circuit.label>
+  <WD_Battery.label>배터리</WD_Battery.label>
+  <WD_Chassis.label>차대</WD_Chassis.label>
+  <WD_Rotor.label>호버 로터</WD_Rotor.label>
+</LanguageData>

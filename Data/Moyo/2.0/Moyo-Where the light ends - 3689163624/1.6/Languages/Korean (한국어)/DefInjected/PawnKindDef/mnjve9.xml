@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HadalMoyo_DestroyerNPC.label>심해 «구축함»</HadalMoyo_DestroyerNPC.label>
+  <HadalMoyo_BattleDestroyerNPC.label>심해 «전투구축함»</HadalMoyo_BattleDestroyerNPC.label>
+  <HadalMoyo_DestroyerMeleeNPC.label>심해 전사</HadalMoyo_DestroyerMeleeNPC.label>
+  <HadalMoyo_BattleDestroyerMeleeNPC.label>심해 전사</HadalMoyo_BattleDestroyerMeleeNPC.label>
+  <HadalMoyo_CruiserNPC.label>심해 «순양함»</HadalMoyo_CruiserNPC.label>
+  <HadalMoyo_ArmoredCruiserNPC.label>심해 «장갑순양함»</HadalMoyo_ArmoredCruiserNPC.label>
+  <HadalMoyo_ShipHunterNPC.label>심해 함선 사냥꾼</HadalMoyo_ShipHunterNPC.label>
+
+  <HadalMoyo_DreadnoughtNPC.label>심해 «드레드노트»</HadalMoyo_DreadnoughtNPC.label>
+  <HadalMoyo_BattleshipNPC.label>심해 «전함»</HadalMoyo_BattleshipNPC.label>
+  <HadalMoyo_CarrierBattleship.label>심해 «항공모함»</HadalMoyo_CarrierBattleship.label>
+  <HadalMoyo_BattleshipMeleeNPC.label>심해 «전함»</HadalMoyo_BattleshipMeleeNPC.label>
+  <HadalMoyo_FlagshipNPC.label>심해 «기함»</HadalMoyo_FlagshipNPC.label>
+  <HadalMoyo_FlagshipMeleeNPC.label>심해 «기함»</HadalMoyo_FlagshipMeleeNPC.label>
+
+  <Hadal_Moyo_Wanderer.label>방랑자</Hadal_Moyo_Wanderer.label>
+  <Hadal_Moyo_Slave.label>노예</Hadal_Moyo_Slave.label>
+  <Hadal_Moyo_LostOne.label>길을 잃은 자</Hadal_Moyo_LostOne.label>
+  <HadalMoyo_SurfaceWanderer.label>방랑자</HadalMoyo_SurfaceWanderer.label>
+  <HadalMoyo_Outcast.label>방랑자</HadalMoyo_Outcast.label>
+
+  <HadalMoyo_HuClassMech.label>강철바닥 병사</HadalMoyo_HuClassMech.label>
+  <HadalMoyo_HuClassMechCannon.label>강철바닥 포병</HadalMoyo_HuClassMechCannon.label>
+  <HadalMoyo_HuClassMechSniper.label>강철바닥 저격병</HadalMoyo_HuClassMechSniper.label>
+  <HadalMoyo_ImpClassMech.label>임프</HadalMoyo_ImpClassMech.label>
+</LanguageData>

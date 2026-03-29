@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ERN_AuraeylClaws.label>손톱</ERN_AuraeylClaws.label>
+  <ERN_AuraeylClaws.labelNoun>손톱</ERN_AuraeylClaws.labelNoun>
+  <ERN_AuraeylClaws.description>자연스럽게 수납 가능한 손톱</ERN_AuraeylClaws.description>
+  <ERN_AuraeylClaws.comps.0.tools.0.label>손톱</ERN_AuraeylClaws.comps.0.tools.0.label>
+  <ERN_AuraeylZoomies.label>우다다</ERN_AuraeylZoomies.label>
+  <ERN_AuraeylZoomies.description>냥이가 우다다함.</ERN_AuraeylZoomies.description>
+  <ERN_AuraeylZoomies.stages.0.label>난 날쌔다!</ERN_AuraeylZoomies.stages.0.label>
+</LanguageData>

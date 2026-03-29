@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ERN.PrimaryColor>첫번째 색</ERN.PrimaryColor>
+  <ERN.SecondaryColor>두번째 색</ERN.SecondaryColor>
+  <ERN.FurColour>털 색</ERN.FurColour>
+  <ERN.PasteHexValue>16진수 값 붙여넣기</ERN.PasteHexValue>
+  <ERN.Hex>16진수</ERN.Hex>
+</LanguageData>

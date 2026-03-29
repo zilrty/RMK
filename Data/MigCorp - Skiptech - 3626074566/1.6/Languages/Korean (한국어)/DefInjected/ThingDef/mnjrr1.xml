@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MigcorpSkipdoor.label>믹코프 차원문</MigcorpSkipdoor.label>
+  <MigcorpSkipdoor.description>로컬 공간도약 네트워크에 접속하게 해 주는 고정형 장치입니다. 내부 배터리로도 구동할 수 있지만, 외부 전력을 공급하면 작동 지연을 없애고 공간도약 충격이라는 부작용도 방지할 수 있습니다.</MigcorpSkipdoor.description>
+  <ArchotechSkipdoor.label>초월공학 차원문</ArchotechSkipdoor.label>
+  <ArchotechSkipdoor.description>어떠한 부작용도 없이 공간도약 네트워크에 즉각 접속할 수 있게 해주는 고대 초월공학 유물입니다.</ArchotechSkipdoor.description>
+</LanguageData>

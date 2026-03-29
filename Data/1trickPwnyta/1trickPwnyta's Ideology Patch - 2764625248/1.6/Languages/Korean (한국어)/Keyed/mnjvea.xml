@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeologyPatch_MemesPrecepts>사상 가르침 및 규율</IdeologyPatch_MemesPrecepts>
+  <IdeologyPatch_Slaves>노예</IdeologyPatch_Slaves>
+  <IdeologyPatch_Practices>사상적 관습</IdeologyPatch_Practices>
+  <IdeologyPatch_Misc>기타</IdeologyPatch_Misc>
+  <IdeologyPatch_RestartRequired>(재시작 필요)</IdeologyPatch_RestartRequired>
+
+  <IdeologyPatch_DisableHumanFoodPlantThought>육식주의 사상의 '인간용 음식 재배' 생각 비활성화</IdeologyPatch_DisableHumanFoodPlantThought>
+  <IdeologyPatch_DryadWanderRadius>나무지기의 방황 반경을 요정 나무의 건물 건설 반경으로 제한</IdeologyPatch_DryadWanderRadius>
+  <IdeologyPatch_PrisonerConversionLetterJumpToPrisoner>포로 개종 알림에서 해당 포로 위치로 바로가기 추가</IdeologyPatch_PrisonerConversionLetterJumpToPrisoner>
+  <IdeologyPatch_PruningTime>요정 나무 가지치기 중 욕구 수치(허기 등) 무시 방지</IdeologyPatch_PruningTime>
+  <IdeologyPatch_ResearchMissingMemes>특정 가르침이 필요한 연구 포함 시 출력되는 경고 비활성화</IdeologyPatch_ResearchMissingMemes>
+  <IdeologyPatch_RoleChangeUseUntaken>역할 변경 창에서 비어있는 역할을 자동으로 선택</IdeologyPatch_RoleChangeUseUntaken>
+  <IdeologyPatch_BloodfeedingCorpsesDontCare>흡혈 가르침에 '시체: 상관없음' 규율 추가</IdeologyPatch_BloodfeedingCorpsesDontCare>
+  <IdeologyPatch_PremaritalSex>육체적 사랑 규율의 기본값을 '자유'로 설정</IdeologyPatch_PremaritalSex>
+  <IdeologyPatch_FemaleNudity>여성 의복 규율의 기본값을 '바지'로 설정</IdeologyPatch_FemaleNudity>
+  <IdeologyPatch_PantsOnly>'최대 바지까지' 규율의 명칭을 '바지만 허용'으로 변경</IdeologyPatch_PantsOnly>
+  <IdeologyPatch_FungusPreferredDisablesDarkThought>'버섯: 선호' 규율 시 어둠으로 인한 기분 패널티 비활성화</IdeologyPatch_FungusPreferredDisablesDarkThought>
+  <IdeologyPatch_DarklightDefault>관련 규율이 있을 경우 새로 건설하는 조명의 기본값을 암광으로 설정</IdeologyPatch_DarklightDefault>
+  <IdeologyPatch_RitualCooldownMessage>재사용 패널티 없이 의례를 다시 거행할 수 있을 때 메시지 표시</IdeologyPatch_RitualCooldownMessage>
+  <IdeologyPatch_LookChangeDesiredFix>바이오테크 활성화 시에도 '외형 변경 희망' 생각 발생 허용</IdeologyPatch_LookChangeDesiredFix>
+  <IdeologyPatch_NegativeApparelDesire>사상이 선호하는 의복이라면 '불쾌한' 의복이라도 자동 착용</IdeologyPatch_NegativeApparelDesire>
+  <IdeologyPatch_RelicsCollectedNotAgain>초월연결체 새 정착지에 유물을 모두 가져와도 기분 보너스가 중복 발동되지 않음</IdeologyPatch_RelicsCollectedNotAgain>
+  <IdeologyPatch_ForbidArchonexusCorpses>초월연결체 구조물 근처에 생성되는 시체를 자동으로 상호작용 금지</IdeologyPatch_ForbidArchonexusCorpses>
+  <IdeologyPatch_FactionRelationAdjustment>초기 적대 세력과의 관계를 자연적인 우호도 범위 내로 조정</IdeologyPatch_FactionRelationAdjustment>
+
+  <IdeologyPatch_SlavesArentQuestLodgers>노예를 퀘스트 관련 방문객으로 계산하지 않음</IdeologyPatch_SlavesArentQuestLodgers>
+  <IdeologyPatch_SlavesWearHumanLeather>노예는 싫어하더라도 인피로 만든 노예용 장비를 착용함</IdeologyPatch_SlavesWearHumanLeather>
+  <IdeologyPatch_SlavesCantRunWild>노예가 야생 상태로 변하지 않음</IdeologyPatch_SlavesCantRunWild>
+
+  <IdeologyPatch_PaintableIdeoFloors>천 소재가 아닌 모든 사상 전용 바닥 및 타일에 페인트칠 허용</IdeologyPatch_PaintableIdeoFloors>
+  <IdeologyPatch_SubstructureOverlayOptions>항상 하부 구조 오버레이 표시 허용</IdeologyPatch_SubstructureOverlayOptions>
+
+  <IdeologyPatch_RitualCanBePerformedAgain>이제 패널티 없이 {0} 의례를 다시 거행할 수 있습니다.</IdeologyPatch_RitualCanBePerformedAgain>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IZ_Valkyrie_Ally.label>발키리</IZ_Valkyrie_Ally.label>
+  <IZ_Valkyrie_Ally.description>어떤 신의 권속으로 소환된 발키리입니다. 그녀는 평소 유니콘 동료들을 이끌며 구원과 신성한 가르침을 전파하고, 하늘에서 별을 관측하며 사악한 용 바하무트를 사냥합니다.\n\n발키리는 전투를 위한 종속자로 태어났기에 감정이 거의 없습니다. 하지만 하급 유니콘들과 신체 구조 면에서 왜 이렇게 큰 차이가 나는지는 항상 의문입니다.</IZ_Valkyrie_Ally.description>
+  <IZ_Valkyrie_Ally.tools.0.label>심판의 검</IZ_Valkyrie_Ally.tools.0.label>
+  <IZ_Valkyrie_Ally.tools.1.label>심판의 검</IZ_Valkyrie_Ally.tools.1.label>
+
+  <IZ_Valkyrie.label>발키리</IZ_Valkyrie.label>
+  <IZ_Valkyrie.description>어떤 신의 권속으로 소환된 발키리입니다. 그녀는 평소 유니콘 동료들을 이끌며 구원과 신성한 가르침을 전파하고, 하늘에서 별을 관측하며 사악한 용 바하무트를 사냥합니다.\n\n발키리는 전투를 위한 종속자로 태어났기에 감정이 거의 없습니다. 하지만 하급 유니콘들과 신체 구조 면에서 왜 이렇게 큰 차이가 나는지는 항상 의문입니다.</IZ_Valkyrie.description>
+  <IZ_Valkyrie.tools.0.label>심판의 검</IZ_Valkyrie.tools.0.label>
+  <IZ_Valkyrie.tools.1.label>심판의 검</IZ_Valkyrie.tools.1.label>
+
+  <VK_BalanceJudgment.label>심판의 천칭</VK_BalanceJudgment.label>
+  <VK_BalanceJudgment.description>시련을 불러오는 천칭입니다. 사용 시 매우 강력한 보스가 소환됩니다.</VK_BalanceJudgment.description>
+  <VK_BalanceJudgment.comps.0.useLabel>활성화</VK_BalanceJudgment.comps.0.useLabel>
+
+  <VK_HolyBall.label>성스러운 구</VK_HolyBall.label>
+  <VK_HolyBall.description>발키리가 당신을 인정했다는 증표입니다. 사용 시 아군 발키리를 소환합니다.</VK_HolyBall.description>
+  <VK_HolyBall.comps.0.useLabel>활성화</VK_HolyBall.comps.0.useLabel>
+
+  <VK_GoldenTrainGate.label>황금 열차 관문</VK_GoldenTrainGate.label>
+  <VK_BellBerserk.label>광란의 종</VK_BellBerserk.label>
+  
+  <VK_ValkyrieTrophy.label>발키리 트로피</VK_ValkyrieTrophy.label>
+  <VK_ValkyrieTrophy.description>발키리조차 상황을 통제할 수 없게 되면, 신들이 직접 개입할 것입니다.</VK_ValkyrieTrophy.description>
+
+  <VK_GoldenTrain.label>황금 열차</VK_GoldenTrain.label>
+  <VK_HolyBomb.label>성스러운 폭탄</VK_HolyBomb.label>
+</LanguageData>

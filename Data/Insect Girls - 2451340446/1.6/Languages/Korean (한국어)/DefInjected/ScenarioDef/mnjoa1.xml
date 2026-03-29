@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IG_PlayerFactionThree.label>끝은 새로운 시작</IG_PlayerFactionThree.label>
+  <IG_PlayerFactionThree.description>&lt;color=#FFBB77>◈이야기&lt;/color&gt;
+수송 포드로 이루어진 검은 구름이 하늘을 가리며 지역의 고요함을 깨트렸습니다.
+
+한 친절한 남자가 곤충 자매들을 구한 지 얼마 되지 않아, 나쁜 의도를 가진 불량배들도 "방문"하기를 원했습니다.
+그들은 박격포탄이 머리 위로 떨어지기 전에 서둘러 짐을 싸 농가를 떠났습니다.
+
+&lt;color=#f5cae6>◈메모&lt;/color>
+1. 이 시나리오는 "추락"의 세 남자 버전과 유사합니다.
+2. 그들이 무기를 잃었을까요? 다행히... 아니군요~ 그들에겐 단검, 리볼버, 소총이 있습니다.
+3. 자원 중에는 부활의 물약도 한 병 포함되어 있습니다.</IG_PlayerFactionThree.description>
+  <IG_PlayerFactionThree.scenario.summary>세 사람은 곤충 소녀의 주거지로 들어와 이미 끝난 이야기를 이어나갔습니다.</IG_PlayerFactionThree.scenario.summary>
+  <IG_PlayerFactionThree.scenario.name>끝은 새로운 시작</IG_PlayerFactionThree.scenario.name>
+  <IG_PlayerFactionThree.scenario.description>&lt;color=#FFBB77>◈이야기&lt;/color>
+수송 포드로 이루어진 검은 구름이 하늘을 가리며 지역의 고요함을 깨트렸습니다.
+
+한 친절한 남자가 곤충 자매들을 구한 지 얼마 되지 않아, 나쁜 의도를 가진 불량배들도 "방문"하기를 원했습니다.
+그들은 박격포탄이 머리 위로 떨어지기 전에 서둘러 짐을 싸 농가를 떠났습니다.
+
+&lt;color=#f5cae6>◈메모&lt;/color>
+1. 이 시나리오는 "추락"의 세 남자 버전과 유사합니다.
+2. 그들이 무기를 잃었을까요? 다행히... 아니군요~ 그들에겐 단검, 리볼버, 소총이 있습니다.
+3. 자원 중에는 부활의 물약도 한 병 포함되어 있습니다.</IG_PlayerFactionThree.scenario.description>
+  <IG_PlayerFactionThree.scenario.summary>세 사람은 곤충 소녀의 주거지로 들어와 이미 끝난 이야기를 이어나갔습니다.</IG_PlayerFactionThree.scenario.summary>
+  <IG_PlayerFactionThree.scenario.parts.0.text>&lt;color=#FFBB77>◈이야기&lt;/color>
+해적들은 결국 친절한 남자와 곤충 소녀들이 살던 농가를 점렴했습니다.
+  
+친절한 남자와 곤충 소녀들에게 있어, 물건을 잃는 것 쯤은 아무것도 아닙니다.
+게다가 과거에는 더 어려운 일도 겪었지만, 남자와 곤충 소녀들은 살아남았습니다.</IG_PlayerFactionThree.scenario.parts.0.text>
+</LanguageData>

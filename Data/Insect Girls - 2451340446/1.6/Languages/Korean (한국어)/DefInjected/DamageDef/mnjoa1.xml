@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Damage_baier.label>곤충옥</Damage_baier.label>
+  <Damage_baier.deathMessage>{0}(이)가 곤충옥에 맞아 사망했습니다.</Damage_baier.deathMessage>
+  <Damage_kuoer.label>암브로시아</Damage_kuoer.label>
+  <Damage_kuoer.deathMessage>{0}(이)가 암브로시아에 맞아 사망했습니다.</Damage_kuoer.deathMessage>
+  <Damage_buer.label>맥주</Damage_buer.label>
+  <Damage_buer.deathMessage>{0}(이)가 맥주병에 맞아 사망했습니다.</Damage_buer.deathMessage>
+  <Damage_juer.label>돌멩이</Damage_juer.label>
+  <Damage_juer.deathMessage>{0}(이)가 돌멩이에 맞아 사망했습니다.</Damage_juer.deathMessage>
+  <Damage_jiaerp.label>돌멩이</Damage_jiaerp.label>
+  <Damage_jiaerp.deathMessage>{0}(이)가 돌멩이에 맞아 사망했습니다.</Damage_jiaerp.deathMessage>
+  <Damage_jiaer.label>돌멩이</Damage_jiaer.label>
+</LanguageData>

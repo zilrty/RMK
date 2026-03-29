@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Interaction_KiiroCuddle_Ratkin.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 자신의 쥐 귀를 [RECIPIENT_nameDef]의 가슴에 대고 심장 소리를 가만히 들어보았습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 등에 올라탔습니다. [RECIPIENT_nameDef](은)는 [INITIATOR_nameDef]을(를) 업고 빙글빙글 몇 바퀴나 돌았습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 허벅지를 꼬옥 껴안아 주었습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 갓 꺾어온 꽃다발을 선물했습니다. [RECIPIENT_nameDef](은)는 향기로운 꽃내음을, [INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 몸에서 나는 따스한 햇살 냄새를 들이켰습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef]의 쥐 꼬리와 [RECIPIENT_nameDef]의 고양이 꼬리가 얽혀 귀여운 이중 나선을 그렸습니다.</li>
+    <li>[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 품속에 쏙 숨어버렸습니다. 이제 아무도 [INITIATOR_nameDef]을(를) 찾을 수 없을 거예요!</li>
+  </Interaction_KiiroCuddle_Ratkin.logRulesInitiator.rulesStrings>
+</LanguageData>

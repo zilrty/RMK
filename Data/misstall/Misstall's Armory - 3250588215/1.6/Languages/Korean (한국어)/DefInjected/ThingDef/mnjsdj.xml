@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MA_C4pack.label>C4 폭약 가방</MA_C4pack.label>
+  <MA_C4pack.description>매설 준비가 된 C4 폭약 묶음입니다.</MA_C4pack.description>
+  <MA_C4pack.comps.0.chargeNoun>지뢰</MA_C4pack.comps.0.chargeNoun>
+  <MA_C4pack.verbs.Verb_LaunchProjectileStatic.label>C4 매설</MA_C4pack.verbs.Verb_LaunchProjectileStatic.label>
+  <MA_laying_4C.label>C4 폭약 매설 중</MA_laying_4C.label>
+  <MA_4C.label>C4 폭약</MA_4C.label>
+  <MA_4C.description>강력한 폭발물입니다. 배치 후 일정 시간이 지나면 폭발하며, 공격하여 기폭시킬 수도 있습니다.</MA_4C.description>
+  <MA_4C.comps.1.countdownLabel>폭발까지</MA_4C.comps.1.countdownLabel>
+
+  <MA_Grenadebelt.label>FG72 세열수류탄 벨트</MA_Grenadebelt.label>
+  <MA_Grenadebelt.description>즉시 투척할 수 있도록 벨트에 준비된 수류탄입니다.</MA_Grenadebelt.description>
+  <MA_Grenadebelt.comps.0.chargeNoun>수류탄</MA_Grenadebelt.comps.0.chargeNoun>
+  <MA_Grenadebelt.verbs.Verb_LaunchProjectileStatic.label>수류탄 투척</MA_Grenadebelt.verbs.Verb_LaunchProjectileStatic.label>
+
+  <MA_FBbelt.label>FB83 섬광탄 벨트</MA_FBbelt.label>
+  <MA_FBbelt.description>즉시 투척할 수 있도록 벨트에 준비된 섬광탄입니다.</MA_FBbelt.description>
+  <MA_FBbelt.comps.0.chargeNoun>섬광탄</MA_FBbelt.comps.0.chargeNoun>
+  <MA_FBbelt.verbs.Verb_LaunchProjectileStatic.label>섬광탄 투척</MA_FBbelt.verbs.Verb_LaunchProjectileStatic.label>
+
+  <MA_SGbelt.label>SG18 연막탄 벨트</MA_SGbelt.label>
+  <MA_SGbelt.description>즉시 투척할 수 있도록 벨트에 준비된 연막탄입니다.</MA_SGbelt.description>
+  <MA_SGbelt.comps.0.chargeNoun>연막탄</MA_SGbelt.comps.0.chargeNoun>
+  <MA_SGbelt.verbs.Verb_LaunchProjectileStatic.label>연막탄 투척</MA_SGbelt.verbs.Verb_LaunchProjectileStatic.label>
+
+  <MA_incendiaryGrenadebelt.label>IG87 화염수류탄 벨트</MA_incendiaryGrenadebelt.label>
+  <MA_incendiaryGrenadebelt.description>즉시 투척할 수 있도록 벨트에 준비된 화염수류탄입니다.</MA_incendiaryGrenadebelt.description>
+  <MA_incendiaryGrenadebelt.comps.0.chargeNoun>수류탄</MA_incendiaryGrenadebelt.comps.0.chargeNoun>
+  <MA_incendiaryGrenadebelt.verbs.Verb_LaunchProjectileStatic.label>수류탄 투척</MA_incendiaryGrenadebelt.verbs.Verb_LaunchProjectileStatic.label>
+
+  <Proj_MA_72FG.label>FG72 수류탄</Proj_MA_72FG.label>
+  <Proj_MA_87IG.label>IG87 수류탄</Proj_MA_87IG.label>
+  <Proj_MA_83FB.label>83FB 섬광탄</Proj_MA_83FB.label>
+  <Proj_MA_18SG.label>SG18 연막탄</Proj_MA_18SG.label>
+
+  <MA_Minepack.label>MN92 지뢰 가방</MA_Minepack.label>
+  <MA_Minepack.description>매설 준비가 된 지뢰 묶음입니다.</MA_Minepack.description>
+  <MA_Minepack.comps.0.chargeNoun>지뢰</MA_Minepack.comps.0.chargeNoun>
+  <MA_Minepack.verbs.Verb_LaunchProjectileStatic.label>지뢰 매설</MA_Minepack.verbs.Verb_LaunchProjectileStatic.label>
+  <MA_laying_mines.label>지뢰 매설 중</MA_laying_mines.label>
+  <MA_92ATMine.label>92식 대전차 지뢰</MA_92ATMine.label>
+  <MA_92ATMine.description>경량 대전차 지뢰입니다. 폭발 범위는 급조폭발물(IED)보다 좁지만 비용이 저렴합니다.</MA_92ATMine.description>
+
+  <MA_TR_Axe.label>토마호크 벨트</MA_TR_Axe.label>
+  <MA_TR_Axe.description>토마호크가 장착된 벨트입니다.</MA_TR_Axe.description>
+  <MA_TR_Axe.comps.0.chargeNoun>토마호크</MA_TR_Axe.comps.0.chargeNoun>
+  <MA_TR_Axe.verbs.Verb_LaunchProjectileStatic.label>토마호크 투척</MA_TR_Axe.verbs.Verb_LaunchProjectileStatic.label>
+  <MA_TR_throwdagger.label>투척용 단검 벨트</MA_TR_throwdagger.label>
+  <MA_TR_throwdagger.description>단검이 장착된 벨트입니다.</MA_TR_throwdagger.description>
+  <MA_TR_throwdagger.comps.0.chargeNoun>단검</MA_TR_throwdagger.comps.0.chargeNoun>
+  <MA_TR_throwdagger.verbs.Verb_LaunchProjectileStatic.label>단검 투척</MA_TR_throwdagger.verbs.Verb_LaunchProjectileStatic.label>
+  <MA_PJ_tomahawk.label>토마호크</MA_PJ_tomahawk.label>
+  <MA_PJ_throwDagger.label>투척용 단검</MA_PJ_throwDagger.label>
+
+  <Gun_MA_64RGL.label>R64 유탄발사기 복합소총</Gun_MA_64RGL.label>
+  <Gun_MA_64RGL.description>유탄발사기가 장착된 R64 소총입니다. 무게로 인해 조준 시간이 길어집니다.</Gun_MA_64RGL.description>
+  <Gun_MA_64RGL.verbs.Verb_Shoot.label>R64 유탄발사기</Gun_MA_64RGL.verbs.Verb_Shoot.label>
+  <Gun_MA_64RGL.tools.0.label>개머리판</Gun_MA_64RGL.tools.0.label>
+  <Gun_MA_64RGL.tools.1.label>총열</Gun_MA_64RGL.tools.1.label>
+  <Gun_MA_64RGL.comps.0.chargeNoun>유탄</Gun_MA_64RGL.comps.0.chargeNoun>
+
+  <Gun_MA_64DMR.label>R64 지정사수소총</Gun_MA_64DMR.label>
+  <Gun_MA_64DMR.description>R64 소총 중 명중률이 좋은 개체를 선별하여 저격용으로 개조한 소총입니다.</Gun_MA_64DMR.description>
+  <Gun_MA_64DMR.verbs.Verb_Shoot.label>R64 DMR</Gun_MA_64DMR.verbs.Verb_Shoot.label>
+  <Gun_MA_64DMR.tools.0.label>개머리판</Gun_MA_64DMR.tools.0.label>
+  <Gun_MA_64DMR.tools.1.label>총열</Gun_MA_64DMR.tools.1.label>
+
+  <Gun_MA_C64R.label>R64 개량형 소총</Gun_MA_C64R.label>
+  <Gun_MA_C64R.description>수직 손잡이와 도트 사이트가 장착된 R64 소총입니다. 조준 시간과 명중률이 약간 개선되었습니다.</Gun_MA_C64R.description>
+  <Gun_MA_C64R.verbs.Verb_Shoot.label>R64 소총</Gun_MA_C64R.verbs.Verb_Shoot.label>
+  <Gun_MA_C64R.tools.0.label>개머리판</Gun_MA_C64R.tools.0.label>
+  <Gun_MA_C64R.tools.1.label>총열</Gun_MA_C64R.tools.1.label>
+
+  <Gun_MA_64R.label>R64 구형 소총</Gun_MA_64R.label>
+  <Gun_MA_64R.description>구형 R64 돌격소총입니다. 일반 돌격소총보다 사거리와 관통력이 뛰어나지만, 조준 시간과 재사용 대기시간 면에서는 불리합니다.</Gun_MA_64R.description>
+  <Gun_MA_64R.verbs.Verb_Shoot.label>R64 구형 소총</Gun_MA_64R.verbs.Verb_Shoot.label>
+  <Gun_MA_64R.tools.0.label>개머리판</Gun_MA_64R.tools.0.label>
+  <Gun_MA_64R.tools.1.label>총열</Gun_MA_64R.tools.1.label>
+
+  <MA_Bullet_64R.label>R64 소총탄</MA_Bullet_64R.label>
+  <MA_Bullet_64MDR.label>R64 DMR탄</MA_Bullet_64MDR.label>
+
+  <Gun_MA_89C.label>R89 카빈</Gun_MA_89C.label>
+  <Gun_MA_89C.description>R89 소총의 카빈 버전입니다. 연사 횟수, 근거리 명중률, 조준 시간은 개선되었으나 장거리 명중률과 위력은 감소했습니다.</Gun_MA_89C.description>
+  <Gun_MA_89C.verbs.Verb_Shoot.label>R89 카빈</Gun_MA_89C.verbs.Verb_Shoot.label>
+  <Gun_MA_89C.tools.0.label>개머리판</Gun_MA_89C.tools.0.label>
+  <Gun_MA_89C.tools.1.label>총열</Gun_MA_89C.tools.1.label>
+
+  <Gun_MA_89CSG.label>R89 산탄발사기 복합소총</Gun_MA_89CSG.label>
+  <Gun_MA_89CSG.description>총열 하단에 샷건이 장착된 R89 카빈 모델입니다. 총열의 무게로 인해 조준 시간이 늘어납니다.</Gun_MA_89CSG.description>
+  <Gun_MA_89CSG.verbs.Verb_Shoot.label>R89 산탄발사기</Gun_MA_89CSG.verbs.Verb_Shoot.label>
+  <Gun_MA_89CSG.tools.0.label>개머리판</Gun_MA_89CSG.tools.0.label>
+  <Gun_MA_89CSG.tools.1.label>총열</Gun_MA_89CSG.tools.1.label>
+  <Gun_MA_89CSG.comps.0.chargeNoun>산탄</Gun_MA_89CSG.comps.0.chargeNoun>
+
+  <MA_Bullet_89C.label>R89 소총탄</MA_Bullet_89C.label>
+
+  <Gun_MA_89RGL.label>R89 유탄발사기 복합소총</Gun_MA_89RGL.label>
+  <Gun_MA_89RGL.description>유탄발사기가 장착된 R89 소총입니다. 무게로 인해 조준 시간이 길어집니다.</Gun_MA_89RGL.description>
+  <Gun_MA_89RGL.verbs.Verb_Shoot.label>R89 유탄발사기</Gun_MA_89RGL.verbs.Verb_Shoot.label>
+  <Gun_MA_89RGL.tools.0.label>개머리판</Gun_MA_89RGL.tools.0.label>
+  <Gun_MA_89RGL.tools.1.label>총열</Gun_MA_89RGL.tools.1.label>
+  <Gun_MA_89RGL.comps.0.chargeNoun>유탄</Gun_MA_89RGL.comps.0.chargeNoun>
+
+  <Gun_MA_89DMR.label>R89 지정사수소총</Gun_MA_89DMR.label>
+  <Gun_MA_89DMR.description>R89 소총 중 명중률이 좋은 개체를 선별하여 저격용으로 개조한 소총입니다.</Gun_MA_89DMR.description>
+  <Gun_MA_89DMR.verbs.Verb_Shoot.label>R89 DMR</Gun_MA_89DMR.verbs.Verb_Shoot.label>
+  <Gun_MA_89DMR.tools.0.label>개머리판</Gun_MA_89DMR.tools.0.label>
+  <Gun_MA_89DMR.tools.1.label>총열</Gun_MA_89DMR.tools.1.label>
+
+  <Gun_MA_C89R.label>R89 개량형 소총</Gun_MA_C89R.label>
+  <Gun_MA_C89R.description>수직 손잡이와 도트 사이트가 장착된 R89 소총입니다. 조준 시간과 명중률이 약간 개선되었습니다.</Gun_MA_C89R.description>
+  <Gun_MA_C89R.verbs.Verb_Shoot.label>R89 소총</Gun_MA_C89R.verbs.Verb_Shoot.label>
+  <Gun_MA_C89R.tools.0.label>개머리판</Gun_MA_C89R.tools.0.label>
+  <Gun_MA_C89R.tools.1.label>총열</Gun_MA_C89R.tools.1.label>
+
+  <Gun_MA_89R.label>R89 구형 소총</Gun_MA_89R.label>
+  <Gun_MA_89R.description>구형 R89 돌격소총입니다. 일반 돌격소총에 비해 점사 간격은 짧지만 재사용 대기시간이 깁니다.</Gun_MA_89R.description>
+  <Gun_MA_89R.verbs.Verb_Shoot.label>R89 구형 소총</Gun_MA_89R.verbs.Verb_Shoot.label>
+  <Gun_MA_89R.tools.0.label>개머리판</Gun_MA_89R.tools.0.label>
+  <Gun_MA_89R.tools.1.label>총열</Gun_MA_89R.tools.1.label>
+
+  <MA_Bullet_89R.label>R89 소총탄</MA_Bullet_89R.label>
+  <MA_Bullet_89DMR.label>R89 DMR탄</MA_Bullet_89DMR.label>
+
+  <MA_LauncherGrenade.label>유탄</MA_LauncherGrenade.label>
+  <MA_LauncherHEAT.label>대전차 유탄</MA_LauncherHEAT.label>
+  <MA_LauncherEMP.label>EMP 유탄</MA_LauncherEMP.label>
+  <MA_LauncherSmoke.label>연막 유탄</MA_LauncherSmoke.label>
+  <MA_LauncherFlame.label>화염 유탄</MA_LauncherFlame.label>
+
+  <Gun_MA_99MP.label>MP99 PDW</Gun_MA_99MP.label>
+  <Gun_MA_99MP.description>기관권총과 기관단총 사이의 성능을 가진 개인방어화기입니다.</Gun_MA_99MP.description>
+  <Gun_MA_99MP.verbs.Verb_Shoot.label>MP99 PDW</Gun_MA_99MP.verbs.Verb_Shoot.label>
+  <Gun_MA_99MP.tools.0.label>손잡이</Gun_MA_99MP.tools.0.label>
+  <Gun_MA_99MP.tools.1.label>총열</Gun_MA_99MP.tools.1.label>
+
+  <Gun_MA_07MPK.label>MP07K PDW</Gun_MA_07MPK.label>
+  <Gun_MA_07MPK.description>일반적인 SMG보다 사거리가 길고 연사 횟수가 많은 기관단총입니다.</Gun_MA_07MPK.description>
+  <Gun_MA_07MPK.verbs.Verb_Shoot.label>MP07K PDW</Gun_MA_07MPK.verbs.Verb_Shoot.label>
+  <Gun_MA_07MPK.tools.0.label>손잡이</Gun_MA_07MPK.tools.0.label>
+  <Gun_MA_07MPK.tools.1.label>총열</Gun_MA_07MPK.tools.1.label>
+
+  <Gun_MA_07MP.label>MP07 SMG</Gun_MA_07MP.label>
+  <Gun_MA_07MP.description>일반적인 SMG보다 사거리가 길고 연사 횟수가 많은 기관단총입니다.</Gun_MA_07MP.description>
+  <Gun_MA_07MP.verbs.Verb_Shoot.label>MP07 SMG</Gun_MA_07MP.verbs.Verb_Shoot.label>
+  <Gun_MA_07MP.tools.0.label>손잡이</Gun_MA_07MP.tools.0.label>
+  <Gun_MA_07MP.tools.1.label>총열</Gun_MA_07MP.tools.1.label>
+
+  <Gun_MA_07MPC.label>MP07C SMG</Gun_MA_07MPC.label>
+  <Gun_MA_07MPC.description>조준 속도와 명중률을 높이기 위해 개조된 MP07입니다. 다만 사격 후 재사용 대기시간이 길어졌습니다.</Gun_MA_07MPC.description>
+  <Gun_MA_07MPC.verbs.Verb_Shoot.label>MP07C SMG</Gun_MA_07MPC.verbs.Verb_Shoot.label>
+  <Gun_MA_07MPC.tools.0.label>손잡이</Gun_MA_07MPC.tools.0.label>
+  <Gun_MA_07MPC.tools.1.label>총열</Gun_MA_07MPC.tools.1.label>
+
+  <Gun_MA_SD07MP.label>MP07SD SMG</Gun_MA_SD07MP.label>
+  <Gun_MA_SD07MP.description>일반적인 SMG보다 사거리가 길고 연사 횟수가 많은 기관단총입니다. 소음기가 장착되어 있습니다.</Gun_MA_SD07MP.description>
+  <Gun_MA_SD07MP.verbs.Verb_Shoot.label>MP07SD SMG</Gun_MA_SD07MP.verbs.Verb_Shoot.label>
+  <Gun_MA_SD07MP.tools.0.label>손잡이</Gun_MA_SD07MP.tools.0.label>
+  <Gun_MA_SD07MP.tools.1.label>총열</Gun_MA_SD07MP.tools.1.label>
+
+  <Gun_MA_SG.label>SG10 산탄총</Gun_MA_SG.label>
+  <Gun_MA_SG.description>표준적인 산탄총보다 조준 시간은 짧지만 재사용 대기시간이 더 깁니다.</Gun_MA_SG.description>
+  <Gun_MA_SG.verbs.Verb_Shoot.label>SG10 산탄총</Gun_MA_SG.verbs.Verb_Shoot.label>
+  <Gun_MA_SG.tools.0.label>개머리판</Gun_MA_SG.tools.0.label>
+  <Gun_MA_SG.tools.1.label>총열</Gun_MA_SG.tools.1.label>
+
+  <Gun_MA_82P.label>P82 권총</Gun_MA_82P.label>
+  <Gun_MA_82P.description>일반적인 자동 권총에 비해 조준 시간은 짧고 재사용 대기시간이 깁니다.</Gun_MA_82P.description>
+  <Gun_MA_82P.verbs.Verb_Shoot.label>P82 권총</Gun_MA_82P.verbs.Verb_Shoot.label>
+  <Gun_MA_82P.tools.0.label>손잡이</Gun_MA_82P.tools.0.label>
+  <Gun_MA_82P.tools.1.label>총열</Gun_MA_82P.tools.1.label>
+
+  <Gun_MA_12SGR.label>SGR12 자동 산탄총</Gun_MA_12SGR.label>
+  <Gun_MA_12SGR.description>표준적인 전자기 산탄총보다 조준 시간은 짧고 재사용 대기시간이 더 깁니다.</Gun_MA_12SGR.description>
+  <Gun_MA_12SGR.verbs.Verb_Shoot.label>SGR12 자동 산탄총</Gun_MA_12SGR.verbs.Verb_Shoot.label>
+  <Gun_MA_12SGR.tools.0.label>개머리판</Gun_MA_12SGR.tools.0.label>
+  <Gun_MA_12SGR.tools.1.label>총열</Gun_MA_12SGR.tools.1.label>
+
+  <Bullet_82P.label>P82 권총탄</Bullet_82P.label>
+  <Bullet_10SG.label>10SG 산탄</Bullet_10SG.label>
+  <Bullet_12SG.label>12SG 산탄</Bullet_12SG.label>
+  <Bullet_10SGUB.label>10SG 산탄</Bullet_10SGUB.label>
+  <Bullet_07MP.label>07MP 탄환</Bullet_07MP.label>
+  <Bullet_07MPSD.label>07MPSD 탄환</Bullet_07MPSD.label>
+  <Bullet_99MP.label>MP99 탄환</Bullet_99MP.label>
+
+  <MeleeWeapon_MA_89Rbayonet.label>R89 대검</MeleeWeapon_MA_89Rbayonet.label>
+  <MeleeWeapon_MA_89Rbayonet.description>원래 총기에 장착하도록 설계된 대검이지만, 손에 쥐고 사용하면 훌륭한 전투용 단검이 됩니다.</MeleeWeapon_MA_89Rbayonet.description>
+  <MeleeWeapon_MA_89Rbayonet.tools.0.label>손잡이</MeleeWeapon_MA_89Rbayonet.tools.0.label>
+  <MeleeWeapon_MA_89Rbayonet.tools.1.label>날</MeleeWeapon_MA_89Rbayonet.tools.1.label>
+  <MeleeWeapon_MA_89Rbayonet.tools.2.label>끝부분</MeleeWeapon_MA_89Rbayonet.tools.2.label>
+
+  <MeleeWeapon_MA_64Rbayonet.label>R64 대검</MeleeWeapon_MA_64Rbayonet.label>
+  <MeleeWeapon_MA_64Rbayonet.description>원래 총기에 장착하도록 설계된 대검이지만, 손에 쥐고 사용하면 훌륭한 전투용 단검이 됩니다.</MeleeWeapon_MA_64Rbayonet.description>
+  <MeleeWeapon_MA_64Rbayonet.tools.0.label>손잡이</MeleeWeapon_MA_64Rbayonet.tools.0.label>
+  <MeleeWeapon_MA_64Rbayonet.tools.1.label>날</MeleeWeapon_MA_64Rbayonet.tools.1.label>
+  <MeleeWeapon_MA_64Rbayonet.tools.2.label>끝부분</MeleeWeapon_MA_64Rbayonet.tools.2.label>
+
+  <MeleeWeapon_MA_combatshovel.label>야전삽</MeleeWeapon_MA_combatshovel.label>
+  <MeleeWeapon_MA_combatshovel.description>삽은 땅을 파는 도구이지만 전투용으로도 사용할 수 있습니다. 적의 구조물을 효율적으로 파괴할 수 있습니다.</MeleeWeapon_MA_combatshovel.description>
+  <MeleeWeapon_MA_combatshovel.tools.0.label>손잡이</MeleeWeapon_MA_combatshovel.tools.0.label>
+  <MeleeWeapon_MA_combatshovel.tools.1.label>날</MeleeWeapon_MA_combatshovel.tools.1.label>
+
+  <Gun_MA_93MG.label>MG93 분대지원화기</Gun_MA_93MG.label>
+  <Gun_MA_93MG.description>높은 발사 속도와 명중률 덕분에 중거리에서 적을 제압하기에 이상적이지만, 근거리 명중률은 낮습니다.</Gun_MA_93MG.description>
+  <Gun_MA_93MG.verbs.Verb_Shoot.label>MG93 SAW</Gun_MA_93MG.verbs.Verb_Shoot.label>
+  <Gun_MA_93MG.tools.0.label>개머리판</Gun_MA_93MG.tools.0.label>
+  <Gun_MA_93MG.tools.1.label>총열</Gun_MA_93MG.tools.1.label>
+
+  <Gun_MA_62MG.label>MG62 다목적기관총</Gun_MA_62MG.label>
+  <Gun_MA_62MG.description>긴 사거리와 높은 명중률을 갖춘 이 기관총은 원거리에서 적을 제압하기에 적합하지만, 근거리 명중률은 처참한 수준입니다.</Gun_MA_62MG.description>
+  <Gun_MA_62MG.verbs.Verb_Shoot.label>MG62 GPMG</Gun_MA_62MG.verbs.Verb_Shoot.label>
+  <Gun_MA_62MG.tools.0.label>개머리판</Gun_MA_62MG.tools.0.label>
+  <Gun_MA_62MG.tools.1.label>총열</Gun_MA_62MG.tools.1.label>
+
+  <MA_Bullet_93MG.label>MG93 소총탄</MA_Bullet_93MG.label>
+  <MA_Bullet_62MG.label>MG93 소총탄</MA_Bullet_62MG.label>
+
+  <Bullet_01LMAT.label>대전차 미사일</Bullet_01LMAT.label>
+  <Gun_MA_84RR.label>RR84 무반동포</Gun_MA_84RR.label>
+  <Gun_MA_84RR.description>충격 지점에서 폭발하는 포탄을 발사하는 일회용 무반동포입니다. 경장갑 집단을 상대하기에 적합합니다.</Gun_MA_84RR.description>
+  <Gun_MA_84RR.verbs.Verb_ShootOneUse.label>RR84 무반동포</Gun_MA_84RR.verbs.Verb_ShootOneUse.label>
+  <Gun_MA_84RR.tools.0.label>총열</Gun_MA_84RR.tools.0.label>
+
+  <Gun_MA_87LAM.label>LAM87 대전차 로켓</Gun_MA_87LAM.label>
+  <Gun_MA_87LAM.description>대전차용 로켓 발사기입니다. 폭발 범위는 좁지만 관통력이 매우 높습니다.</Gun_MA_87LAM.description>
+  <Gun_MA_87LAM.verbs.Verb_ShootOneUse.label>LAM87 대전차 로켓</Gun_MA_87LAM.verbs.Verb_ShootOneUse.label>
+  <Gun_MA_87LAM.tools.0.label>총열</Gun_MA_87LAM.tools.0.label>
+
+  <Gun_MA_KeiMat.label>LMAT01 대전차 미사일</Gun_MA_KeiMat.label>
+  <Gun_MA_KeiMat.description>보병과 기갑 장비 모두에게 뛰어난 공격력을 제공하는 미사일 발사기입니다. 지면을 강제로 조준할 수는 없습니다.</Gun_MA_KeiMat.description>
+  <Gun_MA_KeiMat.verbs.Verb_ShootOneUse.label>LMAT01 대전차 미사일</Gun_MA_KeiMat.verbs.Verb_ShootOneUse.label>
+  <Gun_MA_KeiMat.tools.0.label>총열</Gun_MA_KeiMat.tools.0.label>
+
+  <Bullet_84RR.label>84RR 포탄</Bullet_84RR.label>
+  <Bullet_87LAM.label>87LAM 포탄</Bullet_87LAM.label>
+
+  <Gun_MA_82PS.label>P82S 마취 권총</Gun_MA_82PS.label>
+  <Gun_MA_82PS.description>상대의 몸에 마취제를 주입하는 특수 탄환을 발사하는 권총입니다. 대상을 안전하게 무력화할 수 있지만 명중률이 낮으며, 혼수상태에 빠뜨리려면 여러 번 맞춰야 합니다.</Gun_MA_82PS.description>
+  <Gun_MA_82PS.verbs.Verb_Shoot.label>P82S 마취 권총</Gun_MA_82PS.verbs.Verb_Shoot.label>
+  <Gun_MA_82PS.tools.0.label>손잡이</Gun_MA_82PS.tools.0.label>
+  <Gun_MA_82PS.tools.1.label>총열</Gun_MA_82PS.tools.1.label>
+  <Bullet_82PS.label>P82 마취 다트</Bullet_82PS.label>
+
+  <Gun_MA_02SR.label>SR02 저격 소총</Gun_MA_02SR.label>
+  <Gun_MA_02SR.description>일반적인 저격 소총보다 조준 시간은 짧고 재사용 대기시간은 더 깁니다.</Gun_MA_02SR.description>
+  <Gun_MA_02SR.verbs.Verb_Shoot.label>SR02 저격 소총</Gun_MA_02SR.verbs.Verb_Shoot.label>
+  <Gun_MA_02SR.tools.0.label>개머리판</Gun_MA_02SR.tools.0.label>
+  <Gun_MA_02SR.tools.1.label>총열</Gun_MA_02SR.tools.1.label>
+
+  <Bullet_02SR.label>SR02 대물 저격탄</Bullet_02SR.label>
+
+  <Gun_MA_24SR.label>SR24 대물 저격총</Gun_MA_24SR.label>
+  <Gun_MA_24SR.description>초장거리 저격에 사용되는 대물 저격총입니다. 높은 장갑 관통력과 공격력이 특징입니다.</Gun_MA_24SR.description>
+  <Gun_MA_24SR.verbs.Verb_Shoot.label>SR24 대물 저격총</Gun_MA_24SR.verbs.Verb_Shoot.label>
+  <Gun_MA_24SR.tools.0.label>개머리판</Gun_MA_24SR.tools.0.label>
+  <Gun_MA_24SR.tools.1.label>총열</Gun_MA_24SR.tools.1.label>
+
+  <Bullet_AM_24SR.label>철갑 유탄</Bullet_AM_24SR.label>
+</LanguageData>

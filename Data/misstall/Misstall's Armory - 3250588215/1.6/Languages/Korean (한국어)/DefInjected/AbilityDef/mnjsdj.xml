@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MA_Grenade_launcher.label>유탄 발사기</MA_Grenade_launcher.label>
+  <MA_Grenade_launcher.description>착탄 시 폭발하는 유탄을 발사합니다.</MA_Grenade_launcher.description>
+  <MA_EMP_launcher.label>EMP 발사기</MA_EMP_launcher.label>
+  <MA_EMP_launcher.description>착탄 지점의 전자기기를 무력화하는 전자기파(EMP) 포탄을 발사합니다.</MA_EMP_launcher.description>
+  <MA_smoke_launcher.label>연막 발사기</MA_smoke_launcher.label>
+  <MA_smoke_launcher.description>착탄 지점에 연막을 생성하는 연막탄을 발사합니다.</MA_smoke_launcher.description>
+  <MA_incendiary_launcher.label>화염 발사기</MA_incendiary_launcher.label>
+  <MA_incendiary_launcher.description>착탄 지점에 불을 붙이는 화염 유탄을 발사합니다.</MA_incendiary_launcher.description>
+  <MA_Masterkey_launcher.label>마스터키</MA_Masterkey_launcher.label>
+  <MA_Masterkey_launcher.description>산탄 탄환을 발사합니다.</MA_Masterkey_launcher.description>
+</LanguageData>

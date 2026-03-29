@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Interaction_KiiroCuddle_Cinder.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef]의 촉수가 [RECIPIENT_nameDef]의 몸에 살며시 닿자, [RECIPIENT_nameDef](은)는 색다른 따스함을 느꼈습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 귀 뒷부분을 부드럽게 쓰다듬자, [RECIPIENT_nameDef](은)는 호기심 어린 눈으로 [INITIATOR_nameDef]의 흐물거리는 '귀'를 만지작거렸습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 무릎베개를 해주고 귀를 파주자, [RECIPIENT_nameDef](은)는 기분이 너무 좋은 나머지 꼬리가 하늘 높이 솟구쳤습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef](이)가 각자 종족의 오래된 이야기를 나누고는 포근하게 서로를 껴안았습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef]의 촉수 중 하나가 갑자기 [RECIPIENT_nameDef]의 살랑거리는 꼬리를 흉내 내기 시작하자, [RECIPIENT_nameDef](이)가 푸훗하며 웃음을 터뜨렸습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](와)과 [RECIPIENT_nameDef](이)가 서로 뺨을 맞대고 소소한 일상 이야기를 나누었습니다.</li>
+  </Interaction_KiiroCuddle_Cinder.logRulesInitiator.rulesStrings>
+</LanguageData>

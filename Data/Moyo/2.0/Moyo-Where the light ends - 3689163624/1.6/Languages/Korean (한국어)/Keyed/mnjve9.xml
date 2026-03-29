@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Abyssal_StatsReport_Skills>기술</Abyssal_StatsReport_Skills>
+  <AbyssalSkyfall_Deepwater_Must>깊은 물 근처에 배치해야 합니다.</AbyssalSkyfall_Deepwater_Must>
+  <HadalMoyo_HPF_inspectText>기름진 혈액 추출 진행도</HadalMoyo_HPF_inspectText>
+
+  <Abyssal_CustomShieldPersonalTip>날아오는 투사체, 파편 또는 근접 공격을 막아내는 개인용 보호막입니다. 활성화 여부를 선택할 수 있으며, EMP 공격을 받으면 즉시 작동을 멈춥니다.</Abyssal_CustomShieldPersonalTip>
+  <Abyssal_CustomShieldToogleDisabled>보호막 활성화</Abyssal_CustomShieldToogleDisabled>
+  <Abyssal_CustomShieldToogleEnabled>보호막 비활성화</Abyssal_CustomShieldToogleEnabled>
+  <Abyssal_BulletBlockedText>방어됨</Abyssal_BulletBlockedText>
+
+  <LetterLabelHadalWanderer>부상당한 심해 모요</LetterLabelHadalWanderer>
+  <HadalWandererInjury>특유의 노란 빛을 띠는 {PAWN_nameDef}(이)라는 이름의 모요가 심각한 부상을 입은 채 근처에서 의식을 잃었습니다.</HadalWandererInjury>
+  <HadalWandererInjury_Factionless>그녀의 종족 특성과는 다르게, 놀랍게도 {PAWN_nameDef}(은)는 심해 함대 소속이 아닙니다. 그녀를 구조하여 자발적으로 합류하기를 기대하거나, 포섭 또는 노예화를 위해 생포할 수 있습니다.</HadalWandererInjury_Factionless>
+  <HadalWandererInjury_Hostile>{PAWN_nameDef}(은)는 당신의 적인 {PAWN_factionName} 소속입니다. 포섭이나 노예화를 위해 그녀를 생포할 수 있습니다.</HadalWandererInjury_Hostile>
+</LanguageData>

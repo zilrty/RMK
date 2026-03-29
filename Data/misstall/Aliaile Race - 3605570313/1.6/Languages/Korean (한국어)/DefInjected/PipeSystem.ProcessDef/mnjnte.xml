@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_Process_metal.label>실스틸 제조</AR_Process_metal.label>
+  <AR_Process_metal.description>실스틸 제조</AR_Process_metal.description>
+  <AR_Process_cloth.label>알리아일 비단 제조</AR_Process_cloth.label>
+  <AR_Process_cloth.description>알리아일 비단 제조</AR_Process_cloth.description>
+  <AR_Process_leather.label>반 가죽 제조</AR_Process_leather.label>
+  <AR_Process_leather.description>반 가죽 제조</AR_Process_leather.description>
+  <AR_Process_block.label>문 블록 제조 (사암)</AR_Process_block.label>
+  <AR_Process_block.description>사암으로 문 블록을 제조합니다.</AR_Process_block.description>
+  <AR_Process_block.labelOverride>문 블록 제조 (사암)</AR_Process_block.labelOverride>
+  <AR_Process_blockB.label>문 블록 제조 (화강암)</AR_Process_blockB.label>
+  <AR_Process_blockB.description>화강암으로 문 블록을 제조합니다.</AR_Process_blockB.description>
+  <AR_Process_blockB.labelOverride>문 블록 제조 (화강암)</AR_Process_blockB.labelOverride>
+  <AR_Process_blockC.label>문 블록 제조 (석회암)</AR_Process_blockC.label>
+  <AR_Process_blockC.description>석회암으로 문 블록을 제조합니다.</AR_Process_blockC.description>
+  <AR_Process_blockC.labelOverride>문 블록 제조 (석회암)</AR_Process_blockC.labelOverride>
+  <AR_Process_blockD.label>문 블록 제조 (점판암)</AR_Process_blockD.label>
+  <AR_Process_blockD.description>점판암으로 문 블록을 제조합니다.</AR_Process_blockD.description>
+  <AR_Process_blockD.labelOverride>문 블록 제조 (점판암)</AR_Process_blockD.labelOverride>
+  <AR_Process_blockE.label>문 블록 제조 (대리석)</AR_Process_blockE.label>
+  <AR_Process_blockE.description>대리석으로 문 블록을 제조합니다.</AR_Process_blockE.description>
+  <AR_Process_blockE.labelOverride>문 블록 제조 (대리석)</AR_Process_blockE.labelOverride>
+  <Wine_TaruProcess_basicG.label>천사의 이슬</Wine_TaruProcess_basicG.label>
+  <Wine_TaruProcess_basicG.description>천사의 이슬을 양조합니다.</Wine_TaruProcess_basicG.description>
+  <Wine_TaruProcess_Bunkai.label>독성 폐기물 분해</Wine_TaruProcess_Bunkai.label>
+  <Wine_TaruProcess_Bunkai.description>독성 폐기물을 분해합니다.</Wine_TaruProcess_Bunkai.description>
+  <Wine_TaruProcess_Bunkai.labelOverride>독성 폐기물 분해</Wine_TaruProcess_Bunkai.labelOverride>
+  <Wine_TaruProcessA.label>황금 와인</Wine_TaruProcessA.label>
+  <Wine_TaruProcessA.description>황금 와인을 양조합니다.</Wine_TaruProcessA.description>
+  <Wine_TaruProcessZZ.label>알리아일즈 셰어</Wine_TaruProcessZZ.label>
+  <Wine_TaruProcessZZ.description>알리아일즈 셰어를 양조합니다.</Wine_TaruProcessZZ.description>
+  <AR_steam_Process_basicB.label>스팀 코어 충전 (목재)</AR_steam_Process_basicB.label>
+  <AR_steam_Process_basicB.description>목재를 사용하여 스팀 코어 5개를 생산합니다.</AR_steam_Process_basicB.description>
+  <AR_steam_Process_basicB.labelOverride>목재로 스팀 코어 생산</AR_steam_Process_basicB.labelOverride>
+  <AR_steam_Process_basicA.label>스팀 코어 충전 (화학연료)</AR_steam_Process_basicA.label>
+  <AR_steam_Process_basicA.description>화학연료를 사용하여 스팀 코어 5개를 생산합니다.</AR_steam_Process_basicA.description>
+  <AR_steam_Process_basicA.labelOverride>연료로 스팀 코어 생산</AR_steam_Process_basicA.labelOverride>
+</LanguageData>

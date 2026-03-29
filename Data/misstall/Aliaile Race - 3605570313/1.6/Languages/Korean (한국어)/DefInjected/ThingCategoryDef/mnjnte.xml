@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_ApparelMisc.label>AR 의복</AR_ApparelMisc.label>
+  <AR_Headgear.label>AR 모자</AR_Headgear.label>
+  <AR_ApparelArmor.label>AR 갑옷</AR_ApparelArmor.label>
+  <AR_ArmorHeadgear.label>AR 머리장비</AR_ArmorHeadgear.label>
+  <AR_ApparelUtility.label>AR 보조장비</AR_ApparelUtility.label>
+  <AR_WeaponsMelee.label>AR 근접 무기</AR_WeaponsMelee.label>
+  <AR_WeaponsMeleeBladelink.label>AR 결속 근접 무기</AR_WeaponsMeleeBladelink.label>
+  <AR_WeaponsRanged.label>AR 원거리 무기</AR_WeaponsRanged.label>
+  <AR_WeaponsRangedBladelink.label>AR 결속 원거리 무기</AR_WeaponsRangedBladelink.label>
+</LanguageData>

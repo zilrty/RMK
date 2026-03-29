@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_Faction_NPC.label>알리아일 공동체</AR_Faction_NPC.label>
+  <AR_Faction_NPC.description>알리아일들이 경영하는 장원, 포도원, 농장, 영지 등이 느슨하게 연결된 공동체입니다.</AR_Faction_NPC.description>
+  <AR_Faction_NPC.pawnSingular>알리아일</AR_Faction_NPC.pawnSingular>
+  <AR_Faction_NPC.pawnsPlural>알리아일들</AR_Faction_NPC.pawnsPlural>
+  <AR_Faction_NPC.leaderTitle>수석 의장</AR_Faction_NPC.leaderTitle>
+  <PlayerAliailesOrder.label>알리아일회</PlayerAliailesOrder.label>
+  <PlayerAliailesOrder.description>알리아일과 디미아일들이 모여 형성한 집단입니다.</PlayerAliailesOrder.description>
+  <PlayerAliailesOrder.pawnSingular>회원</PlayerAliailesOrder.pawnSingular>
+  <PlayerAliailesOrder.pawnsPlural>회원들</PlayerAliailesOrder.pawnsPlural>
+  <PlayerAliailesOrder.leaderTitle>지도자</PlayerAliailesOrder.leaderTitle>
+</LanguageData>

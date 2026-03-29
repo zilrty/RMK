@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Wolf_ROE_Nordberg.label>북방 늑대</Wolf_ROE_Nordberg.label>
+  <Wolf_ROE_Nordberg.labelPlural>북방 늑대들</Wolf_ROE_Nordberg.labelPlural>
+  <Wolf_ROE_Nordberg.lifeStages.0.label>북방 새끼 늑대</Wolf_ROE_Nordberg.lifeStages.0.label>
+  <Wolf_ROE_Nordberg.lifeStages.0.labelPlural>북방 새끼 늑대들</Wolf_ROE_Nordberg.lifeStages.0.labelPlural>
+  <Wolf_ROE_NordbergAlpha.label>알파 북방 늑대</Wolf_ROE_NordbergAlpha.label>
+  <Wolf_ROE_NordbergAlpha.labelPlural>알파 북방 늑대들</Wolf_ROE_NordbergAlpha.labelPlural>
+  <Wolf_ROE_NordbergAlpha.lifeStages.0.label>알파 북방 새끼 늑대</Wolf_ROE_NordbergAlpha.lifeStages.0.label>
+  <Wolf_ROE_NordbergAlpha.lifeStages.0.labelPlural>알파 북방 새끼 늑대들</Wolf_ROE_NordbergAlpha.lifeStages.0.labelPlural>
+  <Nordberg_ROE_Yeti.label>예티</Nordberg_ROE_Yeti.label>
+  <Nordberg_ROE_SealPup.label>북방 바다표범</Nordberg_ROE_SealPup.label>
+  <Nordberg_ROE_SealPup.lifeStages.0.label>북방 새끼 바다표범</Nordberg_ROE_SealPup.lifeStages.0.label>
+  <Nordberg_ROE_SealPup.lifeStages.0.labelPlural>북방 새끼 바다표범들</Nordberg_ROE_SealPup.lifeStages.0.labelPlural>
+  <Nordberg_ROE_Seal.label>북방 바다표범</Nordberg_ROE_Seal.label>
+  <Nordberg_ROE_Seal.lifeStages.0.label>북방 새끼 바다표범</Nordberg_ROE_Seal.lifeStages.0.label>
+  <Nordberg_ROE_Seal.lifeStages.0.labelPlural>북방 새끼 바다표범들</Nordberg_ROE_Seal.lifeStages.0.labelPlural>
+  <Nordberg_ROE_Snowhare.label>북방 토끼</Nordberg_ROE_Snowhare.label>
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VRX_MakeGDI.label>유전병 억제제 제작</VRX_MakeGDI.label>
+  <VRX_MakeGDI.description>유전병 억제제를 제작합니다.</VRX_MakeGDI.description>
+  <VRX_MakeGDI.jobString>유전병 억제제 제작 중</VRX_MakeGDI.jobString>
+
+  <AR_MakeMedicineBasicbulk.label>유전병 억제제 x4 제작</AR_MakeMedicineBasicbulk.label>
+  <AR_MakeMedicineBasicbulk.description>유전병 억제제를 대량으로 제작합니다.</AR_MakeMedicineBasicbulk.description>
+  <AR_MakeMedicineBasicbulk.jobString>유전병 억제제 대량 제작 중</AR_MakeMedicineBasicbulk.jobString>
+
+  <Make_Recipe_TypeAMKI.label>라비쿠스 Mk-I 계약 체결</Make_Recipe_TypeAMKI.label>
+  <Make_Recipe_TypeAMKI.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_Recipe_TypeAMKI.description>
+  <Make_Recipe_TypeAMKI.jobString>비질과 계약 체결 중</Make_Recipe_TypeAMKI.jobString>
+
+  <Make_Recipe_TypeAMKII.label>라비쿠스 Mk-II 계약 체결</Make_Recipe_TypeAMKII.label>
+  <Make_Recipe_TypeAMKII.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_Recipe_TypeAMKII.description>
+  <Make_Recipe_TypeAMKII.jobString>비질과 계약 체결 중</Make_Recipe_TypeAMKII.jobString>
+
+  <Make_Recipe_TypeAMKIII.label>라비쿠스 Mk-III 계약 체결</Make_Recipe_TypeAMKIII.label>
+  <Make_Recipe_TypeAMKIII.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_Recipe_TypeAMKIII.description>
+  <Make_Recipe_TypeAMKIII.jobString>비질과 계약 체결 중</Make_Recipe_TypeAMKIII.jobString>
+
+  <Make_Recipe_TypeEMKI.label>레가티쿠스 Mk-I 계약 체결</Make_Recipe_TypeEMKI.label>
+  <Make_Recipe_TypeEMKI.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_Recipe_TypeEMKI.description>
+  <Make_Recipe_TypeEMKI.jobString>비질과 계약 체결 중</Make_Recipe_TypeEMKI.jobString>
+
+  <Make_Recipe_TypeBMKI.label>파브리쿠스 Mk-I 계약 체결</Make_Recipe_TypeBMKI.label>
+  <Make_Recipe_TypeBMKI.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_Recipe_TypeBMKI.description>
+  <Make_Recipe_TypeBMKI.jobString>비질과 계약 체결 중</Make_Recipe_TypeBMKI.jobString>
+
+  <Make_Recipe_TypeCMKI.label>메디쿠스 Mk-I 계약 체결</Make_Recipe_TypeCMKI.label>
+  <Make_Recipe_TypeCMKI.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_Recipe_TypeCMKI.description>
+  <Make_Recipe_TypeCMKI.jobString>비질과 계약 체결 중</Make_Recipe_TypeCMKI.jobString>
+
+  <Make_Recipe_TypeDMKI.label>알리쿠스 Mk-I 계약 체결</Make_Recipe_TypeDMKI.label>
+  <Make_Recipe_TypeDMKI.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_Recipe_TypeDMKI.description>
+  <Make_Recipe_TypeDMKI.jobString>비질과 계약 체결 중</Make_Recipe_TypeDMKI.jobString>
+
+  <Make_Recipe_TypeDMKII.label>알리쿠스 Mk-II 계약 체결</Make_Recipe_TypeDMKII.label>
+  <Make_Recipe_TypeDMKII.description>비질과 계약을 맺고 계약서를 작성합니다.</Make_Recipe_TypeDMKII.description>
+  <Make_Recipe_TypeDMKII.jobString>비질과 계약 체결 중</Make_Recipe_TypeDMKII.jobString>
+</LanguageData>

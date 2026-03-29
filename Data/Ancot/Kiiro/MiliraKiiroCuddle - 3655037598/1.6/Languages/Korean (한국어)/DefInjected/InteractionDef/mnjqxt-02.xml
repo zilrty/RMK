@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Interaction_KiiroCuddle_MoeLotl.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 볼을 꼬집자, [RECIPIENT_nameDef]도 지지 않고 [INITIATOR_nameDef]의 볼을 맞꼬집었습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]을(를) 위해 '키이로 찬가'를 한 곡 뽑아주자, [RECIPIENT_nameDef](이)가 커다란 포옹으로 화답했습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 호기심에 [RECIPIENT_nameDef]의 삐친 머리카락을 잡아당기자, [RECIPIENT_nameDef](이)가 [INITIATOR_nameDef]의 아가미를 콕 집어버렸습니다.</li>
+    <li>r_logentry->[RECIPIENT_nameDef]의 고양이 꼬리가 [INITIATOR_nameDef]의 매끄럽고 커다란 꼬리에 감겨, 마치 아이스크림 같은 모양이 되었습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 공손히 절을 하더니, 당황한 틈을 타 겨드랑이를 간질이며 기습했습니다.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 복숭아를 선물하자, [RECIPIENT_nameDef](은)는 종이로 접은 자두로 보답했습니다.</li>
+  </Interaction_KiiroCuddle_MoeLotl.logRulesInitiator.rulesStrings>
+</LanguageData>

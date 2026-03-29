@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_Middle.label>스타 링 장비</SR_Middle.label>
+  <SR_OnSkin.label>스타 링 속옷</SR_OnSkin.label>
+  <SR_Shell.label>스타 링 겉옷</SR_Shell.label>
+  <SR_Special.label>스타 링 특수 장비</SR_Special.label>
+  <SR_UnderWear.label>스타 링 내의</SR_UnderWear.label>
+  <SR_Upgrades.label>SRC 업그레이드</SR_Upgrades.label>
+
+  <SR_Weapons.label>스타 링 코퍼레이션 화기</SR_Weapons.label>
+  <SR_Weapons_Melee.label>스타 링 코퍼레이션 근접 무기</SR_Weapons_Melee.label>
+
+  <Ammo120mmMortarShells.label>120mm 박격포탄</Ammo120mmMortarShells.label>
+  <Ammo220mmRocket.label>220mm 로켓</Ammo220mmRocket.label>
+  <Ammo25x150mmSRC.label>25x150mm SRC</Ammo25x150mmSRC.label>
+  <AmmoCategory48x28mmTalon.label>4.8x28mm 탤론</AmmoCategory48x28mmTalon.label>
+  <Ammo40x53mmGrenades.label>40x53mm 유탄</Ammo40x53mmGrenades.label>
+  <Ammo45x255mmFMRound.label>45x255mm FM 포탄</Ammo45x255mmFMRound.label>
+  <Ammo4mmRailgun.label>4mm 자기궤도탄</Ammo4mmRailgun.label>
+  <Ammo57x295mmR_SRC.label>57x295mmR SRC</Ammo57x295mmR_SRC.label>
+  <AmmoCategory62x102mmRail.label>6.2x102mm 자기궤도탄</AmmoCategory62x102mmRail.label>
+  <Ammo7x35mmCharged.label>7x35mm 전하 탄약</Ammo7x35mmCharged.label>
+  <AmmoCategory875x52mmRail.label>8.75x52mm 자기궤도탄</AmmoCategory875x52mmRail.label>
+  <AmmoCategory92x352mmRail.label>92x352mm 자기궤도탄</AmmoCategory92x352mmRail.label>
+  <AmmoVolcano.label>볼케이노 전용 탄약</AmmoVolcano.label>
+  <AmmoSmart.label>스마트 탄약</AmmoSmart.label>
+</LanguageData>

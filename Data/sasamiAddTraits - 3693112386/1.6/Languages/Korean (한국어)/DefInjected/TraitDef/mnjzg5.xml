@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CreativeImpulse.degreeDatas.0.label>창작 충동</CreativeImpulse.degreeDatas.0.label>
+  <CreativeImpulse.degreeDatas.0.description>{PAWN_nameDef}(은)는 제작 및 예술 분야에서 뛰어난 기술과 집중력을 발휘합니다.</CreativeImpulse.degreeDatas.0.description>
+
+  <AmbitiousLearner.degreeDatas.0.label>향상심</AmbitiousLearner.degreeDatas.0.label>
+  <AmbitiousLearner.degreeDatas.0.description>{PAWN_nameDef}(은)는 항상 성장을 추구하며, 어떤 작업이든 자신만의 창의성과 개선안을 더하려고 노력합니다.</AmbitiousLearner.degreeDatas.0.description>
+
+  <HastyBuilder.degreeDatas.0.label>즉흥적인 건축</HastyBuilder.degreeDatas.0.label>
+  <HastyBuilder.degreeDatas.0.description>{PAWN_nameDef}(은)는 긴급 시설이나 방어선 구축에 능숙한 건축가입니다. 빠르게 형태를 갖추는 것을 최우선으로 하기 때문에, 완성된 결과물의 품질은 다소 떨어집니다.</HastyBuilder.degreeDatas.0.description>
+
+  <PanicShooter.degreeDatas.0.label>공황 난사</PanicShooter.degreeDatas.0.label>
+  <PanicShooter.degreeDatas.0.description>{PAWN_nameDef}(은)는 전장의 극심한 스트레스 상황에서 평정심을 잃고 총을 난사하는 경향이 있습니다. 평상시에도 방아쇠가 가볍고 쉽게 동요합니다.</PanicShooter.degreeDatas.0.description>
+
+  <BattlefieldMarksman.degreeDatas.0.label>전장의 사수</BattlefieldMarksman.degreeDatas.0.label>
+  <BattlefieldMarksman.degreeDatas.0.description>{PAWN_nameDef}(은)는 전장에서 단련된 숙련된 사수이며, 정확한 사격 실력과 뛰어난 생존 능력을 겸비했습니다. 또한 절망적인 상황에서 살아남기 위해, 극한의 상태에서는 경이로운 사격 정밀도를 보여주기도 합니다.</BattlefieldMarksman.degreeDatas.0.description>
+
+  <SilverTongue.degreeDatas.0.label>미사여구</SilverTongue.degreeDatas.0.label>
+  <SilverTongue.degreeDatas.0.description>{PAWN_nameDef}(은)는 화술이 뛰어나 상대의 환심을 잘 사지만, 그 가벼운 태도 때문에 신뢰를 얻기는 힘듭니다. 협상 테이블에서는 실력을 발휘하지만 깊은 신뢰 관계를 쌓는 데는 서툽니다.</SilverTongue.degreeDatas.0.description>
+
+  <GoldenBlood.degreeDatas.0.label>황금의 피</GoldenBlood.degreeDatas.0.label>
+  <GoldenBlood.degreeDatas.0.description>{PAWN_nameDef}(은)는 매우 희귀한 '황금의 피'를 가지고 있으며, 그 혈액에는 높은 치유 능력과 면역력이 깃들어 있습니다. 그 존재 가치가 매우 높기 때문에 노예 상인이나 제국의 의료기관으로부터 항상 표적이 되고 있습니다.</GoldenBlood.degreeDatas.0.description>
+
+  <Carefree.degreeDatas.0.label>낙천적</Carefree.degreeDatas.0.label>
+  <Carefree.degreeDatas.0.description>{PAWN_nameDef}(은)는 사소한 일에 신경 쓰지 않는 성격으로, 힘든 상황에서도 쉽게 낙담하지 않습니다.</Carefree.degreeDatas.0.description>
+
+  <FightingInstinct.degreeDatas.0.label>투쟁 본능</FightingInstinct.degreeDatas.0.label>
+  <FightingInstinct.degreeDatas.0.description>{PAWN_nameDef}(은)는 전투에 임할 때 살아있음을 느낍니다. 적을 마주하면 본능적으로 움직임이 날카로워지며, 드물게 이성을 잃고 광폭화하기도 합니다.</FightingInstinct.degreeDatas.0.description>
+
+  <ToughBody.degreeDatas.0.label>강인한 육체</ToughBody.degreeDatas.0.label>
+  <ToughBody.degreeDatas.0.description>{PAWN_nameDef}의 몸은 근육 덩어리 그 자체입니다. 압도적인 힘으로 적을 짓뭉개버리지만, 그 무거운 몸을 유지하고 움직이는 데는 많은 식량과 시간이 필요합니다.</ToughBody.degreeDatas.0.description>
+
+  <FragileBody.degreeDatas.0.label>빈약한 육체</FragileBody.degreeDatas.0.label>
+  <FragileBody.degreeDatas.0.description>{PAWN_nameDef}의 몸은 바람만 불어도 쓰러질 것 같습니다. 발걸음이 느리고 전투에는 적합하지 않지만, 아주 적은 식사만으로도 하루를 버틸 수 있습니다.</FragileBody.degreeDatas.0.description>
+
+  <CloseRangeGunner.degreeDatas.0.label>근거리 사수</CloseRangeGunner.degreeDatas.0.label>
+  <CloseRangeGunner.degreeDatas.0.description>{PAWN_nameDef}(은)는 총성과 심장 박동이 겹칠 정도로 가까운 거리에서의 전투를 즐깁니다. 가까워질수록 정확해지지만, 멀어질수록 명중률이 급격히 떨어집니다.</CloseRangeGunner.degreeDatas.0.description>
+
+  <LongRangeGunner.degreeDatas.0.label>원거리 사수</LongRangeGunner.degreeDatas.0.label>
+  <LongRangeGunner.degreeDatas.0.description>{PAWN_nameDef}(은)는 거리를 두고 상황을 제압하는 데 능숙합니다. 안전한 곳에서 단 한 발로 적을 처치하는 것을 선호하지만, 적이 근접해오면 취약한 모습을 보입니다.</LongRangeGunner.degreeDatas.0.description>
+
+  <PinchRunner.degreeDatas.0.label>대주자</PinchRunner.degreeDatas.0.label>
+  <PinchRunner.degreeDatas.0.description>{PAWN_nameDef}(은)는 경이로운 민첩성을 가지고 있습니다. 누구보다 빠르게 적진을 돌파할 수 있지만, 그 대가로 정신은 항상 한계에 노출되어 있습니다.</PinchRunner.degreeDatas.0.description>
+
+  <Dreamer.degreeDatas.0.label>몽상가</Dreamer.degreeDatas.0.label>
+  <Dreamer.degreeDatas.0.description>{PAWN_nameDef}(은)는 항상 머릿속으로 새로운 가능성을 그려봅니다. 학습 속도는 이례적으로 빠르지만 현실적인 고난에는 취약하며 정신적으로 불안정해지기 쉽습니다. 하지만 막다른 길에 몰렸을 때 비로소 번뜩이는 영감을 얻습니다.</Dreamer.degreeDatas.0.description>
+
+  <SloppyDoctor.degreeDatas.0.label>돌팔이 의사</SloppyDoctor.degreeDatas.0.label>
+  <SloppyDoctor.degreeDatas.0.description>{PAWN_nameDef}(은)는 환자의 부담을 덜기 위해 신속하게 치료하는 것을 신조로 삼습니다. 하지만 그 기세만 좋은 치료는 대개 '손만 빠를' 뿐 '정성스럽지' 않습니다. 실패를 마주하고 정신이 한계에 도달했을 때에만 신기하게도 수술 정밀도가 절정에 달합니다.</SloppyDoctor.degreeDatas.0.description>
+
+  <OstrichEmbodiment.degreeDatas.0.label>타조의 화신</OstrichEmbodiment.degreeDatas.0.label>
+  <OstrichEmbodiment.degreeDatas.0.description>{PAWN_nameDef}(은)는 과거 영적 존재와의 기묘한 접촉을 통해 타조처럼 빠르고 강인한 육체를 얻었습니다. 하지만 그 대가로 과거의 지성은 안개처럼 사라져 버렸습니다.</OstrichEmbodiment.degreeDatas.0.description>
+</LanguageData>

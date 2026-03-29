@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HadalMoyo_Discolorization.generalRules.rulesStrings>
+    <li>memeAdjective->절망의</li>
+    <li>memeCreed->항구</li>
+    <li>memeCreed->정박지</li>
+    <li>memeHyphenPrefix->절망</li>
+    <li>memeConcept->절망</li>
+    <li>memeLeaderNoun->최고위 기함</li>
+  </HadalMoyo_Discolorization.generalRules.rulesStrings>
+</LanguageData>

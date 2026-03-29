@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Nihilium_High.label>니힐리움 변이</Nihilium_High.label>
+  <Nihilium_High.description>이 신체는 니힐리움에 의해 개조되었습니다.\n\n정기적으로 니힐리움을 투여하지 않으면 신체가 무너지기 시작합니다. 심각한 금단 증상과 함께 격렬하고 불안정한 상태에 빠지게 되며, 결국 사망에 이릅니다.\n\n니힐리움은 신체의 구조를 영구적으로 변화시키기 때문에, 발생한 변화를 되돌리는 것은 불가능합니다.</Nihilium_High.description>
+  
+  <Nihilium_Addiction.label>니힐리움 갈망</Nihilium_Addiction.label>
+  <Nihilium_Addiction.description>활성화된 니힐리움이 체내를 순환하고 있습니다. 심해 모요가 아닌 사람의 몸에서는 니힐리움이 빠르게 분해됩니다. 빈번하게 투여하지 않으면 짧지만 강력한 정신병적 발작을 일으키며, 이후 장기 부전으로 사망하게 됩니다.</Nihilium_Addiction.description>
+  <Nihilium_Addiction.stages.1.label>결핍됨</Nihilium_Addiction.stages.1.label>
+
+  <Nihilium_OverFlow.label>니힐리움 과부하</Nihilium_OverFlow.label>
+  <Nihilium_OverFlow.description>모요의 체내에 니힐리움이 과하게 축적되었습니다. 이 효과가 사라질 때까지 더 이상의 니힐리움은 생성되지 않습니다.</Nihilium_OverFlow.description>
+
+  <HadalMoyo_EMPdebuff.label>EMP 영향</HadalMoyo_EMPdebuff.label>
+  <HadalMoyo_EMPdebuff.description>EMP가 레테 초월입자에 영향을 주어 발생하는 일시적인 효과입니다.</HadalMoyo_EMPdebuff.description>
+  <HadalMoyo_EMPdebuff.stages.0.label>저항함</HadalMoyo_EMPdebuff.stages.0.label>
+  <HadalMoyo_EMPdebuff.stages.1.label>충격받음</HadalMoyo_EMPdebuff.stages.1.label>
+
+  <HadalMoyo_ExtremeFatigue.label>피로</HadalMoyo_ExtremeFatigue.label>
+  <HadalMoyo_ExtremeFatigue.description>장기적인 전투, 수면 부족, 그리고 치료받지 못한 부상으로 인한 극심한 피로 상태입니다. 회복을 위해서는 깊고 아주 긴 휴식이 필요합니다.</HadalMoyo_ExtremeFatigue.description>
+  <HadalMoyo_ExtremeFatigue.descriptionShort>장기전, 불면, 부상으로 인한 극심한 피로입니다.</HadalMoyo_ExtremeFatigue.descriptionShort>
+  <HadalMoyo_ExtremeFatigue.stages.0.label>회복 중</HadalMoyo_ExtremeFatigue.stages.0.label>
+  <HadalMoyo_ExtremeFatigue.stages.1.label>경미함</HadalMoyo_ExtremeFatigue.stages.1.label>
+  <HadalMoyo_ExtremeFatigue.stages.2.label>보통</HadalMoyo_ExtremeFatigue.stages.2.label>
+  <HadalMoyo_ExtremeFatigue.stages.3.label>심각함</HadalMoyo_ExtremeFatigue.stages.3.label>
+  <HadalMoyo_ExtremeFatigue.stages.4.label>극심함</HadalMoyo_ExtremeFatigue.stages.4.label>
+
+  <HadalMoyo_GnawingFeeling.label>갉아먹는 감정</HadalMoyo_GnawingFeeling.label>
+  <HadalMoyo_GnawingFeeling.description>"지나온 나날의 기억을 비참한 먼지로 바꾸어라...\n모든 다리를 불태워라, 이제 되돌아갈 길은 없으니..."</HadalMoyo_GnawingFeeling.description>
+
+  <HadalMoyo_Joyfuzz.label>쾌락 잔향</HadalMoyo_Joyfuzz.label>
+  <HadalMoyo_Joyfuzz.description>초능력으로 유도된 따뜻함, 안락함, 그리고 수용의 감정입니다. 기분을 약간 개선해주지만, 부정적인 자극의 부재로 인해 가벼운 혼수 상태를 유발하고 의식을 저하시킵니다.</HadalMoyo_Joyfuzz.description>
+
+  <HadalMoyo_BloodLoss.label>니힐리움 손실</HadalMoyo_BloodLoss.label>
+  <HadalMoyo_BloodLoss.description>과다출혈로 인해 니힐리움 생성이 중단되었습니다.</HadalMoyo_BloodLoss.description>
+
+  <HadalMoyo_VacBeltHediff.label>진공 보호막</HadalMoyo_VacBeltHediff.label>
+  <HadalMoyo_VacBeltHediff.description>얇은 보호장이 신체를 감쌉니다. 외부 공격에 대한 방어력은 없지만, 착용자를 우주의 압력으로부터 보호합니다. 보호장 내부의 제한적인 산소 발생으로 인해 호흡이 다소 어려워집니다.</HadalMoyo_VacBeltHediff.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SMR_ThickRoof.generalRules.rulesStrings>
+    <li>subject->두꺼운 지붕 건설</li>
+    <li>subject_story->운석으로 인해 전초 기지가 파괴된 후 강화 지붕 기술을 개발했습니다</li>
+    <li>subject_story->소행성대를 개척하는 동안 고밀도 지붕 건설법을 개척했습니다</li>
+    <li>subject_story->궤도 정거장의 수석 건축가로 재직하며 초고내구도 대피소 건설을 의무화했습니다</li>
+    <li>subject_gerund->두꺼운 지붕 건설하기</li>
+  </SMR_ThickRoof.generalRules.rulesStrings>
+</LanguageData>

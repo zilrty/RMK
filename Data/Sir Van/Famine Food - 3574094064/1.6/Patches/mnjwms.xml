@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Medieval Overhaul</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/RecipeDef[defName="SV_MakeBeaverGruel"]/label</xpath>
+          <value>
+            <label>비버 죽 조리</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/RecipeDef[defName="SV_MakeBeaverGruel"]/description</xpath>
+          <value>
+            <description>우유와 나무 가루로 비버 죽을 만듭니다.</description>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/RecipeDef[defName="SV_MakeBeaverGruel"]/jobString</xpath>
+          <value>
+            <jobString>비버 죽 만드는 중.</jobString>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/RecipeDef[defName="SV_MakeBeaverGruelx10"]/label</xpath>
+          <value>
+            <label>비버 죽 조리 x10</label>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/RecipeDef[defName="SV_MakeBeaverGruelx10"]/description</xpath>
+          <value>
+            <description>우유와 나무 가루로 비버 죽 10개를 만듭니다.</description>
+          </value>
+        </li>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/RecipeDef[defName="SV_MakeBeaverGruelx10"]/jobString</xpath>
+          <value>
+            <jobString>비버 죽 만드는 중.</jobString>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

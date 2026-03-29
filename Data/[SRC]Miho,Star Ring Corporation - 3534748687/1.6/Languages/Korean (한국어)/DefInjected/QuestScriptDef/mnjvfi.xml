@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_ContinuousRaid.root.nodes.2.name>기지 거리 범위</SR_ContinuousRaid.root.nodes.2.name>
+  <SR_ContinuousRaid.root.nodes.14.name>첫 습격 지연 시간</SR_ContinuousRaid.root.nodes.14.name>
+  <SR_ContinuousRaid.root.nodes.15.name>다음 습격 지연 시간</SR_ContinuousRaid.root.nodes.15.name>
+
+  <SR_ContinuousRaid.root.nodes.10.node.nodes.0.label>공격 시작</SR_ContinuousRaid.root.nodes.10.node.nodes.0.label>
+  <SR_ContinuousRaid.root.nodes.10.node.nodes.0.text>우리 기지를 포위한 적들이 모든 준비를 마쳤습니다. 앞으로 며칠 동안 끊임없는 파상공격을 퍼부을 것입니다!</SR_ContinuousRaid.root.nodes.10.node.nodes.0.text>
+
+  <SR_ContinuousRaid.root.nodes.11.node.nodes.0.label>작전 실패</SR_ContinuousRaid.root.nodes.11.node.nodes.0.label>
+  <SR_ContinuousRaid.root.nodes.11.node.nodes.0.text>우리의 타격 작전이 실패했습니다. 기지에 있던 적들이 우리를 감지하고 예정보다 일찍 공격을 시작하려 합니다. \n하지만 그들이 다른 곳에 보급 거점을 마련했다는 사실을 알아냈습니다. 아마 그곳을 파괴한다면 이 소동을 끝낼 수 있을지도 모릅니다.</SR_ContinuousRaid.root.nodes.11.node.nodes.0.text>
+
+  <SR_ContinuousRaid.root.nodes.12.node.nodes.0.label>작전 성공</SR_ContinuousRaid.root.nodes.12.node.nodes.0.label>
+  <SR_ContinuousRaid.root.nodes.12.node.nodes.0.text>우리 부대가 적의 집결지를 완전히 파괴했습니다. 이제 적들은 당분간 우리를 괴롭히지 못할 것입니다.</SR_ContinuousRaid.root.nodes.12.node.nodes.0.text>
+
+  <SR_ContinuousRaid.root.nodes.17.node.nodes.1.name>기지 거리 범위 1</SR_ContinuousRaid.root.nodes.17.node.nodes.1.name>
+  <SR_ContinuousRaid.root.nodes.17.node.nodes.5.name>기지 가치 1</SR_ContinuousRaid.root.nodes.17.node.nodes.5.name>
+
+  <SR_ContinuousRaid.root.nodes.21.node.nodes.0.label>공격 종료</SR_ContinuousRaid.root.nodes.21.node.nodes.0.label>
+  <SR_ContinuousRaid.root.nodes.21.node.nodes.0.text>적이 모든 거점에 공격 병력을 배치했습니다. 이제 당분간은 습격이 없을 것입니다.</SR_ContinuousRaid.root.nodes.21.node.nodes.0.text>
+
+  <SR_ContinuousRaid.root.nodes.17.node.nodes.8.node.nodes.0.label>적의 동태</SR_ContinuousRaid.root.nodes.17.node.nodes.8.node.nodes.0.label>
+  <SR_ContinuousRaid.root.nodes.17.node.nodes.8.node.nodes.0.text>보급 지점에 있던 적들이 철수했습니다. 그들은 앞으로 며칠 내에 지속적인 공세를 시작할 것입니다!</SR_ContinuousRaid.root.nodes.17.node.nodes.8.node.nodes.0.text>
+
+  <SR_ItemStash.root.nodes.5.node.nodes.0.label>임무 만료: [resolvedQuestName]</SR_ItemStash.root.nodes.5.node.nodes.0.label>
+  <SR_ItemStash.root.nodes.5.node.nodes.0.text>다른 이들이 물건을 먼저 가로챘습니다. [resolvedQuestName] 임무가 만료되었습니다.</SR_ItemStash.root.nodes.5.node.nodes.0.text>
+
+  <SR_Interaction_SignalTower.root.nodes.2.name>거점 거리 범위</SR_Interaction_SignalTower.root.nodes.2.name>
+  <SR_Interaction_SignalTower.root.nodes.5.name>거점 세력</SR_Interaction_SignalTower.root.nodes.5.name>
+</LanguageData>

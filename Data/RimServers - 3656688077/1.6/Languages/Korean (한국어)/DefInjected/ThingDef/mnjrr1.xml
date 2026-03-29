@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SERVERS_MakeshiftServer.label>임시 서버</SERVERS_MakeshiftServer.label>
+  <SERVERS_MakeshiftServer.description>가용 가능한 부품들을 긁어모아 조잡하게 짜 맞춘 서버입니다. 연구 작업대에 연결되며, 전력이 공급되는 동안 소량의 연구 속도 보너스를 제공합니다.\n\n연구 속도: +2%\n소비 전력: 400 W\n발열량: 보통</SERVERS_MakeshiftServer.description>
+  <SERVERS_ResearchServer.label>연구용 서버 랙</SERVERS_ResearchServer.label>
+  <SERVERS_ResearchServer.description>연구 데이터 처리에 특화된 서버 랙입니다. 연구 작업대에 연결되며, 전력이 공급되는 동안 연구 속도를 향상시킵니다.\n\n연구 속도: +4%\n소비 전력: 600 W\n발열량: 보통</SERVERS_ResearchServer.description>
+  <SERVERS_DoubleResearchServer.label>연구용 이중 서버 랙</SERVERS_DoubleResearchServer.label>
+  <SERVERS_DoubleResearchServer.description>막대한 연구 부하를 처리하기 위해 설계된 더 크고 효율적인 서버 랙입니다. 연구 작업대에 연결되어 연구 속도를 크게 향상시킵니다.\n\n연구 속도: +10%\n소비 전력: 1000 W\n발열량: 보통-높음</SERVERS_DoubleResearchServer.description>
+  <SERVERS_CommercialServer.label>상업용 서버 랙</SERVERS_CommercialServer.label>
+  <SERVERS_CommercialServer.description>임대 서비스용 서버 랙입니다. 전력이 공급되는 동안 주기적으로 은을 생산합니다.\n\n수익: 7일마다 은 75개\n소비 전력: 600 W\n발열량: 보통</SERVERS_CommercialServer.description>
+  <SERVERS_DoubleCommercialServer.label>상업용 이중 서버 랙</SERVERS_DoubleCommercialServer.label>
+  <SERVERS_DoubleCommercialServer.description>임대 서비스용으로 설계된 더 크고 효율적인 서버 랙입니다. 전력이 공급되는 동안 주기적으로 많은 양의 은을 생산합니다.\n\n수익: 7일마다 은 200개\n소비 전력: 1000 W\n발열량: 보통-높음</SERVERS_DoubleCommercialServer.description>
+  <SERVERS_BandNodeServer.label>대역폭 확장 서버</SERVERS_BandNodeServer.label>
+  <SERVERS_BandNodeServer.description>저전력으로 구동되는 소형 메카노이드 신호 증폭 서버입니다. 대역폭 확장기는 메카나이터 한 명에게 조율되어야 하며, 해당 메카나이터의 최대 대역폭을 확장시켜 더 많은 메카노이드를 통제할 수 있도록 합니다.\n\n소비 전력: 100-400 W\n발열량: 없음</SERVERS_BandNodeServer.description>
+</LanguageData>

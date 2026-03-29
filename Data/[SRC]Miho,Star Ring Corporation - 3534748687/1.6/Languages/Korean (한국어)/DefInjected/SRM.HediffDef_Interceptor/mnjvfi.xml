@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_IU.label>요격 유닛</SR_IU.label>
+  <SR_IU.description>설치된 요격 유닛입니다.</SR_IU.description>
+
+  <SR_IUG.label>요격 유닛 (유탄)</SR_IUG.label>
+  <SR_IUG.description>설치된 유탄 요격 유닛입니다.</SR_IUG.description>
+
+  <SR_IUL.label>요격 유닛 (레이저)</SR_IUL.label>
+  <SR_IUL.description>설치된 레이저 요격 유닛입니다.</SR_IUL.description>
+
+  <SR_Hediff_DroneLaser.label>드론 요격 유닛</SR_Hediff_DroneLaser.label>
+  <SR_Hediff_DroneLaser.description>요격 유닛 상태입니다.</SR_Hediff_DroneLaser.description>
+</LanguageData>

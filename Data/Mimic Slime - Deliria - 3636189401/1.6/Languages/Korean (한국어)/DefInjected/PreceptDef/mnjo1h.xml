@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Absorb_Abhorrent.label>혐오스러움</Absorb_Abhorrent.label>
+  <Absorb_Abhorrent.description>이것은 진정으로 공포스러운 일입니다.</Absorb_Abhorrent.description>
+  <Absorb_Abhorrent.comps.0.description>우리 중 한 명이 델리리아에게 흡수되었습니다.</Absorb_Abhorrent.comps.0.description>
+
+  <Absorb_Normal.label>보통</Absorb_Normal.label>
+  <Absorb_Normal.description>사실... 완전히 받아들이지 못할 일은 아닙니다.</Absorb_Normal.description>
+
+  <Absorb_Preferred.label>선호함</Absorb_Preferred.label>
+  <Absorb_Preferred.description>오, 위대한 주인이시여! 당신의 몸으로 저를 신성한 영역으로 데려가 주소서!</Absorb_Preferred.description>
+  <Absorb_Preferred.comps.0.description>우리 중 한 명이 델리리아에게 흡수되었습니다.</Absorb_Preferred.comps.0.description>
+</LanguageData>

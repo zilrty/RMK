@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <STS_Minions_Cleaning.label>청소</STS_Minions_Cleaning.label>
+  <STS_Minions_Cleaning.description>개체가 청소 작업을 수행할 수 있도록 허용합니다.</STS_Minions_Cleaning.description>
+
+  <STS_Minions_Sowing.label>파종</STS_Minions_Sowing.label>
+  <STS_Minions_Sowing.description>개체가 식물을 심는 작업을 수행할 수 있도록 허용합니다.</STS_Minions_Sowing.description>
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ERN_AuraeylBody.label>아우레일 신체</ERN_AuraeylBody.label>
+  <ERN_AuraeylBody.description>이 유전자를 가진 사람은 온몸이 복슬복슬한 털로 덮여 있습니다.</ERN_AuraeylBody.description>
+  <ERN_AuraeylBehaviour.label>아우레일 본능</ERN_AuraeylBehaviour.label>
+  <ERN_AuraeylBehaviour.description>이 유전적 특성은 사람의 성격과 행동에 영향을 주며, 그들은 ‘우다다’라는 고대의 전통을 본능적으로 알게 되고, 그 외에도 소소한 능력치 변화가 있습니다.</ERN_AuraeylBehaviour.description>
+  <ERN_AuraeylClaws.label>아우레일 손톱</ERN_AuraeylClaws.label>
+  <ERN_AuraeylClaws.description>이 유전자를 가진 사람은 손가락에서 뻗어 나오는 접이식 발톱을 가지고 있습니다. 발톱을 집어넣을 수 있기 때문에 전투 중이 아닐 때는 발톱이 방해가 되지 않습니다.</ERN_AuraeylClaws.description>
+  <ERN_AuraeylEars_Cat.label>아우레일 고양이 귀</ERN_AuraeylEars_Cat.label>
+  <ERN_AuraeylEars_Cat.description>이 유전자를 가진 사람들은 고양이처럼 생긴 귀를 가지고 있습니다.</ERN_AuraeylEars_Cat.description>
+  <ERN_AuraeylEars_Fluffy.label>아우레일 복슬한 귀</ERN_AuraeylEars_Fluffy.label>
+  <ERN_AuraeylEars_Fluffy.description>이 유전자를 가진 사람은 복슬복슬한 귀를 가집니다.</ERN_AuraeylEars_Fluffy.description>
+  <ERN_AuraeylEars_Lynx.label>아우레일 스라소니 귀</ERN_AuraeylEars_Lynx.label>
+  <ERN_AuraeylEars_Lynx.description>이 유전자를 가진 사람은 스라소니 귀를 가집니다.</ERN_AuraeylEars_Lynx.description>
+  <ERN_AuraeylEars_SnowLeopard.label>아우레일 눈표범 귀</ERN_AuraeylEars_SnowLeopard.label>
+  <ERN_AuraeylEars_SnowLeopard.description>이 유전자를 가진 사람은 눈표범 귀를 가집니다.</ERN_AuraeylEars_SnowLeopard.description>
+  <ERN_AuraeylEars_Folded.label>아우레일 접힌 귀</ERN_AuraeylEars_Folded.label>
+  <ERN_AuraeylEars_Folded.description>이 유전자를 가진 사람들은 고양이처럼 생긴 접힌 귀를 가지고 있습니다.</ERN_AuraeylEars_Folded.description>
+  <ERN_AuraeylEars_Frost.label>아우레일 서리 귀</ERN_AuraeylEars_Frost.label>
+  <ERN_AuraeylEars_Frost.description>이 유전자를 가진 사람은 두 쌍의 긴 귀가 있습니다.</ERN_AuraeylEars_Frost.description>
+  <ERN_AuraeylHead.label>아우레일 머리</ERN_AuraeylHead.label>
+  <ERN_AuraeylHead.description>이 유전자를 가진 사람은 고양이와 같은 생김새의 머리와 복슬복슬한 털을 가지고 있습니다.</ERN_AuraeylHead.description>
+  <ERN_AuraeylTail_Cat.description>이 유전자를 가진 사람들은 털이 복슬복슬한 꼬리가 자라나는데, 이 꼬리는 추운 날씨로부터 부분적으로 보호해 줍니다.</ERN_AuraeylTail_Cat.description>
+  <ERN_AuraeylTail_Cat.label>아우레일 고양이 꼬리</ERN_AuraeylTail_Cat.label>
+  <ERN_AuraeylTail_Lion.description>이 유전자를 가진 사람들은 털이 복슬복슬한 꼬리가 자라나는데, 이 꼬리는 추운 날씨로부터 부분적으로 보호해 줍니다.</ERN_AuraeylTail_Lion.description>
+  <ERN_AuraeylTail_Lion.label>아우레일 사자 꼬리</ERN_AuraeylTail_Lion.label>
+  <ERN_AuraeylTail_Lynx.description>이 유전자를 가진 사람들은 털이 복슬복슬한 꼬리가 자라나는데, 이 꼬리는 추운 날씨로부터 부분적으로 보호해 줍니다.</ERN_AuraeylTail_Lynx.description>
+  <ERN_AuraeylTail_Lynx.label>아우레일 스라소니 꼬리</ERN_AuraeylTail_Lynx.label>
+  <ERN_AuraeylTail_SnowLeopard.description>이 유전자를 가진 사람들은 털이 복슬복슬한 꼬리가 자라나는데, 이 꼬리는 추운 날씨로부터 부분적으로 보호해 줍니다.</ERN_AuraeylTail_SnowLeopard.description>
+  <ERN_AuraeylTail_SnowLeopard.label>아우레일 눈표범 꼬리</ERN_AuraeylTail_SnowLeopard.label>
+  <ERN_AuraeylTail_Fluffy.description>이 유전자를 가진 사람들은 털이 복슬복슬한 꼬리가 자라나는데, 이 꼬리는 추운 날씨로부터 부분적으로 보호해 줍니다.</ERN_AuraeylTail_Fluffy.description>
+  <ERN_AuraeylTail_Fluffy.label>아우레일 복슬한 꼬리</ERN_AuraeylTail_Fluffy.label>
+  <ERN_AuraeylTail_SmallFluffy.description>이 유전자를 가진 사람들은 털이 복슬복슬한 꼬리가 자라나는데, 이 꼬리는 추운 날씨로부터 부분적으로 보호해 줍니다.</ERN_AuraeylTail_SmallFluffy.description>
+  <ERN_AuraeylTail_SmallFluffy.label>아우레일 짧은 꼬리</ERN_AuraeylTail_SmallFluffy.label>
+  <ERN_AuraeylTail_Frost.description>이 유전자를 가진 사람들은 털이 복슬복슬한 꼬리가 자라나는데, 이 꼬리는 추운 날씨로부터 부분적으로 보호해 줍니다.</ERN_AuraeylTail_Frost.description>
+  <ERN_AuraeylTail_Frost.label>아우레일 서리 꼬리</ERN_AuraeylTail_Frost.label>
+  <ERN_AuraeylVoice.label>아우레일 목소리</ERN_AuraeylVoice.label>
+  <ERN_AuraeylVoice.description>이 유전자를 가진 사람들은 고양이의 야옹거림, 갸르릉거림, 가르랑거림을 낼 수 있는 음성을 보유하고 있습니다.</ERN_AuraeylVoice.description>
+</LanguageData>

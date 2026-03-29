@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SV_MakeWoodDust.label>나무 가루 만들기</SV_MakeWoodDust.label>
+  <SV_MakeWoodDust.description>나무를 쪼개어 나무 가루를 만듭니다.</SV_MakeWoodDust.description>
+  <SV_MakeWoodDust.jobString>나무 쪼개는 중.</SV_MakeWoodDust.jobString>
+  <SV_MakeWoodDustBulk.label>나무 가루 만들기 (대량)</SV_MakeWoodDustBulk.label>
+  <SV_MakeWoodDustBulk.description>나무를 쪼개어 나무 가루를 만듭니다.</SV_MakeWoodDustBulk.description>
+  <SV_MakeWoodDustBulk.jobString>나무 쪼개는 중.</SV_MakeWoodDustBulk.jobString>
+
+  <SV_BakePinewoodMiche.label>소나무 미슈 굽기 x2</SV_BakePinewoodMiche.label>
+  <SV_BakePinewoodMiche.description>밀가루와 나무 가루를 섞어 소나무 미슈 2개를 굽습니다.</SV_BakePinewoodMiche.description>
+  <SV_BakePinewoodMiche.jobString>소나무 미슈 2개 굽는 중.</SV_BakePinewoodMiche.jobString>
+  <SV_BakePinewoodMichex10.label>소나무 미슈 굽기 x10</SV_BakePinewoodMichex10.label>
+  <SV_BakePinewoodMichex10.description>밀가루와 나무 가루를 섞어 소나무 미슈 10개를 굽습니다.</SV_BakePinewoodMichex10.description>
+  <SV_BakePinewoodMichex10.jobString>소나무 미슈 10개 굽는 중.</SV_BakePinewoodMichex10.jobString>
+  <SV_BakePinewoodMichex100.label>소나무 미슈 굽기 x100</SV_BakePinewoodMichex100.label>
+  <SV_BakePinewoodMichex100.description>밀가루와 나무 가루를 섞어 소나무 미슈 100개를 굽습니다.</SV_BakePinewoodMichex100.description>
+  <SV_BakePinewoodMichex100.jobString>소나무 미슈 100개 굽는 중.</SV_BakePinewoodMichex100.jobString>
+
+  <SV_MakeBeaverGruel.label>비버 죽 조리</SV_MakeBeaverGruel.label>
+  <SV_MakeBeaverGruel.description>우유와 나무 가루로 비버 죽을 만듭니다.</SV_MakeBeaverGruel.description>
+  <SV_MakeBeaverGruel.jobString>비버 죽 만드는 중.</SV_MakeBeaverGruel.jobString>
+  <SV_MakeBeaverGruelx10.label>비버 죽 조리 x10</SV_MakeBeaverGruelx10.label>
+  <SV_MakeBeaverGruelx10.description>우유와 나무 가루로 비버 죽 10개를 만듭니다.</SV_MakeBeaverGruelx10.description>
+  <SV_MakeBeaverGruelx10.jobString>비버 죽 만드는 중.</SV_MakeBeaverGruelx10.jobString>
+
+  <SV_MakeLeatherStew.label>가죽 스튜 조리</SV_MakeLeatherStew.label>
+  <SV_MakeLeatherStew.description>가죽을 사용해 가죽 스튜를 만듭니다.</SV_MakeLeatherStew.description>
+  <SV_MakeLeatherStew.jobString>가죽 스튜 만드는 중.</SV_MakeLeatherStew.jobString>
+  <SV_MakeLeatherStewx10.label>가죽 스튜 조리 x10</SV_MakeLeatherStewx10.label>
+  <SV_MakeLeatherStewx10.description>가죽을 사용해 가죽 스튜 10개를 만듭니다.</SV_MakeLeatherStewx10.description>
+  <SV_MakeLeatherStewx10.jobString>가죽 스튜 만드는 중.</SV_MakeLeatherStewx10.jobString>
+
+  <SV_MakeRockail.label>돌죽 조리</SV_MakeRockail.label>
+  <SV_MakeRockail.description>덩어리를 부순 뒤 물에 넣고 "조리"합니다.</SV_MakeRockail.description>
+  <SV_MakeRockail.jobString>돌죽 만드는 중.</SV_MakeRockail.jobString>
+
+  <SV_MakePeasantSlosh.label>꿀꿀이죽 조리</SV_MakePeasantSlosh.label>
+  <SV_MakePeasantSlosh.description>건초와 채소를 사용해 꿀꿀이죽을 만듭니다.</SV_MakePeasantSlosh.description>
+  <SV_MakePeasantSlosh.jobString>꿀꿀이죽 만드는 중.</SV_MakePeasantSlosh.jobString>
+  <SV_MakePeasantSloshx10.label>꿀꿀이죽 조리 x10</SV_MakePeasantSloshx10.label>
+  <SV_MakePeasantSloshx10.description>건초와 채소를 사용해 꿀꿀이죽 10개를 만듭니다.</SV_MakePeasantSloshx10.description>
+  <SV_MakePeasantSloshx10.jobString>꿀꿀이죽 10개 만드는 중.</SV_MakePeasantSloshx10.jobString>
+
+  <SV_MakeMossMush.label>이끼 범벅 조리</SV_MakeMossMush.label>
+  <SV_MakeMossMush.description>이끼 범벅을 만듭니다.</SV_MakeMossMush.description>
+  <SV_MakeMossMush.jobString>이끼 범벅 만드는 중.</SV_MakeMossMush.jobString>
+  <SV_MakeMossMushx10.label>이끼 범벅 조리 x10</SV_MakeMossMushx10.label>
+  <SV_MakeMossMushx10.description>이끼 범벅 10개를 만듭니다.</SV_MakeMossMushx10.description>
+  <SV_MakeMossMushx10.jobString>이끼 범벅 만드는 중.</SV_MakeMossMushx10.jobString>
+
+  <DA_BoilingCorpse.label>검은 즙 조리</DA_BoilingCorpse.label>
+  <DA_BoilingCorpse.description>부패한 시체를 삶습니다.</DA_BoilingCorpse.description>
+  <DA_BoilingCorpse.jobString>시체 삶는 중.</DA_BoilingCorpse.jobString>
+
+  <SV_MakeStoneBiscuit.label>돌 과자 만들기</SV_MakeStoneBiscuit.label>
+  <SV_MakeStoneBiscuit.description>돌 과자 반죽을 만듭니다.</SV_MakeStoneBiscuit.description>
+  <SV_MakeStoneBiscuit.jobString>돌 과자 만드는 중.</SV_MakeStoneBiscuit.jobString>
+  <SV_BakeStoneBiscuit.label>돌 과자 굽기</SV_BakeStoneBiscuit.label>
+  <SV_BakeStoneBiscuit.description>돌 과자를 굽습니다.</SV_BakeStoneBiscuit.description>
+  <SV_BakeStoneBiscuit.jobString>돌 과자 굽는 중.</SV_BakeStoneBiscuit.jobString>
+
+  <SV_MakeMudPie.label>진흙 파이 굽기</SV_MakeMudPie.label>
+  <SV_MakeMudPie.description>지방과 남은 고기를 사용해 진흙 파이를 굽습니다.</SV_MakeMudPie.description>
+  <SV_MakeMudPie.jobString>진흙 파이 굽는 중.</SV_MakeMudPie.jobString>
+  <SV_MakeMudPiex10.label>진흙 파이 굽기 x10</SV_MakeMudPiex10.label>
+  <SV_MakeMudPiex10.description>지방과 남은 고기를 사용해 진흙 파이 10개를 굽습니다.</SV_MakeMudPiex10.description>
+  <SV_MakeMudPiex10.jobString>진흙 파이 10개 굽는 중.</SV_MakeMudPiex10.jobString>
+</LanguageData>

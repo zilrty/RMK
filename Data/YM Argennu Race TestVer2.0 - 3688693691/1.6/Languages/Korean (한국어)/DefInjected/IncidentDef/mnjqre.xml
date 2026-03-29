@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArgennuAwakening.label>각성</ArgennuAwakening.label>
+
+  <ArgennuSilverOutcast.label>은색의 방랑자</ArgennuSilverOutcast.label>
+  <ArgennuSilverOutcast.letterLabel>은색의 방랑자자</ArgennuSilverOutcast.letterLabel>
+  <ArgennuSilverOutcast.letterText>{PAWN_nameDef}(이)라는 이름의 아르젠느가 정착지 근처를 배회하고 있습니다. 그녀는 몹시 초췌한 모습이며, 전해진 바에 따르면 이전에 섬기던 주인에게 버림받은 것 같습니다.\n\n그녀를 어떻게 하시겠습니까?</ArgennuSilverOutcast.letterText>
+
+  <ArgennuSistersNoirJoin.label>자매단의 제안</ArgennuSistersNoirJoin.label>
+  <ArgennuSistersNoirJoin.letterLabel>자매단의 제안</ArgennuSistersNoirJoin.letterLabel>
+  <ArgennuSistersNoirJoin.letterText>자유의 달 자매단에서 정착지에 새로운 제안을 보내왔습니다.</ArgennuSistersNoirJoin.letterText>
+
+  <ArgennuSistersSilverMoonWish.label>은월의 염원</ArgennuSistersSilverMoonWish.label>
+  <ArgennuSistersSilverMoonWish.letterLabel>은월의 염원</ArgennuSistersSilverMoonWish.letterLabel>
+  <ArgennuSistersSilverMoonWish.letterText>은월의 자매들이 간절한 염원을 담은 메시지를 보내왔습니다.</ArgennuSistersSilverMoonWish.letterText>
+</LanguageData>

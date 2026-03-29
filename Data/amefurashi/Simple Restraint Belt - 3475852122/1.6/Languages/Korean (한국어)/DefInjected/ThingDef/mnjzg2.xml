@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <restraintbelt.label>구속 벨트</restraintbelt.label>
+  <restraintbelt.description>불쌍한 희생자들을 결박하기 위해 설계된 튼튼한 벨트 세트입니다.\n착용하거나 벗기는 데 별도의 도구나 의약품이 필요하지 않으며, 가볍고 저렴한 데다 재사용까지 가능하고 사용법도 간단합니다! 그야말로 편리한 전쟁 범죄죠!\n\n이러한 편리함의 대가는 희생자의 고통입니다.</restraintbelt.description>
+  <restraintbelt.comps.0.useLabel>구속하기</restraintbelt.comps.0.useLabel>
+</LanguageData>

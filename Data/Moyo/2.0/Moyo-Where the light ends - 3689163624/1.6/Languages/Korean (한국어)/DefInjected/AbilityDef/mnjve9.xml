@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HadalMoyo_Blinkstep.label>점멸 기동</HadalMoyo_Blinkstep.label>
+  <HadalMoyo_Blinkstep.description>현재 위치에서 그리 멀지 않은 지정된 위치로 신속하게 이동합니다.</HadalMoyo_Blinkstep.description>
+
+  <HadalMoyo_AbyssSkyfall_CallBombardment.label>심해 포격 요청</HadalMoyo_AbyssSkyfall_CallBombardment.label>
+  <HadalMoyo_AbyssSkyfall_CallBombardment.description>가장 가까운 곳에 대기 중인 심해 함대 부대에 연락하여 선택된 구역에 화력 지원 포격을 실시하도록 명령합니다.</HadalMoyo_AbyssSkyfall_CallBombardment.description>
+
+  <HadalMoyo_AbyssSkyfall_CallReinforcements.label>심해 지원군 호출</HadalMoyo_AbyssSkyfall_CallReinforcements.label>
+  <HadalMoyo_AbyssSkyfall_CallReinforcements.description>전투를 보조할 심해 함대의 메카노이드를 호출합니다.</HadalMoyo_AbyssSkyfall_CallReinforcements.description>
+</LanguageData>

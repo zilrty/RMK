@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBY_SmashRocks.jobString>바위 깨부수는 중.</VBY_SmashRocks.jobString>
+  <VBY_SmashRocks.label>석회암 덩어리 분쇄하기</VBY_SmashRocks.label>
+  <VBY_SmashRocks.description>석회암 덩어리 두 개를 서로 부딪혀 부싯돌의 작은 조각으로 파절합니다.</VBY_SmashRocks.description>
+  <VBY_MakeLimestoneBlocksPlusFlint.label>석회암 석재 만들기 (부싯돌 추가 산출)</VBY_MakeLimestoneBlocksPlusFlint.label>
+  <VBY_MakeLimestoneBlocksPlusFlint.description>투박한 방식으로 석회암을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeLimestoneBlocksPlusFlint.description>
+  <VBY_SmashRocksObsidian.jobString>바위 깨부수는 중.</VBY_SmashRocksObsidian.jobString>
+  <VBY_SmashRocksObsidian.label>흑요석 덩어리 분쇄하기</VBY_SmashRocksObsidian.label>
+  <VBY_SmashRocksObsidian.description>흑요석 덩어리 두 개를 서로 부딪혀 부싯돌의 작은 조각으로 파절합니다.</VBY_SmashRocksObsidian.description>
+  <VBY_MakeObsidianBlocksPlusFlint.label>흑요석 석재 만들기 (부싯돌 추가 산출)</VBY_MakeObsidianBlocksPlusFlint.label>
+  <VBY_MakeObsidianBlocksPlusFlint.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeObsidianBlocksPlusFlint.description>
+  <VBY_SmashRocksChalk.jobString>바위 깨부수는 중.</VBY_SmashRocksChalk.jobString>
+  <VBY_SmashRocksChalk.label>백악암 덩어리 분쇄하기</VBY_SmashRocksChalk.label>
+  <VBY_SmashRocksChalk.description>백악암 덩어리 두 개를 서로 부딪혀 부싯돌의 작은 조각으로 파절합니다.</VBY_SmashRocksChalk.description>
+  <VBY_MakeChalkBlocksPlusFlint.label>백악암 석재 만들기 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusFlint.label>
+  <VBY_MakeChalkBlocksPlusFlint.description>투박한 방식으로 백악암을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusFlint.description>
+  <VBY_SmashRocksObsidianAlpha.jobString>바위 깨부수는 중.</VBY_SmashRocksObsidianAlpha.jobString>
+  <VBY_SmashRocksObsidianAlpha.label>흑요석 덩어리 분쇄하기</VBY_SmashRocksObsidianAlpha.label>
+  <VBY_SmashRocksObsidianAlpha.description>흑요석 덩어리 두 개를 서로 부딪혀 부싯돌의 작은 조각으로 파절합니다.</VBY_SmashRocksObsidianAlpha.description>
+  <VBY_MakeObsidianBlocksPlusFlintAlpha.label>흑요석 석재 만들기 (부싯돌 추가 산출)</VBY_MakeObsidianBlocksPlusFlintAlpha.label>
+  <VBY_MakeObsidianBlocksPlusFlintAlpha.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeObsidianBlocksPlusFlintAlpha.description>
+  <VBY_SmashRocksQuartz.jobString>바위 깨부수는 중.</VBY_SmashRocksQuartz.jobString>
+  <VBY_SmashRocksQuartz.label>장미 석영 덩어리 분쇄하기</VBY_SmashRocksQuartz.label>
+  <VBY_SmashRocksQuartz.description>장미 석영 두 개를 서로 부딪혀 부싯돌의 작은 조각으로 파절합니다.</VBY_SmashRocksQuartz.description>
+  <VBY_MakeRoseQuartzBlocksPlusFlintAlpha.label>장미 석영 석재 만들기 (부싯돌 추가 산출)</VBY_MakeRoseQuartzBlocksPlusFlintAlpha.label>
+  <VBY_MakeRoseQuartzBlocksPlusFlintAlpha.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeRoseQuartzBlocksPlusFlintAlpha.description>
+  <VBY_SmashRocksObsidianSZ.jobString>바위 깨부수는 중.</VBY_SmashRocksObsidianSZ.jobString>
+  <VBY_SmashRocksObsidianSZ.label>흑요석 덩어리 분쇄하기</VBY_SmashRocksObsidianSZ.label>
+  <VBY_SmashRocksObsidianSZ.description>흑요석 덩어리 두 개를 서로 부딪혀 부싯돌의 작은 조각으로 파절합니다.</VBY_SmashRocksObsidianSZ.description>
+  <VBY_MakeObsidianBlocksPlusFlintSZ.label>흑요석 석재 만들기 (부싯돌 추가 산출)</VBY_MakeObsidianBlocksPlusFlintSZ.label>
+  <VBY_MakeObsidianBlocksPlusFlintSZ.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeObsidianBlocksPlusFlintSZ.description>
+  <VBY_SmashRocksLimestoneSZ.jobString>바위 깨부수는 중.</VBY_SmashRocksLimestoneSZ.jobString>
+  <VBY_SmashRocksLimestoneSZ.label>석회암 덩어리 분쇄하기</VBY_SmashRocksLimestoneSZ.label>
+  <VBY_SmashRocksLimestoneSZ.description>석회암 덩어리 두 개를 서로 부딪혀 부싯돌의 작은 조각으로 파절합니다.</VBY_SmashRocksLimestoneSZ.description>
+  <VBY_MakeWhiteLimestoneBlocksPlusFlintSZ.label>석회암 석재 만들기 (부싯돌 추가 산출)</VBY_MakeWhiteLimestoneBlocksPlusFlintSZ.label>
+  <VBY_MakeWhiteLimestoneBlocksPlusFlintSZ.description>투박한 방식으로 석회암을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeWhiteLimestoneBlocksPlusFlintSZ.description>
+  <VBY_SmashRocksObsidianOE.jobString>바위 깨부수는 중.</VBY_SmashRocksObsidianOE.jobString>
+  <VBY_SmashRocksObsidianOE.label>흑요석 덩어리 분쇄하기</VBY_SmashRocksObsidianOE.label>
+  <VBY_SmashRocksObsidianOE.description>흑요석 덩어리 두 개를 서로 부딪혀 부싯돌의 작은 조각으로 파절합니다.</VBY_SmashRocksObsidianOE.description>
+  <VBY_MakeLimestoneBlocksPlusFlintBulk.label>석회암 석재 대량 생산 (부싯돌 추가 산출)</VBY_MakeLimestoneBlocksPlusFlintBulk.label>
+  <VBY_MakeLimestoneBlocksPlusFlintBulk.description>투박한 방식으로 석회암을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeLimestoneBlocksPlusFlintBulk.description>
+  <VBY_MakeObsidianBlocksPlusFlintBulk.label>흑요석 석재 대량 생산 (부싯돌 추가 산출)</VBY_MakeObsidianBlocksPlusFlintBulk.label>
+  <VBY_MakeObsidianBlocksPlusFlintBulk.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeObsidianBlocksPlusFlintBulk.description>
+  <VBY_MakeRoseQuartzBlocksPlusFlintBulk.label>장미 석영 석재 대량 생산 (부싯돌 추가 산출)</VBY_MakeRoseQuartzBlocksPlusFlintBulk.label>
+  <VBY_MakeRoseQuartzBlocksPlusFlintBulk.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeRoseQuartzBlocksPlusFlintBulk.description>
+  <VBY_MakeObsidianBlocksPlusFlintBulkES.label>흑요석 석재 대량 생산 (부싯돌 추가 산출)</VBY_MakeObsidianBlocksPlusFlintBulkES.label>
+  <VBY_MakeObsidianBlocksPlusFlintBulkES.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeObsidianBlocksPlusFlintBulkES.description>
+  <VBY_MakeChalkBlocksPlusFlintBulkES.label>백악암 석재 대량 생산 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusFlintBulkES.label>
+  <VBY_MakeChalkBlocksPlusFlintBulkES.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusFlintBulkES.description>
+  <VBY_MakeLimestoneBlocksPlusFlintBulkF.label>석회암 석재 대량 생산 x3 (부싯돌 추가 산출)</VBY_MakeLimestoneBlocksPlusFlintBulkF.label>
+  <VBY_MakeLimestoneBlocksPlusFlintBulkF.description>투박한 방식으로 석회암을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeLimestoneBlocksPlusFlintBulkF.description>
+  <VBY_MakeLimestoneBlocksPlusFlintBulkFive.label>석회암 석재 대량 생산 x5 (부싯돌 추가 산출)</VBY_MakeLimestoneBlocksPlusFlintBulkFive.label>
+  <VBY_MakeLimestoneBlocksPlusFlintBulkFive.description>투박한 방식으로 석회암을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeLimestoneBlocksPlusFlintBulkFive.description>
+  <VBY_MakeLimestoneBlocksPlusFlintBulkTen.label>석회암 석재 대량 생산 x10 (부싯돌 추가 산출)</VBY_MakeLimestoneBlocksPlusFlintBulkTen.label>
+  <VBY_MakeLimestoneBlocksPlusFlintBulkTen.description>투박한 방식으로 석회암을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeLimestoneBlocksPlusFlintBulkTen.description>
+  <VBY_MakeChalkBlocksPlusFlintBulkF.label>백악암 석재 x3 대량 생산 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusFlintBulkF.label>
+  <VBY_MakeChalkBlocksPlusFlintBulkF.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusFlintBulkF.description>
+  <VBY_MakeChalkBlocksPlusFlintBulkFive.label>백악암 석재 x5 대량 생산 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusFlintBulkFive.label>
+  <VBY_MakeChalkBlocksPlusFlintBulkFive.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusFlintBulkFive.description>
+  <VBY_MakeChalkBlocksPlusFlintBulkTen.label>백악암 석재 x10 대량 생산 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusFlintBulkTen.label>
+  <VBY_MakeChalkBlocksPlusFlintBulkTen.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusFlintBulkTen.description>
+  <VBY_MakeChalkBlocksPlusObsidianBulkF.label>흑요석 석재 대량 생산 x3 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusObsidianBulkF.label>
+  <VBY_MakeChalkBlocksPlusObsidianBulkF.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusObsidianBulkF.description>
+  <VBY_MakeChalkBlocksPlusObsidianBulkFive.label>흑요석 석재 대량 생산 x5 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusObsidianBulkFive.label>
+  <VBY_MakeChalkBlocksPlusObsidianBulkFive.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusObsidianBulkFive.description>
+  <VBY_MakeChalkBlocksPlusObsidianBulkTen.label>흑요석 석재 대량 생산 x10 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusObsidianBulkTen.label>
+  <VBY_MakeChalkBlocksPlusObsidianBulkTen.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusObsidianBulkTen.description>
+  <VBY_MakeChalkBlocksPlusObsidianBulkFAA.label>흑요석 석재 대량 생산 x3 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusObsidianBulkFAA.label>
+  <VBY_MakeChalkBlocksPlusObsidianBulkFAA.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusObsidianBulkFAA.description>
+  <VBY_MakeChalkBlocksPlusObsidianBulkFiveAA.label>흑요석 석재 대량 생산 x5 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusObsidianBulkFiveAA.label>
+  <VBY_MakeChalkBlocksPlusObsidianBulkFiveAA.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusObsidianBulkFiveAA.description>
+  <VBY_MakeChalkBlocksPlusObsidianBulkTenAA.label>흑요석 석재 대량 생산 x10 (부싯돌 추가 산출)</VBY_MakeChalkBlocksPlusObsidianBulkTenAA.label>
+  <VBY_MakeChalkBlocksPlusObsidianBulkTenAA.description>투박한 방식으로 흑요석을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeChalkBlocksPlusObsidianBulkTenAA.description>
+  <VBY_MakeRoseQuartzBlocksPlusObsidianBulkFAA.label>장미 석영 석재 x3 대량 생산 (부싯돌 추가 산출)</VBY_MakeRoseQuartzBlocksPlusObsidianBulkFAA.label>
+  <VBY_MakeRoseQuartzBlocksPlusObsidianBulkFAA.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeRoseQuartzBlocksPlusObsidianBulkFAA.description>
+  <VBY_MakeRoseQuartzBlocksPlusObsidianBulkFiveAA.label>장미 석영 석재 x5 대량 생산 (부싯돌 추가 산출)</VBY_MakeRoseQuartzBlocksPlusObsidianBulkFiveAA.label>
+  <VBY_MakeRoseQuartzBlocksPlusObsidianBulkFiveAA.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeRoseQuartzBlocksPlusObsidianBulkFiveAA.description>
+  <VBY_MakeRoseQuartzBlocksPlusObsidianBulkTenAA.label>장미 석영 석재 x10 대량 생산 (부싯돌 추가 산출)</VBY_MakeRoseQuartzBlocksPlusObsidianBulkTenAA.label>
+  <VBY_MakeRoseQuartzBlocksPlusObsidianBulkTenAA.description>투박한 방식으로 장미 석영을 절삭하여 석재는 물론 부싯돌 또한 부산물로 함께 얻습니다.</VBY_MakeRoseQuartzBlocksPlusObsidianBulkTenAA.description>
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PerformanceEsmolas>Performance Esmolas</PerformanceEsmolas>
+  <MothballOptimization>휴면 처리 최적화</MothballOptimization>
+  <MothballOptimizationTooltip>폰(림)을 휴면 상태로 전환하면 시간 흐름에서 사실상 제외되어 성능을 절약합니다.\n\n기본적으로 게임에서는 대부분의 건강 상태에 증상이 있을 경우, 폰을 휴면 처리할 수 없습니다. 예시로 허리 부상을 입고 맵을 떠난 습격자는 정착민과 거의 동일한 TPS를 소모합니다.\n\n이 패치는 Performance Fish 기반으로서, 치명적이지 않은 상태(특히 모드에서 추가된 상태 포함)를 가진 더 많은 폰을 휴면 처리할 수 있도록 화이트리스트 방식으로 작동합니다.\n\n성능 향상 효과는 매우 크지만, 임신이나 수면병 같은 일부 느리게 진행되는 상태(월드 폰 기준)는 휴면 중에 진행되지 않습니다. 신경이 쓰인다면 재고해 보세요.</MothballOptimizationTooltip>
+  <MeditationThrottle>명상 연산 제한 (재시작 필요)</MeditationThrottle>
+  <MeditationThrottleTooltip>대개의 경우 명상은 큰 문제가 되지 않습니다. 그러나 Vanilla Psycasts Expanded(또는 비슷한 계열의 모드)를 사용할 경우 명상 계산 비용이 매우 커지므로 이 기능을 활성화하면 성능이 크게 향상됩니다. 명상 관련 모드가 없어도 문제 없이 사용할 수 있습니다.</MeditationThrottleTooltip>
+  <IdeoManagerThrottle>월드 이데올로기 연산 제한</IdeoManagerThrottle>
+  <IdeoManagerThrottleTooltip>여러 모드로 인해 다양한 규율, 의식, 역할 등이 추가된 상태에서 많은 세력이 존재하면 월드 이데올로기 연산 규모가 크게 증가합니다.\n\n이 기능은 월드 이데올로기 관련 계산을 더 낮은 빈도로 처리하도록 제한합니다.\n\n게임 플레이에는 거의 영향을 주지 않지만, 다른 세력의 의식이 중요한 경우 비활성화를 권장합니다.</IdeoManagerThrottleTooltip>
+  <PlantSwayOptimization>식물 흔들림 최적화 (재시작 필요)</PlantSwayOptimization>
+  <PlantSwayOptimizationTooltip>사용되지 않는 그래픽의 흔들림 계산을 생략하여 식물 흔들림 성능을 개선합니다.\n\n사막이나 툰드라 지형에서도 유용하게 작용합니다. 해당 맵에 없는 식물까지 모두 흔들림 계산을 수행하기 때문입니다.</PlantSwayOptimizationTooltip>
+  <Experimental>실험 기능</Experimental>
+  <Debug>디버그</Debug>
+  <IdeoManagerThrottleInitialized>[Performance Esmolas] 월드 이데올로기 연산 제한 초기화 완료.</IdeoManagerThrottleInitialized>
+  <MothballOptimizationInitialized>[Performance Esmolas] 휴면 처리 최적화 초기화 완료.</MothballOptimizationInitialized>
+  <MeditationThrottleInitialized>[Performance Esmolas] 명상 연산 제한 초기화 완료.</MeditationThrottleInitialized>
+  <PlantSwayOptimizationInitialized>[Performance Esmolas] 식물 흔들림 최적화 초기화 완료.</PlantSwayOptimizationInitialized>
+  <MeditationSkillPatchFailed>[Performance Esmolas] 명상 기술 학습 패치 실패.</MeditationSkillPatchFailed>
+  <MeditationComfortPatchFailed>[Performance Esmolas] 명상 편안함 획득 패치 실패.</MeditationComfortPatchFailed>
+  <MeditationJoyPatchFailed>[Performance Esmolas] 명상 재미 획득 패치 실패.</MeditationJoyPatchFailed>
+  <MeditationPsyfocusPatchFailed>[Performance Esmolas] 명상 초집중 획득 패치 실패.</MeditationPsyfocusPatchFailed>
+  <InitializingPlantSwayOptimization>식물 흔들림 최적화 목록 초기화 중</InitializingPlantSwayOptimization>
+  <RevertedPawns>[Performance Esmolas] 패치 비활성화로 인해 {0}명의 폰(림)이 휴면 상태에서 복귀됨.</RevertedPawns>
+</LanguageData>

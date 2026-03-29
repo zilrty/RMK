@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HadalMoyo_Tech_MeleeWeapons.label>심해 근접 무기</HadalMoyo_Tech_MeleeWeapons.label>
+  <HadalMoyo_Tech_MeleeWeapons.description>심해 함대의 저렴하면서도 신뢰성 높은 근접 무기 제작법을 습득합니다.
+		
+"버림받은 마음의 샘에서 흘러넘친, 이 칼날들이 품은 고통이란...
+
+오, 잊힌 주시여, 그들의 영혼은 아직 찾을 수 없는 것입니까? 그들의 영광은 다시금 빛날 수 없는 것입니까?"
+
+- 은빛 성채의 팔라딘 국왕, 렐릭</HadalMoyo_Tech_MeleeWeapons.description>
+
+  <HadalMoyo_Tech_UltraMelee.label>심해 초고성능 근접 무기</HadalMoyo_Tech_UltraMelee.label>
+  <HadalMoyo_Tech_UltraMelee.description>심해 함대의 강력한 근접 무기 제작법을 습득합니다.
+
+이 무기들은 극대화된 장갑 관통력을 보장하기 위해 메카나이트가 주입되어 있습니다.</HadalMoyo_Tech_UltraMelee.description>
+
+  <HadalMoyo_Tech_NihiliumPurification.label>니힐리움 정제</HadalMoyo_Tech_NihiliumPurification.label>
+  <HadalMoyo_Tech_NihiliumPurification.description>심해 모요의 혈액 정제 방법과 니힐리움 혈청 합성법을 연구합니다.
+ 
+"아니, 그렇게 생각하지 않아. 솔직히 말해서 이건 자명한 일이지. 심해 모요는 우리로부터 시작됐어. 니힐리움은 그저 딥블루의 뒤틀린 형태일 뿐이야. 매우 휘발성이 강하고, 약물 같은 다른 물질에 아주 공격적으로 반응하지..."
+- 의회 모요 과학자, 이리아 미다 박사</HadalMoyo_Tech_NihiliumPurification.description>
+
+  <HadalMoyo_Tech_NihiliumShells.label>니힐리움 포탄</HadalMoyo_Tech_NihiliumShells.label>
+  <HadalMoyo_Tech_NihiliumShells.description>니힐리움이 충전된 투사체 제작법을 연구합니다.
+		
+니힐리움 포탄은 폭발 반경이 매우 좁지만, 충격력과 장갑 관통력은 독보적입니다.
+
+"재밌지 않아? 우리 혈액은 약이 되는데, 심해 모요의 혈액은 무기가 된다니."
+- 카르텔 연구원, 리라 발 박사</HadalMoyo_Tech_NihiliumShells.description>
+
+  <HadalMoyo_Tech_ChargeWeaponry.label>심해 전하 병기</HadalMoyo_Tech_ChargeWeaponry.label>
+  <HadalMoyo_Tech_ChargeWeaponry.description>심해 함대의 전하 병기 제조 기술을 습득합니다.
+
+작동 원리는 일반적인 전하 병기와 유사하지만, 세부적인 면에서 큰 차이가 있습니다.</HadalMoyo_Tech_ChargeWeaponry.description>
+
+  <HadalMoyo_Tech_Narwhal.label>«나르왈»</HadalMoyo_Tech_Narwhal.label>
+  <HadalMoyo_Tech_Narwhal.description>심해 함대에서 가장 강력한 전하 소총의 제작법을 습득합니다.</HadalMoyo_Tech_Narwhal.description>
+
+  <HadalMoyo_Tech_UltraRangedCannons.label>심해 함포</HadalMoyo_Tech_UltraRangedCannons.label>
+  <HadalMoyo_Tech_UltraRangedCannons.description>니힐리움 포탄을 발사하는 심해 함대의 중병기를 연구합니다. 재장전이 느리고 다루기 어렵지만, 그 파괴력은 재앙적인 수준입니다.
+
+구식 해군 함포와 닮았음에도 불구하고, 대부분의 현대 엔지니어들이 구현할 수 없는 정밀함과 첨단 소재로 제작되었습니다.
+
+"...그리고 너희 역시 가라앉게 될 거다. 가라앉을 만한 것이 남아 있다면 말이지."</HadalMoyo_Tech_UltraRangedCannons.description>
+
+  <HadalMoyo_Tech_Resurrection_em.label>부활 수단</HadalMoyo_Tech_Resurrection_em.label>
+  <HadalMoyo_Tech_Resurrection_em.description>심해 모요를 부활시키는 방법을 연구합니다.</HadalMoyo_Tech_Resurrection_em.description>
+</LanguageData>

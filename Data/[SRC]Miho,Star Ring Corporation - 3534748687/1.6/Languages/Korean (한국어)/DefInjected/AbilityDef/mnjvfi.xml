@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_ElectricArc.label>전기 아크</SR_ElectricArc.label>
+  <SR_ElectricArc.description>지팡이 손잡이의 초능력 연결을 활성화하여 끝부분에 저장된 모든 전하를 방출합니다. 일정 범위 내의 적들에게 강력한 번개를 내리꽂습니다.\n\n특수한 날씨 조건이나 메카노이드를 타격할 때 더 큰 위력을 발휘합니다.</SR_ElectricArc.description>
+  
+  <SR_MissleLaunch_DMG.label>미사일 발사</SR_MissleLaunch_DMG.label>
+  <SR_MissleLaunch_DMG.description>해당 구역을 향해 다량의 미사일을 발사합니다. 각 미사일은 독립적으로 유도됩니다.</SR_MissleLaunch_DMG.description>
+  
+  <SR_MissleLaunch_EA.label>미사일 발사(EA)</SR_MissleLaunch_EA.label>
+  <SR_MissleLaunch_EA.description>해당 구역을 향해 소수의 전기 아크 미사일을 발사합니다. 각 미사일은 독립적으로 유도됩니다.</SR_MissleLaunch_EA.description>
+  
+  <SR_MissleLaunch_PD.label>미사일 발사(PD)</SR_MissleLaunch_PD.label>
+  <SR_MissleLaunch_PD.description>해당 구역을 향해 소수의 열분해 미사일을 발사합니다. 각 미사일은 독립적으로 유도됩니다.</SR_MissleLaunch_PD.description>
+  
+  <SR_MechSmoke.label>연막</SR_MechSmoke.label>
+  <SR_MechSmoke.description>숨겨진 배출구에서 압축된 연막을 살포합니다. 연막은 통과하는 모든 사격의 명중률을 낮추며, 포탑의 조준 고정을 완전히 차단합니다.</SR_MechSmoke.description>
+  
+  <SR_OverHeatedPlasma_HF.label>활성 발사기</SR_OverHeatedPlasma_HF.label>
+  <SR_OverHeatedPlasma_HF.description>송신기를 가동하여 플라즈마 세례를 퍼붓습니다.</SR_OverHeatedPlasma_HF.description>
+  
+  <SR_HERocketLaunch.label>로켓 발사</SR_HERocketLaunch.label>
+  <SR_HERocketLaunch.description>40mm 로켓을 발사합니다.</SR_HERocketLaunch.description>
+  
+  <SR_120MMRocketLaunch.label>대전차 미사일 발사</SR_120MMRocketLaunch.label>
+  <SR_120MMRocketLaunch.description>미사일을 발사합니다.</SR_120MMRocketLaunch.description>
+  
+  <SR_JammerDustLaunch.label>방해 먼지 살포</SR_JammerDustLaunch.label>
+  <SR_JammerDustLaunch.description>방해 먼지 수류탄을 발사합니다.</SR_JammerDustLaunch.description>
+  
+  <SR_MythDustGrenade.label>신화 먼지 수류탄</SR_MythDustGrenade.label>
+  <SR_MythDustGrenade.description>신화 먼지 수류탄을 발사합니다.</SR_MythDustGrenade.description>
+</LanguageData>

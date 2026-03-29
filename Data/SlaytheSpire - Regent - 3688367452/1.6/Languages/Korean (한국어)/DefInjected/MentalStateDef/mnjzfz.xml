@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <STS_MentalState_IntoDust.label>별빛으로 돌아감</STS_MentalState_IntoDust.label>
+  <STS_MentalState_IntoDust.beginLetterLabel>별빛으로 돌아감</STS_MentalState_IntoDust.beginLetterLabel>
+
+  <STS_MentalState_IntoDust.beginLetter>{0}(은)는 이 지루한 정착지에 흥미를 잃었으며, 이제 더 자극적인 무언가를 찾아 떠나려 합니다.</STS_MentalState_IntoDust.beginLetter>
+</LanguageData>

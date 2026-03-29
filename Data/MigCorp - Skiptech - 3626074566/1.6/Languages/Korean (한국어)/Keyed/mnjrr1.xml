@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MigCorp.Skiptech.Settings>MigCorp - Skiptech</MigCorp.Skiptech.Settings>
+  <MigCorp.Skiptech.Settings.Allowed>차원문 사용 허가:</MigCorp.Skiptech.Settings.Allowed>
+  <MigCorp.Skiptech.Settings.Allowed.Everyone>제한 없음</MigCorp.Skiptech.Settings.Allowed.Everyone>
+  <MigCorp.Skiptech.Settings.Allowed.Everyone.Tip>아무나 차원문 사용 가능</MigCorp.Skiptech.Settings.Allowed.Everyone.Tip>
+  <MigCorp.Skiptech.Settings.Allowed.NonHostile>적대적 대상 제외</MigCorp.Skiptech.Settings.Allowed.NonHostile>
+  <MigCorp.Skiptech.Settings.Allowed.NonHostile.Tip>플레이어 세력에게 적대적이지 않은 대상만 차원문 사용 가능</MigCorp.Skiptech.Settings.Allowed.NonHostile.Tip>
+  <MigCorp.Skiptech.Settings.Allowed.Colonists>정착민</MigCorp.Skiptech.Settings.Allowed.Colonists>
+  <MigCorp.Skiptech.Settings.Allowed.Colonists.Tip>플레이어 세력 소속 정착민만 차원문 사용 가능</MigCorp.Skiptech.Settings.Allowed.Colonists.Tip>
+  <MigCorp.Skiptech.Settings.Allowed.Animals>동물 허용</MigCorp.Skiptech.Settings.Allowed.Animals>
+  <MigCorp.Skiptech.Settings.Allowed.Animals.Tip>동물이 차원문 사용 가능</MigCorp.Skiptech.Settings.Allowed.Animals.Tip>
+  <MigCorp.Skiptech.Settings.Features.DisableUnpoweredSkipdoors>전력 없는 차원문 비활성화</MigCorp.Skiptech.Settings.Features.DisableUnpoweredSkipdoors>
+  <MigCorp.Skiptech.Settings.Features.DisableUnpoweredSkipdoors.Tip>폰들이 전력 없는 차원문을 사용하지 않게 합니다. 이는 모든 폰에게 적용되며 공간도약 충격을 받을 일도 없게 됩니다.</MigCorp.Skiptech.Settings.Features.DisableUnpoweredSkipdoors.Tip>
+  <MigCorp.Skiptech.Settings.Features.Skipshock>공간도약 충격 비활성화</MigCorp.Skiptech.Settings.Features.Skipshock>
+  <MigCorp.Skiptech.Settings.Features.Skipshock.Tip>전력이 없는 차원문을 사용해도 공간도약 충격을 받지 않도록 합니다.</MigCorp.Skiptech.Settings.Features.Skipshock.Tip>
+  <MigCorp.Skiptech.Settings.Features.SkipshockAvoidance>공간도약 충격 피하기 활성화</MigCorp.Skiptech.Settings.Features.SkipshockAvoidance>
+  <MigCorp.Skiptech.Settings.Features.SkipshockAvoidance.Tip>소집되었거나 강제된 행동 중이 아닌 이상 폰들이 공간도약 충격을 유발하는 차원문을 사용하지 않게 합니다.</MigCorp.Skiptech.Settings.Features.SkipshockAvoidance.Tip>
+  <MigCorp.Skiptech.Settings.Accessibility.FlashEffect>순간이동 효과 끄기</MigCorp.Skiptech.Settings.Accessibility.FlashEffect>
+  <MigCorp.Skiptech.Settings.Accessibility.FlashEffect.Tip>순간이동 플래시 효과를 표시하지 않습니다.</MigCorp.Skiptech.Settings.Accessibility.FlashEffect.Tip>
+  <MigCorp.Skiptech.Settings.Debug>디버그</MigCorp.Skiptech.Settings.Debug>
+  <MigCorp.Skiptech.Settings.Debug.Enable>디버그 설정에 접근하려면 개발자 모드를 켜세요.</MigCorp.Skiptech.Settings.Debug.Enable>
+  <MigCorp.Skiptech.Settings.Debug.Verbose>상세 로그 표시</MigCorp.Skiptech.Settings.Debug.Verbose>
+  <MigCorp.Skiptech.Text.Skipshock>공간도약 충격</MigCorp.Skiptech.Text.Skipshock>
+</LanguageData>

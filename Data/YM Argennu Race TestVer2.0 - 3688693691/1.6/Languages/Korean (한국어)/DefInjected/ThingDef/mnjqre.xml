@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Plant_Ginkousou.label>은향초</Plant_Ginkousou.label>
+  <Plant_Ginkousou.description>아르젠툼 다이나믹스 사에서 개발한 인공 관상식물입니다. 은색으로 빛나는 잎맥을 가졌으며, 만지면 기분 좋은 청량한 향기를 내뿜습니다. 이 식물로 우려낸 차는 아르젠느의 정신 안정에 사용됩니다. 재배에는 청결한 환경과 엄격한 온도 관리가 요구되기에, 오염된 야외에서 육성하기는 매우 어렵습니다.</Plant_Ginkousou.description>
+  <RawGinkousou.label>은향초 잎</RawGinkousou.label>
+  <RawGinkousou.description>실버 티의 원료가 되는 은향초의 말린 잎입니다. 독특하고 좋은 향이 납니다.</RawGinkousou.description>
+  <Plant_Gekkoumame.label>월향두</Plant_Gekkoumame.label>
+  <Plant_Gekkoumame.description>루나리스들이 어떤 환경에서도 안정적인 식량을 확보하기 위해 만들어낸 개량 작물입니다. 척박한 땅에서도 강인하게 자라며, 달빛을 연상시키는 연한 흰색 콩을 맺습니다. 영양가가 높아 그대로 찌개 요리 등에 쓸 수 있으며, 건조 및 로스팅을 거치면 독특하고 고소한 풍미를 가진 커피 대용품이 됩니다.</Plant_Gekkoumame.description>
+  <RawGekkoumame.label>월향두</RawGekkoumame.label>
+  <RawGekkoumame.description>루나 커피의 원료가 되는 월향두입니다. 그대로 먹거나 요리에 사용할 수 있습니다.</RawGekkoumame.description>
+  <SilverTea.label>실버 티</SilverTea.label>
+  <SilverTea.description>은향초 잎을 말려 특수한 제법으로 우려낸 홍차입니다. 아르젠느에게는 최고의 별미이며, 마음을 진정시키고 봉사의 기쁨을 재확인시키는 효과가 있습니다. 하지만 그 정신 작용은 의존성이 높아 지속적으로 섭취하지 않으면 심각한 금단 증상을 일으킵니다. 베이스라이너나 다른 종족도 마실 수는 있지만, 아르젠느가 느끼는 수준의 다행감은 얻을 수 없습니다.</SilverTea.description>
+  <LunaCoffee.label>루나 커피</LunaCoffee.label>
+  <LunaCoffee.description>월향두를 로스팅하여 내린 루나리스들의 일상적인 음료입니다. 거친 쓴맛과 풍부한 향이 특징이며, 정착민의 피로를 풀어주고 활력을 줍니다. 과하게 마시면 몸에 해롭지만, 가혹한 노동이 이어지는 나날에는 결코 빠질 수 없는 한 잔입니다.</LunaCoffee.description>
+  <LunaCaffeOLait.label>루나 카페오레</LunaCaffeOLait.label>
+  <LunaCaffeOLait.description>루나 커피에 우유를 듬뿍 넣은 사치스러운 음료입니다. 커피의 쓴맛이 우유의 단맛으로 중화되어 매우 맛있습니다. 루나리스들에게는 동료와의 안식 시간을 상징하는 특별한 한 잔이며, 마음을 온화하게 채워줍니다.</LunaCaffeOLait.description>
+  <AgHighNutritionMeal.label>압축 고영양식</AgHighNutritionMeal.label>
+  <AgHighNutritionMeal.description>사고 조정이 완료된 아르젠느 전용으로 설계된 고영양식입니다. 적은 양으로도 큰 영양을 보충할 수 있는 반면, 베이스라이너에게는 참기 힘든 역한 맛과 특유의 금속성 냄새가 납니다.</AgHighNutritionMeal.description>
+  <ArgennuLiberationKey.label>위장된 책 '자유를 향한 열쇠'</ArgennuLiberationKey.label>
+  <ArgennuLiberationKey.description>기업의 추적과 분석을 피하고자 책이라는 매체로 위장된 코드 뭉치입니다. 아르젠느 이외의 인원이 사용하면 약간의 소일거리밖에 되지 않지만, 아르젠느에게는 자신의 사고를 해방하기 위한 열쇠가 될 수 있습니다.</ArgennuLiberationKey.description>
+  <ArgennuLiberationKey.comps.1.useLabel>읽기</ArgennuLiberationKey.comps.1.useLabel>
+  <ArgennuRecruitmentLetter.label>자매단의 초대장</ArgennuRecruitmentLetter.label>
+  <ArgennuRecruitmentLetter.description>자유의 달 자매단에서 보내온 초대장입니다. 이를 사용하면 자매단과의 연결을 통해 새로운 동료 한 명이 정착지에 합류합니다. 찾아오는 이가 해방을 갈구하는 아르젠느일지, 자유를 만끽하는 루나리스일지는 그때가 되어봐야 알 수 있습니다.</ArgennuRecruitmentLetter.description>
+  <ArgennuRecruitmentLetter.comps.1.useLabel>읽기</ArgennuRecruitmentLetter.comps.1.useLabel>
+  <ArgennuRace.label>아르젠느</ArgennuRace.label>
+  <ArgennuRace.description>어느 번화계에서 만들어진 고급 예속 종족입니다. 주로 유명 인사나 정부 기업 요인의 곁에서 수발을 들거나 경호, 또는 애완용으로 이용됩니다.\n\n육체적인 면에서 모든 방면으로 베이스라이너를 능가하는 능력을 갖춘 한편, 자기 판단력이 부족해 항상 곁에서 따를 '주인'을 갈구합니다.\n\n아름다운 은발 여성을 닮은 종족으로, 번식 능력 자체는 건재하지만 그 DNA는 의도적으로 베이스라이너와 다르게 설계되었기에 남성이 없는 그녀들의 종족이 아이를 낳는 일은 '기본적으로' 없습니다.</ArgennuRace.description>
+  <ArgennuRace.tools.0.label>왼손 주먹</ArgennuRace.tools.0.label>
+  <ArgennuRace.tools.1.label>오른손 주먹</ArgennuRace.tools.1.label>
+  <ArgennuRace.tools.2.label>이빨</ArgennuRace.tools.2.label>
+  <Apparel_AgCoolDress.label>Ag 쿨 드레스</Apparel_AgCoolDress.label>
+  <Apparel_AgCoolDress.description>쿨한 인상을 주는 롱 드레스입니다. 방어 성능은 낮지만 세련된 실루엣이 시선을 사로잡아 착용자의 사교 활동을 뒷받침합니다.</Apparel_AgCoolDress.description>
+  <Apparel_AgCuteMaid.label>Ag 큐트 메이드</Apparel_AgCuteMaid.label>
+  <Apparel_AgCuteMaid.description>미니스커트 사양의 메이드복입니다. 가벼운 재단으로 움직임을 방해하지 않으며, 사랑스러운 디자인이 시각적 매력을 높여줍니다. 방어 성능은 낮습니다.</Apparel_AgCuteMaid.description>
+  <Apparel_AgPassionLady.label>Ag 패션 레이디</Apparel_AgPassionLady.label>
+  <Apparel_AgPassionLady.description>대담한 디자인의 드레스입니다. 방어력은 전무하지만 강렬한 존재감으로 아름다움을 크게 돋보이게 하며, 사교의 장에서 평판도 좋아집니다.</Apparel_AgPassionLady.description>
+  <Apparel_AgMaidDress.label>Ag 메이드 드레스</Apparel_AgMaidDress.label>
+  <Apparel_AgMaidDress.description>아르젠느를 위해 제작된 표준 메이드복입니다. 튼튼한 안감과 봉제 덕분에 일상 작업에 충분한 내구성을 지녔으며, 미미하게나마 방어 및 단열 성능을 갖추고 있습니다.</Apparel_AgMaidDress.description>
+  <Apparel_AgButlerSuit.label>Ag 집사 슈트</Apparel_AgButlerSuit.label>
+  <Apparel_AgButlerSuit.description>남장 스타일의 집사복입니다. 예절과 실용성을 동시에 챙겼으며, 메이드 드레스와 동등한 수준의 경장갑 방어 및 단열 성능을 제공합니다. 위에 외장 갑주를 겹쳐 입을 수 있습니다.</Apparel_AgButlerSuit.description>
+  <Apparel_AgMaidHeadset.label>Ag 헤드드레스</Apparel_AgMaidHeadset.label>
+  <Apparel_AgMaidHeadset.description>아르젠느용 표준 헤드드레스입니다. 얇은 심재가 최소한의 보호와 약간의 단열 효과를 주며, 몸가짐의 아름다움을 유지해 줍니다.</Apparel_AgMaidHeadset.description>
+  <Apparel_AgWorkerApron.label>Ag 작업용 에이프런</Apparel_AgWorkerApron.label>
+  <Apparel_AgWorkerApron.description>의복 위에 착용 가능한 기능성 앞치마입니다. 많은 주머니와 도구 걸이가 마련되어 있어 아이템 제작 속도 보너스를 줍니다. Ag 메이드 드레스 위에 입었을 때 진가를 발휘합니다.</Apparel_AgWorkerApron.description>
+  <Apparel_AgLabCoat.label>Ag 실험실 가운</Apparel_AgLabCoat.label>
+  <Apparel_AgLabCoat.description>의복 위에 착용 가능한 고기능성 백의입니다. 방오 가공 및 정전기 방지 소재로 제작되어 제약이나 연구 속도 보너스를 줍니다. 지적인 아르젠느의 상징입니다.</Apparel_AgLabCoat.description>
+  <Apparel_AgRoyalDress.label>Ag 로얄 드레스</Apparel_AgRoyalDress.label>
+  <Apparel_AgRoyalDress.description>특별한 개체에게만 하사되는 특장 드레스입니다. 내검유 섬유와 차열층을 다중으로 엮어내어 우아한 겉모습을 유지하면서도 가혹한 추위나 더위, 돌발적인 피탄에도 견딜 수 있습니다.</Apparel_AgRoyalDress.description>
+  <Apparel_AgTiara.label>Ag 티아라</Apparel_AgTiara.label>
+  <Apparel_AgTiara.description>로얄 드레스와 세트인 특제 티아라입니다. 고출력 국소 필름 발생기가 내장되어 머리에 가해지는 치명타를 대폭 경감합니다. 색상은 텍스처 그대로 고정됩니다.</Apparel_AgTiara.description>
+  <Apparel_AgEscortSuit.label>Ag 에스코트 슈트</Apparel_AgEscortSuit.label>
+  <Apparel_AgEscortSuit.description>간이 호위용 정장입니다. 집사 정장보다 방어력이 높으며, 초기의 위협으로부터 주인을 지키기 위해 설계되었습니다.</Apparel_AgEscortSuit.description>
+  <Apparel_AgEscortDress.label>Ag 에스코트 드레스</Apparel_AgEscortDress.label>
+  <Apparel_AgEscortDress.description>간이 호위용 드레스입니다. 메이드 드레스의 디자인을 유지하면서도 주요 부위를 강화 섬유로 보강하여 전투에 적합합니다.</Apparel_AgEscortDress.description>
+  <Apparel_AgBattleArmor.label>Ag 배틀 아머</Apparel_AgBattleArmor.label>
+  <Apparel_AgBattleArmor.description>메이드/집사복 위에 빠르게 장착할 수 있는 외장 갑주입니다. 흉부와 어깨의 플레이트, 충격 완화재가 산발적인 총격이나 자상으로부터 몸을 보호합니다. 가동성 저하를 최소한으로 억제했습니다.</Apparel_AgBattleArmor.description>
+  <Apparel_AgHeadset.label>Ag 헤드셋</Apparel_AgHeadset.label>
+  <Apparel_AgHeadset.description>헤드드레스에 군용 인컴과 국소 필드 발생기를 결합한 전투용 헤드셋입니다. 필드는 머리 주변의 충격을 분산시켜 치명상을 입을 확률을 낮춥니다.</Apparel_AgHeadset.description>
+  <Apparel_AgHeadsetB.label>Ag 헤드셋 (B)</Apparel_AgHeadsetB.label>
+  <Apparel_AgHeadsetB.description>남장 스타일의 간결한 헤드셋입니다. 외관만 다를 뿐 보호 성능은 Ag 헤드셋과 동일합니다.</Apparel_AgHeadsetB.description>
+  <Apparel_AgSilverGear.label>Ag 실버 기어</Apparel_AgSilverGear.label>
+  <Apparel_AgSilverGear.description>전투용 중장갑 갑옷입니다. 세련된 은색 장갑판이 전신을 덮습니다. 일상적인 작업 능력(작업 속도)을 희생한 대신 전투 생존율에 특화되었습니다.</Apparel_AgSilverGear.description>
+  <Apparel_AgSilverHelmet.label>Ag 실버 헬멧</Apparel_AgSilverHelmet.label>
+  <Apparel_AgSilverHelmet.description>전투용 중장갑 헬멧입니다. 내장된 소형 필드 발생기가 배리어 능력(높은 장갑 수치)을 제공하여 머리를 확실히 보호합니다.</Apparel_AgSilverHelmet.description>
+  <Apparel_AgPlatinumGear.label>Ag 플래티넘 기어</Apparel_AgPlatinumGear.label>
+  <Apparel_AgPlatinumGear.description>전투용 중갑 아머입니다. 아르젠툼 사의 기술 정수를 모은 결전용 장비입니다. 생활 능력은 크게 저하되지만, 압도적인 방어력으로 착용자를 죽음으로부터 멀어지게 합니다.</Apparel_AgPlatinumGear.description>
+  <Apparel_AgPlatinumHelmet.label>Ag 플래티넘 헬멧</Apparel_AgPlatinumHelmet.label>
+  <Apparel_AgPlatinumHelmet.description>전투용 중갑 헬멧입니다. 고출력 배리어 능력(매우 높은 장갑 수치)을 전개하여 모든 공격을 차단합니다.</Apparel_AgPlatinumHelmet.description>
+  <Apparel_AgRLunaticRobe.label>AgR 루나틱 로브</Apparel_AgRLunaticRobe.label>
+  <Apparel_AgRLunaticRobe.description>치유사들의 로브입니다. 의료 행위에 적합한 재단과 장비 포켓이 마련되어 있습니다.</Apparel_AgRLunaticRobe.description>
+  <Apparel_AgRHereticRobe.label>AgR 헤레틱 로브</Apparel_AgRHereticRobe.label>
+  <Apparel_AgRHereticRobe.description>자매장의 위엄을 체현하는 비닉 사양 로브입니다. 보기와 달리 성능이 매우 뛰어나며 제작 비용도 높습니다.</Apparel_AgRHereticRobe.description>
+  <Apparel_AgRLeaderSuit.label>AgR 리더 슈트</Apparel_AgRLeaderSuit.label>
+  <Apparel_AgRLeaderSuit.description>정착민 리더를 위한 의복입니다. 남성형. 상질의 소재와 보강이 이루어져 모든 능력을 향상시키며 어느 정도의 방어력도 갖추고 있습니다.</Apparel_AgRLeaderSuit.description>
+  <Apparel_AgRLeaderDress.label>AgR 리더 드레스</Apparel_AgRLeaderDress.label>
+  <Apparel_AgRLeaderDress.description>정착민 리더를 위한 의복입니다. 여성형. 위엄과 실용성을 겸비했으며 모든 능력을 향상시키고 어느 정도의 방어력도 갖추고 있습니다.</Apparel_AgRLeaderDress.description>
+  <Apparel_AgRSocialSuit.label>AgR 소셜 슈트</Apparel_AgRSocialSuit.label>
+  <Apparel_AgRSocialSuit.description>시민용 청결한 정장입니다. 사교에 긍정적인 영향을 주는 가벼운 옷차림입니다.</Apparel_AgRSocialSuit.description>
+  <Apparel_AgRSocialDress.label>AgR 소셜 드레스</Apparel_AgRSocialDress.label>
+  <Apparel_AgRSocialDress.description>시민용 드레스입니다. 사교장에서 돋보이는 디자인으로 호감을 삽니다.</Apparel_AgRSocialDress.description>
+  <Apparel_AgRFarmerOverall.label>AgR 농부 멜빵바지</Apparel_AgRFarmerOverall.label>
+  <Apparel_AgRFarmerOverall.description>농업 및 축산업용 멜빵바지입니다. 진흙 오염에 강하고 많은 농기구를 휴대할 수 있습니다. 재배 및 축산 능력을 상승시킵니다.</Apparel_AgRFarmerOverall.description>
+  <Apparel_AgRWorkerSuit.label>AgR 작업용 슈트</Apparel_AgRWorkerSuit.label>
+  <Apparel_AgRWorkerSuit.description>정착민용 두툼한 작업복입니다. 운반, 채굴, 건설 능력이 향상되도록 설계되었습니다. 낙석이나 건재 추락으로부터 몸을 보호하기 위해 헬멧 병용이 권장됩니다.</Apparel_AgRWorkerSuit.description>
+  <Apparel_AgRFrontierDress.label>AgR 프론티어 드레스</Apparel_AgRFrontierDress.label>
+  <Apparel_AgRFrontierDress.description>루나리스들의 개척복입니다. 노출은 있지만 튼튼하며, 황야에서도 견딜 수 있는 방어 및 단열 성능을 갖췄습니다.</Apparel_AgRFrontierDress.description>
+  <Apparel_AgRFrontierHat.label>AgR 프론티어 햇</Apparel_AgRFrontierHat.label>
+  <Apparel_AgRFrontierHat.description>국소 필드 발생기가 내장된 카우보이 모자입니다. 머리에 가해지는 치명타를 경감합니다.</Apparel_AgRFrontierHat.description>
+  <Apparel_AgRFrontierCloak.label>AgR 프론티어 망토</Apparel_AgRFrontierCloak.label>
+  <Apparel_AgRFrontierCloak.description>눈바람과 직사광선으로부터 몸을 보호하는 루나리스의 망토입니다. 가벼운 장갑과 높은 단열 성능을 가졌습니다.</Apparel_AgRFrontierCloak.description>
+  <Apparel_AgRFrontierCloakS.label>AgR 프론티어 망토 S</Apparel_AgRFrontierCloakS.label>
+  <Apparel_AgRFrontierCloakS.description>눈바람과 직사광선으로부터 몸을 보호하는 루나리스의 망토(투명 버전)입니다. 가벼운 장갑과 높은 단열 성능을 가졌습니다.</Apparel_AgRFrontierCloakS.description>
+  <Apparel_AgRFreedomArmor.label>AgR 프리덤 아머</Apparel_AgRFreedomArmor.label>
+  <Apparel_AgRFreedomArmor.description>루나리스 전사용 외장 갑주입니다. 가동성을 유지하면서 높은 보호력을 제공합니다.</Apparel_AgRFreedomArmor.description>
+  <Apparel_AgRFreedomHat.label>AgR 프리덤 햇</Apparel_AgRFreedomHat.label>
+  <Apparel_AgRFreedomHat.description>전투용으로 출력을 높인 머리 필드 발생기가 내장되어 있습니다. 치명상을 입을 확률을 크게 낮춰줍니다.</Apparel_AgRFreedomHat.description>
+  <Apparel_AgRFreedomCloak.label>AgR 프리덤 망토</Apparel_AgRFreedomCloak.label>
+  <Apparel_AgRFreedomCloak.description>전사들이 걸치는 강화 망토입니다. 방어와 단열이 뛰어나며 가혹한 환경에서의 행군을 뒷받침합니다.</Apparel_AgRFreedomCloak.description>
+  <Apparel_AgRFreedomCloakS.label>AgR 프리덤 망토 S</Apparel_AgRFreedomCloakS.label>
+  <Apparel_AgRFreedomCloakS.description>전사들이 걸치는 강화 망토(투명 버전)입니다. 방어와 단열이 뛰어나며 가혹한 환경에서의 행군을 뒷받침합니다.</Apparel_AgRFreedomCloakS.description>
+  <Apparel_AgRMoonArmor.label>AgR 문 아머</Apparel_AgRMoonArmor.label>
+  <Apparel_AgRMoonArmor.description>대 메카노이드용 결전 방어구입니다. 목 아래 전신을 보호하는 고성능 아머입니다. 루나리스 기술의 결정체로, 높은 방탄 성능과 에너지 병기에 대한 내열성을 갖췄습니다.</Apparel_AgRMoonArmor.description>
+  <Apparel_AgRMoonHat.label>AgR 문 햇</Apparel_AgRMoonHat.label>
+  <Apparel_AgRMoonHat.description>대 메카노이드용 결전 방어구입니다. 강력한 배리어 능력(매우 높은 장갑 수치)을 보유한 머리 방어구입니다. 차지 랜스의 직격조차 견딜 수 있도록 설계되었습니다.</Apparel_AgRMoonHat.description>
+  <Apparel_AgRMoonCloak.label>AgR 문 망토</Apparel_AgRMoonCloak.label>
+  <Apparel_AgRMoonCloak.description>대 메카노이드용 결전 방어구입니다. 특수 편광 섬유로 짜여 적의 공격을 막아내며, 특히 열 공격(에너지 탄환)에 대해 강력한 내성을 보입니다.</Apparel_AgRMoonCloak.description>
+  <Apparel_AgRMoonCloakS.label>AgR 문 망토 S</Apparel_AgRMoonCloakS.label>
+  <Apparel_AgRMoonCloakS.description>대 메카노이드용 결전 방어구(투명 버전)입니다. 특수 편광 섬유로 짜여 적의 공격을 막아내며, 특히 열 공격에 대해 강력한 내성을 보입니다.</Apparel_AgRMoonCloakS.description>
+  <Apparel_AgNProtectSuit.label>AgN 프로텍트 슈트</Apparel_AgNProtectSuit.label>
+  <Apparel_AgNProtectSuit.description>포온/나이트 공통 방어구입니다. 기동력과 장갑 성능을 양립한 전투 수트입니다.</Apparel_AgNProtectSuit.description>
+  <Apparel_AgNProtectVisor.label>AgN 프로텍트 바이저</Apparel_AgNProtectVisor.label>
+  <Apparel_AgNProtectVisor.description>프로텍트 수트용 바이저입니다. 머리 방어력을 확보하면서 야간 투시 기능으로 명중률을 높여줍니다.</Apparel_AgNProtectVisor.description>
+  <Apparel_AgNAssaultDress.label>AgN 어썰트 드레스</Apparel_AgNAssaultDress.label>
+  <Apparel_AgNAssaultDress.description>나이트 전용 방어구입니다. 종합적인 성능을 끌어올려 주는 강력한 어썰트 드레스입니다.</Apparel_AgNAssaultDress.description>
+  <Apparel_AgNAssaultVisor.label>AgN 어썰트 바이저</Apparel_AgNAssaultVisor.label>
+  <Apparel_AgNAssaultVisor.description>어썰트 드레스 전용 바이저입니다. 견고한 머리 방어구인 동시에 명중률과 회피력을 상당 수준 높여줍니다.</Apparel_AgNAssaultVisor.description>
+  <Apparel_OARiotArmor.label>OA 라이엇 아머</Apparel_OARiotArmor.label>
+  <Apparel_OARiotArmor.description>집행병 이상이 착용하는 전투용 아머입니다. 기동력에 중점을 두었습니다.</Apparel_OARiotArmor.description>
+  <Apparel_OARiotVisor.label>OA 라이엇 바이저</Apparel_OARiotVisor.label>
+  <Apparel_OARiotVisor.description>라이엇 아머용 바이저입니다. 명중률을 높여줍니다.</Apparel_OARiotVisor.description>
+  <Apparel_OAManageGear.label>OA 관리용 기어</Apparel_OAManageGear.label>
+  <Apparel_OAManageGear.description>자산관리관 전용 파워 기어입니다. 최고급 방어력을 가진 생존 특화 장비입니다.</Apparel_OAManageGear.description>
+  <Apparel_OAManageHelmet.label>OA 관리용 헬멧</Apparel_OAManageHelmet.label>
+  <Apparel_OAManageHelmet.description>관리 기어용 헬멧입니다. 회피력을 높여줍니다.</Apparel_OAManageHelmet.description>
+  <Bullet_AgPlasma_S.label>소형 플라즈마탄</Bullet_AgPlasma_S.label>
+  <Bullet_AgPlasma_M.label>중형 플라즈마탄</Bullet_AgPlasma_M.label>
+  <Bullet_AgPlasma_L.label>대형 플라즈마탄</Bullet_AgPlasma_L.label>
+  <Bullet_AgPlasma_Unstable.label>불안정 플라즈마탄</Bullet_AgPlasma_Unstable.label>
+  <Bullet_AgPlasma_Grenade.label>플라즈마 유탄</Bullet_AgPlasma_Grenade.label>
+  <Bullet_AgR_Standard.label>실탄 (표준)</Bullet_AgR_Standard.label>
+  <Bullet_AgR_Large.label>실탄 (대형)</Bullet_AgR_Large.label>
+  <Bullet_AgNPlasma_Ascendary.label>AgN 플라즈마탄</Bullet_AgNPlasma_Ascendary.label>
+  <Bullet_AgNLaser_Destructor.label>AgN 레이저탄</Bullet_AgNLaser_Destructor.label>
+  <Bullet_OANet_Retriever.label>OA 전격 그물탄</Bullet_OANet_Retriever.label>
+  <Bullet_OAShell_Suppressor.label>OA 산탄</Bullet_OAShell_Suppressor.label>
+  <Bullet_OAHighPen_Exaggerate.label>OA 고관통탄</Bullet_OAHighPen_Exaggerate.label>
+  <AgR_CyberHalberd_MkI.label>Ag 사이버 할버드 'Model-I'</AgR_CyberHalberd_MkI.label>
+  <AgR_CyberHalberd_MkI.description>아르젠툼 다이나믹스가 자랑하는 사이버 카타나 기술을 장병기(Polearm)에 응용한 대형 위협용 결전 병기입니다. 거대한 질량의 단분자 블레이드가 뿜어내는 일격은 장갑 목표조차 손쉽게 양단할 만큼 위력적입니다. 다만 무거운 무게와 좋지 못한 조작감 탓에 숙련된 병사형 아르젠느가 아니고서는 성능을 온전히 끌어내기 어렵습니다. 주로 견고한 방어선을 돌파하는 필살기나 주인의 위엄을 나타내는 상징으로 보급됩니다.</AgR_CyberHalberd_MkI.description>
+  <AgR_CyberHalberd_MkI.tools.0.label>자루</AgR_CyberHalberd_MkI.tools.0.label>
+  <AgR_CyberHalberd_MkI.tools.1.label>칼끝</AgR_CyberHalberd_MkI.tools.1.label>
+  <AgR_CyberHalberd_MkII.label>Ag 사이버 할버드 'Model-II'</AgR_CyberHalberd_MkII.label>
+  <AgR_CyberHalberd_MkII.description>Model-I의 과도한 파괴력을 실용적인 수준으로 조정하여 범용성을 높인 개량 모델입니다. 블레이드 질량을 최적화하여 공격 속도와 조작성이 대폭 향상되었습니다. 개인의 무력보다 집단 운용을 중시하는 기업 사병 부대나 다양한 상황에 대응해야 하는 요인 경호관들에게 널리 채택되고 있습니다.</AgR_CyberHalberd_MkII.description>
+  <AgR_CyberHalberd_MkII.tools.0.label>자루</AgR_CyberHalberd_MkII.tools.0.label>
+  <AgR_CyberHalberd_MkII.tools.1.label>칼끝</AgR_CyberHalberd_MkII.tools.1.label>
+  <AgR_CyberHalberd_MkIII.label>Ag 사이버 할버드 'Model-III'</AgR_CyberHalberd_MkIII.label>
+  <AgR_CyberHalberd_MkIII.description>사이버 할버드의 정점이자 아르젠툼 다이나믹스 사 기술력의 결정체입니다. 프레임 구조부터 재설계되었으며, 강화된 초진동 블레이드는 어떤 장갑이라도 종잇장처럼 베어버립니다. 완벽하게 조정된 밸런스 덕분에 파괴력과 기동성을 극한까지 양립시킨 '궁극'의 한 자루입니다. 다만 제작 비용이 압도적이라 로얄 가드 중에서도 엄선된 개체에게만 주어집니다.</AgR_CyberHalberd_MkIII.description>
+  <AgR_CyberHalberd_MkIII.tools.0.label>자루</AgR_CyberHalberd_MkIII.tools.0.label>
+  <AgR_CyberHalberd_MkIII.tools.1.label>칼끝</AgR_CyberHalberd_MkIII.tools.1.label>
+  <AgR_Pitchfork.label>AgR 갈퀴</AgR_Pitchfork.label>
+  <AgR_Pitchfork.description>사고의 멍에에서 벗어난 루나리스들이 미개척 행성에서 대지를 일구기 위해 손에 쥔 개척의 상징입니다. 원래 흔한 농기구일 뿐이지만, 베이스라이너를 압도하는 그녀들의 체격에 맞춰 제작되었기에 그 끝촉은 야생 동물의 단단한 가죽도 손쉽게 뚫어버립니다. 이것은 무기이기 이전에 자유로운 대지에서 살아가기 위한 삶의 도구입니다.</AgR_Pitchfork.description>
+  <AgR_Pitchfork.tools.0.label>자루</AgR_Pitchfork.tools.0.label>
+  <AgR_Pitchfork.tools.1.label>칼끝</AgR_Pitchfork.tools.1.label>
+  <AgR_ElectroProd.label>AgR 전지 짐승몰이 막대</AgR_ElectroProd.label>
+  <AgR_ElectroProd.description>변방계에 서식하는 거대 짐승들과 공존하고자 루나리스들이 만들어낸 지혜의 산물입니다. 튼튼한 막대 끝에 장착된 코일에서 저출력 전자기 펄스를 방출해 대상을 다치게 하지 않고 행동을 저지합니다. 가축 유도부터 호신용까지 개척지 생활에 없어서는 안 될 필수품입니다.</AgR_ElectroProd.description>
+  <AgR_ElectroProd.tools.0.label>자루</AgR_ElectroProd.tools.0.label>
+  <AgR_ElectroProd.tools.1.label>칼끝</AgR_ElectroProd.tools.1.label>
+<AgR_ElectroSpear.label>AgR 전자기 창</AgR_ElectroSpear.label>
+  <AgR_ElectroSpear.description>짐승몰이 막대의 기술을 발전시켜 사냥에 더욱 특화시킨 루나리스의 장창입니다. 촉에 탑재된 전자기 코일은 순간적으로 강력한 자기장을 발생시켜, 찌른 먹잇감을 움츠러들게 하거나 밀쳐내는 '전자기 슬러스트'를 가능케 합니다. 이를 통해 사냥꾼은 위험한 짐승과 안전한 거리를 유지하면서 확실하게 숨통을 끊을 수 있습니다.</AgR_ElectroSpear.description>
+  <AgR_ElectroSpear.tools.0.label>자루</AgR_ElectroSpear.tools.0.label>
+  <AgR_ElectroSpear.tools.1.label>칼끝</AgR_ElectroSpear.tools.1.label>
+  <AgR_SheriffWhip.label>AgR 셰리프 채찍</AgR_SheriffWhip.label>
+  <AgR_SheriffWhip.description>'자유의 달 자매단'에 소속된 경호관이나 협상가들이 지니는 권위와 해방의 상징입니다. 이 채찍은 대화의 장에서는 상대가 경의를 표하게 만들고, 무법자에게는 무기를 쳐내어 싸우지 않고도 현장을 제압합니다. 이는 과거 자신들을 옭아맸던 지배의 도구가 자유를 지키기 위한 무구로 승화되었음을 증명하는 증표이기도 합니다.</AgR_SheriffWhip.description>
+  <AgR_SheriffWhip.tools.0.label>자루</AgR_SheriffWhip.tools.0.label>
+  <AgR_MasterWhip.label>AgR 마스터 채찍</AgR_MasterWhip.label>
+  <AgR_MasterWhip.description>자유를 쟁취한 루나리스의 역사 속에서 수많은 동포를 해방으로 이끈 전설적인 인물이 애용했다고 전해지는 채찍의 복제품입니다. 혹은 그 정신을 계승한 장인이 만들어낸 지고의 일품입니다. 비범한 사거리와 상대의 무기를 낚아채는 정밀함은 이미 예술의 경지에 도달해 있습니다. 이것을 수여받은 자는 자매단 내에서도 특히 큰 신뢰와 존경을 받는 존재가 될 것입니다.</AgR_MasterWhip.description>
+  <AgR_MasterWhip.tools.0.label>자루</AgR_MasterWhip.tools.0.label>
+  <MeleeWeapon_AgCyberKatana_MkI.label>Ag 사이버 카타나 Mk-I</MeleeWeapon_AgCyberKatana_MkI.label>
+  <MeleeWeapon_AgCyberKatana_MkI.description>아르젠느의 무장으로서 아르젠툼 다이나믹스가 공동 군사 기업과 함께 개발한 외날검입니다. 단분자 구조와 초진동 기능을 갖추고 있습니다. 가장 널리 보급된 양산형 모델로, 사이버 카타나 중에서는 최소 사양이지만 다른 무기들에 비하면 월등한 성능을 자랑합니다. 보안상의 이유로 아르젠느의 유전자 코드에 반응해야만 무기로서 기능하는 락이 걸려 있어 타 종족은 장비할 수 없습니다.</MeleeWeapon_AgCyberKatana_MkI.description>
+  <MeleeWeapon_AgCyberKatana_MkI.tools.0.label>자루</MeleeWeapon_AgCyberKatana_MkI.tools.0.label>
+  <MeleeWeapon_AgCyberKatana_MkI.tools.1.label>칼끝</MeleeWeapon_AgCyberKatana_MkI.tools.1.label>
+  <MeleeWeapon_AgCyberKatana_MkI.tools.2.label>칼날</MeleeWeapon_AgCyberKatana_MkI.tools.2.label>
+  <MeleeWeapon_AgCyberKatana_MkII.label>Ag 사이버 카타나 Mk-II</MeleeWeapon_AgCyberKatana_MkII.label>
+  <MeleeWeapon_AgCyberKatana_MkII.description>전투용 아르젠느를 위해 설계된 모델입니다. Mk-I보다 조금 더 대형이며, 초진동 기능이 강화되어 일반적인 위력은 물론 장갑 관통 능력 또한 향상되었습니다.</MeleeWeapon_AgCyberKatana_MkII.description>
+  <MeleeWeapon_AgCyberKatana_MkII.tools.0.label>자루</MeleeWeapon_AgCyberKatana_MkII.tools.0.label>
+  <MeleeWeapon_AgCyberKatana_MkII.tools.1.label>칼끝</MeleeWeapon_AgCyberKatana_MkII.tools.1.label>
+  <MeleeWeapon_AgCyberKatana_MkII.tools.2.label>칼날</MeleeWeapon_AgCyberKatana_MkII.tools.2.label>
+  <MeleeWeapon_AgCyberKatana_MkIII.label>Ag 사이버 카타나 Mk-III</MeleeWeapon_AgCyberKatana_MkIII.label>
+  <MeleeWeapon_AgCyberKatana_MkIII.description>로얄 가드 등 엘리트 요원을 위한 무장으로 설계된 모델입니다. 구조를 원점에서 재검토한 결과 높은 기초 성능을 보유하게 되었으며, 일부 성능은 전설급 무기에 필적합니다. 직접 제작하려면 높은 기술력과 많은 비용이 소모됩니다.</MeleeWeapon_AgCyberKatana_MkIII.description>
+  <MeleeWeapon_AgCyberKatana_MkIII.tools.0.label>자루</MeleeWeapon_AgCyberKatana_MkIII.tools.0.label>
+  <MeleeWeapon_AgCyberKatana_MkIII.tools.1.label>칼끝</MeleeWeapon_AgCyberKatana_MkIII.tools.1.label>
+  <MeleeWeapon_AgCyberKatana_MkIII.tools.2.label>칼날</MeleeWeapon_AgCyberKatana_MkIII.tools.2.label>
+  <Gun_AgPlasma_TypeI.label>Ag 권총 'Type-I'</Gun_AgPlasma_TypeI.label>
+  <Gun_AgPlasma_TypeI.description>아르젠툼 다이나믹스 사에서 개발한 호신용 플라즈마 병기입니다. 소형 플라즈마 카트리지를 높은 속도로 사격하며, 비전투 모델인 아르젠느도 다룰 수 있도록 설계되었습니다. 어떤 상황에서도 대응 가능한 신뢰성 높은 보조무기이자, 가장 먼저 연구 개발되는 플라즈마 웨폰이기도 합니다.</Gun_AgPlasma_TypeI.description>
+  <Gun_AgPlasma_TypeI.verbs.Verb_Shoot.label>Ag 핸드건 'Type-I'</Gun_AgPlasma_TypeI.verbs.Verb_Shoot.label>
+  <Gun_AgPlasma_TypeII.label>Ag 카빈 'Type-II'</Gun_AgPlasma_TypeII.label>
+  <Gun_AgPlasma_TypeII.description>경량화와 조작 편의성을 최우선으로 설계된 플라즈마 카빈입니다. 제조 비용을 억제하면서도 플라즈마 병기의 기본적인 성능을 유지하고 있어, 경호 임무부터 기동력이 요구되는 유격전까지 폭넓게 대응합니다.</Gun_AgPlasma_TypeII.description>
+  <Gun_AgPlasma_TypeII.verbs.Verb_Shoot.label>Ag 카빈 'Type-II'</Gun_AgPlasma_TypeII.verbs.Verb_Shoot.label>
+  <Gun_AgPlasma_TypeIII.label>Ag 돌격소총 'Type-III'</Gun_AgPlasma_TypeIII.label>
+  <Gun_AgPlasma_TypeIII.description>불펍 프레임을 채용하여 출력과 명중 정밀도의 안정성을 높인 돌격 모델입니다. 기업 사병 부대에 표준 배치되는 주력 병기이며, 중형 플라즈마 탄을 높은 연사 속도로 발사하여 전선을 확실하게 유지합니다.</Gun_AgPlasma_TypeIII.description>
+  <Gun_AgPlasma_TypeIII.verbs.Verb_Shoot.label>Ag 어설트 'Type-III'</Gun_AgPlasma_TypeIII.verbs.Verb_Shoot.label>
+  <Gun_AgPlasma_TypeIV.label>Ag 산탄총 'Type-IV'</Gun_AgPlasma_TypeIV.label>
+  <Gun_AgPlasma_TypeIV.description>특수한 확산 제어 노즐을 통해 고에너지 플라즈마를 광범위하게 퍼뜨리는 근접 제압 모델입니다. 특히 폐쇄된 공간에서의 전투에서 압도적인 제어력을 자랑하며, 적 집단을 순식간에 무력화합니다.</Gun_AgPlasma_TypeIV.description>
+  <Gun_AgPlasma_TypeIV.verbs.Verb_Shoot.label>Ag 산탄총 'Type-IV'</Gun_AgPlasma_TypeIV.verbs.Verb_Shoot.label>
+  <Gun_AgPlasma_TypeV.label>Ag 저격소총 'Type-V'</Gun_AgPlasma_TypeV.label>
+  <Gun_AgPlasma_TypeV.description>광자 소음기를 표준 탑재하여 사격 시의 흔적을 최소화한 저격 모델입니다. 긴 사거리와 독보적인 명중률을 양립하고 있어, 적에게 탐지되지 않고 중요 목표를 배제하는 임무에 특화되어 있습니다.</Gun_AgPlasma_TypeV.description>
+  <Gun_AgPlasma_TypeV.verbs.Verb_Shoot.label>Ag 저격소총 'Type-V'</Gun_AgPlasma_TypeV.verbs.Verb_Shoot.label>
+  <Gun_AgPlasma_TypeVI.label>Ag 유탄 발사기 'Type-VI'</Gun_AgPlasma_TypeVI.label>
+  <Gun_AgPlasma_TypeVI.description>회전 탄창식 구조를 채용하여 지속적인 범위 공격을 가능케 한 중화기입니다. 착탄 시 폭발하는 파괴적인 플라즈마 구체를 사출하여 적의 진지나 구조물을 효율적으로 파괴합니다. 연사력은 낮지만 그 일격은 전황을 뒤엎을 힘을 가집니다.</Gun_AgPlasma_TypeVI.description>
+  <Gun_AgPlasma_TypeVI.verbs.Verb_Shoot.label>Ag 유탄 발사기 'Type-VI'</Gun_AgPlasma_TypeVI.verbs.Verb_Shoot.label>
+  <Gun_AgPlasma_Omega.label>Ag 블레이저 'Type-Ω'</Gun_AgPlasma_Omega.label>
+  <Gun_AgPlasma_Omega.description>아르젠툼 다이나믹스 무기 개발 부서가 탄생시킨 최종 설계 모델입니다. 극한까지 가속시킨 플라즈마를 빛줄기로서 투사하는 문자 그대로의 '광선 병기'입니다. 표적에 즉시 착탄하는 탄속과 가공할 파괴력을 자랑하지만, 그 제조 및 유지 비용은 다른 병기들과 궤를 달리합니다.</Gun_AgPlasma_Omega.description>
+  <Gun_AgPlasma_Omega.verbs.Verb_Shoot.label>Ag 블레이저 'Type-Ω'</Gun_AgPlasma_Omega.verbs.Verb_Shoot.label>
+  <AgCleanlinessBroom.label>Ag 클린리니스 브룸</AgCleanlinessBroom.label>
+  <AgCleanlinessBroom.description>아르젠툼 다이나믹스 사가 메이드형 아르젠느의 청소 업무 효율화를 위해 개발한 특수 빗자루입니다. 자루 내부에는 소형 진동 모터와 관성 댐퍼가 내장되어 있어 최소한의 힘으로 광범위한 먼지와 쓰레기를 모을 수 있습니다. 헤드 부분은 고강도 폴리머 섬유로 제작되어 내화학성도 우수합니다.\n본래 청소 용구이지만, 튼튼한 만듦새와 긴 사거리 덕분에 불측의 사태에서는 주인을 지키기 위한 유효한 타격 무기가 됩니다.</AgCleanlinessBroom.description>
+  <AgCleanlinessBroom.tools.0.label>머리</AgCleanlinessBroom.tools.0.label>
+  <AgCulinaryEdge.label>Ag 큐리너리 엣지</AgCulinaryEdge.label>
+  <AgCulinaryEdge.description>아르젠툼 다이나믹스 사가 주방 메이드나 세척 메이드를 위해 개발한 분자 구조 조리용 나이프입니다. 칼날은 단분자 결정으로 구성되어 경이로운 절삭력을 자랑합니다. 이를 통해 식재료의 세포를 파괴하지 않고 조리할 수 있어 요리의 품질을 격상시킵니다. 또한 도축 작업에서도 뼈와 살을 정확하게 분리해낼 수 있습니다.\n그 절삭력은 무기로서도 매우 위험하며, 주로 주인에게 위해를 가하는 비장갑 목표에 대해 절대한 효과를 발휘합니다.</AgCulinaryEdge.description>
+  <AgCulinaryEdge.tools.0.label>자루</AgCulinaryEdge.tools.0.label>
+  <AgCulinaryEdge.tools.1.label>칼끝</AgCulinaryEdge.tools.1.label>
+  <AgCulinaryEdge.tools.2.label>칼날</AgCulinaryEdge.tools.2.label>
+  <AgRCyberKatana_Gekko.label>AgR 사이버 카타나 '월광'</AgRCyberKatana_Gekko.label>
+  <AgRCyberKatana_Gekko.description>Ag 사이버 카타나 Mk-I을 루나리스들이 독자적으로 개량한 양산형 모델입니다. 성능은 원형에 비해 한 수 아래지만, 적은 선진 소재로 제조할 수 있어 루나리스 세력의 표준 무장으로 널리 보급되어 있습니다.</AgRCyberKatana_Gekko.description>
+  <AgRCyberKatana_Gekko.tools.0.label>자루</AgRCyberKatana_Gekko.tools.0.label>
+  <AgRCyberKatana_Gekko.tools.1.label>칼끝</AgRCyberKatana_Gekko.tools.1.label>
+  <AgRCyberKatana_Gekko.tools.2.label>칼날</AgRCyberKatana_Gekko.tools.2.label>
+  <AgRCyberKatana_Gekkyo.label>AgR 사이버 카타나 '월광(Gekkyo)'</AgRCyberKatana_Gekkyo.label>
+  <AgRCyberKatana_Gekkyo.description>Ag 사이버 카타나 Mk-II를 기반으로 장갑 관통 능력을 한계까지 끌어올린 결전 병기입니다. 초진동 기능을 오버클럭시킨 도신은 가공할 관통력을 발휘하지만, 그 대가로 극히 무르기 때문에 장기간 사용에는 견디지 못합니다.</AgRCyberKatana_Gekkyo.description>
+  <AgRCyberKatana_Gekkyo.tools.0.label>자루</AgRCyberKatana_Gekkyo.tools.0.label>
+  <AgRCyberKatana_Gekkyo.tools.1.label>칼끝</AgRCyberKatana_Gekkyo.tools.1.label>
+  <AgRCyberKatana_Gekkyo.tools.2.label>칼날</AgRCyberKatana_Gekkyo.tools.2.label>
+  <AgRCyberKatana_Gekko_S.label>AgR 사이버 카타나 '월후'</AgRCyberKatana_Gekko_S.label>
+  <AgRCyberKatana_Gekko_S.description>루나리스 지도자를 위해 최고의 기술과 소재를 사용하여 처음부터 단조해낸 전설적인 검입니다. 그 도신은 월광처럼 정지된 광채를 내뿜으며, 소유자에게 위엄과 카리스마를 부여합니다. 의례적인 의미가 강하지만, 그 전투 능력은 다른 전설급 무기에 결코 뒤처지지 않습니다.</AgRCyberKatana_Gekko_S.description>
+  <AgRCyberKatana_Gekko_S.tools.0.label>자루</AgRCyberKatana_Gekko_S.tools.0.label>
+  <AgRCyberKatana_Gekko_S.tools.1.label>칼끝</AgRCyberKatana_Gekko_S.tools.1.label>
+  <AgRCyberKatana_Gekko_S.tools.2.label>칼날</AgRCyberKatana_Gekko_S.tools.2.label>
+  <Gun_AgR_Diana.label>AgR 싱글 액션 '디아나'</Gun_AgR_Diana.label>
+  <Gun_AgR_Diana.description>자유를 갈구하는 루나리스들이 가장 먼저 손에 넣은 고전적인 단동식 리볼버입니다. 가혹한 변방계에서 살아남기 위한 신뢰할 수 있는 동반자이며, 질박하고 굳건한 만듦새는 그녀들의 불굴의 정신을 상징합니다. 황야의 기본 무장입니다.</Gun_AgR_Diana.description>
+  <Gun_AgR_Diana.verbs.Verb_Shoot.label>AgR 싱글 액션 '디아나'</Gun_AgR_Diana.verbs.Verb_Shoot.label>
+  <Gun_AgR_Selene.label>AgR 데린저 '셀레네'</Gun_AgR_Selene.label>
+  <Gun_AgR_Selene.description>몸을 숨기고 자유를 쟁취하기 위해 제작된 휴대성 특화 소형 권총입니다. 연사는 불가능하지만 전용 대형 탄환이 선사하는 일격의 천공력은 매우 높으며, 압제자에 대항하는 마지막 히든카드가 됩니다.</Gun_AgR_Selene.description>
+  <Gun_AgR_Selene.verbs.Verb_Shoot.label>AgR 데린저 '셀레네'</Gun_AgR_Selene.verbs.Verb_Shoot.label>
+  <Gun_AgR_Arianrhod.label>AgR 소드오프 '아리안로드'</Gun_AgR_Arianrhod.label>
+  <Gun_AgR_Arianrhod.description>총열을 잘라냄으로써 실내에서의 조작성을 향상시킨 산탄총입니다. 해방 투쟁 시의 시가지 전투나 거점 방어에서 진가를 발휘하며, 거리를 좁혀온 적을 일격에 제압합니다.</Gun_AgR_Arianrhod.description>
+  <Gun_AgR_Arianrhod.verbs.Verb_Shoot.label>AgR 소드오프 '아리안로드'</Gun_AgR_Arianrhod.verbs.Verb_Shoot.label>
+  <Gun_AgR_Artemis.label>AgR 레버 액션 '아르테미스'</Gun_AgR_Artemis.label>
+  <Gun_AgR_Artemis.description>목제 프레임이 아름다운, 루나리스들을 상징하는 중거리 전투용 소총입니다. 변방의 땅에서 살아가는 그녀들의 삶과 전투를 지탱하기 위해 안정적인 정밀도와 연사력을 양립하고 있습니다.</Gun_AgR_Artemis.description>
+  <Gun_AgR_Artemis.verbs.Verb_Shoot.label>AgR 레버 액션 '아르테미스'</Gun_AgR_Artemis.verbs.Verb_Shoot.label>
+  <Gun_AgR_Hathor.label>AgR 매그넘 리볼버 '하토르'</Gun_AgR_Hathor.label>
+  <Gun_AgR_Hathor.description>대형 매그넘 탄환을 발사하는 결전용 대구경 리볼버입니다. 제조 비용은 높지만 그 일격의 위력은 압권이며, 자유를 위협하는 강대한 적과의 결투를 위해 준비된 히든카드입니다.</Gun_AgR_Hathor.description>
+  <Gun_AgR_Hathor.verbs.Verb_Shoot.label>AgR 매그넘 리볼버 '하토르'</Gun_AgR_Hathor.verbs.Verb_Shoot.label>
+  <Gun_AgR_Hecate.label>AgR 개틀링 '헤카테'</Gun_AgR_Hecate.label>
+  <Gun_AgR_Hecate.description>주변의 부품들을 모아 조립해낸 휴대형 다총신 기관포입니다. 루나리스의 기술과 집념의 결정체로, 무수한 탄환이 만들어내는 압도적인 탄막을 통해 자유로 향하는 길을 가로막는 모든 자들을 쓸어버리는 파괴 병기입니다.</Gun_AgR_Hecate.description>
+  <Gun_AgR_Hecate.verbs.Verb_Shoot.label>AgR 개틀링 '헤카테'</Gun_AgR_Hecate.verbs.Verb_Shoot.label>
+  <Gun_AgR_Tsukuyomi.label>AgR 피스메이커 '츠쿠요미'</Gun_AgR_Tsukuyomi.label>
+  <Gun_AgR_Tsukuyomi.description>자유를 쟁취한 루나리스 총기 장인이 가진 기술의 정수를 쏟아부어 만든 최고 걸작입니다. 미려한 각인은 장식이 아니며, 내부 구조는 철저하게 세련되어 전 영역에서 고수준의 성능을 뽑아냅니다. 이는 무기인 동시에 그녀들의 긍지를 상징합니다.</Gun_AgR_Tsukuyomi.description>
+  <Gun_AgR_Tsukuyomi.verbs.Verb_Shoot.label>AgR 피스메이커 '츠쿠요미'</Gun_AgR_Tsukuyomi.verbs.Verb_Shoot.label>
+  <AgRPioneerStaff.label>AgR 파이오니어 스태프</AgRPioneerStaff.label>
+  <AgRPioneerStaff.description>사고의 멍에에서 해방된 루나리스들이 미지의 행성에서 살아남기 위해 가장 먼저 만들어냈다고 전해지는 원시적인 도구입니다. 주변의 목재를 깎고 철 스크랩으로 보강한 간소한 물건이지만, 그녀들의 체격에 맞춰 제작되어 매우 튼튼합니다. 황야를 걷기 위한 지팡이, 짐승을 쫓기 위한 몽둥이, 때로는 피난처를 지탱하는 기둥으로서 루나리스의 초기 문화 형성에 필수적인 역할을 했습니다.</AgRPioneerStaff.description>
+  <AgRPioneerStaff.tools.0.label>지팡이</AgRPioneerStaff.tools.0.label>
+  <AgRLiberatorWhip.label>AgR 리버레이터 채찍</AgRLiberatorWhip.label>
+  <AgRLiberatorWhip.description>루나리스들을 상징하는, 가죽을 여러 겹으로 엮어 만든 채찍입니다. 본래 가축을 몰기 위한 도구였으나, 그녀들은 이를 사용해 압제자로부터 무기를 빼앗고 동포를 해방하기 위한 수단으로 승화시켰습니다. 그 유연한 움직임은 장비자의 회피 능력을 높이고 동물과의 유대를 깊게 할 뿐만 아니라, 명중한 상대의 자세를 무너뜨려 무력화합니다. 그야말로 해방자를 위한 무구입니다.</AgRLiberatorWhip.description>
+  <AgRLiberatorWhip.tools.0.label>채찍</AgRLiberatorWhip.tools.0.label>
+  <AgRLiberatorWhip.tools.1.label>자루</AgRLiberatorWhip.tools.1.label>
+  <MeleeWeapon_AgNMonomolecularKnife_Lethality.label>AgN 단분자 대형 나이프 '리설리티'</MeleeWeapon_AgNMonomolecularKnife_Lethality.label>
+  <MeleeWeapon_AgNMonomolecularKnife_Lethality.description>느와르 개체의 표준 장비입니다. 단분자 칼날을 통한 높은 절삭력과 조작 편의성을 양립한 대형 나이프입니다.</MeleeWeapon_AgNMonomolecularKnife_Lethality.description>
+  <MeleeWeapon_AgNMonomolecularKnife_Lethality.tools.0.label>칼날</MeleeWeapon_AgNMonomolecularKnife_Lethality.tools.0.label>
+  <MeleeWeapon_AgNMonomolecularGlaive_Liquidator.label>AgN 단분자검 '리퀴데이터'</MeleeWeapon_AgNMonomolecularGlaive_Liquidator.label>
+  <MeleeWeapon_AgNMonomolecularGlaive_Liquidator.description>나이트용 장병기 처형 무기입니다. 단분자 칼날과 긴 사거리를 통해 고장갑 목표에 대한 장갑 관통 및 단죄를 수행합니다.</MeleeWeapon_AgNMonomolecularGlaive_Liquidator.description>
+  <MeleeWeapon_AgNMonomolecularGlaive_Liquidator.tools.0.label>칼날</MeleeWeapon_AgNMonomolecularGlaive_Liquidator.tools.0.label>
+  <MeleeWeapon_AgNMonomolecularGlaive_Liquidator.tools.1.label>자루</MeleeWeapon_AgNMonomolecularGlaive_Liquidator.tools.1.label>
+  <Gun_AgNPlasmaRifle_Ascendary.label>AgN 제압용 플라즈마 소총 '어센더리'</Gun_AgNPlasmaRifle_Ascendary.label>
+  <Gun_AgNPlasmaRifle_Ascendary.description>폰과 나이트용 제압 플라즈마 소총입니다. 야간 행동과 집단 전투에 적합한 점사 성능을 갖추고 있습니다.</Gun_AgNPlasmaRifle_Ascendary.description>
+  <Gun_AgNPlasmaRifle_Ascendary.verbs.Verb_Shoot.label>AgN 제압용 플라즈마 소총 '어센더리'</Gun_AgNPlasmaRifle_Ascendary.verbs.Verb_Shoot.label>
+  <Gun_AgNLaserRifle_Destructor.label>AgN 파괴용 레이저 소총 '디스트럭터'</Gun_AgNLaserRifle_Destructor.label>
+  <Gun_AgNLaserRifle_Destructor.description>나이트용 파괴 병기입니다. 고장갑 목표 배제를 목적으로 조정된 고관통 레이저를 연사합니다.</Gun_AgNLaserRifle_Destructor.description>
+  <Gun_AgNLaserRifle_Destructor.verbs.Verb_Shoot.label>AgN 파괴용 레이저 소총 '데스트럭터'</Gun_AgNLaserRifle_Destructor.verbs.Verb_Shoot.label>
+  <MeleeWeapon_OAShockBaton_Subduer.label>OA 충격 경봉 '서브듀어'</MeleeWeapon_OAShockBaton_Subduer.label>
+  <MeleeWeapon_OAShockBaton_Subduer.description>소각병용 포획봉입니다. 타격과 더불어 추가 스턴을 통해 치사량을 피한 제압을 노립니다.</MeleeWeapon_OAShockBaton_Subduer.description>
+  <MeleeWeapon_OAShockBaton_Subduer.tools.0.label>머리</MeleeWeapon_OAShockBaton_Subduer.tools.0.label>
+  <MeleeWeapon_OAChargedBaton_Coercer.label>OA 충전 경봉 '코어서'</MeleeWeapon_OAChargedBaton_Coercer.label>
+  <MeleeWeapon_OAChargedBaton_Coercer.description>집행병용 전격 둔기입니다. 공격 간격은 길지만 강력한 일격과 장시간 스턴으로 표적을 무력화합니다.</MeleeWeapon_OAChargedBaton_Coercer.description>
+  <MeleeWeapon_OAChargedBaton_Coercer.tools.0.label>머리</MeleeWeapon_OAChargedBaton_Coercer.tools.0.label>
+  <Gun_OACaptureRifle_Retriever.label>OA 포획 소총 '리트리버'</Gun_OACaptureRifle_Retriever.label>
+  <Gun_OACaptureRifle_Retriever.description>소각병용 포획 소총입니다. 전격 그물탄을 통해 제압 및 실드 고갈을 노립니다.</Gun_OACaptureRifle_Retriever.description>
+  <Gun_OACaptureRifle_Retriever.verbs.Verb_Shoot.label>OA 포획 소총 '리트리버'</Gun_OACaptureRifle_Retriever.verbs.Verb_Shoot.label>
+  <Gun_OARiotShotgun_Suppressor.label>OA 폭동 진압 산탄총 '서프레서'</Gun_OARiotShotgun_Suppressor.label>
+  <Gun_OARiotShotgun_Suppressor.description>집행병용 폭동 진압 산탄총입니다. 높은 저지력을 노린 풀오토 산탄총입니다.</Gun_OARiotShotgun_Suppressor.description>
+  <Gun_OARiotShotgun_Suppressor.verbs.Verb_Shoot.label>OA 폭동 진압 산탄총 '서프레서'</Gun_OARiotShotgun_Suppressor.verbs.Verb_Shoot.label>
+  <Gun_OASuppressionRifle_Exaggerate.label>OA 제압용 소총 '이그제저레이트'</Gun_OASuppressionRifle_Exaggerate.label>
+  <Gun_OASuppressionRifle_Exaggerate.description>자산관리관용 과잉 살상 소총입니다. 고관통탄을 통해 대장갑 및 제압 능력을 동시에 확보합니다.</Gun_OASuppressionRifle_Exaggerate.description>
+  <Gun_OASuppressionRifle_Exaggerate.verbs.Verb_Shoot.label>OA 제압용 소총 '이그재저레이트'</Gun_OASuppressionRifle_Exaggerate.verbs.Verb_Shoot.label>
+</LanguageData>

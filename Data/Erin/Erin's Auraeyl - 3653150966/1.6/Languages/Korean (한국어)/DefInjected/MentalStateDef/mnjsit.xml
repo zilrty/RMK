@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ERN_Scratchies.label>스크래치</ERN_Scratchies.label>
+  <ERN_Scratchies.beginLetterLabel>스크래치!</ERN_Scratchies.beginLetterLabel>
+  <ERN_Scratchies.beginLetter>{0}(이)가폭발해서 긁기 시작합니다!\n\n[PAWN_pronoun](이)가 {1}(을)를 파괴할 것입니다.</ERN_Scratchies.beginLetter>
+  <ERN_Scratchies.recoveryMessage>{0}(은)는 더 이상 무언가를 긁지 않습니다.</ERN_Scratchies.recoveryMessage>
+  <ERN_Scratchies.baseInspectLine>정신 상태: 스크래치</ERN_Scratchies.baseInspectLine>
+  <ERN_Zoomies.label>우다다</ERN_Zoomies.label>
+  <ERN_Zoomies.beginLetterLabel>우다다!</ERN_Zoomies.beginLetterLabel>
+  <ERN_Zoomies.beginLetter>{0}(은)는 참을 수 없어 속도를 내기 시작합니다!</ERN_Zoomies.beginLetter>
+  <ERN_Zoomies.recoveryMessage>{0}(은)는 더이상 뛰지 않습니다.</ERN_Zoomies.recoveryMessage>
+  <ERN_Zoomies.baseInspectLine>정신 상태: 우다다</ERN_Zoomies.baseInspectLine>
+</LanguageData>

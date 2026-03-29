@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_Mech_HevMecA.label>군용 다족 마톤(2연장 기관총)</AR_Mech_HevMecA.label>
+  <AR_Mech_HevMecB.label>군용 다족 마톤(기관포)</AR_Mech_HevMecB.label>
+  <AR_Mech_HevMecC.label>군용 다족 마톤(모선)</AR_Mech_HevMecC.label>
+  <AR_Mech_MiniMecA.label>가사 노동 마톤</AR_Mech_MiniMecA.label>
+  <AR_Mech_MiniMecB.label>현장 노동 마톤</AR_Mech_MiniMecB.label>
+  <AR_Mech_MiniMecC.label>실외 노동 마톤</AR_Mech_MiniMecC.label>
+  <AR_Mech_MiniMecD.label>경비 보조 마톤</AR_Mech_MiniMecD.label>
+  <AR_Mech_MiniMecE.label>간호 보조 마톤</AR_Mech_MiniMecE.label>
+  <Mech_AR_WarUrchin.label>드론 마톤</Mech_AR_WarUrchin.label>
+  <Mech_AR_WarUrchin.labelPlural>드론 마톤</Mech_AR_WarUrchin.labelPlural>
+  <AR_Mech_MidMecA.label>군용 마톤(경보병)</AR_Mech_MidMecA.label>
+  <AR_Mech_MidMecB.label>군용 마톤(기관총병)</AR_Mech_MidMecB.label>
+  <AR_Mech_MidMecC.label>군용 마톤(돌격병)</AR_Mech_MidMecC.label>
+  <AR_Mech_MiniMecA_NPC.label>가정용 마톤</AR_Mech_MiniMecA_NPC.label>
+  <AR_Mech_HevMecA_NPC.label>군용 다족 마톤(연장 기관총)</AR_Mech_HevMecA_NPC.label>
+  <AR_Mech_HevMecB_NPC.label>군용 다족 마톤(기관포)</AR_Mech_HevMecB_NPC.label>
+  <AR_Mech_MidMecA_NPC.label>군용 마톤(보병)</AR_Mech_MidMecA_NPC.label>
+  <Aliaile_Colonists.label>정착민</Aliaile_Colonists.label>
+  <Dimiaile_Colonists.label>정착민</Dimiaile_Colonists.label>
+  <Aliaile_Member.label>회원</Aliaile_Member.label>
+  <Dimiaile_Member.label>회원</Dimiaile_Member.label>
+  <Aliaile_Tamago.label>정착민</Aliaile_Tamago.label>
+  <Aliaile_Member_Start.label>회원</Aliaile_Member_Start.label>
+  <AR_Aliaile_Kind_Trader_A.label>수석 상인</AR_Aliaile_Kind_Trader_A.label>
+  <AR_Aliaile_Kind_leader_A.label>날개의 왕</AR_Aliaile_Kind_leader_A.label>
+  <AR_Dimiaile_Kind_Maid_A.label>메이드</AR_Dimiaile_Kind_Maid_A.label>
+  <AR_Dimiaile_Kind_militia_A.label>메이드 민병(경장비)</AR_Dimiaile_Kind_militia_A.label>
+  <AR_Dimiaile_Kind_militia_AMG.label>메이드 민병(기관총)</AR_Dimiaile_Kind_militia_AMG.label>
+  <AR_Dimiaile_Kind_militia_B.label>메이드 민병(중장비)</AR_Dimiaile_Kind_militia_B.label>
+  <AR_Dimiaile_Kind_DA_A.label>방호군(소총수)</AR_Dimiaile_Kind_DA_A.label>
+  <AR_Dimiaile_Kind_DA_B.label>방호군(돌격병)</AR_Dimiaile_Kind_DA_B.label>
+  <AR_Dimiaile_Kind_DA_C.label>방호군(기관총)</AR_Dimiaile_Kind_DA_C.label>
+  <AR_Dimiaile_Kind_Army_A.label>야전군(소총수)</AR_Dimiaile_Kind_Army_A.label>
+  <AR_Dimiaile_Kind_Army_B.label>야전군(척탄병)</AR_Dimiaile_Kind_Army_B.label>
+  <AR_Dimiaile_Kind_Army_C.label>야전군(기관총)</AR_Dimiaile_Kind_Army_C.label>
+  <AR_Dimiaile_Kind_Army_D.label>야전군(돌격병)</AR_Dimiaile_Kind_Army_D.label>
+</LanguageData>

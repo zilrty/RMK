@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MimicSlime_PlayerFaction.label>의태 슬라임 정착지</MimicSlime_PlayerFaction.label>
+  <MimicSlime_PlayerFaction.description>의태 슬라임들의 새로운 정착지입니다.</MimicSlime_PlayerFaction.description>
+  <MimicSlime_PlayerFaction.pawnSingular>의태 슬라임 정착민</MimicSlime_PlayerFaction.pawnSingular>
+  <MimicSlime_PlayerFaction.pawnsPlural>의태 슬라임 정착민들</MimicSlime_PlayerFaction.pawnsPlural>
+  <MimicSlime_PlayerFaction.leaderTitle>지도자</MimicSlime_PlayerFaction.leaderTitle>
+
+  <HostileWildSlime.label>야생 슬라임</HostileWildSlime.label>
+  <HostileWildSlime.fixedName>적대적 야생 슬라임</HostileWildSlime.fixedName>
+  <HostileWildSlime.pawnSingular>슬라임</HostileWildSlime.pawnSingular>
+  <HostileWildSlime.pawnsPlural>슬라임들</HostileWildSlime.pawnsPlural>
+  <HostileWildSlime.leaderTitle>우두머리</HostileWildSlime.leaderTitle>
+
+  <MimicSlime_NFC.label>네오폼 코퍼레이션</MimicSlime_NFC.label>
+  <MimicSlime_NFC.fixedName>네오폼 코퍼레이션</MimicSlime_NFC.fixedName>
+  <MimicSlime_NFC.description>슬라임 연구를 전문으로 하는 것으로 보이는 의문의 생명공학 기업입니다.</MimicSlime_NFC.description>
+  <MimicSlime_NFC.pawnSingular>직원</MimicSlime_NFC.pawnSingular>
+  <MimicSlime_NFC.pawnsPlural>직원들</MimicSlime_NFC.pawnsPlural>
+  <MimicSlime_NFC.leaderTitle>대표이사</MimicSlime_NFC.leaderTitle>
+  <MimicSlime_NFC.royalFavorLabel>기업 주식</MimicSlime_NFC.royalFavorLabel>
+</LanguageData>

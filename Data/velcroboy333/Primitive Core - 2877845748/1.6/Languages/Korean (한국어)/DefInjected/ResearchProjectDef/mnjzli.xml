@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBY_PrimitiveProduction.label>원시 제작</VBY_PrimitiveProduction.label>
+  <VBY_PrimitiveProduction.description>기초적인 도구와 자원을 사용해 한 단계 발전된 제작 설비를 만드는 법을 배웁니다.</VBY_PrimitiveProduction.description>
+  <VBY_PrimitiveTools.label>원시 도구</VBY_PrimitiveTools.label>
+  <VBY_PrimitiveTools.description>부싯돌, 목재, 석재를 활용해 더 나은 도구와 무기를 제작하는 법을 배웁니다.</VBY_PrimitiveTools.description>
+</LanguageData>

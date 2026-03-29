@@ -1,0 +1,934 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_Stupefy_Projectile.label>섬광</AR_Stupefy_Projectile.label>
+  <AR_MecBuffEffect.label>메카 강화 오라</AR_MecBuffEffect.label>
+  <AR_Bullet_firebeam.label>화염 광선</AR_Bullet_firebeam.label>
+  <AR_BulletShieldPsychic.label>도약 방어막</AR_BulletShieldPsychic.label>
+  <AR_Mechlink.label>스팀 메크링크</AR_Mechlink.label>
+  <AR_Mechlink.description>알리아일들이 생산하는 독자적인 메크링크입니다.</AR_Mechlink.description>
+  <AR_Mechlink.comps.CompUsableImplant.useLabel>{0_label} 설치하여 메카나이터 되기</AR_Mechlink.comps.CompUsableImplant.useLabel>
+  <AR_SubcoreSteam.label>기본 스팀 서브코어</AR_SubcoreSteam.label>
+  <AR_SubcoreSteam.description>소형 마톤을 제작하기 위한 핵심 부품입니다.</AR_SubcoreSteam.description>
+  <AR_SubcoreSteamB.label>개량형 스팀 서브코어</AR_SubcoreSteamB.label>
+  <AR_SubcoreSteamB.description>군용 마톤을 제작하기 위한 핵심 부품입니다.</AR_SubcoreSteamB.description>
+  <AR_SubcoreSteamC.label>선진형 스팀 서브코어</AR_SubcoreSteamC.label>
+  <AR_SubcoreSteamC.description>다족 보행 마톤을 제작하기 위한 핵심 부품입니다.</AR_SubcoreSteamC.description>
+  <Gun_AR_MachinePistolMEC.label>기계식 카빈</Gun_AR_MachinePistolMEC.label>
+  <Gun_AR_MachinePistolMEC.description>소형 오토마타가 알리아일들을 호위하기 위해 장비하는 소형 자동 카빈입니다.</Gun_AR_MachinePistolMEC.description>
+  <Gun_AR_MachinePistolMEC.verbs.Verb_Shoot.label>기계식 카빈</Gun_AR_MachinePistolMEC.verbs.Verb_Shoot.label>
+  <Gun_AR_MachinePistolMEC.tools.0.label>손잡이</Gun_AR_MachinePistolMEC.tools.0.label>
+  <Gun_AR_MachinePistolMEC.tools.1.label>총열</Gun_AR_MachinePistolMEC.tools.1.label>
+  <Gun_AR_MachinePistolSMEC.label>간이 기관단총</Gun_AR_MachinePistolSMEC.label>
+  <Gun_AR_MachinePistolSMEC.description>일회용 드론이 장비하는 것을 상정하여 제작된 매우 간소화된 기관단총입니다.</Gun_AR_MachinePistolSMEC.description>
+  <Gun_AR_MachinePistolSMEC.verbs.Verb_Shoot.label>간이 기관단총</Gun_AR_MachinePistolSMEC.verbs.Verb_Shoot.label>
+  <Gun_AR_MachinePistolSMEC.tools.0.label>손잡이</Gun_AR_MachinePistolSMEC.tools.0.label>
+  <Gun_AR_MachinePistolSMEC.tools.1.label>총열</Gun_AR_MachinePistolSMEC.tools.1.label>
+  <Gun_AR_MachinePistolHMEC.label>내장형 자동권총</Gun_AR_MachinePistolHMEC.label>
+  <Gun_AR_MachinePistolHMEC.description>대형 마톤이 근거리의 적을 소탕하기 위한 부무장입니다.</Gun_AR_MachinePistolHMEC.description>
+  <Gun_AR_MachinePistolHMEC.verbs.Verb_Shoot.label>내장형 자동권총</Gun_AR_MachinePistolHMEC.verbs.Verb_Shoot.label>
+  <Gun_AR_MachinePistolHMEC.tools.0.label>손잡이</Gun_AR_MachinePistolHMEC.tools.0.label>
+  <Gun_AR_MachinePistolHMEC.tools.1.label>총열</Gun_AR_MachinePistolHMEC.tools.1.label>
+  <Gun_AR_PumpShotgunMEC.label>진압용 총</Gun_AR_PumpShotgunMEC.label>
+  <Gun_AR_PumpShotgunMEC.description>소형 오토마타가 방어용으로 장비하는 펌프 액션 산탄총입니다.</Gun_AR_PumpShotgunMEC.description>
+  <Gun_AR_PumpShotgunMEC.verbs.Verb_Shoot.label>진압용 총</Gun_AR_PumpShotgunMEC.verbs.Verb_Shoot.label>
+  <Gun_AR_PumpShotgunMEC.tools.0.label>개머리판</Gun_AR_PumpShotgunMEC.tools.0.label>
+  <Gun_AR_PumpShotgunMEC.tools.1.label>총열</Gun_AR_PumpShotgunMEC.tools.1.label>
+  <Gun_AR_BoltActionRifleMec.label>바민트 소총</Gun_AR_BoltActionRifleMec.label>
+  <Gun_AR_BoltActionRifleMec.description>소형 마톤이 유해 조수를 쫓아낼 때 사용하는 소구경 수렵용 소총입니다.</Gun_AR_BoltActionRifleMec.description>
+  <Gun_AR_BoltActionRifleMec.verbs.Verb_Shoot.label>바민트 소총</Gun_AR_BoltActionRifleMec.verbs.Verb_Shoot.label>
+  <Gun_AR_BoltActionRifleMec.tools.0.label>개머리판</Gun_AR_BoltActionRifleMec.tools.0.label>
+  <Gun_AR_BoltActionRifleMec.tools.1.label>총열</Gun_AR_BoltActionRifleMec.tools.1.label>
+  <Gun_AR_BoltActionCarbineMec.label>경호용 카빈</Gun_AR_BoltActionCarbineMec.label>
+  <Gun_AR_BoltActionCarbineMec.description>경비용 소형 마톤이 장비하는 볼트 액션식 군용 카빈입니다.</Gun_AR_BoltActionCarbineMec.description>
+  <Gun_AR_BoltActionCarbineMec.verbs.Verb_Shoot.label>경호용 카빈</Gun_AR_BoltActionCarbineMec.verbs.Verb_Shoot.label>
+  <Gun_AR_BoltActionCarbineMec.tools.0.label>개머리판</Gun_AR_BoltActionCarbineMec.tools.0.label>
+  <Gun_AR_BoltActionCarbineMec.tools.1.label>대검</Gun_AR_BoltActionCarbineMec.tools.1.label>
+  <Gun_AR_SemiautoRifleBY.label>반자동 소총</Gun_AR_SemiautoRifleBY.label>
+  <Gun_AR_SemiautoRifleBY.description>볼트 액션 보병총을 반자동 방식으로 개조한 모델입니다.</Gun_AR_SemiautoRifleBY.description>
+  <Gun_AR_SemiautoRifleBY.verbs.Verb_Shoot.label>반자동 소총</Gun_AR_SemiautoRifleBY.verbs.Verb_Shoot.label>
+  <Gun_AR_SemiautoRifleBY.tools.0.label>개머리판</Gun_AR_SemiautoRifleBY.tools.0.label>
+  <Gun_AR_SemiautoRifleBY.tools.1.label>대검</Gun_AR_SemiautoRifleBY.tools.1.label>
+  <Gun_AR_MECLMG.label>수랭식 경기관총</Gun_AR_MECLMG.label>
+  <Gun_AR_MECLMG.description>기관총병 오토마톤이 장비하는 중기관총입니다.</Gun_AR_MECLMG.description>
+  <Gun_AR_MECLMG.verbs.Verb_Shoot.label>수랭식 경기관총</Gun_AR_MECLMG.verbs.Verb_Shoot.label>
+  <Gun_AR_MECLMG.tools.0.label>개머리판</Gun_AR_MECLMG.tools.0.label>
+  <Gun_AR_MECLMG.tools.1.label>총열</Gun_AR_MECLMG.tools.1.label>
+  <Gun_AR_PumpShotgunMECBY.label>반자동 산탄총</Gun_AR_PumpShotgunMECBY.label>
+  <Gun_AR_PumpShotgunMECBY.description>반자동 방식으로 개조된 산탄총입니다. 연사력이 향상되었습니다.</Gun_AR_PumpShotgunMECBY.description>
+  <Gun_AR_PumpShotgunMECBY.verbs.Verb_Shoot.label>반자동 산탄총</Gun_AR_PumpShotgunMECBY.verbs.Verb_Shoot.label>
+  <Gun_AR_PumpShotgunMECBY.tools.0.label>개머리판</Gun_AR_PumpShotgunMECBY.tools.0.label>
+  <Gun_AR_PumpShotgunMECBY.tools.1.label>대검</Gun_AR_PumpShotgunMECBY.tools.1.label>
+  <AR_SubcoreEncoder.label>스팀 부호기</AR_SubcoreEncoder.label>
+  <AR_SubcoreEncoder.description>스팀 오토마톤의 핵심인 스팀 서브코어를 제조하기 위한 시설입니다. 또한, 알리아일 메카나이터를 위한 특별한 장비나 아이템을 제작하는 데에도 사용됩니다.</AR_SubcoreEncoder.description>
+  <AR_MechGestator.label>소형 오토마톤 배양기</AR_MechGestator.label>
+  <AR_MechGestator.description>소형 오토마톤을 배양하기 위한 장치입니다.</AR_MechGestator.description>
+  <AR_BasicRecharger.label>오토마톤 충전기</AR_BasicRecharger.label>
+  <AR_BasicRecharger.description>경량 오토마톤의 충전을 수행하는 장치입니다.</AR_BasicRecharger.description>
+  <AR_Mech_HevMecA.label>군용 다족 마톤(연장 기관총)</AR_Mech_HevMecA.label>
+  <AR_Mech_HevMecA.description>2연장 중기관총 포탑을 장착한 다족 보행 군용 마톤입니다. 기관총으로 원거리의 적을 소탕하는 데 특화되어 있으나 근거리 명중률은 낮습니다. 이를 보완하기 위해 단거리용 기관단총도 장착하고 있습니다.</AR_Mech_HevMecA.description>
+  <AR_Mech_HevMecB.label>군용 다족 마톤(기관포)</AR_Mech_HevMecB.label>
+  <AR_Mech_HevMecB.description>대인 및 대장갑 모두에 효과적인 기관포를 장비했습니다. 원거리 목표 포착을 위해 장거리 센서와 거리 측정기를 갖추고 있으며, 대형 장갑 목표를 원거리에서 격파할 때 가장 강력합니다.</AR_Mech_HevMecB.description>
+  <AR_Mech_HevMecC.label>군용 다족 마톤(모선)</AR_Mech_HevMecC.label>
+  <AR_Mech_HevMecC.description>여러 드론 마톤의 모선 역할을 하는 다족 보행 마톤입니다. 자체 전투 능력은 높지 않지만, 강철을 소모하여 다수의 드론을 전개할 수 있습니다.</AR_Mech_HevMecC.description>
+  <Gun_MAU_MecTurret.label>2연장 중기관총 포탑</Gun_MAU_MecTurret.label>
+  <Gun_MAU_MecTurret.description>중원거리의 적을 소탕하기 위한 연장 포탑입니다.</Gun_MAU_MecTurret.description>
+  <Gun_MAU_MecTurret.verbs.Verb_Shoot.label>2연장 중기관총 포탑</Gun_MAU_MecTurret.verbs.Verb_Shoot.label>
+  <Gun_MAU_MecATTurret.label>대전차 포탑</Gun_MAU_MecATTurret.label>
+  <Gun_MAU_MecATTurret.description>대형 장갑 목표를 원거리에서 격파하기 위한 포탑입니다.</Gun_MAU_MecATTurret.description>
+  <Gun_MAU_MecATTurret.verbs.Verb_Shoot.label>대전차 포탑</Gun_MAU_MecATTurret.verbs.Verb_Shoot.label>
+  <Bullet_AR_ATMEC.label>철갑유탄</Bullet_AR_ATMEC.label>
+  <Gun_MAU_MecTurretL.label>경기관총 포탑</Gun_MAU_MecTurretL.label>
+  <Gun_MAU_MecTurretL.description>대형 메카가 자신을 방어하기 위해 사용하는 포탑입니다. 중간 정도의 사거리를 가지며 중거리 소탕에 특화되어 있습니다.</Gun_MAU_MecTurretL.description>
+  <Gun_MAU_MecTurretL.verbs.Verb_Shoot.label>경기관총 포탑</Gun_MAU_MecTurretL.verbs.Verb_Shoot.label>
+  <Bullet_AR_LMGTR.label>중기관총용 보통탄</Bullet_AR_LMGTR.label>
+  <AR_Mech_MiniMecA.label>가사 노동 마톤</AR_Mech_MiniMecA.label>
+  <AR_Mech_MiniMecA.description>요리, 운반, 청소를 수행하는 소형 오토마타입니다. 경비용으로 자동권총을 장비하고 있습니다.</AR_Mech_MiniMecA.description>
+  <AR_Mech_MiniMecB.label>현장 노동 마톤</AR_Mech_MiniMecB.label>
+  <AR_Mech_MiniMecB.description>건설, 채굴, 제작을 수행하는 소형 오토마타입니다. 경비용으로 진압용 총을 장비하고 있습니다.</AR_Mech_MiniMecB.description>
+  <AR_Mech_MiniMecC.label>야외 노동 마톤</AR_Mech_MiniMecC.label>
+  <AR_Mech_MiniMecC.description>재배나 벌목을 수행하는 소형 마톤입니다. 밭이나 가축을 유해 조수로부터 지키기 위해 바민트 소총을 장비하고 있습니다.</AR_Mech_MiniMecC.description>
+  <AR_Mech_MiniMecD.label>경비 보조 마톤</AR_Mech_MiniMecD.label>
+  <AR_Mech_MiniMecD.description>경비원의 보조를 수행하는 마톤입니다. 죄수의 탈출이나 반란, 소규모 부족의 습격 등에 대처하기 위한 목적으로 설계되었습니다.</AR_Mech_MiniMecD.description>
+  <AR_Mech_MiniMecE.label>간호 보조 마톤</AR_Mech_MiniMecE.label>
+  <AR_Mech_MiniMecE.description>간호, 청소, 운반을 수행하는 소형 마톤입니다. 호신 및 환자의 보호를 위해 자동권총을 장비하고 있습니다.</AR_Mech_MiniMecE.description>
+  <Mech_AR_WarUrchin.label>드론 마톤</Mech_AR_WarUrchin.label>
+  <Mech_AR_WarUrchin.description>추격이나 양동 등에 이용되는 초소형 마톤입니다. 간이형 SMG로 무장했으며 배터리로 짧은 시간 가동됩니다.</Mech_AR_WarUrchin.description>
+  <AR_Mech_MidMecA.label>군용 마톤(경보병)</AR_Mech_MidMecA.label>
+  <AR_Mech_MidMecA.description>대검이 장착된 보병총으로 무장한 오토마톤입니다. 알리아일 군대의 주축을 담당하며, 수류탄도 장비하고 있습니다.</AR_Mech_MidMecA.description>
+  <AR_Mech_MidMecB.label>군용 마톤(기관총병)</AR_Mech_MidMecB.label>
+  <AR_Mech_MidMecB.description>중기관총을 장비한 오토마톤입니다. 보병 오토마톤을 화력으로 지원합니다.</AR_Mech_MidMecB.description>
+  <AR_Mech_MidMecC.label>군용 마톤(돌격병)</AR_Mech_MidMecC.label>
+  <AR_Mech_MidMecC.description>대검이 장착된 반자동 산탄총을 장비하고 방호복을 착용한 돌격용 오토마톤입니다. 대인 및 대장갑 모두에 효과적인 집속 수류탄을 장비하고 있습니다.</AR_Mech_MidMecC.description>
+  <Aliaile_race.label>알리아일</Aliaile_race.label>
+  <Aliaile_race.description>알리아일은 등과 머리에 날개가 달린 비교적 왜소한 체구의 인간형 종족입니다. 이들은 정신 감응력이 매우 높아 주변 인물들의 기분에 끊임없이 영향을 미칩니다. 등의 날개로 비행할 수 있지만, 그 대가로 근력과 지구력이 모두 취약합니다.</Aliaile_race.description>
+  <Dimiaile_race.label>디미아일</Dimiaile_race.label>
+  <Dimiaile_race.description>디미아일은 알리아일과 인간 모두를 조상으로 둔 것으로 알려진 종족입니다. 알리아일만큼은 아니지만 높은 정신 감응력을 지녔으며, 인간에 버금가는 강인함을 가지고 있습니다.</Dimiaile_race.description>
+  <AR_MechSerumHealer.label>생명의 파편</AR_MechSerumHealer.label>
+  <AR_MechSerumHealer.description>생명의 잔재로부터 만들어낸 작은 결정입니다. 신체의 상처나 질병 등을 치유하는 힘이 있습니다.</AR_MechSerumHealer.description>
+  <AR_MechSerumHealer.comps.0.useLabel>{0_label} 사용</AR_MechSerumHealer.comps.0.useLabel>
+  <AR_MechSerumResurrector.label>생명의 결정</AR_MechSerumResurrector.label>
+  <AR_MechSerumResurrector.description>생명의 잔재로 만든 거대한 결정입니다. 죽은 생명체를 되살리는 힘이 있습니다. 부활한 대상은 장기간 혼수 상태에 빠지지만, 그동안 흉터나 소실된 신체 부위를 서서히 재생합니다.</AR_MechSerumResurrector.description>
+  <AR_MechSerumResurrector.comps.0.useLabel>{0_label} 사용</AR_MechSerumResurrector.comps.0.useLabel>
+  <AR_MealSurvivalPack.label>알리아일 도시락</AR_MealSurvivalPack.label>
+  <AR_MealSurvivalPack.description>장기 보존을 위해 가공된 비상식량입니다. 와인이 동봉되어 있어 식중독을 예방할 수 있습니다.</AR_MealSurvivalPack.description>
+  <AR_MealSimple.label>알리아일 간단한 식사</AR_MealSimple.label>
+  <AR_MealSimple.description>일반적인 간단한 식사와 같지만, 반주용 와인이 포함되어 있어 식중독을 예방할 수 있습니다.</AR_MealSimple.description>
+  <AR_MealFine.label>알리아일 좋은 식사</AR_MealFine.label>
+  <AR_MealFine.description>좋은 식사와 같지만, 식후 와인 덕분에 식중독을 예방할 수 있습니다.</AR_MealFine.description>
+  <AR_MealFine_Veg.label>알리아일 좋은 야채 요리</AR_MealFine_Veg.label>
+  <AR_MealFine_Veg.description>정성이 들어간 식사와 같지만, 식후 와인 덕분에 식중독을 예방할 수 있습니다.</AR_MealFine_Veg.description>
+  <AR_MealFine_Meat.label>알리아일 좋은 고기 요리</AR_MealFine_Meat.label>
+  <AR_MealFine_Meat.description>정성이 들어간 식사와 같지만, 식후 와인 덕분에 식중독을 예방할 수 있습니다.</AR_MealFine_Meat.description>
+  <AR_MealLavish.label>알리아일 호화로운 식사</AR_MealLavish.label>
+  <AR_MealLavish.description>호화로운 식사와 같지만, 식후 와인 덕분에 식중독을 예방할 수 있습니다.</AR_MealLavish.description>
+  <AR_MealLavish_Veg.label>알리아일 호화로운 야채 요리</AR_MealLavish_Veg.label>
+  <AR_MealLavish_Veg.description>호화로운 식사와 같지만, 식후 와인 덕분에 식중독을 예방할 수 있습니다.</AR_MealLavish_Veg.description>
+  <AR_MealLavish_Meat.label>알리아일 호화로운 고기 요리</AR_MealLavish_Meat.label>
+  <AR_MealLavish_Meat.description>호화로운 식사와 같지만, 식후 와인 덕분에 식중독을 예방할 수 있습니다.</AR_MealLavish_Meat.description>
+  <AR_JamAkaBerry.label>붉은 베리 잼</AR_JamAkaBerry.label>
+  <AR_JamAkaBerry.description>붉은 베리를 잼으로 가공한 것입니다. 달콤하고 맛이 좋아 먹으면 행복한 기분이 들며 오락 수치도 회복됩니다.</AR_JamAkaBerry.description>
+  <AR_JamAkaBudou.label>황금포도 잼</AR_JamAkaBudou.label>
+  <AR_JamAkaBudou.description>황금포도를 잼으로 가공한 것입니다. 달콤하고 맛이 좋아 먹으면 행복한 기분이 들며 오락 수치도 회복됩니다.</AR_JamAkaBudou.description>
+  <AR_synthemeat.label>베리 고기</AR_synthemeat.label>
+  <AR_synthemeat.description>말린 붉은 베리와 곡물을 갈아 황금 와인을 더해 구워낸 것입니다. 왠지 모르게 고기와 매우 흡사한 맛과 질감, 성질을 가지고 있습니다.</AR_synthemeat.description>
+  <ComponentSteam.label>스팀 코어</ComponentSteam.label>
+  <ComponentSteam.description>증기의 힘을 휴대 가능한 형태로 저장한 소형 기계입니다. 발전이나 소형 기계의 동력원으로 사용합니다.</ComponentSteam.description>
+  <AR_turretparts.label>포탑 예비 부품</AR_turretparts.label>
+  <AR_turretparts.description>포탑 공병 외골격 등 포탑 설치형 장비를 재장전하기 위한 예비 부품입니다.</AR_turretparts.description>
+  <AR_shieldparts.label>방어막 예비 부품</AR_shieldparts.label>
+  <AR_shieldparts.description>방어막 공병 외골격 등 방어막 설치형 장비를 재장전하기 위한 예비 부품입니다.</AR_shieldparts.description>
+  <AR_Item_OkouA.label>명상향</AR_Item_OkouA.label>
+  <AR_Item_OkouA.description>명상을 돕는 향입니다. 이 상태로는 아무 효과가 없지만, 명상 향로에서 피우면 명상 효율을 높일 수 있습니다.</AR_Item_OkouA.description>
+  <AR_Item_OkouB.label>살균향</AR_Item_OkouB.label>
+  <AR_Item_OkouB.description>치료를 돕는 향입니다. 이 상태로는 아무 효과가 없지만, 살균 향로에서 피우면 상처 치유 및 면역 획득 속도에 보너스를 줍니다.</AR_Item_OkouB.description>
+  <AR_Item_OkouC.label>노동향</AR_Item_OkouC.label>
+  <AR_Item_OkouC.description>노동을 독려하는 향입니다. 이 상태로는 아무 효과가 없지만, 노동 향로에서 피우면 주변 인물들의 작업 속도와 의식에 보너스를 줍니다.</AR_Item_OkouC.description>
+  <AR_Feather.label>알리아일의 깃털</AR_Feather.label>
+  <AR_Feather.description>알리아일의 날개에서 자연스럽게 빠진 깃털입니다. 어떤 문화권에서는 신비한 힘이 있다고 여겨지기도 합니다.</AR_Feather.description>
+  <AR_ResidualSoul.label>생명의 잔재</AR_ResidualSoul.label>
+  <AR_ResidualSoul.description>알리아일의 의식을 통해 유해에서 추출한, 인간이 살아있었다는 증거입니다. 실체나 과정이 어떠하든 미약한 에너지를 방출하고 있으며, 알리아일들은 이를 다양한 방식으로 이용합니다.</AR_ResidualSoul.description>
+  <AR_MedicineBasic.label>구급 상자</AR_MedicineBasic.label>
+  <AR_MedicineBasic.description>소독, 봉합, 고정 등에 필요한 간단한 의료 도구가 들어있는 가방입니다.</AR_MedicineBasic.description>
+  <AR_MedicineAdvance.label>고급 의약품</AR_MedicineAdvance.label>
+  <AR_MedicineAdvance.description>본격적인 수술에 필요한 고도의 도구와 약품이 포함된 의료 세트입니다.</AR_MedicineAdvance.description>
+  <AR_cloth.label>알리아일 비단</AR_cloth.label>
+  <AR_cloth.description>알리아일들 사이에서 널리 쓰이는 고급 직물입니다. 합성원단과 악마가닥의 중간 정도의 성능을 지녔으며, 착용자의 초정신 능력을 향상시킵니다.</AR_cloth.description>
+  <Silsteel.label>실스틸</Silsteel.label>
+  <Silsteel.description>철에 은과 소량의 금을 섞어 '천사의 눈물'로 마무리한 합금입니다. 강철보다 성능이 더 높으며, 이를 이용한 장비는 착용자의 정신 감응력을 높여줍니다.</Silsteel.description>
+  <AR_Blocks.label>문스톤</AR_Blocks.label>
+  <AR_Blocks.description>석재를 '천사의 눈물'에 적신 천으로 감싸 구워낸 것입니다. 적당한 강도와 아름다움, 청결함을 자랑합니다.</AR_Blocks.description>
+  <AR_Blocks.stuffProps.stuffAdjective>문스톤</AR_Blocks.stuffProps.stuffAdjective>
+  <AR_Vinleather.label>반 가죽</AR_Vinleather.label>
+  <AR_Vinleather.description>날카로운 공격과 타격 모두에 강한 견고한 가죽입니다. 초경조직과 악마가닥의 중간 정도 성능을 지녔으며, 착용자의 정신 감응력을 높여줍니다.</AR_Vinleather.description>
+  <AR_Okou.label>명상 향로</AR_Okou.label>
+  <AR_Okou.description>명상의 효율을 높여주며, 행복한 기분이 들게 하는 향을 내뿜는 향로입니다.</AR_Okou.description>
+  <AR_OkouB.label>살균 향로</AR_OkouB.label>
+  <AR_OkouB.description>맡은 사람의 면역력이나 회복력을 높여주며, 방 안을 청결하게 유지하는 연기를 내뿜는 향로입니다.</AR_OkouB.description>
+  <AR_OkouC.label>노동 향로</AR_OkouC.label>
+  <AR_OkouC.description>맡은 사람의 집중력이나 신경에 작용하여 노동 효율을 높이는 향을 내뿜는 향로입니다.</AR_OkouC.description>
+  <AR_WaniTaru.label>스팀 와인기</AR_WaniTaru.label>
+  <AR_WaniTaru.description>증기의 열과 압력을 이용해 빠르게 와인을 제조하는 기계입니다. 특수한 효과를 가진 와인을 만드는 데 사용됩니다.</AR_WaniTaru.description>
+  <AR_SteamAppareltable.label>알리아일 의류 작업대</AR_SteamAppareltable.label>
+  <AR_SteamAppareltable.description>스팀 코어를 연료로 가동하여 알리아일, 디미아일의 의류를 제조하는 작업대입니다.</AR_SteamAppareltable.description>
+  <AR_SteamArmortable.label>알리아일 방어구 작업대</AR_SteamArmortable.label>
+  <AR_SteamArmortable.description>스팀 코어를 연료로 가동하여 알리아일, 디미아일의 방어구나 장신구를 제조하는 작업대입니다.</AR_SteamArmortable.description>
+  <AR_SteamWeapontable.label>알리아일 무기 작업대</AR_SteamWeapontable.label>
+  <AR_SteamWeapontable.description>스팀 코어를 연료로 가동하여 알리아일이 다루는 무기를 제조하는 작업대입니다.</AR_SteamWeapontable.description>
+  <AR_Saidan.label>영혼의 제단</AR_Saidan.label>
+  <AR_Saidan.description>생명의 잔재를 유용한 형태로 가공하기 위한 제단입니다.</AR_Saidan.description>
+  <AR_steammachine.label>스팀 코어 제조기</AR_steammachine.label>
+  <AR_steammachine.description>발전 및 장비 제작에 사용되는 스팀 코어를 생산하는 기계입니다. 간헐천 위에 건설할 수 있습니다.</AR_steammachine.description>
+  <AR_steammachineB.label>개량형 스팀 코어 제조기</AR_steammachineB.label>
+  <AR_steammachineB.description>발전 및 장비 제작에 사용되는 스팀 코어를 생산하는 기계입니다. 간헐천 위에 건설할 수 있습니다.</AR_steammachineB.description>
+  <SteamPoweredGenerator.label>스팀 코어 발전기</SteamPoweredGenerator.label>
+  <SteamPoweredGenerator.description>스팀 코어의 에너지를 이용해 전기를 생산합니다.</SteamPoweredGenerator.description>
+  <AR_Bonfire.label>진혼의 봉화</AR_Bonfire.label>
+  <AR_Bonfire.description>알리아일들 사이에서 신성시되는 예법에 따라 유해를 공양하는 시설입니다. 유해를 처리하면 '생명의 잔재'가 남으며, 이는 희귀한 물건의 소재가 됩니다. 또한 특정 무기를 신성한 의식을 통해 더욱 강력한 무기로 재탄생시킬 수 있습니다.</AR_Bonfire.description>
+  <AR_UnfinishedAshes.label>의식 중인 유해</AR_UnfinishedAshes.label>
+  <AR_UnfinishedAshes.description>의식이 진행 중인 유해입니다.</AR_UnfinishedAshes.description>
+<AR_PassiveHeater.label>스팀 온풍기</AR_PassiveHeater.label>
+  <AR_PassiveHeater.description>실내 온도를 21도까지 높여주는 증기식 난방 장치입니다.</AR_PassiveHeater.description>
+  <AR_PassiveCooler.label>스팀 냉방기</AR_PassiveCooler.label>
+  <AR_PassiveCooler.description>실내 온도를 21도까지 낮춰주는 증기식 냉방 장치입니다.</AR_PassiveCooler.description>
+  <AR_PassiveFreezer.label>스팀 냉동기</AR_PassiveFreezer.label>
+  <AR_PassiveFreezer.description>실내 온도를 -10도까지 낮춰주는 증기식 냉동 장치입니다.</AR_PassiveFreezer.description>
+  <AR_PassiveHeaterWL.label>벽걸이 스팀 온풍기</AR_PassiveHeaterWL.label>
+  <AR_PassiveHeaterWL.description>실내 온도를 21도까지 높여주는 증기식 난방 장치입니다.</AR_PassiveHeaterWL.description>
+  <AR_PassiveCoolerWL.label>벽걸이 스팀 냉방기</AR_PassiveCoolerWL.label>
+  <AR_PassiveCoolerWL.description>실내 온도를 21도까지 낮춰주는 증기식 냉방 장치입니다.</AR_PassiveCoolerWL.description>
+  <AR_PassivefreezerWL.label>벽걸이 스팀 냉동기</AR_PassivefreezerWL.label>
+  <AR_PassivefreezerWL.description>실내 온도를 -10도까지 낮춰주는 증기식 냉동 장치입니다.</AR_PassivefreezerWL.description>
+  <AR_JoinerWalkIn_Aliaile_Wine.label>알리아일의 눈물</AR_JoinerWalkIn_Aliaile_Wine.label>
+  <AR_JoinerWalkIn_Aliaile_Wine.description>알리아일들이 매우 선호하는 고급 와인입니다. 외부에서 알리아일을 맞이할 때 개봉하는 특별한 술로, 사용 시 무작위 알리아일 한 명을 정착지로 불러옵니다.</AR_JoinerWalkIn_Aliaile_Wine.description>
+  <AR_JoinerWalkIn_Aliaile_Wine.comps.2.useLabel>{0_label} 개봉하여 알리아일 맞이하기</AR_JoinerWalkIn_Aliaile_Wine.comps.2.useLabel>
+  <AR_JoinerWalkIn_Dimiaile_Wine.label>디미아일의 눈물</AR_JoinerWalkIn_Dimiaile_Wine.label>
+  <AR_JoinerWalkIn_Dimiaile_Wine.description>디미아일들이 매우 선호하는 와인입니다. 새로운 디미아일의 합류를 환영할 때 개봉하며, 사용 시 무작위 디미아일 한 명을 정착지로 불러옵니다.</AR_JoinerWalkIn_Dimiaile_Wine.description>
+  <AR_JoinerWalkIn_Dimiaile_Wine.comps.2.useLabel>{0_label} 개봉하여 디미아일 맞이하기</AR_JoinerWalkIn_Dimiaile_Wine.comps.2.useLabel>
+  <AR_WingWine.label>천사의 눈물</AR_WingWine.label>
+  <AR_WingWine.description>황금 와인에 알리아일의 깃털을 담가 만든 술입니다. 도수가 엄청나게 높아 순식간에 만취할 수 있습니다. 신비로운 효능 덕분에 다양한 물품의 재료로도 쓰입니다.</AR_WingWine.description>
+  <AR_WingWine.ingestible.ingestCommandString>{0} 마시기</AR_WingWine.ingestible.ingestCommandString>
+  <AR_WingWine.ingestible.ingestReportString>{0} 마시는 중.</AR_WingWine.ingestible.ingestReportString>
+  <AR_Wine.label>황금 와인</AR_Wine.label>
+  <AR_Wine.description>황금포도로 빚은 와인입니다.</AR_Wine.description>
+  <AR_Wine.ingestible.ingestCommandString>{0} 마시기</AR_Wine.ingestible.ingestCommandString>
+  <AR_Wine.ingestible.ingestReportString>{0} 마시는 중.</AR_Wine.ingestible.ingestReportString>
+  <AR_WineRaisin.label>와인 건포도</AR_WineRaisin.label>
+  <AR_WineRaisin.description>말린 황금포도를 와인에 절인 것입니다. 맛있게 먹으며 소량의 알코올을 섭취할 수 있는 달콤한 간식입니다.</AR_WineRaisin.description>
+  <AR_WineRaisin.ingestible.ingestCommandString>{0} 먹기</AR_WineRaisin.ingestible.ingestCommandString>
+  <AR_WineRaisin.ingestible.ingestReportString>{0} 먹는 중.</AR_WineRaisin.ingestible.ingestReportString>
+  <AR_BerryTea.label>붉은 베리 차</AR_BerryTea.label>
+  <AR_BerryTea.description>붉은 베리를 우려낸 차입니다. 잠을 쫓고 머리를 맑게 해주며, 언제든 안전하게 섭취할 수 있습니다.</AR_BerryTea.description>
+  <AR_BerryTea.ingestible.ingestCommandString>{0} 마시기</AR_BerryTea.ingestible.ingestCommandString>
+  <AR_BerryTea.ingestible.ingestReportString>{0} 마시는 중.</AR_BerryTea.ingestible.ingestReportString>
+  <AR_hospitalWine.label>회복의 와인</AR_hospitalWine.label>
+  <AR_hospitalWine.description>강렬한 졸음을 유발해 의식을 크게 저하시키지만, 상처와 질병 치료에 효과적인 와인입니다.</AR_hospitalWine.description>
+  <AR_hospitalWine.ingestible.ingestCommandString>{0} 마시기</AR_hospitalWine.ingestible.ingestCommandString>
+  <AR_hospitalWine.ingestible.ingestReportString>{0} 마시는 중.</AR_hospitalWine.ingestible.ingestReportString>
+  <AR_HotWine.label>뜨거운 와인</AR_HotWine.label>
+  <AR_HotWine.description>몸을 따뜻하게 하는 향신료를 섞은 와인입니다. 한동안 체온을 높여줍니다. 알코올 질환 위험은 있으나 오락 수치는 오르지 않습니다.</AR_HotWine.description>
+  <AR_HotWine.ingestible.ingestCommandString>{0} 마시기</AR_HotWine.ingestible.ingestCommandString>
+  <AR_HotWine.ingestible.ingestReportString>{0} 마시는 중.</AR_HotWine.ingestible.ingestReportString>
+  <AR_ColdWine.label>차가운 와인</AR_ColdWine.label>
+  <AR_ColdWine.description>몸을 식히는 향신료를 섞은 와인입니다. 한동안 체온을 낮춰줍니다.</AR_ColdWine.description>
+  <AR_ColdWine.ingestible.ingestCommandString>{0} 마시기</AR_ColdWine.ingestible.ingestCommandString>
+  <AR_ColdWine.ingestible.ingestReportString>{0} 마시는 중.</AR_ColdWine.ingestible.ingestReportString>
+  <AR_NoPsiWine.label>정신 차단 와인</AR_NoPsiWine.label>
+  <AR_NoPsiWine.description>감수성을 크게 억제하는 와인입니다. 정신 감응력을 낮추고 통증에 둔감해집니다.</AR_NoPsiWine.description>
+  <AR_NoPsiWine.ingestible.ingestCommandString>{0} 마시기</AR_NoPsiWine.ingestible.ingestCommandString>
+  <AR_NoPsiWine.ingestible.ingestReportString>{0} 마시는 중.</AR_NoPsiWine.ingestible.ingestReportString>
+  <AR_OffensiveWine.label>총공세 와인</AR_OffensiveWine.label>
+  <AR_OffensiveWine.description>기사회생의 마지막 공격을 가하기 직전 마시는 술입니다. 몇 시간 동안 의식, 조작, 시력, 이동 능력이 대폭 향상되며 높은 고통 내성과 피해 저항력을 얻지만, 효과가 끝나면 장시간 혼절합니다.</AR_OffensiveWine.description>
+  <AR_OffensiveWine.ingestible.ingestCommandString>{0} 마시기</AR_OffensiveWine.ingestible.ingestCommandString>
+  <AR_OffensiveWine.ingestible.ingestReportString>{0} 마시는 중.</AR_OffensiveWine.ingestible.ingestReportString>
+  <AR_PenoxycyWine.label>예방의 와인</AR_PenoxycyWine.label>
+  <AR_PenoxycyWine.description>한 계절 동안 질병을 예방해주는 와인입니다.</AR_PenoxycyWine.description>
+  <AR_PenoxycyWine.ingestible.ingestCommandString>{0} 마시기</AR_PenoxycyWine.ingestible.ingestCommandString>
+  <AR_PenoxycyWine.ingestible.ingestReportString>{0} 마시는 중.</AR_PenoxycyWine.ingestible.ingestReportString>
+  <AR_PsiWine.label>초정신 와인</AR_PsiWine.label>
+  <AR_PsiWine.description>감각을 극도로 예민하게 만드는 와인입니다. 정신 감응력이 높아지지만 통증도 더 강하게 느낍니다.</AR_PsiWine.description>
+  <AR_PsiWine.ingestible.ingestCommandString>{0} 마시기</AR_PsiWine.ingestible.ingestCommandString>
+  <AR_PsiWine.ingestible.ingestReportString>{0} 마시는 중.</AR_PsiWine.ingestible.ingestReportString>
+  <AR_RelaxWine.label>안식의 와인</AR_RelaxWine.label>
+  <AR_RelaxWine.description>편안하게 숙면을 취할 수 있습니다.</AR_RelaxWine.description>
+  <AR_RelaxWine.ingestible.ingestCommandString>{0} 마시기</AR_RelaxWine.ingestible.ingestCommandString>
+  <AR_RelaxWine.ingestible.ingestReportString>{0} 마시는 중.</AR_RelaxWine.ingestible.ingestReportString>
+  <AR_SocialWine.label>사교의 와인</AR_SocialWine.label>
+  <AR_SocialWine.description>혈류와 안색을 개선해 매력적으로 보이게 하며, 체취를 개선하고 언변에 설득력을 더해주는 와인입니다. 타인을 기쁘게 하는 훌륭한 아첨이 가능해집니다.</AR_SocialWine.description>
+  <AR_SocialWine.ingestible.ingestCommandString>{0} 마시기</AR_SocialWine.ingestible.ingestCommandString>
+  <AR_SocialWine.ingestible.ingestReportString>{0} 마시는 중.</AR_SocialWine.ingestible.ingestReportString>
+  <AR_spaceWine.label>별무리 와인</AR_spaceWine.label>
+  <AR_spaceWine.description>한동안 진공 상태나 저온 환경에 견딜 수 있게 해주는 와인입니다.</AR_spaceWine.description>
+  <AR_spaceWine.ingestible.ingestCommandString>{0} 마시기</AR_spaceWine.ingestible.ingestCommandString>
+  <AR_spaceWine.ingestible.ingestReportString>{0} 마시는 중.</AR_spaceWine.ingestible.ingestReportString>
+  <AR_VictoryWine.label>승리의 와인</AR_VictoryWine.label>
+  <AR_VictoryWine.description>전투용 와인입니다. 의식과 이동, 조작 능력을 높이고 피해를 경감하지만 효과가 끝날 때 의식이 저하됩니다. 두 번 마시면 효과가 강화됩니다.</AR_VictoryWine.description>
+  <AR_VictoryWine.ingestible.ingestCommandString>{0} 마시기</AR_VictoryWine.ingestible.ingestCommandString>
+  <AR_VictoryWine.ingestible.ingestReportString>{0} 마시는 중.</AR_VictoryWine.ingestible.ingestReportString>
+  <AR_Plant_whitelilyA.label>흰 백합 화분</AR_Plant_whitelilyA.label>
+  <AR_Plant_whitelilyA.description>알리아일들이 개량한 백합입니다. 주변을 살균하여 청결하게 유지합니다.</AR_Plant_whitelilyA.description>
+  <AR_Plant_whitelilyB.label>흰 백합 군락</AR_Plant_whitelilyB.label>
+  <AR_Plant_whitelilyB.description>알리아일들이 품종 개량한 흰 백합입니다. 주변을 살균하여 청결하게 유지하는 효과가 있습니다.</AR_Plant_whitelilyB.description>
+  <Plant_AR_TreeGrape.label>황금포도 나무</Plant_AR_TreeGrape.label>
+  <Plant_AR_TreeGrape.description>황금빛으로 빛나는 포도가 열리는 포도나무입니다.</Plant_AR_TreeGrape.description>
+  <Plant_AR_SuikouGrape.label>수경재배용 황금포도</Plant_AR_SuikouGrape.label>
+  <Plant_AR_SuikouGrape.description>수경재배로 키울 수 있도록 품종 개량된 황금포도입니다. 윤작은 불가능하지만 밀집 재배가 가능합니다.</Plant_AR_SuikouGrape.description>
+  <Plant_AR_AkaBerry.label>붉은 베리 덤불</Plant_AR_AkaBerry.label>
+  <Plant_AR_AkaBerry.description>환각 작용을 동반하는 붉은 열매가 열리는 덤불입니다.</Plant_AR_AkaBerry.description>
+  <Plant_AR_KairyouGrape.label>지주식 황금포도</Plant_AR_KairyouGrape.label>
+  <Plant_AR_KairyouGrape.description>전용 지지대로 받쳐주며 키우는 포도입니다.</Plant_AR_KairyouGrape.description>
+  <AR_BudouSItyu.label>포도용 지지대</AR_BudouSItyu.label>
+  <AR_BudouSItyu.description>재배와 수확이 쉽도록 키를 낮게 품종 개량한 황금포도를 육성하기 위한 지지대입니다.</AR_BudouSItyu.description>
+  <AR_AnimaSeed.label>영혼 나무 씨앗</AR_AnimaSeed.label>
+  <AR_AnimaSeed.description>영혼 나무의 씨앗입니다.</AR_AnimaSeed.description>
+  <AR_RawBudou.label>황금 포도</AR_RawBudou.label>
+  <AR_RawBudou.description>세상에 드문 황금빛 포도입니다.</AR_RawBudou.description>
+  <AR_RawAkaBerry.label>붉은 베리</AR_RawAkaBerry.label>
+  <AR_RawAkaBerry.description>달콤하고 맛있는 새빨간 베리입니다. 약품이나 차의 재료가 되지만 생으로 먹어도 맛있습니다.</AR_RawAkaBerry.description>
+  <AR_Turret_SteamTurretA.label>단장 기관총 포탑</AR_Turret_SteamTurretA.label>
+  <AR_Turret_SteamTurretA.description>긴 사거리와 높은 지속 사격 능력을 갖춘 포탑입니다. 내구도는 높으나 명중률은 낮습니다.</AR_Turret_SteamTurretA.description>
+  <AR_Turret_SteamTurretA.comps.3.fuelLabel>총열 교체까지 남은 발사 수</AR_Turret_SteamTurretA.comps.3.fuelLabel>
+  <AR_Turret_SteamTurretA.comps.3.fuelGizmoLabel>총열 내구도</AR_Turret_SteamTurretA.comps.3.fuelGizmoLabel>
+  <AR_Turret_SteamTurretA.comps.3.outOfFuelMessage>총열 교체 필요</AR_Turret_SteamTurretA.comps.3.outOfFuelMessage>
+  <AR_Turret_SteamTurretB.label>연장 기관총 포탑</AR_Turret_SteamTurretB.label>
+  <AR_Turret_SteamTurretB.description>기관총을 2연장으로 업그레이드해 화력을 강화했습니다. 화력은 막강하지만 명중률은 더 떨어졌습니다.</AR_Turret_SteamTurretB.description>
+  <AR_Turret_SteamTurretB.comps.0.fuelLabel>총열 교체까지 남은 발사 수</AR_Turret_SteamTurretB.comps.0.fuelLabel>
+  <AR_Turret_SteamTurretB.comps.0.fuelGizmoLabel>총열 내구도</AR_Turret_SteamTurretB.comps.0.fuelGizmoLabel>
+  <AR_Turret_SteamTurretB.comps.0.outOfFuelMessage>새 총열 필요</AR_Turret_SteamTurretB.comps.0.outOfFuelMessage>
+  <AR_Turret_SteamTurretC.label>단장 기관포 포탑</AR_Turret_SteamTurretC.label>
+  <AR_Turret_SteamTurretC.description>원거리의 대형 목표를 제거하기 위한 고위력 포탑입니다. 폭발성 탄환을 발사합니다.</AR_Turret_SteamTurretC.description>
+  <AR_Turret_SteamTurretC.comps.0.fuelLabel>총열 교체까지 남은 발사 수</AR_Turret_SteamTurretC.comps.0.fuelLabel>
+  <AR_Turret_SteamTurretC.comps.0.fuelGizmoLabel>총열 내구도</AR_Turret_SteamTurretC.comps.0.fuelGizmoLabel>
+  <AR_Turret_SteamTurretC.comps.0.outOfFuelMessage>새 총열 필요</AR_Turret_SteamTurretC.comps.0.outOfFuelMessage>
+  <Gun_MAU_MecATTurretB.label>대전차 포탑</Gun_MAU_MecATTurretB.label>
+  <Gun_MAU_MecATTurretB.description>대형 장갑 목표를 원거리에서 격파하기 위한 포탑입니다.</Gun_MAU_MecATTurretB.description>
+  <Gun_MAU_MecATTurretB.verbs.Verb_Shoot.label>대전차 포탑</Gun_MAU_MecATTurretB.verbs.Verb_Shoot.label>
+  <Gun_AR_TacticalTurret.label>중기관총 포탑</Gun_AR_TacticalTurret.label>
+  <Gun_AR_TacticalTurret.description>포탑에 장착하기 위해 제작된 간단한 자동 화기입니다.</Gun_AR_TacticalTurret.description>
+  <Gun_AR_TacticalTurret.verbs.Verb_Shoot.label>중기관총 포탑</Gun_AR_TacticalTurret.verbs.Verb_Shoot.label>
+  <Gun_MAU_MecTurretB.label>2연장 중기관총 포탑</Gun_MAU_MecTurretB.label>
+  <Gun_MAU_MecTurretB.description>중장거리의 적을 소탕하기 위한 연장 포탑입니다.</Gun_MAU_MecTurretB.description>
+  <Gun_MAU_MecTurretB.verbs.Verb_Shoot.label>2연장 중기관총 포탑</Gun_MAU_MecTurretB.verbs.Verb_Shoot.label>
+  <Bullet_AR_ATTR.label>철갑유탄</Bullet_AR_ATTR.label>
+  <Apparel_AR_Amulet.label>AR 부적</Apparel_AR_Amulet.label>
+  <Apparel_AR_Amulet.description>실스틸을 재료로 사용하여 문장을 본떠 만든 부적입니다.</Apparel_AR_Amulet.description>
+  <AP_AR_Mekakushi.label>AR 눈가림띠</AP_AR_Mekakushi.label>
+  <AP_AR_Mekakushi.description>알리아일 비단으로 만든 눈가림띠입니다. 시력은 떨어지지만 조작 능력과 정신 감응력을 높여줍니다.</AP_AR_Mekakushi.description>
+  <Apparel_AR_MechlordSuit.label>AR 지휘관 장갑복</Apparel_AR_MechlordSuit.label>
+  <Apparel_AR_MechlordSuit.description>알리아일들이 종군할 때 착용하는 갑옷 일체입니다. 실스틸 부품과 알리스레드 장식을 통해 높은 정신 감응성과 메카 조종 능력을 확보합니다.</Apparel_AR_MechlordSuit.description>
+  <AP_AliRa_01TW.label>AR 키톤</AP_AliRa_01TW.label>
+  <AP_AliRa_01TW.description>어깨를 브로치로 고정한 고전 의상입니다. 주로 수도사나 청빈함을 추구하는 이들이 착용합니다.</AP_AliRa_01TW.description>
+  <AP_AliRa_01TC.label>AR 스카프</AP_AliRa_01TC.label>
+  <AP_AliRa_01TC.description>천을 감싸기만 한 간소한 스카프입니다. 고전적인 의상이지만 청빈함을 선호하는 이들은 지금도 착용합니다.</AP_AliRa_01TC.description>
+  <AP_AliRa_02GKUF.label>AR 학자 로브</AP_AliRa_02GKUF.label>
+  <AP_AliRa_02GKUF.description>심연과 우주를 연구하는 학자들이 착용합니다. 연구와 의료 업무에 보너스를 줍니다.</AP_AliRa_02GKUF.description>
+  <AP_AliRa_01GKCP.label>AR 학사 상의</AP_AliRa_01GKCP.label>
+  <AP_AliRa_01GKCP.description>심연이나 신비, 우주에 대해 연구를 수행하는 알리아일 학자들이 착용하는 상의입니다. 존재 연구나 억제에 보너스가 있으며, 의술 등에도 보너스가 있습니다.</AP_AliRa_01GKCP.description>
+  <AP_AliRa_01GKHT.label>AR 학사 모자</AP_AliRa_01GKHT.label>
+  <AP_AliRa_01GKHT.description>심연이나 신비, 우주에 대해 연구를 수행하는 알리아일 학자들이 착용하는 모자입니다. 존재 연구나 억제에 보너스가 있으며, 의술 등에도 보너스가 있습니다.</AP_AliRa_01GKHT.description>
+  <AP_AliRa_01HT.label>AR 학도 모자</AP_AliRa_01HT.label>
+  <AP_AliRa_01HT.description>알리아일 학도들이 착용하는 모자입니다. 학습 속도나 사교, 연구 등에 보너스가 있습니다.</AP_AliRa_01HT.description>
+  <AP_AliRa_02HT.label>AR 학도 방한모</AP_AliRa_02HT.label>
+  <AP_AliRa_02HT.description>알리아일 학도들이 착용하는 방한용 모자입니다. 학습 속도나 사교, 연구 등에 보너스가 있습니다.</AP_AliRa_02HT.description>
+  <Apparel_AR_MechlordHelmet.label>AR 지휘관 헬멧</Apparel_AR_MechlordHelmet.label>
+  <Apparel_AR_MechlordHelmet.description>알리아일이 전장에 나갈 때 착용하는 헬멧입니다. 알리스레드 안감과 주요 부위에 사용된 실스틸을 통해 메카 조종 효율과 정신 감응성을 향상시킵니다.</Apparel_AR_MechlordHelmet.description>
+  <AP_AliRa_M01UF.label>AR 장교 제복</AP_AliRa_M01UF.label>
+  <AP_AliRa_M01UF.description>알리아일 장교가 착용하는 제복입니다. 전투 능력이나 메카 조종에 혜택이 있습니다.</AP_AliRa_M01UF.description>
+  <AP_AliRa_M01HT.label>AR 장교 정모</AP_AliRa_M01HT.label>
+  <AP_AliRa_M01HT.description>알리아일 장교가 착용하는 모자입니다. 전투 능력이나 메카 조종에 혜택이 있습니다.</AP_AliRa_M01HT.description>
+  <AP_AliRa_M01CP.label>AR 장교 망토</AP_AliRa_M01CP.label>
+  <AP_AliRa_M01CP.description>알리아일 장교가 착용하는 상의입니다. 전투 능력이나 메카나이터로서의 능력에 보너스가 있습니다.</AP_AliRa_M01CP.description>
+  <AP_AliRa_M02CP.label>AR 장교 외투</AP_AliRa_M02CP.label>
+  <AP_AliRa_M02CP.description>알리아일 장교가 착용하는 상의입니다. 전투 능력이나 메카나이터로서의 능력에 보너스가 있습니다.</AP_AliRa_M02CP.description>
+  <AP_AliRa_01UW.label>AR 속옷</AP_AliRa_01UW.label>
+  <AP_AliRa_01UW.description>천사나 그 시종들이 착용하는 속옷입니다.</AP_AliRa_01UW.description>
+  <AP_AliRa_02UW.label>AR 스타킹</AP_AliRa_02UW.label>
+  <AP_AliRa_02UW.description>천사들이 착용하는 스타킹입니다.</AP_AliRa_02UW.description>
+  <AP_AliRa_03UW.label>AR 타이츠</AP_AliRa_03UW.label>
+  <AP_AliRa_03UW.description>천사들이 착용하는 스타킹입니다.</AP_AliRa_03UW.description>
+  <AP_AliRa_04UW.label>AR 양말A</AP_AliRa_04UW.label>
+  <AP_AliRa_04UW.description>천사들이 착용하는 양말입니다.</AP_AliRa_04UW.description>
+  <AP_AliRa_05UW.label>AR 양말B</AP_AliRa_05UW.label>
+  <AP_AliRa_05UW.description>천사들이 착용하는 양말입니다.</AP_AliRa_05UW.description>
+  <AP_AliRa_01UF.label>AR 학도 제복</AP_AliRa_01UF.label>
+  <AP_AliRa_01UF.description>알리아일 학도들이 착용하는 제복입니다. 학습 속도나 사교, 연구 등에 보너스가 있습니다.</AP_AliRa_01UF.description>
+  <AP_AliRa_02UF.label>AR 학도 제복(조끼) A</AP_AliRa_02UF.label>
+  <AP_AliRa_02UF.description>알리아일 학도들이 착용하는 제복입니다. 학습 속도나 사교, 연구 등에 보너스가 있습니다.</AP_AliRa_02UF.description>
+  <AP_AliRa_03UF.label>AR 학도 제복(남색 스웨터)</AP_AliRa_03UF.label>
+  <AP_AliRa_03UF.description>알리아일 학도들이 착용하는 제복입니다. 학습 속도나 사교, 연구 등에 보너스가 있습니다.</AP_AliRa_03UF.description>
+  <AP_AliRa_04UF.label>AR 학도 제복(흰색 스웨터)</AP_AliRa_04UF.label>
+  <AP_AliRa_04UF.description>알리아일 학도들이 착용하는 제복입니다. 학습 속도나 사교, 연구 등에 보너스가 있습니다.</AP_AliRa_04UF.description>
+  <AP_AliRa_01CP.label>AR 학도 상의</AP_AliRa_01CP.label>
+  <AP_AliRa_01CP.description>알리아일 학도들이 착용하는 상의입니다. 학습 속도나 사교, 연구 등에 보너스가 있습니다.</AP_AliRa_01CP.description>
+  <AP_AliRa_02CP.label>AR 학도 외투</AP_AliRa_02CP.label>
+  <AP_AliRa_02CP.description>알리아일 학도들이 착용하는 코트입니다. 학습 속도나 사교, 연구 등에 보너스가 있습니다.</AP_AliRa_02CP.description>
+  <Apparel_DimiRa_MDAA.label>AR 전투장구</Apparel_DimiRa_MDAA.label>
+  <Apparel_DimiRa_MDAA.description>탄약 및 기타 장비들을 수납하기 위한 멜빵과 탄띠 세트입니다. 사격 빈도를 높여주지만, 이동 속도에 약간의 페널티가 있습니다.</Apparel_DimiRa_MDAA.description>
+  <Apparel_DimiRa_MDAB.label>AR 장갑복</Apparel_DimiRa_MDAB.label>
+  <Apparel_DimiRa_MDAB.description>중장보병이 착용하는 흉갑과 장구류 세트입니다. 준수한 방어 성능을 제공하지만 속도가 저하됩니다.</Apparel_DimiRa_MDAB.description>
+  <Apparel_DimiRa_HDR.label>AR 중형 장갑복</Apparel_DimiRa_HDR.label>
+  <Apparel_DimiRa_HDR.description>높은 방어 성능을 자랑하지만, 무게와 구조적 한계로 인해 이동 속도가 크게 저하됩니다.</Apparel_DimiRa_HDR.description>
+  <Apparel_DimiRa_MDANG.label>AR 군용 장갑복</Apparel_DimiRa_MDANG.label>
+  <Apparel_DimiRa_MDANG.description>기존 장갑복을 움직임에 방해가 되지 않는 선에서 더욱 강화한 개량형입니다.</Apparel_DimiRa_MDANG.description>
+  <AP_DimiRa_1BK.label>AR 병사 가방</AP_DimiRa_1BK.label>
+  <AP_DimiRa_1BK.description>휴대 가능한 무게를 늘려주는 가방입니다.</AP_DimiRa_1BK.description>
+  <AP_DimiRa_EXOA.label>AR 작업용 외골격</AP_DimiRa_EXOA.label>
+  <AP_DimiRa_EXOA.description>조작과 이동 능력을 소폭 향상시키는 외골격입니다. 운반량과 작업 속도에 보너스를 제공합니다.</AP_DimiRa_EXOA.description>
+  <AP_DimiRa_EXOB.label>AR 보병용 외골격</AP_DimiRa_EXOB.label>
+  <AP_DimiRa_EXOB.description>전투 능력을 보조하는 외골격입니다. 근접전 및 사격 재사용 대기시간에 보너스를 줍니다. '강습 모드' 활성화 시 전투 능력이 비약적으로 상승하지만, 외골격의 과부하로 인해 피로가 매우 빠르게 축적됩니다.</AP_DimiRa_EXOB.description>
+  <AP_DimiRa_EXOC.label>AR 가스전 외골격</AP_DimiRa_EXOC.label>
+  <AP_DimiRa_EXOC.description>조작과 이동 능력을 보완하며, 장시간 동안 강력한 독가스를 살포하는 기능을 갖추고 있습니다.</AP_DimiRa_EXOC.description>
+  <AP_DimiRa_EXOC.comps.2.chargeNoun>독성 팩</AP_DimiRa_EXOC.comps.2.chargeNoun>
+  <AP_DimiRa_EXOC.verbs.Verb_DeployToxPack.label>독성 살포</AP_DimiRa_EXOC.verbs.Verb_DeployToxPack.label>
+  <AP_DimiRa_EXOD.label>AR 방어공병 외골격</AP_DimiRa_EXOD.label>
+  <AP_DimiRa_EXOD.description>재장전 가능한 휴대용 방어막 발생 장치를 사출하는 기능을 갖춘 외골격입니다.</AP_DimiRa_EXOD.description>
+  <AP_DimiRa_EXOD.comps.3.chargeNoun>방어막</AP_DimiRa_EXOD.comps.3.chargeNoun>
+  <AP_DimiRa_EXOD.verbs.Verb_LaunchProjectileStatic.label>방어막 팩 설치</AP_DimiRa_EXOD.verbs.Verb_LaunchProjectileStatic.label>
+  <AP_DimiRa_EXOE.label>AR 전투공병 외골격</AP_DimiRa_EXOE.label>
+  <AP_DimiRa_EXOE.description>대전차 지뢰와 강력한 급조 폭발물(포장 폭약)을 설치할 수 있는 능력을 부여합니다.</AP_DimiRa_EXOE.description>
+  <AP_DimiRa_EXOE.comps.2.chargeNoun>폭약</AP_DimiRa_EXOE.comps.2.chargeNoun>
+  <AP_DimiRa_EXOE.verbs.Verb_LaunchProjectileStatic.label>포장 폭약 설치</AP_DimiRa_EXOE.verbs.Verb_LaunchProjectileStatic.label>
+  <AR_BroadshieldProjector.label>방어막 발생 장치</AR_BroadshieldProjector.label>
+  <AR_BroadshieldProjector.description>휴대용 저각 방어막 발생기입니다. 안에서 밖으로 쏘는 탄환은 통과시키지만, 밖에서 들어오는 탄환은 차단합니다. 몇 초간 작동한 후 과부하로 소멸합니다.</AR_BroadshieldProjector.description>
+  <AR_BroadshieldProjector.comps.1.countdownLabel>소멸까지</AR_BroadshieldProjector.comps.1.countdownLabel>
+  <Grenade_AR_BroadshieldProjector.label>방어막 팩 캡슐</Grenade_AR_BroadshieldProjector.label>
+  <Grenade_AR_Konbaku.label>방어막 팩 캡슐</Grenade_AR_Konbaku.label>
+  <Grenade_AR_Zirai.label>방어막 팩 캡슐</Grenade_AR_Zirai.label>
+  <AR_Charge.label>포장 폭약</AR_Charge.label>
+  <AR_Charge.description>강력한 폭약 묶음입니다. 설치 후 일정 시간이 지나면 폭발하며, 직접 공격하여 즉시 점화할 수도 있습니다.</AR_Charge.description>
+  <AR_Charge.comps.1.countdownLabel>폭발까지</AR_Charge.comps.1.countdownLabel>
+  <AP_DimiRa_EyeA.label>AR 조준 보조 안경</AP_DimiRa_EyeA.label>
+  <AP_DimiRa_EyeA.description>원거리 사격을 보조하는 고배율 기계식 안경입니다.</AP_DimiRa_EyeA.description>
+  <AP_DimiRa_EyeB.label>AR 야간 투시경</AP_DimiRa_EyeB.label>
+  <AP_DimiRa_EyeB.description>어둠 속에서의 전투를 보조하는 머리띠 형태의 야간 투시 장치입니다.</AP_DimiRa_EyeB.description>
+  <AP_DimiRa_EyeC.label>AR 금테 안경</AP_DimiRa_EyeC.label>
+  <AP_DimiRa_EyeC.description>근거리 작업에 특화된 안경입니다. 연구와 의료 보너스를 주지만 사격이나 격투 시에는 방해가 됩니다.</AP_DimiRa_EyeC.description>
+  <AP_DimiRa_EyeD.label>AR 은테 안경</AP_DimiRa_EyeD.label>
+  <AP_DimiRa_EyeD.description>특히 가까운 물체가 잘 보이게 해주는 안경입니다. 시력이 약간 향상되고 연구와 의료에 보너스가 있지만, 사격이나 격투 시에는 방해가 됩니다.</AP_DimiRa_EyeD.description>
+  <AP_DimiRa_01HT.label>AR 시종의 머리장식</AP_DimiRa_01HT.label>
+  <AP_DimiRa_01HT.description>디미엘 시종이 착용하는 머리장식입니다. 작업 속도와 사교에 보너스가 있습니다.</AP_DimiRa_01HT.description>
+  <AP_DimiRa_01HTX.label>AR 시종의 장식용 머리장식</AP_DimiRa_01HTX.label>
+  <AP_DimiRa_01HTX.description>징집 시 장비를 숨기는 모드 등을 사용할 때, 비징집 시에도 헬멧을 숨기고 표시하기 위한 장식용 아이템입니다.</AP_DimiRa_01HTX.description>
+  <Apparel_DimiRa_HELT.label>AR 경량 헬멧</Apparel_DimiRa_HELT.label>
+  <Apparel_DimiRa_HELT.description>가죽이나 천으로 만들어진 가벼운 헬멧입니다.</Apparel_DimiRa_HELT.description>
+  <Apparel_DimiRa_HELA.label>AR 헬멧</Apparel_DimiRa_HELA.label>
+  <Apparel_DimiRa_HELA.description>전투용 헬멧입니다.</Apparel_DimiRa_HELA.description>
+  <Apparel_DimiRa_HELB.label>AR 중형 헬멧</Apparel_DimiRa_HELB.label>
+  <Apparel_DimiRa_HELB.description>장갑이 추가된 전투용 헬멧입니다.</Apparel_DimiRa_HELB.description>
+  <Apparel_DimiRa_HELANG.label>AR 군용 헬멧</Apparel_DimiRa_HELANG.label>
+  <Apparel_DimiRa_HELANG.description>정규군에서 사용되는 헬멧입니다. 다중 구조로 높은 방어력을 가지면서도 가볍습니다.</Apparel_DimiRa_HELANG.description>
+  <AP_DimiRa_Mask.label>AR 가스 마스크</AP_DimiRa_Mask.label>
+  <AP_DimiRa_Mask.description>가스의 영향으로부터 완벽하게 보호됩니다. 또한 기계식 호흡 보조 장치를 통해 폐 기능을 향상시킵니다.</AP_DimiRa_Mask.description>
+  <AP_DimiRa_BoudanMask.label>AR 방탄 마스크</AP_DimiRa_BoudanMask.label>
+  <AP_DimiRa_BoudanMask.description>안면과 두부 보호를 목적으로 한 금속제 마스크입니다. 독가스로부터도 약간 보호됩니다.</AP_DimiRa_BoudanMask.description>
+  <AP_DimiRa_M01UF.label>AR 병사 제복</AP_DimiRa_M01UF.label>
+  <AP_DimiRa_M01UF.description>디미엘 병사들이 착용하는 제복입니다. 전투 능력에 보너스가 있습니다.</AP_DimiRa_M01UF.description>
+  <AP_DimiRa_M01HT.label>AR 병사 정모</AP_DimiRa_M01HT.label>
+  <AP_DimiRa_M01HT.description>디미엘 병사들이 착용하는 모자입니다. 전투 능력에 보너스가 있습니다.</AP_DimiRa_M01HT.description>
+  <AP_DimiRa_03CP.label>AR 병사 담요</AP_DimiRa_03CP.label>
+  <AP_DimiRa_03CP.description>병영에서 사용되는 담요입니다. 몸에 감아 방한이나 방서용으로 사용하며, 간이 방어구 역할도 겸합니다.</AP_DimiRa_03CP.description>
+  <AP_DimiRa_04CP.label>AR 병사 외투</AP_DimiRa_04CP.label>
+  <AP_DimiRa_04CP.description>디미엘 병사들이 한랭지 활동 시 착용하는 코트입니다.</AP_DimiRa_04CP.description>
+  <AP_DimiRa_01UF.label>AR 시종 제복 A</AP_DimiRa_01UF.label>
+  <AP_DimiRa_01UF.description>디미엘 시종들이 착용하는 제복입니다. 사교와 작업 속도에 약간의 보너스가 있습니다.</AP_DimiRa_01UF.description>
+  <AP_DimiRa_02UF.label>AR 시종 제복 B</AP_DimiRa_02UF.label>
+  <AP_DimiRa_02UF.description>디미엘 시종들이 착용하는 제복입니다. 사교와 작업 속도에 보너스가 있습니다.</AP_DimiRa_02UF.description>
+  <AP_DimiRa_01CP.label>AR 시종 담요</AP_DimiRa_01CP.label>
+  <AP_DimiRa_01CP.description>햇빛이나 추위로부터 몸을 보호하는 담요입니다. 몸에 감아 휴대하는 경우가 많습니다.</AP_DimiRa_01CP.description>
+  <AP_DimiRa_02CP.label>AR 시종 케이프</AP_DimiRa_02CP.label>
+  <AP_DimiRa_02CP.description>추위로부터 몸을 보호하기 위해 사용되는 케이프입니다.</AP_DimiRa_02CP.description>
+  <Apparel_ZZspace_HELA.label>AR 우주 헬멧</Apparel_ZZspace_HELA.label>
+  <Apparel_ZZspace_HELA.description>내열 및 온도 저항이 뛰어나며 환경 독소를 차단하는 우주용 헬멧입니다.</Apparel_ZZspace_HELA.description>
+  <Apparel_ZZspace_MDAB.label>AR 우주복</Apparel_ZZspace_MDAB.label>
+  <Apparel_ZZspace_MDAB.description>내열성이 뛰어난 우주용 장갑복입니다.</Apparel_ZZspace_MDAB.description>
+  <AR_Grenadebelt.label>AR 수류탄 벨트</AR_Grenadebelt.label>
+  <AR_Grenadebelt.description>수류탄 4발을 묶은 벨트입니다.</AR_Grenadebelt.description>
+  <AR_Grenadebelt.comps.0.chargeNoun>수류탄</AR_Grenadebelt.comps.0.chargeNoun>
+  <AR_Grenadebelt.verbs.Verb_LaunchProjectileStatic.label>수류탄 투척</AR_Grenadebelt.verbs.Verb_LaunchProjectileStatic.label>
+  <AR_ATGrenadebelt.label>AR 집속 수류탄 벨트</AR_ATGrenadebelt.label>
+  <AR_ATGrenadebelt.description>집속 수류탄 2발을 묶은 벨트입니다. 매우 강력한 파괴력과 넓은 폭발 범위를 가집니다.</AR_ATGrenadebelt.description>
+  <AR_ATGrenadebelt.comps.0.chargeNoun>집속 수류탄</AR_ATGrenadebelt.comps.0.chargeNoun>
+  <AR_ATGrenadebelt.verbs.Verb_LaunchProjectileStatic.label>집속 수류탄 투척</AR_ATGrenadebelt.verbs.Verb_LaunchProjectileStatic.label>
+  <AR_SGbelt.label>AR 연막 수류탄 벨트</AR_SGbelt.label>
+  <AR_SGbelt.description>발연 수류탄 4발을 묶은 벨트입니다.</AR_SGbelt.description>
+  <AR_SGbelt.comps.0.chargeNoun>연막탄</AR_SGbelt.comps.0.chargeNoun>
+  <AR_SGbelt.verbs.Verb_LaunchProjectileStatic.label>연막탄 투척</AR_SGbelt.verbs.Verb_LaunchProjectileStatic.label>
+  <AR_EMPbelt.label>AR EMP 수류탄 벨트</AR_EMPbelt.label>
+  <AR_EMPbelt.description>EMP 수류탄 4발을 묶은 벨트입니다.</AR_EMPbelt.description>
+  <AR_EMPbelt.comps.0.chargeNoun>EMP 수류탄</AR_EMPbelt.comps.0.chargeNoun>
+  <AR_EMPbelt.verbs.Verb_LaunchProjectileStatic.label>EMP 수류탄 투척</AR_EMPbelt.verbs.Verb_LaunchProjectileStatic.label>
+  <Proj_AR_AT72FG.label>집속 수류탄</Proj_AR_AT72FG.label>
+  <Proj_AR_18SG.label>연막 수류탄</Proj_AR_18SG.label>
+  <AR_incendiaryGrenadebelt.label>AR 소이 수류탄 벨트</AR_incendiaryGrenadebelt.label>
+  <AR_incendiaryGrenadebelt.description>소이 수류탄 4발을 묶은 벨트입니다.</AR_incendiaryGrenadebelt.description>
+  <AR_incendiaryGrenadebelt.comps.0.chargeNoun>수류탄</AR_incendiaryGrenadebelt.comps.0.chargeNoun>
+  <AR_incendiaryGrenadebelt.verbs.Verb_LaunchProjectileStatic.label>소이 수류탄 투척</AR_incendiaryGrenadebelt.verbs.Verb_LaunchProjectileStatic.label>
+  <AR_GrenadeGusbelt.label>AR 가스 수류탄 벨트</AR_GrenadeGusbelt.label>
+  <AR_GrenadeGusbelt.description>가스 수류탄 4발을 묶은 벨트입니다.</AR_GrenadeGusbelt.description>
+  <AR_GrenadeGusbelt.comps.0.chargeNoun>수류탄</AR_GrenadeGusbelt.comps.0.chargeNoun>
+  <AR_GrenadeGusbelt.verbs.Verb_LaunchProjectileStatic.label>가스 수류탄 투척</AR_GrenadeGusbelt.verbs.Verb_LaunchProjectileStatic.label>
+  <Proj_AR_72FG.label>수류탄</Proj_AR_72FG.label>
+  <Proj_AR_GrenadeEMP.label>EMP 수류탄</Proj_AR_GrenadeEMP.label>
+  <Proj_AR_87IG.label>소이 수류탄</Proj_AR_87IG.label>
+  <Proj_ARGrenadeTox.label>독가스 수류탄</Proj_ARGrenadeTox.label>
+  <AR_ATMine.label>대전차 지뢰</AR_ATMine.label>
+  <AR_ATMine.description>경량 대전차 지뢰입니다. 일반적인 급조 폭발물(IED)보다 폭발 범위는 좁지만 높은 관통력을 가집니다.</AR_ATMine.description>
+  <Gun_AR_SemiAutomaticRifle.label>AR 반자동 소총</Gun_AR_SemiAutomaticRifle.label>
+  <Gun_AR_SemiAutomaticRifle.description>볼트액션 소총에 반자동 메커니즘을 이식한 소총입니다. 연사 속도는 빨라졌으나 원거리 명중률은 다소 떨어집니다.</Gun_AR_SemiAutomaticRifle.description>
+  <Gun_AR_SemiAutomaticRifle.verbs.Verb_Shoot.label>AR 반자동 소총 사격</Gun_AR_SemiAutomaticRifle.verbs.Verb_Shoot.label>
+  <Gun_AR_SemiAutomaticRifle.tools.0.label>개머리판</Gun_AR_SemiAutomaticRifle.tools.0.label>
+  <Gun_AR_SemiAutomaticRifle.tools.1.label>총열</Gun_AR_SemiAutomaticRifle.tools.1.label>
+  <Gun_AR_SemiAutomaticRifleBY.label>AR 반자동 소총(총검)</Gun_AR_SemiAutomaticRifleBY.label>
+  <Gun_AR_SemiAutomaticRifleBY.description>볼트액션 소총에 반자동 메커니즘을 이식한 소총입니다. 연사 속도는 빨라졌으나 원거리 명중률은 다소 떨어집니다.</Gun_AR_SemiAutomaticRifleBY.description>
+  <Gun_AR_SemiAutomaticRifleBY.verbs.Verb_Shoot.label>AR 반자동 소총(총검) 사격</Gun_AR_SemiAutomaticRifleBY.verbs.Verb_Shoot.label>
+  <Gun_AR_SemiAutomaticRifleBY.tools.0.label>개머리판</Gun_AR_SemiAutomaticRifleBY.tools.0.label>
+  <Gun_AR_SemiAutomaticRifleBY.tools.1.label>총검</Gun_AR_SemiAutomaticRifleBY.tools.1.label>
+  <Gun_AR_ChainShotgun.label>AR 자동 산탄총</Gun_AR_ChainShotgun.label>
+  <Gun_AR_ChainShotgun.description>연사가 가능한 산탄총입니다. 연사력은 낮지만 사거리가 비교적 길고 화력이 막강합니다.</Gun_AR_ChainShotgun.description>
+  <Gun_AR_ChainShotgun.verbs.Verb_Shoot.label>AR 자동 산탄총 사격</Gun_AR_ChainShotgun.verbs.Verb_Shoot.label>
+  <Gun_AR_ChainShotgun.tools.0.label>개머리판</Gun_AR_ChainShotgun.tools.0.label>
+  <Gun_AR_ChainShotgun.tools.1.label>총열</Gun_AR_ChainShotgun.tools.1.label>
+  <Gun_AR_ChainShotgunBY.label>AR 자동 산탄총(총검)</Gun_AR_ChainShotgunBY.label>
+  <Gun_AR_ChainShotgunBY.description>자동 산탄총에 총검을 장착한 변형 모델입니다. 초근거리 교전부터 백병전까지 수행 가능한 우수한 무기입니다.</Gun_AR_ChainShotgunBY.description>
+  <Gun_AR_ChainShotgunBY.verbs.Verb_Shoot.label>AR 자동 산탄총(총검) 사격</Gun_AR_ChainShotgunBY.verbs.Verb_Shoot.label>
+  <Gun_AR_ChainShotgunBY.tools.0.label>개머리판</Gun_AR_ChainShotgunBY.tools.0.label>
+  <Gun_AR_ChainShotgunBY.tools.1.label>총검</Gun_AR_ChainShotgunBY.tools.1.label>
+  <Gun_AR_MachineCarbine.label>AR 기계식 카빈</Gun_AR_MachineCarbine.label>
+  <Gun_AR_MachineCarbine.description>중거리 교전에 중점을 둔 기관단총입니다. 반동 제어 구조 덕분에 높은 명중률을 보여줍니다.</Gun_AR_MachineCarbine.description>
+  <Gun_AR_MachineCarbine.verbs.Verb_Shoot.label>AR 기계식 카빈 사격</Gun_AR_MachineCarbine.verbs.Verb_Shoot.label>
+  <Gun_AR_MachineCarbine.tools.0.label>손잡이</Gun_AR_MachineCarbine.tools.0.label>
+  <Gun_AR_MachineCarbine.tools.1.label>총열</Gun_AR_MachineCarbine.tools.1.label>
+  <Gun_AR_MachineCarbineII.label>AR 기계식 카빈(경량)</Gun_AR_MachineCarbineII.label>
+  <Gun_AR_MachineCarbineII.description>공수부대 배치를 위해 개발되었으나 수송 포드의 등장으로 계획이 무산된 비운의 총기입니다. 가볍고 작아 주로 법 집행 기관에서 사용됩니다.</Gun_AR_MachineCarbineII.description>
+  <Gun_AR_MachineCarbineII.verbs.Verb_Shoot.label>AR 기계식 카빈(경량) 사격</Gun_AR_MachineCarbineII.verbs.Verb_Shoot.label>
+  <Gun_AR_MachineCarbineII.tools.0.label>손잡이</Gun_AR_MachineCarbineII.tools.0.label>
+  <Gun_AR_MachineCarbineII.tools.1.label>총열</Gun_AR_MachineCarbineII.tools.1.label>
+  <Gun_AR_LMGCC.label>AR 경기관총</Gun_AR_LMGCC.label>
+  <Gun_AR_LMGCC.description>상부 탄창 급탄 방식을 사용하는 경기관총입니다.</Gun_AR_LMGCC.description>
+  <Gun_AR_LMGCC.verbs.Verb_Shoot.label>AR 경기관총 사격</Gun_AR_LMGCC.verbs.Verb_Shoot.label>
+  <Gun_AR_LMGCC.tools.0.label>개머리판</Gun_AR_LMGCC.tools.0.label>
+  <Gun_AR_LMGCC.tools.1.label>총열</Gun_AR_LMGCC.tools.1.label>
+  <Gun_AR_SemiAutomaticCarbine.label>AR 반자동 기병총</Gun_AR_SemiAutomaticCarbine.label>
+  <Gun_AR_SemiAutomaticCarbine.description>볼트액션 소총에 반자동 메커니즘을 이식한 기병총입니다. 연사 속도는 빨라졌으나 원거리 명중률은 다소 떨어집니다.</Gun_AR_SemiAutomaticCarbine.description>
+  <Gun_AR_SemiAutomaticCarbine.verbs.Verb_Shoot.label>AR 반자동 기병총 사격</Gun_AR_SemiAutomaticCarbine.verbs.Verb_Shoot.label>
+  <Gun_AR_SemiAutomaticCarbine.tools.0.label>개머리판</Gun_AR_SemiAutomaticCarbine.tools.0.label>
+  <Gun_AR_SemiAutomaticCarbine.tools.1.label>총열</Gun_AR_SemiAutomaticCarbine.tools.1.label>
+  <Gun_AR_SemiAutomaticCarbineB.label>AR 반자동 기병총(경량)</Gun_AR_SemiAutomaticCarbineB.label>
+  <Gun_AR_SemiAutomaticCarbineB.description>과거 낙하산 강습 부대를 위해 개발된 접이식 카빈입니다. 수송 포드의 등장으로 계획은 무산되었으나, 휴대성이 좋아 여전히 널리 사용됩니다.</Gun_AR_SemiAutomaticCarbineB.description>
+  <Gun_AR_SemiAutomaticCarbineB.verbs.Verb_Shoot.label>AR 반자동 기병총(경량) 사격</Gun_AR_SemiAutomaticCarbineB.verbs.Verb_Shoot.label>
+  <Gun_AR_SemiAutomaticCarbineB.tools.0.label>개머리판</Gun_AR_SemiAutomaticCarbineB.tools.0.label>
+  <Gun_AR_SemiAutomaticCarbineB.tools.1.label>총열</Gun_AR_SemiAutomaticCarbineB.tools.1.label>
+  <Gun_AR_MilitarypistolB.label>AR 제식 권총</Gun_AR_MilitarypistolB.label>
+  <Gun_AR_MilitarypistolB.description>알리아일 군에서 최초로 채택한 자동권총입니다. 소구경이지만 뛰어난 명중률을 자랑합니다.</Gun_AR_MilitarypistolB.description>
+  <Gun_AR_MilitarypistolB.verbs.Verb_Shoot.label>AR 제식 권총 사격</Gun_AR_MilitarypistolB.verbs.Verb_Shoot.label>
+  <Gun_AR_MilitarypistolB.tools.0.label>손잡이</Gun_AR_MilitarypistolB.tools.0.label>
+  <Gun_AR_MilitarypistolB.tools.1.label>총열</Gun_AR_MilitarypistolB.tools.1.label>
+  <Bullet_AR_ShotgunB.label>연발용 산탄</Bullet_AR_ShotgunB.label>
+  <Bullet_AR_SemiAutomaticRifle.label>보병총용 보통탄</Bullet_AR_SemiAutomaticRifle.label>
+  <Bullet_AR_SemiAutomaticCarbine.label>기병총용 보통탄</Bullet_AR_SemiAutomaticCarbine.label>
+  <Gun_AR_AssaultRifleGL.label>AR 자동소총(유탄발사기)</Gun_AR_AssaultRifleGL.label>
+  <Gun_AR_AssaultRifleGL.description>유탄발사기를 장착한 자동소총입니다. 무게로 인해 무게 중심이 변하여 명중률은 다소 떨어지지만, 강력한 유탄을 발사할 수 있습니다.</Gun_AR_AssaultRifleGL.description>
+  <Gun_AR_AssaultRifleGL.verbs.Verb_Shoot.label>AR 자동소총(유탄발사기) 사격</Gun_AR_AssaultRifleGL.verbs.Verb_Shoot.label>
+  <Gun_AR_AssaultRifleGL.tools.0.label>개머리판</Gun_AR_AssaultRifleGL.tools.0.label>
+  <Gun_AR_AssaultRifleGL.tools.1.label>총열</Gun_AR_AssaultRifleGL.tools.1.label>
+  <Gun_AR_AssaultRifleGL.comps.0.chargeNoun>유탄</Gun_AR_AssaultRifleGL.comps.0.chargeNoun>
+  <Gun_AR_BoltActionRifleGR.label>AR 보병총(총류탄)</Gun_AR_BoltActionRifleGR.label>
+  <Gun_AR_BoltActionRifleGR.description>총류탄 발사 장치를 탑재한 보병총입니다. 무게 중심의 변화와 총구 장치에 의한 탄도 특성 변화로 명중률은 손상되었지만, 강력한 유탄을 쏘아보낼 수 있습니다.</Gun_AR_BoltActionRifleGR.description>
+  <Gun_AR_BoltActionRifleGR.verbs.Verb_Shoot.label>AR 보병총(총류탄) 사격</Gun_AR_BoltActionRifleGR.verbs.Verb_Shoot.label>
+  <Gun_AR_BoltActionRifleGR.tools.0.label>개머리판</Gun_AR_BoltActionRifleGR.tools.0.label>
+  <Gun_AR_BoltActionRifleGR.tools.1.label>총열</Gun_AR_BoltActionRifleGR.tools.1.label>
+  <Gun_AR_BoltActionRifleGR.comps.0.chargeNoun>유탄</Gun_AR_BoltActionRifleGR.comps.0.chargeNoun>
+  <AR_LauncherGrenade.label>유탄</AR_LauncherGrenade.label>
+  <AR_LauncherGrenadeB.label>유탄</AR_LauncherGrenadeB.label>
+ <Gun_AR_ATRifle.label>AR 대물 저격총</Gun_AR_ATRifle.label>
+  <Gun_AR_ATRifle.description>대구경 대물 소총입니다. 매우 높은 관통력을 가진 유탄을 발사합니다.</Gun_AR_ATRifle.description>
+  <Gun_AR_ATRifle.tools.0.label>개머리판</Gun_AR_ATRifle.tools.0.label>
+  <Gun_AR_ATRifle.tools.1.label>총열</Gun_AR_ATRifle.tools.1.label>
+  <Gun_AR_ATRifle.verbs.Verb_Shoot.label>AR 대물 저격총 사격</Gun_AR_ATRifle.verbs.Verb_Shoot.label>
+  <Gun_AR_ATBRifle.label>AR 대전차 소총</Gun_AR_ATBRifle.label>
+  <Gun_AR_ATBRifle.description>대구경 대전차 소총입니다. 관통력이 매우 높은 탄을 발사하지만 명중률은 그리 높지 않습니다.</Gun_AR_ATBRifle.description>
+  <Gun_AR_ATBRifle.verbs.Verb_Shoot.label>AR 대전차 소총 사격</Gun_AR_ATBRifle.verbs.Verb_Shoot.label>
+  <Gun_AR_ATBRifle.tools.0.label>개머리판</Gun_AR_ATBRifle.tools.0.label>
+  <Gun_AR_ATBRifle.tools.1.label>총열</Gun_AR_ATBRifle.tools.1.label>
+  <Bullet_AR_AMSR.label>철갑유탄</Bullet_AR_AMSR.label>
+  <Bullet_AR_AMSRB.label>철갑유탄</Bullet_AR_AMSRB.label>
+  <Gun_AR_AutopistolS.label>AR 소형 권총</Gun_AR_AutopistolS.label>
+  <Gun_AR_AutopistolS.description>클립 장전식 소형 권총입니다. 리볼버와 함께 알리아일 군대에서 널리 사용되는 권총입니다.</Gun_AR_AutopistolS.description>
+  <Gun_AR_AutopistolS.verbs.Verb_Shoot.label>AR 소형 권총 사격</Gun_AR_AutopistolS.verbs.Verb_Shoot.label>
+  <Gun_AR_AutopistolS.tools.0.label>손잡이</Gun_AR_AutopistolS.tools.0.label>
+  <Gun_AR_AutopistolS.tools.1.label>총열</Gun_AR_AutopistolS.tools.1.label>
+  <Gun_AR_Autopistol.label>AR 대형 권총</Gun_AR_Autopistol.label>
+  <Gun_AR_Autopistol.description>클립 장전식 대형 권총입니다. 다소 구식 설계지만, 손잡이가 가늘어 체구가 작은 알리아일들이 선호합니다.</Gun_AR_Autopistol.description>
+  <Gun_AR_Autopistol.verbs.Verb_Shoot.label>AR 대형 권총 사격</Gun_AR_Autopistol.verbs.Verb_Shoot.label>
+  <Gun_AR_Autopistol.tools.0.label>손잡이</Gun_AR_Autopistol.tools.0.label>
+  <Gun_AR_Autopistol.tools.1.label>총열</Gun_AR_Autopistol.tools.1.label>
+  <Gun_AR_AutoRevolver.label>AR 자동식 리볼버</Gun_AR_AutoRevolver.label>
+  <Gun_AR_AutoRevolver.description>자동 메커니즘을 도입한 리볼버입니다. 트리거가 가볍고 반동이 부드러워 알리아일들이 즐겨 사용합니다.</Gun_AR_AutoRevolver.description>
+  <Gun_AR_AutoRevolver.verbs.Verb_Shoot.label>AR 자동식 리볼버 사격</Gun_AR_AutoRevolver.verbs.Verb_Shoot.label>
+  <Gun_AR_AutoRevolver.tools.0.label>손잡이</Gun_AR_AutoRevolver.tools.0.label>
+  <Gun_AR_AutoRevolver.tools.1.label>총열</Gun_AR_AutoRevolver.tools.1.label>
+  <Gun_AR_AutopistolB.label>AR 토글액션 권총</Gun_AR_AutopistolB.label>
+  <Gun_AR_AutopistolB.description>클래식한 외형의 자동 권총입니다. 장교들이 취미로 휴대하는 경우가 많으나 실용성은 그리 높지 않습니다.</Gun_AR_AutopistolB.description>
+  <Gun_AR_AutopistolB.verbs.Verb_Shoot.label>AR 토글액션 권총 사격</Gun_AR_AutopistolB.verbs.Verb_Shoot.label>
+  <Gun_AR_AutopistolB.tools.0.label>손잡이</Gun_AR_AutopistolB.tools.0.label>
+  <Gun_AR_AutopistolB.tools.1.label>총열</Gun_AR_AutopistolB.tools.1.label>
+  <Gun_AR_MachinePistol.label>AR 기관권총</Gun_AR_MachinePistol.label>
+  <Gun_AR_MachinePistol.description>대형 자동 권총에 개머리판을 장착하고 탄창을 대형화한 모델입니다. 본래 연사 화기로 설계되지 않아 사거리와 명중률에 한계가 있지만, 초근거리 소탕 능력은 뛰어납니다.</Gun_AR_MachinePistol.description>
+  <Gun_AR_MachinePistol.verbs.Verb_Shoot.label>AR 기관권총 사격</Gun_AR_MachinePistol.verbs.Verb_Shoot.label>
+  <Gun_AR_MachinePistol.tools.0.label>손잡이</Gun_AR_MachinePistol.tools.0.label>
+  <Gun_AR_MachinePistol.tools.1.label>총열</Gun_AR_MachinePistol.tools.1.label>
+  <Gun_AR_MachinePistolB.label>AR 기관단총</Gun_AR_MachinePistolB.label>
+  <Gun_AR_MachinePistolB.description>소총의 근접 전투 능력 부족을 보완하기 위해 하사관이나 근접 전투 전문가들이 휴대하는 기관단총입니다.</Gun_AR_MachinePistolB.description>
+  <Gun_AR_MachinePistolB.verbs.Verb_Shoot.label>AR 기관단총 사격</Gun_AR_MachinePistolB.verbs.Verb_Shoot.label>
+  <Gun_AR_MachinePistolB.tools.0.label>손잡이</Gun_AR_MachinePistolB.tools.0.label>
+  <Gun_AR_MachinePistolB.tools.1.label>총열</Gun_AR_MachinePistolB.tools.1.label>
+  <Gun_AR_MachinePistolBBY.label>AR 기관단총(총검)</Gun_AR_MachinePistolBBY.label>
+  <Gun_AR_MachinePistolBBY.description>기관단총에 총검을 장착한 모델입니다. 연사 기능과 백병전 능력을 동시에 갖춰 변방계에서 인기 있는 조합입니다.</Gun_AR_MachinePistolBBY.description>
+  <Gun_AR_MachinePistolBBY.verbs.Verb_Shoot.label>AR 기관단총(총검) 사격</Gun_AR_MachinePistolBBY.verbs.Verb_Shoot.label>
+  <Gun_AR_MachinePistolBBY.tools.0.label>개머리판</Gun_AR_MachinePistolBBY.tools.0.label>
+  <Gun_AR_MachinePistolBBY.tools.1.label>총검</Gun_AR_MachinePistolBBY.tools.1.label>
+  <Bullet_AR_Autopistol.label>권총탄</Bullet_AR_Autopistol.label>
+  <Bullet_AR_AutopistolB.label>권총탄</Bullet_AR_AutopistolB.label>
+  <Bullet_AR_AutopistolC.label>권총탄</Bullet_AR_AutopistolC.label>
+  <Bullet_AR_MachinePistol.label>기관권총 보통탄</Bullet_AR_MachinePistol.label>
+  <Bullet_AR_MachinePistolB.label>기관단총 보통탄</Bullet_AR_MachinePistolB.label>
+  <Gun_AR_HeavySMG.label>AR 중형 기관단총</Gun_AR_HeavySMG.label>
+  <Gun_AR_HeavySMG.description>근거리 및 중거리에서 위력을 발휘하는 고급 기관단총입니다.</Gun_AR_HeavySMG.description>
+  <Gun_AR_HeavySMG.verbs.Verb_Shoot.label>AR 중형 기관단총 사격</Gun_AR_HeavySMG.verbs.Verb_Shoot.label>
+  <Gun_AR_HeavySMG.tools.0.label>손잡이</Gun_AR_HeavySMG.tools.0.label>
+  <Gun_AR_HeavySMG.tools.1.label>총열</Gun_AR_HeavySMG.tools.1.label>
+  <Gun_AR_HeavySMGB.label>AR 단기관총</Gun_AR_HeavySMGB.label>
+  <Gun_AR_HeavySMGB.description>높은 명중률과 준수한 사거리를 가진 기관단총입니다. 그 특성상 법 집행 기관 등에서 카빈 소총처럼 운용되기도 합니다.</Gun_AR_HeavySMGB.description>
+  <Gun_AR_HeavySMGB.verbs.Verb_Shoot.label>AR 단기관총 사격</Gun_AR_HeavySMGB.verbs.Verb_Shoot.label>
+  <Gun_AR_HeavySMGB.tools.0.label>손잡이</Gun_AR_HeavySMGB.tools.0.label>
+  <Gun_AR_HeavySMGB.tools.1.label>총열</Gun_AR_HeavySMGB.tools.1.label>
+  <Gun_AR_LMG.label>AR 수냉식 기관총</Gun_AR_LMG.label>
+  <Gun_AR_LMG.description>수냉식 기관총입니다. 매우 긴 사거리와 장시간의 제압 사격으로 적을 압도하지만, 무거운 무게로 인해 이동 속도가 크게 저하됩니다.</Gun_AR_LMG.description>
+  <Gun_AR_LMG.verbs.Verb_Shoot.label>AR 수냉식 기관총 사격</Gun_AR_LMG.verbs.Verb_Shoot.label>
+  <Gun_AR_LMG.tools.0.label>개머리판</Gun_AR_LMG.tools.0.label>
+  <Gun_AR_LMG.tools.1.label>총열</Gun_AR_LMG.tools.1.label>
+  <Gun_AR_LMGBB.label>AR 공냉식 기관총</Gun_AR_LMGBB.label>
+  <Gun_AR_LMGBB.description>특수 설계된 공냉 시스템을 갖춘 비교적 가벼운 경기관총입니다. 중기관총보다 가까운 거리에서의 소탕전에 적합합니다.</Gun_AR_LMGBB.description>
+  <Gun_AR_LMGBB.verbs.Verb_Shoot.label>AR 공냉식 기관총 사격</Gun_AR_LMGBB.verbs.Verb_Shoot.label>
+  <Gun_AR_LMGBB.tools.0.label>개머리판</Gun_AR_LMGBB.tools.0.label>
+  <Gun_AR_LMGBB.tools.1.label>총열</Gun_AR_LMGBB.tools.1.label>
+  <Bullet_AR_HeavySMG.label>기관단총 보통탄</Bullet_AR_HeavySMG.label>
+  <Bullet_AR_HeavySMGB.label>기관단총 보통탄</Bullet_AR_HeavySMGB.label>
+  <Bullet_AR_LMG.label>중기관총 보통탄</Bullet_AR_LMG.label>
+  <Gun_AR_Revolver.label>AR 리볼버</Gun_AR_Revolver.label>
+  <Gun_AR_Revolver.description>저속탄을 사용하는 중절식 리볼버입니다. 알리아일 군 장교와 일부 하사관들이 사용합니다. 자동 권총이 보급된 후에도 특유의 신뢰성 덕분에 널리 쓰입니다.</Gun_AR_Revolver.description>
+  <Gun_AR_Revolver.verbs.Verb_Shoot.label>AR 리볼버 사격</Gun_AR_Revolver.verbs.Verb_Shoot.label>
+  <Gun_AR_Revolver.tools.0.label>손잡이</Gun_AR_Revolver.tools.0.label>
+  <Gun_AR_Revolver.tools.1.label>총열</Gun_AR_Revolver.tools.1.label>
+  <Gun_AR_BoltActionRifle.label>AR 보병총</Gun_AR_BoltActionRifle.label>
+  <Gun_AR_BoltActionRifle.description>표준적인 볼트액션 소총입니다. 긴 사거리와 고위력을 선호하는 알리아일 군대에서 광범위하게 사용됩니다.</Gun_AR_BoltActionRifle.description>
+  <Gun_AR_BoltActionRifle.verbs.Verb_Shoot.label>AR 보병총 사격</Gun_AR_BoltActionRifle.verbs.Verb_Shoot.label>
+  <Gun_AR_BoltActionRifle.tools.0.label>개머리판</Gun_AR_BoltActionRifle.tools.0.label>
+  <Gun_AR_BoltActionRifle.tools.1.label>총열</Gun_AR_BoltActionRifle.tools.1.label>
+  <Gun_AR_BoltActionRifleBY.label>AR 보병총(총검)</Gun_AR_BoltActionRifleBY.label>
+  <Gun_AR_BoltActionRifleBY.description>근접전 및 자기방어에 유용한 총검이 장착된 보병총입니다. 알리아일 군대에서는 보통 총검을 장착하여 운용합니다.</Gun_AR_BoltActionRifleBY.description>
+  <Gun_AR_BoltActionRifleBY.verbs.Verb_Shoot.label>AR 보병총(총검) 사격</Gun_AR_BoltActionRifleBY.verbs.Verb_Shoot.label>
+  <Gun_AR_BoltActionRifleBY.tools.0.label>개머리판</Gun_AR_BoltActionRifleBY.tools.0.label>
+  <Gun_AR_BoltActionRifleBY.tools.1.label>총검</Gun_AR_BoltActionRifleBY.tools.1.label>
+  <Gun_AR_PumpShotgun.label>AR 산탄총</Gun_AR_PumpShotgun.label>
+  <Gun_AR_PumpShotgun.description>몰려오는 적들을 격퇴하는 데 유용한 산탄총입니다. 한 번의 사격으로 적의 여러 부위에 피해를 입힐 수 있습니다.</Gun_AR_PumpShotgun.description>
+  <Gun_AR_PumpShotgun.verbs.Verb_Shoot.label>AR 산탄총 사격</Gun_AR_PumpShotgun.verbs.Verb_Shoot.label>
+  <Gun_AR_PumpShotgun.tools.0.label>개머리판</Gun_AR_PumpShotgun.tools.0.label>
+  <Gun_AR_PumpShotgun.tools.1.label>총열</Gun_AR_PumpShotgun.tools.1.label>
+  <Gun_AR_PumpShotgunBY.label>AR 산탄총(총검)</Gun_AR_PumpShotgunBY.label>
+  <Gun_AR_PumpShotgunBY.description>근접전에 대비해 총검을 장착한 산탄총입니다. 부족과의 백병전이 빈번한 변방계 지역에서 매우 유용하게 쓰입니다.</Gun_AR_PumpShotgunBY.description>
+  <Gun_AR_PumpShotgunBY.verbs.Verb_Shoot.label>AR 산탄총(총검) 사격</Gun_AR_PumpShotgunBY.verbs.Verb_Shoot.label>
+  <Gun_AR_PumpShotgunBY.tools.0.label>개머리판</Gun_AR_PumpShotgunBY.tools.0.label>
+  <Gun_AR_PumpShotgunBY.tools.1.label>총검</Gun_AR_PumpShotgunBY.tools.1.label>
+  <Gun_AR_BoltActionRifleSR.label>AR 보병총(조준경)</Gun_AR_BoltActionRifleSR.label>
+  <Gun_AR_BoltActionRifleSR.description>정밀도가 높은 보병총을 선별하여 저배율 스코프를 장착한 저격 소총입니다.</Gun_AR_BoltActionRifleSR.description>
+  <Gun_AR_BoltActionRifleSR.verbs.Verb_Shoot.label>AR 보병총(조준경) 사격</Gun_AR_BoltActionRifleSR.verbs.Verb_Shoot.label>
+  <Gun_AR_BoltActionRifleSR.tools.0.label>개머리판</Gun_AR_BoltActionRifleSR.tools.0.label>
+  <Gun_AR_BoltActionRifleSR.tools.1.label>총열</Gun_AR_BoltActionRifleSR.tools.1.label>
+  <Gun_AR_BoltActionCarbine.label>AR 기병총</Gun_AR_BoltActionCarbine.label>
+  <Gun_AR_BoltActionCarbine.description>길이를 단축한 볼트액션 소총입니다. 명중률과 유효 사거리를 희생한 대신 연사력을 향상시켰습니다. 주로 하사관, 통신병, 차량 승무원의 호신용으로 사용됩니다.</Gun_AR_BoltActionCarbine.description>
+  <Gun_AR_BoltActionCarbine.verbs.Verb_Shoot.label>AR 기병총 사격</Gun_AR_BoltActionCarbine.verbs.Verb_Shoot.label>
+  <Gun_AR_BoltActionCarbine.tools.0.label>개머리판</Gun_AR_BoltActionCarbine.tools.0.label>
+  <Gun_AR_BoltActionCarbine.tools.1.label>총열</Gun_AR_BoltActionCarbine.tools.1.label>
+  <Bullet_AR_BoltActionRifle.label>보병총 보통탄</Bullet_AR_BoltActionRifle.label>
+  <Bullet_AR_BoltActionCarbine.label>기병총 보통탄</Bullet_AR_BoltActionCarbine.label>
+  <Bullet_AR_Revolver.label>소구경 권총탄</Bullet_AR_Revolver.label>
+  <Bullet_AR_Shotgun.label>산탄</Bullet_AR_Shotgun.label>
+  <Bullet_AR_BoltActionRifleDMR.label>보병총 저격탄</Bullet_AR_BoltActionRifleDMR.label>
+  <AR_MeleeWeapon_Rapier.label>AR 레이피어</AR_MeleeWeapon_Rapier.label>
+  <AR_MeleeWeapon_Rapier.description>창병이나 총병이 난전 시에 사용하는 가느다란 도검입니다. 롱소드보다 공격 속도가 빠르고 찌르기 관통력이 높습니다.</AR_MeleeWeapon_Rapier.description>
+  <AR_MeleeWeapon_Rapier.tools.0.label>자루</AR_MeleeWeapon_Rapier.tools.0.label>
+  <AR_MeleeWeapon_Rapier.tools.1.label>끝부분</AR_MeleeWeapon_Rapier.tools.1.label>
+  <AR_MeleeWeapon_Rapier.tools.2.label>날</AR_MeleeWeapon_Rapier.tools.2.label>
+  <AR_MeleeWeapon_Mace_Medieval.label>AR 메이스</AR_MeleeWeapon_Mace_Medieval.label>
+  <AR_MeleeWeapon_Mace_Medieval.description>중갑을 입은 상대에게 대응하기 위한 한손 무기입니다. 무겁고 각진 머리 부분은 중장갑 적을 타격하여 무력화하는 데 적합합니다.</AR_MeleeWeapon_Mace_Medieval.description>
+  <AR_MeleeWeapon_Mace_Medieval.tools.0.label>자루</AR_MeleeWeapon_Mace_Medieval.tools.0.label>
+  <AR_MeleeWeapon_Mace_Medieval.tools.1.label>머리</AR_MeleeWeapon_Mace_Medieval.tools.1.label>
+  <Gun_AR_Arquebus.label>AR 화승총</Gun_AR_Arquebus.label>
+  <Gun_AR_Arquebus.description>구식 화승총입니다. 명중률과 재장전 대기 시간은 매우 좋지 않지만, 공격력은 강력합니다.</Gun_AR_Arquebus.description>
+  <Gun_AR_Arquebus.verbs.Verb_Shoot.label>AR 화승총 사격</Gun_AR_Arquebus.verbs.Verb_Shoot.label>
+  <Gun_AR_Arquebus.tools.0.label>개머리판</Gun_AR_Arquebus.tools.0.label>
+  <Gun_AR_Arquebus.tools.1.label>총열</Gun_AR_Arquebus.tools.1.label>
+  <Gun_AR_Musket.label>AR 수석총</Gun_AR_Musket.label>
+  <Gun_AR_Musket.description>구식 플린트락 머스킷입니다. 명중률과 재장전 대기 시간은 매우 좋지 않지만, 공격력은 강력합니다.</Gun_AR_Musket.description>
+  <Gun_AR_Musket.verbs.Verb_Shoot.label>AR 수석총 사격</Gun_AR_Musket.verbs.Verb_Shoot.label>
+  <Gun_AR_Musket.tools.0.label>개머리판</Gun_AR_Musket.tools.0.label>
+  <Gun_AR_Musket.tools.1.label>총검</Gun_AR_Musket.tools.1.label>
+  <Gun_AR_Blunderbuss.label>AR 나팔총</Gun_AR_Blunderbuss.label>
+  <Gun_AR_Blunderbuss.description>구식 플린트락 산탄총입니다. 재장전 대기 시간이 매우 길지만 파괴력이 압도적입니다.</Gun_AR_Blunderbuss.description>
+  <Gun_AR_Blunderbuss.verbs.Verb_Shoot.label>AR 나팔총 사격</Gun_AR_Blunderbuss.verbs.Verb_Shoot.label>
+  <Gun_AR_Blunderbuss.tools.0.label>개머리판</Gun_AR_Blunderbuss.tools.0.label>
+  <Gun_AR_Blunderbuss.tools.1.label>총열</Gun_AR_Blunderbuss.tools.1.label>
+  <Gun_AR_RifleMusket.label>AR 머스킷 소총</Gun_AR_RifleMusket.label>
+  <Gun_AR_RifleMusket.description>강선이 새겨진 머스킷입니다. 일반 머스킷보다 명중률은 다소 낫지만 여전히 재장전 대기 시간이 깁니다.</Gun_AR_RifleMusket.description>
+  <Gun_AR_RifleMusket.verbs.Verb_Shoot.label>AR 머스킷 소총 사격</Gun_AR_RifleMusket.verbs.Verb_Shoot.label>
+  <Gun_AR_RifleMusket.tools.0.label>개머리판</Gun_AR_RifleMusket.tools.0.label>
+  <Gun_AR_RifleMusket.tools.1.label>총열</Gun_AR_RifleMusket.tools.1.label>
+  <Gun_AR_Wheellockpistol.label>AR 휠락 권총</Gun_AR_Wheellockpistol.label>
+  <Gun_AR_Wheellockpistol.description>특수 기구로 점화약에 불을 붙이는 권총입니다. 명중률은 절망적이지만, 적중 시 매우 높은 피해를 줍니다.</Gun_AR_Wheellockpistol.description>
+  <Gun_AR_Wheellockpistol.verbs.Verb_Shoot.label>AR 휠락 권총 사격</Gun_AR_Wheellockpistol.verbs.Verb_Shoot.label>
+  <Gun_AR_Wheellockpistol.tools.0.label>개머리판</Gun_AR_Wheellockpistol.tools.0.label>
+  <Gun_AR_Wheellockpistol.tools.1.label>총열</Gun_AR_Wheellockpistol.tools.1.label>
+  <Gun_AR_Flintlockpistol.label>AR 수석식 권총</Gun_AR_Flintlockpistol.label>
+  <Gun_AR_Flintlockpistol.description>부싯돌로 점화약에 불을 붙이는 권총입니다. 명중률은 절망적이지만, 적중 시 매우 높은 피해를 줍니다.</Gun_AR_Flintlockpistol.description>
+  <Gun_AR_Flintlockpistol.verbs.Verb_Shoot.label>AR 수석식 권총 사격</Gun_AR_Flintlockpistol.verbs.Verb_Shoot.label>
+  <Gun_AR_Flintlockpistol.tools.0.label>개머리판</Gun_AR_Flintlockpistol.tools.0.label>
+  <Gun_AR_Flintlockpistol.tools.1.label>총열</Gun_AR_Flintlockpistol.tools.1.label>
+  <Gun_AR_singlerifle.label>AR 단발 소총</Gun_AR_singlerifle.label>
+  <Gun_AR_singlerifle.description>후장식 단발 소총입니다. 명중률은 나쁘지 않으나 연사 속도가 다소 느립니다.</Gun_AR_singlerifle.description>
+  <Gun_AR_singlerifle.verbs.Verb_Shoot.label>AR 단발 소총 사격</Gun_AR_singlerifle.verbs.Verb_Shoot.label>
+  <Gun_AR_singlerifle.tools.0.label>개머리판</Gun_AR_singlerifle.tools.0.label>
+  <Gun_AR_singlerifle.tools.1.label>총검</Gun_AR_singlerifle.tools.1.label>
+  <Gun_AR_singleCBN.label>AR 단발 카빈</Gun_AR_singleCBN.label>
+  <Gun_AR_singleCBN.description>후장식 단발 카빈입니다. 명중률은 나쁘지 않으나 연사 속도가 다소 느립니다.</Gun_AR_singleCBN.description>
+  <Gun_AR_singleCBN.verbs.Verb_Shoot.label>AR 단발 카빈 사격</Gun_AR_singleCBN.verbs.Verb_Shoot.label>
+  <Gun_AR_singleCBN.tools.0.label>개머리판</Gun_AR_singleCBN.tools.0.label>
+  <Gun_AR_singleCBN.tools.1.label>총열</Gun_AR_singleCBN.tools.1.label>
+  <Gun_AR_singleactionpistol.label>AR 싱글액션 리볼버</Gun_AR_singleactionpistol.label>
+  <Gun_AR_singleactionpistol.description>매 사격 시 공이치기를 직접 젖혀야 하는 방식의 권총입니다.</Gun_AR_singleactionpistol.description>
+  <Gun_AR_singleactionpistol.verbs.Verb_Shoot.label>AR 싱글액션 리볼버 사격</Gun_AR_singleactionpistol.verbs.Verb_Shoot.label>
+  <Gun_AR_singleactionpistol.tools.0.label>개머리판</Gun_AR_singleactionpistol.tools.0.label>
+  <Gun_AR_singleactionpistol.tools.1.label>총열</Gun_AR_singleactionpistol.tools.1.label>
+  <Gun_AR_BlunderbussB.label>AR 단발 산탄총</Gun_AR_BlunderbussB.label>
+  <Gun_AR_BlunderbussB.description>단발식 산탄총입니다. 재장전 대기 시간이 길지만 매우 높은 파괴력을 자랑합니다.</Gun_AR_BlunderbussB.description>
+  <Gun_AR_BlunderbussB.verbs.Verb_Shoot.label>AR 단발 산탄총 사격</Gun_AR_BlunderbussB.verbs.Verb_Shoot.label>
+  <Gun_AR_BlunderbussB.tools.0.label>개머리판</Gun_AR_BlunderbussB.tools.0.label>
+  <Gun_AR_BlunderbussB.tools.1.label>총열</Gun_AR_BlunderbussB.tools.1.label>
+  <Bullet_AR_Arquebus.label>화승총탄</Bullet_AR_Arquebus.label>
+  <Bullet_AR_Musket.label>머스킷 탄환</Bullet_AR_Musket.label>
+  <Bullet_AR_singlerifle.label>소총탄</Bullet_AR_singlerifle.label>
+  <Bullet_AR_singlepistol.label>권총탄</Bullet_AR_singlepistol.label>
+  <Bullet_AR_Blunderbuss.label>산탄</Bullet_AR_Blunderbuss.label>
+  <Bullet_AR_BlunderbussB.label>산탄</Bullet_AR_BlunderbussB.label>
+<AR_MeleeWeapon_Bayonet.label>AR 총검</AR_MeleeWeapon_Bayonet.label>
+<AR_MeleeWeapon_Bayonet.description>총검으로 제작된 단검이지만, 손에 들고 전투에 사용할 수도 있습니다. 일반적인 단검보다 강력한 베기 공격이 가능하며 찌르기가 빠릅니다.</AR_MeleeWeapon_Bayonet.description>
+<AR_MeleeWeapon_Bayonet.tools.0.label>날</AR_MeleeWeapon_Bayonet.tools.0.label>
+<AR_MeleeWeapon_Bayonet.tools.1.label>끝부분</AR_MeleeWeapon_Bayonet.tools.1.label>
+<AR_MeleeWeapon_Knife.label>AR 전투용 단검</AR_MeleeWeapon_Knife.label>
+<AR_MeleeWeapon_Knife.description>상대의 갑옷 틈새나 두꺼운 방한복을 뚫기 위해 날카로운 끝을 가진 단검입니다. 일반적인 단검보다 베기가 빠르고 찌르기가 강력합니다.</AR_MeleeWeapon_Knife.description>
+<AR_MeleeWeapon_Knife.tools.0.label>날</AR_MeleeWeapon_Knife.tools.0.label>
+<AR_MeleeWeapon_Knife.tools.1.label>끝부분</AR_MeleeWeapon_Knife.tools.1.label>
+<AR_MeleeWeapon_Mace.label>AR 참호 곤봉</AR_MeleeWeapon_Mace.label>
+<AR_MeleeWeapon_Mace.description>철조망이 감긴 나무 곤봉입니다. 비교적 가볍고 휘두르는 속도가 빠르며, 날카로운 금속 가시가 적에게 추가적인 찌르기 피해를 입힙니다.</AR_MeleeWeapon_Mace.description>
+<AR_MeleeWeapon_Mace.tools.0.label>자루</AR_MeleeWeapon_Mace.tools.0.label>
+<AR_MeleeWeapon_Mace.tools.1.label>머리</AR_MeleeWeapon_Mace.tools.1.label>
+<AR_MeleeWeapon_BreachAxe.label>AR 야전삽</AR_MeleeWeapon_BreachAxe.label>
+<AR_MeleeWeapon_BreachAxe.description>본래 땅을 파기 위한 도구이지만 백병전용으로도 우수합니다. 구조물을 파괴하는 데 적합하며, 날카롭기 때문에 베기에 가까운 피해를 입히기도 합니다.</AR_MeleeWeapon_BreachAxe.description>
+<AR_MeleeWeapon_BreachAxe.tools.0.label>자루</AR_MeleeWeapon_BreachAxe.tools.0.label>
+<AR_MeleeWeapon_BreachAxe.tools.1.label>머리</AR_MeleeWeapon_BreachAxe.tools.1.label>
+<Gun_AR_Militarypistol.label>AR 군용 권총</Gun_AR_Militarypistol.label>
+<Gun_AR_Militarypistol.description>쇼트 리코일 기구을 갖춘 군용 자동 권총입니다. 근거리에서 매우 높은 명중률을 자랑합니다.</Gun_AR_Militarypistol.description>
+<Gun_AR_Militarypistol.verbs.Verb_Shoot.label>AR 군용 권총 사격</Gun_AR_Militarypistol.verbs.Verb_Shoot.label>
+<Gun_AR_Militarypistol.tools.0.label>손잡이</Gun_AR_Militarypistol.tools.0.label>
+<Gun_AR_Militarypistol.tools.1.label>총열</Gun_AR_Militarypistol.tools.1.label>
+<Gun_AR_AssaultRifleH.label>AR 자동 소총</Gun_AR_AssaultRifleH.label>
+<Gun_AR_AssaultRifleH.description>다소 큰 구경의 소총탄을 사용하는 전투용 소총입니다. 일반 군용 소총보다 위력과 사거리 면에서 우수하지만 연사 속도는 떨어집니다.</Gun_AR_AssaultRifleH.description>
+<Gun_AR_AssaultRifleH.verbs.Verb_Shoot.label>AR 자동 소총 사격</Gun_AR_AssaultRifleH.verbs.Verb_Shoot.label>
+<Gun_AR_AssaultRifleH.tools.0.label>개머리판</Gun_AR_AssaultRifleH.tools.0.label>
+<Gun_AR_AssaultRifleH.tools.1.label>총열</Gun_AR_AssaultRifleH.tools.1.label>
+<Gun_AR_AssaultCarbinH.label>AR 자동 카빈</Gun_AR_AssaultCarbinH.label>
+<Gun_AR_AssaultCarbinH.description>자동 소총의 길이를 줄이고 접이식 개머리판으로 교체한 모델입니다. 다루기 쉽고 빠르게 사격할 수 있지만 장거리 명중률은 다소 낮습니다.</Gun_AR_AssaultCarbinH.description>
+<Gun_AR_AssaultCarbinH.verbs.Verb_Shoot.label>AR 자동 카빈 사격</Gun_AR_AssaultCarbinH.verbs.Verb_Shoot.label>
+<Gun_AR_AssaultCarbinH.tools.0.label>개머리판</Gun_AR_AssaultCarbinH.tools.0.label>
+<Gun_AR_AssaultCarbinH.tools.1.label>총열</Gun_AR_AssaultCarbinH.tools.1.label>
+<Gun_AR_AssaultRifleHBY.label>AR 자동 소총(총검)</Gun_AR_AssaultRifleHBY.label>
+<Gun_AR_AssaultRifleHBY.description>전투 소총에 총검을 장착하여 근접전에 대비한 모델입니다. 총검의 무게로 인해 무게 중심이 변해 장거리 명중률은 낮아지지만, 반동 제어가 쉬워져 근거리 명중률 향상을 기대할 수 있습니다.</Gun_AR_AssaultRifleHBY.description>
+<Gun_AR_AssaultRifleHBY.verbs.Verb_Shoot.label>AR 자동 소총(총검) 사격</Gun_AR_AssaultRifleHBY.verbs.Verb_Shoot.label>
+<Gun_AR_AssaultRifleHBY.tools.0.label>개머리판</Gun_AR_AssaultRifleHBY.tools.0.label>
+<Gun_AR_AssaultRifleHBY.tools.1.label>총검</Gun_AR_AssaultRifleHBY.tools.1.label>
+<Gun_AR_SniperRifle.label>AR 저격 총</Gun_AR_SniperRifle.label>
+<Gun_AR_SniperRifle.description>클래식한 스타일의 저격 소총입니다. 사거리와 위력이 뛰어납니다.</Gun_AR_SniperRifle.description>
+<Gun_AR_SniperRifle.verbs.Verb_Shoot.label>AR 저격 총 사격</Gun_AR_SniperRifle.verbs.Verb_Shoot.label>
+<Gun_AR_SniperRifle.tools.0.label>개머리판</Gun_AR_SniperRifle.tools.0.label>
+<Gun_AR_SniperRifle.tools.1.label>총열</Gun_AR_SniperRifle.tools.1.label>
+<Gun_AR_AssaultRifleDMR.label>AR 자동 저격 소총</Gun_AR_AssaultRifleDMR.label>
+<Gun_AR_AssaultRifleDMR.description>정밀도가 좋은 자동 소총에 중거리 스코프를 탑재한 모델입니다. 단발 사격만 가능하지만 긴 유효 사거리와 높은 공격력을 가집니다.</Gun_AR_AssaultRifleDMR.description>
+<Gun_AR_AssaultRifleDMR.verbs.Verb_Shoot.label>AR 자동 저격 소총 사격</Gun_AR_AssaultRifleDMR.verbs.Verb_Shoot.label>
+<Gun_AR_AssaultRifleDMR.tools.0.label>개머리판</Gun_AR_AssaultRifleDMR.tools.0.label>
+<Gun_AR_AssaultRifleDMR.tools.1.label>총열</Gun_AR_AssaultRifleDMR.tools.1.label>
+<Gun_AR_LMGB.label>AR 범용 기관총</Gun_AR_LMGB.label>
+<Gun_AR_LMGB.description>수냉식 중기관총을 공냉식으로 개량하고 신형 탄약에 대응시킨 모델입니다. 근거리에서 더 높은 성능을 발휘하도록 설계되었습니다.</Gun_AR_LMGB.description>
+<Gun_AR_LMGB.verbs.Verb_Shoot.label>AR 범용 기관총 사격</Gun_AR_LMGB.verbs.Verb_Shoot.label>
+<Gun_AR_LMGB.tools.0.label>개머리판</Gun_AR_LMGB.tools.0.label>
+<Gun_AR_LMGB.tools.1.label>총열</Gun_AR_LMGB.tools.1.label>
+<Gun_AR_64MG.label>AR 지원 소총</Gun_AR_64MG.label>
+<Gun_AR_64MG.description>드럼 탄창과 헤비 배럴을 갖추고 양각대를 장착한 자동 소총입니다.</Gun_AR_64MG.description>
+<Gun_AR_64MG.verbs.Verb_Shoot.label>AR 지원 소총 사격</Gun_AR_64MG.verbs.Verb_Shoot.label>
+<Gun_AR_64MG.tools.0.label>개머리판</Gun_AR_64MG.tools.0.label>
+<Gun_AR_64MG.tools.1.label>총열</Gun_AR_64MG.tools.1.label>
+<Bullet_AR_AssaultRifleH.label>소총용 보통탄</Bullet_AR_AssaultRifleH.label>
+<Bullet_AR_MG.label>경기관총용 보통탄</Bullet_AR_MG.label>
+<Bullet_AR_AssaultRifleDMR.label>소총용 저격탄</Bullet_AR_AssaultRifleDMR.label>
+<Bullet_AR_SniperRifle.label>저격탄</Bullet_AR_SniperRifle.label>
+<Gun_AR_PIAT.label>AR 대형 유탄 발사기</Gun_AR_PIAT.label>
+<Gun_AR_PIAT.description>강력한 대전차 고폭탄을 투사할 수 있는 유탄 발사기입니다.</Gun_AR_PIAT.description>
+<Gun_AR_PIAT.verbs.Verb_ShootOneUse.label>AR 대형 유탄 발사기</Gun_AR_PIAT.verbs.Verb_ShootOneUse.label>
+<Gun_AR_PIAT.tools.0.label>총열</Gun_AR_PIAT.tools.0.label>
+<Gun_AR_RR.label>AR 무반동포</Gun_AR_RR.label>
+<Gun_AR_RR.description>메카노이드나 장갑 목표, 밀집된 적들에게 효과적인 무반동포입니다.</Gun_AR_RR.description>
+<Gun_AR_RR.verbs.Verb_ShootOneUse.label>AR 무반동포</Gun_AR_RR.verbs.Verb_ShootOneUse.label>
+<Gun_AR_RR.tools.0.label>총열</Gun_AR_RR.tools.0.label>
+<Bullet_AR_84RR.label>대전차 고폭탄</Bullet_AR_84RR.label>
+<Bullet_AR_PIAT.label>대전차 유탄</Bullet_AR_PIAT.label>
+<Gun_AR_RevolverSV.label>AR 백금 리볼버</Gun_AR_RevolverSV.label>
+<Gun_AR_RevolverSV.description>사용자와 유대를 맺고 보조하는 인격이 깃든 권총입니다. 깃든 인격의 지원을 통해 높은 전투 효율을 발휘합니다.</Gun_AR_RevolverSV.description>
+<Gun_AR_RevolverSV.verbs.Verb_Shoot.label>AR 백금 리볼버 사격</Gun_AR_RevolverSV.verbs.Verb_Shoot.label>
+<Gun_AR_RevolverSV.tools.0.label>손잡이</Gun_AR_RevolverSV.tools.0.label>
+<Gun_AR_RevolverSV.tools.1.label>총열</Gun_AR_RevolverSV.tools.1.label>
+<Gun_AR_AutoRevolverSV.label>AR 백금 자동식 리볼버</Gun_AR_AutoRevolverSV.label>
+<Gun_AR_AutoRevolverSV.description>은색 강철(Silsteel)로 제작되고 장식된 자동식 리볼버입니다. 기본 성능은 일반형과 큰 차이가 없으나, 인격과 같은 것이 깃들어 있어 첫 사용자와 링크하여 다양한 영향을 줍니다. 공통 기능으로 정신 감응성을 높이고 정신력 반동 회복 속도를 상승시킵니다.</Gun_AR_AutoRevolverSV.description>
+<Gun_AR_AutoRevolverSV.verbs.Verb_Shoot.label>AR 백금 자동식 리볼버 사격</Gun_AR_AutoRevolverSV.verbs.Verb_Shoot.label>
+<Gun_AR_AutoRevolverSV.tools.0.label>손잡이</Gun_AR_AutoRevolverSV.tools.0.label>
+<Gun_AR_AutoRevolverSV.tools.1.label>총열</Gun_AR_AutoRevolverSV.tools.1.label>
+<Gun_AR_AutopistolSSV.label>AR 백금 소형 권총</Gun_AR_AutopistolSSV.label>
+<Gun_AR_AutopistolSSV.description>은색 강철로 제작되고 장식된 권총입니다. 기본 성능은 일반형과 큰 차이가 없으나, 인격과 같은 것이 깃들어 있어 첫 사용자와 링크하여 다양한 영향을 줍니다. 공통 기능으로 정신 감응성을 높이고 정신력 반동 회복 속도를 상승시킵니다.</Gun_AR_AutopistolSSV.description>
+<Gun_AR_AutopistolSSV.verbs.Verb_Shoot.label>AR 백금 소형 권총 사격</Gun_AR_AutopistolSSV.verbs.Verb_Shoot.label>
+<Gun_AR_AutopistolSSV.tools.0.label>손잡이</Gun_AR_AutopistolSSV.tools.0.label>
+<Gun_AR_AutopistolSSV.tools.1.label>총열</Gun_AR_AutopistolSSV.tools.1.label>
+<Gun_AR_AutopistolSVA.label>AR 백금 대형 권총</Gun_AR_AutopistolSVA.label>
+<Gun_AR_AutopistolSVA.description>은색 강철로 제작되고 장식된 권총입니다. 기본 성능은 일반형과 큰 차이가 없으나, 인격과 같은 것이 깃들어 있어 첫 사용자와 링크하여 다양한 영향을 줍니다. 공통 기능으로 정신 감응성을 높이고 정신력 반동 회복 속도를 상승시킵니다.</Gun_AR_AutopistolSVA.description>
+<Gun_AR_AutopistolSVA.verbs.Verb_Shoot.label>AR 백금 대형 권총 사격</Gun_AR_AutopistolSVA.verbs.Verb_Shoot.label>
+<Gun_AR_AutopistolSVA.tools.0.label>손잡이</Gun_AR_AutopistolSVA.tools.0.label>
+<Gun_AR_AutopistolSVA.tools.1.label>총열</Gun_AR_AutopistolSVA.tools.1.label>
+<Gun_AR_AutopistolBSV.label>AR 백금 토글액션 권총</Gun_AR_AutopistolBSV.label>
+<Gun_AR_AutopistolBSV.description>은색 강철로 제작되고 장식된 토글액션 권총입니다. 기본 성능은 일반형과 큰 차이가 없으나, 인격과 같은 것이 깃들어 있어 첫 사용자와 링크하여 다양한 영향을 줍니다. 공통 기능으로 정신 감응성을 높이고 정신력 반동 회복 속도를 상승시킵니다.</Gun_AR_AutopistolBSV.description>
+<Gun_AR_AutopistolBSV.verbs.Verb_Shoot.label>AR 백금 토글액션 권총 사격</Gun_AR_AutopistolBSV.verbs.Verb_Shoot.label>
+<Gun_AR_AutopistolBSV.tools.0.label>손잡이</Gun_AR_AutopistolBSV.tools.0.label>
+<Gun_AR_AutopistolBSV.tools.1.label>총열</Gun_AR_AutopistolBSV.tools.1.label>
+<Gun_AR_MachinePistolSV.label>AR 백금 기계식 권총</Gun_AR_MachinePistolSV.label>
+<Gun_AR_MachinePistolSV.description>은색 강철로 제작되고 금과 은으로 장식된 기관 권총입니다. 기본 성능은 일반형과 큰 차이가 없으나, 인격과 같은 것이 깃들어 있어 첫 사용자와 링크하여 다양한 영향을 줍니다. 공통 기능으로 정신 감응성을 높이고 정신력 반동 회복 속도를 상승시킵니다.</Gun_AR_MachinePistolSV.description>
+<Gun_AR_MachinePistolSV.verbs.Verb_Shoot.label>AR 백금 기계식 권총 사격</Gun_AR_MachinePistolSV.verbs.Verb_Shoot.label>
+<Gun_AR_MachinePistolSV.tools.0.label>손잡이</Gun_AR_MachinePistolSV.tools.0.label>
+<Gun_AR_MachinePistolSV.tools.1.label>총열</Gun_AR_MachinePistolSV.tools.1.label>
+<AR_MeleeWeapon_RapierSV.label>AR 백금 레이피어</AR_MeleeWeapon_RapierSV.label>
+<AR_MeleeWeapon_RapierSV.description>사용자와 유대를 맺고 보조하는 인격이 깃든 도검입니다. 검에 깃든 인격의 지원을 통해 높은 전투 효율을 발휘합니다.</AR_MeleeWeapon_RapierSV.description>
+<AR_MeleeWeapon_RapierSV.tools.0.label>자루</AR_MeleeWeapon_RapierSV.tools.0.label>
+<AR_MeleeWeapon_RapierSV.tools.1.label>끝부분</AR_MeleeWeapon_RapierSV.tools.1.label>
+<AR_MeleeWeapon_RapierSV.tools.2.label>날</AR_MeleeWeapon_RapierSV.tools.2.label>
+<AR_MeleeWeapon_KnifeSV.label>AR 백금 단검</AR_MeleeWeapon_KnifeSV.label>
+<AR_MeleeWeapon_KnifeSV.description>사용자와 유대를 맺고 보조하는 인격이 깃든 도검입니다. 검에 깃든 인격의 지원을 통해 높은 전투 효율을 발휘합니다.</AR_MeleeWeapon_KnifeSV.description>
+<AR_MeleeWeapon_KnifeSV.tools.0.label>날</AR_MeleeWeapon_KnifeSV.tools.0.label>
+<AR_MeleeWeapon_KnifeSV.tools.1.label>끝부분</AR_MeleeWeapon_KnifeSV.tools.1.label>
+<Bullet_AR_RevolverSV.label>소구경 권총탄</Bullet_AR_RevolverSV.label>
+<Bullet_AR_AutopistolSV.label>권총탄</Bullet_AR_AutopistolSV.label>
+<Bullet_AR_AutopistolBSV.label>권총탄</Bullet_AR_AutopistolBSV.label>
+<Bullet_AR_AutopistolSSV.label>권총탄</Bullet_AR_AutopistolSSV.label>
+<Bullet_AR_MachinePistolSV.label>기관권총 보통탄</Bullet_AR_MachinePistolSV.label>
+<Gun_AR_SilentRifle.label>AR 저소음 소총</Gun_AR_SilentRifle.label>
+<Gun_AR_SilentRifle.description>거대한 소음기가 장착된 소총입니다. 명중한 상대를 쓰러뜨리는 마취탄을 사용합니다. 무력화시키려면 여러 번 명중시켜야 합니다.</Gun_AR_SilentRifle.description>
+<Gun_AR_SilentRifle.verbs.Verb_Shoot.label>AR 저소음 소총 사격</Gun_AR_SilentRifle.verbs.Verb_Shoot.label>
+<Gun_AR_SilentRifle.tools.0.label>개머리판</Gun_AR_SilentRifle.tools.0.label>
+<Gun_AR_SilentRifle.tools.1.label>총열</Gun_AR_SilentRifle.tools.1.label>
+<AR_Bullet_SilentRifle.label>저소음 마취탄</AR_Bullet_SilentRifle.label>
+<Apparel_DimiRa_HELAMC.label>AR 헬멧(미채) AD</Apparel_DimiRa_HELAMC.label>
+<Apparel_DimiRa_HELAMC.description>위장 무늬가 있는 전투용 헬멧입니다.</Apparel_DimiRa_HELAMC.description>
+<Apparel_DimiRa_HELACM.label>AR 군용 헬멧(미채) AD</Apparel_DimiRa_HELACM.label>
+<Apparel_DimiRa_HELACM.description>정규군에서 사용되는 헬멧입니다. 다중 구조로 높은 방어력을 가지면서도 가볍습니다.</Apparel_DimiRa_HELACM.description>
+<Apparel_DimiRa_MDANGC.label>AR 군용 갑옷(미채) AD</Apparel_DimiRa_MDANGC.label>
+<Apparel_DimiRa_MDANGC.description>움직임을 방해하지 않는 범위 내에서 강화된 갑옷입니다. 위장 무늬의 효과로 적의 사격 명중률이 저하됩니다.</Apparel_DimiRa_MDANGC.description>
+<Apparel_AR_CamoCloak.label>AR 위장 망토 AD</Apparel_AR_CamoCloak.label>
+<Apparel_AR_CamoCloak.description>광학 미채를 통해 적으로부터 몸을 숨기는 기능이 있는 망토입니다. 투명화 중에는 이동 속도가 저하되며 EMP 공격에 취약해집니다.</Apparel_AR_CamoCloak.description>
+<AP_DimiRa_CamoCP.label>AR 위장 케이프 AD</AP_DimiRa_CamoCP.label>
+<AP_DimiRa_CamoCP.description>짧은 위장 무늬 케이프입니다. 은폐 기능은 없으나 무늬의 시각적 효과로 인해 적의 조준을 다소 방해합니다.</AP_DimiRa_CamoCP.description>
+<AP_DimiRa_CamoSK.label>AR 위장 스모크 AD</AP_DimiRa_CamoSK.label>
+<AP_DimiRa_CamoSK.description>위장 무늬 스모크입니다. 은폐 기능은 없으나 무늬의 시각적 효과로 인해 적의 조준을 다소 방해합니다.</AP_DimiRa_CamoSK.description>
+<AP_DimiRa_01FD.label>AR 위장 후드 AD</AP_DimiRa_01FD.label>
+<AP_DimiRa_01FD.description>저격수 등이 장비하는 위장 무늬 후드입니다.</AP_DimiRa_01FD.description>
+<AR_HusahusaWine.label>천익의 이슬</AR_HusahusaWine.label>
+<AR_HusahusaWine.description>천사의 눈물에 알리아일의 깃털을 더해 담근 술입니다. 알리아일이 섭취하면 한동안 날개 깃털의 털갈이가 촉진되어 추가적인 깃털을 떨어뜨리게 됩니다. 또한 알코올 도수가 높아 금방 만취하게 됩니다.</AR_HusahusaWine.description>
+<AR_HusahusaWine.ingestible.ingestCommandString>{0} 마시기</AR_HusahusaWine.ingestible.ingestCommandString>
+<AR_HusahusaWine.ingestible.ingestReportString>{0} 마시는 중.</AR_HusahusaWine.ingestible.ingestReportString>
+<AR_Turret_ATG.label>AR 대전차포</AR_Turret_ATG.label>
+<AR_Turret_ATG.description>사격 각도에 제한이 있지만, 매우 빠르게 연사할 수 있는 대포입니다.</AR_Turret_ATG.description>
+<AR_Turret_ATG.comps.3.fuelLabel>총열 교체까지 남은 사격 횟수</AR_Turret_ATG.comps.3.fuelLabel>
+<AR_Turret_ATG.comps.3.fuelGizmoLabel>총열 내구도</AR_Turret_ATG.comps.3.fuelGizmoLabel>
+<AR_Turret_ATG.comps.3.outOfFuelMessage>강화된 총열 교체 필요</AR_Turret_ATG.comps.3.outOfFuelMessage>
+<AR_Artillery_ATCanon.label>캐넌포</AR_Artillery_ATCanon.label>
+<AR_Artillery_ATCanon.description>사격 각도가 제한되는 대신 높은 명중률과 적절한 연사 속도를 가진 대포입니다.</AR_Artillery_ATCanon.description>
+<AR_Artillery_ATCanon.verbs.Verb_ShootCone.label>캐넌포 사격</AR_Artillery_ATCanon.verbs.Verb_ShootCone.label>
+<AR_Turret_MTG.label>AR 경곡사포</AR_Turret_MTG.label>
+<AR_Turret_MTG.description>명중률은 다소 낮지만 연사력이 뛰어난 대포입니다.</AR_Turret_MTG.description>
+<AR_Turret_MTG.comps.3.fuelLabel>총열 교체까지 남은 사격 횟수</AR_Turret_MTG.comps.3.fuelLabel>
+<AR_Turret_MTG.comps.3.fuelGizmoLabel>총열 내구도</AR_Turret_MTG.comps.3.fuelGizmoLabel>
+<AR_Turret_MTG.comps.3.outOfFuelMessage>강화된 총열 교체 필요</AR_Turret_MTG.comps.3.outOfFuelMessage>
+<AR_Artillery_MTG.label>박격포</AR_Artillery_MTG.label>
+<AR_Artillery_MTG.description>박격포 발사기입니다. 벽 너머로 포탄을 날립니다. 매우 부정확하지만 사거리가 깁니다.</AR_Artillery_MTG.description>
+<AR_Artillery_MTG.verbs.Verb_Shoot.label>박격포 사격</AR_Artillery_MTG.verbs.Verb_Shoot.label>
+<AR_SoulCrystone.label>생명의 휘석</AR_SoulCrystone.label>
+<AR_SoulCrystone.description>알리아일을 더욱 강력한 존재로 인도하는 신비로운 돌입니다. 각 알리아일당 최대 5회까지 사용할 수 있습니다. 무기에 인격을 불어넣을 때도 사용됩니다.</AR_SoulCrystone.description>
+<AR_SoulCrystone.ingestible.ingestCommandString>{0} 사용하기</AR_SoulCrystone.ingestible.ingestCommandString>
+<AR_SoulCrystone.ingestible.ingestReportString>{0} 사용하는 중</AR_SoulCrystone.ingestible.ingestReportString>
+<AR_steamSunLamp.label>스팀 태양등</AR_steamSunLamp.label>
+<AR_steamSunLamp.description>식물을 기르는 데 필요한 광량을 제공하는 증기식 램프입니다.</AR_steamSunLamp.description>
+<AR_Steam_TableMachining.label>스팀 정밀 작업대</AR_Steam_TableMachining.label>
+<AR_Steam_TableMachining.description>스팀 코어를 연료로 가동되는 정밀 작업대입니다. 증기압 보조 장치가 포함되어 있어 일반 작업대보다 작업 속도가 빠릅니다.</AR_Steam_TableMachining.description>
+<AR_steamFueledSmithy.label>스팀 대장간 작업대</AR_steamFueledSmithy.label>
+<AR_steamFueledSmithy.description>증기 기계로 사용자를 보조하는 대장간 작업대입니다. 스팀 코어를 연료로 소모하지만 양호한 작업 효율을 기대할 수 있습니다.</AR_steamFueledSmithy.description>
+<AR_SteamTailoringBench.label>스팀 재봉틀</AR_SteamTailoringBench.label>
+<AR_SteamTailoringBench.description>스팀 코어로 구동되는 재봉틀입니다. 귀중한 스팀 코어를 연료로 소모하지만 작업 속도가 다소 빠릅니다.</AR_SteamTailoringBench.description>
+<AR_SteamStove.label>스팀 요리용 화덕</AR_SteamStove.label>
+<AR_SteamStove.description>스팀 코어를 연료로 가동되는 화덕입니다. 스팀 코어를 요구하지만 요리를 빠르게 마칠 수 있습니다.</AR_SteamStove.description>
+<AR_SteamPodLauncher.label>스팀 수송포드 발사기</AR_SteamPodLauncher.label>
+<AR_SteamPodLauncher.description>증기식 포드 발사기입니다. 화학 연료 대신 스팀 코어를 사용합니다.</AR_SteamPodLauncher.description>
+<AR_SteamCorePipe.label>스팀 파이프</AR_SteamCorePipe.label>
+<AR_SteamCorePipe.description>간헐천의 증기를 활용하기 위한 파이프입니다.</AR_SteamCorePipe.description>
+<AR_SteamCorePipeUnderground.label>지하 스팀 파이프</AR_SteamCorePipeUnderground.label>
+<AR_SteamCorePipeUnderground.description>간헐천의 증기를 활용하기 위한 지하 파이프입니다.</AR_SteamCorePipeUnderground.description>
+<AR_SteamCoreValve.label>스팀 밸브</AR_SteamCoreValve.label>
+<AR_SteamCoreValve.description>증기의 흐름을 제어하는 밸브입니다.</AR_SteamCoreValve.description>
+<AR_SteamCoreTank.label>스팀 탱크</AR_SteamCoreTank.label>
+<AR_SteamCoreTank.description>증기를 저장하는 탱크입니다. 저장된 증기는 수도꼭지를 통해 스팀 코어 형태로 이용할 수 있습니다.</AR_SteamCoreTank.description>
+<AR_SteamCoreHopper.label>스팀 투입구</AR_SteamCoreHopper.label>
+<AR_SteamCoreHopper.description>여기에 스팀 코어를 넣으면 파이프 네트워크를 통해 증기로 이용됩니다.</AR_SteamCoreHopper.description>
+<AR_SteamCoreTap.label>스팀 수도꼭지</AR_SteamCoreTap.label>
+<AR_SteamCoreTap.description>탱크에 저장된 증기를 스팀 코어 형태로 출력합니다.</AR_SteamCoreTap.description>
+<AR_MiniRo.label>스팀 소재로</AR_MiniRo.label>
+<AR_MiniRo.description>은색 강철의 정련이나 문스톤 소성, 알리스레드 및 밴레더 마감 작업 등에 사용하는 강력한 전용 화로입니다.</AR_MiniRo.description>
+<AR_angelsShare.label>알리아일즈 셰어</AR_angelsShare.label>
+<AR_angelsShare.description>오크통에서 장기간 숙성된 최상급 와인입니다.</AR_angelsShare.description>
+<AR_angelsShare.ingestible.ingestCommandString>{0} 마시기</AR_angelsShare.ingestible.ingestCommandString>
+<AR_angelsShare.ingestible.ingestReportString>{0} 마시는 중.</AR_angelsShare.ingestible.ingestReportString>
+<AR_BudouTarai.label>포도 압착용 대야</AR_BudouTarai.label>
+<AR_BudouTarai.description>맨발로 포도를 으깨어 포도즙을 만들기 위한 대야입니다.</AR_BudouTarai.description>
+<AR_Must.label>황금 포도즙</AR_Must.label>
+<AR_Must.description>황금 포도를 으깬 즙입니다. 이것을 통에 넣어 발효시키면 와인이 됩니다.</AR_Must.description>
+<WineTaruOld.label>와인 양조통</WineTaruOld.label>
+<WineTaruOld.description>황금 포도즙을 넣으면 시간을 들여 천천히 황금 와인을 생산하는 양조통입니다.</WineTaruOld.description>
+<AR_steamrecharge.label>스팀 충전기</AR_steamrecharge.label>
+<AR_steamrecharge.description>하나의 스팀 코어로 여러 개의 스팀 코어를 제조하는 장치입니다. 스팀 네트워크에 연결되어야 합니다.</AR_steamrecharge.description>
+<AR_RoundShield.label>AR 원형 방패</AR_RoundShield.label>
+<AR_RoundShield.description>금속으로 제작된 심플한 원형 방패입니다.</AR_RoundShield.description>
+<AR_RoundShield.tools.0.label>본체</AR_RoundShield.tools.0.label>
+<AR_RoundShield.tools.1.label>중심부</AR_RoundShield.tools.1.label>
+<AliailisRug_Broad.label>알리아일 러그</AliailisRug_Broad.label>
+<AliailisRug_Broad.description>바닥을 장식하기 위한 소박한 무늬의 아늑한 러그입니다.</AliailisRug_Broad.description>
+<AliailisSlab_Medium.label>알리아일 바닥판</AliailisSlab_Medium.label>
+<AliailisSlab_Medium.description>동물적인 이미지가 새겨진 바닥 장식용 나무 부조입니다.</AliailisSlab_Medium.description>
+<Apparel_AR_PackTurret.label>AR 타렛공병 외골격 D</Apparel_AR_PackTurret.label>
+<Apparel_AR_PackTurret.description>중기관총 터렛을 운용하는 터렛 공병이 장비하는 외골격입니다. 명중률은 낮지만 지속 사격 능력이 뛰어난 터렛을 설치할 수 있습니다.</Apparel_AR_PackTurret.description>
+<Apparel_AR_PackTurret.comps.3.chargeNoun>터렛</Apparel_AR_PackTurret.comps.3.chargeNoun>
+<Apparel_AR_PackTurret.verbs.Verb_LaunchProjectileStatic.label>터렛 설치</Apparel_AR_PackTurret.verbs.Verb_LaunchProjectileStatic.label>
+<Grenade_AR_TurretPack.label>터렛 팩 캡슐</Grenade_AR_TurretPack.label>
+<Turret_AR_TacticalTurret.label>중기관총 터렛</Turret_AR_TacticalTurret.label>
+<Turret_AR_TacticalTurret.description>스팀 코어를 동력으로 작동하는 중기관총입니다. 심플한 기계식 자동 사격 장치가 탑재되어 피아를 식별하며, 정확도는 낮지만 넓은 범위에 소탕 사격을 가합니다.</Turret_AR_TacticalTurret.description>
+<Turret_AR_TacticalTurret.comps.3.labelOverride>스팀 파워</Turret_AR_TacticalTurret.comps.3.labelOverride>
+</LanguageData>

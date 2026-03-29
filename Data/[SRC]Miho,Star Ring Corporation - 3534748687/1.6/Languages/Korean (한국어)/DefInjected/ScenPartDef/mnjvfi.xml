@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_FirstConnection.label>첫 접촉</SR_FirstConnection.label>
+  <SR_Goods.label>추가 물자</SR_Goods.label>
+  <SR_Mercenary.label>추가 용병</SR_Mercenary.label>
+  
+  <SR_DisableHARReroll.label>HAR 무작위 주사위 비활성화</SR_DisableHARReroll.label>
+  
+  <SR_SendLetter.label>편지 알림</SR_SendLetter.label>
+</LanguageData>

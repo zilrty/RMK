@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ASF_CellarStone.label>석조 저장고</ASF_CellarStone.label>
+  <ASF_CellarStone.description>다양한 물품을 저장할 수 있는 석조 저장고입니다. 지하에서 상하기 쉬운 물품을 약간 더 시원하게 보관하며, 약 23도의 기온에서 효과적입니다. 내부에 보관한 물품은 절대 부패하지 않으며 주변의 미관에도 영향을 주지 않습니다.\n지하에 3x3만큼의 공간을 차지합니다.\n\n총 저장 용량: 175칸</ASF_CellarStone.description>
+  <ASF_CellarWood.label>목조 저장고</ASF_CellarWood.label>
+  <ASF_CellarWood.description>다양한 물품을 저장할 수 있는 목조 저장고입니다. 지하에서 상하기 쉬운 물품을 약간 더 시원하게 보관하며, 약 18C도의 기온에서 효과적입니다. 내부에 보관한 물품은 절대 부패하지 않으며 주변의 미관에도 영향을 주지 않습니다.\n지하에 3x3만큼의 공간을 차지합니다.\n\n총 저장 용량: 55칸</ASF_CellarWood.description>
+  <ASF_CoveredClayPot.label>뚜껑 덮인 점토 항아리</ASF_CoveredClayPot.label>
+  <ASF_CoveredClayPot.description>여러 물품을 저장하도록 만든 점토 항아리입니다. 내부에 보관한 물품은 주변의 미관에 영향을 주지 않습니다.\n\n총 저장 용량: 3</ASF_CoveredClayPot.description>
+  <ASF_UncoveredClayPot.label>뚜껑 없는 점토 항아리</ASF_UncoveredClayPot.label>
+  <ASF_UncoveredClayPot.description>여러 물품을 저장하도록 만든 점토 항아리입니다. 내부에 보관한 물품은 주변의 미관에 영향을 주지 않습니다.\n\n총 저장 용량: 3</ASF_UncoveredClayPot.description>
+  <ASF_Granary.label>곡물 창고</ASF_Granary.label>
+  <ASF_Granary.description>식량을 건조하게 저장하기 위한 곡물 창고입니다. 내부에 보관한 물품은 절대 부패하지 않으며 주변의 미관에도 영향을 주지 않습니다.\n\n총 저장 용량: 54칸</ASF_Granary.description>
+  <ASF_LargeLogPile.label>대형 통나무 더미 저장소</ASF_LargeLogPile.label>
+  <ASF_LargeLogPile.description>나무를 쌓아 두기 위한 지정 구역입니다. 무료로 설치할 수 있습니다. 해체하면 저장된 통나무를 100% 돌려받습니다. 내부에 보관한 물품은 절대 부패하지 않으며 주변의 미관에도 영향을 주지 않습니다.\n\n총 저장 용량: 12칸\n\n저장된 용량에 따라 외형이 동적으로 변합니다.</ASF_LargeLogPile.description>
+  <ASF_MeatRack.label>고기 걸이대</ASF_MeatRack.label>
+  <ASF_MeatRack.description>가죽이나 천으로 단단히 묶은 튼튼한 목재 구조물로, 많은 양의 고기를 바닥에서부터 떨어뜨려 저장할 수 있습니다. 고기의 부패를 막아 주지는 않습니다. 고기가 주변 미관에 영향을 주는 것도 막아 주지 않습니다.\n\n총 저장 용량: 6칸\n\n저장된 용량에 따라 외형이 동적으로 변합니다.</ASF_MeatRack.description>
+  <ASF_SmallLogPile.label>소형 통나무 더미 저장소</ASF_SmallLogPile.label>
+  <ASF_SmallLogPile.description>나무를 쌓아 두기 위한 지정 구역입니다. 무료로 설치할 수 있습니다. 해체하면 저장된 통나무를 100% 돌려받습니다. 내부에 보관한 물품은 절대 부패하지 않으며 주변의 미관에도 영향을 주지 않습니다.\n\n총 저장 용량: 2칸\n\n저장된 용량에 따라 외형이 동적으로 변합니다.</ASF_SmallLogPile.description>
+  <ASF_StoragePit.label>저장용 구덩이</ASF_StoragePit.label>
+  <ASF_StoragePit.description>다양한 물품을 저장할 수 있도록 판 흙 구덩이입니다. 지하에서 상하기 쉬운 물품을 약간 더 시원하게 보관하며, 약 18C의 기온에서 효과적입니다. 내부에 보관한 물품은 절대 부패하지 않으며 주변의 미관에도 영향을 주지 않습니다.\n\n지하에 1x1만큼의 공간을 차지합니다.\n\n총 저장 용량: 25칸</ASF_StoragePit.description>
+  <ASF_StorageTent.label>저장용 천막</ASF_StorageTent.label>
+  <ASF_StorageTent.description>여러 물품을 저장할 수 있는 천막입니다. 내부에 보관한 물품은 절대 부패하지 않으며 주변의 미관에도 영향을 주지 않습니다.\n\n총 저장 용량: 27칸</ASF_StorageTent.description>
+  <ASF_WeaponRack.label>무기 거치대</ASF_WeaponRack.label>
+  <ASF_WeaponRack.description>가죽이나 천으로 단단히 묶은 튼튼한 목재 구조물로, 많은 양의 무기를 보관할 수 있습니다. 부패를 막아 주지는 않습니다. 대신 무기가 주변의 미관에 영향을 주지 않게 해 줍니다.\n\n총 저장 용량: 8칸</ASF_WeaponRack.description>
+  <ASF_WovenBasket.label>직조 바구니</ASF_WovenBasket.label>
+  <ASF_WovenBasket.description>여러 물품을 보관하도록 만든 직조 바구니입니다. 내부에 넣어 둔 물품은 주변의 미관에 영향을 주지 않습니다.\n\n총 저장 용량: 10칸\n\n회전시켜 외형을 바꿀 수 있습니다.</ASF_WovenBasket.description>
+  <ASF_WovenBasketDouble.label>중형 직조 바구니</ASF_WovenBasketDouble.label>
+  <ASF_WovenBasketDouble.description>여러 물품을 보관하도록 만든 직조 바구니 두 개를 쌓아 놓은 형태입니다. 내부에 넣어 둔 물품은 주변의 미관에 영향을 주지 않습니다.\n\n총 용량: 20칸</ASF_WovenBasketDouble.description>
+  <ASF_WovenBasketTriple.label>대형 직조 바구니</ASF_WovenBasketTriple.label>
+  <ASF_WovenBasketTriple.description>여러 물품을 보관하도록 만든 직조 바구니 세 개를 쌓아 놓은 형태입니다. 내부에 넣어 둔 물품은 주변의 미관에 영향을 주지 않습니다.\n\n총 용량: 30칸</ASF_WovenBasketTriple.description>
+</LanguageData>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RTD_MainButtonLabel>일기장</RTD_MainButtonLabel>
+  <RTD_MainButtonDesc>정착민의 일기를 열람하거나 새로운 일기를 작성합니다.</RTD_MainButtonDesc>
+  <RTD_WindowTitle>RimTalk: 일기장</RTD_WindowTitle>
+  <RTD_SelectColonist>정착민 선택</RTD_SelectColonist>
+  <RTD_Generate>일기 작성하기</RTD_Generate>
+  <RTD_Generating>작성 중...</RTD_Generating>
+  <RTD_View>보기</RTD_View>
+  <RTD_NoEntries>아직 기록된 일기가 없습니다.</RTD_NoEntries>
+
+  <RTD_SettingsTitle>RimTalk: 일기 설정</RTD_SettingsTitle>
+  <RTD_SettingPreset>API 프리셋: {0}</RTD_SettingPreset>
+  <RTD_Preset_Custom>사용자 지정</RTD_Preset_Custom>
+  <RTD_Preset_OpenAI>OpenAI (api.openai.com)</RTD_Preset_OpenAI>
+  <RTD_Preset_Gemini>Gemini (Google)</RTD_Preset_Gemini>
+  <RTD_Preset_DeepSeek>DeepSeek</RTD_Preset_DeepSeek>
+  <RTD_Preset_OpenRouter>OpenRouter</RTD_Preset_OpenRouter>
+  <RTD_Button_CyclePreset>프리셋 변경</RTD_Button_CyclePreset>
+  <RTD_SettingEndpoint>API 엔드포인트 (OpenAI 호환)</RTD_SettingEndpoint>
+  <RTD_SettingApiKey>API 키</RTD_SettingApiKey>
+  <RTD_SettingModel>모델명</RTD_SettingModel>
+  <RTD_SettingDays>추적 기간 (일)</RTD_SettingDays>
+  <RTD_SettingHistoryCount>포함할 이전 일기 개수</RTD_SettingHistoryCount>
+  <RTD_SettingCrossCheck>타 정착민과의 교차 검증 활성화</RTD_SettingCrossCheck>
+  <RTD_SettingCrossCheckStrength>교차 검증 강도 (0-1)</RTD_SettingCrossCheckStrength>
+  <RTD_SettingTemperature>온도 (창의성)</RTD_SettingTemperature>
+  <RTD_SettingMaxTokens>최대 토큰</RTD_SettingMaxTokens>
+  <RTD_Setting_GlobalPrompt>공용 일기 프롬프트</RTD_Setting_GlobalPrompt>
+  <RTD_Setting_GlobalPromptHint>모든 일기에 적용되는 기본 프롬프트입니다. 아래 내용을 수정하여 말투, 길이, 언어 등을 변경할 수 있습니다.</RTD_Setting_GlobalPromptHint>
+  <RTD_Setting_DebugLogging>디버그 로그 활성화 (프롬프트와 결과물을 Config/RimtalkDiaryLogs에 저장)</RTD_Setting_DebugLogging>
+  <RTD_MsgGenerated>{0}의 일기가 작성되었습니다.</RTD_MsgGenerated>
+  <RTD_MsgGenerateFailed>일기 작성 실패: {0}</RTD_MsgGenerateFailed>
+  <RTD_MsgMissingEndpoint>모드 설정에서 API 엔드포인트를 설정해 주세요.</RTD_MsgMissingEndpoint>
+  <RTD_Button_ImportRimTalk>RimTalk 설정 가져오기</RTD_Button_ImportRimTalk>
+  <RTD_Msg_ImportRimTalk_OK>RimTalk에서 API 설정을 가져왔습니다.</RTD_Msg_ImportRimTalk_OK>
+  <RTD_Msg_ImportRimTalk_Fail>RimTalk API 설정을 가져오지 못했습니다. (활성화된 RimTalk 설정이 없습니까?)</RTD_Msg_ImportRimTalk_Fail>
+  <RTD_Setting_TitleTemplate>일기 제목 템플릿 (이름은 {{PAWN}} 사용)</RTD_Setting_TitleTemplate>
+  <RTD_Setting_ShowMainButton>메인 화면에 일기 메뉴 표시</RTD_Setting_ShowMainButton>
+  <RTD_Backstory_Childhood>유년기 배경</RTD_Backstory_Childhood>
+  <RTD_Backstory_Adulthood>성년기 배경</RTD_Backstory_Adulthood>
+  <RTD_Button_ModelSelect>일반 모델 선택</RTD_Button_ModelSelect>
+  <RTD_SettingModelCustom>사용자 지정 모델 이름 (위의 선택을 무시함)</RTD_SettingModelCustom>
+  <RTD_Option_CustomModel>직접 입력</RTD_Option_CustomModel>
+
+  <RTD_DiaryTitleLabel>일기 제목</RTD_DiaryTitleLabel>
+  <RTD_DiaryGeneratingHint>일기를 작성하는 중입니다... 이 창을 닫으셔도 백그라운드에서 계속됩니다.</RTD_DiaryGeneratingHint>
+  <RTD_DiaryPageInfo>기록 {0} / {1}</RTD_DiaryPageInfo>
+  <RTD_Button_Edit>편집</RTD_Button_Edit>
+  <RTD_Button_Save>저장</RTD_Button_Save>
+  <RTD_Button_Delete>삭제</RTD_Button_Delete>
+  <RTD_LocalPromptLabel>개별 일기 프롬프트 (이 정착민에게만 적용)</RTD_LocalPromptLabel>
+  <RTD_Button_EditLocalPrompt>개별 프롬프트 편집</RTD_Button_EditLocalPrompt>
+  <RTD_LocalPromptWindowTitle>{0} - 개별 프롬프트</RTD_LocalPromptWindowTitle>
+  <RTD_Button_Close>닫기</RTD_Button_Close>
+
+  <RTD_BiographyButton>일대기</RTD_BiographyButton>
+  <RTD_BiographyTitle>{0} - 일대기</RTD_BiographyTitle>
+  <RTD_Bio_MinImportance>최소 중요도</RTD_Bio_MinImportance>
+  <RTD_Bio_LookbackDays>조회 기간 (일)</RTD_Bio_LookbackDays>
+  <RTD_Bio_NoMatches>필터 조건과 일치하는 기록이 없습니다.</RTD_Bio_NoMatches>
+  <RTD_Bio_BuildMarkdown>마크다운 요약 생성</RTD_Bio_BuildMarkdown>
+  <RTD_Bio_ExportHint>'마크다운 요약 생성'을 클릭하면 복사 및 붙여넣기가 가능한 긴 보고서 형태로 정리됩니다.</RTD_Bio_ExportHint>
+  <RTD_BioTab_Label>일기</RTD_BioTab_Label>
+  <RTD_BioTab_Tooltip>{0}의 일기를 엽니다.</RTD_BioTab_Tooltip>
+
+  <RTD_AutoPawn_Enable>일기 자동 작성 활성화</RTD_AutoPawn_Enable>
+  <RTD_AutoPawn_Interval>작성 간격 (일): {0}</RTD_AutoPawn_Interval>
+  <RTD_AutoPawn_Hour>작성 시간 (0-23시): {0}</RTD_AutoPawn_Hour>
+</LanguageData>

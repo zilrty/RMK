@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Megafauna</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="VBY_FangClub"]/description</xpath>
+          <value>
+            <description>나무 손잡이에 스밀로돈 송곳니를 고정한 무기입니다. 한쪽으로는 후려치고, 다른 쪽으로는 찌를 수 있습니다.</description>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Factions Expanded - Vikings</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationReplace">
+          <success>Always</success>
+          <xpath>/Defs/ThingDef[defName="VBY_Sugliin"]/description</xpath>
+          <value>
+            <description>악명 높은 거대 장대는 실용적인 무기라기보다 적의 심장에 공포를 심기 위해 원시 부족들이 만들어 낸 무기입니다. 이 거대한 장병기는 길다란 나무 자루에 여러 벌의 날카롭게 벼린 뿔을 고정해 만든 것입니다. 거대 장대는 커다란 도끼나 낫처럼 휘둘러 넓은 궤적으로 베고 찍습니다. 느리고 다루기 어렵고 무겁습니다.</description>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
+</Patch>

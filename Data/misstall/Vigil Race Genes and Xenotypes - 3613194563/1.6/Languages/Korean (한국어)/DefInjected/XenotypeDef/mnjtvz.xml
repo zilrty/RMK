@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VR_TypeAMKI.label>라비쿠스 Mk-I</VR_TypeAMKI.label>
+  <VR_TypeAMKI.description>인공 혈액을 채택한 전투용 비질 시리즈입니다. 정기적인 유지보수가 필요하지만 높은 전투 능력을 발휘합니다.</VR_TypeAMKI.description>
+
+  <VR_TypeAMKII.label>라비쿠스 Mk-II</VR_TypeAMKII.label>
+  <VR_TypeAMKII.description>솔저 유전자를 채택한 전투용 비질 시리즈입니다. 정기적인 약물 투여가 필요하지만 높은 전투 능력을 발휘합니다.</VR_TypeAMKII.description>
+
+  <VR_TypeAMKIII.label>라비쿠스 Mk-III</VR_TypeAMKIII.label>
+  <VR_TypeAMKIII.description>인공 혈액과 솔저 유전자를 모두 채택한 하이엔드 모델 비질입니다. 매우 높은 전투 능력을 발휘하지만 정기적인 약물 투여와 유지보수가 병행되어야 합니다.</VR_TypeAMKIII.description>
+
+  <VR_TypeBMKI.label>파브리쿠스 Mk-I</VR_TypeBMKI.label>
+  <VR_TypeBMKI.description>공예 및 메카니터 업무에 최적화된 비질 모델입니다.</VR_TypeBMKI.description>
+
+  <VR_TypeCMKI.label>메디쿠스 Mk-I</VR_TypeCMKI.label>
+  <VR_TypeCMKI.description>의료 활동에 최적화된 비질입니다. 지적 능력이 높아 연구 업무에도 투입할 수 있습니다.</VR_TypeCMKI.description>
+
+  <VR_TypeDMKI.label>알리쿠스 Mk-I</VR_TypeDMKI.label>
+  <VR_TypeDMKI.description>파트너로서의 능력에 최적화된 비질입니다.</VR_TypeDMKI.description>
+
+  <VR_TypeDMKII.label>알리쿠스 Mk-II</VR_TypeDMKII.label>
+  <VR_TypeDMKII.description>파트너로서의 능력에 최적화된 비질입니다.</VR_TypeDMKII.description>
+
+  <VR_TypeEMKI.label>레가티쿠스 Mk-I</VR_TypeEMKI.label>
+  <VR_TypeEMKI.description>지휘관이나 협상가 역할에 최적화된 비질입니다.</VR_TypeEMKI.description>
+</LanguageData>

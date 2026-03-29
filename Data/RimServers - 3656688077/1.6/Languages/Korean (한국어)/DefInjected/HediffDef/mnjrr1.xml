@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SERVERS_BandNodeServerBandNode.label>대역폭 확장 서버 (조율됨)</SERVERS_BandNodeServerBandNode.label>
+  <SERVERS_BandNodeServerBandNode.description>이 메카나이터의 대역폭은 조율되고 전력이 공급되고 있는 대역폭 확장 서버로 증가했습니다.</SERVERS_BandNodeServerBandNode.description>
+</LanguageData>

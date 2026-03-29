@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_Hercules.label>"헤라클레스" 보병 전투 드론</SR_Hercules.label>
+  <SR_Hercules.labelPlural>"헤라클레스" 보병 전투 드론</SR_Hercules.labelPlural>
+  <SR_Hercules_GL.label>"헤라클레스" 장애물 돌파 드론</SR_Hercules_GL.label>
+  <SR_Hercules_Marksman.label>"헤라클레스" 정밀 타격 드론</SR_Hercules_Marksman.label>
+
+  <SR_Seginus_guard.label>AM27G 세기누스-G 강습 드론 (가드 모델)</SR_Seginus_guard.label>
+  <SR_Seginus_guard.labelPlural>AM27G 세기누스-G 강습 드론 (가드 모델)</SR_Seginus_guard.labelPlural>
+  <SR_Seginus_Vanguard.label>AM27V 세기누스-G 강습 드론 (뱅가드 모델)</SR_Seginus_Vanguard.label>
+  <SR_Seginus_Vanguard.labelPlural>AM27V 세기누스-G 강습 드론 (뱅가드 모델)</SR_Seginus_Vanguard.labelPlural>
+
+  <SR_Lyra_Luminance.label>AM3L 라이라 B형 강습 드론 (루미넌스 모델)</SR_Lyra_Luminance.label>
+  <SR_Lyra_Luminance.labelPlural>AM3L 라이라 B형 강습 드론 (루미넌스 모델)</SR_Lyra_Luminance.labelPlural>
+  <SR_Lyra_Polarday.label>AM3P 라이라 B형 강습 드론 (폴라데이 모델)</SR_Lyra_Polarday.label>
+  <SR_Lyra_Polarday.labelPlural>AM3P 라이라 B형 강습 드론 (폴라데이 모델)</SR_Lyra_Polarday.labelPlural>
+  <SR_Lyra_StarFire.label>AM3S 라이라 B형 강습 드론 (스타파이어 모델)</SR_Lyra_StarFire.label>
+  <SR_Lyra_StarFire.labelPlural>AM3S 라이라 B형 강습 드론 (스타파이어 모델)</SR_Lyra_StarFire.labelPlural>
+
+  <SR_Sirius_MB.label>AM9T 시리우스-A 주력 전투 드론</SR_Sirius_MB.label>
+  <SR_Sirius_MB.labelPlural>AM9T 시리우스-A 주력 전투 드론</SR_Sirius_MB.labelPlural>
+  <SR_Sirius_FB.label>AM9F 시리우스-A 야전 전투 드론</SR_Sirius_FB.label>
+  <SR_Sirius_FB.labelPlural>AM9F 시리우스-A 야전 전투 드론</SR_Sirius_FB.labelPlural>
+  <SR_Sirius_TD.label>AM9T21 시리우스-E 구축함 드론</SR_Sirius_TD.label>
+  <SR_Sirius_TD.labelPlural>AM9T21 시리우스-E 구축함 드론</SR_Sirius_TD.labelPlural>
+  <SR_Sirius_SF.label>AM9F2A 시리우스-D 화염 방사 드론</SR_Sirius_SF.label>
+  <SR_Sirius_SF.labelPlural>AM9F2A 시리우스-D 화염 방사 드론</SR_Sirius_SF.labelPlural>
+  <SR_Sirius_AC.label>AM9A 시리우스-D 포병 드론</SR_Sirius_AC.label>
+  <SR_Sirius_AC.labelPlural>AM9A 시리우스-D 포병 드론</SR_Sirius_AC.labelPlural>
+  <SR_Sirius_FS.label>AM9Tk 시리우스-A 화력 지원 드론</SR_Sirius_FS.label>
+  <SR_Sirius_FS.labelPlural>AM9Tk 시리우스-A 화력 지원 드론</SR_Sirius_FS.labelPlural>
+
+  <SR_Corp_StudentA.label>미호 학생</SR_Corp_StudentA.label>
+  <SR_Corp_StudentB.label>미호 학생</SR_Corp_StudentB.label>
+  <SR_Corp_Professor.label>미호 교수</SR_Corp_Professor.label>
+  <SR_Corp_Diplomat.label>미호 외교관</SR_Corp_Diplomat.label>
+  <SR_Corp_Recon.label>미호 보병</SR_Corp_Recon.label>
+  <SR_Corp_Infantry.label>미호 보병</SR_Corp_Infantry.label>
+  <SR_Corp_TAC.label>"페로몬"</SR_Corp_TAC.label>
+  <SR_Corp_ROA.label>"아스클레피오스"</SR_Corp_ROA.label>
+
+  <SR_Hunter_Colonist.label>미호 시민</SR_Hunter_Colonist.label>
+  <SR_Hunter_Police.label>미호 경찰</SR_Hunter_Police.label>
+  <SR_Hunter_Trade.label>미호 상인</SR_Hunter_Trade.label>
+  <SR_Hunter_Leader.label>미호 지도자</SR_Hunter_Leader.label>
+  <SR_Hunter_Infantry.label>미호 보병</SR_Hunter_Infantry.label>
+  <SR_Hunter_Commando.label>미호 특공대</SR_Hunter_Commando.label>
+  <SR_Hunter_MachineGunner.label>미호 기관총사수</SR_Hunter_MachineGunner.label>
+  <SR_Hunter_Grenadier.label>미호 유탄수</SR_Hunter_Grenadier.label>
+  <SR_Hunter_Sniper.label>미호 저격수</SR_Hunter_Sniper.label>
+  <SR_Hunter_WallBreaker.label>미호 공성병</SR_Hunter_WallBreaker.label>
+  <SR_Hunter_InfantryElite.label>미호 정예 보병</SR_Hunter_InfantryElite.label>
+  <SR_Hunter_CommandoElite.label>미호 정예 특공대</SR_Hunter_CommandoElite.label>
+  <SR_Hunter_PsychicElite.label>미호 초능력 특공대</SR_Hunter_PsychicElite.label>
+</LanguageData>

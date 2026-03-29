@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <STS_SwitchPresets>의상 변경</STS_SwitchPresets>
+  <STS_SwitchPresetsDesc>리젠트는 별을 사용하여 봉인된 왕좌를 소환하거나 손상된 의복을 복구할 수 있습니다.</STS_SwitchPresetsDesc>
+  <STS_UnnamedPreset>이름 없는 의상</STS_UnnamedPreset>
+
+  <STS_CardDraw_Title>카드 뽑기</STS_CardDraw_Title>
+  <STS_CardDraw_Selected>리젠트가 카드의 새로운 효과를 획득했습니다.</STS_CardDraw_Selected>
+  <STS_HediffGacha_Title>카드 선택</STS_HediffGacha_Title>
+  <STS_HediffGacha_TargetInfo>대상: {0}</STS_HediffGacha_TargetInfo>
+  <STS_HediffGacha_Select>선택</STS_HediffGacha_Select>
+  <STS_HediffGacha_Selected>{0}(이)가 {1}(을)를 획득했습니다.</STS_HediffGacha_Selected>
+  <STS_HediffGacha_Hint>버튼을 클릭하여 카드를 선택하세요.</STS_HediffGacha_Hint>
+  <STS_HediffGacha_HintWithCancel>버튼을 클릭하여 카드를 선택하거나, ESC를 눌러 취소하세요.</STS_HediffGacha_HintWithCancel>
+  <STS_HediffGacha_NeedPawnTarget>대상 캐릭터를 선택해야 합니다.</STS_HediffGacha_NeedPawnTarget>
+  <STS_HediffGacha_EmptyPool>모든 카드를 획득했습니다.</STS_HediffGacha_EmptyPool>
+  <STS_HediffGacha_NoOptions>새로 뽑을 카드가 없습니다.</STS_HediffGacha_NoOptions>
+
+  <STS_Regeneration_Disable>별 수리 비활성화</STS_Regeneration_Disable>
+  <STS_Regeneration_DisableDesc>별 수리를 비활성화하면 리젠트가 피해를 복구하지 못하게 됩니다.</STS_Regeneration_DisableDesc>
+  <STS_Regeneration_Enable>별 수리 활성화</STS_Regeneration_Enable>
+  <STS_Regeneration_EnableDesc>별 수리는 리젠트가 입은 피해를 빠르게 복구할 수 있게 해줍니다.</STS_Regeneration_EnableDesc>
+  <STS_Regeneration_Active>별 수리: 켬</STS_Regeneration_Active>
+  <STS_Regeneration_Inactive>별 수리: 끔</STS_Regeneration_Inactive>
+  <STS_DailyResetMessage>새로운 하루가 시작되었습니다. 리젠트의 ☀ 에너지와 뽑기 횟수가 초기화되었습니다.</STS_DailyResetMessage>
+
+  <STS_AutoMechCarrier_Switch>하수인 각인</STS_AutoMechCarrier_Switch>
+  <STS_AutoMechCarrier_SwitchDesc>리젠트가 자동으로 하수인을 각인하는 순서를 전환합니다. 하수인 각인이 활성화되면, 리젠트는 손실된 하수인을 보충합니다.</STS_AutoMechCarrier_SwitchDesc>
+  <STS_ProductionQueue_Description>리젠트의 명단에 {0}마리의 {1} 하수인을 추가합니다.</STS_ProductionQueue_Description>
+  <STS_ConsumePawn_NoTarget>주변에 포획할 수 있는 하수인이 부족합니다.</STS_ConsumePawn_NoTarget>
+
+  <STS_Sun>에너지</STS_Sun>
+  <STS_Star>별</STS_Star>
+  <STS_Sun_Count>에너지: {0}\n\n에너지은 리젠트가 카드 효과를 활성화하는 데 사용하는 자원입니다. 일반적인 상황에서 에너지의 개수는 24시간마다 3개로 초기화됩니다.</STS_Sun_Count>
+  <STS_Star_Count>별: {0}\n\n별은 리젠트가 다양한 별 스킬을 활성화하는 데 사용하는 자원입니다. 별은 자연적으로 재생되지 않으며 시간이 지나도 초기화되지 않습니다.</STS_Star_Count>
+  <STS_Cost>소모</STS_Cost>
+  <STS_Gain>획득</STS_Gain>
+  <STS_Have>보유</STS_Have>
+  <STS_NotEnoughStars>✦ 별이 부족합니다.</STS_NotEnoughStars>
+  <STS_StarStillNeed>(별 {0} ✦개가 더 필요합니다)</STS_StarStillNeed>
+  <STS_HediffGacha_NotEnoughSun>에너지 부족: ☀ {0}개가 필요하지만 현재 ☀ {1}개를 보유 중입니다.</STS_HediffGacha_NotEnoughSun>
+  <STS_HediffGacha_NotEnoughStar>별빛 부족: ✦ {0}개가 필요하지만 현재 ✦ {1}개를 보유 중입니다.</STS_HediffGacha_NotEnoughStar>
+  <STS_Draws>카드 뽑기 횟수</STS_Draws>
+  <STS_NotEnoughDraws>카드 뽑기 횟수가 부족합니다.</STS_NotEnoughDraws>
+  <DrawCountRemaining>남은 카드 뽑기 횟수: {0}</DrawCountRemaining>
+  <DrawCostAbility>카드 뽑기 기회 {0}회 소모</DrawCostAbility>
+
+  <STS_DropPod_DefaultMessage>{0} 수송 포드 도착: {1}</STS_DropPod_DefaultMessage>
+  <STS_DropPod_ItemsDropped>아이템이 투하되었습니다.</STS_DropPod_ItemsDropped>
+  <STS_DropPod_NoItems>투하할 수 있는 아이템이 없습니다.</STS_DropPod_NoItems>
+  <STS_DropPod_InvalidPawn>유효하지 않은 대상입니다.</STS_DropPod_InvalidPawn>
+  <DropPodSpawnEffect>보급품 투하</DropPodSpawnEffect>
+  <STS_Royalist_DropPod>왕실 자산 수송 포드가 도착했습니다.</STS_Royalist_DropPod>
+
+  <STS_Forge>단조</STS_Forge>
+  <STS_ForgeDamage>단조 피해량: {0}</STS_ForgeDamage>
+  <CasterDead>시전자가 사망했습니다.</CasterDead>
+  <NoValidBodyParts>파괴 가능한 신체 부위가 없습니다.</NoValidBodyParts>
+</LanguageData>

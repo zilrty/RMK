@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SR_Student.label>학술 여행</SR_Student.label>
+  <SR_Student.description>당신들 세 명은 원래 더 나은 학술적 환경을 찾아 다른 미호 행성으로 떠날 계획이었으나, 귀를 찢는 듯한 경보음에 잠에서 깨어났습니다. 함선이 공중분해되기 직전, 경비병들은 당신들을 탈출 포드에 밀어 넣는 데 성공했습니다. 출발 전에 가입해 두었던 개인 상해 보험이 드디어 제값을 톡톡히 할 모양입니다.</SR_Student.description>
+  
+  <SR_Student.scenario.summary>상아탑에 머물던 세 마리의 여우와 고용된 경비 여우 한 마리</SR_Student.scenario.summary>
+  <SR_Student.scenario.name>학술 여행</SR_Student.scenario.name>
+  <SR_Student.scenario.description>당신들 세 명은 원래 더 나은 학술적 환경을 찾아 다른 미호 행성으로 떠날 계획이었으나, 귀를 찢는 듯한 경보음에 잠에서 깨어났습니다. 함선이 공중분해되기 직전, 경비병들은 당신들을 탈출 포드에 밀어 넣는 데 성공했습니다. 출발 전에 가입해 두었던 개인 상해 보험이 드디어 제값을 톡톡히 할 모양입니다.</SR_Student.scenario.description>
+  
+  <SR_Student.scenario.parts.0.text>우주선이 추락하기 직전, 당신들은 스타 링에 구조 신호를 보내는 데 성공했습니다. 부디 그들이 계약 조건을 이행하기를 바랄 뿐입니다...</SR_Student.scenario.parts.0.text>
+  <SR_Student.scenario.parts.1.letterLabel>답장</SR_Student.scenario.parts.1.letterLabel>
+  <SR_Student.scenario.parts.1.letterText>스타 링 측은 생존에 필요한 몇 가지 물자를 제공하고, 일정 기간 동안 당신들을 보조할 용병 한 명을 파견하겠다고 전해왔습니다.</SR_Student.scenario.parts.1.letterText>
+</LanguageData>

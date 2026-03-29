@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBYMake_FiredAdobe.label>구운 점토 벽돌</VBYMake_FiredAdobe.label>
+  <VBYMake_FiredAdobe.description>젖은 점토 반죽을 구워 유용한 벽돌로 만듭니다.\n\n벽돌 20개를 만듭니다.</VBYMake_FiredAdobe.description>
+  <VBY_MakeClumpsFromClay_Base.label>젖은 점토 덩이 제작</VBY_MakeClumpsFromClay_Base.label>
+  <VBY_MakeClumpsFromClay_Base.description>진흙과 건초를 반죽해 젖은 점토 덩이를 만듭니다.\n\n 20개를 만듭니다.</VBY_MakeClumpsFromClay_Base.description>
+  <VBY_MakeClumpsFromClay_Base.jobString>젖은 점토 덩이 만드는 중.</VBY_MakeClumpsFromClay_Base.jobString>
+  <VBY_HayclothRecipe.label>건초 직물 5개 짜기</VBY_HayclothRecipe.label>
+  <VBY_HayclothRecipe.description>건초로 건초 직물을 짭니다.\n\n건초 직물 5개를 만듭니다.</VBY_HayclothRecipe.description>
+  <VBY_HayclothRecipe.jobString>직물 짜는 중.</VBY_HayclothRecipe.jobString>
+  <VBY_HayclothRecipeBulk.label>건초 직물 20개 짜기</VBY_HayclothRecipeBulk.label>
+  <VBY_HayclothRecipeBulk.description>건초로 건초 직물을 짭니다.\n\n건초 직물 20개를 만듭니다.</VBY_HayclothRecipeBulk.description>
+  <VBY_HayclothRecipeBulk.jobString>직물 짜는 중.</VBY_HayclothRecipeBulk.jobString>
+  <VBY_Make_ThrowingRocks.label>투석용 돌 만들기</VBY_Make_ThrowingRocks.label>
+  <VBY_Make_ThrowingRocks.description>투석하기에 알맞은 크기로 바위 덩어리를 골라냅니다.</VBY_Make_ThrowingRocks.description>
+  <VBY_Make_ThrowingRocks.jobString>투석용 돌 모으는 중.</VBY_Make_ThrowingRocks.jobString>
+  <VBY_BambooFiberRecipe.label>대나무 섬유 짜기</VBY_BambooFiberRecipe.label>
+  <VBY_BambooFiberRecipe.description>대나무에서 섬유를 짜 냅니다.\n\n대나무 섬유 5개를 만듭니다.</VBY_BambooFiberRecipe.description>
+  <VBY_BambooFiberRecipe.jobString>대나무 섬유를 엮습니다.</VBY_BambooFiberRecipe.jobString>
+  <VBY_BambooFiberRecipeBulk.label>대나무 섬유 대량으로 짜기</VBY_BambooFiberRecipeBulk.label>
+  <VBY_BambooFiberRecipeBulk.description>대나무에서 섬유를 짜 냅니다.\n\n대나무 섬유 20개를 만듭니다.</VBY_BambooFiberRecipeBulk.description>
+  <VBY_BambooFiberRecipeBulk.jobString>대나무 섬유를 엮습니다.</VBY_BambooFiberRecipeBulk.jobString>
+</LanguageData>

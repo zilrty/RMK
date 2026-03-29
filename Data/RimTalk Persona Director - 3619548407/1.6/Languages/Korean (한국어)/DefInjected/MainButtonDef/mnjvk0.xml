@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PersonaDirector.label>디렉터</PersonaDirector.label>
+  <PersonaDirector.description>좌클릭: 디렉터 노트 열기.\n우클릭: 목록 모드 열기.\nShift+클릭: 설정 열기.</PersonaDirector.description>
+</LanguageData>

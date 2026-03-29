@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ERN_Frystelk.label>프라이스텔</ERN_Frystelk.label>
+  <ERN_Frystelk.description>첫 시도는 실패했지만, 아우레일은 마침내 최고의 여행 동반자를 만들어내는 데 성공했습니다. 작고 귀여운 프라이스텔은 사랑스럽고 장난기 넘치며 개구쟁이 같은 면모를 지니고 있습니다. 주인과 함께 노는 것을 좋아하며, 머리에 난 작은 돌기로 주인을 살살 들이받기도 합니다. 솜털처럼 부드럽고 마치 털과 같은 깃털은 눈 속에서 뛰어놀 때 따뜻함을 유지해 줍니다. 적절한 먹이를 주면 작은 프라이스텔은 웅장하고 충성스러운 탈것으로 자라납니다.</ERN_Frystelk.description>
+  <ERN_Frystelk.tools.0.label>뿔</ERN_Frystelk.tools.0.label>
+  <ERN_Frystelk.tools.2.label>왼발</ERN_Frystelk.tools.2.label>
+  <ERN_Frystelk.tools.3.label>오른발</ERN_Frystelk.tools.3.label>
+  <ERN_Frystelk.tools.4.label>머리</ERN_Frystelk.tools.4.label>
+  <ERN_GreaterFrystelk.label>상위 프라이스텔</ERN_GreaterFrystelk.label>
+  <ERN_GreaterFrystelk.description>첫 시도는 실패했지만, 아우레일은 마침내 최고의 여행 동반자를 만들어내는 데 성공했습니다. 적절한 먹이를 주면 작은 프라이스텔은 위풍당당하고 충성스러운 탈것으로 자라납니다. 솜털처럼 부드럽고 마치 털과 같은 깃털을 가진 프라이스텔은 단단하고 속이 빈 뼈 덕분에 눈 위를 가볍게 이동할 수 있으며, 때로는 작은 날개로 활공하기도 합니다. 추운 날씨에도 굴하지 않고, 긴 뿔과 강력한 발굽으로 주인을 지켜냅니다.</ERN_GreaterFrystelk.description>
+  <ERN_GreaterFrystelk.tools.0.label>뿔</ERN_GreaterFrystelk.tools.0.label>
+  <ERN_GreaterFrystelk.tools.2.label>왼발</ERN_GreaterFrystelk.tools.2.label>
+  <ERN_GreaterFrystelk.tools.3.label>오른발</ERN_GreaterFrystelk.tools.3.label>
+  <ERN_GreaterFrystelk.tools.4.label>머리</ERN_GreaterFrystelk.tools.4.label>
+  <ERN_Caelys.label>케일리스</ERN_Caelys.label>
+  <ERN_Caelys.description>고양이를 데리고 다니는 떠돌이 상인을 만난 아우레일은 털복숭이 동물들에게 푹 빠졌습니다. 아우레일이 사는 춥고 혹독한 기후를 고양이가 견딜 수 없다는 것을 알고, 고양이와 펭귄의 혼종인 케일리스를 만들어냈습니다. 이 장난기 넘치는 새로운 친구들은 솜털 같은 깃털로 덮여 있으며 혹독한 겨울을 견뎌내면서도 잘 살아가고 뛰어놀 수 있습니다.</ERN_Caelys.description>
+  <ERN_Caelys.tools.0.label>손톱</ERN_Caelys.tools.0.label>
+  <ERN_Caelys.tools.2.label>머리</ERN_Caelys.tools.2.label>
+  <ERN_Tolvyr.label>톨비르</ERN_Tolvyr.label>
+  <ERN_Tolvyr.description>아우레일은 온순한 탈것을 만들려 했지만 실패했고, 결국 친절한 프라이스텔의 대척점인 사납고 폭력적인 톨비르가 만들어졌습니다. 톨비르는 취약한 위계질서를 가진 작은 무리를 지어 살며, 사냥의 스릴을 위해 살육을 자행합니다. 두껍고 밝은 색의 깃털은 추운 기후에서 체온을 유지시켜 줄 뿐만 아니라 눈 속에서 위장 효과도 제공합니다. 날카로운 이빨과 발톱으로 무장한 톨비르는 강력한 다리와 짧은 날개를 이용해 먹잇감에게 뛰어듭니다.</ERN_Tolvyr.description>
+  <ERN_Tolvyr.tools.0.label>손톱</ERN_Tolvyr.tools.0.label>
+  <ERN_Tolvyr.tools.1.label>부리</ERN_Tolvyr.tools.1.label>
+  <ERN_Tolvyr.tools.2.label>머리</ERN_Tolvyr.tools.2.label>
+  <ERN_RoundBed.label>둥근 침대</ERN_RoundBed.label>
+  <ERN_RoundBed.description>편안한 원형 매트리스와 시트가 프레임 위에 놓여 있어 휴식을 취하기에 좋습니다.</ERN_RoundBed.description>
+  <ERN_RoundDoubleBed.label>둥근 대형 침대</ERN_RoundDoubleBed.label>
+  <ERN_RoundDoubleBed.description>두 사람이 함께 사용할 수 있는 아늑한 원형 더블 침대입니다.</ERN_RoundDoubleBed.description>
+  <ERN_RoundDresser.label>둥근 서랍장</ERN_RoundDresser.label>
+  <ERN_RoundDresser.description>둥근 서랍장은 주변 침대들에 은은한 안락함을 더해줍니다. 같은 침대 옆에 서랍장을 두 개 이상 놓아도 효과는 없습니다.</ERN_RoundDresser.description>
+  <ERN_RoundEndtable.label>원형 협탁</ERN_RoundEndtable.label>
+  <ERN_RoundEndtable.description>침대 옆 공간을 더욱 아늑하게 만들어주는 작고 둥근 협탁입니다. 침대 머리맡 바로 옆에 놓아야 합니다. 같은 침대 옆에 협탁을 두 개 이상 놓아도 효과는 없습니다.</ERN_RoundEndtable.description>
+  <ERN_RoundStool.label>둥근 의자</ERN_RoundStool.label>
+  <ERN_RoundStool.description>푹신한 받침대가 있어 앉기에 편안합니다. 일반 의자보다 훨씬 편안하며, 테이블, 작업대 등 다양한 곳에서 사용할 수 있습니다.</ERN_RoundStool.description>
+  <ERN_BeanbagChair.label>빈백 의자</ERN_BeanbagChair.label>
+  <ERN_BeanbagChair.description>크고 부드럽고 편안한 의자입니다. 휴식을 취하기에 안성맞춤입니다. 식탁, 작업대 등 어디에서든 사용할 수 있습니다.</ERN_BeanbagChair.description>
+  <ERN_RoundCouch.label>둥근 소파</ERN_RoundCouch.label>
+  <ERN_RoundCouch.description>넓고 둥근 2인용 좌석으로, 최상의 편안함을 위해 쿠션 처리가 되어 있습니다. 고급스러운 휴게실이나 아늑한 독서 공간에 완벽하게 어울립니다.</ERN_RoundCouch.description>
+  <ERN_RoundTableSmall.label>둥근 식탁 (1x1)</ERN_RoundTableSmall.label>
+  <ERN_RoundTableLarge.label>둥근 식탁 (1x2)</ERN_RoundTableLarge.label>
+  <ERN_RoundLamp.label>원형 램프</ERN_RoundLamp.label>
+  <ERN_RoundLamp.description>주변을 밝히는 둥근 전기 램프. 사람들은 활발하게 움직이고 일하기 위해 빛이 필요합니다.</ERN_RoundLamp.description>
+  <ERN_FloorPlant.label>아늑한 화분 식물</ERN_FloorPlant.label>
+  <ERN_FloorPlant.description>어떤 방이든 장식하기에 완벽한 귀여운 화분 식물입니다.</ERN_FloorPlant.description>
+  <ERN_MushDecor.label>작은 버섯</ERN_MushDecor.label>
+  <ERN_MushDecor.description>어떤 방이든 장식하기에 딱 좋은 작고 귀여운 버섯입니다.</ERN_MushDecor.description>
+  <ERN_HalfCircleRug.label>반원형 러그 (3x1)</ERN_HalfCircleRug.label>
+  <ERN_HalfCircleRug.description>귀여운 반원 모양의 러그입니다. 장식하기에 딱 좋습니다.</ERN_HalfCircleRug.description>
+  <ERN_FluffyRug.label>크고 폭신한 러그 (3x3)</ERN_FluffyRug.label>
+  <ERN_FluffyRug.description>크고 푹신한 러그입니다. 장식하기에 딱 좋습니다.</ERN_FluffyRug.description>
+  <ERN_RoundRug.label>크고 둥근 러그 (3x3)</ERN_RoundRug.label>
+  <ERN_RoundRug.description>크고 둥근 러그입니다. 장식하기에 딱 좋습니다.</ERN_RoundRug.description>
+  <EggTolvyrFertilized.label>톨비르 알 (수정됨.)</EggTolvyrFertilized.label>
+  <EggTolvyrFertilized.description>수정된 톨비르 알입니다. 모든 것이 순조롭게 진행되면 병아리로 부화할 것입니다. 날것으로 먹을 수도 있지만 익혀 먹는 것이 훨씬 맛있습니다.</EggTolvyrFertilized.description>
+  <EggTolvyrUnfertilized.label>톨비르 알 (unfert.)</EggTolvyrUnfertilized.label>
+  <EggTolvyrUnfertilized.description>수정되지 않은 톨비르 알입니다. 날것으로 먹을 수도 있지만 익혀 먹는 것이 훨씬 맛있습니다.</EggTolvyrUnfertilized.description>
+  <EggCaelysFertilized.label>케일리스 알 (fert.)</EggCaelysFertilized.label>
+  <EggCaelysFertilized.description>수정된 케일리스 알입니다. 모든 것이 순조롭게 진행되면 병아리로 부화할 것입니다. 날것으로 먹을 수도 있지만 익혀 먹는 것이 훨씬 맛있습니다.</EggCaelysFertilized.description>
+  <EggCaelysUnfertilized.label>케일리스 알 (unfert.)</EggCaelysUnfertilized.label>
+  <EggCaelysUnfertilized.description>수정되지 않은 케일리스 알입니다. 날것으로 먹을 수도 있지만 익혀 먹는 것이 훨씬 맛있습니다.</EggCaelysUnfertilized.description>
+  <EggFrystelkFertilized.label>프라이스텔 알 (fert.)</EggFrystelkFertilized.label>
+  <EggFrystelkFertilized.description>수정된 프라이스텔 알입니다. 모든 것이 순조롭게 진행되면 병아리로 부화할 것입니다. 날것으로 먹을 수도 있지만 익혀 먹는 것이 훨씬 맛있습니다.</EggFrystelkFertilized.description>
+  <EggFrystelkUnfertilized.label>프라이스텔 알 (unfert.)</EggFrystelkUnfertilized.label>
+  <EggFrystelkUnfertilized.description>수정되지 않은 프라이스텔 알입니다. 날것으로 먹을 수도 있지만 익혀 먹는 것이 훨씬 맛있습니다.</EggFrystelkUnfertilized.description>
+  <ERN_RawFrystcap.label>생 프라이스캡</ERN_RawFrystcap.label>
+  <ERN_RawFrystcap.description>익히지 않은 프라이스캡. 프라이스텔에게 먹이면 특별한 효과를 볼 수 있습니다.</ERN_RawFrystcap.description>
+  <ERN_RawFrystcap.comps.0.useLabel>프라이스텔에게 프라이스캡을 사용</ERN_RawFrystcap.comps.0.useLabel>
+  <ERN_FrystelkHorn.label>프라이스텔 뿔</ERN_FrystelkHorn.label>
+  <ERN_FrystelkHorn.description>도살된 프라이스텔크의 뿔입니다. 이 괴물아.</ERN_FrystelkHorn.description>
+  <ERN_FrystelkHorn.tools.0.label>끝</ERN_FrystelkHorn.tools.0.label>
+  <ERN_FrystelkHorn.tools.1.label>몸체</ERN_FrystelkHorn.tools.1.label>
+  <ERN_FrystelkFeathers.label>프라이스텔 깃털</ERN_FrystelkFeathers.label>
+  <ERN_FrystelkFeathers.description>프라이스텔 깃털. 고급스럽고 내구성이 매우 뛰어납니다. 단열성과 강도가 우수하여 최고급 공예품 제작에 사용됩니다.</ERN_FrystelkFeathers.description>
+  <ERN_AuraeylFur.label>아우레일 털</ERN_AuraeylFur.label>
+  <ERN_AuraeylFur.description>아우레일에서 자연적으로 빠지는 부드럽고 폭신한 털. 뛰어난 단열 효과를 제공합니다.</ERN_AuraeylFur.description>
+  <ERN_ThickBirdLeather.label>두꺼운 조류가죽</ERN_ThickBirdLeather.label>
+  <ERN_ThickBirdLeather.description>무두질하고 말린 조류 가죽을 긁어낸 것입니다. 상당히 두껍기 때문에 깃털이 없더라도 단열 효과가 뛰어납니다.</ERN_ThickBirdLeather.description>
+  <ERN_PlantFrystcap.label>프라이스캡</ERN_PlantFrystcap.label>
+  <ERN_PlantFrystcap.description>밝은 색의 버섯입니다. 쓴맛이 강해 일반적인 식용으로는 부적합하지만, 프라이스텔에게는 큰 효능을 지닌 것으로 알려져 있습니다.</ERN_PlantFrystcap.description>
+  <ERN_PlantFrystcapWild.label>야생 프라이스캡</ERN_PlantFrystcapWild.label>
+  <ERN_PlantFrystcapWild.description>야생에서 자라는 밝은 색의 버섯입니다. 쓴맛이 강해 일반적인 식용으로는 부적합하지만, 프라이스텔에게는 큰 효능을 지닌 것으로 알려져 있습니다.</ERN_PlantFrystcapWild.description>
+  <ERN_Auraeyl_Axe.label>프라이스 도끼</ERN_Auraeyl_Axe.label>
+  <ERN_Auraeyl_Axe.description>아우레일이 흔히 사용하는 날카로운 도끼.</ERN_Auraeyl_Axe.description>
+  <ERN_Auraeyl_Axe.tools.0.label>손잡이</ERN_Auraeyl_Axe.tools.0.label>
+  <ERN_Auraeyl_Axe.tools.1.label>날</ERN_Auraeyl_Axe.tools.1.label>
+  <ERN_Bomblance.label>봄랜스</ERN_Bomblance.label>
+  <ERN_Bomblance.description>아우레일이 사용하는 원거리 무기. 소이탄 발사기와 비슷하며, 발사 속도도 마찬가지로 느립니다.</ERN_Bomblance.description>
+  <ERN_Bomblance.verbs.Verb_Shoot.label>봄랜스</ERN_Bomblance.verbs.Verb_Shoot.label>
+  <ERN_Bomblance.tools.0.label>개머리판</ERN_Bomblance.tools.0.label>
+  <ERN_Bomblance.tools.1.label>총열</ERN_Bomblance.tools.1.label>
+  <ERN_BomblanceBullet.label>봄랜스 쉘</ERN_BomblanceBullet.label>
+  <ERN_Harpoon.label>작살총</ERN_Harpoon.label>
+  <ERN_Harpoon.description>아우레일이 사용하는 원거리 무기. 중거리에서 위력이 강하지만 속도가 느립니다.</ERN_Harpoon.description>
+  <ERN_Harpoon.verbs.Verb_Shoot.label>작살총</ERN_Harpoon.verbs.Verb_Shoot.label>
+  <ERN_Harpoon.tools.0.label>개머리판</ERN_Harpoon.tools.0.label>
+  <ERN_Harpoon.tools.1.label>총열</ERN_Harpoon.tools.1.label>
+  <ERN_HarpoonBullet.label>작살</ERN_HarpoonBullet.label>
+  <ERN_Lightbow.label>광궁</ERN_Lightbow.label>
+  <ERN_Lightbow.description>아우레일이 사용하는 특수한 합성궁. 사거리가 길수록 위력이 강하며, 화살은 화염 피해를 입힙니다.</ERN_Lightbow.description>
+  <ERN_Lightbow.verbs.Verb_Shoot.label>광궁</ERN_Lightbow.verbs.Verb_Shoot.label>
+  <ERN_Lightbow.tools.0.label>활 날개</ERN_Lightbow.tools.0.label>
+  <ERN_LightbowArrow.label>광궁 화살</ERN_LightbowArrow.label>
+</LanguageData>

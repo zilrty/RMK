@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VBY_BambooBoneSpear.label>대나무 뼈 창</VBY_BambooBoneSpear.label>
+  <VBY_BambooBoneSpear.description>끝에 뼛조각을 엮은 단단한 대나무 창입니다. 사냥이나 정착지 방어에 적합합니다.</VBY_BambooBoneSpear.description>
+  <VBY_BambooBoneSpear.tools.0.label>자루</VBY_BambooBoneSpear.tools.0.label>
+  <VBY_BambooBoneSpear.tools.1.label>촉</VBY_BambooBoneSpear.tools.1.label>
+  <VBY_BoneSpear.label>뼈 창</VBY_BoneSpear.label>
+  <VBY_BoneSpear.description>끝에 뼛조각을 엮은 단단한 나무 창입니다. 사냥이나 정착지 방어에 적합합니다.</VBY_BoneSpear.description>
+  <VBY_BoneSpear.tools.0.label>자루</VBY_BoneSpear.tools.0.label>
+  <VBY_BoneSpear.tools.1.label>촉</VBY_BoneSpear.tools.1.label>
+  <VBY_BoneTotem.label>뼈 토템</VBY_BoneTotem.label>
+  <VBY_BoneTotem.description>뼈로 만든 높은 조각상입니다. 낯익은 형상이 보이십니까?</VBY_BoneTotem.description>
+  <VBY_NeolithicManagerSpot.label>원시 관리 장소</VBY_NeolithicManagerSpot.label>
+  <VBY_NeolithicManagerSpot.description>거주지 작업을 계획하기 위한 단순한 공간입니다.</VBY_NeolithicManagerSpot.description>
+  <VBY_StoneManagerBench.label>석재 관리 작업대</VBY_StoneManagerBench.label>
+  <VBY_StoneManagerBench.description>거주지 작업을 보다 효율적으로 관리하기 위한 평평한 석재 작업대입니다.</VBY_StoneManagerBench.description>
+  <VBY_HayDoor.label>건초 문</VBY_HayDoor.label>
+  <VBY_HayDoor.description>짚을 이어 덮은 간단한 목조 틀입니다.</VBY_HayDoor.description>
+  <VBY_Hay_Wall.label>건초 벽</VBY_Hay_Wall.label>
+  <VBY_Hay_Wall.description>짚을 이어 덮은 기본적인 목조 틀입니다.</VBY_Hay_Wall.description>
+  <VBY_PotterySmall.label>소형 도자기</VBY_PotterySmall.label>
+  <VBY_PotterySmall.description>가마에 구운 도자기입니다.</VBY_PotterySmall.description>
+  <VBY_PotteryMed.label>중형 도자기</VBY_PotteryMed.label>
+  <VBY_PotteryMed.description>가마에 구운 도자기입니다.</VBY_PotteryMed.description>
+  <VBY_Haybed.label>건초 침대</VBY_Haybed.label>
+  <VBY_Haybed.description>건초로 만든 침대입니다. 부드럽긴 하지만 약간 따끔거립니다.</VBY_Haybed.description>
+  <VBY_Leatherbed.label>가죽 침대</VBY_Leatherbed.label>
+  <VBY_Leatherbed.description>나무 틀 위에 가죽을 팽팽하게 펼쳐 만든 침대입니다.</VBY_Leatherbed.description>
+  <VBY_DoubleHaybed.label>2인용 건초 침대</VBY_DoubleHaybed.label>
+  <VBY_DoubleHaybed.description>건초로 만든 침대입니다. 부드럽긴 하지만 약간 따끔거립니다. 두 명이 사용하기에 충분합니다.</VBY_DoubleHaybed.description>
+  <VBY_DoubleLeatherbed.label>2인용 가죽 침대</VBY_DoubleLeatherbed.label>
+  <VBY_DoubleLeatherbed.description>나무 틀 위에 가죽을 팽팽하게 펼쳐 만든 침대입니다. 두 명이 사용하기에 충분합니다.</VBY_DoubleLeatherbed.description>
+  <VBY_TripleHayBed.label>3인용 건초 침대</VBY_TripleHayBed.label>
+  <VBY_TripleHayBed.description>건초로 만든 침대입니다. 부드럽긴 하지만 약간 따끔거립니다. 세 명이 사용하기에 충분합니다.</VBY_TripleHayBed.description>
+  <VBY_TripleLeatherBed.label>3인용 가죽 침대</VBY_TripleLeatherBed.label>
+  <VBY_TripleLeatherBed.description>나무 틀 위에 가죽을 팽팽하게 펼쳐 만든 침대입니다. 세 명이 사용하기에 충분합니다.</VBY_TripleLeatherBed.description>
+  <VBY_HayCrib.label>원시 건초 요람</VBY_HayCrib.label>
+  <VBY_HayCrib.description>건초로 만든 요람입니다. 부드럽긴 하지만 약간 따끔거립니다. 아기에게 딱 들어맞는 크기입니다.</VBY_HayCrib.description>
+  <VBY_PrimitiveCraftingTable.label>원시 작업대</VBY_PrimitiveCraftingTable.label>
+  <VBY_PrimitiveCraftingTable.description>칼이나 활처럼 간단한 물건들을 제작하는 석조 작업대입니다. 작업대와 곁다리의 도구들은 땅바닥에서 조물거리는 것보다 훨씬 효과적입니다.</VBY_PrimitiveCraftingTable.description>
+  <VBY_PrimitiveButcherTable.label>원시 석조 도축 작업대</VBY_PrimitiveButcherTable.label>
+  <VBY_PrimitiveButcherTable.description>동물들을 도축하는 석조 작업대입니다. 작업대와 곁다리의 도구들은 땅바닥에서 도축하는 것보다 훨씬 효과적입니다.</VBY_PrimitiveButcherTable.description>
+  <VBY_PrimitiveKiln.label>원시 석조 가마</VBY_PrimitiveKiln.label>
+  <VBY_PrimitiveKiln.description>도자기나 그릇, 점토 따위를 만드는 데 쓰이는 석조 가마입니다.</VBY_PrimitiveKiln.description>
+  <VBY_PrimitiveTailoringTable.label>원시 재봉 작업대</VBY_PrimitiveTailoringTable.label>
+  <VBY_PrimitiveTailoringTable.description>손 도구 따위로 피륙을 짜는 데 쓰이는 석조 작업대입니다.</VBY_PrimitiveTailoringTable.description>
+  <VBY_PrimitiveStoneCuttingTable.label>원시 석재 절삭대</VBY_PrimitiveStoneCuttingTable.label>
+  <VBY_PrimitiveStoneCuttingTable.description>원시적인 도구로 바위를 깨부숴 석재를 가공하는 작업대입니다.</VBY_PrimitiveStoneCuttingTable.description>
+  <VBY_PrimitiveBrewery_HerbalistBench.label>원시 약초 작업대</VBY_PrimitiveBrewery_HerbalistBench.label>
+  <VBY_PrimitiveBrewery_HerbalistBench.description>약초나 묘약을 달이는 데 쓰이는 작업대입니다.</VBY_PrimitiveBrewery_HerbalistBench.description>
+  <VBY_PrimitiveMeleeWeaponTable.label>원시 근접 무기 조립대</VBY_PrimitiveMeleeWeaponTable.label>
+  <VBY_PrimitiveMeleeWeaponTable.description>기본적인 무기와 도구들을 제작하는 작업대입니다.</VBY_PrimitiveMeleeWeaponTable.description>
+  <VBY_PrimitiveRangedWeaponTable.label>원시 원거리 무기 조립대</VBY_PrimitiveRangedWeaponTable.label>
+  <VBY_PrimitiveRangedWeaponTable.description>원거리 무기를 만드는 데 쓰이는 작업대입니다.</VBY_PrimitiveRangedWeaponTable.description>
+  <VBY_PrimitiveResearchTable.label>원시 연구 작업대</VBY_PrimitiveResearchTable.label>
+  <VBY_PrimitiveResearchTable.description>흥미롭고 호기심이 동하는 것들을 연구하고 관찰하는 데 쓰이는 작업대입니다.</VBY_PrimitiveResearchTable.description>
+  <VBY_PrimitiveResearchSpot.label>원시 연구 장소</VBY_PrimitiveResearchSpot.label>
+  <VBY_PrimitiveResearchSpot.description>세상의 청사진을 곰곰이 다뤄 보는 장소입니다.</VBY_PrimitiveResearchSpot.description>
+  <VBY_PrimitiveToolBench.label>원시 도구 거치대</VBY_PrimitiveToolBench.label>
+  <VBY_PrimitiveToolBench.description>제작용 작업대 근처에 두면 작업 속도를 향상시킵니다. 작업대 하나당 최대 두 개의 거치대까지 효과를 끌어올릴 수 있습니다.</VBY_PrimitiveToolBench.description>
+  <VBY_PrimitiveTabletTable.label>원시 석판 거치대</VBY_PrimitiveTabletTable.label>
+  <VBY_PrimitiveTabletTable.description>연구 작업대나 연구 장소 근처에 두면 연구 속도를 향상시킵니다. 작업대나 장소 하나당 최대 두 개의 거치대까지 효과를 끌어 낼 수 있습니다.</VBY_PrimitiveTabletTable.description>
+  <VBY_PrimitiveSmithingTable.label>야금 작업대</VBY_PrimitiveSmithingTable.label>
+  <VBY_PrimitiveSmithingTable.description>도구나 무기로 쓰일 금속에 열을 가하고 녹여 망치질이나 틀 따위를 잡는 석조 작업대와 화덕입니다.</VBY_PrimitiveSmithingTable.description>
+  <VBY_PrimitiveLoom.label>원시 베틀</VBY_PrimitiveLoom.label>
+  <VBY_PrimitiveLoom.description>직조물을 생산하는 데 쓰이는 나무 구조물입니다.</VBY_PrimitiveLoom.description>
+  <VBY_Clay_Pot_TwoWaste.label>석조 도기</VBY_Clay_Pot_TwoWaste.label>
+  <VBY_Clay_Pot_TwoWaste.description>쓰레기를 버리는 석조 도기입니다. 저장용 도기보다 만드는 데에 시간이 덜 걸리며, 미관 보너스가 없습니다.</VBY_Clay_Pot_TwoWaste.description>
+  <VBY_Woven_BasketWaste.label>직조 도기</VBY_Woven_BasketWaste.label>
+  <VBY_Woven_BasketWaste.description>쓰레기를 버리는 직조 도기입니다. 저장용 바구니보다 만드는 데에 시간이 덜 걸리며, 미관 보너스가 없습니다.</VBY_Woven_BasketWaste.description>
+  <VBY_AnimalTotem.label>동물 토템</VBY_AnimalTotem.label>
+  <VBY_AnimalTotem.description>원시 인간들과 그들의 무한한 욕망, 그리고 동물의 원초성 사이를 영적으로 이어 주는 높은 장대입니다.</VBY_AnimalTotem.description>
+  <VBY_InsectTotem.label>곤충 토템</VBY_InsectTotem.label>
+  <VBY_InsectTotem.description>원시 인간들과 더불어 나아 가고 살아남고자 하는 그들의 집단 의식적 욕망 사이를 영적으로 이어 주는 높은 장대입니다.</VBY_InsectTotem.description>
+  <VBY_AnimalRimTotem.label>동물 지혜 토템</VBY_AnimalRimTotem.label>
+  <VBY_AnimalRimTotem.description>변경계에서 가장 숭배받고 추앙받는 동물들을 새겨 묘사한 높은 장대입니다.</VBY_AnimalRimTotem.description>
+  <VBY_BoneTotemMO.label>뼈 토템</VBY_BoneTotemMO.label>
+  <VBY_BoneTotemMO.description>뼈로 만든 높은 조각상입니다. 낯익은 형상이 보이나요?</VBY_BoneTotemMO.description>
+  <VBY_BambooFiber.label>대나무 섬유</VBY_BambooFiber.label>
+  <VBY_BambooFiber.description>대나무 섬유는 자연 분해되는 친환경 섬유입니다. 높은 강도와 내구성, 그리고 천연 항균성으로 익히 알려져 있습니다.</VBY_BambooFiber.description>
+  <VBY_CarnivoreTeeth.label>육식 동물 이빨</VBY_CarnivoreTeeth.label>
+  <VBY_CarnivoreTeeth.description>고기를 먹는 짐승들의 두개골에서 골라낸 이빨들로, 커다랗고 날카롭습니다.</VBY_CarnivoreTeeth.description>
+  <VBY_Haycloth.label>건초 직물</VBY_Haycloth.label>
+  <VBY_Haycloth.description>풀을 엮어 만든 천입니다.</VBY_Haycloth.description>
+  <VBY_BlocksAdobe.label>점토 벽돌</VBY_BlocksAdobe.label>
+  <VBY_BlocksAdobe.description>구운 점토의 벽돌입니다. 점토는 부드러우나 빠르고 쾌적한 거주지를 만드는 데에 안성맞춤입니다.</VBY_BlocksAdobe.description>
+  <VBY_BlocksAdobe.stuffProps.stuffAdjective>점토</VBY_BlocksAdobe.stuffProps.stuffAdjective>
+  <VBY_FlintKnife.label>부싯돌 단검</VBY_FlintKnife.label>
+  <VBY_FlintKnife.description>깎아 낸 긴 부싯돌 조각을 튼튼한 나무에 고정한 무기입니다. 날카롭고 실용적입니다.</VBY_FlintKnife.description>
+  <VBY_FlintKnife.tools.0.label>손잡이</VBY_FlintKnife.tools.0.label>
+  <VBY_FlintKnife.tools.1.label>날</VBY_FlintKnife.tools.1.label>
+  <VBY_FlintKnife.tools.2.label>촉</VBY_FlintKnife.tools.2.label>
+  <VBY_FlintSpear.label>부싯돌 창</VBY_FlintSpear.label>
+  <VBY_FlintSpear.description>끝에 부싯돌 조각을 엮은 단단한 나무 창입니다. 사냥이나 정착지 방어에 적합합니다.</VBY_FlintSpear.description>
+  <VBY_FlintSpear.tools.0.label>자루</VBY_FlintSpear.tools.0.label>
+  <VBY_FlintSpear.tools.1.label>촉</VBY_FlintSpear.tools.1.label>
+  <VBY_SharpStick.label>뾰족한 막대기</VBY_SharpStick.label>
+  <VBY_SharpStick.description>한쪽 끝을 뾰족하게 깎아 만든 조잡한 나무 무기입니다.</VBY_SharpStick.description>
+  <VBY_SharpStick.tools.0.label>자루</VBY_SharpStick.tools.0.label>
+  <VBY_SharpStick.tools.1.label>촉</VBY_SharpStick.tools.1.label>
+  <VBY_BambooFlintSpear.label>대나무 부싯돌 창</VBY_BambooFlintSpear.label>
+  <VBY_BambooFlintSpear.description>끝에 부싯돌 조각을 엮은 단단한 대나무 창입니다. 사냥이나 정착지 방어에 적합합니다.</VBY_BambooFlintSpear.description>
+  <VBY_BambooFlintSpear.tools.0.label>자루</VBY_BambooFlintSpear.tools.0.label>
+  <VBY_BambooFlintSpear.tools.1.label>촉</VBY_BambooFlintSpear.tools.1.label>
+  <VBY_FangClub.label>송곳니 둔기</VBY_FangClub.label>
+  <VBY_FangClub.description>육식 동물의 송곳니를 나무 손잡이에 고정한 무기입니다. 한쪽으로는 후려치고, 다른 쪽으로는 찌를 수 있습니다.</VBY_FangClub.description>
+  <VBY_FangClub.tools.0.label>손잡이</VBY_FangClub.tools.0.label>
+  <VBY_FangClub.tools.1.label>등면</VBY_FangClub.tools.1.label>
+  <VBY_FangClub.tools.2.label>송곳니 면</VBY_FangClub.tools.2.label>
+  <VBY_ToothAxe.label>이빨 도끼</VBY_ToothAxe.label>
+  <VBY_ToothAxe.description>육식 동물의 이빨을 나무 손잡이에 톱니 모양으로 고정한 도끼입니다. 나무를 베고 두개골을 동강 내는 데 좋습니다.</VBY_ToothAxe.description>
+  <VBY_ToothAxe.tools.0.label>손잡이</VBY_ToothAxe.tools.0.label>
+  <VBY_ToothAxe.tools.1.label>톱니 날</VBY_ToothAxe.tools.1.label>
+  <VBY_ToothClub.label>이빨 둔기</VBY_ToothClub.label>
+  <VBY_ToothClub.description>점점 가늘어지는 나무 막대의 무게감 있는 끝부분에 육식동물의 이빨을 고정한 무기입니다. 균형 잡힌 형태 덕분에 이빨의 관통력뿐만 아니라 강한 타격력도 함께 냅니다.</VBY_ToothClub.description>
+  <VBY_ToothClub.tools.0.label>손잡이</VBY_ToothClub.tools.0.label>
+  <VBY_ToothClub.tools.1.label>끄트머리</VBY_ToothClub.tools.1.label>
+  <VBY_ThrumboChopper.label>트럼보 낫</VBY_ThrumboChopper.label>
+  <VBY_ThrumboChopper.description>트럼보의 커다란 뿔을 길고 단단한 나무에 튼튼하게 고정해 만든 양손 장병기입니다.</VBY_ThrumboChopper.description>
+  <VBY_ThrumboChopper.tools.0.label>손잡이</VBY_ThrumboChopper.tools.0.label>
+  <VBY_ThrumboChopper.tools.1.label>끄트머리</VBY_ThrumboChopper.tools.1.label>
+  <VBY_Sugliin.label>거대 장대</VBY_Sugliin.label>
+  <VBY_Sugliin.description>악명 높은 거대 장대는 실용적인 무기라기보다 적의 심장에 공포를 심기 위해 원시 부족들이 만들어 낸 무기입니다. 이 거대한 장병기는 길다란 나무 자루에 여러 벌의 날카롭게 벼린 뿔을 고정해 만든 것입니다. 거대 장대는 커다란 도끼나 낫처럼 휘둘러 넓은 궤적으로 베고 찍습니다. 느리고 다루기 어렵고 무겁습니다.</VBY_Sugliin.description>
+  <VBY_Sugliin.tools.0.label>날</VBY_Sugliin.tools.0.label>
+  <VBY_Boomerang.label>부메랑</VBY_Boomerang.label>
+  <VBY_Boomerang.description>던졌을 때 가능한 한 곧게 날아가도록 다듬은 나무 조각입니다. 동물이나 적을 멀리서도 강하게 후려치기 위해 던지도록 만들어졌습니다.</VBY_Boomerang.description>
+  <VBY_Boomerang.verbs.Verb_Shoot.label>부메랑 던지기</VBY_Boomerang.verbs.Verb_Shoot.label>
+  <VBY_Boomerang.tools.0.label>부메랑</VBY_Boomerang.tools.0.label>
+  <VBY_BoomerangProjectile.label>부메랑</VBY_BoomerangProjectile.label>
+  <VBY_RabbitStick.label>곡형 부메랑</VBY_RabbitStick.label>
+  <VBY_RabbitStick.description>던지기용 막대기의 또 다른 형태로, 곡형 부메랑은 직선적이고 강한 궤적으로 날아가도록 만들어졌습니다. 동물이나 적을 멀리서도 후려치기 위해 사용합니다.</VBY_RabbitStick.description>
+  <VBY_RabbitStick.verbs.Verb_Shoot.label>곡형 부메랑 던지기</VBY_RabbitStick.verbs.Verb_Shoot.label>
+  <VBY_RabbitStick.tools.0.label>부메랑</VBY_RabbitStick.tools.0.label>
+  <VBY_RabbitStick_Projectile.label>곡형 부메랑</VBY_RabbitStick_Projectile.label>
+  <VBY_ThrowingRocks.label>투석용 돌</VBY_ThrowingRocks.label>
+  <VBY_ThrowingRocks.description>투석용에 적합한 무게와 크기의 돌을 모은 것입니다.</VBY_ThrowingRocks.description>
+  <VBY_ThrowingRocks.verbs.Verb_Shoot.label>돌 던지기</VBY_ThrowingRocks.verbs.Verb_Shoot.label>
+  <VBY_ThrowingRocks.tools.0.label>돌</VBY_ThrowingRocks.tools.0.label>
+  <VBY_ThrownRockProjectile.label>돌</VBY_ThrownRockProjectile.label>
+  <VBY_Atlatl.label>아틀라틀</VBY_Atlatl.label>
+  <VBY_Atlatl.description>홈이 파인 화살을 걸어 쥘 수 있도록 깎아 만든 나무 도구입니다. 이를 통해 화살을 더 큰 힘과 지렛대로 던질 수 있습니다.</VBY_Atlatl.description>
+  <VBY_Atlatl.verbs.Verb_Shoot.label>화살 던지기</VBY_Atlatl.verbs.Verb_Shoot.label>
+  <VBY_Atlatl.tools.0.label>손잡이</VBY_Atlatl.tools.0.label>
+  <VBY_AtlatlArrowProjectile.label>화살</VBY_AtlatlArrowProjectile.label>
+  <VBY_ClayPaste.label>젖은 점토 덩이</VBY_ClayPaste.label>
+  <VBY_ClayPaste.description>진흙과 건초 따위를 물과 함께 섞어 뭉친 덩이입니다. 가마에 구워 벽돌로 만들 수 있습니다.</VBY_ClayPaste.description>
+  <VBY_DoorMatHayCloth.label>흙털개 (건초 직물)</VBY_DoorMatHayCloth.label>
+  <VBY_DoorMatHayClothSmall.label>흙털개 (건초 직물)</VBY_DoorMatHayClothSmall.label>
+  <VBY_DoorMatHCS.label>소형 흙털개 (건초 직물)</VBY_DoorMatHCS.label>
+  <VBY_DoorMatHCM.label>중형 흙털개 (건초 직물)</VBY_DoorMatHCM.label>
+  <VBY_DoorMatHCL.label>대형 흙털개 (건초 직물)</VBY_DoorMatHCL.label>
+  <VBY_DoorMatRedHCLK.label>연결형 흙털개 (건초 직물)</VBY_DoorMatRedHCLK.label>
+  <VBY_PrimitiveStylingStation.label>원시 화장대</VBY_PrimitiveStylingStation.label>
+  <VBY_PrimitiveStylingStation.description>연마된 돌 거울과 부싯돌로 만든 도구가 있는 화장대입니다. 이를 통해 외형을 바꿀 수 있습니다.</VBY_PrimitiveStylingStation.description>
+</LanguageData>

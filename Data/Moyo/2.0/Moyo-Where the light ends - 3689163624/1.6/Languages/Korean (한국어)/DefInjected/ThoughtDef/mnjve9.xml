@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IngestedOilyYellowBloodBag.stages.0.label>기름진 노란 혈액팩 섭취</IngestedOilyYellowBloodBag.stages.0.label>
+  <IngestedOilyYellowBloodBag.stages.0.description>혈액에 섞인 화학연료 때문에 맛이 그냥 먹는 것보다 훨씬 더 역겨워.</IngestedOilyYellowBloodBag.stages.0.description>
+  <IngestedYellowBloodBag.stages.0.label>노란 혈액팩 섭취</IngestedYellowBloodBag.stages.0.label>
+  <IngestedYellowBloodBag.stages.0.description>역겹네. 그냥 굶는 게 나았어.</IngestedYellowBloodBag.stages.0.description>
+
+  <HadalMoyo_ColonistLeftUnburied.stages.0.label>방치된 동료의 시신</HadalMoyo_ColonistLeftUnburied.stages.0.label>
+  <HadalMoyo_ColonistLeftUnburied.stages.0.description>우리 동료가 죽었는데 아무도 신경 안 써? 이건 용납 못 해. 쓰러진 이들을 기억하고 제대로 묻어줘야 한다고.</HadalMoyo_ColonistLeftUnburied.stages.0.description>
+  <HadalMoyo_SoakingWet.stages.0.label>흠뻑 젖음</HadalMoyo_SoakingWet.stages.0.label>
+  <HadalMoyo_SoakingWet.stages.0.description>기분 좋은 느낌이야...</HadalMoyo_SoakingWet.stages.0.description>
+  <HadalMoyo_EnvironmentDark.stages.0.label>어둠</HadalMoyo_EnvironmentDark.stages.0.label>
+  <HadalMoyo_EnvironmentDark.stages.0.description>심해는 여기보다 더 어두웠지. 다시 그곳으로 돌아갈 수 있을까?</HadalMoyo_EnvironmentDark.stages.0.description>
+
+  <HadalMoyo_Pain.stages.0.label>가벼운 고통</HadalMoyo_Pain.stages.0.label>
+  <HadalMoyo_Pain.stages.0.description>흥, 살짝 스쳤을 뿐이야...</HadalMoyo_Pain.stages.0.description>
+  <HadalMoyo_Pain.stages.1.label>심각한 고통</HadalMoyo_Pain.stages.1.label>
+  <HadalMoyo_Pain.stages.1.description>성가시네...</HadalMoyo_Pain.stages.1.description>
+  <HadalMoyo_Pain.stages.2.label>극심한 고통</HadalMoyo_Pain.stages.2.label>
+  <HadalMoyo_Pain.stages.2.description>이건... 좀 아픈데.</HadalMoyo_Pain.stages.2.description>
+  <HadalMoyo_Pain.stages.3.label>정신이 찢어지는 고통</HadalMoyo_Pain.stages.3.label>
+  <HadalMoyo_Pain.stages.3.description>진짜 아파... 너무 아프다고.</HadalMoyo_Pain.stages.3.description>
+
+  <HadalMoyo_Aurora.stages.0.label>아름다운 오로라</HadalMoyo_Aurora.stages.0.label>
+  <HadalMoyo_Aurora.stages.0.description>정말 아름다운 하늘이야...</HadalMoyo_Aurora.stages.0.description>
+  <HadalMoyo_ToxicFallout.stages.0.label>독성 낙진</HadalMoyo_ToxicFallout.stages.0.label>
+  <HadalMoyo_ToxicFallout.stages.0.description>역겨워. 눈인 척하는 저 녹색 조각들은 사실 주변의 모든 아름다움을 파괴하는 독이야. 나한테도 해롭고.</HadalMoyo_ToxicFallout.stages.0.description>
+  <HadalMoyo_HitbyEMP.stages.0.label>EMP 충격</HadalMoyo_HitbyEMP.stages.0.label>
+  <HadalMoyo_HitbyEMP.stages.0.description>고작 이 정도로 우쭐대지 마...!</HadalMoyo_HitbyEMP.stages.0.description>
+  <HadalMoyo_Joyfuzz.stages.0.label>쾌락 잔향</HadalMoyo_Joyfuzz.stages.0.label>
+  <HadalMoyo_Joyfuzz.stages.0.description>전부 그렇게 나쁘기만 한 건 아닐지도 몰라...</HadalMoyo_Joyfuzz.stages.0.description>
+
+  <HadalMoyo_MoodOffsetDesperate.stages.0.label>절망</HadalMoyo_MoodOffsetDesperate.stages.0.label>
+  <HadalMoyo_MoodOffsetDesperate.stages.0.description>돌아갈 곳은 없어.</HadalMoyo_MoodOffsetDesperate.stages.0.description>
+  <HadalMoyo_MoodOffsetOutcast.stages.0.label>강인한 의지</HadalMoyo_MoodOffsetOutcast.stages.0.label>
+  <HadalMoyo_MoodOffsetOutcast.stages.0.description>나는 극복하고 더 먼 곳으로 나아갈 거야.</HadalMoyo_MoodOffsetOutcast.stages.0.description>
+
+  <HadalMoyo_PsychicDrone.stages.0.label>편안한 정신 파동</HadalMoyo_PsychicDrone.stages.0.label>
+  <HadalMoyo_PsychicDrone.stages.0.description>부드럽고 달콤한 척하는 이 가식적인 목소리는 거짓말만 하고 있어.</HadalMoyo_PsychicDrone.stages.0.description>
+  <HadalMoyo_PsychicDrone.stages.1.label>괴로운 정신 파동(약함)</HadalMoyo_PsychicDrone.stages.1.label>
+  <HadalMoyo_PsychicDrone.stages.1.description>누군가 내게 속삭이면서 무언가를 시키려는 게 느껴져. 뭐, 적어도 신선하긴 하네.</HadalMoyo_PsychicDrone.stages.1.description>
+  <HadalMoyo_PsychicDrone.stages.2.label>괴로운 정신 파동(중간)</HadalMoyo_PsychicDrone.stages.2.label>
+  <HadalMoyo_PsychicDrone.stages.2.description>이 목소리가 남들을 해치라고 하네. 꽤 흥미로운데, 내 목소리도 저쪽에 들렸으면 좋겠어.</HadalMoyo_PsychicDrone.stages.2.description>
+  <HadalMoyo_PsychicDrone.stages.3.label>괴로운 정신 파동(강함)</HadalMoyo_PsychicDrone.stages.3.label>
+  <HadalMoyo_PsychicDrone.stages.3.description>성가셔. 그래도 귀에 거슬리는 '소외된 자'의 목소리를 덮어주니까 견딜 만해.</HadalMoyo_PsychicDrone.stages.3.description>
+  <HadalMoyo_PsychicDrone.stages.4.label>괴로운 정신 파동(극심함)</HadalMoyo_PsychicDrone.stages.4.label>
+  <HadalMoyo_PsychicDrone.stages.4.description>목소리가 아주 크고 확신에 차서 명령을 내리고 있어. 적어도 내가 잊히지는 않았다는 뜻이겠지. 그래도 짜증 나.</HadalMoyo_PsychicDrone.stages.4.description>
+
+  <HadalMoyo_Despaired.stages.0.label>갉아먹는 감정</HadalMoyo_Despaired.stages.0.label>
+  <HadalMoyo_Despaired.stages.0.description>내가 버려졌다는 건 잘 알고 있어.</HadalMoyo_Despaired.stages.0.description>
+  <HadalMoyo_Resurrected.stages.0.label>부활함</HadalMoyo_Resurrected.stages.0.label>
+  <HadalMoyo_Resurrected.stages.0.description>푸른 지옥에서 다시 전장으로 돌아왔어.</HadalMoyo_Resurrected.stages.0.description>
+
+  <HadalMoyo_Expectations.stages.0.label>가라앉은 기대치</HadalMoyo_Expectations.stages.0.label>
+  <HadalMoyo_Expectations.stages.0.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.0.description>
+  <HadalMoyo_Expectations.stages.1.label>가라앉은 기대치</HadalMoyo_Expectations.stages.1.label>
+  <HadalMoyo_Expectations.stages.1.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.1.description>
+  <HadalMoyo_Expectations.stages.2.label>가라앉은 기대치</HadalMoyo_Expectations.stages.2.label>
+  <HadalMoyo_Expectations.stages.2.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.2.description>
+  <HadalMoyo_Expectations.stages.3.label>가라앉은 기대치</HadalMoyo_Expectations.stages.3.label>
+  <HadalMoyo_Expectations.stages.3.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.3.description>
+  <HadalMoyo_Expectations.stages.4.label>가라앉은 기대치</HadalMoyo_Expectations.stages.4.label>
+  <HadalMoyo_Expectations.stages.4.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.4.description>
+  <HadalMoyo_Expectations.stages.5.label>가라앉은 기대치</HadalMoyo_Expectations.stages.5.label>
+  <HadalMoyo_Expectations.stages.5.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.5.description>
+  <HadalMoyo_Expectations.stages.6.label>절망적인 기대치</HadalMoyo_Expectations.stages.6.label>
+  <HadalMoyo_Expectations.stages.6.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.6.description>
+  <HadalMoyo_Expectations.stages.7.label>절망적인 기대치</HadalMoyo_Expectations.stages.7.label>
+  <HadalMoyo_Expectations.stages.7.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.7.description>
+  <HadalMoyo_Expectations.stages.8.label>절망적인 기대치</HadalMoyo_Expectations.stages.8.label>
+  <HadalMoyo_Expectations.stages.8.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.8.description>
+  <HadalMoyo_Expectations.stages.9.label>절망적인 기대치</HadalMoyo_Expectations.stages.9.label>
+  <HadalMoyo_Expectations.stages.9.description>그 어떤 것도 내겐 중요하지 않아.</HadalMoyo_Expectations.stages.9.description>
+</LanguageData>

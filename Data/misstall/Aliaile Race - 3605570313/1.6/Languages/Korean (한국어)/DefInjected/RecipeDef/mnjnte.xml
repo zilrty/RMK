@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<AR_MiniMecA_Baiyou.jobString>마톤 배양 중</AR_MiniMecA_Baiyou.jobString>
+  <AR_MiniMecA_Baiyou.label>가사 노동 마톤 배양</AR_MiniMecA_Baiyou.label>
+  <AR_MiniMecA_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_MiniMecA_Baiyou.description>
+  <AR_MiniMecB_Baiyou.jobString>마톤 배양 중</AR_MiniMecB_Baiyou.jobString>
+  <AR_MiniMecB_Baiyou.label>현장 노동 마톤 배양</AR_MiniMecB_Baiyou.label>
+  <AR_MiniMecB_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_MiniMecB_Baiyou.description>
+  <AR_MiniMecC_Baiyou.jobString>마톤 배양 중</AR_MiniMecC_Baiyou.jobString>
+  <AR_MiniMecC_Baiyou.label>실외 노동 마톤 배양</AR_MiniMecC_Baiyou.label>
+  <AR_MiniMecC_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_MiniMecC_Baiyou.description>
+  <AR_MiniMecD_Baiyou.jobString>마톤 배양 중</AR_MiniMecD_Baiyou.jobString>
+  <AR_MiniMecD_Baiyou.label>경비 보조 마톤 배양</AR_MiniMecD_Baiyou.label>
+  <AR_MiniMecD_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_MiniMecD_Baiyou.description>
+  <AR_MiniMecE_Baiyou.jobString>마톤 배양 중</AR_MiniMecE_Baiyou.jobString>
+  <AR_MiniMecE_Baiyou.label>간호 보조 마톤 배양</AR_MiniMecE_Baiyou.label>
+  <AR_MiniMecE_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_MiniMecE_Baiyou.description>
+  <AR_MidMecA_Baiyou.jobString>마톤 배양 중</AR_MidMecA_Baiyou.jobString>
+  <AR_MidMecA_Baiyou.label>군용 마톤(경보병) 배양</AR_MidMecA_Baiyou.label>
+  <AR_MidMecA_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_MidMecA_Baiyou.description>
+  <AR_MidMecB_Baiyou.jobString>마톤 배양 중</AR_MidMecB_Baiyou.jobString>
+  <AR_MidMecB_Baiyou.label>군용 마톤(기관총병) 배양</AR_MidMecB_Baiyou.label>
+  <AR_MidMecB_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_MidMecB_Baiyou.description>
+  <AR_MidMecC_Baiyou.jobString>마톤 배양 중</AR_MidMecC_Baiyou.jobString>
+  <AR_MidMecC_Baiyou.label>군용 마톤(돌격병) 배양</AR_MidMecC_Baiyou.label>
+  <AR_MidMecC_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_MidMecC_Baiyou.description>
+  <AR_HevMecA_Baiyou.jobString>마톤 배양 중</AR_HevMecA_Baiyou.jobString>
+  <AR_HevMecA_Baiyou.label>군용 다족 마톤(2연장 기관총) 배양</AR_HevMecA_Baiyou.label>
+  <AR_HevMecA_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_HevMecA_Baiyou.description>
+  <AR_HevMecB_Baiyou.jobString>마톤 배양 중</AR_HevMecB_Baiyou.jobString>
+  <AR_HevMecB_Baiyou.label>군용 다족 마톤(기관포) 배양</AR_HevMecB_Baiyou.label>
+  <AR_HevMecB_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_HevMecB_Baiyou.description>
+  <AR_HevMecC_Baiyou.jobString>마톤 배양 중</AR_HevMecC_Baiyou.jobString>
+  <AR_HevMecC_Baiyou.label>군용 다족 마톤(모선) 배양</AR_HevMecC_Baiyou.label>
+  <AR_HevMecC_Baiyou.description>밀리터급 메카노이드를 배양합니다.</AR_HevMecC_Baiyou.description>
+  <AR_ResurrectLightMech.label>소형 마톤 소생</AR_ResurrectLightMech.label>
+  <AR_ResurrectLightMech.description>경량급 아군 메카노이드를 소생시킵니다. 본체가 완전히 파괴되지 않았다면 소생이 가능합니다.</AR_ResurrectLightMech.description>
+  <AR_ResurrectMediumMech.label>군용 마톤 소생</AR_ResurrectMediumMech.label>
+  <AR_ResurrectMediumMech.description>경량급 아군 메카노이드를 소생시킵니다. 본체가 완전히 파괴되지 않았다면 소생이 가능합니다.</AR_ResurrectMediumMech.description>
+  <AR_ResurrectHeavyMech.label>다족 마톤 소생</AR_ResurrectHeavyMech.label>
+  <AR_ResurrectHeavyMech.description>경량급 아군 메카노이드를 소생시킵니다. 본체가 완전히 파괴되지 않았다면 소생이 가능합니다.</AR_ResurrectHeavyMech.description>
+  <AR_AdministerMechSerumHealer.label>생명의 파편 투여</AR_AdministerMechSerumHealer.label>
+  <AR_AdministerMechSerumHealer.description>생명의 파편을 투여합니다.</AR_AdministerMechSerumHealer.description>
+  <AR_AdministerMechSerumHealer.jobString>생명의 파편 투여 중</AR_AdministerMechSerumHealer.jobString>
+  <AR_Cooksynthemeat.label>베리 고기 x10 생산</AR_Cooksynthemeat.label>
+  <AR_Cooksynthemeat.description>베리 고기를 요리합니다.</AR_Cooksynthemeat.description>
+  <AR_Cooksynthemeat.jobString>베리 고기 생산 중</AR_Cooksynthemeat.jobString>
+  <AR_CooksynthemeatBulk.label>베리 고기 x100 대량 생산</AR_CooksynthemeatBulk.label>
+  <AR_CooksynthemeatBulk.description>베리 고기를 요리합니다.</AR_CooksynthemeatBulk.description>
+  <AR_CooksynthemeatBulk.jobString>베리 고기 생산 중</AR_CooksynthemeatBulk.jobString>
+  <AR_MakeMedicineBasic.label>구급 상자 제작</AR_MakeMedicineBasic.label>
+  <AR_MakeMedicineBasic.description>구급 상자를 제작합니다.</AR_MakeMedicineBasic.description>
+  <AR_MakeMedicineBasic.jobString>구급 상자 제작 중</AR_MakeMedicineBasic.jobString>
+  <AR_MakeMedicineBasicbulk.label>구급 상자 x4 제작</AR_MakeMedicineBasicbulk.label>
+  <AR_MakeMedicineBasicbulk.description>구급 상자를 제작합니다.</AR_MakeMedicineBasicbulk.description>
+  <AR_MakeMedicineBasicbulk.jobString>구급 상자 제작 중</AR_MakeMedicineBasicbulk.jobString>
+  <AR_MakeMedicineAdvance.label>개량형 의약품 제작</AR_MakeMedicineAdvance.label>
+  <AR_MakeMedicineAdvance.description>개량형 의약품을 제작합니다.</AR_MakeMedicineAdvance.description>
+  <AR_MakeMedicineAdvance.jobString>개량형 의약품 제작 중</AR_MakeMedicineAdvance.jobString>
+  <AR_MakeMedicineAdvancebulk.label>개량형 의약품 x4 제작</AR_MakeMedicineAdvancebulk.label>
+  <AR_MakeMedicineAdvancebulk.description>개량형 의약품을 제작합니다.</AR_MakeMedicineAdvancebulk.description>
+  <AR_MakeMedicineAdvancebulk.jobString>개량형 의약품 x4 제작 중</AR_MakeMedicineAdvancebulk.jobString>
+  <AR_MakeOkoA.label>명상향 제작</AR_MakeOkoA.label>
+  <AR_MakeOkoA.description>명상향을 제작합니다.</AR_MakeOkoA.description>
+  <AR_MakeOkoA.jobString>명상향 제작 중</AR_MakeOkoA.jobString>
+  <AR_MakeOkoB.label>살균향 제작</AR_MakeOkoB.label>
+  <AR_MakeOkoB.description>살균향을 제작합니다.</AR_MakeOkoB.description>
+  <AR_MakeOkoB.jobString>살균향 제작 중</AR_MakeOkoB.jobString>
+  <AR_MakeOkoC.label>노동향 제작</AR_MakeOkoC.label>
+  <AR_MakeOkoC.description>노동향을 제작합니다.</AR_MakeOkoC.description>
+  <AR_MakeOkoC.jobString>노동향 제작 중</AR_MakeOkoC.jobString>
+  <AR_Makemoonblock.label>문스톤 굽기</AR_Makemoonblock.label>
+  <AR_Makemoonblock.description>석재를 천사의 눈물에 적신 천으로 감싸 굽습니다.</AR_Makemoonblock.description>
+  <AR_Makemoonblock.jobString>문스톤 굽는 중</AR_Makemoonblock.jobString>
+  <AR_Make_MGparts.label>포탑 예비 부품 제조</AR_Make_MGparts.label>
+  <AR_Make_MGparts.description>포탑 공병 외골격 등 포탑 설치 장비의 재장전에 사용하는 포탑 예비 부품을 제조합니다.</AR_Make_MGparts.description>
+  <AR_Make_MGparts.jobString>포탑 예비 부품 제조 중</AR_Make_MGparts.jobString>
+  <AR_Make_SDparts.label>보호막 예비 부품 제조</AR_Make_SDparts.label>
+  <AR_Make_SDparts.description>보호막 공병 외골격 등 보호막 설치 장비의 재장전에 사용하는 보호막 예비 부품을 제조합니다.</AR_Make_SDparts.description>
+  <AR_Make_SDparts.jobString>보호막 예비 부품 제조 중</AR_Make_SDparts.jobString>
+  <AR_CookMealSimple.label>알리아일식 간단한 식사</AR_CookMealSimple.label>
+  <AR_CookMealSimple.description>단일 식재료를 와인과 곁들여 요리합니다.</AR_CookMealSimple.description>
+  <AR_CookMealSimple.jobString>알리아일식 간단한 식사 조리 중</AR_CookMealSimple.jobString>
+  <AR_CookMealSimpleBulk.label>알리아일식 간단한 식사 x4</AR_CookMealSimpleBulk.label>
+  <AR_CookMealSimpleBulk.description>간단한 식사 4개를 조리합니다.</AR_CookMealSimpleBulk.description>
+  <AR_CookMealSimpleBulk.jobString>간단한 식사 4개 조리 중</AR_CookMealSimpleBulk.jobString>
+  <AR_CookMealFine.label>알리아일식 좋은 식사</AR_CookMealFine.label>
+  <AR_CookMealFine.description>와인을 듬뿍 사용한 알리아일식 요리를 조리합니다.</AR_CookMealFine.description>
+  <AR_CookMealFine.jobString>알리아일식 좋은 식사 조리 중</AR_CookMealFine.jobString>
+  <AR_CookMealFine.ingredients.0.filter.customSummary>단백질</AR_CookMealFine.ingredients.0.filter.customSummary>
+  <AR_CookMealFine_Veg.label>알리아일식 채소 요리</AR_CookMealFine_Veg.label>
+  <AR_CookMealFine_Veg.description>와인을 듬뿍 사용한 알리아일식 채소 요리를 조리합니다.</AR_CookMealFine_Veg.description>
+  <AR_CookMealFine_Veg.jobString>알리아일식 채소 요리 조리 중</AR_CookMealFine_Veg.jobString>
+  <AR_CookMealFine_Veg.ingredients.0.filter.customSummary>채식 재료</AR_CookMealFine_Veg.ingredients.0.filter.customSummary>
+  <AR_CookMealFine_Meat.label>알리아일식 고기 요리</AR_CookMealFine_Meat.label>
+  <AR_CookMealFine_Meat.description>와인을 듬뿍 사용한 알리아일식 고기 요리를 조리합니다.</AR_CookMealFine_Meat.description>
+  <AR_CookMealFine_Meat.jobString>알리아일식 고기 요리 조리 중</AR_CookMealFine_Meat.jobString>
+  <AR_CookMealFineBulk.label>알리아일식 요리 x4</AR_CookMealFineBulk.label>
+  <AR_CookMealFineBulk.description>와인을 듬뿍 사용한 알리아일식 요리 4개를 조리합니다.</AR_CookMealFineBulk.description>
+  <AR_CookMealFineBulk.jobString>알리아일식 요리 x4 조리 중</AR_CookMealFineBulk.jobString>
+  <AR_CookMealFineBulk.ingredients.0.filter.customSummary>단백질</AR_CookMealFineBulk.ingredients.0.filter.customSummary>
+  <AR_CookMealFineBulk_Meat.label>알리아일식 고기 요리 x4</AR_CookMealFineBulk_Meat.label>
+  <AR_CookMealFineBulk_Meat.description>와인을 듬뿍 사용한 알리아일식 요리 4개를 조리합니다.</AR_CookMealFineBulk_Meat.description>
+  <AR_CookMealFineBulk_Meat.jobString>알리아일식 고기 요리 x4 조리 중</AR_CookMealFineBulk_Meat.jobString>
+  <AR_CookMealFineBulk_Veg.label>알리아일식 야채 요리 x4</AR_CookMealFineBulk_Veg.label>
+  <AR_CookMealFineBulk_Veg.description>와인을 듬뿍 사용한 알리아일식 요리 4개를 조리합니다.</AR_CookMealFineBulk_Veg.description>
+  <AR_CookMealFineBulk_Veg.jobString>알리아일식 야채 요리 x4 조리 중</AR_CookMealFineBulk_Veg.jobString>
+  <AR_CookMealFineBulk_Veg.ingredients.0.filter.customSummary>채식 재료</AR_CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  <AR_CookMealLavish.label>알리아일식 호화로운 식사</AR_CookMealLavish.label>
+  <AR_CookMealLavish.description>와인을 사치스럽게 사용한 알리아일식 호화로운 요리를 조리합니다.</AR_CookMealLavish.description>
+  <AR_CookMealLavish.jobString>알리아일식 호화로운 요리 조리 중</AR_CookMealLavish.jobString>
+  <AR_CookMealLavish.ingredients.0.filter.customSummary>단백질</AR_CookMealLavish.ingredients.0.filter.customSummary>
+  <AR_CookMealLavish_Meat.label>알리아일식 호화로운 고기 요리</AR_CookMealLavish_Meat.label>
+  <AR_CookMealLavish_Meat.description>와인을 사치스럽게 사용한 알리아일식 호화로운 요리를 조리합니다.</AR_CookMealLavish_Meat.description>
+  <AR_CookMealLavish_Meat.jobString>알리아일식 호화로운 고기 요리 조리 중</AR_CookMealLavish_Meat.jobString>
+  <AR_CookMealLavish_Veg.label>알리아일식 호화로운 야채 요리</AR_CookMealLavish_Veg.label>
+  <AR_CookMealLavish_Veg.description>와인을 사치스럽게 사용한 알리아일식 호화로운 요리를 조리합니다.</AR_CookMealLavish_Veg.description>
+  <AR_CookMealLavish_Veg.jobString>알리아일식 호화로운 야채 요리 조리 중</AR_CookMealLavish_Veg.jobString>
+  <AR_CookMealLavish_Veg.ingredients.0.filter.customSummary>채식 식재료</AR_CookMealLavish_Veg.ingredients.0.filter.customSummary>
+  <AR_CookMealLavishBulk.label>알리아일식 호화로운 식사 x4</AR_CookMealLavishBulk.label>
+  <AR_CookMealLavishBulk.description>와인을 사치스럽게 사용한 알리아일식 호화로운 요리를 조리합니다.</AR_CookMealLavishBulk.description>
+  <AR_CookMealLavishBulk.jobString>알리아일식 호화로운 식사 x4 조리 중</AR_CookMealLavishBulk.jobString>
+  <AR_CookMealLavishBulk.ingredients.0.filter.customSummary>단백질</AR_CookMealLavishBulk.ingredients.0.filter.customSummary>
+  <AR_CookMealLavishBulk_Veg.label>알리아일식 호화로운 야채 요리 x4</AR_CookMealLavishBulk_Veg.label>
+  <AR_CookMealLavishBulk_Veg.description>와인을 사치스럽게 사용한 알리아일식 호화로운 요리를 조리합니다.</AR_CookMealLavishBulk_Veg.description>
+  <AR_CookMealLavishBulk_Veg.jobString>알리아일식 호화로운 야채 요리 x4 조리 중</AR_CookMealLavishBulk_Veg.jobString>
+  <AR_CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>채식 식재료</AR_CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  <AR_CookMealLavishBulk_Meat.label>알리아일식 호화로운 고기 요리 x4</AR_CookMealLavishBulk_Meat.label>
+  <AR_CookMealLavishBulk_Meat.description>와인을 사치스럽게 사용한 알리아일식 호화로운 요리를 조리합니다.</AR_CookMealLavishBulk_Meat.description>
+  <AR_CookMealLavishBulk_Meat.jobString>알리아일식 호화로운 고기 요리 x4 조리 중</AR_CookMealLavishBulk_Meat.jobString>
+  <AR_CookMealSurvival.label>알리아일 도시락</AR_CookMealSurvival.label>
+  <AR_CookMealSurvival.description>와인으로 조리된 알리아일식 비상 식량을 조리합니다.</AR_CookMealSurvival.description>
+  <AR_CookMealSurvival.jobString>알리아일식 도시락 조리 중</AR_CookMealSurvival.jobString>
+  <AR_CookMealSurvivalBulk.label>알리아일식 도시락 x4</AR_CookMealSurvivalBulk.label>
+  <AR_CookMealSurvivalBulk.description>와인으로 조리된 알리아일식 도시락을 조리합니다.</AR_CookMealSurvivalBulk.description>
+  <AR_CookMealSurvivalBulk.jobString>알리아일식 도시락 x4 조리 중</AR_CookMealSurvivalBulk.jobString>
+  <AR_SeimeiHahen.label>생명의 파편</AR_SeimeiHahen.label>
+  <AR_SeimeiHahen.description>생명의 잔해를 모아 하나의 작은 결정으로 만듭니다. 상처나 질병 등을 치유하는 힘이 있습니다.</AR_SeimeiHahen.description>
+  <AR_SeimeiHahen.jobString>생명의 잔해를 모아 작은 결정을 만드는 중</AR_SeimeiHahen.jobString>
+  <AR_SeimeiKatamari.label>생명의 결정</AR_SeimeiKatamari.label>
+  <AR_SeimeiKatamari.description>생명의 잔재를 모아 하나의 큰 결정으로 만듭니다. 뼈만 남은 시신조차 소생시킬 수 있는 강력한 힘이 깃들어 있습니다.</AR_SeimeiKatamari.description>
+  <AR_SeimeiKatamari.jobString>생명의 잔재를 모아 큰 결정을 만드는 중</AR_SeimeiKatamari.jobString>
+  <AR_KuyouMaisou.label>유해 공양</AR_KuyouMaisou.label>
+  <AR_KuyouMaisou.description>인간의 유해를 천사의 눈물로 정화하고, 예법에 따라 화장하여 생명의 잔해를 거둡니다.</AR_KuyouMaisou.description>
+  <AR_KuyouMaisou.jobString>유해를 정화하고 화장하여 생명의 잔해를 거두는 중</AR_KuyouMaisou.jobString>
+  <AR_MakeSoulCrystone.label>생명의 휘석 제작</AR_MakeSoulCrystone.label>
+  <AR_MakeSoulCrystone.description>생명의 잔해를 모아 하나의 결정으로 만듭니다. 알리아일을 더욱 강력하게 만들며, 일부 무기에 인격을 부여하는 의식에도 사용됩니다.</AR_MakeSoulCrystone.description>
+  <AR_MakeSoulCrystone.jobString>생명의 잔해를 모아 휘석을 만드는 중</AR_MakeSoulCrystone.jobString>
+  <AR_AR_MakePersona_RapierSV.label>백금 레이피어 제련</AR_AR_MakePersona_RapierSV.label>
+  <AR_AR_MakePersona_RapierSV.description>무기에 생명의 휘석 에너지를 주입하여 인격을 가진 강력한 무기로 변화시킵니다.</AR_AR_MakePersona_RapierSV.description>
+  <AR_AR_MakePersona_RapierSV.jobString>무기 승화 중</AR_AR_MakePersona_RapierSV.jobString>
+  <AR_AR_ReMakePersona_RapierSV.label>백금 레이피어 재제련</AR_AR_ReMakePersona_RapierSV.label>
+  <AR_AR_ReMakePersona_RapierSV.description>백금 페르소나 무기의 인격을 재생성합니다.</AR_AR_ReMakePersona_RapierSV.description>
+  <AR_AR_ReMakePersona_RapierSV.jobString>무기 승화 중</AR_AR_ReMakePersona_RapierSV.jobString>
+  <AR_AR_MakePersona_KnifeSV.label>백금 단검 제련</AR_AR_MakePersona_KnifeSV.label>
+  <AR_AR_MakePersona_KnifeSV.description>무기에 생명의 휘석 에너지를 주입하여 인격을 가진 강력한 무기로 변화시킵니다.</AR_AR_MakePersona_KnifeSV.description>
+  <AR_AR_MakePersona_KnifeSV.jobString>무기 승화 중</AR_AR_MakePersona_KnifeSV.jobString>
+  <AR_AR_ReMakePersona_KnifeSV.label>백금 단검 재제련</AR_AR_ReMakePersona_KnifeSV.label>
+  <AR_AR_ReMakePersona_KnifeSV.description>백금 페르소나 무기의 인격을 재생성합니다.</AR_AR_ReMakePersona_KnifeSV.description>
+  <AR_AR_ReMakePersona_KnifeSV.jobString>무기 승화 중</AR_AR_ReMakePersona_KnifeSV.jobString>
+  <AR_AR_MakePersona_RevolverSV.label>백금 리볼버 제련</AR_AR_MakePersona_RevolverSV.label>
+  <AR_AR_MakePersona_RevolverSV.description>무기에 생명의 휘석 에너지를 주입하여 인격을 가진 강력한 무기로 변화시킵니다.</AR_AR_MakePersona_RevolverSV.description>
+  <AR_AR_MakePersona_RevolverSV.jobString>무기 승화 중</AR_AR_MakePersona_RevolverSV.jobString>
+  <AR_AR_ReMakePersona_RevolverSV.label>백금 리볼버 재제련</AR_AR_ReMakePersona_RevolverSV.label>
+  <AR_AR_ReMakePersona_RevolverSV.description>백금 페르소나 무기의 인격을 재생성합니다.</AR_AR_ReMakePersona_RevolverSV.description>
+  <AR_AR_ReMakePersona_RevolverSV.jobString>무기 승화 중</AR_AR_ReMakePersona_RevolverSV.jobString>
+  <AR_AR_MakePersona_AutopistolSVA.label>백금 자동권총 제련</AR_AR_MakePersona_AutopistolSVA.label>
+  <AR_AR_MakePersona_AutopistolSVA.description>무기에 생명의 휘석 에너지를 주입하여 인격을 가진 강력한 무기로 변화시킵니다.</AR_AR_MakePersona_AutopistolSVA.description>
+  <AR_AR_MakePersona_AutopistolSVA.jobString>무기 승화 중</AR_AR_MakePersona_AutopistolSVA.jobString>
+  <AR_AR_ReMakePersona_AutopistolSVA.label>백금 자동권총 재제련</AR_AR_ReMakePersona_AutopistolSVA.label>
+  <AR_AR_ReMakePersona_AutopistolSVA.description>백금 페르소나 무기의 인격을 재생성합니다.</AR_AR_ReMakePersona_AutopistolSVA.description>
+  <AR_AR_ReMakePersona_AutopistolSVA.jobString>무기 승화 중</AR_AR_ReMakePersona_AutopistolSVA.jobString>
+  <AR_AR_MakePersona_MachinePistolSV.label>백금 기관권총 제련</AR_AR_MakePersona_MachinePistolSV.label>
+  <AR_AR_MakePersona_MachinePistolSV.description>무기에 생명의 휘석 에너지를 주입하여 인격을 가진 강력한 무기로 변화시킵니다.</AR_AR_MakePersona_MachinePistolSV.description>
+  <AR_AR_MakePersona_MachinePistolSV.jobString>무기 승화 중</AR_AR_MakePersona_MachinePistolSV.jobString>
+  <AR_AR_ReMakePersona_MachinePistolSV.label>백금 기관권총 재제련</AR_AR_ReMakePersona_MachinePistolSV.label>
+  <AR_AR_ReMakePersona_MachinePistolSV.description>백금 페르소나 무기의 인격을 재생성합니다.</AR_AR_ReMakePersona_MachinePistolSV.description>
+  <AR_AR_ReMakePersona_MachinePistolSV.jobString>무기 승화 중</AR_AR_ReMakePersona_MachinePistolSV.jobString>
+  <AR_AR_MakePersona_Gun_AR_AutopistolBSV.label>백금 권총 제련</AR_AR_MakePersona_Gun_AR_AutopistolBSV.label>
+  <AR_AR_MakePersona_Gun_AR_AutopistolBSV.description>무기에 생명의 휘석 에너지를 주입하여 인격을 가진 강력한 무기로 변화시킵니다.</AR_AR_MakePersona_Gun_AR_AutopistolBSV.description>
+  <AR_AR_MakePersona_Gun_AR_AutopistolBSV.jobString>무기 승화 중</AR_AR_MakePersona_Gun_AR_AutopistolBSV.jobString>
+  <AR_AR_ReMakePersona_Gun_AR_AutopistolBSV.label>백금 권총 재제련</AR_AR_ReMakePersona_Gun_AR_AutopistolBSV.label>
+  <AR_AR_ReMakePersona_Gun_AR_AutopistolBSV.description>백금 페르소나 무기의 인격을 재생성합니다.</AR_AR_ReMakePersona_Gun_AR_AutopistolBSV.description>
+  <AR_AR_ReMakePersona_Gun_AR_AutopistolBSV.jobString>무기 승화 중</AR_AR_ReMakePersona_Gun_AR_AutopistolBSV.jobString>
+  <AR_AR_MakePersona_Gun_AR_AutopistolSSV.label>백금 소형 권총 제련</AR_AR_MakePersona_Gun_AR_AutopistolSSV.label>
+  <AR_AR_MakePersona_Gun_AR_AutopistolSSV.description>무기에 생명의 휘석 에너지를 주입하여 인격을 가진 강력한 무기로 변화시킵니다.</AR_AR_MakePersona_Gun_AR_AutopistolSSV.description>
+  <AR_AR_MakePersona_Gun_AR_AutopistolSSV.jobString>무기 승화 중</AR_AR_MakePersona_Gun_AR_AutopistolSSV.jobString>
+  <AR_AR_ReMakePersona_Gun_AR_AutopistolSSV.label>백금 소형 권총 재제련</AR_AR_ReMakePersona_Gun_AR_AutopistolSSV.label>
+  <AR_AR_ReMakePersona_Gun_AR_AutopistolSSV.description>백금 페르소나 무기의 인격을 재생성합니다.</AR_AR_ReMakePersona_Gun_AR_AutopistolSSV.description>
+  <AR_AR_ReMakePersona_Gun_AR_AutopistolSSV.jobString>무기 승화 중</AR_AR_ReMakePersona_Gun_AR_AutopistolSSV.jobString>
+  <AR_AR_MakePersona_Gun_AR_AutoRevolverSV.label>백금 자동식 리볼버 제련</AR_AR_MakePersona_Gun_AR_AutoRevolverSV.label>
+  <AR_AR_MakePersona_Gun_AR_AutoRevolverSV.description>무기에 생명의 휘석 에너지를 주입하여 인격을 가진 강력한 무기로 변화시킵니다.</AR_AR_MakePersona_Gun_AR_AutoRevolverSV.description>
+  <AR_AR_MakePersona_Gun_AR_AutoRevolverSV.jobString>무기 승화 중</AR_AR_MakePersona_Gun_AR_AutoRevolverSV.jobString>
+  <AR_AR_ReMakePersona_Gun_AR_AutoRevolverSV.label>백금 자동식 리볼버 재제련</AR_AR_ReMakePersona_Gun_AR_AutoRevolverSV.label>
+  <AR_AR_ReMakePersona_Gun_AR_AutoRevolverSV.description>백금 페르소나 무기의 인격을 재생성합니다.</AR_AR_ReMakePersona_Gun_AR_AutoRevolverSV.description>
+  <AR_AR_ReMakePersona_Gun_AR_AutoRevolverSV.jobString>무기 승화 중</AR_AR_ReMakePersona_Gun_AR_AutoRevolverSV.jobString>
+  <AR_MakeHotWine.label>뜨거운 와인 양조</AR_MakeHotWine.label>
+  <AR_MakeHotWine.description>황금 와인과 광이풀을 원료로 핫 와인을 양조합니다.</AR_MakeHotWine.description>
+  <AR_MakeHotWine.jobString>뜨거운 와인 양조 중</AR_MakeHotWine.jobString>
+  <AR_MakeColdWine.label>차가운 와인 양조</AR_MakeColdWine.label>
+  <AR_MakeColdWine.description>황금 와인과 광이풀을 원료로 아이스 와인을 양조합니다.</AR_MakeColdWine.description>
+  <AR_MakeColdWine.jobString>차가운 와인 양조 중</AR_MakeColdWine.jobString>
+  <AR_MakeRelaxWine.label>안식의 와인 양조</AR_MakeRelaxWine.label>
+  <AR_MakeRelaxWine.description>황금 와인과 붉은 베리를 원료로 안식의 와인을 양조합니다.</AR_MakeRelaxWine.description>
+  <AR_MakeRelaxWine.jobString>안식의 와인 양조 중</AR_MakeRelaxWine.jobString>
+  <AR_MakeHospitalWine.label>회복의 와인 양조</AR_MakeHospitalWine.label>
+  <AR_MakeHospitalWine.description>황금 와인과 붉은 베리를 원료로 회복의 와인을 양조합니다.</AR_MakeHospitalWine.description>
+  <AR_MakeHospitalWine.jobString>회복의 와인 양조 중</AR_MakeHospitalWine.jobString>
+  <AR_MakePsiWine.label>초정신 와인 양조</AR_MakePsiWine.label>
+  <AR_MakePsiWine.description>황금 와인과 붉은 베리를 원료로 초정신 와인을 양조합니다.</AR_MakePsiWine.description>
+  <AR_MakePsiWine.jobString>초정신 와인 양조 중</AR_MakePsiWine.jobString>
+  <AR_MakeNoPsiWine.label>정신 차단 와인 양조</AR_MakeNoPsiWine.label>
+  <AR_MakeNoPsiWine.description>황금 와인과 붉은 베리를 원료로 정신 차단 와인을 양조합니다.</AR_MakeNoPsiWine.description>
+  <AR_MakeNoPsiWine.jobString>정신 차단 와인 양조 중</AR_MakeNoPsiWine.jobString>
+  <AR_MakePenoxycyWine.label>예방의 와인 제작</AR_MakePenoxycyWine.label>
+  <AR_MakePenoxycyWine.description>질병 예방 효과가 있는 예방의 와인을 제작합니다.</AR_MakePenoxycyWine.description>
+  <AR_MakePenoxycyWine.jobString>예방의 와인 제작 중</AR_MakePenoxycyWine.jobString>
+  <AR_MakeSocialWine.label>사교의 와인 제작</AR_MakeSocialWine.label>
+  <AR_MakeSocialWine.description>사교적인 분위기를 돋우는 사교의 와인을 제작합니다.</AR_MakeSocialWine.description>
+  <AR_MakeSocialWine.jobString>사교의 와인 제작 중</AR_MakeSocialWine.jobString>
+  <AR_MakeVictoryWine.label>승리의 와인 제작</AR_MakeVictoryWine.label>
+  <AR_MakeVictoryWine.description>승리를 기원하는 승리의 와인을 제작합니다.</AR_MakeVictoryWine.description>
+  <AR_MakeVictoryWine.jobString>승리의 와인 제작 중</AR_MakeVictoryWine.jobString>
+  <AR_MakeOffensiveWine.label>총공세 와인 제작</AR_MakeOffensiveWine.label>
+  <AR_MakeOffensiveWine.description>총공세를 위한 와인을 제작합니다.</AR_MakeOffensiveWine.description>
+  <AR_MakeOffensiveWine.jobString>총공세 와인 제작 중</AR_MakeOffensiveWine.jobString>
+  <AR_MakeSpaceWine.label>별무리 와인 제작</AR_MakeSpaceWine.label>
+  <AR_MakeSpaceWine.description>별빛의 기운을 담은 별무리 와인을 제작합니다.</AR_MakeSpaceWine.description>
+  <AR_MakeSpaceWine.jobString>별무리 와인 제작 중</AR_MakeSpaceWine.jobString>
+  <AR_MakeAriWine.label>알리아일의 눈물 제작</AR_MakeAriWine.label>
+  <AR_MakeAriWine.description>알리아일의 깃털에 재료를 더해 알리아일의 눈물을 제작합니다.</AR_MakeAriWine.description>
+  <AR_MakeAriWine.jobString>알리아일의 눈물 제작 중</AR_MakeAriWine.jobString>
+  <AR_MakeDimiWine.label>디미아일의 눈물 제작</AR_MakeDimiWine.label>
+  <AR_MakeDimiWine.description>알리아일의 깃털에 재료를 더해 디미아일의 눈물을 제작합니다.</AR_MakeDimiWine.description>
+  <AR_MakeDimiWine.jobString>디미아일의 눈물 제작 중</AR_MakeDimiWine.jobString>
+  <AR_MakeHusahusaWine.label>천익의 눈물</AR_MakeHusahusaWine.label>
+  <AR_MakeHusahusaWine.description>천익의 기운이 깃든 이슬을 제작합니다.</AR_MakeHusahusaWine.description>
+  <AR_MakeHusahusaWine.jobString>천익의 눈물 제작 중</AR_MakeHusahusaWine.jobString>
+  <Make_AR_Must.label>황금 포도즙 제작</Make_AR_Must.label>
+  <Make_AR_Must.description>황금 포도로 포도즙을 만듭니다.</Make_AR_Must.description>
+  <Make_AR_Must.jobString>포도즙 제작 중</Make_AR_Must.jobString>
+</LanguageData>

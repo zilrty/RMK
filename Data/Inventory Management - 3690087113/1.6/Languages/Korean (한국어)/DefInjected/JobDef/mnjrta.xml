@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuickUnloadInventory.reportString>소지품 비우는 중</QuickUnloadInventory.reportString>
+  <QuickLoadInventory.reportString>물품 가져오는 중</QuickLoadInventory.reportString>
+  <QuickGiveInventory.reportString>물품 전달 중</QuickGiveInventory.reportString>
+  <QuickUnequipApparel.reportString>착용 해제 중</QuickUnequipApparel.reportString>
+  <QuickEquipApparel.reportString>착용 중</QuickEquipApparel.reportString>
+  <QuickTakeInventory.reportString>물품 가져오는 중</QuickTakeInventory.reportString>
+</LanguageData>

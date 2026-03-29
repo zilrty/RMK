@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Argennu_Awakened.label>아르젠느 루나리스</Argennu_Awakened.label>
+  <Argennu_Normal.label>아르젠느</Argennu_Normal.label>
+  <Argennu_ObsidianArms_Soldier.label>아르젠느 부대병</Argennu_ObsidianArms_Soldier.label>
+  
+  <ObsidianArms_Brawler.label>기업 투사</ObsidianArms_Brawler.label>
+  <ObsidianArms_Commander.label>기업 지휘관</ObsidianArms_Commander.label>
+  <ObsidianArms_Trader.label>기업 에이전트</ObsidianArms_Trader.label>
+  <ObsidianArms_Trooper.label>기업 침투병</ObsidianArms_Trooper.label>
+  
+  <Argennu_Lunaris_Pioneer_SocialSuit.label>루나리스 개척자</Argennu_Lunaris_Pioneer_SocialSuit.label>
+  <Argennu_Lunaris_Pioneer_SocialDress.label>루나리스 개척자</Argennu_Lunaris_Pioneer_SocialDress.label>
+  <Argennu_Lunaris_Pioneer_FarmerOverall.label>루나리스 개척자</Argennu_Lunaris_Pioneer_FarmerOverall.label>
+  <Argennu_Lunaris_Pioneer_WorkerSuit.label>루나리스 개척자</Argennu_Lunaris_Pioneer_WorkerSuit.label>
+  
+  <Argennu_Lunaris_Healer.label>루나리스 치유사</Argennu_Lunaris_Healer.label>
+  <Argennu_Lunaris_Sheriff.label>루나리스 보안관</Argennu_Lunaris_Sheriff.label>
+  <Argennu_Lunaris_Marshal.label>루나리스 보안관</Argennu_Lunaris_Marshal.label>
+  <Argennu_Lunaris_Constable.label>루나리스 보안관</Argennu_Lunaris_Constable.label>
+
+  <Argennu_Lunaris_NextGen_SilverMoon_Suit.label>차세대 루나리스</Argennu_Lunaris_NextGen_SilverMoon_Suit.label>
+  <Argennu_Lunaris_NextGen_SilverMoon_Dress.label>차세대 루나리스</Argennu_Lunaris_NextGen_SilverMoon_Dress.label>
+  <Argennu_Lunaris_NextGen_Student.label>차세대 루나리스</Argennu_Lunaris_NextGen_Student.label>
+  <Argennu_Lunaris_NextGen_Guardian.label>차세대 루나리스</Argennu_Lunaris_NextGen_Guardian.label>
+  <Argennu_Lunaris_NextGen_Gardener.label>차세대 루나리스</Argennu_Lunaris_NextGen_Gardener.label>
+  <Argennu_Lunaris_NextGen_Engineer.label>차세대 루나리스</Argennu_Lunaris_NextGen_Engineer.label>
+  <Argennu_Lunaris_NextGen_LeaderCandidate.label>차세대 자매단장 후보</Argennu_Lunaris_NextGen_LeaderCandidate.label>
+
+  <Argennu_Sisters_Chief.label>자유의 달 자매단장</Argennu_Sisters_Chief.label>
+  <ArgennuSistersOfFreeMoon_Trader.label>루나리스 무역상</ArgennuSistersOfFreeMoon_Trader.label>
+
+  <Argennu_Noir_Pawn.label>느와르 폰</Argennu_Noir_Pawn.label>
+  <Argennu_Noir_Knight.label>느와르 나이트</Argennu_Noir_Knight.label>
+  <Argennu_Maid_M.label>아르젠느 메이드 M타입</Argennu_Maid_M.label>
+  <Argennu_Maid_B.label>아르젠느 메이드 B타입</Argennu_Maid_B.label>
+  <Argennu_Soldier_E.label>아르젠느 솔저 E타입</Argennu_Soldier_E.label>
+  <Argennu_Soldier_S.label>아르젠느 솔저 S타입</Argennu_Soldier_S.label>
+  <Argennu_Soldier_P.label>아르젠느 솔저 P타입</Argennu_Soldier_P.label>
+  <Argennu_Companion.label>아르젠느 동반자</Argennu_Companion.label>
+  <Argennu_Royal.label>아르젠느 로얄</Argennu_Royal.label>
+
+  <ObsidianArms_Amortizer.label>상각병</ObsidianArms_Amortizer.label>
+  <ObsidianArms_Enforcer.label>집행관</ObsidianArms_Enforcer.label>
+  <ObsidianArms_AssetManager.label>자산관리관</ObsidianArms_AssetManager.label>
+</LanguageData>

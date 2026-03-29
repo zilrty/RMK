@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AWL_ReloadingTimeFactor.label>재장전 시간 계수</AWL_ReloadingTimeFactor.label>
+  <AWL_ReloadingTimeFactor.description>탄창을 모두 소모한 후 재장전하는 데 걸리는 시간입니다.</AWL_ReloadingTimeFactor.description>
+  <AWL_ReloadingTime.label>재장전 시간</AWL_ReloadingTime.label>
+  <AWL_ReloadingTime.description>이 무기를 재장전하는 데 걸리는 시간입니다.</AWL_ReloadingTime.description>
+  <AWL_AmmoCapacity.label>탄창 용량</AWL_AmmoCapacity.label>
+  <AWL_AmmoCapacity.description>탄창에 채워지는 탄약의 양입니다.</AWL_AmmoCapacity.description>
+  <AWL_BackAmmoCapacity.label>최대 예비 탄약</AWL_BackAmmoCapacity.label>
+  <AWL_BackAmmoCapacity.description>이 무기가 보유할 수 있는 최대 예비 탄약 수입니다.</AWL_BackAmmoCapacity.description>
+
+  <RangeOffset.label>사거리 오프셋</RangeOffset.label>
+  <RangeOffset.description>메카나이터가 메카노이드를 제어할 수 있는 최대 사거리 보정치입니다.</RangeOffset.description>
+  <MechRemoteControlDistanceOffset.label>메카 원격 제어 거리 오프셋</MechRemoteControlDistanceOffset.label>
+  <MechRemoteControlDistanceOffset.description>메카나이터가 메카노이드를 제어할 수 있는 최대 사거리 보정치입니다.</MechRemoteControlDistanceOffset.description>
+
+  <SR_PowerYield.label>에너지 출력</SR_PowerYield.label>
+  <SR_PowerYield.description>에너지 생산량에 적용되는 배율입니다.</SR_PowerYield.description>
+  <SR_FuelConsumingSpeed.label>연료 소모 속도</SR_FuelConsumingSpeed.label>
+  <SR_FuelConsumingSpeed.description>연료 소모 속도에 적용되는 배율입니다.</SR_FuelConsumingSpeed.description>
+
+  <SR_ReloadingTimeFactor.label>재장전 시간 계수</SR_ReloadingTimeFactor.label>
+  <SR_ReloadingTimeFactor.description>탄창을 모두 소모한 후 재장전하는 데 걸리는 시간입니다.</SR_ReloadingTimeFactor.description>
+</LanguageData>

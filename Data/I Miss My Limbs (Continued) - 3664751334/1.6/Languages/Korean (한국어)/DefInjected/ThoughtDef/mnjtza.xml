@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IMissMyLimb_ColonistLostFingerToe.label>손발가락을 잃음</IMissMyLimb_ColonistLostFingerToe.label>
+  <IMissMyLimb_ColonistLostFingerToe.stages.0.label>손발가락을 잃음</IMissMyLimb_ColonistLostFingerToe.stages.0.label>
+  <IMissMyLimb_ColonistLostFingerToe.stages.0.description>손발가락 하나가 날아갔어. 아우, 정말 쓰라리네!</IMissMyLimb_ColonistLostFingerToe.stages.0.description>
+  <IMissMyLimb_ColonistLostMultipleFingersToes.label>여러 개의 손발가락을 잃음</IMissMyLimb_ColonistLostMultipleFingersToes.label>
+  <IMissMyLimb_ColonistLostMultipleFingersToes.stages.0.label>여러 개의 손발가락을 잃음</IMissMyLimb_ColonistLostMultipleFingersToes.stages.0.label>
+  <IMissMyLimb_ColonistLostMultipleFingersToes.stages.0.description>손발가락이 여러 개 없어졌어. 이제 '따봉'은 어떻게 날리지?</IMissMyLimb_ColonistLostMultipleFingersToes.stages.0.description>
+  <IMissMyLimb_ColonistLostArm.label>팔을 잃음</IMissMyLimb_ColonistLostArm.label>
+  <IMissMyLimb_ColonistLostArm.stages.0.label>팔을 잃음</IMissMyLimb_ColonistLostArm.stages.0.label>
+  <IMissMyLimb_ColonistLostArm.stages.0.description>팔 하나를 잃었어. 이제 예전만큼 손을 잘 쓰긴 틀린 것 같아!</IMissMyLimb_ColonistLostArm.stages.0.description>
+  <IMissMyLimb_ColonistLostBothArms.label>양팔을 모두 잃음</IMissMyLimb_ColonistLostBothArms.label>
+  <IMissMyLimb_ColonistLostBothArms.stages.0.label>양팔을 모두 잃음</IMissMyLimb_ColonistLostBothArms.stages.0.label>
+  <IMissMyLimb_ColonistLostBothArms.stages.0.description>양팔이 다 없어졌어. 이제 작별 인사로 손을 흔들어 줄 수도 없잖아!</IMissMyLimb_ColonistLostBothArms.stages.0.description>
+  <IMissMyLimb_ColonistLostLeg.label>다리를 잃음</IMissMyLimb_ColonistLostLeg.label>
+  <IMissMyLimb_ColonistLostLeg.stages.0.label>다리를 잃음</IMissMyLimb_ColonistLostLeg.stages.0.label>
+  <IMissMyLimb_ColonistLostLeg.stages.0.description>내 다리! 으악, 내 다리...! 이제 절뚝거리며 다녀야겠네.</IMissMyLimb_ColonistLostLeg.stages.0.description>
+  <IMissMyLimb_ColonistLostBothLegs.label>양다리를 모두 잃음</IMissMyLimb_ColonistLostBothLegs.label>
+  <IMissMyLimb_ColonistLostBothLegs.stages.0.label>양다리를 모두 잃음</IMissMyLimb_ColonistLostBothLegs.stages.0.label>
+  <IMissMyLimb_ColonistLostBothLegs.stages.0.description>내 다리들이...! 으아악! 이제 평생 휠체어 신세인가.</IMissMyLimb_ColonistLostBothLegs.stages.0.description>
+
+  <IMissMyLimb_ColonistGotProstheticFingerToe.label>인공 손발가락 장착</IMissMyLimb_ColonistGotProstheticFingerToe.label>
+  <IMissMyLimb_ColonistGotProstheticFingerToe.stages.0.label>인공 손발가락 장착</IMissMyLimb_ColonistGotProstheticFingerToe.stages.0.label>
+  <IMissMyLimb_ColonistGotProstheticFingerToe.stages.0.description>인공 손발가락을 달았어. 아예 없는 것보단 낫지!</IMissMyLimb_ColonistGotProstheticFingerToe.stages.0.description>
+  <IMissMyLimb_ColonistGotMultipleProstheticFingersToes.label>여러 개의 인공 손발가락 장착</IMissMyLimb_ColonistGotMultipleProstheticFingersToes.label>
+  <IMissMyLimb_ColonistGotMultipleProstheticFingersToes.stages.0.label>여러 개의 인공 손발가락 장착</IMissMyLimb_ColonistGotMultipleProstheticFingersToes.stages.0.label>
+  <IMissMyLimb_ColonistGotMultipleProstheticFingersToes.stages.0.description>인공 손발가락을 여러 개 달았어. 없는 것보다 훨씬 낫네. 움직일 수도 있다고!</IMissMyLimb_ColonistGotMultipleProstheticFingersToes.stages.0.description>
+  <IMissMyLimb_ColonistGotArchotechFingerToe.label>초월공학 손발가락 장착</IMissMyLimb_ColonistGotArchotechFingerToe.label>
+  <IMissMyLimb_ColonistGotArchotechFingerToe.stages.0.label>초월공학 손발가락 장착</IMissMyLimb_ColonistGotArchotechFingerToe.stages.0.label>
+  <IMissMyLimb_ColonistGotArchotechFingerToe.stages.0.description>초월공학 손발가락을 달았어. 원래 있던 것보다 훨씬 좋아!</IMissMyLimb_ColonistGotArchotechFingerToe.stages.0.description>
+  <IMissMyLimb_ColonistGotProstheticArm.label>의수 장착</IMissMyLimb_ColonistGotProstheticArm.label>
+  <IMissMyLimb_ColonistGotProstheticArm.stages.0.label>의수 장착</IMissMyLimb_ColonistGotProstheticArm.stages.0.label>
+  <IMissMyLimb_ColonistGotProstheticArm.stages.0.description>의수를 달았어. 없는 것보단 낫지!</IMissMyLimb_ColonistGotProstheticArm.stages.0.description>
+  <IMissMyLimb_ColonistGotBothProstheticArms.label>양팔 의수 장착</IMissMyLimb_ColonistGotBothProstheticArms.label>
+  <IMissMyLimb_ColonistGotBothProstheticArms.stages.0.label>양팔 의수 장착</IMissMyLimb_ColonistGotBothProstheticArms.stages.0.label>
+  <IMissMyLimb_ColonistGotBothProstheticArms.stages.0.description>양팔에 의수를 달았어. 없는 것보다 나으니까, 이제 더 많은 일을 할 수 있겠어!</IMissMyLimb_ColonistGotBothProstheticArms.stages.0.description>
+  <IMissMyLimb_ColonistGotBionicArm.label>생체공학 팔 장착</IMissMyLimb_ColonistGotBionicArm.label>
+  <IMissMyLimb_ColonistGotBionicArm.stages.0.label>생체공학 팔 장착</IMissMyLimb_ColonistGotBionicArm.stages.0.label>
+  <IMissMyLimb_ColonistGotBionicArm.stages.0.description>생체공학 팔을 달았어. 와, 원래 팔보다 조금 더 좋은 것 같은데!</IMissMyLimb_ColonistGotBionicArm.stages.0.description>
+  <IMissMyLimb_ColonistGotBothBionicArms.label>양쪽 생체공학 팔 장착</IMissMyLimb_ColonistGotBothBionicArms.label>
+  <IMissMyLimb_ColonistGotBothBionicArms.stages.0.label>양쪽 생체공학 팔 장착</IMissMyLimb_ColonistGotBothBionicArms.stages.0.label>
+  <IMissMyLimb_ColonistGotBothBionicArms.stages.0.description>양쪽 다 생체공학 팔이야. 힘도 두 배, 재미도 두 배!</IMissMyLimb_ColonistGotBothBionicArms.stages.0.description>
+  <IMissMyLimb_ColonistGotArchotechArm.label>초월공학 팔 장착</IMissMyLimb_ColonistGotArchotechArm.label>
+  <IMissMyLimb_ColonistGotArchotechArm.stages.0.label>초월공학 팔 장착</IMissMyLimb_ColonistGotArchotechArm.stages.0.label>
+  <IMissMyLimb_ColonistGotArchotechArm.stages.0.description>초월공학 팔을 달았어. 태어날 때 가졌던 팔보다 성능이 끝내줘!</IMissMyLimb_ColonistGotArchotechArm.stages.0.description>
+  <IMissMyLimb_ColonistGotBothArchotechArms.label>양쪽 초월공학 팔 장착</IMissMyLimb_ColonistGotBothArchotechArms.label>
+  <IMissMyLimb_ColonistGotBothArchotechArms.stages.0.label>양쪽 초월공학 팔 장착</IMissMyLimb_ColonistGotBothArchotechArms.stages.0.label>
+  <IMissMyLimb_ColonistGotBothArchotechArms.stages.0.description>양쪽 다 초월공학 팔이라니. 원래 팔들보다 훨씬, 훨씬 좋아!</IMissMyLimb_ColonistGotBothArchotechArms.stages.0.description>
+  <IMissMyLimb_ColonistGotProstheticLeg.label>의족 장착</IMissMyLimb_ColonistGotProstheticLeg.label>
+  <IMissMyLimb_ColonistGotProstheticLeg.stages.0.label>의족 장착</IMissMyLimb_ColonistGotProstheticLeg.stages.0.label>
+  <IMissMyLimb_ColonistGotProstheticLeg.stages.0.description>의족을 달았어. 없는 것보단 낫지!</IMissMyLimb_ColonistGotProstheticLeg.stages.0.description>
+  <IMissMyLimb_ColonistGotBothProstheticLegs.label>양쪽 의족 장착</IMissMyLimb_ColonistGotBothProstheticLegs.label>
+  <IMissMyLimb_ColonistGotBothProstheticLegs.stages.0.label>양쪽 의족 장착</IMissMyLimb_ColonistGotBothProstheticLegs.stages.0.label>
+  <IMissMyLimb_ColonistGotBothProstheticLegs.stages.0.description>양쪽에 의족을 달았어. 없는 것보다 나으니까, 이제 다시 걸을 수 있어!</IMissMyLimb_ColonistGotBothProstheticLegs.stages.0.description>
+  <IMissMyLimb_ColonistGotBionicLeg.label>생체공학 다리 장착</IMissMyLimb_ColonistGotBionicLeg.label>
+  <IMissMyLimb_ColonistGotBionicLeg.stages.0.label>생체공학 다리 장착</IMissMyLimb_ColonistGotBionicLeg.stages.0.label>
+  <IMissMyLimb_ColonistGotBionicLeg.stages.0.description>생체공학 다리를 달았어. 와, 원래 다리보다 조금 더 좋은 것 같은데!</IMissMyLimb_ColonistGotBionicLeg.stages.0.description>
+  <IMissMyLimb_ColonistGotBothBionicLegs.label>양쪽 생체공학 다리 장착</IMissMyLimb_ColonistGotBothBionicLegs.label>
+  <IMissMyLimb_ColonistGotBothBionicLegs.stages.0.label>양쪽 생체공학 다리 장착</IMissMyLimb_ColonistGotBothBionicLegs.stages.0.label>
+  <IMissMyLimb_ColonistGotBothBionicLegs.stages.0.description>양쪽 다 생체공학 다리야. 이제 바람처럼 달릴 수 있다고!</IMissMyLimb_ColonistGotBothBionicLegs.stages.0.description>
+  <IMissMyLimb_ColonistGotArchotechLeg.label>초월공학 다리 장착</IMissMyLimb_ColonistGotArchotechLeg.label>
+  <IMissMyLimb_ColonistGotArchotechLeg.stages.0.label>초월공학 다리 장착</IMissMyLimb_ColonistGotArchotechLeg.stages.0.label>
+  <IMissMyLimb_ColonistGotArchotechLeg.stages.0.description>초월공학 다리를 달았어. 원래 다리보다 훨씬 좋아!</IMissMyLimb_ColonistGotArchotechLeg.stages.0.description>
+  <IMissMyLimb_ColonistGotBothArchotechLegs.label>양쪽 초월공학 다리 장착</IMissMyLimb_ColonistGotBothArchotechLegs.label>
+  <IMissMyLimb_ColonistGotBothArchotechLegs.stages.0.label>양쪽 초월공학 다리 장착</IMissMyLimb_ColonistGotBothArchotechLegs.stages.0.label>
+  <IMissMyLimb_ColonistGotBothArchotechLegs.stages.0.description>양쪽 다 초월공학 다리라니. 태어날 때 가졌던 다리보다 성능이 끝내줘!</IMissMyLimb_ColonistGotBothArchotechLegs.stages.0.description>
+
+  <IMissMyLimb_LimbGrewBackFingerToe.label>손발가락이 다시 자라남</IMissMyLimb_LimbGrewBackFingerToe.label>
+  <IMissMyLimb_LimbGrewBackFingerToe.stages.0.label>손발가락이 다시 자라남</IMissMyLimb_LimbGrewBackFingerToe.stages.0.label>
+  <IMissMyLimb_LimbGrewBackFingerToe.stages.0.description>손발가락이 다시 자라났어. 완전 새것 같은 기분이야!</IMissMyLimb_LimbGrewBackFingerToe.stages.0.description>
+  <IMissMyLimb_LimbGrewBackArm.label>팔이 다시 자라남</IMissMyLimb_LimbGrewBackArm.label>
+  <IMissMyLimb_LimbGrewBackArm.stages.0.label>팔이 다시 자라남</IMissMyLimb_LimbGrewBackArm.stages.0.label>
+  <IMissMyLimb_LimbGrewBackArm.stages.0.description>팔이 다시 자라났어. 이제야 다시 온전해진 기분이야!</IMissMyLimb_LimbGrewBackArm.stages.0.description>
+  <IMissMyLimb_LimbGrewBackLeg.label>다리가 다시 자라남</IMissMyLimb_LimbGrewBackLeg.label>
+  <IMissMyLimb_LimbGrewBackLeg.stages.0.label>다리가 다시 자라남</IMissMyLimb_LimbGrewBackLeg.stages.0.label>
+  <IMissMyLimb_LimbGrewBackLeg.stages.0.description>다리가 다시 자라났어. 다시 걷고, 뛰고, 춤도 출 수 있어!</IMissMyLimb_LimbGrewBackLeg.stages.0.description>
+</LanguageData>

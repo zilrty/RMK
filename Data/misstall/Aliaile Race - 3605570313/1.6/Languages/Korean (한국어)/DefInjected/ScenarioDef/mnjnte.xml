@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AR_GameStart.label>새로운 와인 양조장</AR_GameStart.label>
+  <AR_GameStart.description>소수의 알리아일과 디미아일 무리가 새로운 와인 양조장을 건설하기 위해 모였습니다. 황금 포도밭을 넓히고 양조통을 늘려나가며, 역사에 길이 남을 위대한 와인 양조장을 만들어 보세요!</AR_GameStart.description>
+  <AR_GameStart.scenario.summary>알리아일의 표준적인 게임 시작 시나리오입니다. 알리아일 2명당 디미아일 3명의 비율을 추천합니다.</AR_GameStart.scenario.summary>
+  <AR_GameStart.scenario.name>새로운 와인 양조장</AR_GameStart.scenario.name>
+  <AR_GameStart.scenario.description>소수의 알리아일과 디미아일 무리가 새로운 와인 양조장을 건설하기 위해 모였습니다. 황금 포도밭을 넓히고 양조통을 늘려나가며, 역사에 길이 남을 위대한 와인 양조장을 만들어 보세요!</AR_GameStart.scenario.description>
+  <AR_GameStart.scenario.parts.29.text>긴 여행 끝에 신천지에 도착하여 짐 풀기를 마쳤습니다.\n이 땅에 새로운 와인 양조장을 세워봅시다!</AR_GameStart.scenario.parts.29.text>
+</LanguageData>

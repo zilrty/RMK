@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AgAbility_InstantClean.label>청소 버스트</AgAbility_InstantClean.label>
+  <AgAbility_InstantClean.description>나노머신을 살포하여 범위 내의 오염을 즉시 분해합니다.</AgAbility_InstantClean.description>
+
+  <AgAbility_Salvager.label>해체가</AgAbility_Salvager.label>
+  <AgAbility_Salvager.description>지정한 범위 내의 식물, 암괴, 벽을 즉시 자원화합니다.</AgAbility_Salvager.description>
+
+  <AgAbility_SilverBullet.label>은탄</AgAbility_SilverBullet.label>
+  <AgAbility_SilverBullet.description>일정 시간 동안 자신의 공격에 '방어력 무시' 효과를 부여합니다.</AgAbility_SilverBullet.description>
+
+  <AgAbility_ImmortalDash.label>불멸의 질주</AgAbility_ImmortalDash.label>
+  <AgAbility_ImmortalDash.description>신체 능력을 한계까지 끌어올려 이동 속도 배가 및 피해량 경감 효과를 얻습니다.</AgAbility_ImmortalDash.description>
+
+  <AgAbility_PlatinumOp.label>플래티넘 오퍼레이션</AgAbility_PlatinumOp.label>
+  <AgAbility_PlatinumOp.description>자신에게 '신의 손' 상태를 부여하여 다음 수술을 반드시 성공시킵니다.</AgAbility_PlatinumOp.description>
+
+  <AgAbility_HealingSmile.label>치유사의 미소</AgAbility_HealingSmile.label>
+  <AgAbility_HealingSmile.description>지정한 아군에게 성모와 같은 미소를 지어 정신적인 고통을 제거합니다.</AgAbility_HealingSmile.description>
+
+  <AgAbility_WildGunman.label>황야의 총잡이</AgAbility_WildGunman.label>
+  <AgAbility_WildGunman.description>일정 시간 동안 조준에 걸리는 시간을 극한으로 단축합니다.</AgAbility_WildGunman.description>
+
+  <AgAbility_InstantArtist.label>즉흥 예술가</AgAbility_InstantArtist.label>
+  <AgAbility_InstantArtist.description>일정 시간 동안 물건 제작 및 건축 속도를 비약적으로 높입니다.</AgAbility_InstantArtist.description>
+
+  <AgAbility_MuseSpeed.label>뮤즈의 성원 (속도)</AgAbility_MuseSpeed.label>
+  <AgAbility_MuseSpeed.description>노랫소리를 울려 퍼뜨려 주변 아군의 이동 속도를 비약적으로 높입니다.</AgAbility_MuseSpeed.description>
+
+  <AgAbility_MuseDefense.label>뮤즈의 성원 (방어)</AgAbility_MuseDefense.label>
+  <AgAbility_MuseDefense.description>노랫소리를 울려 퍼뜨려 주변 아군의 방어 능력을 높입니다.</AgAbility_MuseDefense.description>
+
+  <AgAbility_MuseAttack.label>뮤즈의 성원 (공격)</AgAbility_MuseAttack.label>
+  <AgAbility_MuseAttack.description>노랫소리를 울려 퍼뜨려 주변 아군의 공격 능력을 높입니다.</AgAbility_MuseAttack.description>
+
+  <AgAbility_PioneerCall.label>개척자의 호령</AgAbility_PioneerCall.label>
+  <AgAbility_PioneerCall.description>숙련된 개척자가 호령을 내려 주변 아군을 고무하고 안심시킵니다.</AgAbility_PioneerCall.description>
+
+  <AgAbility_FreedomFighter.label>자유의 전사</AgAbility_FreedomFighter.label>
+  <AgAbility_FreedomFighter.description>정신을 집중하여 일정 시간 동안 받는 피해를 대폭 경감합니다.</AgAbility_FreedomFighter.description>
+</LanguageData>

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_CookMealSurvivalTypeIV.label>M1 야채 통조림 x3 제작</MF_CookMealSurvivalTypeIV.label>
+  <MF_CookMealSurvivalTypeIV.description>캔에 채소를 채워 장기 보존이 가능하도록 만듭니다.</MF_CookMealSurvivalTypeIV.description>
+  <MF_CookMealSurvivalTypeIV.jobString>통조림 제작 중</MF_CookMealSurvivalTypeIV.jobString>
+  
+  <MF_CookMealSurvivalTypeIVBulk.label>M1 야채 통조림 x30 제작</MF_CookMealSurvivalTypeIVBulk.label>
+  <MF_CookMealSurvivalTypeIVBulk.description>캔에 채소를 채워 장기 보존이 가능하도록 대량으로 만듭니다.</MF_CookMealSurvivalTypeIVBulk.description>
+  <MF_CookMealSurvivalTypeIVBulk.jobString>통조림 대량 제작 중</MF_CookMealSurvivalTypeIVBulk.jobString>
+
+  <MF_CookMealSurvivalTypeIM.label>M1 고기 통조림 x3 제작</MF_CookMealSurvivalTypeIM.label>
+  <MF_CookMealSurvivalTypeIM.description>캔에 고기를 채워 장기 보존이 가능하도록 만듭니다.</MF_CookMealSurvivalTypeIM.description>
+  <MF_CookMealSurvivalTypeIM.jobString>통조림 제작 중</MF_CookMealSurvivalTypeIM.jobString>
+  
+  <MF_CookMealSurvivalTypeIMBulk.label>M1 고기 통조림 x30 제작</MF_CookMealSurvivalTypeIMBulk.label>
+  <MF_CookMealSurvivalTypeIMBulk.description>캔에 고기를 채워 장기 보존이 가능하도록 대량으로 만듭니다.</MF_CookMealSurvivalTypeIMBulk.description>
+  <MF_CookMealSurvivalTypeIMBulk.jobString>통조림 대량 제작 중</MF_CookMealSurvivalTypeIMBulk.jobString>
+
+  <MF_CookMealFine.label>정량 전투 식량 준비</MF_CookMealFine.label>
+  <MF_CookMealFine.description>전투 식량을 개봉하고 고명을 더해 그릇에 담습니다. 단순히 개봉해서 가열하기만 하면 되므로 조리 기술이 거의 필요 없으며 매우 빠르게 준비할 수 있습니다.</MF_CookMealFine.description>
+  <MF_CookMealFine.jobString>정량 전투 식량 준비 중</MF_CookMealFine.jobString>
+  <MF_CookMealFine.ingredients.0.filter.customSummary>단백질</MF_CookMealFine.ingredients.0.filter.customSummary>
+
+  <MF_CookMealFine_Veg.label>정량 채식 전투 식량 준비</MF_CookMealFine_Veg.label>
+  <MF_CookMealFine_Veg.description>전투 식량을 개봉하고 채소 고명을 더해 그릇에 담습니다. 조리 기술이 거의 필요 없으며 매우 빠르게 준비할 수 있습니다.</MF_CookMealFine_Veg.description>
+  <MF_CookMealFine_Veg.jobString>정량 채식 전투 식량 준비 중</MF_CookMealFine_Veg.jobString>
+  <MF_CookMealFine_Veg.ingredients.0.filter.customSummary>채식 재료</MF_CookMealFine_Veg.ingredients.0.filter.customSummary>
+
+  <MF_CookMealFine_Meat.label>정량 육식 전투 식량 준비</MF_CookMealFine_Meat.label>
+  <MF_CookMealFine_Meat.description>전투 식량을 개봉하고 육류 고명을 더해 그릇에 담습니다. 조리 기술이 거의 필요 없으며 매우 빠르게 준비할 수 있습니다.</MF_CookMealFine_Meat.description>
+  <MF_CookMealFine_Meat.jobString>정량 육식 전투 식량 준비 중</MF_CookMealFine_Meat.jobString>
+
+  <MF_CookMealFineBulk.label>정량 전투 식량 x4 준비</MF_CookMealFineBulk.label>
+  <MF_CookMealFineBulk.description>전투 식량 4개를 개봉하고 고명을 더해 그릇에 담습니다. 매우 빠르게 준비할 수 있습니다.</MF_CookMealFineBulk.description>
+  <MF_CookMealFineBulk.jobString>정량 전투 식량 4개 준비 중</MF_CookMealFineBulk.jobString>
+  <MF_CookMealFineBulk.ingredients.0.filter.customSummary>단백질원</MF_CookMealFineBulk.ingredients.0.filter.customSummary>
+
+  <MF_CookMealFine_VegBulk.label>정량 채식 전투 식량 x4 준비</MF_CookMealFine_VegBulk.label>
+  <MF_CookMealFine_VegBulk.description>전투 식량 4개를 개봉하고 채소 고명을 더해 그릇에 담습니다. 매우 빠르게 준비할 수 있습니다.</MF_CookMealFine_VegBulk.description>
+  <MF_CookMealFine_VegBulk.jobString>정량 채식 전투 식량 4개 준비 중</MF_CookMealFine_VegBulk.jobString>
+  <MF_CookMealFine_VegBulk.ingredients.0.filter.customSummary>채식 재료</MF_CookMealFine_VegBulk.ingredients.0.filter.customSummary>
+
+  <MF_CookMealFine_MeatBulk.label>정량 육식 전투 식량 x4 준비</MF_CookMealFine_MeatBulk.label>
+  <MF_CookMealFine_MeatBulk.description>전투 식량 4개를 개봉하고 육류 고명을 더해 그릇에 담습니다. 매우 빠르게 준비할 수 있습니다.</MF_CookMealFine_MeatBulk.description>
+  <MF_CookMealFine_MeatBulk.jobString>정량 육식 전투 식량 4개 준비 중</MF_CookMealFine_MeatBulk.jobString>
+
+  <MH_CookMealLavish.label>호화로운 전투 식량 준비</MH_CookMealLavish.label>
+  <MH_CookMealLavish.description>전투 식량을 개봉하고 풍성한 고명을 더해 그릇에 담습니다. 조리 기술이 거의 필요 없으며 매우 빠르게 준비할 수 있습니다.</MH_CookMealLavish.description>
+  <MH_CookMealLavish.jobString>호화로운 전투 식량 준비 중</MH_CookMealLavish.jobString>
+  <MH_CookMealLavish.ingredients.0.filter.customSummary>단백질원</MH_CookMealLavish.ingredients.0.filter.customSummary>
+
+  <MF_CookMealLavish_Meat.label>호화로운 육식 전투 식량 준비</MF_CookMealLavish_Meat.label>
+  <MF_CookMealLavish_Meat.description>전투 식량을 개봉하고 풍성한 육류 고명을 더해 그릇에 담습니다. 매우 빠르게 준비할 수 있습니다.</MF_CookMealLavish_Meat.description>
+  <MF_CookMealLavish_Meat.jobString>호화로운 육식 전투 식량 준비 중</MF_CookMealLavish_Meat.jobString>
+
+  <MF_CookMealLavish_Veg.label>호화로운 채식 전투 식량 준비</MF_CookMealLavish_Veg.label>
+  <MF_CookMealLavish_Veg.description>전투 식량을 개봉하고 풍성한 채소 고명을 더해 그릇에 담습니다. 매우 빠르게 준비할 수 있습니다.</MF_CookMealLavish_Veg.description>
+  <MF_CookMealLavish_Veg.jobString>호화로운 채식 전투 식량 준비 중</MF_CookMealLavish_Veg.jobString>
+  <MF_CookMealLavish_Veg.ingredients.0.filter.customSummary>채식 재료</MF_CookMealLavish_Veg.ingredients.0.filter.customSummary>
+
+  <MH_CookMealLavishBulk.label>호화로운 전투 식량 x4 준비</MH_CookMealLavishBulk.label>
+  <MH_CookMealLavishBulk.description>전투 식량 4개를 개봉하고 풍성한 고명을 더해 그릇에 담습니다. 매우 빠르게 준비할 수 있습니다.</MH_CookMealLavishBulk.description>
+  <MH_CookMealLavishBulk.jobString>호화로운 전투 식량 4개 준비 중</MH_CookMealLavishBulk.jobString>
+  <MH_CookMealLavishBulk.ingredients.0.filter.customSummary>단백질원</MH_CookMealLavishBulk.ingredients.0.filter.customSummary>
+
+  <MF_CookMealLavish_MeatBulk.label>호화로운 육식 전투 식량 x4 준비</MF_CookMealLavish_MeatBulk.label>
+  <MF_CookMealLavish_MeatBulk.description>전투 식량 4개를 개봉하고 풍성한 육류 고명을 더해 그릇에 담습니다.</MF_CookMealLavish_MeatBulk.description>
+  <MF_CookMealLavish_MeatBulk.jobString>호화로운 육식 전투 식량 4개 준비 중</MF_CookMealLavish_MeatBulk.jobString>
+
+  <MF_CookMealLavish_VegBulk.label>호화로운 채식 전투 식량 x4 준비</MF_CookMealLavish_VegBulk.label>
+  <MF_CookMealLavish_VegBulk.description>전투 식량 4개를 개봉하고 풍성한 채소 고명을 더해 그릇에 담습니다.</MF_CookMealLavish_VegBulk.description>
+  <MF_CookMealLavish_VegBulk.jobString>호화로운 채식 전투 식량 4개 준비 중</MF_CookMealLavish_VegBulk.jobString>
+  <MF_CookMealLavish_VegBulk.ingredients.0.filter.customSummary>채식 재료</MF_CookMealLavish_VegBulk.ingredients.0.filter.customSummary>
+
+  <MF_CookMealSurvivalTypeII.label>M2 전투 식량 x2 조리</MF_CookMealSurvivalTypeII.label>
+  <MF_CookMealSurvivalTypeII.description>식중독을 일으키지 않도록 철저히 살균된 전투 식량을 만듭니다.</MF_CookMealSurvivalTypeII.description>
+  <MF_CookMealSurvivalTypeII.jobString>M2 전투 식량 조리 중</MF_CookMealSurvivalTypeII.jobString>
+  <MF_CookMealSurvivalTypeII.ingredients.0.filter.customSummary>단백질원</MF_CookMealSurvivalTypeII.ingredients.0.filter.customSummary>
+
+  <MF_CookMealSurvivalTypeIIBulk.label>M2 전투 식량 x8 조리</MF_CookMealSurvivalTypeIIBulk.label>
+  <MF_CookMealSurvivalTypeIIBulk.description>식중독을 일으키지 않도록 철저히 살균된 전투 식량 4세트를 만듭니다.</MF_CookMealSurvivalTypeIIBulk.description>
+  <MF_CookMealSurvivalTypeIIBulk.jobString>M2 전투 식량 4세트 조리 중</MF_CookMealSurvivalTypeIIBulk.jobString>
+  <MF_CookMealSurvivalTypeIIBulk.ingredients.0.filter.customSummary>단백질원</MF_CookMealSurvivalTypeIIBulk.ingredients.0.filter.customSummary>
+
+  <MF_CookMealSurvivalTypeIIWBulk.label>M2 전투 식량 x20 조리</MF_CookMealSurvivalTypeIIWBulk.label>
+  <MF_CookMealSurvivalTypeIIWBulk.description>식중독을 일으키지 않도록 철저히 살균된 전투 식량 10세트를 만듭니다.</MF_CookMealSurvivalTypeIIWBulk.description>
+  <MF_CookMealSurvivalTypeIIWBulk.jobString>M2 전투 식량 10세트 조리 중</MF_CookMealSurvivalTypeIIWBulk.jobString>
+  <MF_CookMealSurvivalTypeIIWBulk.ingredients.0.filter.customSummary>단백질원</MF_CookMealSurvivalTypeIIWBulk.ingredients.0.filter.customSummary>
+
+  <MF_MF_Cooksynthemeat.label>합성육 x10 생산</MF_MF_Cooksynthemeat.label>
+  <MF_MF_Cooksynthemeat.description>채소나 동물성 단백질을 혼합하여 합성육을 생산합니다.</MF_MF_Cooksynthemeat.description>
+  <MF_MF_Cooksynthemeat.jobString>합성육 생산 중</MF_MF_Cooksynthemeat.jobString>
+
+  <MF_CooksynthemeatBulk.label>합성육 x100 생산</MF_CooksynthemeatBulk.label>
+  <MF_CooksynthemeatBulk.description>채소나 동물성 단백질을 혼합하여 대량의 합성육을 생산합니다.</MF_CooksynthemeatBulk.description>
+  <MF_CooksynthemeatBulk.jobString>합성육 대량 생산 중</MF_CooksynthemeatBulk.jobString>
+</LanguageData>
