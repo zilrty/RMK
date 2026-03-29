@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_Thought_energyBarHigh.stages.0.label>생존 영양바</MF_Thought_energyBarHigh.stages.0.label>
+  <MF_Thought_energyBarHigh.stages.0.description>영양바에 들어있던 각성제 덕분에 기분이 고양되었어.</MF_Thought_energyBarHigh.stages.0.description>
+
+  <MF_Thought_energydrinkHigh.stages.0.label>에너지 고갈</MF_Thought_energydrinkHigh.stages.0.label>
+  <MF_Thought_energydrinkHigh.stages.0.description>피로가 한꺼번에 몰려온다...</MF_Thought_energydrinkHigh.stages.0.description>
+  <MF_Thought_energydrinkHigh.stages.1.label>에너지 충전!!</MF_Thought_energydrinkHigh.stages.1.label>
+  <MF_Thought_energydrinkHigh.stages.1.description>에너지가 넘쳐흐른다!</MF_Thought_energydrinkHigh.stages.1.description>
+  <MF_Thought_energydrinkHigh.stages.2.label>에너지 과잉</MF_Thought_energydrinkHigh.stages.2.label>
+  <MF_Thought_energydrinkHigh.stages.2.description>너무 많이 마셨나 봐. 속이 안 좋네...</MF_Thought_energydrinkHigh.stages.2.description>
+
+  <MF_Thought_packTeaHigh.stages.0.label>팩 홍차</MF_Thought_packTeaHigh.stages.0.label>
+  <MF_Thought_packTeaHigh.stages.0.description>홍차를 마시고 나니 기분이 한결 개운해졌어. 조금 기운이 나는 것 같아!</MF_Thought_packTeaHigh.stages.0.description>
+
+  <MF_Thought_SynthsweetsHigh.stages.0.label>합성 캔디</MF_Thought_SynthsweetsHigh.stages.0.label>
+  <MF_Thought_SynthsweetsHigh.stages.0.description>달콤하고 맛있는 합성 캔디를 먹었어. 정말 맛있네!</MF_Thought_SynthsweetsHigh.stages.0.description>
+
+  <MF_Thought_TabakoHigh.stages.0.label>대용 연초로 휴식</MF_Thought_TabakoHigh.stages.0.label>
+  <MF_Thought_TabakoHigh.stages.0.description>머리가 맑아지고 기분이 차분해졌어.</MF_Thought_TabakoHigh.stages.0.description>
+
+  <MF_AteLavishMeal.stages.0.label>호화로운 전투 식량을 먹음</MF_AteLavishMeal.stages.0.label>
+  <MF_AteLavishMeal.stages.0.description>호화로운 전투 식량을 먹었어. 보존 식량 치고는 꽤 괜찮네.</MF_AteLavishMeal.stages.0.description>
+  
+  <MF_VR_AteLavishMeal.stages.0.label>규격화된 호화로운 식사</MF_VR_AteLavishMeal.stages.0.label>
+  <MF_VR_AteLavishMeal.stages.0.description>신뢰할 수 있는 규격에 따라 조리된 호화로운 식사를 먹었어. 완벽해!</MF_VR_AteLavishMeal.stages.0.description>
+
+  <MF_AteFineMeal.stages.0.label>정량 전투 식량을 먹음</MF_AteFineMeal.stages.0.label>
+  <MF_AteFineMeal.stages.0.description>배식된 전투 식량을 먹었어. 데우지도 않고 그냥 먹는 것보다는 훨씬 낫죠.</MF_AteFineMeal.stages.0.description>
+  
+  <MF_VR_AteFineMeal.stages.0.label>규격화된 식사</MF_VR_AteFineMeal.stages.0.label>
+  <MF_VR_AteFineMeal.stages.0.description>신뢰할 수 있는 규격에 따라 조리된 식사를 먹었어. 이렇게 관리된 식사는 정말 훌륭해!</MF_VR_AteFineMeal.stages.0.description>
+
+  <MF_AteRawFood.stages.0.label>통조림을 그대로 먹음</MF_AteRawFood.stages.0.label>
+  <MF_AteRawFood.stages.0.description>통조림 내용물을 그대로 먹었어. 이건 요리해서 먹어야 하는 건데 말이지.</MF_AteRawFood.stages.0.description>
+  
+  <MF_VR_AteRawFood.stages.0.label>통조림을 그대로 먹음</MF_VR_AteRawFood.stages.0.label>
+  <MF_VR_AteRawFood.stages.0.description>통조림을 그대로 먹었어. 안심하고 먹을 수는 있지만 조금 맛이 없네.</MF_VR_AteRawFood.stages.0.description>
+</LanguageData>

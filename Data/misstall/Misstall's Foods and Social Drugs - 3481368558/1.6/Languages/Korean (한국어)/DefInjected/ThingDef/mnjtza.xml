@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MF_EnergyBar.label>M3 생존 영양바</MF_EnergyBar.label>
+  <MF_EnergyBar.description>극한의 환경을 버텨내기 위해 영양분을 응축한 에너지바입니다. 포만감이 매우 오래 유지되며, 섭취 시 한동안 허기를 느끼지 않습니다. 포함된 각성제 덕분에 기분이 고양되지만, 건강에 해로운 성분이 들어 있어 주식으로 삼기에는 위험합니다.</MF_EnergyBar.description>
+  <MF_EnergyBar.ingestible.ingestCommandString>{0} 섭취</MF_EnergyBar.ingestible.ingestCommandString>
+  <MF_EnergyBar.ingestible.ingestReportString>{0} 섭취 중.</MF_EnergyBar.ingestible.ingestReportString>
+  <MF_EnergyBar.ingestible.ingestReportStringEat>{0} 먹는 중.</MF_EnergyBar.ingestible.ingestReportStringEat>
+
+  <MF_energydrink.label>M25 보조 음료</MF_energydrink.label>
+  <MF_energydrink.description>장기전이나 비상 상황에서 영양 보급 및 휴식을 뒤로 미루기 위한 에너지 드링크입니다. 일시적으로 피로와 허기를 회복하고 수치 감소를 억제하지만, 효과가 끝나면 급격한 피로와 공복이 찾아옵니다. 과다 복용 시 메스꺼움을 유발할 수 있습니다.</MF_energydrink.description>
+  <MF_energydrink.ingestible.ingestCommandString>{0} 마시기</MF_energydrink.ingestible.ingestCommandString>
+  <MF_energydrink.ingestible.ingestReportString>{0} 마시는 중.</MF_energydrink.ingestible.ingestReportString>
+
+  <MF_packTea.label>M13 팩 홍차</MF_packTea.label>
+  <MF_packTea.description>스트레스 해소를 위해 전투 식량 키트에 포함된 홍차입니다. 피로 누적을 경감하고 기분을 약간 좋게 만듭니다. 효과는 미미하지만 매우 안전합니다.</MF_packTea.description>
+  <MF_packTea.ingestible.ingestCommandString>{0} 마시기</MF_packTea.ingestible.ingestCommandString>
+  <MF_packTea.ingestible.ingestReportString>{0} 마시는 중.</MF_packTea.ingestible.ingestReportString>
+
+  <MF_Synthsweets.label>M45 합성 캔디</MF_Synthsweets.label>
+  <MF_Synthsweets.description>베리와 자극제를 반죽해 만든 간식입니다. 자극 성분이 들어 있어 피로를 약간 덜 느끼게 해줍니다.</MF_Synthsweets.description>
+
+  <MF_Tabako.label>M78 대용 연초</MF_Tabako.label>
+  <MF_Tabako.description>정신을 맑게 하는 성분이 포함된 담배 유사 기호품입니다. 일시적으로 정신을 집중시키고 의식을 고양하지만, 폐 기능이 약간 저하됩니다.</MF_Tabako.description>
+  <MF_Tabako.ingestible.ingestCommandString>{0} 피우기</MF_Tabako.ingestible.ingestCommandString>
+  <MF_Tabako.ingestible.ingestReportString>{0} 피우는 중.</MF_Tabako.ingestible.ingestReportString>
+  <MF_Tabako.ingestible.ingestReportStringEat>{0} 소비 중.</MF_Tabako.ingestible.ingestReportStringEat>
+
+  <MF_MealSurvivalPackTypeIV.label>M1 야채 통조림</MF_MealSurvivalPackTypeIV.label>
+  <MF_MealSurvivalPackTypeIV.description>장기 보관이 가능하며, 신선한 채소 대신 요리 재료로 사용할 수 있는 통조림입니다. 철저히 살균되어 식중독을 일으키지 않습니다.</MF_MealSurvivalPackTypeIV.description>
+  <MF_MealSurvivalPackTypeIM.label>M1 고기 통조림</MF_MealSurvivalPackTypeIM.label>
+  <MF_MealSurvivalPackTypeIM.description>장기 보관이 가능하며, 생고기 대신 요리 재료로 사용할 수 있는 통조림입니다. 철저히 살균되어 식중독을 일으키지 않습니다.</MF_MealSurvivalPackTypeIM.description>
+
+  <MF_MealFine.label>정량 전투 식량</MF_MealFine.label>
+  <MF_MealFine.description>전투 식량을 개봉해 가열 조리하고 고명을 추가한 요리입니다. 좋은 식사와 동등한 가치를 지닙니다.</MF_MealFine.description>
+  <MF_MealFine_Veg.label>정량 채식 전투 식량</MF_MealFine_Veg.label>
+  <MF_MealFine_Veg.description>전투 식량을 개봉해 가열 조리하고 고명을 추가한 요리입니다. 좋은 식사와 동등한 가치를 지닙니다.</MF_MealFine_Veg.description>
+  <MF_MealFine_Meat.label>정량 육식 전투 식량</MF_MealFine_Meat.label>
+  <MF_MealFine_Meat.description>전투 식량을 개봉해 가열 조리하고 고명을 추가한 요리입니다. 좋은 식사와 동등한 가치를 지닙니다.</MF_MealFine_Meat.description>
+  
+  <MF_MealLavish.label>호화로운 전투 식량</MF_MealLavish.label>
+  <MF_MealLavish.description>전투 식량을 개봉해 가열 조리하고 고명을 풍성하게 추가한 요리입니다. 호화로운 식사와 동등한 가치를 지닙니다.</MF_MealLavish.description>
+  <MF_MealLavish_Veg.label>호화로운 채식 전투 식량</MF_MealLavish_Veg.label>
+  <MF_MealLavish_Veg.description>전투 식량을 개봉해 가열 조리하고 고명을 풍성하게 추가한 요리입니다. 호화로운 식사와 동등한 가치를 지닙니다.</MF_MealLavish_Veg.description>
+  <MF_MealLavish_Meat.label>호화로운 육식 전투 식량</MF_MealLavish_Meat.label>
+  <MF_MealLavish_Meat.description>전투 식량을 개봉해 가열 조리하고 고명을 풍성하게 추가한 요리입니다. 호화로운 식사와 동등한 가치를 지닙니다.</MF_MealLavish_Meat.description>
+
+  <MF_MealSurvivalPackTypeII.label>M2 전투 식량</MF_MealSurvivalPackTypeII.label>
+  <MF_MealSurvivalPackTypeII.description>장기간 보관이 가능한 전투 식량입니다. 철저히 살균되어 식중독을 일으키지 않습니다.</MF_MealSurvivalPackTypeII.description>
+
+  <MF_synthemeat.label>합성육</MF_synthemeat.label>
+  <MF_synthemeat.description>식물성 재료와 동물성 재료를 혼합해 만든 인공 고기입니다.</MF_synthemeat.description>
+
+  <MFaD_table.label>식품 가공대</MFaD_table.label>
+  <MFaD_table.description>규격화된 식품이나 약물을 빠르게 제조하기 위한 작업대입니다.</MFaD_table.description>
+</LanguageData>
