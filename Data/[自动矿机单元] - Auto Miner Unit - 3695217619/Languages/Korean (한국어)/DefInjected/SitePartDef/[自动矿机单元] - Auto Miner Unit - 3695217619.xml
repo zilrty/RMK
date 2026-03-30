@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AutoMinerRaided.approachOrderString>{0} 공격</AutoMinerRaided.approachOrderString>
+  <AutoMinerRaided.approachingReportString>{0} 공격 시작</AutoMinerRaided.approachingReportString>
+  <AutoMinerRaided.arrivedLetter>이 지역에 적 전초기지가 세워져 있습니다.</AutoMinerRaided.arrivedLetter>
+  <AutoMinerRaided.label>습격당한 채굴 지점</AutoMinerRaided.label>
+  <AutoMinerRaided.description>적대 세력이 점령한 채굴 지점입니다. 그들은 자동 채굴 유닛을 탈취하고 광물을 훔쳤습니다.</AutoMinerRaided.description>
+</LanguageData>

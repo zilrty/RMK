@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AutoMinerRaidedSite.label>습격당한 채굴 지점</AutoMinerRaidedSite.label>
+  <AutoMinerRaidedSite.description>적대 세력이 점령한 채굴 지점입니다. 그들은 자동 채굴 유닛을 탈취하고 광물을 훔쳤습니다. 적을 물리치고 빼앗긴 광물을 회수하십시오.</AutoMinerRaidedSite.description>
+  <TravellingAutoMiner.label>자동 채굴 유닛</TravellingAutoMiner.label>
+  <TravellingAutoMiner.description>채굴 지대로 향하는 자동 채굴 유닛입니다.</TravellingAutoMiner.description>
+  <AutoMinerOccupiedSite.label>자동 채굴 유닛 (가동 중)</AutoMinerOccupiedSite.label>
+  <AutoMinerOccupiedSite.description>자동 채굴 유닛이 이 채굴 지대에서 채굴 작업을 수행 중입니다.</AutoMinerOccupiedSite.description>
+</LanguageData>
