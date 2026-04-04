@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Isekai_RuneDef_Fortitude.label>용기의 룬</Isekai_RuneDef_Fortitude.label>
+  <Isekai_RuneDef_Fortitude.description>어떤 갑옷이든 구조를 강화해 내구도를 크게 높여 주는 견고한 룬입니다.</Isekai_RuneDef_Fortitude.description>
+  <Isekai_RuneDef_Evasion.label>회피의 룬</Isekai_RuneDef_Evasion.label>
+  <Isekai_RuneDef_Evasion.description>착용자의 발을 가볍게 해 근접 회피율을 높여 주는 날렵한 룬입니다.</Isekai_RuneDef_Evasion.description>
+  <Isekai_RuneDef_Resistance.label>저항의 룬</Isekai_RuneDef_Resistance.label>
+  <Isekai_RuneDef_Resistance.description>장착한 갑옷을 단단하게 굳혀 피해량의 일부를 흡수하는 묵직한 룬입니다.</Isekai_RuneDef_Resistance.description>
+  <Isekai_RuneDef_Regeneration.label>재생의 룬</Isekai_RuneDef_Regeneration.label>
+  <Isekai_RuneDef_Regeneration.description>상처의 자연 치유를 촉진하며 초록빛으로 맥동하는 룬입니다.</Isekai_RuneDef_Regeneration.description>
+  <Isekai_RuneDef_Warding.label>안정의 룬</Isekai_RuneDef_Warding.label>
+  <Isekai_RuneDef_Warding.description>착용자의 정신을 보호해 정신 이상 임계치를 낮춰 주는 잔잔한 룬입니다.</Isekai_RuneDef_Warding.description>
+  <Isekai_RuneDef_Vitality.label>활력의 룬</Isekai_RuneDef_Vitality.label>
+  <Isekai_RuneDef_Vitality.description>신체의 방어 기제를 끌어올려 질병에 대한 면역 형성을 앞당기는 따스한 룬입니다.</Isekai_RuneDef_Vitality.description>
+  <Isekai_RuneDef_Swiftness.label>신속의 룬</Isekai_RuneDef_Swiftness.label>
+  <Isekai_RuneDef_Swiftness.description>착용자의 민첩성을 강화해 더 빠른 이동 속도를 부여하는 가벼운 룬입니다.</Isekai_RuneDef_Swiftness.description>
+  <Isekai_RuneDef_Bulwark.label>수호의 룬</Isekai_RuneDef_Bulwark.label>
+  <Isekai_RuneDef_Bulwark.description>모든 피해를 크게 줄여 주는 거대한 보호의 룬입니다. 저항의 룬과 중첩됩니다.</Isekai_RuneDef_Bulwark.description>
+  <Isekai_RuneDef_Fury.label>분노의 룬</Isekai_RuneDef_Fury.label>
+  <Isekai_RuneDef_Fury.description>착용자의 손놀림을 재빠르게 해 근접 무기의 재사용 대기 시간을 줄여 주는 효과의 타오르는 룬입니다.</Isekai_RuneDef_Fury.description>
+  <Isekai_RuneDef_Precision.label>정밀의 룬</Isekai_RuneDef_Precision.label>
+  <Isekai_RuneDef_Precision.description>조준을 안정시키고 원거리 시야를 날카롭게 가다듬어 주는, 차분하고 집중된 룬입니다.</Isekai_RuneDef_Precision.description>
+  <Isekai_RuneDef_Vampirism.label>흡혈의 룬</Isekai_RuneDef_Vampirism.label>
+  <Isekai_RuneDef_Vampirism.description>적중한 적의 생명력을 흡수해 사용자를 치유하는 어두운 진홍빛 룬입니다.</Isekai_RuneDef_Vampirism.description>
+  <Isekai_RuneDef_Thunder.label>천둥의 룬</Isekai_RuneDef_Thunder.label>
+  <Isekai_RuneDef_Thunder.description>적중한 적을 잠시 마비시킬 수 있는 효과의 전격이 튀는 번개의 룬입니다.</Isekai_RuneDef_Thunder.description>
+  <Isekai_RuneDef_Flame.label>불꽃의 룬</Isekai_RuneDef_Flame.label>
+  <Isekai_RuneDef_Flame.description>타격을 이글거리는 불길로 휘감는 극렬의 룬입니다.</Isekai_RuneDef_Flame.description>
+  <Isekai_RuneDef_Frost.label>서리의 룬</Isekai_RuneDef_Frost.label>
+  <Isekai_RuneDef_Frost.description>적중한 적을 뼛속까지 얼려 움직임을 둔화시키는 얼어붙은 룬입니다.</Isekai_RuneDef_Frost.description>
+  <Isekai_RuneDef_Sharpness.label>관통의 룬</Isekai_RuneDef_Sharpness.label>
+  <Isekai_RuneDef_Sharpness.description>어떤 무기의 날이든 날카롭게 벼려 가장 단단한 갑옷마저 가를 수 있도록 작용하는 예리한 룬입니다.</Isekai_RuneDef_Sharpness.description>
+  <Isekai_RuneDef_Havoc.label>혼돈의 룬</Isekai_RuneDef_Havoc.label>
+  <Isekai_RuneDef_Havoc.description>파괴적인 힘을 바깥으로 분출해 대상 주변의 적들에게 피해를 주는 난폭한 룬입니다.</Isekai_RuneDef_Havoc.description>
+  <Isekai_RuneDef_Devastation.label>파괴의 룬</Isekai_RuneDef_Devastation.label>
+  <Isekai_RuneDef_Devastation.description>원거리 투사체의 파괴력을 증폭시켜 피해를 높이는 불안정한 룬입니다.</Isekai_RuneDef_Devastation.description>
+</LanguageData>

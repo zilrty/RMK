@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Isekai_Make_RespecOrb.label>신생의 구체 제작</Isekai_Make_RespecOrb.label>
+  <Isekai_Make_RespecOrb.description>마나 코어들을 한데 모아 융해시켜 초기화한 능력치를 재분배할 수 있는 신생의 구체를 제작합니다.</Isekai_Make_RespecOrb.description>
+  <Isekai_Make_RespecOrb.jobString>신생의 구체 만드는 중.</Isekai_Make_RespecOrb.jobString>
+  <Isekai_CraftRune_Fury.label>분노의 룬 I 제작</Isekai_CraftRune_Fury.label>
+  <Isekai_CraftRune_Fury.description>무기에 부여할 1랭크 분노의 룬을 각인합니다. </Isekai_CraftRune_Fury.description>
+  <Isekai_CraftRune_Fury.jobString>분노의 룬 I 만드는 중.</Isekai_CraftRune_Fury.jobString>
+  <Isekai_CraftRune_Fury_II.label>분노의 룬 II 제작</Isekai_CraftRune_Fury_II.label>
+  <Isekai_CraftRune_Fury_II.description>무기에 부여할 2랭크 분노의 룬을 각인합니다.</Isekai_CraftRune_Fury_II.description>
+  <Isekai_CraftRune_Fury_II.jobString>분노의 룬 II 만드는 중.</Isekai_CraftRune_Fury_II.jobString>
+  <Isekai_CraftRune_Fury_III.label>분노의 룬 III 제작</Isekai_CraftRune_Fury_III.label>
+  <Isekai_CraftRune_Fury_III.description>무기에 부여할 3랭크 분노의 룬을 각인햅니다.</Isekai_CraftRune_Fury_III.description>
+  <Isekai_CraftRune_Fury_III.jobString>분노의 룬 III 만드는 중.</Isekai_CraftRune_Fury_III.jobString>
+  <Isekai_CraftRune_Fury_IV.label>분노의 룬 IV 제작</Isekai_CraftRune_Fury_IV.label>
+  <Isekai_CraftRune_Fury_IV.description>무기에 부여할 4랭크 분노의 룬을 각인합니다.</Isekai_CraftRune_Fury_IV.description>
+  <Isekai_CraftRune_Fury_IV.jobString>분노의 룬 IV 만드는 중.</Isekai_CraftRune_Fury_IV.jobString>
+  <Isekai_CraftRune_Fury_V.label>분노의 룬 V 제작</Isekai_CraftRune_Fury_V.label>
+  <Isekai_CraftRune_Fury_V.description>무기에 부여할 5랭크 분노의 룬을 각인합니다.</Isekai_CraftRune_Fury_V.description>
+  <Isekai_CraftRune_Fury_V.jobString>분노의 룬 V 만드는 중.</Isekai_CraftRune_Fury_V.jobString>
+  <Isekai_CraftRune_Precision.label>정밀의 룬 I 제작</Isekai_CraftRune_Precision.label>
+  <Isekai_CraftRune_Precision.description>무기에 부여할 1랭크 정밀의 룬을 각인합니다.</Isekai_CraftRune_Precision.description>
+  <Isekai_CraftRune_Precision.jobString>정밀의 룬 I 만드는 중.</Isekai_CraftRune_Precision.jobString>
+  <Isekai_CraftRune_Precision_II.label>정밀의 룬 II 제작</Isekai_CraftRune_Precision_II.label>
+  <Isekai_CraftRune_Precision_II.description>무기에 부여할 2랭크 정밀의 룬을 각인합니다.</Isekai_CraftRune_Precision_II.description>
+  <Isekai_CraftRune_Precision_II.jobString>정밀의 룬 II 만드는 중.</Isekai_CraftRune_Precision_II.jobString>
+  <Isekai_CraftRune_Precision_III.label>정밀의 룬 III 제작</Isekai_CraftRune_Precision_III.label>
+  <Isekai_CraftRune_Precision_III.description>무기에 부여할 3랭크 정밀의 룬을 각인합니다.</Isekai_CraftRune_Precision_III.description>
+  <Isekai_CraftRune_Precision_III.jobString>정밀의 룬 III 만드는 중.</Isekai_CraftRune_Precision_III.jobString>
+  <Isekai_CraftRune_Precision_IV.label>정밀의 룬 IV 제작</Isekai_CraftRune_Precision_IV.label>
+  <Isekai_CraftRune_Precision_IV.description>무기에 부여할 4랭크 정밀의 룬을 각인합니다.</Isekai_CraftRune_Precision_IV.description>
+  <Isekai_CraftRune_Precision_IV.jobString>정밀의 룬 IV 만드는 중.</Isekai_CraftRune_Precision_IV.jobString>
+  <Isekai_CraftRune_Precision_V.label>정밀의 룬 V 제작</Isekai_CraftRune_Precision_V.label>
+  <Isekai_CraftRune_Precision_V.description>무기에 부여할 5랭크 정밀의 룬을 각인합니다.</Isekai_CraftRune_Precision_V.description>
+  <Isekai_CraftRune_Precision_V.jobString>정밀의 룬 V 만드는 중.</Isekai_CraftRune_Precision_V.jobString>
+  <Isekai_CraftRune_Vampirism.label>흡혈의 룬 I 제작</Isekai_CraftRune_Vampirism.label>
+  <Isekai_CraftRune_Vampirism.description>무기에 부여할 1랭크 흡혈의 룬을 각인합니다.</Isekai_CraftRune_Vampirism.description>
+  <Isekai_CraftRune_Vampirism.jobString>흡혈의 룬 I 만드는 중.</Isekai_CraftRune_Vampirism.jobString>
+  <Isekai_CraftRune_Vampirism_II.label>흡혈의 룬 II 제작</Isekai_CraftRune_Vampirism_II.label>
+  <Isekai_CraftRune_Vampirism_II.description>무기에 부여할 2랭크 흡혈의 룬을 각인합니다.</Isekai_CraftRune_Vampirism_II.description>
+  <Isekai_CraftRune_Vampirism_II.jobString>흡혈의 룬 II 만드는 중.</Isekai_CraftRune_Vampirism_II.jobString>
+  <Isekai_CraftRune_Vampirism_III.label>흡혈의 룬 III 제작</Isekai_CraftRune_Vampirism_III.label>
+  <Isekai_CraftRune_Vampirism_III.description>무기에 부여할 3랭크 흡혈의 룬을 각인합니다.</Isekai_CraftRune_Vampirism_III.description>
+  <Isekai_CraftRune_Vampirism_III.jobString>흡혈의 룬 III 만드는 중.</Isekai_CraftRune_Vampirism_III.jobString>
+  <Isekai_CraftRune_Vampirism_IV.label>흡혈의 룬 IV 제작</Isekai_CraftRune_Vampirism_IV.label>
+  <Isekai_CraftRune_Vampirism_IV.description>무기에 부여할 4랭크 흡혈의 룬을 각인합니다.</Isekai_CraftRune_Vampirism_IV.description>
+  <Isekai_CraftRune_Vampirism_IV.jobString>흡혈의 룬 IV 만드는 중.</Isekai_CraftRune_Vampirism_IV.jobString>
+  <Isekai_CraftRune_Vampirism_V.label>흡혈의 룬 V 제작</Isekai_CraftRune_Vampirism_V.label>
+  <Isekai_CraftRune_Vampirism_V.description>무기에 부여할 5랭크 흡혈의 룬을 각인합니다.</Isekai_CraftRune_Vampirism_V.description>
+  <Isekai_CraftRune_Vampirism_V.jobString>흡혈의 룬 V 만드는 중.</Isekai_CraftRune_Vampirism_V.jobString>
+  <Isekai_CraftRune_Thunder.label>천둥의 룬 I 제작</Isekai_CraftRune_Thunder.label>
+  <Isekai_CraftRune_Thunder.description>무기에 부여할 1랭크 천둥의 룬을 각인합니다.</Isekai_CraftRune_Thunder.description>
+  <Isekai_CraftRune_Thunder.jobString>천둥의 룬 I 만드는 중.</Isekai_CraftRune_Thunder.jobString>
+  <Isekai_CraftRune_Thunder_II.label>천둥의 룬 II 제작</Isekai_CraftRune_Thunder_II.label>
+  <Isekai_CraftRune_Thunder_II.description>무기에 부여할 2랭크 천둥의 룬을 각인합니다.</Isekai_CraftRune_Thunder_II.description>
+  <Isekai_CraftRune_Thunder_II.jobString>천둥의 룬 II 만드는 중.</Isekai_CraftRune_Thunder_II.jobString>
+  <Isekai_CraftRune_Thunder_III.label>천둥의 룬 III 제작</Isekai_CraftRune_Thunder_III.label>
+  <Isekai_CraftRune_Thunder_III.description>무기에 부여할 3랭크 천둥의 룬을 각인합니다.</Isekai_CraftRune_Thunder_III.description>
+  <Isekai_CraftRune_Thunder_III.jobString>천둥의 룬 III 만드는 중.</Isekai_CraftRune_Thunder_III.jobString>
+  <Isekai_CraftRune_Thunder_IV.label>천둥의 룬 IV 제작</Isekai_CraftRune_Thunder_IV.label>
+  <Isekai_CraftRune_Thunder_IV.description>무기에 부여할 4랭크 천둥의 룬을 각인합니다.</Isekai_CraftRune_Thunder_IV.description>
+  <Isekai_CraftRune_Thunder_IV.jobString>천둥의 룬 IV 만드는 중.</Isekai_CraftRune_Thunder_IV.jobString>
+  <Isekai_CraftRune_Thunder_V.label>천둥의 룬 V 제작</Isekai_CraftRune_Thunder_V.label>
+  <Isekai_CraftRune_Thunder_V.description>무기에 부여할 5랭크 천둥의 룬을 각인합니다.</Isekai_CraftRune_Thunder_V.description>
+  <Isekai_CraftRune_Thunder_V.jobString>천둥의 룬 V 만드는 중.</Isekai_CraftRune_Thunder_V.jobString>
+  <Isekai_CraftRune_Flame.label>불꽃의 룬 I 제작</Isekai_CraftRune_Flame.label>
+  <Isekai_CraftRune_Flame.description>무기에 부여할 1랭크 불꽃의 룬을 각인합니다.</Isekai_CraftRune_Flame.description>
+  <Isekai_CraftRune_Flame.jobString>불꽃의 룬 I 만드는 중.</Isekai_CraftRune_Flame.jobString>
+  <Isekai_CraftRune_Flame_II.label>불꽃의 룬 II 제작</Isekai_CraftRune_Flame_II.label>
+  <Isekai_CraftRune_Flame_II.description>무기에 부여할 2랭크 불꽃의 룬을 각인합니다.</Isekai_CraftRune_Flame_II.description>
+  <Isekai_CraftRune_Flame_II.jobString>불꽃의 룬 II 만드는 중.</Isekai_CraftRune_Flame_II.jobString>
+  <Isekai_CraftRune_Flame_III.label>불꽃의 룬 III 제작</Isekai_CraftRune_Flame_III.label>
+  <Isekai_CraftRune_Flame_III.description>무기에 부여할 3랭크 불꽃의 룬을 각인합니다.</Isekai_CraftRune_Flame_III.description>
+  <Isekai_CraftRune_Flame_III.jobString>불꽃의 룬 III 만드는 중.</Isekai_CraftRune_Flame_III.jobString>
+  <Isekai_CraftRune_Flame_IV.label>불꽃의 룬 IV 제작</Isekai_CraftRune_Flame_IV.label>
+  <Isekai_CraftRune_Flame_IV.description>무기에 부여할 4랭크 불꽃의 룬을 각인합니다.</Isekai_CraftRune_Flame_IV.description>
+  <Isekai_CraftRune_Flame_IV.jobString>불꽃의 룬 IV 만드는 중.</Isekai_CraftRune_Flame_IV.jobString>
+  <Isekai_CraftRune_Flame_V.label>불꽃의 룬 V 제작</Isekai_CraftRune_Flame_V.label>
+  <Isekai_CraftRune_Flame_V.description>무기에 부여할 5랭크 불꽃의 룬을 각인합니다.</Isekai_CraftRune_Flame_V.description>
+  <Isekai_CraftRune_Flame_V.jobString>불꽃의 룬 V 만드는 중.</Isekai_CraftRune_Flame_V.jobString>
+  <Isekai_CraftRune_Frost.label>서리의 룬 I 제작</Isekai_CraftRune_Frost.label>
+  <Isekai_CraftRune_Frost.description>무기에 부여할 1랭크 서리의 룬을 각인합니다.</Isekai_CraftRune_Frost.description>
+  <Isekai_CraftRune_Frost.jobString>서리의 룬 I 만드는 중.</Isekai_CraftRune_Frost.jobString>
+  <Isekai_CraftRune_Frost_II.label>서리의 룬 II 제작</Isekai_CraftRune_Frost_II.label>
+  <Isekai_CraftRune_Frost_II.description>무기에 부여할 2랭크 서리의 룬을 각인합니다.</Isekai_CraftRune_Frost_II.description>
+  <Isekai_CraftRune_Frost_II.jobString>서리의 룬 II 만드는 중.</Isekai_CraftRune_Frost_II.jobString>
+  <Isekai_CraftRune_Frost_III.label>서리의 룬 III 제작</Isekai_CraftRune_Frost_III.label>
+  <Isekai_CraftRune_Frost_III.description>무기에 부여할 3랭크 서리의 룬을 각인합니다.</Isekai_CraftRune_Frost_III.description>
+  <Isekai_CraftRune_Frost_III.jobString>서리의 룬 III 만드는 중.</Isekai_CraftRune_Frost_III.jobString>
+  <Isekai_CraftRune_Frost_IV.label>서리의 룬 IV 제작</Isekai_CraftRune_Frost_IV.label>
+  <Isekai_CraftRune_Frost_IV.description>무기에 부여할 4랭크 서리의 룬을 각인합니다.</Isekai_CraftRune_Frost_IV.description>
+  <Isekai_CraftRune_Frost_IV.jobString>서리의 룬 IV 만드는 중.</Isekai_CraftRune_Frost_IV.jobString>
+  <Isekai_CraftRune_Frost_V.label>서리의 룬 V 제작</Isekai_CraftRune_Frost_V.label>
+  <Isekai_CraftRune_Frost_V.description>무기에 부여할 5랭크 서리의 룬을 각인합니다.</Isekai_CraftRune_Frost_V.description>
+  <Isekai_CraftRune_Frost_V.jobString>서리의 룬 V 만드는 중.</Isekai_CraftRune_Frost_V.jobString>
+  <Isekai_CraftRune_Sharpness.label>관통의 룬 I 제작</Isekai_CraftRune_Sharpness.label>
+  <Isekai_CraftRune_Sharpness.description>무기에 부여할 1랭크 관통의 룬을 각인합니다.</Isekai_CraftRune_Sharpness.description>
+  <Isekai_CraftRune_Sharpness.jobString>관통의 룬 I 만드는 중.</Isekai_CraftRune_Sharpness.jobString>
+  <Isekai_CraftRune_Sharpness_II.label>관통의 룬 II 제작</Isekai_CraftRune_Sharpness_II.label>
+  <Isekai_CraftRune_Sharpness_II.description>무기에 부여할 2랭크 관통의 룬을 각인합니다.</Isekai_CraftRune_Sharpness_II.description>
+  <Isekai_CraftRune_Sharpness_II.jobString>관통의 룬 II 만드는 중.</Isekai_CraftRune_Sharpness_II.jobString>
+  <Isekai_CraftRune_Sharpness_III.label>관통의 룬 III 제작</Isekai_CraftRune_Sharpness_III.label>
+  <Isekai_CraftRune_Sharpness_III.description>무기에 부여할 3랭크 관통의 룬을 각인합니다.</Isekai_CraftRune_Sharpness_III.description>
+  <Isekai_CraftRune_Sharpness_III.jobString>관통의 룬 III 만드는 중.</Isekai_CraftRune_Sharpness_III.jobString>
+  <Isekai_CraftRune_Sharpness_IV.label>관통의 룬 IV 제작</Isekai_CraftRune_Sharpness_IV.label>
+  <Isekai_CraftRune_Sharpness_IV.description>무기에 부여할 4랭크 관통의 룬을 각인합니다.</Isekai_CraftRune_Sharpness_IV.description>
+  <Isekai_CraftRune_Sharpness_IV.jobString>관통의 룬 IV 만드는 중.</Isekai_CraftRune_Sharpness_IV.jobString>
+  <Isekai_CraftRune_Sharpness_V.label>관통의 룬 V 제작</Isekai_CraftRune_Sharpness_V.label>
+  <Isekai_CraftRune_Sharpness_V.description>무기에 부여할 5랭크 관통의 룬을 각인합니다.</Isekai_CraftRune_Sharpness_V.description>
+  <Isekai_CraftRune_Sharpness_V.jobString>관통의 룬 V 만드는 중.</Isekai_CraftRune_Sharpness_V.jobString>
+  <Isekai_CraftRune_Havoc.label>혼돈의 룬 I 제작</Isekai_CraftRune_Havoc.label>
+  <Isekai_CraftRune_Havoc.description>무기에 부여할 1랭크 혼돈의 룬을 각인합니다.</Isekai_CraftRune_Havoc.description>
+  <Isekai_CraftRune_Havoc.jobString>혼돈의 룬 I 만드는 중.</Isekai_CraftRune_Havoc.jobString>
+  <Isekai_CraftRune_Havoc_II.label>혼돈의 룬 II 제작</Isekai_CraftRune_Havoc_II.label>
+  <Isekai_CraftRune_Havoc_II.description>무기에 부여할 2랭크 혼돈의 룬을 각인합니다.</Isekai_CraftRune_Havoc_II.description>
+  <Isekai_CraftRune_Havoc_II.jobString>혼돈의 룬 II 만드는 중.</Isekai_CraftRune_Havoc_II.jobString>
+  <Isekai_CraftRune_Havoc_III.label>혼돈의 룬 III 제작</Isekai_CraftRune_Havoc_III.label>
+  <Isekai_CraftRune_Havoc_III.description>무기에 부여할 3랭크 혼돈의 룬을 각인합니다.</Isekai_CraftRune_Havoc_III.description>
+  <Isekai_CraftRune_Havoc_III.jobString>혼돈의 룬 III 만드는 중.</Isekai_CraftRune_Havoc_III.jobString>
+  <Isekai_CraftRune_Havoc_IV.label>혼돈의 룬 IV 제작</Isekai_CraftRune_Havoc_IV.label>
+  <Isekai_CraftRune_Havoc_IV.description>무기에 부여할 4랭크 혼돈의 룬을 각인합니다.</Isekai_CraftRune_Havoc_IV.description>
+  <Isekai_CraftRune_Havoc_IV.jobString>혼돈의 룬 IV 만드는 중.</Isekai_CraftRune_Havoc_IV.jobString>
+  <Isekai_CraftRune_Havoc_V.label>혼돈의 룬 V 제작</Isekai_CraftRune_Havoc_V.label>
+  <Isekai_CraftRune_Havoc_V.description>무기에 부여할 5랭크 혼돈의 룬을 각인합니다.</Isekai_CraftRune_Havoc_V.description>
+  <Isekai_CraftRune_Havoc_V.jobString>혼돈의 룬 V 만드는 중.</Isekai_CraftRune_Havoc_V.jobString>
+  <Isekai_CraftRune_Devastation.label>파괴의 룬 I 제작</Isekai_CraftRune_Devastation.label>
+  <Isekai_CraftRune_Devastation.description>무기에 부여할 1랭크 파괴의 룬을 각인합니다.</Isekai_CraftRune_Devastation.description>
+  <Isekai_CraftRune_Devastation.jobString>파괴의 룬 I 만드는 중.</Isekai_CraftRune_Devastation.jobString>
+  <Isekai_CraftRune_Devastation_II.label>파괴의 룬 II 제작</Isekai_CraftRune_Devastation_II.label>
+  <Isekai_CraftRune_Devastation_II.description>무기에 부여할 2랭크 파괴의 룬을 각인합니다.</Isekai_CraftRune_Devastation_II.description>
+  <Isekai_CraftRune_Devastation_II.jobString>파괴의 룬 II 만드는 중.</Isekai_CraftRune_Devastation_II.jobString>
+  <Isekai_CraftRune_Devastation_III.label>파괴의 룬 III 제작</Isekai_CraftRune_Devastation_III.label>
+  <Isekai_CraftRune_Devastation_III.description>무기에 부여할 3랭크 파괴의 룬을 각인합니다.</Isekai_CraftRune_Devastation_III.description>
+  <Isekai_CraftRune_Devastation_III.jobString>파괴의 룬 III 만드는 중.</Isekai_CraftRune_Devastation_III.jobString>
+  <Isekai_CraftRune_Devastation_IV.label>파괴의 룬 IV 제작</Isekai_CraftRune_Devastation_IV.label>
+  <Isekai_CraftRune_Devastation_IV.description>무기에 부여할 4랭크 파괴의 룬을 각인합니다.</Isekai_CraftRune_Devastation_IV.description>
+  <Isekai_CraftRune_Devastation_IV.jobString>파괴의 룬 IV 만드는 중.</Isekai_CraftRune_Devastation_IV.jobString>
+  <Isekai_CraftRune_Devastation_V.label>파괴의 룬 V 제작</Isekai_CraftRune_Devastation_V.label>
+  <Isekai_CraftRune_Devastation_V.description>무기에 부여할 5랭크 파괴의 룬을 각인합니다.</Isekai_CraftRune_Devastation_V.description>
+  <Isekai_CraftRune_Devastation_V.jobString>파괴의 룬 V 만드는 중.</Isekai_CraftRune_Devastation_V.jobString>
+  <Isekai_CraftRune_Fortitude.label>용기의 룬 I 제작</Isekai_CraftRune_Fortitude.label>
+  <Isekai_CraftRune_Fortitude.description>무기에 부여할 1랭크 용기의 룬을 각인합니다.</Isekai_CraftRune_Fortitude.description>
+  <Isekai_CraftRune_Fortitude.jobString>용기의 룬 I 만드는 중.</Isekai_CraftRune_Fortitude.jobString>
+  <Isekai_CraftRune_Fortitude_II.label>용기의 룬 II 제작</Isekai_CraftRune_Fortitude_II.label>
+  <Isekai_CraftRune_Fortitude_II.description>무기에 부여할 2랭크 용기의 룬을 각인합니다.</Isekai_CraftRune_Fortitude_II.description>
+  <Isekai_CraftRune_Fortitude_II.jobString>용기의 룬 II 만드는 중.</Isekai_CraftRune_Fortitude_II.jobString>
+  <Isekai_CraftRune_Fortitude_III.label>용기의 룬 III 제작</Isekai_CraftRune_Fortitude_III.label>
+  <Isekai_CraftRune_Fortitude_III.description>무기에 부여할 3랭크 용기의 룬을 각인합니다.</Isekai_CraftRune_Fortitude_III.description>
+  <Isekai_CraftRune_Fortitude_III.jobString>용기의 룬 III 만드는 중.</Isekai_CraftRune_Fortitude_III.jobString>
+  <Isekai_CraftRune_Fortitude_IV.label>용기의 룬 IV 제작</Isekai_CraftRune_Fortitude_IV.label>
+  <Isekai_CraftRune_Fortitude_IV.description>무기에 부여할 4랭크 용기의 룬을 각인합니다.</Isekai_CraftRune_Fortitude_IV.description>
+  <Isekai_CraftRune_Fortitude_IV.jobString>용기의 룬 IV 만드는 중.</Isekai_CraftRune_Fortitude_IV.jobString>
+  <Isekai_CraftRune_Fortitude_V.label>용기의 룬 V 제작</Isekai_CraftRune_Fortitude_V.label>
+  <Isekai_CraftRune_Fortitude_V.description>무기에 부여할 5랭크 용기의 룬을 각인합니다.</Isekai_CraftRune_Fortitude_V.description>
+  <Isekai_CraftRune_Fortitude_V.jobString>용기의 룬 V 만드는 중.</Isekai_CraftRune_Fortitude_V.jobString>
+  <Isekai_CraftRune_Evasion.label>회피의 룬 I 제작</Isekai_CraftRune_Evasion.label>
+  <Isekai_CraftRune_Evasion.description>무기에 부여할 1랭크 회피의 룬을 각인합니다.</Isekai_CraftRune_Evasion.description>
+  <Isekai_CraftRune_Evasion.jobString>회피의 룬 I 만드는 중.</Isekai_CraftRune_Evasion.jobString>
+  <Isekai_CraftRune_Evasion_II.label>회피의 룬 II 제작</Isekai_CraftRune_Evasion_II.label>
+  <Isekai_CraftRune_Evasion_II.description>무기에 부여할 2랭크 회피의 룬을 각인합니다.</Isekai_CraftRune_Evasion_II.description>
+  <Isekai_CraftRune_Evasion_II.jobString>회피의 룬 II 만드는 중.</Isekai_CraftRune_Evasion_II.jobString>
+  <Isekai_CraftRune_Evasion_III.label>회피의 룬 III 제작</Isekai_CraftRune_Evasion_III.label>
+  <Isekai_CraftRune_Evasion_III.description>무기에 부여할 3랭크 회피의 룬을 각인합니다.</Isekai_CraftRune_Evasion_III.description>
+  <Isekai_CraftRune_Evasion_III.jobString>회피의 룬 III 만드는 중.</Isekai_CraftRune_Evasion_III.jobString>
+  <Isekai_CraftRune_Evasion_IV.label>회피의 룬 IV 제작</Isekai_CraftRune_Evasion_IV.label>
+  <Isekai_CraftRune_Evasion_IV.description>무기에 부여할 4랭크 회피의 룬을 각인합니다.</Isekai_CraftRune_Evasion_IV.description>
+  <Isekai_CraftRune_Evasion_IV.jobString>회피의 룬 IV 만드는 중.</Isekai_CraftRune_Evasion_IV.jobString>
+  <Isekai_CraftRune_Evasion_V.label>회피의 룬 V 제작</Isekai_CraftRune_Evasion_V.label>
+  <Isekai_CraftRune_Evasion_V.description>무기에 부여할 5랭크 회피의 룬을 각인합니다.</Isekai_CraftRune_Evasion_V.description>
+  <Isekai_CraftRune_Evasion_V.jobString>회피의 룬 V 만드는 중.</Isekai_CraftRune_Evasion_V.jobString>
+  <Isekai_CraftRune_Resistance.label>저항의 룬 I 제작</Isekai_CraftRune_Resistance.label>
+  <Isekai_CraftRune_Resistance.description>무기에 부여할 1랭크 저항의 룬을 각인합니다.</Isekai_CraftRune_Resistance.description>
+  <Isekai_CraftRune_Resistance.jobString>저항의 룬 I 만드는 중.</Isekai_CraftRune_Resistance.jobString>
+  <Isekai_CraftRune_Resistance_II.label>저항의 룬 II 제작</Isekai_CraftRune_Resistance_II.label>
+  <Isekai_CraftRune_Resistance_II.description>무기에 부여할 2랭크 저항의 룬을 각인합니다.</Isekai_CraftRune_Resistance_II.description>
+  <Isekai_CraftRune_Resistance_II.jobString>저항의 룬 II 만드는 중.</Isekai_CraftRune_Resistance_II.jobString>
+  <Isekai_CraftRune_Resistance_III.label>저항의 룬 III 제작</Isekai_CraftRune_Resistance_III.label>
+  <Isekai_CraftRune_Resistance_III.description>무기에 부여할 3랭크 저항의 룬을 각인합니다.</Isekai_CraftRune_Resistance_III.description>
+  <Isekai_CraftRune_Resistance_III.jobString>저항의 룬 III 만드는 중.</Isekai_CraftRune_Resistance_III.jobString>
+  <Isekai_CraftRune_Resistance_IV.label>저항의 룬 IV 제작</Isekai_CraftRune_Resistance_IV.label>
+  <Isekai_CraftRune_Resistance_IV.description>무기에 부여할 4랭크 저항의 룬을 각인합니다.</Isekai_CraftRune_Resistance_IV.description>
+  <Isekai_CraftRune_Resistance_IV.jobString>저항의 룬 IV 만드는 중.</Isekai_CraftRune_Resistance_IV.jobString>
+  <Isekai_CraftRune_Resistance_V.label>저항의 룬 V 제작</Isekai_CraftRune_Resistance_V.label>
+  <Isekai_CraftRune_Resistance_V.description>무기에 부여할 5랭크 저항의 룬을 각인합니다.</Isekai_CraftRune_Resistance_V.description>
+  <Isekai_CraftRune_Resistance_V.jobString>저항의 룬 V 만드는 중.</Isekai_CraftRune_Resistance_V.jobString>
+  <Isekai_CraftRune_Regeneration.label>재생의 룬 I 제작</Isekai_CraftRune_Regeneration.label>
+  <Isekai_CraftRune_Regeneration.description>무기에 부여할 1랭크 재생의 룬을 각인합니다.</Isekai_CraftRune_Regeneration.description>
+  <Isekai_CraftRune_Regeneration.jobString>재생의 룬 I 만드는 중.</Isekai_CraftRune_Regeneration.jobString>
+  <Isekai_CraftRune_Regeneration_II.label>재생의 룬 II 제작</Isekai_CraftRune_Regeneration_II.label>
+  <Isekai_CraftRune_Regeneration_II.description>무기에 부여할 2랭크 재생의 룬을 각인합니다.</Isekai_CraftRune_Regeneration_II.description>
+  <Isekai_CraftRune_Regeneration_II.jobString>재생의 룬 II 만드는 중.</Isekai_CraftRune_Regeneration_II.jobString>
+  <Isekai_CraftRune_Regeneration_III.label>재생의 룬 III 제작</Isekai_CraftRune_Regeneration_III.label>
+  <Isekai_CraftRune_Regeneration_III.description>무기에 부여할 3랭크 재생의 룬을 각인합니다.</Isekai_CraftRune_Regeneration_III.description>
+  <Isekai_CraftRune_Regeneration_III.jobString>재생의 룬 III 만드는 중.</Isekai_CraftRune_Regeneration_III.jobString>
+  <Isekai_CraftRune_Regeneration_IV.label>재생의 룬 IV 제작</Isekai_CraftRune_Regeneration_IV.label>
+  <Isekai_CraftRune_Regeneration_IV.description>무기에 부여할 4랭크 재생의 룬을 각인합니다.</Isekai_CraftRune_Regeneration_IV.description>
+  <Isekai_CraftRune_Regeneration_IV.jobString>재생의 룬 IV 만드는 중.</Isekai_CraftRune_Regeneration_IV.jobString>
+  <Isekai_CraftRune_Regeneration_V.label>재생의 룬 V 제작</Isekai_CraftRune_Regeneration_V.label>
+  <Isekai_CraftRune_Regeneration_V.description>무기에 부여할 5랭크 재생의 룬을 각인합니다.</Isekai_CraftRune_Regeneration_V.description>
+  <Isekai_CraftRune_Regeneration_V.jobString>재생의 룬 V 만드는 중.</Isekai_CraftRune_Regeneration_V.jobString>
+  <Isekai_CraftRune_Warding.label>안정의 룬 I 제작</Isekai_CraftRune_Warding.label>
+  <Isekai_CraftRune_Warding.description>무기에 부여할 1랭크 안정의 룬을 각인합니다.</Isekai_CraftRune_Warding.description>
+  <Isekai_CraftRune_Warding.jobString>안정의 룬 I 만드는 중.</Isekai_CraftRune_Warding.jobString>
+  <Isekai_CraftRune_Warding_II.label>안정의 룬 II 제작</Isekai_CraftRune_Warding_II.label>
+  <Isekai_CraftRune_Warding_II.description>무기에 부여할 2랭크 안정의 룬을 각인합니다.</Isekai_CraftRune_Warding_II.description>
+  <Isekai_CraftRune_Warding_II.jobString>안정의 룬 II 만드는 중.</Isekai_CraftRune_Warding_II.jobString>
+  <Isekai_CraftRune_Warding_III.label>안정의 룬 III 제작</Isekai_CraftRune_Warding_III.label>
+  <Isekai_CraftRune_Warding_III.description>무기에 부여할 3랭크 안정의 룬을 각인합니다.</Isekai_CraftRune_Warding_III.description>
+  <Isekai_CraftRune_Warding_III.jobString>안정의 룬 III 만드는 중.</Isekai_CraftRune_Warding_III.jobString>
+  <Isekai_CraftRune_Warding_IV.label>안정의 룬 IV 제작</Isekai_CraftRune_Warding_IV.label>
+  <Isekai_CraftRune_Warding_IV.description>무기에 부여할 4랭크 안정의 룬을 각인합니다.</Isekai_CraftRune_Warding_IV.description>
+  <Isekai_CraftRune_Warding_IV.jobString>안정의 룬 IV 만드는 중.</Isekai_CraftRune_Warding_IV.jobString>
+  <Isekai_CraftRune_Warding_V.label>안정의 룬 V 제작</Isekai_CraftRune_Warding_V.label>
+  <Isekai_CraftRune_Warding_V.description>무기에 부여할 5랭크 안정의 룬을 각인합니다.</Isekai_CraftRune_Warding_V.description>
+  <Isekai_CraftRune_Warding_V.jobString>안정의 룬 V 만드는 중.</Isekai_CraftRune_Warding_V.jobString>
+  <Isekai_CraftRune_Vitality.label>활력의 룬 I 제작</Isekai_CraftRune_Vitality.label>
+  <Isekai_CraftRune_Vitality.description>무기에 부여할 1랭크 활력의 룬을 각인합니다.</Isekai_CraftRune_Vitality.description>
+  <Isekai_CraftRune_Vitality.jobString>활력의 룬 I 만드는 중.</Isekai_CraftRune_Vitality.jobString>
+  <Isekai_CraftRune_Vitality_II.label>활력의 룬 II 제작</Isekai_CraftRune_Vitality_II.label>
+  <Isekai_CraftRune_Vitality_II.description>무기에 부여할 2랭크 활력의 룬을 각인합니다.</Isekai_CraftRune_Vitality_II.description>
+  <Isekai_CraftRune_Vitality_II.jobString>활력의 룬 II 만드는 중.</Isekai_CraftRune_Vitality_II.jobString>
+  <Isekai_CraftRune_Vitality_III.label>활력의 룬 III 제작</Isekai_CraftRune_Vitality_III.label>
+  <Isekai_CraftRune_Vitality_III.description>무기에 부여할 3랭크 활력의 룬을 각인합니다.</Isekai_CraftRune_Vitality_III.description>
+  <Isekai_CraftRune_Vitality_III.jobString>활력의 룬 III 만드는 중.</Isekai_CraftRune_Vitality_III.jobString>
+  <Isekai_CraftRune_Vitality_IV.label>활력의 룬 IV 제작</Isekai_CraftRune_Vitality_IV.label>
+  <Isekai_CraftRune_Vitality_IV.description>무기에 부여할 4랭크 활력의 룬을 각인합니다.</Isekai_CraftRune_Vitality_IV.description>
+  <Isekai_CraftRune_Vitality_IV.jobString>활력의 룬 IV 만드는 중.</Isekai_CraftRune_Vitality_IV.jobString>
+  <Isekai_CraftRune_Vitality_V.label>활력의 룬 V 제작</Isekai_CraftRune_Vitality_V.label>
+  <Isekai_CraftRune_Vitality_V.description>무기에 부여할 5랭크 활력의 룬을 각인합니다.</Isekai_CraftRune_Vitality_V.description>
+  <Isekai_CraftRune_Vitality_V.jobString>활력의 룬 V 만드는 중.</Isekai_CraftRune_Vitality_V.jobString>
+  <Isekai_CraftRune_Swiftness.label>신속의 룬 I 제작</Isekai_CraftRune_Swiftness.label>
+  <Isekai_CraftRune_Swiftness.description>무기에 부여할 1랭크 신속의 룬을 각인합니다.</Isekai_CraftRune_Swiftness.description>
+  <Isekai_CraftRune_Swiftness.jobString>신속의 룬 I 만드는 중.</Isekai_CraftRune_Swiftness.jobString>
+  <Isekai_CraftRune_Swiftness_II.label>신속의 룬 II 제작</Isekai_CraftRune_Swiftness_II.label>
+  <Isekai_CraftRune_Swiftness_II.description>무기에 부여할 2랭크 신속의 룬을 각인합니다.</Isekai_CraftRune_Swiftness_II.description>
+  <Isekai_CraftRune_Swiftness_II.jobString>신속의 룬 II 만드는 중.</Isekai_CraftRune_Swiftness_II.jobString>
+  <Isekai_CraftRune_Swiftness_III.label>신속의 룬 III 제작</Isekai_CraftRune_Swiftness_III.label>
+  <Isekai_CraftRune_Swiftness_III.description>무기에 부여할 3랭크 신속의 룬을 각인합니다.</Isekai_CraftRune_Swiftness_III.description>
+  <Isekai_CraftRune_Swiftness_III.jobString>신속의 룬 III 만드는 중.</Isekai_CraftRune_Swiftness_III.jobString>
+  <Isekai_CraftRune_Swiftness_IV.label>신속의 룬 IV 제작</Isekai_CraftRune_Swiftness_IV.label>
+  <Isekai_CraftRune_Swiftness_IV.description>무기에 부여할 4랭크 신속의 룬을 각인합니다.</Isekai_CraftRune_Swiftness_IV.description>
+  <Isekai_CraftRune_Swiftness_IV.jobString>신속의 룬 IV 만드는 중.</Isekai_CraftRune_Swiftness_IV.jobString>
+  <Isekai_CraftRune_Swiftness_V.label>신속의 룬 V 제작</Isekai_CraftRune_Swiftness_V.label>
+  <Isekai_CraftRune_Swiftness_V.description>무기에 부여할 5랭크 신속의 룬을 각인합니다.</Isekai_CraftRune_Swiftness_V.description>
+  <Isekai_CraftRune_Swiftness_V.jobString>신속의 룬 V 만드는 중.</Isekai_CraftRune_Swiftness_V.jobString>
+  <Isekai_CraftRune_Bulwark.label>수호의 룬 I 제작</Isekai_CraftRune_Bulwark.label>
+  <Isekai_CraftRune_Bulwark.description>무기에 부여할 1랭크 수호의 룬을 각인합니다.</Isekai_CraftRune_Bulwark.description>
+  <Isekai_CraftRune_Bulwark.jobString>수호의 룬 I 만드는 중.</Isekai_CraftRune_Bulwark.jobString>
+  <Isekai_CraftRune_Bulwark_II.label>수호의 룬 II 제작</Isekai_CraftRune_Bulwark_II.label>
+  <Isekai_CraftRune_Bulwark_II.description>무기에 부여할 2랭크 수호의 룬을 각인합니다.</Isekai_CraftRune_Bulwark_II.description>
+  <Isekai_CraftRune_Bulwark_II.jobString>수호의 룬 II 만드는 중.</Isekai_CraftRune_Bulwark_II.jobString>
+  <Isekai_CraftRune_Bulwark_III.label>수호의 룬 III 제작</Isekai_CraftRune_Bulwark_III.label>
+  <Isekai_CraftRune_Bulwark_III.description>무기에 부여할 3랭크 수호의 룬을 각인합니다.</Isekai_CraftRune_Bulwark_III.description>
+  <Isekai_CraftRune_Bulwark_III.jobString>수호의 룬 III 만드는 중.</Isekai_CraftRune_Bulwark_III.jobString>
+  <Isekai_CraftRune_Bulwark_IV.label>수호의 룬 IV 제작</Isekai_CraftRune_Bulwark_IV.label>
+  <Isekai_CraftRune_Bulwark_IV.description>무기에 부여할 4랭크 수호의 룬을 각인합니다.</Isekai_CraftRune_Bulwark_IV.description>
+  <Isekai_CraftRune_Bulwark_IV.jobString>수호의 룬 IV 만드는 중.</Isekai_CraftRune_Bulwark_IV.jobString>
+  <Isekai_CraftRune_Bulwark_V.label>수호의 룬 V 제작</Isekai_CraftRune_Bulwark_V.label>
+  <Isekai_CraftRune_Bulwark_V.description>무기에 부여할 5랭크 수호의 룬을 각인합니다.</Isekai_CraftRune_Bulwark_V.description>
+  <Isekai_CraftRune_Bulwark_V.jobString>수호의 룬 V 만드는 중.</Isekai_CraftRune_Bulwark_V.jobString>
+  <Isekai_DistillSmallManaCores.label>소형 마나 코어 증류</Isekai_DistillSmallManaCores.label>
+  <Isekai_DistillSmallManaCores.description>소형 마나 코어 3개를 시약병 1개 분량의 순수한 마나 정수로 증류합니다.</Isekai_DistillSmallManaCores.description>
+  <Isekai_DistillSmallManaCores.jobString>마나 코어 증류하는 중.</Isekai_DistillSmallManaCores.jobString>
+  <Isekai_DistillManaCores.label>일반 마나 코어 증류</Isekai_DistillManaCores.label>
+  <Isekai_DistillManaCores.description>일반 마나 코어 1개를 시약병 2개 분량의 순수한 마나 정수로 증류합니다.</Isekai_DistillManaCores.description>
+  <Isekai_DistillManaCores.jobString>마나 코어 증류하는 중.</Isekai_DistillManaCores.jobString>
+  <Isekai_DistillBigManaCores.label>대형 마나 코어 증류</Isekai_DistillBigManaCores.label>
+  <Isekai_DistillBigManaCores.description>대형 마나 코어 1개를 시약병 5개 분량의 순수한 마나 정수로 증류합니다. 상당량의 마법 에너지가 공정 중에 소실되지만 최종 정제된 정수는 룬 공작에 매우 유용하게 쓰입니다.</Isekai_DistillBigManaCores.description>
+  <Isekai_DistillBigManaCores.jobString>대형 마나 코어 증류하는 중.</Isekai_DistillBigManaCores.jobString>
+  <Isekai_DistillHugeManaCores.label>초대형 마나 코어 증류</Isekai_DistillHugeManaCores.label>
+  <Isekai_DistillHugeManaCores.description>초대형 마나 코어 1개를 시약병 12개 분량의 순수한 마나로 증류합니다. 안에 담긴 압도적인 마법 에너지는 막대한 산출량을 만들어 내지만 코어를 직접 흡수하는 게 훨씬 더 강력한 힘을 얻을지도 모릅니다.</Isekai_DistillHugeManaCores.description>
+  <Isekai_DistillHugeManaCores.jobString>초대형 마나 코어 증류하는 중.</Isekai_DistillHugeManaCores.jobString>
+</LanguageData>

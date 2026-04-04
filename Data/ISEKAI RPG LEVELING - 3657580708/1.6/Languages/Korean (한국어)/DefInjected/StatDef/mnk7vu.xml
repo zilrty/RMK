@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Isekai_CreatureRank.label>개체 랭크</Isekai_CreatureRank.label>
+  <Isekai_CreatureRank.description>해당 개체의 이세카이 랭크입니다. F랭크부터 세계급 랭크까지 존재하며, 고위 랭크일수록 능력치가 강하고 위험합니다.</Isekai_CreatureRank.description>
+  <Isekai_CreatureLevel.label>개체 레벨</Isekai_CreatureLevel.label>
+  <Isekai_CreatureLevel.description>해당 개체의 이세카이 레벨입니다. 플레이어 소속일 때 XP 획득과 함께 레벨이 오릅니다.</Isekai_CreatureLevel.description>
+</LanguageData>

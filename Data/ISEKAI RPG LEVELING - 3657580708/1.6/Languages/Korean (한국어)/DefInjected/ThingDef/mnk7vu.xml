@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Isekai_SmallManaCore.label>소형 마나 코어</Isekai_SmallManaCore.label>
+  <Isekai_SmallManaCore.description>사살된 대상으로부터 추출된 작은 마나 결정 파편입니다. 희미한 푸른빛이 일렁이며, 그다지 강력하진 않지만 모험가 한 명을 강화할 정도로 충분한 마력을 지니고 있습니다.
+
+소형 마나 코어를 흡수하면 1,000 XP를 획득합니다.</Isekai_SmallManaCore.description>
+  <Isekai_SmallManaCore.comps.1.useLabel>마나 코어 흡수하기</Isekai_SmallManaCore.comps.1.useLabel>
+  <Isekai_ManaCore.label>일반 마나 코어</Isekai_ManaCore.label>
+  <Isekai_ManaCore.description>사살된 대상으로부터 추출된 마나 결정 파편입니다. 뚜렷한 푸른빛으로 일렁이며, 손길이 닿으면 부드럽게 공명합니다. 응축된 마력이 괄목할 정도로 모험가 한 명을 강인하게 만들 수 있습니다.
+
+일반 마나 코어를 흡수하면 3,000 XP를 획득합니다.</Isekai_ManaCore.description>
+  <Isekai_ManaCore.comps.1.useLabel>마나 코어 흡수하기</Isekai_ManaCore.comps.1.useLabel>
+  <Isekai_BigManaCore.label>대형 마나 코어</Isekai_BigManaCore.label>
+  <Isekai_BigManaCore.description>마나가 응축된 커다란 결정 코어입니다. 눈부신 푸른 기운이 빛과 함께 온기를 발산합니다. 강력한 상대로부터 추출되어 담긴 순수한 에너지는 한계를 뚫고 나아갈 수 있는 디딤판으로 작용합니다.
+
+대형 마나 코어를 흡수하면 10,000 XP를 획득합니다.</Isekai_BigManaCore.description>
+  <Isekai_BigManaCore.comps.1.useLabel>마나 코어 흡수하기</Isekai_BigManaCore.comps.1.useLabel>
+  <Isekai_HugeManaCore.label>초대형 마나 코어</Isekai_HugeManaCore.label>
+  <Isekai_HugeManaCore.description>순수하게 응결된 마나의 거대한 결정 코어입니다. 표면이 마력으로 지직거리고, 춤추는 듯한 그림자를 발하며 강렬한 하늘빛이 뿜어져 나옵니다. 오직 전능한 생명체들만이 이처럼 귀한 보물을 내놓습니다. 안에 깃든 압도적인 힘은 현재의 레벨을 몇 단계나 뛰어넘을 수 있도록 발돋음이 가능합니다.
+
+초대형 마나 코어를 흡수하면 30,000 XP를 획득합니다.</Isekai_HugeManaCore.description>
+  <Isekai_HugeManaCore.comps.1.useLabel>마나 코어 흡수하기</Isekai_HugeManaCore.comps.1.useLabel>
+  <Isekai_RespecOrb.label>신생의 구체</Isekai_RespecOrb.label>
+  <Isekai_RespecOrb.description>신생의 정수를 품어 표면에 마력이 일렁이는 결정 구체입니다. 사용하면 대상에게 분배되었던 모든 능력치 포인트를 초기화해 처음부터 다시 할당할 수 있도록 작용합니다.\n\n사용하면 구체는 용해되며, 깃들었던 마력이 대상의 잠재력을 재구축합니다. 레벨과 XP, 그리고 타이틀은 초기화되지 않고, 오직 분배되었던 능력치만 초기화됩니다.\n\n마나 코어를 이용해 기계 작업대에서 제작할 수 있기도 하며, 희귀품 상인들로부터 구매할 수도 있습니다.</Isekai_RespecOrb.description>
+  <Isekai_RespecOrb.comps.1.useLabel>신생의 구체로 능력치 초기화하기</Isekai_RespecOrb.comps.1.useLabel>
+  <Isekai_StarFragment.label>별의 파편</Isekai_StarFragment.label>
+  <Isekai_StarFragment.description>강력한 대상이 죽으며 뿔뿔이 흩어진 별의 에너지가 결정화된 조각입니다. 차가운 에테르 기운이 일렁이며, 이세계 모험가의 별자리와 공명합니다.
+
+별의 파편을 흡수하면 각각 1만큼의 별자리 포인트와 멀티클래스 해금을 얻을 수 있습니다. (모험가로 하여금 별자리의 두 번째, 혹은 세 번째 클래스 트리를 선택할 수 있게끔 작용합니다.) 아주 드물게 희귀품 상인이 들고 올 때가 있습니다.</Isekai_StarFragment.description>
+  <Isekai_StarFragment.comps.1.useLabel>별의 파편 흡수하기</Isekai_StarFragment.comps.1.useLabel>
+  <Isekai_HerosAwakeningScroll.label>영웅의 각성 스크롤</Isekai_HerosAwakeningScroll.label>
+  <Isekai_HerosAwakeningScroll.description>황금빛을 발하는 고대의 스크롤입니다. 사용하면 대상에게 주인공 특성을 각성시키며, 10배의 XP 획득량과 레벨당 추가 능력치 +2를 부여하는 대신 사회적 지위를 희생합니다.
+
+이것이 바로 선택받은 자의 힘입니다. 압도적이고 독자적이며, 절대적입니다.</Isekai_HerosAwakeningScroll.description>
+  <Isekai_HerosAwakeningScroll.comps.2.useLabel>각성 스크롤 읽기</Isekai_HerosAwakeningScroll.comps.2.useLabel>
+  <Isekai_ReincarnationCrystal.label>환생의 수정</Isekai_ReincarnationCrystal.label>
+  <Isekai_ReincarnationCrystal.description>다른 생의 기운이 담겨 은은하게 빛나는 수정입니다. 사용하면 대상의 레벨을 1로 되돌리고 모든 능력치를 기본값으로 초기화하며, 환생자 특성을 부여합니다. 환생은 회차 계승 형태로서, 5배의 XP 획득량과 별자리 포인트 보너스 +10, 그리고 별자리 성장 속도 증가 효과를 제공합니다.
+
+별자리 진행도는 유지됩니다. 전생의 기억을 가진 채 새로이 삶을 시작하며 이전하곤 비교도 할 수 없을 정도로 빠르게 성장합니다.</Isekai_ReincarnationCrystal.description>
+  <Isekai_ReincarnationCrystal.comps.2.useLabel>환생의 수정 흡수하기</Isekai_ReincarnationCrystal.comps.2.useLabel>
+  <Isekai_VillainsMask.label>악당의 가면</Isekai_VillainsMask.label>
+  <Isekai_VillainsMask.description>악한 기운을 발산하는 불길한 가면입니다. 착용하면 대상에게 악당 특성을 각성시키며, 8배의 XP 획득량과 파괴적인 전투력을 끌어올리지만 착용자는 모두에게 매도당할 것입니다.
+
+이 가면을 쓴 자는 모든 유대를 희생하는 대가로 무시무시한 힘을 얻습니다.</Isekai_VillainsMask.description>
+  <Isekai_VillainsMask.comps.2.useLabel>악당의 가면 착용하기</Isekai_VillainsMask.comps.2.useLabel>
+  <Isekai_SummoningCircleScroll.label>소환 서클 스크롤</Isekai_SummoningCircleScroll.label>
+  <Isekai_SummoningCircleScroll.description>저승의 신비 문자로 쓰인 영묘한 스크롤입니다. 해당 스크롤을 찢어 활성화함으로써 다른 세계로 이어지는 차원의 틈을 열어 새로운 영웅을 소환합니다.
+
+이곳으로 불러들인 영웅은 소환된 영웅 특성을 가지고 있으며, 3배의 XP 획득량과 레벨당 추가 능력치 +1, 정신 이상 면역, 그리고 차원 이동으로 인한 영구적인 기분 변화 패널티를 짊어질 것입니다.
+
+해당 스크롤은 사용자에게는 아무런 효과가 없습니다. 오직 새로운 이를 정착지로 참여시킬 뿐입니다.</Isekai_SummoningCircleScroll.description>
+  <Isekai_SummoningCircleScroll.comps.2.useLabel>소환 서클 활성화하기</Isekai_SummoningCircleScroll.comps.2.useLabel>
+  <Isekai_RegressionOrb.label>회귀의 구체</Isekai_RegressionOrb.label>
+  <Isekai_RegressionOrb.description>특정 대상의 의식을 과거로 되돌려 보내는 시간의 구체입니다. 회귀자 특성이 부여되며 XP 획득량이 4배로 늘고, 언제든 별자리 포인트를 재분배할 수 있습니다.
+
+회귀자는 무엇이 다가올지 알고 있습니다. 아직 펼쳐지지 않은 미래로부터 얻은 지식으로 무장한 채로 말이지요.</Isekai_RegressionOrb.description>
+  <Isekai_RegressionOrb.comps.2.useLabel>회귀의 구체 활성화하기</Isekai_RegressionOrb.comps.2.useLabel>
+  <Isekai_ReinforcementCore.label>강화 코어</Isekai_ReinforcementCore.label>
+  <Isekai_ReinforcementCore.description>막대한 마법 에너지가 가득 찬 짙은 결정화 코어입니다. 가장 위력적이고 비범한개체들로부터 추출되며, 고레벨 제련을 거치는 장비를 안정화하는 데에 쓰입니다. 강화 코어가 없으면 장비 수준을 +5 이상으로 제련할 수 없습니다.
+
+제련 작업대를 통한 +6부터 +10까지의 제련에 필요합니다.</Isekai_ReinforcementCore.description>
+  <Isekai_ManaEssence.label>마나 정수</Isekai_ManaEssence.label>
+  <Isekai_ManaEssence.description>정련하여 깨끗하게 걸러진 마나의 정수로서, 제련 작업대에서 마나 코어를 증류해 만들어 냈습니다. 희미한 빛이 일렁거리는 액체는 룬 작업대를 통해 룬 공작을 하는 데에 쓰이는 주된 원료입니다.
+
+제련 작업대에서 마나 코어를 증류하여 생산됩니다.</Isekai_ManaEssence.description>
+  <Isekai_Forge.label>제련 작업대</Isekai_Forge.label>
+  <Isekai_Forge.description>초자연적인 에너지가 깃든 신비로운 단조 작업대입니다. 무기와 방어구를 비상한 수준의 위력으로 제련하는 데에 쓰이며, 마나 코어를 순수한 마나 정수로 증류하는 작업에도 사용됩니다.
+
+제련은 장비를 +1부터 +10까지 강화시키며, 고레벨로 갈수록 위험도가 증가합니다. +5 이상의 장비는 희귀한 강화 코어가 필요하며, 높은 위험도로 인해 실패 시 장비가 파괴될 수 있습니다.</Isekai_Forge.description>
+  <Isekai_RunicStation.label>룬 작업대</Isekai_RunicStation.label>
+  <Isekai_RunicStation.description>고대의 룬 문자가 새겨진 아케인 공작 작업대입니다. 마나 정수로부터 마법 룬을 다루는 데에 쓰이며, 무기나 방어구에 깃들여 막강한 마법 기반의 강화 능력을 부여합니다.
+
+무기에는 2개의 룬을 깃들일 수 있으며, 방어구는 최대 3개입니다. 장착한 룬을 해제할 시 룬은 파괴됩니다.</Isekai_RunicStation.description>
+  <Isekai_Rune_Fury.label>분노의 룬 I</Isekai_Rune_Fury.label>
+  <Isekai_Rune_Fury.description>착용자의 손을 빠르게 해 주는 효과의 타오르는 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fury.description>
+  <Isekai_Rune_Fury_II.label>분노의 룬 II</Isekai_Rune_Fury_II.label>
+  <Isekai_Rune_Fury_II.description>착용자의 손을 빠르게 해 주는 효과의 타오르는 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fury_II.description>
+  <Isekai_Rune_Fury_III.label>분노의 룬 III</Isekai_Rune_Fury_III.label>
+  <Isekai_Rune_Fury_III.description>착용자의 손을 빠르게 해 주는 효과의 타오르는 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fury_III.description>
+  <Isekai_Rune_Fury_IV.label>분노의 룬 IV</Isekai_Rune_Fury_IV.label>
+  <Isekai_Rune_Fury_IV.description>착용자의 손을 빠르게 해 주는 효과의 타오르는 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fury_IV.description>
+  <Isekai_Rune_Fury_V.label>분노의 룬 V</Isekai_Rune_Fury_V.label>
+  <Isekai_Rune_Fury_V.description>착용자의 손을 빠르게 해 주는 효과의 타오르는 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fury_V.description>
+  <Isekai_Rune_Precision.label>정밀의 룬 I</Isekai_Rune_Precision.label>
+  <Isekai_Rune_Precision.description>원거리 조준을 안정시키는 차분하고 집중된 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Precision.description>
+  <Isekai_Rune_Precision_II.label>정밀의 룬 II</Isekai_Rune_Precision_II.label>
+  <Isekai_Rune_Precision_II.description>원거리 조준을 안정시키는 차분하고 집중된 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Precision_II.description>
+  <Isekai_Rune_Precision_III.label>정밀의 룬 III</Isekai_Rune_Precision_III.label>
+  <Isekai_Rune_Precision_III.description>원거리 조준을 안정시키는 차분하고 집중된 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Precision_III.description>
+  <Isekai_Rune_Precision_IV.label>정밀의 룬 IV</Isekai_Rune_Precision_IV.label>
+  <Isekai_Rune_Precision_IV.description>원거리 조준을 안정시키는 차분하고 집중된 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Precision_IV.description>
+  <Isekai_Rune_Precision_V.label>정밀의 룬 V</Isekai_Rune_Precision_V.label>
+  <Isekai_Rune_Precision_V.description>원거리 조준을 안정시키는 차분하고 집중된 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Precision_V.description>
+  <Isekai_Rune_Vampirism.label>흡혈의 룬 I</Isekai_Rune_Vampirism.label>
+  <Isekai_Rune_Vampirism.description>적중한 적의 생명력을 빨아드리는 어두운 진홍빛의 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vampirism.description>
+  <Isekai_Rune_Vampirism_II.label>흡혈의 룬 II</Isekai_Rune_Vampirism_II.label>
+  <Isekai_Rune_Vampirism_II.description>적중한 적의 생명력을 빨아드리는 어두운 진홍빛의 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vampirism_II.description>
+  <Isekai_Rune_Vampirism_III.label>흡혈의 룬 III</Isekai_Rune_Vampirism_III.label>
+  <Isekai_Rune_Vampirism_III.description>적중한 적의 생명력을 빨아드리는 어두운 진홍빛의 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vampirism_III.description>
+  <Isekai_Rune_Vampirism_IV.label>흡혈의 룬 IV</Isekai_Rune_Vampirism_IV.label>
+  <Isekai_Rune_Vampirism_IV.description>적중한 적의 생명력을 빨아드리는 어두운 진홍빛의 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vampirism_IV.description>
+  <Isekai_Rune_Vampirism_V.label>흡혈의 룬 V</Isekai_Rune_Vampirism_V.label>
+  <Isekai_Rune_Vampirism_V.description>적중한 적의 생명력을 빨아드리는 어두운 진홍빛의 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vampirism_V.description>
+  <Isekai_Rune_Thunder.label>천둥의 룬 I</Isekai_Rune_Thunder.label>
+  <Isekai_Rune_Thunder.description>적중한 적의 일시 마비 효과를 지닌 정전기가 튀어오르는 번개의 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Thunder.description>
+  <Isekai_Rune_Thunder_II.label>천둥의 룬 II</Isekai_Rune_Thunder_II.label>
+  <Isekai_Rune_Thunder_II.description>적중한 적의 일시 마비 효과를 지닌 정전기가 튀어오르는 번개의 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Thunder_II.description>
+  <Isekai_Rune_Thunder_III.label>천둥의 룬 III</Isekai_Rune_Thunder_III.label>
+  <Isekai_Rune_Thunder_III.description>적중한 적의 일시 마비 효과를 지닌 정전기가 튀어오르는 번개의 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Thunder_III.description>
+  <Isekai_Rune_Thunder_IV.label>천둥의 룬 IV</Isekai_Rune_Thunder_IV.label>
+  <Isekai_Rune_Thunder_IV.description>적중한 적의 일시 마비 효과를 지닌 정전기가 튀어오르는 번개의 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Thunder_IV.description>
+  <Isekai_Rune_Thunder_V.label>천둥의 룬 V</Isekai_Rune_Thunder_V.label>
+  <Isekai_Rune_Thunder_V.description>적중한 적의 일시 마비 효과를 지닌 정전기가 튀어오르는 번개의 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Thunder_V.description>
+  <Isekai_Rune_Flame.label>불꽃의 룬 I</Isekai_Rune_Flame.label>
+  <Isekai_Rune_Flame.description>공격에 불꽃을 휘감는 격렬의 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Flame.description>
+  <Isekai_Rune_Flame_II.label>불꽃의 룬 II</Isekai_Rune_Flame_II.label>
+  <Isekai_Rune_Flame_II.description>공격에 불꽃을 휘감는 격렬의 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Flame_II.description>
+  <Isekai_Rune_Flame_III.label>불꽃의 룬 III</Isekai_Rune_Flame_III.label>
+  <Isekai_Rune_Flame_III.description>공격에 불꽃을 휘감는 격렬의 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Flame_III.description>
+  <Isekai_Rune_Flame_IV.label>불꽃의 룬 IV</Isekai_Rune_Flame_IV.label>
+  <Isekai_Rune_Flame_IV.description>공격에 불꽃을 휘감는 격렬의 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Flame_IV.description>
+  <Isekai_Rune_Flame_V.label>불꽃의 룬 V</Isekai_Rune_Flame_V.label>
+  <Isekai_Rune_Flame_V.description>공격에 불꽃을 휘감는 격렬의 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Flame_V.description>
+  <Isekai_Rune_Frost.label>서리의 룬 I</Isekai_Rune_Frost.label>
+  <Isekai_Rune_Frost.description>적중한 적을 오한에 떨게 하는 얼어붙은 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Frost.description>
+  <Isekai_Rune_Frost_II.label>서리의 룬 II</Isekai_Rune_Frost_II.label>
+  <Isekai_Rune_Frost_II.description>적중한 적을 오한에 떨게 하는 얼어붙은 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Frost_II.description>
+  <Isekai_Rune_Frost_III.label>서리의 룬 III</Isekai_Rune_Frost_III.label>
+  <Isekai_Rune_Frost_III.description>적중한 적을 오한에 떨게 하는 얼어붙은 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Frost_III.description>
+  <Isekai_Rune_Frost_IV.label>서리의 룬 IV</Isekai_Rune_Frost_IV.label>
+  <Isekai_Rune_Frost_IV.description>적중한 적을 오한에 떨게 하는 얼어붙은 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Frost_IV.description>
+  <Isekai_Rune_Frost_V.label>서리의 룬 V</Isekai_Rune_Frost_V.label>
+  <Isekai_Rune_Frost_V.description>적중한 적을 오한에 떨게 하는 얼어붙은 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Frost_V.description>
+  <Isekai_Rune_Sharpness.label>관통의 룬 I</Isekai_Rune_Sharpness.label>
+  <Isekai_Rune_Sharpness.description>가장 튼튼한 갑옷조차도 가르는 벼린 날의 예리한 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Sharpness.description>
+  <Isekai_Rune_Sharpness_II.label>관통의 룬 II</Isekai_Rune_Sharpness_II.label>
+  <Isekai_Rune_Sharpness_II.description>가장 튼튼한 갑옷조차도 가르는 벼린 날의 예리한 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Sharpness_II.description>
+  <Isekai_Rune_Sharpness_III.label>관통의 룬 III</Isekai_Rune_Sharpness_III.label>
+  <Isekai_Rune_Sharpness_III.description>가장 튼튼한 갑옷조차도 가르는 벼린 날의 예리한 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Sharpness_III.description>
+  <Isekai_Rune_Sharpness_IV.label>관통의 룬 IV</Isekai_Rune_Sharpness_IV.label>
+  <Isekai_Rune_Sharpness_IV.description>가장 튼튼한 갑옷조차도 가르는 벼린 날의 예리한 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Sharpness_IV.description>
+  <Isekai_Rune_Sharpness_V.label>관통의 룬 V</Isekai_Rune_Sharpness_V.label>
+  <Isekai_Rune_Sharpness_V.description>가장 튼튼한 갑옷조차도 가르는 벼린 날의 예리한 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Sharpness_V.description>
+  <Isekai_Rune_Havoc.label>혼돈의 룬 I</Isekai_Rune_Havoc.label>
+  <Isekai_Rune_Havoc.description>파괴적인 힘을 바깥으로 분출하는 난폭한 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Havoc.description>
+  <Isekai_Rune_Havoc_II.label>혼돈의 룬 II</Isekai_Rune_Havoc_II.label>
+  <Isekai_Rune_Havoc_II.description>파괴적인 힘을 바깥으로 분출하는 난폭한 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Havoc_II.description>
+  <Isekai_Rune_Havoc_III.label>혼돈의 룬 III</Isekai_Rune_Havoc_III.label>
+  <Isekai_Rune_Havoc_III.description>파괴적인 힘을 바깥으로 분출하는 난폭한 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Havoc_III.description>
+  <Isekai_Rune_Havoc_IV.label>혼돈의 룬 IV</Isekai_Rune_Havoc_IV.label>
+  <Isekai_Rune_Havoc_IV.description>파괴적인 힘을 바깥으로 분출하는 난폭한 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Havoc_IV.description>
+  <Isekai_Rune_Havoc_V.label>혼돈의 룬 V</Isekai_Rune_Havoc_V.label>
+  <Isekai_Rune_Havoc_V.description>파괴적인 힘을 바깥으로 분출하는 난폭한 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Havoc_V.description>
+  <Isekai_Rune_Devastation.label>파괴의 룬 I</Isekai_Rune_Devastation.label>
+  <Isekai_Rune_Devastation.description>원거리 투사체의 위력을 증폭시키는 불안정한 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Devastation.description>
+  <Isekai_Rune_Devastation_II.label>파괴의 룬 II</Isekai_Rune_Devastation_II.label>
+  <Isekai_Rune_Devastation_II.description>원거리 투사체의 위력을 증폭시키는 불안정한 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Devastation_II.description>
+  <Isekai_Rune_Devastation_III.label>파괴의 룬 III</Isekai_Rune_Devastation_III.label>
+  <Isekai_Rune_Devastation_III.description>원거리 투사체의 위력을 증폭시키는 불안정한 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Devastation_III.description>
+  <Isekai_Rune_Devastation_IV.label>파괴의 룬 IV</Isekai_Rune_Devastation_IV.label>
+  <Isekai_Rune_Devastation_IV.description>원거리 투사체의 위력을 증폭시키는 불안정한 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Devastation_IV.description>
+  <Isekai_Rune_Devastation_V.label>파괴의 룬 V</Isekai_Rune_Devastation_V.label>
+  <Isekai_Rune_Devastation_V.description>원거리 투사체의 위력을 증폭시키는 불안정한 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Devastation_V.description>
+  <Isekai_Rune_Fortitude.label>용기의 룬 I</Isekai_Rune_Fortitude.label>
+  <Isekai_Rune_Fortitude.description>갑옷의 내구력을 강화하는 견고한 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fortitude.description>
+  <Isekai_Rune_Fortitude_II.label>용기의 룬 II</Isekai_Rune_Fortitude_II.label>
+  <Isekai_Rune_Fortitude_II.description>갑옷의 내구력을 강화하는 견고한 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fortitude_II.description>
+  <Isekai_Rune_Fortitude_III.label>용기의 룬 III</Isekai_Rune_Fortitude_III.label>
+  <Isekai_Rune_Fortitude_III.description>갑옷의 내구력을 강화하는 견고한 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fortitude_III.description>
+  <Isekai_Rune_Fortitude_IV.label>용기의 룬 IV</Isekai_Rune_Fortitude_IV.label>
+  <Isekai_Rune_Fortitude_IV.description>갑옷의 내구력을 강화하는 견고한 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fortitude_IV.description>
+  <Isekai_Rune_Fortitude_V.label>용기의 룬 V</Isekai_Rune_Fortitude_V.label>
+  <Isekai_Rune_Fortitude_V.description>갑옷의 내구력을 강화하는 견고한 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Fortitude_V.description>
+  <Isekai_Rune_Evasion.label>회피의 룬 I</Isekai_Rune_Evasion.label>
+  <Isekai_Rune_Evasion.description>착용자의 발을 가볍도록 해 주는 날렵한 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Evasion.description>
+  <Isekai_Rune_Evasion_II.label>회피의 룬 II</Isekai_Rune_Evasion_II.label>
+  <Isekai_Rune_Evasion_II.description>착용자의 발을 가볍도록 해 주는 날렵한 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Evasion_II.description>
+  <Isekai_Rune_Evasion_III.label>회피의 룬 III</Isekai_Rune_Evasion_III.label>
+  <Isekai_Rune_Evasion_III.description>착용자의 발을 가볍도록 해 주는 날렵한 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Evasion_III.description>
+  <Isekai_Rune_Evasion_IV.label>회피의 룬 IV</Isekai_Rune_Evasion_IV.label>
+  <Isekai_Rune_Evasion_IV.description>착용자의 발을 가볍도록 해 주는 날렵한 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Evasion_IV.description>
+  <Isekai_Rune_Evasion_V.label>회피의 룬 V</Isekai_Rune_Evasion_V.label>
+  <Isekai_Rune_Evasion_V.description>착용자의 발을 가볍도록 해 주는 날렵한 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Evasion_V.description>
+  <Isekai_Rune_Resistance.label>저항의 룬 I</Isekai_Rune_Resistance.label>
+  <Isekai_Rune_Resistance.description>피해를 흡수하는 묵직한 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Resistance.description>
+  <Isekai_Rune_Resistance_II.label>저항의 룬 II</Isekai_Rune_Resistance_II.label>
+  <Isekai_Rune_Resistance_II.description>피해를 흡수하는 묵직한 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Resistance_II.description>
+  <Isekai_Rune_Resistance_III.label>저항의 룬 III</Isekai_Rune_Resistance_III.label>
+  <Isekai_Rune_Resistance_III.description>피해를 흡수하는 묵직한 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Resistance_III.description>
+  <Isekai_Rune_Resistance_IV.label>저항의 룬 IV</Isekai_Rune_Resistance_IV.label>
+  <Isekai_Rune_Resistance_IV.description>피해를 흡수하는 묵직한 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Resistance_IV.description>
+  <Isekai_Rune_Resistance_V.label>저항의 룬 V</Isekai_Rune_Resistance_V.label>
+  <Isekai_Rune_Resistance_V.description>피해를 흡수하는 묵직한 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Resistance_V.description>
+  <Isekai_Rune_Regeneration.label>재생의 룬 I</Isekai_Rune_Regeneration.label>
+  <Isekai_Rune_Regeneration.description>상처 치유를 촉진하며 초록빛으로 맥동하는 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Regeneration.description>
+  <Isekai_Rune_Regeneration_II.label>재생의 룬 II</Isekai_Rune_Regeneration_II.label>
+  <Isekai_Rune_Regeneration_II.description>상처 치유를 촉진하며 초록빛으로 맥동하는 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Regeneration_II.description>
+  <Isekai_Rune_Regeneration_III.label>재생의 룬 III</Isekai_Rune_Regeneration_III.label>
+  <Isekai_Rune_Regeneration_III.description>상처 치유를 촉진하며 초록빛으로 맥동하는 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Regeneration_III.description>
+  <Isekai_Rune_Regeneration_IV.label>재생의 룬 IV</Isekai_Rune_Regeneration_IV.label>
+  <Isekai_Rune_Regeneration_IV.description>상처 치유를 촉진하며 초록빛으로 맥동하는 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Regeneration_IV.description>
+  <Isekai_Rune_Regeneration_V.label>재생의 룬 V</Isekai_Rune_Regeneration_V.label>
+  <Isekai_Rune_Regeneration_V.description>상처 치유를 촉진하며 초록빛으로 맥동하는 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Regeneration_V.description>
+  <Isekai_Rune_Warding.label>안정의 룬 I</Isekai_Rune_Warding.label>
+  <Isekai_Rune_Warding.description>정신을 보호해 주는 잔잔한 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Warding.description>
+  <Isekai_Rune_Warding_II.label>안정의 룬 II</Isekai_Rune_Warding_II.label>
+  <Isekai_Rune_Warding_II.description>정신을 보호해 주는 잔잔한 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Warding_II.description>
+  <Isekai_Rune_Warding_III.label>안정의 룬 III</Isekai_Rune_Warding_III.label>
+  <Isekai_Rune_Warding_III.description>정신을 보호해 주는 잔잔한 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Warding_III.description>
+  <Isekai_Rune_Warding_IV.label>안정의 룬 IV</Isekai_Rune_Warding_IV.label>
+  <Isekai_Rune_Warding_IV.description>정신을 보호해 주는 잔잔한 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Warding_IV.description>
+  <Isekai_Rune_Warding_V.label>안정의 룬 V</Isekai_Rune_Warding_V.label>
+  <Isekai_Rune_Warding_V.description>정신을 보호해 주는 잔잔한 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Warding_V.description>
+  <Isekai_Rune_Vitality.label>활력의 룬 I</Isekai_Rune_Vitality.label>
+  <Isekai_Rune_Vitality.description>면역력를 끌어올리는 따스한 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vitality.description>
+  <Isekai_Rune_Vitality_II.label>활력의 룬 II</Isekai_Rune_Vitality_II.label>
+  <Isekai_Rune_Vitality_II.description>면역력를 끌어올리는 따스한 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vitality_II.description>
+  <Isekai_Rune_Vitality_III.label>활력의 룬 III</Isekai_Rune_Vitality_III.label>
+  <Isekai_Rune_Vitality_III.description>면역력를 끌어올리는 따스한 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vitality_III.description>
+  <Isekai_Rune_Vitality_IV.label>활력의 룬 IV</Isekai_Rune_Vitality_IV.label>
+  <Isekai_Rune_Vitality_IV.description>면역력를 끌어올리는 따스한 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vitality_IV.description>
+  <Isekai_Rune_Vitality_V.label>활력의 룬 V</Isekai_Rune_Vitality_V.label>
+  <Isekai_Rune_Vitality_V.description>면역력를 끌어올리는 따스한 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Vitality_V.description>
+  <Isekai_Rune_Swiftness.label>신속의 룬 I</Isekai_Rune_Swiftness.label>
+  <Isekai_Rune_Swiftness.description>민첩성을 강화하는 가벼운 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Swiftness.description>
+  <Isekai_Rune_Swiftness_II.label>신속의 룬 II</Isekai_Rune_Swiftness_II.label>
+  <Isekai_Rune_Swiftness_II.description>민첩성을 강화하는 가벼운 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Swiftness_II.description>
+  <Isekai_Rune_Swiftness_III.label>신속의 룬 III</Isekai_Rune_Swiftness_III.label>
+  <Isekai_Rune_Swiftness_III.description>민첩성을 강화하는 가벼운 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Swiftness_III.description>
+  <Isekai_Rune_Swiftness_IV.label>신속의 룬 IV</Isekai_Rune_Swiftness_IV.label>
+  <Isekai_Rune_Swiftness_IV.description>민첩성을 강화하는 가벼운 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Swiftness_IV.description>
+  <Isekai_Rune_Swiftness_V.label>신속의 룬 V</Isekai_Rune_Swiftness_V.label>
+  <Isekai_Rune_Swiftness_V.description>민첩성을 강화하는 가벼운 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Swiftness_V.description>
+  <Isekai_Rune_Bulwark.label>수호의 룬 I</Isekai_Rune_Bulwark.label>
+  <Isekai_Rune_Bulwark.description>피해량을 줄여 주는 거대한 보호의 룬 스톤(1랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Bulwark.description>
+  <Isekai_Rune_Bulwark_II.label>수호의 룬 II</Isekai_Rune_Bulwark_II.label>
+  <Isekai_Rune_Bulwark_II.description>피해량을 줄여 주는 거대한 보호의 룬 스톤(2랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Bulwark_II.description>
+  <Isekai_Rune_Bulwark_III.label>수호의 룬 III</Isekai_Rune_Bulwark_III.label>
+  <Isekai_Rune_Bulwark_III.description>피해량을 줄여 주는 거대한 보호의 룬 스톤(3랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Bulwark_III.description>
+  <Isekai_Rune_Bulwark_IV.label>수호의 룬 IV</Isekai_Rune_Bulwark_IV.label>
+  <Isekai_Rune_Bulwark_IV.description>피해량을 줄여 주는 거대한 보호의 룬 스톤(4랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Bulwark_IV.description>
+  <Isekai_Rune_Bulwark_V.label>수호의 룬 V</Isekai_Rune_Bulwark_V.label>
+  <Isekai_Rune_Bulwark_V.description>피해량을 줄여 주는 거대한 보호의 룬 스톤(5랭크)입니다. 룬 작업대를 통해 무기에 적용할 수 있습니다.</Isekai_Rune_Bulwark_V.description>
+</LanguageData>
