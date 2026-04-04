@@ -23,13 +23,13 @@
 // 번역 파일의 위치는 '모드 폴더/Languages/사용 언어 폴더/Strings/Names' 이며, 파일 이름은 변경되어선 안됩니다.
 
 // 1. [Translated]
-HumanStandard.None.Last.Hansen(Hansen)->한센
+HumanStandard.None.Last.Hansen(Hansen)->핸슨
 HumanStandard.None.Last.Hart(Hart)->하트
 HumanStandard.None.Last.Hudson(Hudson)->허드슨
 HumanStandard.None.Last.Indigo(Indigo)->인디고
 HumanStandard.None.Last.Wu(Wu)->우
 HumanStandard.None.Last.Lenster(Lenster)->렌스터
-HumanStandard.None.Last.Shen(Shen)->셴
+HumanStandard.None.Last.Shen(Shen)->션
 HumanStandard.None.Last.Fulton(Fulton)->풀턴
 HumanStandard.None.Last.McTodd(McTodd)->맥토드
 HumanStandard.None.Last.Love(Love)->러브
@@ -126,7 +126,7 @@ HumanStandard.None.Last.Blackburn(Blackburn)->블랙번
 HumanStandard.None.Last.Blackwell(Blackwell)->블랙웰
 HumanStandard.None.Last.Blair(Blair)->블레어
 HumanStandard.None.Last.Blake(Blake)->블레이크
-HumanStandard.None.Last.Blanchard(Blanchard)->블랜차드
+HumanStandard.None.Last.Blanchard(Blanchard)->블랜처드
 HumanStandard.None.Last.Blevins(Blevins)->블레빈스
 HumanStandard.None.Last.Bolton(Bolton)->볼턴
 HumanStandard.None.Last.Bond(Bond)->본드
@@ -134,16 +134,16 @@ HumanStandard.None.Last.Bonilla(Bonilla)->보니야
 HumanStandard.None.Last.Booker(Booker)->부커
 HumanStandard.None.Last.Boone(Boone)->분
 HumanStandard.None.Last.Booth(Booth)->부스
-HumanStandard.None.Last.Bowen(Bowen)->보웬
+HumanStandard.None.Last.Bowen(Bowen)->보언
 HumanStandard.None.Last.Bowers(Bowers)->바워스
 HumanStandard.None.Last.Bowman(Bowman)->보우먼
 HumanStandard.None.Last.Boyd(Boyd)->보이드
 HumanStandard.None.Last.Boyer(Boyer)->보이어
 HumanStandard.None.Last.Boyle(Boyle)->보일
-HumanStandard.None.Last.Bradford(Bradford)->브래드포드
+HumanStandard.None.Last.Bradford(Bradford)->브래드퍼드
 HumanStandard.None.Last.Bradley(Bradley)->브래들리
 HumanStandard.None.Last.Bradshaw(Bradshaw)->브래드쇼
-HumanStandard.None.Last.Brady(Brady)->브래디
+HumanStandard.None.Last.Brady(Brady)->브레이디
 HumanStandard.None.Last.Branch(Branch)->브랜치
 HumanStandard.None.Last.Brandt(Brandt)->브란트
 HumanStandard.None.Last.Braun(Braun)->브라운
@@ -251,7 +251,7 @@ HumanStandard.None.Last.Cowan(Cowan)->코원
 HumanStandard.None.Last.Cox(Cox)->콕스
 HumanStandard.None.Last.Craig(Craig)->크레이그
 HumanStandard.None.Last.Crane(Crane)->크레인
-HumanStandard.None.Last.Crawford(Crawford)->크로포드
+HumanStandard.None.Last.Crawford(Crawford)->크로퍼드
 HumanStandard.None.Last.Crosby(Crosby)->크로스비
 HumanStandard.None.Last.Cross(Cross)->크로스
 HumanStandard.None.Last.Cruz(Cruz)->크루즈
@@ -585,7 +585,7 @@ HumanStandard.None.Last.Maddox(Maddox)->매덕스
 HumanStandard.None.Last.Mahoney(Mahoney)->마호니
 HumanStandard.None.Last.Maldonado(Maldonado)->말도나도
 HumanStandard.None.Last.Malone(Malone)->말론
-HumanStandard.None.Last.Mann(Mann)->만
+HumanStandard.None.Last.Mann(Mann)->맨
 HumanStandard.None.Last.Manning(Manning)->매닝
 HumanStandard.None.Last.Marks(Marks)->막스
 HumanStandard.None.Last.Marquez(Marquez)->마르케스
@@ -706,7 +706,7 @@ HumanStandard.None.Last.Ochoa(Ochoa)->오초아
 HumanStandard.None.Last.O'Connell(O'Connell)->오'코널
 HumanStandard.None.Last.O'Connor(O'Connor)->오'코너
 HumanStandard.None.Last.Odom(Odom)->오덤
-HumanStandard.None.Last.O'Donnell(O'Donnell)->오'도넬
+HumanStandard.None.Last.O'Donnell(O'Donnell)->오'도널
 HumanStandard.None.Last.Oliver(Oliver)->올리버
 HumanStandard.None.Last.Olsen(Olsen)->올센
 HumanStandard.None.Last.Olson(Olson)->올슨
@@ -718,8 +718,8 @@ HumanStandard.None.Last.Ortega(Ortega)->오르테가
 HumanStandard.None.Last.Ortiz(Ortiz)->오르티스
 HumanStandard.None.Last.Osborn(Osborn)->오스본
 HumanStandard.None.Last.Osborne(Osborne)->오스본
-HumanStandard.None.Last.Owen(Owen)->오웬
-HumanStandard.None.Last.Owens(Owens)->오웬스
+HumanStandard.None.Last.Owen(Owen)->오언
+HumanStandard.None.Last.Owens(Owens)->오언스
 HumanStandard.None.Last.Pace(Pace)->페이스
 HumanStandard.None.Last.Pacheco(Pacheco)->파체코
 HumanStandard.None.Last.Padilla(Padilla)->파디야
@@ -752,7 +752,7 @@ HumanStandard.None.Last.Pierce(Pierce)->피어스
 HumanStandard.None.Last.Pineda(Pineda)->피네다
 HumanStandard.None.Last.Pittman(Pittman)->피트먼
 HumanStandard.None.Last.Pitts(Pitts)->피츠
-HumanStandard.None.Last.Pollard(Pollard)->폴라드
+HumanStandard.None.Last.Pollard(Pollard)->폴러드
 HumanStandard.None.Last.Ponce(Ponce)->폰세
 HumanStandard.None.Last.Poole(Poole)->풀
 HumanStandard.None.Last.Pope(Pope)->포프
@@ -1096,7 +1096,7 @@ HumanStandard.Male.First.Fausto(Fausto)->파우스토
 HumanStandard.Male.First.Hernan(Hernan)->에르난
 HumanStandard.Male.First.Julio(Julio)->훌리오
 HumanStandard.Male.First.Lowell(Lowell)->로웰
-HumanStandard.Male.First.Norbert(Norbert)->노르베르트
+HumanStandard.Male.First.Norbert(Norbert)->노버트
 HumanStandard.Male.First.Odile(Odile)->오딜
 HumanStandard.Male.First.Polo(Polo)->폴로
 HumanStandard.Male.First.Simon(Simon)->사이먼
@@ -1117,14 +1117,14 @@ HumanStandard.Male.First.Waldo(Waldo)->왈도
 HumanStandard.Male.First.Blas(Blas)->블라스
 HumanStandard.Male.First.Darby(Darby)->다비
 HumanStandard.Male.First.Barry(Barry)->배리
-HumanStandard.Male.First.Dorian(Dorian)->도리안
+HumanStandard.Male.First.Dorian(Dorian)->도리언
 HumanStandard.Male.First.Fernand(Fernand)->페르낭
 HumanStandard.Male.First.Humberto(Humberto)->움베르토
 HumanStandard.Male.First.Jerry(Jerry)->제리
 HumanStandard.Male.First.Lorenzo(Lorenzo)->로렌초
 HumanStandard.Male.First.Nestor(Nestor)->네스터
 HumanStandard.Male.First.Pablo(Pablo)->파블로
-HumanStandard.Male.First.Sebastien(Sebastien)->세바스티앙
+HumanStandard.Male.First.Sebastien(Sebastien)->세바스티앵
 HumanStandard.Male.First.Van(Van)->반
 HumanStandard.Male.First.Cristobal(Cristobal)->크리스토발
 HumanStandard.Male.First.Edouard(Edouard)->에두아르
@@ -1261,7 +1261,7 @@ HumanStandard.Male.First.Crink(Crink)->크링크
 HumanStandard.Male.First.McFly(McFly)->맥플라이
 HumanStandard.Male.First.Leo(Leo)->레오
 HumanStandard.Male.First.Szilard(Szilard)->실라르드
-HumanStandard.Male.First.Albert(Albert)->알버트
+HumanStandard.Male.First.Albert(Albert)->앨버트
 HumanStandard.Male.First.Mo(Mo)->모
 HumanStandard.Male.First.Lorentz(Lorentz)->로렌츠
 HumanStandard.Male.First.Susskind(Susskind)->쥐스킨트
@@ -1420,7 +1420,7 @@ HumanStandard.Female.First.Buffy(Buffy)->버피
 HumanStandard.Female.First.Petra(Petra)->페트라
 HumanStandard.Female.First.Andrea(Andrea)->안드레아
 HumanStandard.Female.First.Erin(Erin)->에린
-HumanStandard.Female.First.Gabby(Gabby)->가비
+HumanStandard.Female.First.Gabby(Gabby)->개비
 HumanStandard.Female.First.Ingrid(Ingrid)->잉그리드
 HumanStandard.Female.First.Karen(Karen)->카렌
 HumanStandard.Female.First.Melissa(Melissa)->멜리사
@@ -1431,7 +1431,7 @@ HumanStandard.Female.First.Wendy(Wendy)->웬디
 HumanStandard.Female.First.Bertha(Bertha)->베르타
 HumanStandard.Female.First.Dolly(Dolly)->돌리
 HumanStandard.Female.First.Fay(Fay)->페이
-HumanStandard.Female.First.Hanna(Hanna)->해나
+HumanStandard.Female.First.Hanna(Hanna)->한나
 HumanStandard.Female.First.Josephine(Josephine)->조세핀
 HumanStandard.Female.First.Laura(Laura)->로라
 HumanStandard.Female.First.Nana(Nana)->나나
@@ -1460,7 +1460,7 @@ HumanStandard.Female.First.Shary(Shary)->샤리
 HumanStandard.Female.First.Arlene(Arlene)->알린
 HumanStandard.Female.First.Cindy(Cindy)->신디
 HumanStandard.Female.First.Emily(Emily)->에밀리
-HumanStandard.Female.First.Gert(Gert)->게르트
+HumanStandard.Female.First.Gert(Gert)->거트
 HumanStandard.Female.First.Irma(Irma)->이르마
 HumanStandard.Female.First.Katia(Katia)->카티아
 HumanStandard.Female.First.Maria(Maria)->마리아
@@ -1523,7 +1523,7 @@ HumanStandard.Female.First.Fernanda(Fernanda)->페르난다
 HumanStandard.Female.First.Hilary(Hilary)->힐러리
 HumanStandard.Female.First.Jova(Jova)->요바
 HumanStandard.Female.First.Lidia(Lidia)->리디아
-HumanStandard.Female.First.Norma(Norma)->노르마
+HumanStandard.Female.First.Norma(Norma)->노마
 HumanStandard.Female.First.Pilar(Pilar)->필라
 HumanStandard.Female.First.Selma(Selma)->셀마
 HumanStandard.Female.First.Aletta(Aletta)->알레타
@@ -1531,7 +1531,7 @@ HumanStandard.Female.First.Carlotta(Carlotta)->카를로타
 HumanStandard.Female.First.Gilma(Gilma)->힐마
 HumanStandard.Female.First.Ileana(Ileana)->일레아나
 HumanStandard.Female.First.Kristy(Kristy)->크리스티
-HumanStandard.Female.First.Miriam(Miriam)->미리암
+HumanStandard.Female.First.Miriam(Miriam)->미리엄
 HumanStandard.Female.First.Olivia(Olivia)->올리비아
 HumanStandard.Female.First.Rosa(Rosa)->로사
 HumanStandard.Female.First.Tara(Tara)->타라

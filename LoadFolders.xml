@@ -960,7 +960,7 @@
     <li IfModActive="Scorpio.Shields">Data/Scorpio/Unofficial VE Shields Addon - 2821745880</li>
     <li IfModActive="VPE.Aeromancer.Sentinel">Data/Sentinel/VPE - Aeromancer - 3548321284</li>
     <li IfModActive="VPE.Biohazard.Sentinel">Data/Sentinel/VPE - Biohazard Biosoother - 3471042591</li>
-    <li IfModActive="VPE.Blader.Sentinel">Data/Sentinel/VPE - Blader - 3556391825</li>
+    <li IfModActive="VPE.Blader.Sentinel">Data/Sentinel/VPE - Blader - 3556391825/1.6</li>
     <li IfModActive="VPE.Fleshshaper.Sentinel">Data/Sentinel/VPE - Fleshshaper - 3466657119</li>
     <li IfModActive="VPE.Geomancer.Sentinel">Data/Sentinel/VPE - Geomancer - 3551731617</li>
     <li IfModActive="VPE.Gravcaster.Sentinel">Data/Sentinel/VPE - Gravcaster - 3526559471</li>
@@ -1491,6 +1491,7 @@
     <li IfModActive="mjcg.AutoAbility">Data/Auto Ability - 3578731212</li>
     <li IfModActive="Snues.AutoArm">Data/Auto Arm - 3516409503</li>
     <li IfModActive="Supes.AutoSeller.CaravanEquip">Data/Auto Caravan Equip (Autoseller Extension) - 1487284611</li>
+    <li IfModActive="hhinattta.miner">Data/Auto Miner Unit - 3695217619/1.6</li>
     <li IfModActive="Supes.AutoSeller.Core">Data/Auto Seller - 1440321094</li>
     <li IfModActive="Flyingstar.AutoMortarsUnofficial">Data/Auto-Mortars - 2054073477</li>
     <li IfModActive="Noszbytouj.AutoBlinkGene">Data/AutoBlink Gene - 3502786383</li>
@@ -1753,6 +1754,7 @@
     <li IfModActive="akaster.equalmilking">Data/Equal Milking - 3266052474</li>
     <li IfModActive="syila.eqgasmask">Data/Equip Gas Masks - 1713214833</li>
     <li IfModActive="asjjkl.costume">Data/Ereshkigal Apparel Pack - 1763236543</li>
+    <li IfModActive="helldan.eternalpawns">Data/Eternal Pawns - 3669591999/1.6</li>
     <li IfModActive="ETRT.TribalApparel">Data/ETRT Tribal Apparel (continued) - 3545351721/1.6</li>
     <li IfModActive="EuglenaExpanded.EuglenaXenotype">Data/Euglena Expanded - Euglena Xenotype - 2975005239</li>
     <li IfModActive="EuglenaExpanded.EuglenaImplantor">Data/Euglena Expanded - Implantor - 2973780726</li>
@@ -2538,6 +2540,7 @@
     <li IfModActive="hollow.SugoiNiwatori">Data/SugoiNiwatori - 3252664704</li>
     <li IfModActive="hollow.sugoisaboten">Data/SugoiSaboten - 3266976938</li>
     <li IfModActive="auxiliusm.supersoil">Data/Super Soil - 823626435</li>
+    <li IfModActive="AiFeng.SylvieRace">Data/Sylvie Race - 3689224250/1.6</li>
     <li IfModActive="RSev.SynergisticTraits">Data/Synergistic Traits - 2102438871</li>
     <li IfModActive="void.szstonesandterrains">Data/SZ_StonesAndTerrains - 1874663469</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
@@ -3655,7 +3658,7 @@
     <li IfModActive="Scorpio.Shields">Data/Scorpio/Unofficial VE Shields Addon - 2821745880</li>
     <li IfModActive="VPE.Aeromancer.Sentinel">Data/Sentinel/VPE - Aeromancer - 3548321284</li>
     <li IfModActive="VPE.Biohazard.Sentinel">Data/Sentinel/VPE - Biohazard Biosoother - 3471042591</li>
-    <li IfModActive="VPE.Blader.Sentinel">Data/Sentinel/VPE - Blader - 3556391825</li>
+    <li IfModActive="VPE.Blader.Sentinel">Data/Sentinel/VPE - Blader - 3556391825/1.6</li>
     <li IfModActive="VPE.Fleshshaper.Sentinel">Data/Sentinel/VPE - Fleshshaper - 3466657119</li>
     <li IfModActive="VPE.Geomancer.Sentinel">Data/Sentinel/VPE - Geomancer - 3551731617</li>
     <li IfModActive="VPE.Gravcaster.Sentinel">Data/Sentinel/VPE - Gravcaster - 3526559471</li>
@@ -4186,6 +4189,7 @@
     <li IfModActive="mjcg.AutoAbility">Data/Auto Ability - 3578731212</li>
     <li IfModActive="Snues.AutoArm">Data/Auto Arm - 3516409503</li>
     <li IfModActive="Supes.AutoSeller.CaravanEquip">Data/Auto Caravan Equip (Autoseller Extension) - 1487284611</li>
+    <li IfModActive="hhinattta.miner">Data/Auto Miner Unit - 3695217619/1.6</li>
     <li IfModActive="Supes.AutoSeller.Core">Data/Auto Seller - 1440321094</li>
     <li IfModActive="Flyingstar.AutoMortarsUnofficial">Data/Auto-Mortars - 2054073477</li>
     <li IfModActive="Noszbytouj.AutoBlinkGene">Data/AutoBlink Gene - 3502786383</li>
@@ -4448,6 +4452,7 @@
     <li IfModActive="akaster.equalmilking">Data/Equal Milking - 3266052474</li>
     <li IfModActive="syila.eqgasmask">Data/Equip Gas Masks - 1713214833</li>
     <li IfModActive="asjjkl.costume">Data/Ereshkigal Apparel Pack - 1763236543</li>
+    <li IfModActive="helldan.eternalpawns">Data/Eternal Pawns - 3669591999/1.6</li>
     <li IfModActive="ETRT.TribalApparel">Data/ETRT Tribal Apparel (continued) - 3545351721/1.6</li>
     <li IfModActive="EuglenaExpanded.EuglenaXenotype">Data/Euglena Expanded - Euglena Xenotype - 2975005239</li>
     <li IfModActive="EuglenaExpanded.EuglenaImplantor">Data/Euglena Expanded - Implantor - 2973780726</li>
@@ -5233,6 +5238,7 @@
     <li IfModActive="hollow.SugoiNiwatori">Data/SugoiNiwatori - 3252664704</li>
     <li IfModActive="hollow.sugoisaboten">Data/SugoiSaboten - 3266976938</li>
     <li IfModActive="auxiliusm.supersoil">Data/Super Soil - 823626435</li>
+    <li IfModActive="AiFeng.SylvieRace">Data/Sylvie Race - 3689224250/1.6</li>
     <li IfModActive="RSev.SynergisticTraits">Data/Synergistic Traits - 2102438871</li>
     <li IfModActive="void.szstonesandterrains">Data/SZ_StonesAndTerrains - 1874663469</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
@@ -6350,7 +6356,7 @@
     <li IfModActive="Scorpio.Shields">Data/Scorpio/Unofficial VE Shields Addon - 2821745880</li>
     <li IfModActive="VPE.Aeromancer.Sentinel">Data/Sentinel/VPE - Aeromancer - 3548321284</li>
     <li IfModActive="VPE.Biohazard.Sentinel">Data/Sentinel/VPE - Biohazard Biosoother - 3471042591</li>
-    <li IfModActive="VPE.Blader.Sentinel">Data/Sentinel/VPE - Blader - 3556391825</li>
+    <li IfModActive="VPE.Blader.Sentinel">Data/Sentinel/VPE - Blader - 3556391825/1.6</li>
     <li IfModActive="VPE.Fleshshaper.Sentinel">Data/Sentinel/VPE - Fleshshaper - 3466657119</li>
     <li IfModActive="VPE.Geomancer.Sentinel">Data/Sentinel/VPE - Geomancer - 3551731617</li>
     <li IfModActive="VPE.Gravcaster.Sentinel">Data/Sentinel/VPE - Gravcaster - 3526559471</li>
@@ -6881,6 +6887,7 @@
     <li IfModActive="mjcg.AutoAbility">Data/Auto Ability - 3578731212</li>
     <li IfModActive="Snues.AutoArm">Data/Auto Arm - 3516409503</li>
     <li IfModActive="Supes.AutoSeller.CaravanEquip">Data/Auto Caravan Equip (Autoseller Extension) - 1487284611</li>
+    <li IfModActive="hhinattta.miner">Data/Auto Miner Unit - 3695217619/1.6</li>
     <li IfModActive="Supes.AutoSeller.Core">Data/Auto Seller - 1440321094</li>
     <li IfModActive="Flyingstar.AutoMortarsUnofficial">Data/Auto-Mortars - 2054073477</li>
     <li IfModActive="Noszbytouj.AutoBlinkGene">Data/AutoBlink Gene - 3502786383</li>
@@ -7143,6 +7150,7 @@
     <li IfModActive="akaster.equalmilking">Data/Equal Milking - 3266052474</li>
     <li IfModActive="syila.eqgasmask">Data/Equip Gas Masks - 1713214833</li>
     <li IfModActive="asjjkl.costume">Data/Ereshkigal Apparel Pack - 1763236543</li>
+    <li IfModActive="helldan.eternalpawns">Data/Eternal Pawns - 3669591999/1.6</li>
     <li IfModActive="ETRT.TribalApparel">Data/ETRT Tribal Apparel (continued) - 3545351721/1.6</li>
     <li IfModActive="EuglenaExpanded.EuglenaXenotype">Data/Euglena Expanded - Euglena Xenotype - 2975005239</li>
     <li IfModActive="EuglenaExpanded.EuglenaImplantor">Data/Euglena Expanded - Implantor - 2973780726</li>
@@ -7929,6 +7937,7 @@
     <li IfModActive="hollow.SugoiNiwatori">Data/SugoiNiwatori - 3252664704</li>
     <li IfModActive="hollow.sugoisaboten">Data/SugoiSaboten - 3266976938</li>
     <li IfModActive="auxiliusm.supersoil">Data/Super Soil - 823626435</li>
+    <li IfModActive="AiFeng.SylvieRace">Data/Sylvie Race - 3689224250/1.6</li>
     <li IfModActive="RSev.SynergisticTraits">Data/Synergistic Traits - 2102438871</li>
     <li IfModActive="void.szstonesandterrains">Data/SZ_StonesAndTerrains - 1874663469</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>
@@ -9046,7 +9055,7 @@
     <li IfModActive="Scorpio.Shields">Data/Scorpio/Unofficial VE Shields Addon - 2821745880</li>
     <li IfModActive="VPE.Aeromancer.Sentinel">Data/Sentinel/VPE - Aeromancer - 3548321284</li>
     <li IfModActive="VPE.Biohazard.Sentinel">Data/Sentinel/VPE - Biohazard Biosoother - 3471042591</li>
-    <li IfModActive="VPE.Blader.Sentinel">Data/Sentinel/VPE - Blader - 3556391825</li>
+    <li IfModActive="VPE.Blader.Sentinel">Data/Sentinel/VPE - Blader - 3556391825/1.6</li>
     <li IfModActive="VPE.Fleshshaper.Sentinel">Data/Sentinel/VPE - Fleshshaper - 3466657119</li>
     <li IfModActive="VPE.Geomancer.Sentinel">Data/Sentinel/VPE - Geomancer - 3551731617</li>
     <li IfModActive="VPE.Gravcaster.Sentinel">Data/Sentinel/VPE - Gravcaster - 3526559471</li>
@@ -9577,6 +9586,7 @@
     <li IfModActive="mjcg.AutoAbility">Data/Auto Ability - 3578731212</li>
     <li IfModActive="Snues.AutoArm">Data/Auto Arm - 3516409503</li>
     <li IfModActive="Supes.AutoSeller.CaravanEquip">Data/Auto Caravan Equip (Autoseller Extension) - 1487284611</li>
+    <li IfModActive="hhinattta.miner">Data/Auto Miner Unit - 3695217619/1.6</li>
     <li IfModActive="Supes.AutoSeller.Core">Data/Auto Seller - 1440321094</li>
     <li IfModActive="Flyingstar.AutoMortarsUnofficial">Data/Auto-Mortars - 2054073477</li>
     <li IfModActive="Noszbytouj.AutoBlinkGene">Data/AutoBlink Gene - 3502786383</li>
@@ -9839,6 +9849,7 @@
     <li IfModActive="akaster.equalmilking">Data/Equal Milking - 3266052474</li>
     <li IfModActive="syila.eqgasmask">Data/Equip Gas Masks - 1713214833</li>
     <li IfModActive="asjjkl.costume">Data/Ereshkigal Apparel Pack - 1763236543</li>
+    <li IfModActive="helldan.eternalpawns">Data/Eternal Pawns - 3669591999/1.6</li>
     <li IfModActive="ETRT.TribalApparel">Data/ETRT Tribal Apparel (continued) - 3545351721/1.6</li>
     <li IfModActive="EuglenaExpanded.EuglenaXenotype">Data/Euglena Expanded - Euglena Xenotype - 2975005239</li>
     <li IfModActive="EuglenaExpanded.EuglenaImplantor">Data/Euglena Expanded - Implantor - 2973780726</li>
@@ -10625,6 +10636,7 @@
     <li IfModActive="hollow.SugoiNiwatori">Data/SugoiNiwatori - 3252664704</li>
     <li IfModActive="hollow.sugoisaboten">Data/SugoiSaboten - 3266976938</li>
     <li IfModActive="auxiliusm.supersoil">Data/Super Soil - 823626435</li>
+    <li IfModActive="AiFeng.SylvieRace">Data/Sylvie Race - 3689224250/1.6</li>
     <li IfModActive="RSev.SynergisticTraits">Data/Synergistic Traits - 2102438871</li>
     <li IfModActive="void.szstonesandterrains">Data/SZ_StonesAndTerrains - 1874663469</li>
     <li IfModActive="SoulfulPumpkin.TabletopTrove">Data/Tabletop Trove - Additional Joy Objects and Decor - 1961528842</li>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SylvieRace_FirstName>실비</SylvieRace_FirstName>
+  <CallSpecialApparelTrader>전용 의상 상인 호출 (무료)</CallSpecialApparelTrader>
+  <Sylvie_ClothingSupplyShipName>아우렐리아의 의상실</Sylvie_ClothingSupplyShipName>
+  <Sylvie_TraderAlreadyInOrbit>무역선이 이미 궤도 근처에 있습니다.</Sylvie_TraderAlreadyInOrbit>
+  <Sylvie_TraderDefNotFound>TraderKindDef를 찾을 수 없음: Sylvie_ClothingTrader. XML을 확인해 주세요.</Sylvie_TraderDefNotFound>
+  <Sylvie_TraderArrived>의상 무역선이 통신 범위 내에 진입했습니다.</Sylvie_TraderArrived>
+  <Sylvie_OfferLabel>특별한 거래 제안</Sylvie_OfferLabel>
+  <Sylvie_OfferText>한 상인이 당신을 옆으로 불러 세웁니다.\n\n상인: 손님, 일전에 파산한 귀족 덕분에 저도 이득을 좀 보긴 했습니다만, 그 대가로 제가 별로 좋아하지 않는 물건까지 떠맡게 되었습니다. 예를 들면 이 노예 같은 것 말이죠.\n\n그는 온몸이 상처투성이인 여자를 가리킵니다. 꽤 어린 나이로 보이는 그녀는 구석에 몸을 잔뜩 웅크리고 있습니다.\n\n상인: 괜찮으시다면 이 노예를 상당히 저렴한 가격에 넘겨드리지요. 사지가 멀쩡하니 부려 먹을 곳도 많을 겁니다. 게다가 당신이 늘 혼자서 우리 같은 사람들을 치료해 주시는 걸 주변 사람 모두가 알고 있으니, 이건 제 목숨을 구해주신 은혜에 대한 보답이기도 합니다.\n\n이 소녀를 거두어 주시겠습니까?</Sylvie_OfferText>
+  <Sylvie_PayAndTakeHer>은 {0}개를 지불하고 그녀를 거둔다</Sylvie_PayAndTakeHer>
+  <Sylvie_TradeSuccess>거래 성공. 실비가 정착지에 합류했습니다.</Sylvie_TradeSuccess>
+  <Sylvie_NotEnoughSilver>은이 부족합니다 (현재: {0})</Sylvie_NotEnoughSilver>
+  <Sylvie_Refuse>거절한다</Sylvie_Refuse>
+  <SylvieRace_HediffLetterLabel>실비의 건강 문제</SylvieRace_HediffLetterLabel>
+  <SylvieRace_HediffLetterText>{0}가 과거의 경험으로 인한 트라우마 증상을 보이고 있습니다. 그녀에겐 의료적 처치와 세심한 보살핌이 필요할지 모릅니다.</SylvieRace_HediffLetterText>
+  <SylvieRace_NurseHeal_Label>응급 치료</SylvieRace_NurseHeal_Label>
+  <SylvieRace_NurseHeal_Desc>처치되지 않은 모든 상처를 즉시 붕대로 감습니다. 하지만 사용 후 1시간 동안 혼수 상태에 빠집니다. (재사용 대기시간: 2시간)</SylvieRace_NurseHeal_Desc>
+  <SylvieRace_NurseHeal_Cooldown>재사용 대기시간 남음: {0}</SylvieRace_NurseHeal_Cooldown>
+  <SylvieRace_NurseHeal_NoWounds>{0}는 치료할 상처가 없습니다.</SylvieRace_NurseHeal_NoWounds>
+  <SylvieRace_NurseHeal_Success>{0}의 상처를 모두 처치했습니다. 그녀는 이제 1시간 동안 안정을 취하며 깨어나지 않을 것입니다.</SylvieRace_NurseHeal_Success>
+</LanguageData>

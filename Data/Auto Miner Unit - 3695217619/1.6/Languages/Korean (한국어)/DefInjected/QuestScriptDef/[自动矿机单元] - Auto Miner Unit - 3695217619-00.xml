@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AutoMiner_ReturnRaided.questNameRules.rulesStrings>
+    <li>questName-&gt;습격당한 [ore_label]</li>
+    <li>questName-&gt;탈취당한 [ore_label]</li>
+    <li>questName-&gt;[ore_label] 채굴기 탈취됨</li>
+  </AutoMiner_ReturnRaided.questNameRules.rulesStrings>
+</LanguageData>

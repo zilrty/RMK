@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SylvieRace_Finally.label>종언의 땅 의복</SylvieRace_Finally.label>
+  <SylvieRace_Finally.description>어떤 노신사의 옷인 것 같습니다. 이 세계의 물건은 아닌 듯 합니다.</SylvieRace_Finally.description>
+  <SylvieRace_FineClothing.label>검은색 원피스</SylvieRace_FineClothing.label>
+  <SylvieRace_FineClothing.description>단정하고 우아한 검은색 원피스입니다. 입으면 매우 우아해 보이며, 공식적인 자리에 아주 잘 어울릴 것 같습니다.</SylvieRace_FineClothing.description>
+  <SylvieRace_Kimono.label>기모노</SylvieRace_Kimono.label>
+  <SylvieRace_Kimono.description>몸 전체를 감싸는 기모노 의상입니다. 따뜻한 색조가 무척 귀여운 느낌을 주며, 축제 때 분명 많은 사람이 입을 법한 옷입니다.</SylvieRace_Kimono.description>
+  <SylvieRace_MaidOutfit.label>메이드복</SylvieRace_MaidOutfit.label>
+  <SylvieRace_MaidOutfit.description>메이드복입니다.</SylvieRace_MaidOutfit.description>
+  <SylvieRace_ElegantClothing.label>단정한 유니폼</SylvieRace_ElegantClothing.label>
+  <SylvieRace_ElegantClothing.description>전형적인 점원 유니폼입니다. 보통 서비스직 종사자에게 지급되는데... 조금 꽉 낄지도 모르겠네요.</SylvieRace_ElegantClothing.description>
+  <SylvieRace_HeavyMaid.label>중장갑 메이드복</SylvieRace_HeavyMaid.label>
+  <SylvieRace_HeavyMaid.description>많은 스트랩으로 고정된 메이드복입니다. 여러 겹으로 겹쳐 있어 두툼한 두께감이 안심을 줍니다.</SylvieRace_HeavyMaid.description>
+  <SylvieRace_StudentUniform.label>학생복</SylvieRace_StudentUniform.label>
+  <SylvieRace_StudentUniform.description>얇은 세일러복에서 청춘의 색채가 느껴집니다. 하지만 이 세계에서는 교복을 입을 필요가 없으니, 그저 보기 좋으라고 입는 것이겠지요.</SylvieRace_StudentUniform.description>
+  <SylvieRace_Suits.label>정장 상의</SylvieRace_Suits.label>
+  <SylvieRace_Suits.description>엄숙한 분위기를 풍기는 의복으로 보통 관리층이 입습니다. 하지만 왠지 모르게 강렬한 욕구를 자극하는 면이 있습니다.</SylvieRace_Suits.description>
+  <SylvieRace_Cheongsam.label>치파오</SylvieRace_Cheongsam.label>
+  <SylvieRace_Cheongsam.description>보라색 치파오입니다. 옆트임이 그리 높지는 않지만 자꾸만 묘한 상상을 불러일으킵니다.</SylvieRace_Cheongsam.description>
+  <SylvieRace_SpringFestivalWedding.label>신춘 화야</SylvieRace_SpringFestivalWedding.label>
+  <SylvieRace_SpringFestivalWedding.description>오래된 축제를 기념하기 위해 제작된 듯한 의상입니다. 타오르는 듯한 붉은색이 눈길을 사로잡습니다.</SylvieRace_SpringFestivalWedding.description>
+  <SylvieRace_PurpleDress.label>보라색 원피스</SylvieRace_PurpleDress.label>
+  <SylvieRace_PurpleDress.description>매혹적인 보라색은 언제나 눈을 뗄 수 없게 만듭니다. 폭신한 질감 덕분에 검은색 원피스와는 전혀 다른 느낌을 주며, 옷 뒤에 숨겨진 인물을 훔쳐보고 싶게 만듭니다.</SylvieRace_PurpleDress.description>
+  <SylvieRace_BlueDress.label>파란색 원피스</SylvieRace_BlueDress.label>
+  <SylvieRace_BlueDress.description>단아하고 푸른 빛의 원피스입니다. 우아한 분위기가 감돌아 입으면 정말 예쁠 것 같습니다.</SylvieRace_BlueDress.description>
+  <SylvieRace_FloralDress.label>꽃무늬 원피스</SylvieRace_FloralDress.label>
+  <SylvieRace_FloralDress.description>짙은 여름의 분위기가 느껴지며, 각별히 청량한 기분을 선사합니다.</SylvieRace_FloralDress.description>
+  <SylvieRace_ElegantClothingPants.label>단정한 유니폼 하의</SylvieRace_ElegantClothingPants.label>
+  <SylvieRace_ElegantClothingPants.description>단정한 유니폼의 하의입니다.</SylvieRace_ElegantClothingPants.description>
+  <SylvieRace_StudentUniformPants.label>학생복 하의</SylvieRace_StudentUniformPants.label>
+  <SylvieRace_StudentUniformPants.description>학생복의 하의입니다.</SylvieRace_StudentUniformPants.description>
+  <SylvieRace_SpringFestivalHeadwear.label>신춘 머리장식</SylvieRace_SpringFestivalHeadwear.label>
+  <SylvieRace_SpringFestivalHeadwear.description>신춘 머리장식입니다.</SylvieRace_SpringFestivalHeadwear.description>
+  <SylvieRace_Bandaid.label>반창고</SylvieRace_Bandaid.label>
+  <SylvieRace_Bandaid.description>반창고를 옷 대신 쓸 생각을 누가 했는지 모르겠군요. 이건 알몸이나 다름없습니다.</SylvieRace_Bandaid.description>
+  <SylvieRace_Swimsuit.label>수영복</SylvieRace_Swimsuit.label>
+  <SylvieRace_Swimsuit.description>지극히 평범한 수영복이지만, 보는 이의 가슴을 뛰게 만듭니다.</SylvieRace_Swimsuit.description>
+  <SylvieRace_Shawl.label>숄</SylvieRace_Shawl.label>
+  <SylvieRace_Shawl.description>숄입니다.</SylvieRace_Shawl.description>
+  <SylvieRace_NurseUniform.label>간호복</SylvieRace_NurseUniform.label>
+  <SylvieRace_NurseUniform.description>업무용 간호복 세트입니다. 부드러운 실크의 촉감이 안심을 줍니다. 간호복 너머로 가냘픈 몸의 곡선이 은은하게 비칩니다. 착용자에게 기묘한 영향을 주는 듯합니다.</SylvieRace_NurseUniform.description>
+  <SylvieRace_SuitsPants.label>정장 바지</SylvieRace_SuitsPants.label>
+  <SylvieRace_SuitsPants.description>정장 상의와 세트인 정식 하의입니다.</SylvieRace_SuitsPants.description>
+  <SylvieRace_Steampunk.label>스팀펑크 갑옷</SylvieRace_Steampunk.label>
+  <SylvieRace_Steampunk.description>귀족들만 사용할 수 있는 고가의 의복입니다. 옷이라기보다는 차라리 갑옷에 가깝습니다. 내장된 증기 시스템은 사용자에게 더 강력한 신체 능력을 부여하며, 귀족들의 고도 기술이 집약된 보조 조준 시스템 덕분에 더욱 정밀한 사격이 가능해집니다. 두꺼운 장갑은 대부분의 공격을 막아낼 수 있습니다. 다만 화염에는 취약하며, 육중한 부피 때문에 다른 작업에 종사하기는 거의 불가능합니다. 상식적으로 평민이 소유할 수 없는 물건이지만, 어느 대귀족이 파산하면서 암시장으로 흘러 들어온 모양입니다.</SylvieRace_Steampunk.description>
+</LanguageData>

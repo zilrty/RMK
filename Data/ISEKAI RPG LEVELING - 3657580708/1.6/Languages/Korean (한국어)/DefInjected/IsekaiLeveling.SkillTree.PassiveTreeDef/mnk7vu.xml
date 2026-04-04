@@ -866,8 +866,8 @@
   <PassiveTree_Knight.nodes.48.description>수년간의 전투로 단련된 당신의 몸은 극한의 상황에서도 더 큰 피해를 견디며 최고 수준의 전투력을 유지합니다.\n\n쓰러진 자의 분노 (2단계) 강화: 체력 40%일 때 근접 공격력 증가치 최대 +35%</PassiveTree_Knight.nodes.48.description>
   <PassiveTree_Knight.nodes.49.label>정복자의 의지</PassiveTree_Knight.nodes.49.label>
   <PassiveTree_Knight.nodes.49.description>진정한 정복자의 의지는 한계를 모릅니다. 고통은 연료가 되고, 역경은 힘으로 바뀝니다.\n\n쓰러진 자의 분노 (3단계) 강화: 체력 50%일 때 근접 공격력 증가치 최대 +50%</PassiveTree_Knight.nodes.49.description>
-  <PassiveTree_Knight.nodes.50.label>전쟁 군주의 영역</PassiveTree_Knight.nodes.50.label>
-  <PassiveTree_Knight.nodes.50.description>당신은 단순한 전사의 한계를 넘어섰습니다. 당신의 영역에서는 검과 육체가 하나로 움직입니다. 모든 공격은 정확히 적중하고, 모든 상처는 더 빠르게 회복됩니다. 공격과 방어의 완벽한 균형이라 이를 수 있습니다.\n\n쓰러진 자의 분노 (4단계) 완성: 체력 50%일 때 근접 공격력 증가치 최대 +75%</PassiveTree_Knight.nodes.50.description>
+  <PassiveTree_Knight.nodes.50.label>전쟁 군주의 경지</PassiveTree_Knight.nodes.50.label>
+  <PassiveTree_Knight.nodes.50.description>당신은 단순한 전사의 한계를 넘어섰습니다. 당신의 경지에서는 검과 육체가 하나로 움직입니다. 모든 공격은 정확히 적중하고, 모든 상처는 더 빠르게 회복됩니다. 공격과 방어의 완벽한 균형이라 이를 수 있습니다.\n\n쓰러진 자의 분노 (4단계) 완성: 체력 50%일 때 근접 공격력 증가치 최대 +75%</PassiveTree_Knight.nodes.50.description>
   <PassiveTree_Knight.nodes.51.label>끓어오르는 활력</PassiveTree_Knight.nodes.51.label>
   <PassiveTree_Knight.nodes.52.label>충직한 보호자</PassiveTree_Knight.nodes.52.label>
   <PassiveTree_Knight.nodes.53.label>맹렬한 민첩성</PassiveTree_Knight.nodes.53.label>
