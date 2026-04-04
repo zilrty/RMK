@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SylvieRace_InitialTrauma.label>초기 트라우마</SylvieRace_InitialTrauma.label>
+  <SylvieRace_InitialTrauma.description>과거의 경험에서 비롯된 깊은 심리적, 신체적 외상입니다. 치유를 위해서는 세심한 의료적 보살핌과 시간이 필요합니다.</SylvieRace_InitialTrauma.description>
+  <SylvieRace_NurseParalysis.label>간호복 마비</SylvieRace_NurseParalysis.label>
+  <SylvieRace_NurseParalysis.description>상처를 치료하는 과정에서 간호복으로 인해 유발된 일시적인 마비 상태입니다. 이 상태에서는 이동하거나 물건을 조작할 수 없습니다.</SylvieRace_NurseParalysis.description>
+</LanguageData>
