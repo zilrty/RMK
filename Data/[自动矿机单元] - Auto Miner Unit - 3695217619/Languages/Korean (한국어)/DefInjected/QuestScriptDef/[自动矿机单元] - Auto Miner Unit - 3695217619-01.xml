@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AutoMiner_ReturnRaided.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[faction_name]의 영토로 보낸 [ore_label] 자동 채굴 유닛의 신호가 끊겼습니다.\n\n정착민을 보내어 상황을 조사하고, 적들을 물리쳐 광물을 회수하십시오.\n\n[timeout_duration] 동안 가지 않으면, 되찾지 못하게 될 것입니다.</li>
+  </AutoMiner_ReturnRaided.questDescriptionRules.rulesStrings>
+</LanguageData>
