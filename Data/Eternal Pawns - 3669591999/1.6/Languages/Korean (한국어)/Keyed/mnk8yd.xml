@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FP_SettingsCategory>Eternal Pawns</FP_SettingsCategory>
+  <FP_EnableFactionLimit>세력별 기록 인물 할당 한도 활성화 </FP_EnableFactionLimit>
+  <FP_EnableFactionLimitTooltip>활성화하면, 할당된 한도에 도달한 시점부터 새로운 폰(림)들이 저장되지 않습니다. 재등장하는 기록 인물들은 항상 저장되어 있습니다.</FP_EnableFactionLimitTooltip>
+  <FP_FactionVeteranLimit>세력별 기록 인물 할당 한도: {0}명</FP_FactionVeteranLimit>
+  <FP_FactionVeteranLimitTooltip>저장 가능한 기록 인물들의 최대 인원 수입니다.\n\n0으로 설정하면 수동으로 표식(별 표시)해 둔 인물만 저장합니다.</FP_FactionVeteranLimitTooltip>
+  <FP_ShowVIPButton>"인물 기록" 버튼 표시</FP_ShowVIPButton>
+  <FP_ShowVIPButtonTooltip>관계 탭에 “기록” 버튼을 표시합니다. 이 버튼으로 타 세력의 인원들을 기록 인물 데이터베이스에 수동으로 저장할 수 있으며, 한도와 퀘스트 폰 필터도 무시합니다. 필요하면 특정 인원에 메모를 남길 수도 있습니다.</FP_ShowVIPButtonTooltip>
+  <FP_VeteranRecallCooldownDays>재등장 후 쿨타임: {0}일</FP_VeteranRecallCooldownDays>
+  <FP_VeteranRecallCooldownDaysTooltip>기록 인물을 다시 불러올 수 있기까지 걸리는 대기 시간입니다.</FP_VeteranRecallCooldownDaysTooltip>
+  <FP_ForcedFreezeDays>휴면 전환까지: {0}일</FP_ForcedFreezeDays>
+  <FP_ForcedFreezeDaysTooltip>성능을 위해 비효율 상태의 폰을 휴면 처리하기까지 걸리는 기간입니다.</FP_ForcedFreezeDaysTooltip>
+  <FP_VeteranRecallChance>기록 인물 재등장 확률: {0}%</FP_VeteranRecallChance>
+  <FP_VeteranRecallChanceTooltip>새로운 폰(림)을 생성하는 대신, 향상된 성능을 위해 기록 인물을 재등장시키는 확률입니다.</FP_VeteranRecallChanceTooltip>
+  <FP_DeathChanceMultiplier>노화 사망 연간 배율: {0}%</FP_DeathChanceMultiplier>
+  <FP_DeathDesc>60세 이상 모든 기록 인물의 연간 사망 확률입니다:\n\n• 초월공학: 0.05%\n• 초기술: 0.5%\n• 우주: 1.5%\n• 산업: 2.5%\n• 중세: 5.0%\n• 원시: 7.5%\n\n해당 슬라이더는 위 확률들을 배율로 조정합니다.</FP_DeathDesc>
+  <FP_DiseaseChanceMultiplier>질병 획득 확률 연간 배율: {0}%</FP_DiseaseChanceMultiplier>
+  <FP_DiseaseDesc>60세 이상이 매년 만성 질병에 걸릴 확률입니다:\n\n• 초월공항: 0.25%\n• 초기술: 0.5%\n• 우주: 2.5%\n• 산업: 5.0%\n• 중세: 7.5%\n• 원시: 10.0%\n\n해당 슬라이더는 위 확률들을 배율로 조정합니다.</FP_DiseaseDesc>
+  <FP_ImplantChanceMultiplier>신체 이식 확률 연간 배율: {0}%</FP_ImplantChanceMultiplier>
+  <FP_ImplantDesc>작동 방식:\n1. 치료 (모든 기술 수준): 기록 인물의 신체 부위가 소실된 경우, 해당 팩션의 기술 수준에 맞는 대체 부위를 이식합니다. 이를테면 부족의 경우 목재 보철물을, 제국이라면 생체공학 부위를 말이지요.\n2. 업그레이드 (산업 이상): 매년 10%의 확률로 건강한 신체 부위를 더 효율적인 대체 부품으로 이식합니다.\n\n해당 슬라이더는 위 요소들의 전체 발생 확률을 조정합니다.</FP_ImplantDesc>
+  <FP_GeneChanceMultiplier>유전자 획득 확률 연간 배율: {0}%</FP_GeneChanceMultiplier>
+  <FP_GeneChanceTooltip>우주 시대 이상의 기술 수준일 때 10%의 확률로 유전자 획득 발동 / 초기술 수준 이상의 수준일 때 5%의 확률로 초월공학 유전자 획득 발동</FP_GeneChanceTooltip>
+  <FP_AnomalyChanceMultiplier>변이 확률 연간 배율: {0}%</FP_AnomalyChanceMultiplier>
+  <FP_AnomalyChanceTooltip>공허와 접촉할 확률이 5%입니다. (부족과 중세)</FP_AnomalyChanceTooltip>
+  <FP_EnableDebugLogs>세부 로그 활성화</FP_EnableDebugLogs>
+  <FP_EnableDebugLogsTooltip>이벤트를 콘솔(~)에 출력합니다.</FP_EnableDebugLogsTooltip>
+  <FP_ClearDatabaseButton>기록 인물 데이터베이스 초기화</FP_ClearDatabaseButton>
+  <FP_ClearDatabaseConfirm>정말로 데이터베이스의 모든 기록 인물을 완전히 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다!</FP_ClearDatabaseConfirm>
+  <FP_DatabaseClearedMessage>기록 인물 데이터베이스가 성공적으로 초기화되었습니다.</FP_DatabaseClearedMessage>
+  <FP_ShowGizmoButton>기록 버튼 표시하기</FP_ShowGizmoButton>
+  <FP_ShowGizmoButtonTooltip>폰(림)을 선택했을 때 화면 하단 액션 패널에 "기록" 버튼을 표시합니다.</FP_ShowGizmoButtonTooltip>
+  <FP_AutoSaveWanderers>방랑자 자동 저장</FP_AutoSaveWanderers>
+  <FP_AutoSaveWanderersTooltip>숨겨진 세력이나 임시 세력(고대인, 난민, 거지 등) 소속 인물이 맵을 떠날 때, 자동으로 새 정착 세력을 찾아 그곳의 구성원으로 저장합니다.</FP_AutoSaveWanderersTooltip>
+  <FP_TechLevelRange>허용 기술 수준 차이: {0}</FP_TechLevelRange>
+  <FP_TechLevelRangeTooltip>방랑자가 어느 세력에 합류할 수 있는지를 결정합니다.\n\n0 = 같은 기술 수준만 허용\n1 = 같거나 비슷한 기술 수준 허용 (예시: 우주 시대 기술이라면 초기술 혹은 산업으로)\n5 = 기술 수준 범위 무시 (예시: 고대인이 부족민 세력으로도 합류 가능)</FP_TechLevelRangeTooltip>
+  <FP_MemoryHeader>기록: {0}</FP_MemoryHeader>
+  <FP_OpenPawnMemoryPanelDesc>해당 인물의 기록 및 상태 관리 패널을 엽니다.</FP_OpenPawnMemoryPanelDesc>
+  <FP_StatusVeteran>낯익음\n한번 본 적이 있는 인물입니다. 세상 어딘가에서 자기 삶을 살아가고 있었군요. 누가 알겠습니까? 언젠가 또 마주칠지도요.</FP_StatusVeteran>
+  <FP_StatusPinned>기억함\n군중 속에서 이 인물을 특별히 눈여겨보았습니다. 이 땅을 살아서 떠난다면 이야기는 계속 이어지겠지요.</FP_StatusPinned>
+  <FP_StatusUnknown>간직함\n이 냉혹한 세상에서 흔적도 없이 사라지는 건 참으로 쉬운 일입니다. 언젠가 다시 만나기를 소망하며 이 인물을 눈여겨 둡니다.</FP_StatusUnknown>
+  <FP_AlreadyInHistory>이미 기록됨</FP_AlreadyInHistory>
+  <FP_AlreadyInHistoryMsg>해당 인물은 이미 기록에 저장되어 있습니다.</FP_AlreadyInHistoryMsg>
+  <FP_ForgetPawn>기록 해제</FP_ForgetPawn>
+  <FP_RememberPawn>인물 기록</FP_RememberPawn>
+  <FP_PersonalNotes>참고용 메모:</FP_PersonalNotes>
+  <FP_MemoryButton>기록</FP_MemoryButton>
+  <FP_EnableMothball>휴면 처리 기능 활성화</FP_EnableMothball>
+  <FP_EnableMothballTooltip>성능을 위해 비효율 상태의 폰을 휴면 처리합니다. 이 기능과 충돌하는 강한 최적화 모드를 사용 중이라면 비활성화하세요.</FP_EnableMothballTooltip>
+  <FP_EnableAgingVisuals>모발 백발화 활성화</FP_EnableAgingVisuals>
+  <FP_EnableAgingVisualsTooltip>활성화하면 인간형은 나이가 들수록 머리카락이 점차 희어집니다.</FP_EnableAgingVisualsTooltip>
+  <FP_StartGrayingRatio>백발화 시작 시점: 기대 수명의 {0}%</FP_StartGrayingRatio>
+  <FP_StartGrayingRatioTooltip>흰머리가 나타나기 시작하는 기대 수명 비율입니다. 인간의 기대 수명을 80세로 볼 때, 45%는 약 36세입니다.</FP_StartGrayingRatioTooltip>
+  <FP_GrayingYearlyRatio>완전한 백발까지: 기대 수명의 {0}%</FP_GrayingYearlyRatio>
+  <FP_GrayingYearlyRatioTooltip>흰머리가 진행되는 속도를 결정합니다. 25%일 경우 인간은 80세 무렵 완전히 백발이 됩니다. 값이 높을수록 변화 속도는 느려집니다.</FP_GrayingYearlyRatioTooltip>
+</LanguageData>
