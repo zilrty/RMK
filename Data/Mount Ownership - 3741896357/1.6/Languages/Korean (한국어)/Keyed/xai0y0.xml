@@ -14,8 +14,72 @@
   <CompanionMounts_RimHUD_Label_Previous>이전</CompanionMounts_RimHUD_Label_Previous>
   <CompanionMounts_RimHUD_Tooltip_Previous>이전 탈것 소유자: {0}</CompanionMounts_RimHUD_Tooltip_Previous>
   <CompanionMounts_Inspect_Label_PreviousOwner>이전 소유자</CompanionMounts_Inspect_Label_PreviousOwner>
+  <CompanionMounts_RimHUD_Label_FormerOwner>전 소유자</CompanionMounts_RimHUD_Label_FormerOwner>
   <CompanionMounts_Inspect_TrustBarLabel>신뢰도: {0}</CompanionMounts_Inspect_TrustBarLabel>
   <CompanionMounts_Inspect_TrustTooltip>신뢰도 레벨: {0}
 신뢰도 경험치: {1} / {2}</CompanionMounts_Inspect_TrustTooltip>
   <CompanionMounts_Inspect_TrustLevelProgress>신뢰도: 레벨 {0} ({1}%)</CompanionMounts_Inspect_TrustLevelProgress>
+  <CompanionMounts_StatPart_MountTrustMoveSpeed>탈것 신뢰도: +{0}칸/초</CompanionMounts_StatPart_MountTrustMoveSpeed>
+  <CompanionMounts_SettingsCategory>- Mount Ownership -</CompanionMounts_SettingsCategory>
+  <CompanionMounts_Common_None>없음</CompanionMounts_Common_None>
+  <CompanionMounts_Common_Off>끔</CompanionMounts_Common_Off>
+  <CompanionMounts_Common_Reset>초기화</CompanionMounts_Common_Reset>
+  <CompanionMounts_Setting_UsePreferredMateSystem>선호 종마 배정 사용</CompanionMounts_Setting_UsePreferredMateSystem>
+  <CompanionMounts_Setting_UsePreferredMateSystem_Tip>활성화하면 암컷 동물에게 선호 종마를 배정할 수 있습니다. 배정된 암말은 지정된 종마와만 교미하며, 배정되지 않은 동물은 바닐라 교미 행동을 유지합니다.</CompanionMounts_Setting_UsePreferredMateSystem_Tip>
+  <CompanionMounts_Setting_PreferredMateEnabledMessage>선호 종마 배정을 활성화했습니다. 지원되는 동물 탭에 종마 열이 추가되었습니다.</CompanionMounts_Setting_PreferredMateEnabledMessage>
+  <CompanionMounts_Setting_PreferredMateDisabledMessage>선호 종마 배정을 비활성화했습니다. 지원되는 동물 탭에서 종마 열이 제거되었습니다.</CompanionMounts_Setting_PreferredMateDisabledMessage>
+  <CompanionMounts_Setting_AssignedMountAutoMountDistance>배정된 탈것의 최소 이동 거리: {0}칸</CompanionMounts_Setting_AssignedMountAutoMountDistance>
+  <CompanionMounts_Setting_AssignedMountMaxPickupDistance>배정된 탈것의 최대 픽업 거리: {0}칸</CompanionMounts_Setting_AssignedMountMaxPickupDistance>
+  <CompanionMounts_Setting_UseTrustSystem>탈것 신뢰 시스템 사용</CompanionMounts_Setting_UseTrustSystem>
+  <CompanionMounts_Setting_UseTrustSystem_Tip>비활성화하면 탈것 신뢰 경험치, 신뢰 보너스, 신뢰 관련 기분 생각, 사망 기억 및 신뢰 HUD 표시가 작동하지 않습니다. 기존 신뢰 진행도는 유지됩니다.</CompanionMounts_Setting_UseTrustSystem_Tip>
+  <CompanionMounts_Setting_TrustXpForLevel10>10레벨 달성에 필요한 신뢰 경험치: {0}</CompanionMounts_Setting_TrustXpForLevel10>
+  <CompanionMounts_Setting_TrustCurve>신뢰도 곡선: {0}</CompanionMounts_Setting_TrustCurve>
+  <CompanionMounts_Setting_TrustMountedTravelXpPerTick>탑승 이동 시 틱당 신뢰 경험치: {0}</CompanionMounts_Setting_TrustMountedTravelXpPerTick>
+  <CompanionMounts_Setting_TrustLeisureRideMultiplier>여가 승마 신뢰 배율: {0}배</CompanionMounts_Setting_TrustLeisureRideMultiplier>
+  <CompanionMounts_Setting_TrustFeedDownedMountXp>쓰러진 탈것 먹이 주기 신뢰 경험치: {0}</CompanionMounts_Setting_TrustFeedDownedMountXp>
+  <CompanionMounts_Setting_TrustRescueMountXp>탈것 구조 신뢰 경험치: {0}</CompanionMounts_Setting_TrustRescueMountXp>
+  <CompanionMounts_Setting_TrustRescueMountMultiplier>구조 신뢰 배율: {0}배</CompanionMounts_Setting_TrustRescueMountMultiplier>
+  <CompanionMounts_Setting_TrustWildnessSlowdownStrength>야생성 경험치 둔화 강도: {0}</CompanionMounts_Setting_TrustWildnessSlowdownStrength>
+  <CompanionMounts_Setting_TrustMaxMountingTimeReduction>신뢰도 10레벨 탑승 시간 단축: {0}%</CompanionMounts_Setting_TrustMaxMountingTimeReduction>
+  <CompanionMounts_Setting_TrustMoveSpeedBonusLevel4>신뢰도 4레벨 이동 속도 보너스: +{0}칸/초</CompanionMounts_Setting_TrustMoveSpeedBonusLevel4>
+  <CompanionMounts_Setting_TrustMoveSpeedBonusLevel8>신뢰도 8레벨 이동 속도 보너스: +{0}칸/초</CompanionMounts_Setting_TrustMoveSpeedBonusLevel8>
+  <CompanionMounts_Setting_TrustMoveSpeedBonusLevel10>신뢰도 10레벨 이동 속도 보너스: +{0}칸/초</CompanionMounts_Setting_TrustMoveSpeedBonusLevel10>
+  <CompanionMounts_Setting_AutoInjectRimHudRows>RimHUD에 탈것 소유권 행 자동 추가</CompanionMounts_Setting_AutoInjectRimHudRows>
+  <CompanionMounts_Setting_AutoInjectRimHudRows_Tip>비활성화하면 탈것 소유권의 RimHUD 값은 수동 배치용으로 계속 사용할 수 있으며, 다른 모드가 선호하는 HUD 위치에 강제로 배치되지 않습니다.</CompanionMounts_Setting_AutoInjectRimHudRows_Tip>
+  <CompanionMounts_Setting_MountNamePools>탈것 이름 목록</CompanionMounts_Setting_MountNamePools>
+  <CompanionMounts_Setting_NamePoolSimple>간단한 이름</CompanionMounts_Setting_NamePoolSimple>
+  <CompanionMounts_Setting_NamePoolMedieval>중세풍 이름</CompanionMounts_Setting_NamePoolMedieval>
+  <CompanionMounts_Setting_NamePoolRoman>로마풍 이름</CompanionMounts_Setting_NamePoolRoman>
+  <CompanionMounts_Setting_NamePoolFrontier>개척지풍 이름</CompanionMounts_Setting_NamePoolFrontier>
+  <CompanionMounts_Setting_NamePoolMythic>신화풍 이름</CompanionMounts_Setting_NamePoolMythic>
+  <CompanionMounts_Setting_NamePoolCosmic>우주풍 이름</CompanionMounts_Setting_NamePoolCosmic>
+  <CompanionMounts_Setting_NamePoolRequiredMessage>탈것 이름 목록을 하나 이상 활성화해야 합니다.</CompanionMounts_Setting_NamePoolRequiredMessage>
+  <CompanionMounts_Setting_MountedJobPermissions>탑승 중 작업 허용 설정</CompanionMounts_Setting_MountedJobPermissions>
+  <CompanionMounts_Setting_MountedJobPermission_Tip>이 작업을 하는 동안 Giddy-Up이 정착민을 탑승 상태로 유지하도록 허용합니다.</CompanionMounts_Setting_MountedJobPermission_Tip>
+  <CompanionMounts_Setting_MountedJob_RopeToPen>동물을 우리로 끌고 가기</CompanionMounts_Setting_MountedJob_RopeToPen>
+  <CompanionMounts_Setting_MountedJob_Strip>옷 벗기기</CompanionMounts_Setting_MountedJob_Strip>
+  <CompanionMounts_Setting_MountedJob_Dismount>하차</CompanionMounts_Setting_MountedJob_Dismount>
+  <CompanionMounts_Setting_MountedJob_Hunt>사냥</CompanionMounts_Setting_MountedJob_Hunt>
+  <CompanionMounts_Setting_MountedJob_ReleasePrisoner>죄수 석방</CompanionMounts_Setting_MountedJob_ReleasePrisoner>
+  <CompanionMounts_Setting_MountedJob_EscortPrisonerToBed>죄수를 침대로 호송</CompanionMounts_Setting_MountedJob_EscortPrisonerToBed>
+  <CompanionMounts_Setting_MountedJob_TakeWoundedPrisonerToBed>부상당한 죄수를 침대로 운반</CompanionMounts_Setting_MountedJob_TakeWoundedPrisonerToBed>
+  <CompanionMounts_Setting_MountedJob_Arrest>체포</CompanionMounts_Setting_MountedJob_Arrest>
+  <CompanionMounts_Setting_MountedJob_DeliverFood>음식 배달</CompanionMounts_Setting_MountedJob_DeliverFood>
+  <CompanionMounts_Setting_MountedJob_HaulToContainer>자원을 보관함/청사진/건설틀로 운반</CompanionMounts_Setting_MountedJob_HaulToContainer>
+  <CompanionMounts_Setting_MountedJob_GiveToPawn>물품 기부</CompanionMounts_Setting_MountedJob_GiveToPawn>
+  <CompanionMounts_Setting_MountedJob_EmptyThingContainer>상자 약탈/열기</CompanionMounts_Setting_MountedJob_EmptyThingContainer>
+  <CompanionMounts_Setting_MountedJob_SlaveEmancipation>노예 해방</CompanionMounts_Setting_MountedJob_SlaveEmancipation>
+  <CompanionMounts_Setting_MountedJob_PrisonerEnslave>죄수를 노예로 만들기</CompanionMounts_Setting_MountedJob_PrisonerEnslave>
+  <CompanionMounts_Setting_MountedJob_PrisonerReduceWill>죄수에게 족쇄 채우기/의지 감소</CompanionMounts_Setting_MountedJob_PrisonerReduceWill>
+  <CompanionMounts_Setting_MountedJob_SlaveSuppress>노예 억압</CompanionMounts_Setting_MountedJob_SlaveSuppress>
+  <CompanionMounts_Setting_MountedJob_ReleaseEntity>개체 방출</CompanionMounts_Setting_MountedJob_ReleaseEntity>
+  <CompanionMounts_Column_AssignRider_Tip>클릭하여 기승자를 배정합니다.
+클릭한 채 드래그하면 이 기승자 배정을 다른 동물에게 복사합니다.</CompanionMounts_Column_AssignRider_Tip>
+  <CompanionMounts_Column_Borrowable_Tip>클릭하여 대여 가능 여부를 전환합니다.
+클릭한 채 드래그하면 이 설정을 다른 동물에게 복사합니다.</CompanionMounts_Column_Borrowable_Tip>
+  <CompanionMounts_Message_AssignedRider>{0}(을)를 {1}에게 배정했습니다.</CompanionMounts_Message_AssignedRider>
+  <CompanionMounts_PreferredMate_NoValidStallions>배정 가능한 유효한 종마가 없습니다.</CompanionMounts_PreferredMate_NoValidStallions>
+  <CompanionMounts_CaravanOwner_Tip>탈것 소유자: {0}</CompanionMounts_CaravanOwner_Tip>
+  <CompanionMounts_Message_TrustLevelGained>{0}(와)과 {1}의 신뢰도가 {2}레벨에 도달했습니다.</CompanionMounts_Message_TrustLevelGained>
+  <CompanionMounts_Message_MountNamed>{0}(이)가 {1}에게 "{2}"(이)라는 이름을 지어 주었습니다.</CompanionMounts_Message_MountNamed>
 </LanguageData>

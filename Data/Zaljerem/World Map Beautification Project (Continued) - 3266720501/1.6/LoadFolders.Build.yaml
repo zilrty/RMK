@@ -1,0 +1,17 @@
+BuildRule:
+  Binding:
+    PackageID: ["zal.wmbp"]
+    Mode: "None"
+    Dependency: "Independent"
+  Order:
+    After: 
+    Before: 
+  Version:
+    Default: "1.6"
+    LeftBoundary: 
+    RightBoundary: 
+    Designate: 
+    Ban: 
+Metadata:
+  WorkshopID: "3266720501"
+  ModName: "World Map Beautification Project (Continued)"
