@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ogam_GuildCloth.label>마법 아카데미 옷감</Ogam_GuildCloth.label>
+  <Ogam_GuildCloth.description>유기 섬유로 짠 천입니다.</Ogam_GuildCloth.description>
+  <RF_RubbleShardsRF_Amber.label>호박 조각</RF_RubbleShardsRF_Amber.label>
+  <RF_AmberFire.label>호박 불꽃</RF_AmberFire.label>
+  <Ogam_Caster_plate_armorA.label>경량 시전자 판금 갑옷</Ogam_Caster_plate_armorA.label>
+  <Ogam_Caster_plate_armorA.description>전장에서 시전자를 보호하기 위한 마법 장비 세트입니다.</Ogam_Caster_plate_armorA.description>
+  <Ogam_Caster_plate_armorB.label>경량 시전자 판금 갑옷</Ogam_Caster_plate_armorB.label>
+  <Ogam_Caster_plate_armorB.description>전장에서 시전자를 보호하기 위한 마법 장비 세트입니다.</Ogam_Caster_plate_armorB.description>
+  <Ogam_Guardian_plate_armor.label>수호자 판금 갑옷</Ogam_Guardian_plate_armor.label>
+  <Ogam_Guardian_plate_armor.description>기사를 최대한 보호하기 위한 튼튼한 판금 갑옷 세트입니다.</Ogam_Guardian_plate_armor.description>
+  <Ogam_RoyalCapeA.label>왕실 망토</Ogam_RoyalCapeA.label>
+  <Ogam_RoyalCapeA.description>전장에서 시전자를 보호하기 위한 마법 장비 세트입니다.</Ogam_RoyalCapeA.description>
+  <Ogam_RoyalCapeB.label>왕실 망토</Ogam_RoyalCapeB.label>
+  <Ogam_RoyalCapeB.description>전장에서 시전자를 보호하기 위한 마법 장비 세트입니다.</Ogam_RoyalCapeB.description>
+  <Ogam_Royal_guard_plate_armorVarA.label>왕실 판금 갑옷</Ogam_Royal_guard_plate_armorVarA.label>
+  <Ogam_Royal_guard_plate_armorVarA.description>몸과 영혼을 보호하는 왕실 판금 갑옷입니다.</Ogam_Royal_guard_plate_armorVarA.description>
+  <Ogam_Scout_padded_armorA.label>경량 정찰병 누비 갑옷</Ogam_Scout_padded_armorA.label>
+  <Ogam_Scout_padded_armorA.description>정찰병 장비 세트입니다.</Ogam_Scout_padded_armorA.description>
+  <Ogam_Scout_padded_armorB.label>경량 정찰병 누비 갑옷</Ogam_Scout_padded_armorB.label>
+  <Ogam_Scout_padded_armorB.description>정찰병 장비 세트입니다.</Ogam_Scout_padded_armorB.description>
+  <Ogam_SimpleCapeA.label>단순한 망토</Ogam_SimpleCapeA.label>
+  <Ogam_SimpleCapeA.description>낯선 이의 눈에 장비가 띄지 않도록 가리는 망토입니다.</Ogam_SimpleCapeA.description>
+  <Ogam_SimpleCapeB.label>단순한 망토</Ogam_SimpleCapeB.label>
+  <Ogam_SimpleCapeB.description>낯선 이의 눈에 장비가 띄지 않도록 가리는 망토입니다.</Ogam_SimpleCapeB.description>
+  <Ogam_Cloak.label>후드 망토</Ogam_Cloak.label>
+  <Ogam_Cloak.description>머리와 귀를 덮는 늘어진 후드입니다.</Ogam_Cloak.description>
+  <Ogam_CloakB.label>후드 망토</Ogam_CloakB.label>
+  <Ogam_CloakB.description>머리와 귀를 덮는 늘어진 후드입니다.</Ogam_CloakB.description>
+  <Ogam_GuardianHelmet.label>수호자 투구</Ogam_GuardianHelmet.label>
+  <Ogam_GuardianHelmet.description>안면 보호대가 없는 판금 투구입니다.</Ogam_GuardianHelmet.description>
+  <Ogam_WizzardHatA.label>마법사 모자</Ogam_WizzardHatA.label>
+  <Ogam_WizzardHatA.description>마법을 연구하고 수련하는 이들이 쓰는 전통적인 모자입니다.</Ogam_WizzardHatA.description>
+  <Ogam_WizzardHatB.label>마법사 모자</Ogam_WizzardHatB.label>
+  <Ogam_WizzardHatB.description>마법을 연구하고 수련하는 이들이 쓰는 전통적인 모자입니다.</Ogam_WizzardHatB.description>
+  <RF_MagicBolt_Ring_Amber.label>마법 부여된 에메랄드 반지 효과</RF_MagicBolt_Ring_Amber.label>
+  <RF_MagicBolt_Amber.label>호박 지팡이 효과</RF_MagicBolt_Amber.label>
+  <Ogam_MagicBolt_Amber.label>호박 마법 화살</Ogam_MagicBolt_Amber.label>
+  <Ogam_ShieldHeater_MagicalAcademy.label>히터 방패(마법 아카데미)</Ogam_ShieldHeater_MagicalAcademy.label>
+  <Ogam_RuneMusket.label>룬 머스킷</Ogam_RuneMusket.label>
+  <Ogam_RuneMusket.verbs.Verb_Shoot.label>룬 머스킷</Ogam_RuneMusket.verbs.Verb_Shoot.label>
+  <Ogam_RuneMortar.label>룬 핸드 모탈</Ogam_RuneMortar.label>
+  <Ogam_RuneMortar.verbs.Verb_Shoot.label>룬 핸드 모탈</Ogam_RuneMortar.verbs.Verb_Shoot.label>
+  <Ogam_RunePistol.label>룬 권총</Ogam_RunePistol.label>
+  <Ogam_RunePistol.verbs.Verb_Shoot.label>룬 권총</Ogam_RunePistol.verbs.Verb_Shoot.label>
+  <Ogam_AmberBanner.label>호박 깃발</Ogam_AmberBanner.label>
+  <Ogam_AmberLongsword.label>호박 장검</Ogam_AmberLongsword.label>
+  <Ogam_AmberWarHammer.label>호박 전투망치</Ogam_AmberWarHammer.label>
+  <Ogam_AmberSpear.label>호박 창</Ogam_AmberSpear.label>
+  <Ogam_AmberStaff.label>호박 지팡이</Ogam_AmberStaff.label>
+  <Ogam_AmberStaff.verbs.Verb_Shoot.label>호박 지팡이</Ogam_AmberStaff.verbs.Verb_Shoot.label>
+  <Ogam_AmberBook.label>호박 마법서</Ogam_AmberBook.label>
+  <Ogam_AmberBook.description>고대 호박 수지로 제작하고 강력한 마법을 불어넣은 희귀하고 강력한 비전 마법서입니다.</Ogam_AmberBook.description>
+  <Ogam_EmeraldBook.label>에메랄드 마법서</Ogam_EmeraldBook.label>
+  <Ogam_EmeraldBook.description>고대 에메랄드로 제작하고 강력한 마법을 불어넣은 희귀하고 강력한 비전 마법서입니다.</Ogam_EmeraldBook.description>
+  <Ogam_SapphireBook.label>사파이어 마법서</Ogam_SapphireBook.label>
+  <Ogam_SapphireBook.description>고대 사파이어로 제작하고 강력한 마법을 불어넣은 희귀하고 강력한 비전 마법서입니다.</Ogam_SapphireBook.description>
+  <Ogam_RubyBook.label>루비 마법서</Ogam_RubyBook.label>
+  <Ogam_RubyBook.description>고대 루비로 제작하고 강력한 마법을 불어넣은 희귀하고 강력한 비전 마법서입니다.</Ogam_RubyBook.description>
+  <Ogam_ShieldHeater_MagicalAcademy.description>가벼운 삼각형 방패로, 상당한 방어 범위를 제공하며 물리적 타격을 잘 막아 줍니다.</Ogam_ShieldHeater_MagicalAcademy.description>
+  <Ogam_ShieldHeater_MagicalAcademy.tools.base.label>밑부분</Ogam_ShieldHeater_MagicalAcademy.tools.base.label>
+  <Ogam_ShieldHeater_MagicalAcademy.tools.centre.label>중앙부</Ogam_ShieldHeater_MagicalAcademy.tools.centre.label>
+  <Ogam_RuneMusket.description>아름다우면서도 치명적인 이 지팡이에는 마력이 충전되어 있으며, 결투에서 뛰어난 효율을 발휘하는 강력한 무기입니다.
+
+방패는 시전자 주변의 마력 흐름을 방해하므로 이 무기와 함께 사용할 수 없습니다.</Ogam_RuneMusket.description>
+  <Ogam_RuneMusket.tools.limb.label>몸체</Ogam_RuneMusket.tools.limb.label>
+  <Ogam_RuneMortar.description>아름다우면서도 치명적인 이 지팡이에는 마력이 충전되어 있으며, 결투에서 뛰어난 효율을 발휘하는 강력한 무기입니다.
+
+방패는 시전자 주변의 마력 흐름을 방해하므로 이 무기와 함께 사용할 수 없습니다.</Ogam_RuneMortar.description>
+  <Ogam_RuneMortar.tools.limb.label>몸체</Ogam_RuneMortar.tools.limb.label>
+  <Ogam_RunePistol.description>아름다우면서도 치명적인 이 지팡이에는 마력이 충전되어 있으며, 결투에서 뛰어난 효율을 발휘하는 강력한 무기입니다.
+
+방패는 시전자 주변의 마력 흐름을 방해하므로 이 무기와 함께 사용할 수 없습니다.</Ogam_RunePistol.description>
+  <Ogam_RunePistol.tools.limb.label>몸체</Ogam_RunePistol.tools.limb.label>
+  <Ogam_AmberBanner.description>보석 끝이 달린 위엄 있는 장병기로, 갑옷을 입은 적도 꿰뚫을 수 있습니다.
+
+방패와 함께 사용할 수 있습니다.</Ogam_AmberBanner.description>
+  <Ogam_AmberBanner.tools.shaft.label>자루</Ogam_AmberBanner.tools.shaft.label>
+  <Ogam_AmberBanner.tools.point.label>끝</Ogam_AmberBanner.tools.point.label>
+  <Ogam_AmberLongsword.description>치명적인 목적을 지닌 면도날처럼 날카로운 검으로, 우아함과 힘의 균형을 추구하는 이들이 선호하는 무기입니다.
+
+방패와 함께 사용할 수 있습니다.</Ogam_AmberLongsword.description>
+  <Ogam_AmberLongsword.tools.handle.label>손잡이</Ogam_AmberLongsword.tools.handle.label>
+  <Ogam_AmberLongsword.tools.point.label>끝</Ogam_AmberLongsword.tools.point.label>
+  <Ogam_AmberLongsword.tools.edge.label>날</Ogam_AmberLongsword.tools.edge.label>
+  <Ogam_AmberWarHammer.description>장대에 마법 보석 덩어리를 달아, 갑옷을 입은 적도 산산이 부술 수 있습니다.
+
+방패와 함께 사용할 수 있습니다.</Ogam_AmberWarHammer.description>
+  <Ogam_AmberWarHammer.tools.handle.label>손잡이</Ogam_AmberWarHammer.tools.handle.label>
+  <Ogam_AmberWarHammer.tools.head.label>머리</Ogam_AmberWarHammer.tools.head.label>
+  <Ogam_AmberSpear.description>보석 끝이 달린 위엄 있는 장병기로, 갑옷을 입은 적도 꿰뚫을 수 있습니다.
+
+방패와 함께 사용할 수 있습니다.</Ogam_AmberSpear.description>
+  <Ogam_AmberSpear.tools.shaft.label>자루</Ogam_AmberSpear.tools.shaft.label>
+  <Ogam_AmberSpear.tools.point.label>끝</Ogam_AmberSpear.tools.point.label>
+  <Ogam_AmberStaff.description>아름다우면서도 치명적인 이 지팡이에는 마력이 충전되어 있으며, 적에게 마법 화살을 연속으로 퍼부을 수 있습니다.
+
+방패는 시전자 주변의 마력 흐름을 방해하므로 이 무기와 함께 사용할 수 없습니다.</Ogam_AmberStaff.description>
+  <Ogam_AmberStaff.tools.limb.label>몸체</Ogam_AmberStaff.tools.limb.label>
+  <Ogam_AmberBook.tools.band.label>띠</Ogam_AmberBook.tools.band.label>
+  <Ogam_AmberBook.verbs.Verb_LaunchProjectile.label>호박 마법서</Ogam_AmberBook.verbs.Verb_LaunchProjectile.label>
+  <Ogam_EmeraldBook.tools.band.label>띠</Ogam_EmeraldBook.tools.band.label>
+  <Ogam_EmeraldBook.verbs.Verb_LaunchProjectile.label>에메랄드 마법서</Ogam_EmeraldBook.verbs.Verb_LaunchProjectile.label>
+  <Ogam_SapphireBook.tools.band.label>띠</Ogam_SapphireBook.tools.band.label>
+  <Ogam_SapphireBook.verbs.Verb_LaunchProjectile.label>사파이어 마법서</Ogam_SapphireBook.verbs.Verb_LaunchProjectile.label>
+  <Ogam_RubyBook.tools.band.label>띠</Ogam_RubyBook.tools.band.label>
+  <Ogam_RubyBook.verbs.Verb_LaunchProjectile.label>루비 마법서</Ogam_RubyBook.verbs.Verb_LaunchProjectile.label>
+</LanguageData>
