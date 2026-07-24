@@ -913,6 +913,7 @@ NS9744567	Stoneborn - Faction Expansion	Data/DetVisor	det.stonebornfaction
 3261284554	Fallout Traits Continued	Data	Atlas.FalloutTraits
 2985719270	Fallout Vault 111 Starter Pack	Data	Phaneron.Vault111Startpack
 3698779894	Family Relations Adoption	Data	Rycon.FamilyRelationsAdoption
+3762272269	Family Tree	Data	lucius.familytree
 3632363090	Fantasy Biotech	Data	vr.fantasy.biotech
 2011680079	Fantasy Goblins Updated	Data	Barsimmon.OriginalByVagabond.FantasyGoblins
 2936850549	Fantasy Metals Reforged - Forked	Data	zav.fantasymetals_forked
@@ -1202,7 +1203,6 @@ NS9744567	Stoneborn - Faction Expansion	Data/DetVisor	det.stonebornfaction
 3233429182	Integrated Creep Joiners	Data	GrillMaster.integratedcreepjoiners
 2884115974	Integrated Genes	Data	Turnovus.Biotech.IntegratedGenes
 2888056643	Integrated Xenotypes	Data	Turnovus.Biotech.IntegratedXenotypes
-3498422643	Intimacy - Friends n' Lovers - 3498422643	Data	LovelyDovey.Sex.WithEuterpe
 3498422643	Intimacy - Friends n' Lovers	Data	LovelyDovey.Sex.WithEuterpe
 3630896210	Intimacy - Socio Butterfly	Data	LovelyDovey.Recreation.WithEuterpe
 3690087113	Inventory Management	Data	helldan.inventorymanagement
@@ -1432,6 +1432,7 @@ NS9744567	Stoneborn - Faction Expansion	Data/DetVisor	det.stonebornfaction
 2832791141	Medieval Overhaul - pphhyy's Demigryphs Leather Patch	Data	huppias.medoverhaul.pphhyydemigryphs
 3425601715	Medieval Overhaul Adaptive Storage	Data	EEG.MOxASF
 2931612599	Medieval Overhaul Arcane Archaeologists	Data	ogam.medievaloverhaul.arcanearchaeologists
+3573374885	Medieval Overhaul: Arcane Archaeologists (Continued)	Data	JoeOwnage.MedievalOverhaul.ArcaneArchaeologists
 2967087032	Medieval Overhaul Extra Signs	Data	mewn.extra.signs
 3712538846	Medieval Overhaul House Ignivar	Data	BigT.HouseIgnivar
 3254890432	Medieval Overhaul House Roxmont	Data	DankPyon.Medieval.Overhaul.House.Roxmont
@@ -2029,6 +2030,7 @@ NS4560751	Overt Underwear	Data	abscon.overt.underwear
 3224462440	Quality Colors 1.5 - Forked	Data	tr.qualcolor
 2568283376	Quality Overlay	Data	telardo.QualityOverlay
 754637870	QualityBuilder	Data	hatti.qualitybuilder
+3512466087	QualityBuilder Unofficial 1.6	Data	hatti.qualitybuilder
 3223161787	Quasimorph - Main	Data	SGG1.QM
 3671944718	Quasimorph - Private military armoury	Data	SGG1.QPMA
 3673281876	Quasimorph - Realware™ armoury	Data	SGG1.QRA.V2
@@ -2954,6 +2956,7 @@ NS2879064	Save Cleaner	Data	taranchuk.savecleaner
 2958391802	Tribal Jewelry (Continued)	Data/Zaljerem	zal.tribaljewelry
 3171145240	Valkyrie Mech (Continued)	Data/Zaljerem	zal.valkyriemech
 3283745385	Wall Vitals Monitor (Continued)	Data/Zaljerem	zal.wallvitalsmonitor
+3266720501	World Map Beautification Project (Continued)	Data/Zaljerem	zal.wmbp
 3679396881	Zoology Realistic Animal Overhaul	Data	com.abobashark.zoologymod
 2285163237	Zorg ZF1	Data	chefboyjc.zorgzf1
 3000770956	Childhood Backstories	Data/Zylleon	zylle.ChildboodBackstories

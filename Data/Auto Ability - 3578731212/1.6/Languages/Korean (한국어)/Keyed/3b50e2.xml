@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Paste>붙여넣기</Paste>
+  <Copy>복사</Copy>
+  <AutoCastMode>자동 사용 모드</AutoCastMode>
+  <AutoTypeNone>사용 안 함</AutoTypeNone>
+  <AutoTypeCooldown>재사용 대기시간 후 사용</AutoTypeCooldown>
+  <AutoTypeTimely>주기적으로 사용</AutoTypeTimely>
+  <UnknownType>알 수 없음</UnknownType>
+  <IntervalUnit>간격 단위</IntervalUnit>
+  <Hours>시간</Hours>
+  <Days>일</Days>
+  <CurrentInterval>현재 간격</CurrentInterval>
+  <StopIfHasWindow>창이 표시되는 경우 사용하지 않음</StopIfHasWindow>
+  <StopIfHasWindowTooltip>예: "흡혈 후 정착민이 사망합니다" 창</StopIfHasWindowTooltip>
+  <UseWhenDrafted>징집 중 사용</UseWhenDrafted>
+  <UseWhenReact>반격 시 사용</UseWhenReact>
+  <UseWhenDaily>일상생활에서 사용</UseWhenDaily>
+  <OnlyOnNoHediff>능력 관련 상태이상이 없는 대상에게만 사용</OnlyOnNoHediff>
+  <ApplyToEnemy>서 있는 적에게 사용</ApplyToEnemy>
+  <ApplyToDownedEnemy>쓰러진 적에게 사용</ApplyToDownedEnemy>
+  <ApplyToWildAnimal>야생동물에게 사용</ApplyToWildAnimal>
+  <ApplyToAlly>우호적인 정착민에게 사용</ApplyToAlly>
+  <ApplyToFriendMech>우호적인 메카노이드에게 사용</ApplyToFriendMech>
+  <ApplyToPrisoner>죄수에게 사용</ApplyToPrisoner>
+  <ApplyToSelf>자신에게 사용</ApplyToSelf>
+  <AutoPreventAlly>광역 능력 사용 시 아군 회피</AutoPreventAlly>
+  <MinUseDistance>최소 조준 거리</MinUseDistance>
+  <MaxUseDistance>최대 조준 거리</MaxUseDistance>
+  <Priority>우선순위</Priority>
+  <Setting>설정</Setting>
+  <SettingsWindowSize>능력 설정 창 크기</SettingsWindowSize>
+  <Width>너비</Width>
+  <Height>높이</Height>
+  <SettingsButton>설정 버튼</SettingsButton>
+  <SettingsButtonTooltip>활성화하면 능력 목록의 모든 설정 버튼을 숨길 수 있습니다.</SettingsButtonTooltip>
+  <HideAutoSkillSettings>자동 능력 설정 숨기기</HideAutoSkillSettings>
+  <原版游戏中范围技能可以对无效目标释放>바닐라 게임에서는 범위 능력을 유효하지 않은 대상에게 사용할 수 있습니다.</原版游戏中范围技能可以对无效目标释放>
+  <NotOnInvalid>초능력인 경우 유효하지 않은 대상 회피</NotOnInvalid>
+  <OnlyInAllowedArea>허용 구역 내 대상에게만 사용</OnlyInAllowedArea>
+  <FixStuck>이 대상에 대한 멈춤 현상 수정 시도</FixStuck>
+  <CurrentTarget>현재 대상</CurrentTarget>
+  <CurrentBuilding>현재 건물</CurrentBuilding>
+  <CurrentCell>현재 셀</CurrentCell>
+  <FixedTargetHint>추가 대상. 이것만 대상으로 삼으려면 이전 블록의 옵션을 선택하지 마세요.</FixedTargetHint>
+  <ClearTarget>대상 지우기</ClearTarget>
+  <None>없음</None>
+  <RightClickClear>우클릭하여 지우기</RightClickClear>
+  <AddTarget>대상 추가</AddTarget>
+  <Delete>삭제</Delete>
+  <CloseButton>닫기</CloseButton>
+  <Skill>능력</Skill>
+</LanguageData>

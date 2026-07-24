@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ogam_MagicalAcademy.label>비전 고고학자</Ogam_MagicalAcademy.label>
+  <Ogam_MagicalAcademy.description>비전 고고학자는 고대의 마법 유물과 폐허를 발굴하고 보존하는 데 특화된 마법 사용자와 전사들의 길드입니다. 이들은 마법이 깃든 장비로 자신과 발견물을 지키며, 수집품에 더할 새롭고 강력한 유물을 찾아다닙니다. 초보자, 마법사, 전사 모두 이 세력에서 환영받으며, 비전 고고학자들의 공동 지식을 배우고 보태게 됩니다.</Ogam_MagicalAcademy.description>
+  <Ogam_MagicalAcademy.fixedName>마법 아카데미</Ogam_MagicalAcademy.fixedName>
+  <Ogam_MagicalAcademy.pawnSingular>구성원</Ogam_MagicalAcademy.pawnSingular>
+  <Ogam_MagicalAcademy.pawnsPlural>구성원들</Ogam_MagicalAcademy.pawnsPlural>
+  <Ogam_MagicalAcademy.leaderTitle>지도자</Ogam_MagicalAcademy.leaderTitle>
+</LanguageData>

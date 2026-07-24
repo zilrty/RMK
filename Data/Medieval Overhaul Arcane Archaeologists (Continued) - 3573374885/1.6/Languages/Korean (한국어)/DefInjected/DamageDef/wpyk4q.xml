@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RF_MagicBolt_AmberRing.label>마법 화살</RF_MagicBolt_AmberRing.label>
+  <RF_MagicBolt_AmberRing.deathMessage>{0}(이)가 마법 공격에 쓰러졌습니다.</RF_MagicBolt_AmberRing.deathMessage>
+  <RF_Flame_SmallSquareRF_Amber.label>마력 화상</RF_Flame_SmallSquareRF_Amber.label>
+  <RF_Flame_SmallSquareRF_Amber.deathMessage>{0}(이)가 마력에 불타 죽었습니다.</RF_Flame_SmallSquareRF_Amber.deathMessage>
+</LanguageData>

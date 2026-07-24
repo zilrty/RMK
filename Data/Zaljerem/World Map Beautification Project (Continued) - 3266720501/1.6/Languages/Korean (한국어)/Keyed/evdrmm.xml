@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WMBP_ModName>- World Map Beautification Project -</WMBP_ModName>
+  <WMBP_Enabled>WMBP 활성화</WMBP_Enabled>
+  <WMBP_ToggleWorldMapBeautification>WMBP 전환</WMBP_ToggleWorldMapBeautification>
+  <WMBP_DisplayDefault>생물군계가 WMBP으로 설정되지 않은 경우 기본 텍스처 표시</WMBP_DisplayDefault>
+</LanguageData>

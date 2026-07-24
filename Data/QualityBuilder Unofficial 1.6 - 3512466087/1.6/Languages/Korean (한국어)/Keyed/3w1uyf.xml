@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QualityBuilder>품질 건축가</QualityBuilder>
+  <QualityBuilderCommand.Label>품질 건축가</QualityBuilderCommand.Label>
+  <QualityBuilderOn.Label>품질 건축가 설정</QualityBuilderOn.Label>
+  <QualityBuilderOn.Desc>현재 품질: {0}. 숙련된 작업자용 건물로 설정</QualityBuilderOn.Desc>
+  <QualityBuilderOff.Label>품질 건축가 설정 해제</QualityBuilderOff.Label>
+  <QualityBuilderOff.Desc>현재 품질: {0}. 숙련된 작업자용 건물 설정 해제</QualityBuilderOff.Desc>
+  <QualityBuilder.SelectedSettings>선택한 설정</QualityBuilder.SelectedSettings>
+  <QualityBuilder.SelectedSettingsHint>기본 설정과 현재 지도 전용 설정을 전환하려면 클릭하세요.</QualityBuilder.SelectedSettingsHint>
+  <QualityBuilder.CurrentMap>현재 지도</QualityBuilder.CurrentMap>
+  <QualityBuilder.Global>기본 설정</QualityBuilder.Global>
+  <QualityBuilder.EnableByDefault>기본적으로 QualityBuilder 활성화</QualityBuilder.EnableByDefault>
+  <QualityBuilder.IgnoreAtSkill>기술 {0}에서는 QualityBuilder 무시</QualityBuilder.IgnoreAtSkill>
+  <QualityBuilder.MinSkill>고품질 건축에는 건설 기술 {0}이 필요합니다(최고 건축가: {1})</QualityBuilder.MinSkill>
+  <QualityBuilder.MinSkillDiff>최고 건축가보다 최대 {0} 기술 레벨 낮은 건축가 허용</QualityBuilder.MinSkillDiff>
+  <QualityBuilder.MinQuality>기본 최소 품질</QualityBuilder.MinQuality>
+  <QualityBuilder.OverrideBestBuilder>최고 건축가를 다음으로 대체</QualityBuilder.OverrideBestBuilder>
+  <QualityBuilder.UseMapSettings>이 지도 설정 사용(끔 = 기본 설정 사용)</QualityBuilder.UseMapSettings>
+  <QualityBuilder.MaxRebuildAttempts>재건축 {0}회 실패 후 포기(∞ = 포기하지 않음)</QualityBuilder.MaxRebuildAttempts>
+  <QualityBuilder.RebuildGaveUp>QualityBuilder가 {0}(을)를 {1}회 재건축한 뒤 포기했습니다(마지막 품질: {2}). 건물은 유지되었습니다. 이 제한은 모드 설정에서 변경할 수 있습니다.</QualityBuilder.RebuildGaveUp>
+</LanguageData>
