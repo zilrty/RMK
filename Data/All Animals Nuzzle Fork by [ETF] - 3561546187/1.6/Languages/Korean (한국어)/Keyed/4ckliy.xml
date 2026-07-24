@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AllAnimalsNuzzle_UI_Title>모든 동물 애교 설정</AllAnimalsNuzzle_UI_Title>
-  <AllAnimalsNuzzle_UI_Subtitle>애교를 부릴 수 있는 동물에게 '위로' 훈련을 자동으로 추가하여 더 자주 애교를 부리고 정착지 분위기를 북돋습니다.</AllAnimalsNuzzle_UI_Subtitle>
   <AllAnimalsNuzzle_UI_Subtitle_Comfort>대상 동물에게 '위로' 훈련을 자동으로 추가합니다(오디세이 DLC 필요). 동물이 다정한 행동을 배울 수 있도록 설정합니다.</AllAnimalsNuzzle_UI_Subtitle_Comfort>
   <AllAnimalsNuzzle_UI_Subtitle_Nuzzled>바닐라 '애교 받음' 생각의 지속 시간, 중첩, 단계별 기분 보너스를 조정합니다.</AllAnimalsNuzzle_UI_Subtitle_Nuzzled>
   <AllAnimalsNuzzle_UI_Tab_Comfort>위로</AllAnimalsNuzzle_UI_Tab_Comfort>
@@ -19,8 +18,15 @@
 비활성화하면 이 모드가 추가한 항목만 제거하고, 가능한 경우 원래 상태로 복원합니다.</AllAnimalsNuzzle_UI_Enable_Tooltip_Long>
   <AllAnimalsNuzzle_UI_EnableLogging_Label>화면에 작업 메시지 표시</AllAnimalsNuzzle_UI_EnableLogging_Label>
   <AllAnimalsNuzzle_UI_EnableLogging_Tooltip>활성화하면 모드가 '위로'를 추가하거나 되돌릴 때 화면에 짧은 메시지를 표시합니다. 디버깅에 유용합니다.</AllAnimalsNuzzle_UI_EnableLogging_Tooltip>
-  <AllAnimalsNuzzle_UI_TrackedHeading>추적된 변경 사항: (이 모드가 변경한 내용)</AllAnimalsNuzzle_UI_TrackedHeading>
+  <AllAnimalsNuzzle_UI_TrackedHeading>추적된 변경 사항</AllAnimalsNuzzle_UI_TrackedHeading>
   <AllAnimalsNuzzle_UI_None>없음</AllAnimalsNuzzle_UI_None>
+  <AllAnimalsNuzzle_UI_ExpandAll>모두 펼치기</AllAnimalsNuzzle_UI_ExpandAll>
+  <AllAnimalsNuzzle_UI_CollapseAll>모두 접기</AllAnimalsNuzzle_UI_CollapseAll>
+  <AllAnimalsNuzzle_UI_Filter>필터:</AllAnimalsNuzzle_UI_Filter>
+  <AllAnimalsNuzzle_UI_Clear>x</AllAnimalsNuzzle_UI_Clear>
+  <AllAnimalsNuzzle_UI_NoTrackedChanges>필터와 일치하는 추적된 Def 수정 사항이 없습니다.</AllAnimalsNuzzle_UI_NoTrackedChanges>
+  <AllAnimalsNuzzle_UI_Show>표시</AllAnimalsNuzzle_UI_Show>
+  <AllAnimalsNuzzle_UI_Hide>숨기기</AllAnimalsNuzzle_UI_Hide>
   <AllAnimalsNuzzle_UI_Message_Enabled>AllAnimalsNuzzle: 해당하는 동물에게 '위로' 훈련 항목을 추가했습니다.</AllAnimalsNuzzle_UI_Message_Enabled>
   <AllAnimalsNuzzle_UI_Message_Disabled>AllAnimalsNuzzle: 이전에 추가한 '위로' 훈련 항목을 가능한 범위에서 제거했습니다.</AllAnimalsNuzzle_UI_Message_Disabled>
   <AllAnimalsNuzzle_Method_CreatedList>훈련 항목 목록을 생성하고 '위로'를 추가함</AllAnimalsNuzzle_Method_CreatedList>
